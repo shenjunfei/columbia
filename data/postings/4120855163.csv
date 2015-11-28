@@ -1,0 +1,7 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,667639042796855296,Fri Nov 20 09:42:06 +0000 2015,0,0,"@JavaScriptDaily check out https://t.co/O86YztHyrS: a full-stack boilerplate based on #React, #Node and @SequelizeJS"
+1,666772782961860609,Wed Nov 18 00:19:54 +0000 2015,0,0,Join the chat room on Gitter for starhackit: https://t.co/ggmt8g4Fpg
+2,666405202141028356,Mon Nov 16 23:59:16 +0000 2015,1,0,"Automated deployment with @ansible for https://t.co/O86YztHyrS, boilerplate with #postgresql,  #node, #rabbitmq and #nginx"
+3,666401453888692227,Mon Nov 16 23:44:22 +0000 2015,0,0,"@postgresql support with @SequelizeJS for https://t.co/O86YztHyrS, #nonosql"
+4,663819284926341121,Mon Nov 09 20:43:45 +0000 2015,1,13,"https://t.co/O86YztHyrS has now a @yeoman generator: https://t.co/7d2z7fp4K9. Create your @reactjs  and @nodejs app with ""yo starhackit"""
+5,663020345104932865,Sat Nov 07 15:49:03 +0000 2015,1,1,"https://t.co/O86YztHyrS : a full-stack starter kit in @reactjs, @nodejs, SQL data stored with @SequelizeJS,  deployed with @ansible"

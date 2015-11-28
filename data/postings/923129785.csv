@@ -1,0 +1,250 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668872343733846016,Mon Nov 23 19:22:48 +0000 2015,0,0,"Well, not really -&gt; https://t.co/vN9ObMzk57 #keynoteSpeakerLife ;) https://t.co/EQR5HaRTcL"
+1,668810633077522432,Mon Nov 23 15:17:35 +0000 2015,8,0,RT @wombling: Better news for developers: recommendation for extending S/4HANA is #saphcp and you can use other languages #SAPdev https://t…
+2,668798049771196416,Mon Nov 23 14:27:35 +0000 2015,0,0,"Hehe Chris, have you looked at #Java after-7? ;) https://t.co/AIJyKV1gsk"
+3,668797225926004736,Mon Nov 23 14:24:18 +0000 2015,2,0,"RT @wombling: #SAPdev whilst amusing to see 11.8C on stage this morning, this is a dev conf, we're not wearing suit jackets, can we turn ai…"
+4,668797045248040960,Mon Nov 23 14:23:35 +0000 2015,5,0,"RT @sufw: Really happy to hear SAP used existing platforms like Node.js and TomEE for HANA XSAS, rather than re-inventing the wheel. :-)"
+5,668788921984286721,Mon Nov 23 13:51:19 +0000 2015,0,0,"Maybe you should look at @cdispec, @arquillian_org and the use cases they address :)  https://t.co/cn8Xl78JVU"
+6,668560411214684160,Sun Nov 22 22:43:17 +0000 2015,9188,0,"RT @bhalp1: Sometimes when I'm writing Javascript I want to throw up my hands and say ""this is bullshit!"" but I can never remember what ""th…"
+7,668555143349186561,Sun Nov 22 22:22:21 +0000 2015,0,0,Of course you can! #saphcp  https://t.co/VDV3CfScbj
+8,668499787847704576,Sun Nov 22 18:42:24 +0000 2015,0,0,@ivan_stefanov @vihardabest е кат сте рекли :)
+9,668476021033852928,Sun Nov 22 17:07:57 +0000 2015,3,7,#jProfessionals by @bgjug #networking #beering https://t.co/vY9yqWDFsy
+10,668469749110743043,Sun Nov 22 16:43:02 +0000 2015,2,0,RT @bgjug: Thanks to all the speakers and attendees for coming to #jProfessionals. Stay tuned for the second edition in February!
+11,668459855972298752,Sun Nov 22 16:03:43 +0000 2015,3,2,"Thank you @bgjug, first edition of #jProfessionals was a huge success!!! Closing it in #JamesGosling style :) https://t.co/f0hzZyThbG"
+12,668455595129880576,Sun Nov 22 15:46:47 +0000 2015,1,2,Here's a reference to it: https://t.co/9jWkJtezRT #jProfessionals #reactive  https://t.co/ENbpmHd1UO
+13,668452184149860352,Sun Nov 22 15:33:14 +0000 2015,0,0,Two of my favorite things were in the same hotel today - #jProfessionals and the #CSKA football team. Should've taken a picture with both...
+14,668444911935610881,Sun Nov 22 15:04:20 +0000 2015,2,1,Last at #jProfessionals - “High Performance Reactive Programming with #Java 8 - #Reactor &amp; #RxJava” by Trayan Iliev https://t.co/LNmeIx21aj
+15,668431350903476224,Sun Nov 22 14:10:27 +0000 2015,0,2,"Unfortunately, this is how you switch to ""presentation mode"" in #Eclipse... https://t.co/azkRiuBb0Z"
+16,668429473809883136,Sun Nov 22 14:03:00 +0000 2015,1,1,#JavaFX past and present -- Doychin Bondzhev at #jProfessionals https://t.co/lGT9hjm2h3
+17,668411275928563712,Sun Nov 22 12:50:41 +0000 2015,3,0,“#Grails for bored #Java developers” by Emil Doychev #jProfessionals https://t.co/1v3kDjAPQZ
+18,668398932377133056,Sun Nov 22 12:01:38 +0000 2015,1,0,How to switch to #http2 ;) #jProfessionals https://t.co/3SXdvw91jh
+19,668390394120560641,Sun Nov 22 11:27:42 +0000 2015,3,3,25 years of #HTTP - from 0.9 to #HTTP2 -- @svetlinnakov at #jProfessionals by @bgjug https://t.co/ckBWyaFW0r
+20,668360293056122880,Sun Nov 22 09:28:06 +0000 2015,1,0,Писането на benchmark-ове е умряла работа - затова имаме #JMH в @OpenJDK -- @tsachev at #jProfessionals https://t.co/nOhF4kc4WC
+21,668352329310146560,Sun Nov 22 08:56:27 +0000 2015,1,1,#jenkins 2.0 support for containers e.g. #docker -- @kohsukekawa at #jProfessionals https://t.co/6cEoOsWZXZ
+22,668349660965281792,Sun Nov 22 08:45:51 +0000 2015,1,0,Come on @twitter how many times do I have to tweet about #jProfessionals in order to get that auto-complete??
+23,668348405056434176,Sun Nov 22 08:40:51 +0000 2015,1,1,"Another change just ""announced"" by @kohsukekawa at #jProfessionals: CloudBees -&gt; CloudBeers ;)"
+24,668346662255992832,Sun Nov 22 08:33:56 +0000 2015,3,0,"RT @hsilomedus: Kohsuke Kawaguchi: I was the guy who was usually braking the build, so I made Jenkins. #jProfessionals by @bgjug https://t.…"
+25,668346226295840768,Sun Nov 22 08:32:12 +0000 2015,2,0,RT @bgjug: Bulgarian Java community at the first #jProfessional mini conference https://t.co/Ffonw6XGVh
+26,668344553431257088,Sun Nov 22 08:25:33 +0000 2015,1,1,"https://t.co/W7wZlTPlmh -&gt; jenkins.io
+
+- workflow, pipeline as code, folders OOTB
+
+- new frontend dev method
+
+#jenkins 2.0 #jProfessionals"
+27,668343022124408832,Sun Nov 22 08:19:28 +0000 2015,1,1,#jenkins 2.0 needs to and will be evolutionary rather than disruptive change -- @kohsukekawa at #jProfessionals
+28,668341086281158656,Sun Nov 22 08:11:46 +0000 2015,6,0,RT @ivan_stefanov: .@kohsukekawa opened the first #jProfessionals conference by @bgjug https://t.co/Tyqp6vPX5w
+29,668336589018374144,Sun Nov 22 07:53:54 +0000 2015,0,0,@sufw @grassl thanks. Looks very interesting!
+30,668330920714371076,Sun Nov 22 07:31:23 +0000 2015,0,0,@grassl @sufw what's it about?
+31,668325797262938112,Sun Nov 22 07:11:01 +0000 2015,0,2,@ivaylo_zashev @ivan_stefanov The A in CSKA stands for agile :)
+32,668309548898324480,Sun Nov 22 06:06:27 +0000 2015,16,0,"RT @KentBeck: ""May you live to see all your cliches become obsolete"" not sure if blessing or curse"
+33,668308310756622336,Sun Nov 22 06:01:32 +0000 2015,2,1,Closing the season in the same style as opening it - with a conference by @bgjug #jPrime -&gt; #jProfessionals
+34,668190338448773120,Sat Nov 21 22:12:45 +0000 2015,0,0,"@ivaylo_zashev @ivan_stefanov well, this time even I'm satisfied with their win :)"
+35,668150564597964800,Sat Nov 21 19:34:42 +0000 2015,0,0,"Great Saturday - fantastic wins for @ManUtd &amp; @FCBarcelona, #epicfail for Shitty &amp; Assenal. #GloryGloryManUnited #MesQueUnClub #ElClasico"
+36,668143212373155840,Sat Nov 21 19:05:29 +0000 2015,95,0,RT @UltraSuristic: Iniesta follows in the footsteps of Ronaldinho at the Bernabeu. #ElClasico https://t.co/8lhiqdFVNr
+37,668140299630301184,Sat Nov 21 18:53:55 +0000 2015,66,0,RT @HuffPostSports: What people watching #ElClasico are saying right now... https://t.co/mnpeNdiHMU
+38,668074578476974080,Sat Nov 21 14:32:46 +0000 2015,0,1,@TheEconomist America is a continent(s)! And according to the chart there're ~1.7 billion users in the U.S. - you alright?! // @evilyeti
+39,668005751680606208,Sat Nov 21 09:59:16 +0000 2015,0,1,"Always two there are, no more, no less.
+@Devoxx &amp; @SAPTechEd.
+@ISTA_Conference &amp; @SAPAusUserGroup.
+#jProfessionals &amp; #sitNL"
+40,667960871717613568,Sat Nov 21 07:00:56 +0000 2015,0,0,@fredverheul @jpenninkhof #RunSimple you know :)
+41,667959344701526017,Sat Nov 21 06:54:52 +0000 2015,0,0,"@fredverheul @jpenninkhof ... which in essence boils down to ""move to the Southern Hemisphere"" ;)"
+42,667958569661280256,Sat Nov 21 06:51:47 +0000 2015,0,0,"@fredverheul @jpenninkhof Southern Hemisphere ""winter"" also acceptable :)"
+43,667953117485494272,Sat Nov 21 06:30:07 +0000 2015,0,2,Just like #jProfessionals. Kudos to both organizers and sponsors! Have fun whichever event you're at! :) #sitNL  https://t.co/5IoHB1r3xg
+44,667830058434695168,Fri Nov 20 22:21:08 +0000 2015,0,0,Looking forward to a great Saturday with #ElClasico and even better Sunday with #jProfessionals! https://t.co/Lfda7vnQVB
+45,667825618600398848,Fri Nov 20 22:03:29 +0000 2015,0,0,@ivaylo_zashev ok will bring some :) #jProfessionals
+46,667730736326266880,Fri Nov 20 15:46:28 +0000 2015,3,2,Giving away #Devoxx stickers. For some reason nobody wants @IBMBluemix @heroku @pivotal while @OReillyMedia @Payara_Fish @jfrog all taken ;)
+47,667621268204703744,Fri Nov 20 08:31:28 +0000 2015,0,0,Was a good talk w/ useful recipes. Glad @cgdobre also shares opinion one should never go #microservices greenfield https://t.co/Mw8FhF6QQx
+48,667618324218515456,Fri Nov 20 08:19:46 +0000 2015,1767,0,"RT @seesharp: The single best software engineering graphic you need to know.
+
+https://t.co/tfZVY1lJCL https://t.co/fQwffYpqeI"
+49,667599748967358464,Fri Nov 20 07:05:58 +0000 2015,69,0,RT @tproger: Сурово https://t.co/OpQcnTQaif
+50,667481202438373376,Thu Nov 19 23:14:54 +0000 2015,9,0,RT @JavaUserGroupMK: JavaSkop ‘15 Call for papers is now open: https://t.co/mr3UaQmsI3
+51,667392583786737664,Thu Nov 19 17:22:46 +0000 2015,0,0,Seems I missed some #NeverDoThisAtHome session... #istacon2015  https://t.co/KHSUUvJsAr
+52,667378681338310656,Thu Nov 19 16:27:31 +0000 2015,0,1,@AndyGeeDe @ivan_stefanov Colorful is my middle name ;)
+53,667357065090867200,Thu Nov 19 15:01:37 +0000 2015,3,0,RT @ivan_stefanov: Giving CDI example to a room full of people that are not developers... Brave @vladopavlov
+54,667357030609518592,Thu Nov 19 15:01:29 +0000 2015,1,0,"RT @ivan_stefanov: Enough slides for today. @vladopavlov doing live demos at @ISTA_Conference. Demo gods, please... https://t.co/jWqJouU7mC"
+55,667319855230644224,Thu Nov 19 12:33:46 +0000 2015,0,1,@ivan_stefanov you're a true #rockstar buddy - hat tip! Now chill ooooouuut :)
+56,667315761845661696,Thu Nov 19 12:17:30 +0000 2015,1,0,"RT @jonathan_vila: @Devoxx 😜 a clear example of an static modularity using #jigsaw.  Just in case you lose any piece, consider #osgi 😂 #jav…"
+57,667293688192569344,Thu Nov 19 10:49:47 +0000 2015,4,0,"RT @saplabsbg: Data is out there, data is neither good, nor bad, what matters is how we use #data #istacon2015  @dsimov"
+58,667291281358385152,Thu Nov 19 10:40:13 +0000 2015,1,0,"RT @saplabsbg: Satisfaction from a #software is a sense of accomplishment, sometimes users evaluate themselves not the product @dsimov #ist…"
+59,667289153617293312,Thu Nov 19 10:31:46 +0000 2015,3,0,"RT @saplabsbg: Kalin Milanov: When in doubt about the font, use Arial, it is great for #accessibility #istacon2015"
+60,667288161744089088,Thu Nov 19 10:27:50 +0000 2015,4,0,RT @nickytd: #myPaaS and #mySaaS just been invented by @ppetev and @ivan_stefanov Infront of the audience  #istacon2015 :) https://t.co/2BS…
+61,667286748821504000,Thu Nov 19 10:22:13 +0000 2015,2,0,RT @saplabsbg: And @dsimov starts his talk about Soft Performance: Measurement #istacon2015 #performance #software https://t.co/9fsAx2noXU
+62,667285091849101312,Thu Nov 19 10:15:38 +0000 2015,2,3,"My friends, colleagues and fellow geeks @ivan_stefanov &amp; @ppetev are deMISTifying the #PaaS! #istacon2015 #DIY https://t.co/QTBYhZs6J1"
+63,667280036689408000,Thu Nov 19 09:55:32 +0000 2015,0,0,"Makes perfect sense but not from a math logic PoV. ;) ""=&gt;"" instead of ""="" would probably represent it better. https://t.co/7hkikvHGzj"
+64,667269954962595840,Thu Nov 19 09:15:29 +0000 2015,0,0,"Overpacked room for Stela Zhivkova's talk on ""Cross-browser testing"" - and people keep coming in! #istacon2015 https://t.co/t65exeOxhh"
+65,667263992440713216,Thu Nov 19 08:51:47 +0000 2015,1,0,RT @aJimHolmes: Completely valid point! https://t.co/jnuDY7nVO5
+66,667263822328143872,Thu Nov 19 08:51:07 +0000 2015,0,0,"Oh man, I'm at a conference again, and again there's an @SAP conference in parallel :) #istacon2015 #SAUG"
+67,667262627903627264,Thu Nov 19 08:46:22 +0000 2015,3,0,RT @nickytd: #istacon2015 is getting bigger and bigger. We started it back in 2011. Good to see the IT industry in Bulgaria is getting stro…
+68,667262061844570112,Thu Nov 19 08:44:07 +0000 2015,1,2,@zorrreto @aJimHolmes not really forget but maybe just asking the wrong why's... #istacon2015
+69,667257559531823104,Thu Nov 19 08:26:13 +0000 2015,4,0,RT @wombling: #saphcp making it front and centre to #SAUG keynote with @basenach - yes I'm happy! Interested in new(?) OEM model https://t.…
+70,667257254316548096,Thu Nov 19 08:25:01 +0000 2015,2,0,RT @wombling: So @SAPAusUserGroup #SAUG event kicking off and @basenach already mentioned uber and airbnb 😎 #saphcp next pls! https://t.co/…
+71,667223539100053504,Thu Nov 19 06:11:02 +0000 2015,0,1,"@mirchiseth btw I submitted a session for d-kom @SAPsv, maybe that gives us a chance to meet in person :) #fingerscrossed"
+72,667221470075101184,Thu Nov 19 06:02:49 +0000 2015,0,0,@mirchiseth thanks mate. #jsr901 sounds much better in any aspect :)
+73,667215314518728704,Thu Nov 19 05:38:21 +0000 2015,0,0,Currently I have #osgi support for #JavaSE number of followers (#jsr291). Lets see if #istacon2015 can help me get out of that mess :) #nerd
+74,667209377649152000,Thu Nov 19 05:14:46 +0000 2015,2,1,Looking forward to seeing you at 4 pm! #Debugging &amp; #Profiling #Cloud Apps Made Easy with @saphcp #istacon2015 https://t.co/L88BcjY9oA
+75,667208242657927168,Thu Nov 19 05:10:15 +0000 2015,2,0,RT @ISTA_Conference: ISTA2015 agenda just went interactive! Check out https://t.co/yCxPjlZLYE
+76,667207334918234112,Thu Nov 19 05:06:39 +0000 2015,0,0,Morning @ISTA_Conference! Desperately need some 0xCAFE BABE ... ;) #istacon2015
+77,667114596826750976,Wed Nov 18 22:58:08 +0000 2015,0,1,Now that's a use of #XML I can certainly agree with :) #cXML  https://t.co/U3AopMuJ0Y
+78,667107736929378304,Wed Nov 18 22:30:53 +0000 2015,3,0,RT @hnedkova: Things that make a great leader #leadership #istacon2015 https://t.co/XXTRbdnUQH
+79,667107573615730689,Wed Nov 18 22:30:14 +0000 2015,1,0,"RT @hnedkova: ""Give me a little time to give you a better answer."" #leadership #tips_and_tricks #mitigating_weaknesses #istacon2015"
+80,667098556428361730,Wed Nov 18 21:54:24 +0000 2015,1,1,Hey @ISTA_Conference where did everyone go so early?? #usualsuspects closing the bar... #istacon2015 https://t.co/vvLYT09eeX
+81,666989942212583426,Wed Nov 18 14:42:48 +0000 2015,1,1,Closing the #conference year with @ISTA_Conference tomorrow and #jProfessionals by @bgjug on Sunday. Totaling 9 / excluding #SAPCodeJam's :)
+82,666888186367500288,Wed Nov 18 07:58:28 +0000 2015,2,0,RT @proca_alex: Rate @VoxxedBucharest tracks to help select the most relevant talks https://t.co/wDFhDk9nPd https://t.co/dXhkkCdVFa
+83,666888032654639104,Wed Nov 18 07:57:51 +0000 2015,1,1,"Wow, there are even a couple right in the sea :) #speakerlife  https://t.co/cQxA6umlEz"
+84,666886568284692480,Wed Nov 18 07:52:02 +0000 2015,3,0,RT @cee_secr: Опубликован рейтинг ТОП-50 докладов #SECR2015: https://t.co/PQMfs6MhAk
+85,666749185836863488,Tue Nov 17 22:46:08 +0000 2015,2422,0,"RT @PNationale: [#Parisattacks] French police wants to identify this man.
+From abroad &gt; alerte-attentat@interieur.gouv.fr https://t.co/sBGx…"
+86,666600839927209984,Tue Nov 17 12:56:39 +0000 2015,3,3,"Recording of my session ""#Debugging and #Profiling #Cloud Apps? Sure, you can do it now!"" with @saphcp at @cee_secr https://t.co/CQZM197z7H"
+87,666504867901513728,Tue Nov 17 06:35:18 +0000 2015,0,0,"@wesreisz @evilyeti @TonyPrintezis @QConSF that's how you earn it. I was ""answering"" how you claim it after you've earned it ;) #qconsf"
+88,666320564924100612,Mon Nov 16 18:22:56 +0000 2015,0,0,@evilyeti @TonyPrintezis @wesreisz just DM @QConSF right? ;)
+89,666304260922081280,Mon Nov 16 17:18:09 +0000 2015,0,0,"@ivan_stefanov @alexsotob @evilyeti And... ""Наздраве!"" wins with an overwhelming majority of 2 votes to 0! #doesntreallymatter ;)"
+90,666303010172219392,Mon Nov 16 17:13:11 +0000 2015,0,0,"@radcortez where POJOs stands for Plain Old Jummy Objects - exactly BBQ, beer..."
+91,666287207808942080,Mon Nov 16 16:10:24 +0000 2015,0,0,"@radcortez agree, let's just serve POJOs!"
+92,666284727628877824,Mon Nov 16 16:00:32 +0000 2015,0,0,@radcortez and serve beans?
+93,666284301655416832,Mon Nov 16 15:58:51 +0000 2015,0,0,"@radcortez no, I'm pretty sure we'll still code #JavaEE for living then... 👊🏻"
+94,666283537151184897,Mon Nov 16 15:55:48 +0000 2015,0,0,"@radcortez ok buddy, expect a call from them around 2050 ;)"
+95,666282746369679362,Mon Nov 16 15:52:40 +0000 2015,0,0,@radcortez step by step. Let's first get them to J2EE 1.2 ;)
+96,666281235421900800,Mon Nov 16 15:46:40 +0000 2015,0,0,"Compared to this, #JavaEE 5 is a top notch platform! Actually, even #spring XMLs are perfectly fine ;) cc @radcortez https://t.co/FGCbDmf8hl"
+97,666007899823566852,Sun Nov 15 21:40:31 +0000 2015,0,1,"@ivan_stefanov @AndyGeeDe @boll_ No, I claimed kinda the opposite - kinda you can do that in life, too... --&gt; https://t.co/PSU4v27gHT"
+98,665999210190348288,Sun Nov 15 21:06:00 +0000 2015,0,1,"@ivan_stefanov @boll_ But great thing is, you can be ""almost done"" many many times and still win the game! And first 40 is still in front :)"
+99,665970301042323456,Sun Nov 15 19:11:07 +0000 2015,0,1,"@mitemitreski @hsilomedus @ivan_stefanov Madzarska vs. Norveska, enaindvajset : petinštirideset (21:45) on tvSLO2 #lostintranslation ;)"
+100,665941563349073921,Sun Nov 15 17:16:55 +0000 2015,53612,0,RT @PNationale: [AppelàTémoin] La #PJ recherche 1 individu susceptible d'être impliqué ds les attentats du 13/11/2015 #ParisAttacks https:/…
+101,665929942979465216,Sun Nov 15 16:30:45 +0000 2015,5,0,RT @psamolysov: @reza_rahman Java EE is a very important think for me personally as well as for IBM. My work is Java on big iron - IBM's ma…
+102,665921552123371522,Sun Nov 15 15:57:24 +0000 2015,0,0,"@lufthansa Is your definition of ""quickly"" 5 hours after it's been received at the airport?! As if you haven't created enough inconvenience!"
+103,665918611211591684,Sun Nov 15 15:45:43 +0000 2015,0,0,"U r welcome @lufthansa! Unfortunately I can't say Thank you for answering my questions, let alone for how you serviced me this week! #fail"
+104,665918280713035776,Sun Nov 15 15:44:24 +0000 2015,0,0,"Exactly my dear @lufthansa! It states 17:19, I made the screenshot @ 17:23 (as you can see!) and we certainly did NOT take off before 17:37!"
+105,665906160403390464,Sun Nov 15 14:56:15 +0000 2015,0,0,"And last but not least @lufthansa: Why are you lying about flight status? In fact, we didn't take off before 17:37! https://t.co/g3XgPjGnX0"
+106,665904645697642496,Sun Nov 15 14:50:14 +0000 2015,0,0,Another Q @lufthansa (not that you answered the previous one): Do you actually read what you post on your website?? https://t.co/ef5aIqzMsI
+107,665848478808018944,Sun Nov 15 11:07:02 +0000 2015,179,0,"RT @codinghorror: English: Jane will go to the store
+German : Jane will to the store go
+Arabic : To the store Jane will go
+Yoda: Go to the …"
+108,665844567636353025,Sun Nov 15 10:51:30 +0000 2015,0,0,@ivan_stefanov +1 :) // @alexsotob @evilyeti #usualsuspects
+109,665655424323084288,Sat Nov 14 22:19:55 +0000 2015,0,1,Ok @lufthansa but can you please explain: how come my colleague's baggage arrived and mine not? Obviously time wasn't an issue #youhadonejob
+110,665609301101256708,Sat Nov 14 19:16:38 +0000 2015,0,0,"And now you left my baggage half way through the route. Thank you @lufthansa, you've been a truly amazing company in the past week..."
+111,665559443866787840,Sat Nov 14 15:58:31 +0000 2015,13,0,"RT @jaredmorgs: Conferences that—unlike #Devoxx—don't:
+a) Record their sessons,
+b) Make them freely available.
+Are doing it so, very, very …"
+112,665558479755694080,Sat Nov 14 15:54:41 +0000 2015,0,2,"Passport control officer at #FRA: Why r u in a hurry, why r u late?
+I: Not we, #Lufthansa is late.
+Officer: Oh, strike again?!
+#butWeMadeIt"
+113,665530791338885120,Sat Nov 14 14:04:40 +0000 2015,1,3,"Finally, one dream come true, thanks to #Devoxx! #Antwerp #RAFC ⚽️⚽️⚽️⚽️ #леевски #euroidiots #кзл #самоЦСКА https://t.co/eYi8Vf2w1b"
+114,665526459558141952,Sat Nov 14 13:47:27 +0000 2015,0,0,#Lufthansa BRU ✈️ FRA delayed 15 min. Still way better than cancelled! Let's just hope we can catch our connection to SOF
+115,665494688925949952,Sat Nov 14 11:41:12 +0000 2015,7,0,"RT @jkkansal1987: #SAPtd 2016 dates are out
+LV : sept 19-23
+Bangalore:Oct 5-7
+Barcelona: 8-10 https://t.co/kGC3uaDYzK"
+116,665441384107745280,Sat Nov 14 08:09:23 +0000 2015,0,0,#JeSuisParis #PrayForParis  https://t.co/mZqcx1wQEQ
+117,665440160415358976,Sat Nov 14 08:04:32 +0000 2015,0,0,#JeSuisHumain  https://t.co/8wsdisfJ2t
+118,665171518612197376,Fri Nov 13 14:17:02 +0000 2015,0,3,Safe travels home everyone from #Devoxx - especially if you're flying #Lufthansa ! Nice meeting you all #usualsuspects :)
+119,665150663140237312,Fri Nov 13 12:54:10 +0000 2015,0,0,.@evilyeti @mreinhold Here you go... https://t.co/CbM9TYimQr #osgi #jigsaw #Devoxx
+120,665148961586552832,Fri Nov 13 12:47:24 +0000 2015,0,5,#Devoxx is over. Even Belgian beer can't offset that :( But hope to see you all next year! #Devoxx2016 Bedankt :) https://t.co/NYu4nduTga
+121,665146470077751298,Fri Nov 13 12:37:30 +0000 2015,1,0,RT @brjavaman: @vladopavlov @bgjug @ivan_stefanov @java joined the community bof. Helping jug guys... Promoting the jug... At least you hav…
+122,665144339551637506,Fri Nov 13 12:29:02 +0000 2015,2,0,RT @evilyeti: I was not aware that #java8 is still not available on #googleappengine due to security concerns. Wondering what those are #De…
+123,665144266033901568,Fri Nov 13 12:28:45 +0000 2015,1,0,RT @evilyeti: Great to see the #saphcp #appliance concept nicely covered as modules in #googlecloud #looksgreat #Devoxx
+124,665116330719334400,Fri Nov 13 10:37:45 +0000 2015,4,0,RT @ivan_stefanov: HTTP/2 features very well implemented in Java and Java EE. Browsers don't expose new features to JavaScript. HTML 6 on t…
+125,665098974467067904,Fri Nov 13 09:28:47 +0000 2015,1,0,"RT @belonesox: https://t.co/vxehpOszBu
+
+«Debugging and Profiling Cloud Apps? Sure, you can do it now!»
+
+Vladimir Pavlov
+@vladopavlov
+
+#SECR…"
+126,665072452154884096,Fri Nov 13 07:43:23 +0000 2015,1,1,"@brjavaman oh, and FWIW - I'm not a @bgjug leader but @ivan_stefanov is one of them :) // @java"
+127,665067509943521280,Fri Nov 13 07:23:45 +0000 2015,1,1,@brjavaman @bgjug @java @ivan_stefanov Obrigado Bruno! Too kind of you to say that :)
+128,664927608858140676,Thu Nov 12 22:07:50 +0000 2015,65,0,"RT @mariofusco: So @hhariri clarified the main idea behind #Docker : ""Since it works on my machine, let's ship my machine"" #Devoxx"
+129,664904356001640448,Thu Nov 12 20:35:26 +0000 2015,3,0,"RT @martin_fmi: jProfessionals 1.0 agenda is announced:
+https://t.co/mJRaliRJE2 https://t.co/ioM2T08SEZ"
+130,664899276410126336,Thu Nov 12 20:15:15 +0000 2015,3,7,Just two regular guys from @bgjug with the world famous @brjavaman at the @Java community BOF at #Devoxx https://t.co/lcKWLKgYS0
+131,664872682035552257,Thu Nov 12 18:29:34 +0000 2015,1,0,"RT @TonyPrintezis: Five reasons why #Devoxx is better than #JavaOne:
+
+1. Keynote by @LKrauss1, who answered questions while balancing on a …"
+132,664872662540394496,Thu Nov 12 18:29:30 +0000 2015,3,0,"RT @TonyPrintezis: Five reasons why #Devoxx is better than #JavaOne:
+
+2. Better #beer
+
+(this would have been number 1, but...)"
+133,664872639702413312,Thu Nov 12 18:29:24 +0000 2015,1,0,"RT @TonyPrintezis: Five reasons why #Devoxx is better than #JavaOne:
+
+3. Hotels are not attrociously overpriced"
+134,664872629531209728,Thu Nov 12 18:29:22 +0000 2015,1,0,"RT @TonyPrintezis: Five reasons why #Devoxx is better than #JavaOne:
+
+4. The #StarWars Machete Order talk was among the highest rated sessi…"
+135,664872621553688576,Thu Nov 12 18:29:20 +0000 2015,1,0,"RT @TonyPrintezis: Five reasons why #Devoxx is better than #JavaOne:
+
+5. One venue, not two or three"
+136,664865297996849153,Thu Nov 12 18:00:14 +0000 2015,6,7,"Thanks @RichardWarburto for signing my copy of ""#Java 8 Lambdas"". Looking forward to welcoming you 2 Sofia! #Devoxx https://t.co/DQhWEzShe1"
+137,664863546807840769,Thu Nov 12 17:53:16 +0000 2015,8,0,"RT @evilyeti: ""If you need a dynamic module system at runtime - use #OSGi!"" @mreinhold #Devoxx"
+138,664816332542709760,Thu Nov 12 14:45:40 +0000 2015,7,0,RT @cappha: RT if you think the otherwise so beautifully designed #Devoxx tweet wall should show pictures next year #devoxx2015 https://t.c…
+139,664816016321593345,Thu Nov 12 14:44:24 +0000 2015,1,0,"And embedded tweets, too! ;) #Devoxx https://t.co/t1QA8MpKzc"
+140,664806683621900288,Thu Nov 12 14:07:19 +0000 2015,2,0,RT @evilyeti: Same experience here! Having an own jvm team is a life saver! #Devoxx #saptd https://t.co/o4cFIY1RFM
+141,664806514805317632,Thu Nov 12 14:06:39 +0000 2015,3,2,Can happen only at #Devoxx: @bgjug &amp; @BarcelonaJUG exchanging t-shirts #likeFootballStarsDo ;) https://t.co/CvL2a66ewz
+142,664802485299716096,Thu Nov 12 13:50:38 +0000 2015,0,0,... or #comeToTheDarkSide... #CDI2 #async #events @antoine_sd @JosePaumard #Devoxx https://t.co/K3ULJLvVDk
+143,664801319841046528,Thu Nov 12 13:46:00 +0000 2015,2,1,"#CDI2 may introduce MethodScoped and ""sub-specs"" to accommodate #JavaSE usage - @antoine_sd @JosePaumard #Devoxx https://t.co/cbj3ylSEVT"
+144,664797533084983296,Thu Nov 12 13:30:57 +0000 2015,39,0,RT @jqno: This should be part of any software engineer's education. #Devoxx by @headius https://t.co/NpwxMgKJxW
+145,664796948365484032,Thu Nov 12 13:28:38 +0000 2015,131,0,RT @Devoxx: ALL the Devoxx Conference talks from yesterday are now available on our YouTube channel @ https://t.co/cWaub4FtdX https://t.co/…
+146,664795912665964544,Thu Nov 12 13:24:31 +0000 2015,9,0,RT @aheritier: The room is full for @alexsotob and @mitemitreski talk about JSON processing for Java EE 8 #Devoxx https://t.co/3RmKOxMFfw
+147,664761279953960961,Thu Nov 12 11:06:54 +0000 2015,2,0,RT @jonathan_vila: T-shirts exchanged. Thank you @vladopavlov #Devoxx #twitterisamazing https://t.co/SboZkLYST7
+148,664756370038726656,Thu Nov 12 10:47:23 +0000 2015,0,0,"@jonathan_vila also room 5, row 5 left wing ;) https://t.co/hroNiauxhf"
+149,664756021135544320,Thu Nov 12 10:46:00 +0000 2015,1,3,"No, #ThankYOU ;) @twitter @TonyPrintezis #TwitterJDK #Devoxx https://t.co/fQXnO7Hpsy"
+150,664754712214953985,Thu Nov 12 10:40:48 +0000 2015,0,1,"""Service worked perfectly through #WorldCup"" - yup, even during 🇩🇪🇧🇷 ! ;) @TonyPrintezis #Twitter #JDK #Devoxx https://t.co/y7J6Zn8twm"
+151,664752685724381184,Thu Nov 12 10:32:45 +0000 2015,0,1,@Devoxx please keep one large for me - coming after @TonyPrintezis' #Twitter #JDK talk ;) #Devoxx
+152,664749154493669376,Thu Nov 12 10:18:43 +0000 2015,0,1,@jonathan_vila @Devoxx vice versa here - let's just exchange :) #likeFootballStarsDo
+153,664748117405925376,Thu Nov 12 10:14:36 +0000 2015,54,0,RT @SAPAnalytics: RT for your chance to win a #DataGenius shirt at #SAPtd Barcelona! https://t.co/RJulxyIQQy Winner will be DM'd. https://t…
+154,664746993567289344,Thu Nov 12 10:10:08 +0000 2015,4,5,Another déjà-vu :) Fully agree! -- @TonyPrintezis on @OpenJDK #Twitter #JDK #JVM #Devoxx https://t.co/bU7ygsWybZ
+155,664736453637877760,Thu Nov 12 09:28:15 +0000 2015,37,0,RT @SAPAnalytics: Win a signed copy by @albertocairo at #SAPtd Barcelona! RT to enter #DataGenius https://t.co/RJulxyIQQy https://t.co/I3XJ…
+156,664730844762869760,Thu Nov 12 09:05:58 +0000 2015,0,0,Room 007 maybe? ;) #Devoxx  https://t.co/sSfnGp7HRu
+157,664730357032493056,Thu Nov 12 09:04:01 +0000 2015,18,0,RT @SAPAnalytics: RT to win an #AppleWatch at #SAPtd Barcelona! #CloudAnalytics https://t.co/fdWIY8tgED
+158,664730259804286976,Thu Nov 12 09:03:38 +0000 2015,1,0,"RT @grassl: Join me at 11:30 for What's New in Open Source at SAP, Theater 1 on the show floor #SAPtd https://t.co/GUGt7mmaSS"
+159,664730108444438528,Thu Nov 12 09:03:02 +0000 2015,0,0,"@johanvos Ditto! And apparently also to @springjuergen ;) Kudos, good discussions! #JavaEE #Devoxx"
+160,664707857632403456,Thu Nov 12 07:34:37 +0000 2015,7,0,"RT @JLouisMonteiro: ""The customer can fire everyone in the company, from the ceo down, just by shopping somewhere else"" @RyanMcGuinness5 ht…"
+161,664707687846977536,Thu Nov 12 07:33:57 +0000 2015,568,0,RT @swardley: The entire PaaS vs Container (e.g. Docker) debate explained in one simple diagram - https://t.co/B0oib5gihz
+162,664706421490061312,Thu Nov 12 07:28:55 +0000 2015,0,2,@ivan_stefanov @evilyeti @antoine_sd @arungupta @JBoss ... and scripting leads to suffering ;) https://t.co/uULbj8j3mO
+163,664621736294522881,Thu Nov 12 01:52:24 +0000 2015,10,0,RT @johanvos: Many people staying for Java EE BOF at Devoxx. Standardization matters. #Devoxx
+164,664593300939218948,Wed Nov 11 23:59:25 +0000 2015,2283,0,"RT @google: they should call Wi-Fi
+“Why-fi,” because why won’t it 
+ever just connect?
+#WiFiWoes #haiku https://t.co/KxjTzKBYvK https://t.co…"
+165,664592151318241280,Wed Nov 11 23:54:51 +0000 2015,0,0,"@agoncal ... and what exactly ""#JavaEE 7 requires #JavaSE 7"" means ;) #Devoxx"
+166,664550093580824578,Wed Nov 11 21:07:43 +0000 2015,0,0,"@bercut2000 @agoncal @Java_EE Priceless, isn't it? :) #Devoxx #EJB #JavaEE"
+167,664548656067014656,Wed Nov 11 21:02:00 +0000 2015,4,0,"RT @atsticks: I would appreciate to see @tomitribe as a new @jcp_org Executive Member. Good guys, well founded in business, lots of experti…"
+168,664547161623916544,Wed Nov 11 20:56:04 +0000 2015,0,1,Thanks for the like @springcentral. Meanwhile we exchanged ~7 more tweets - you might want to check them out too ;) https://t.co/KrwItsAmPW
+169,664528519016394759,Wed Nov 11 19:41:59 +0000 2015,3,5,#EJB model became fat cause it was awesome :) -- @agoncal at #Devoxx @Java_EE BOF
+170,664527353096347648,Wed Nov 11 19:37:21 +0000 2015,0,0,"@reza_rahman so let's share the good ""news"" with @olivergierke ;) #Devoxx #JavaEE #Peace :)"
+171,664510234996658176,Wed Nov 11 18:29:20 +0000 2015,0,0,@olivergierke news is a bit different: you can have #JavaEE apps also w/o JPA. And beans.xml is usually empty file - just a flag
+172,664508290328608768,Wed Nov 11 18:21:37 +0000 2015,3,7,#Devoxx 6-pack. Thanks #JavaPosse... uhh... #JavaCouncil for the great show! :) @sjmaple @karianna @trisha_gee https://t.co/ZjYXjkRCFN
+173,664501013269884928,Wed Nov 11 17:52:42 +0000 2015,2,0,RT @evilyeti: @joshlong giving a really short lecture on #Javaee to a large crowd #Devoxx
+174,664499077317545984,Wed Nov 11 17:45:00 +0000 2015,1,0,"And ""we"" == Oracle #Java platform team, right? ;) https://t.co/kYelKetJXx"
+175,664497586766807040,Wed Nov 11 17:39:05 +0000 2015,6,0,RT @jonathan_vila: The best slide I've seen about #codereview #usefulcodereview #Devoxx https://t.co/BapbGvTcTR
+176,664491978000891904,Wed Nov 11 17:16:47 +0000 2015,0,0,@olivergierke don't try - #justdoit
+177,664485160696610816,Wed Nov 11 16:49:42 +0000 2015,1,2,It's updating #Spring framework to XML-less version? #Devoxx  https://t.co/251hdmdS9N
+178,664474513690726401,Wed Nov 11 16:07:24 +0000 2015,0,1,"@steinermatt @_bgoerke yep, from Russian: ""Everything's simple with #saphcp"" :) https://t.co/eARAlQxvTW"
+179,664460762220470272,Wed Nov 11 15:12:45 +0000 2015,0,1,"Guess what? s.m.Unsafe isn't most used #JDK internal API, at least not in this particular large set of libs #Devoxx https://t.co/TeurhUo4O7"
+180,664438825821847552,Wed Nov 11 13:45:35 +0000 2015,0,0,"@DevoxxBorat @ivan_stefanov Don't worry, we did the same at an SAP conference 2 years ago - still employed :) #Devoxx"
+181,664433888836591616,Wed Nov 11 13:25:58 +0000 2015,2,0,RT @evilyeti: That's so far the announcement of the day! @SAPTechEd and @openSAP - consider the great example going forward #saptd https://…
+182,664413259311747073,Wed Nov 11 12:03:59 +0000 2015,45,0,RT @venkat_s: A great message at #Devoxx https://t.co/wDGIhxyhiZ
+183,664413241611821056,Wed Nov 11 12:03:55 +0000 2015,5,0,RT @Isanadir: #Devoxx most inspiring presentation with @venkat_s  : https://t.co/IiVaQLCygC
+184,664412497475215360,Wed Nov 11 12:00:58 +0000 2015,22,0,RT @royvanrijn: Woohoo! By the end of #Devoxx all the sessions will be available freely on YouTube! Some are already available right now!
+185,664410187185393665,Wed Nov 11 11:51:47 +0000 2015,90,0,"RT @voxxed: Devoxx Live: All the sessions from the past few days of #Devoxx now available to stream! 
+https://t.co/qSV61YzoM9 https://t.co/…"
+186,664387916731412480,Wed Nov 11 10:23:17 +0000 2015,0,1,"@zeroturnaround @Devoxx @sjmaple @shelajev you're not getting the #Bolting right, folks ;) https://t.co/54FbPg0rdt"
+187,664385560677588992,Wed Nov 11 10:13:56 +0000 2015,832,0,RT @rakyll: This is what is given to you when your project is deprecated at Google. https://t.co/ODOlw1TGNp
+188,664384890373349376,Wed Nov 11 10:11:16 +0000 2015,0,0,@Devoxx would be helpful if camera switched to screen when @LKrauss1 is pointing at it for people in other rooms to be able to follow!
+189,664378905944530944,Wed Nov 11 09:47:29 +0000 2015,3,0,RT @tbroek: Keynote by @_bgoerke - no sales just live coding. He is covering the complete #SAPtd Program in only one hour. #awesome
+190,664371356918771712,Wed Nov 11 09:17:29 +0000 2015,7,0,"RT @tbroek: Keynote #SAPtd connecting Mars, ABAP, S/4HANA, Cloud, SAPHCP, WebIDE and Neo! @_bgoerke on a mission! https://t.co/FB7WMviLoM"
+191,664371138135498752,Wed Nov 11 09:16:37 +0000 2015,1,0,Watching two keynotes simultaneously right now ;) #Devoxx #SAPtd
+192,664370543039266816,Wed Nov 11 09:14:15 +0000 2015,2,0,"RT @Qualiture: @vladopavlov @_bgoerke Well actually, retrospectively I guess we all think Neo was the best name ever anyway 😉"
+193,664370458410676224,Wed Nov 11 09:13:55 +0000 2015,41,0,RT @SAPAnalytics: Rock an exclusive #DataGenius shirt at #SAPtd Barcelona! RT to win - winner will be DM'd https://t.co/RJulxyIQQy https://…
+194,664370283051098112,Wed Nov 11 09:13:13 +0000 2015,2,0,"RT @oliver: Sorry, will be late at work. Have to watch an HCP and CDS tutorial by @_bgoerke at #SAPtd."
+195,664369861699772416,Wed Nov 11 09:11:33 +0000 2015,0,1,@Qualiture @_bgoerke #Neo is immortal! #saphcp #SAPtd
+196,664369632808198144,Wed Nov 11 09:10:38 +0000 2015,1,0,RT @Qualiture: W00t! *Neo*?! #blastfromthepast at @_bgoerke #SAPtd keynote https://t.co/JZd49WEUi3
+197,664369235242688512,Wed Nov 11 09:09:03 +0000 2015,0,1,Déjà-vu from #javaone 2009 ;) #Devoxx 2015 https://t.co/Dk3bUSZoXQ
+198,664367894403416065,Wed Nov 11 09:03:44 +0000 2015,5,0,"RT @bgjug: #jProfessionals agenda is READY! More info at https://t.co/IJNiBBfryw
+Waiting for all of you on 22.11.15!"
+199,664364663237435392,Wed Nov 11 08:50:53 +0000 2015,6,0,"RT @steinermatt: The full enchilada - aka #saphcp! If you haven’t done so yet, join the fun and get a free dev account on https://t.co/DE3l…"

@@ -1,0 +1,286 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668817436137955328,Mon Nov 23 15:44:37 +0000 2015,0,0,"@wolframkriesing for me 3-4 days max and I have to restart, mounting, vms all fails"
+1,668694094353408000,Mon Nov 23 07:34:30 +0000 2015,49,0,RT @JavaScriptDaily: What's in ECMAScript 2016 (ES7)? https://t.co/qhhDXSZoDr
+2,668514334637744128,Sun Nov 22 19:40:12 +0000 2015,0,3,React Hot Loader · Tweak React components in real time. https://t.co/bbDB9wmczk tweak #reactjs components in real time without losing state
+3,668506683879137281,Sun Nov 22 19:09:48 +0000 2015,1,3,https://t.co/PKrerg04eM #reactjs resources
+4,668505628130852864,Sun Nov 22 19:05:36 +0000 2015,3,0,"RT @React_Rocks: react-thermometer by @stillconor: Simple thermometer widget, good for dashboards. https://t.co/vq3S84vE0c #reactjs"
+5,668505392419381248,Sun Nov 22 19:04:40 +0000 2015,14,0,"RT @_ericelliott: Making Netflix Faster: https://t.co/3bHXhBWaCk
+#reactjs #JavaScript"
+6,668505139200794624,Sun Nov 22 19:03:40 +0000 2015,25,0,"RT @_ericelliott: Not sure how to handle animation with React? Check out velocity-react:
+https://t.co/8gytaziAMs
+#reactjs #JavaScript"
+7,667979904131158016,Sat Nov 21 08:16:34 +0000 2015,535,0,RT @FCBarcelona: #ElClásico Squad list #FCB https://t.co/DfT1iirYGY #MésqueunClub RT to support the team!
+8,667977944514605056,Sat Nov 21 08:08:47 +0000 2015,0,1,https://t.co/VGy4Ykr76T #js lib for motions
+9,667629121208516608,Fri Nov 20 09:02:41 +0000 2015,3,0,RT @ReactJS_News: RT @reactjs React v0.14.3 is out! https://t.co/ujkkfkOsWn
+10,667272118061703169,Thu Nov 19 09:24:04 +0000 2015,7,0,"RT @nicholaswyoung: In my #Nodevember talk, ""Callback-less Asynchrony,"" I dive into Generators and Promises. Ready? Watch: https://t.co/PQf…"
+11,666498397600415744,Tue Nov 17 06:09:35 +0000 2015,563,0,RT @aerotwist: Are frameworks too costly on mobile? New post based on my @FFConf talk [incl. vid 🎥]: https://t.co/RQklKHOS1R https://t.co/G…
+12,664754394731290624,Thu Nov 12 10:39:32 +0000 2015,0,0,"Receive your free dev stickers, worldwide! @notifuse #js #ruby #python #java #php #golang #reactjs #nodejs https://t.co/iHelH2OfHm"
+13,664503281746604033,Wed Nov 11 18:01:42 +0000 2015,7,0,"RT @getify: example #379 of clever but confusing code:
+
+""foo bar baz"".split("" "").map(..)
+
+please just write:
+
+[""foo"",""bar"",""baz""].map(..)"
+14,664502354335657984,Wed Nov 11 17:58:01 +0000 2015,20,0,RT @GoThinkster: It's finally here! Learn to build widgets &amp; applications with React https://t.co/0b8aA9jML3 @reactjs https://t.co/cyYw7dbF…
+15,664445679503306752,Wed Nov 11 14:12:49 +0000 2015,0,1,Top 10 #es6 Features Every Busy #javascript Developer Must https://t.co/h4b73MfruJ
+16,664431503816957952,Wed Nov 11 13:16:29 +0000 2015,0,1,"https://t.co/0wYU1kLlyS so, free drinks! #javascript"
+17,664341763356819456,Wed Nov 11 07:19:53 +0000 2015,5,0,RT @_ericelliott: Web Audio API for Node: https://t.co/VfmxH3c9bm #audio #JavaScript
+18,663981639433875456,Tue Nov 10 07:28:53 +0000 2015,31,0,"RT @_ericelliott: How to update to Babel 6
+https://t.co/55eP7Wu8mA
+#es6 #JavaScript"
+19,663980779937091584,Tue Nov 10 07:25:28 +0000 2015,1333,0,"RT @kytrinyx: Trying to explain the phrase ""it's not a bug it's a feature"" to a musician. Them: ""Oh! It's playing it wrong and calling it j…"
+20,663329274506706944,Sun Nov 08 12:16:37 +0000 2015,0,0,"#mobile, #desktop and #web app with the same #reactjs code"
+21,663329055467548672,Sun Nov 08 12:15:45 +0000 2015,1,0,using #nodejs to write cvs data to file https://t.co/lulqDPd7Vb
+22,663287176151629824,Sun Nov 08 09:29:20 +0000 2015,7,0,RT @NodeJSTopNews: Using Node.js to Write data to a CSV file https://t.co/VbCs9SoDiX via @DotNetCurry
+23,663284881598869504,Sun Nov 08 09:20:13 +0000 2015,16,0,"RT @_ericelliott: Want to learn to build apps? Forget school.
+Do this instead: 
+https://t.co/KMKn8KJbhH
+#code #JavaScript"
+24,663284810803224576,Sun Nov 08 09:19:56 +0000 2015,568,0,RT @swardley: The entire PaaS vs Container (e.g. Docker) debate explained in one simple diagram - https://t.co/B0oib5gihz
+25,663283849410031616,Sun Nov 08 09:16:07 +0000 2015,18,0,RT @AngularJS_News: RT @jquery_rain Solarizd : AngularJS Based Music Player App #angularjs #javascript https://t.co/waKE38lcgi https://t.co…
+26,661302023606951937,Mon Nov 02 22:01:03 +0000 2015,113,0,"RT @MongoDB: Joins &amp; other aggregation enhancements coming in MongoDB 3.2, an introduction (part 1 of 3) https://t.co/qKhjfXw1dH https://t.…"
+27,661292075560935424,Mon Nov 02 21:21:31 +0000 2015,13,0,RT @reactnewsletter: Universal React App — ES6 and React on Node -- @theaustinlyons https://t.co/lX8OTAi0yu
+28,661291629001768961,Mon Nov 02 21:19:45 +0000 2015,82,0,"RT @reactjs: v0.14.2 is out, mostly to address a couple issues with the development build introduced in v0.14.1 (sorry!) https://t.co/mp91c…"
+29,661070623196717056,Mon Nov 02 06:41:33 +0000 2015,0,2,https://t.co/YMnlvbSNm1 build landing pages quickly with #reactjs
+30,660507954450407425,Sat Oct 31 17:25:42 +0000 2015,169,0,RT @nodejs: What You Should Know about Node.js v5 and More: https://t.co/v9Jopluy4C #nodejs
+31,660504710252752896,Sat Oct 31 17:12:49 +0000 2015,0,1,https://t.co/6dEZL7obkA #docker support in phpstorm
+32,660483717031469056,Sat Oct 31 15:49:23 +0000 2015,64,0,"RT @jaffathecake: Nice work everyone who voted these clowns in. https://t.co/kk46C3y3NL
+
+(also wonder how they'll make it work over TLS)"
+33,660483709800419329,Sat Oct 31 15:49:22 +0000 2015,33,0,RT @JavaScriptDaily: Mastering ES6 Higher-Order Functions for Arrays: https://t.co/BwOrzUXNF1
+34,660483673393905664,Sat Oct 31 15:49:13 +0000 2015,34,0,RT @JavaScriptDaily: A JavaScript Modules Manager That Fits in a Tweet: https://t.co/8JPtlWFERv
+35,660483606280847360,Sat Oct 31 15:48:57 +0000 2015,5,0,"RT @_ericelliott: Cross-industry disruption will be the major theme of the next 20 years.
+https://t.co/NrjVBQ0hWW
+#startup #code"
+36,660401963100688384,Sat Oct 31 10:24:32 +0000 2015,3,0,RT @BestGit: Exactly how i use #git too :) https://t.co/IebnhMvg3T Needs to be remedied after #OSCON and #VelocityConf
+37,660401576570408960,Sat Oct 31 10:23:00 +0000 2015,28,0,"RT @snyksec: Our github repository is now open! Use it to find and fix known vulnerabilities in your dependencies
+https://t.co/4xooKurAmB
+#…"
+38,660048194613739520,Fri Oct 30 10:58:47 +0000 2015,0,0,https://t.co/8obViD9zT5 #js #babeljs new version
+39,660038178015981568,Fri Oct 30 10:18:59 +0000 2015,1,0,https://t.co/u3jIzS1SnG #nodejs 5 is out
+40,659998352608731137,Fri Oct 30 07:40:44 +0000 2015,7,0,RT @rem: So proud of team @snyksec: https://t.co/6sxvPQpOJp is now public beta. 📢Protect against your node vulnerabilities📢 Been on this si…
+41,659776436421730304,Thu Oct 29 16:58:55 +0000 2015,109,0,RT @reactjs: We just shipped v0.14.1 containing a few fixes! https://t.co/tfU98bK7nc
+42,659655625421545472,Thu Oct 29 08:58:51 +0000 2015,0,0,@_ericelliott I am self-driving my car! :P
+43,659655379010326529,Thu Oct 29 08:57:52 +0000 2015,9,0,RT @_ericelliott: Learn to code: https://t.co/KMKn8KrAq9 #code #JavaScript
+44,659485551234535424,Wed Oct 28 21:43:02 +0000 2015,357,0,"RT @littleidea: containers will not fix your broken architecture
+
+you are welcome"
+45,659352156055707648,Wed Oct 28 12:52:58 +0000 2015,108,0,"RT @mathias: Use `input` instead of `keyup`/`keydown`. https://t.co/CzasoQYDGW
+
+Use `beforeinput` instead of `keypress`. https://t.co/2Medq…"
+46,659066776421036032,Tue Oct 27 17:58:59 +0000 2015,36,0,RT @FastCompany: This is hilarious. https://t.co/gzQJHeTppi https://t.co/CIFyXqWlmd
+47,658643372555554816,Mon Oct 26 13:56:31 +0000 2015,1,0,https://t.co/0vcNue8w97 #rofl copter
+48,658567539291738112,Mon Oct 26 08:55:11 +0000 2015,231,0,RT @wesbos: 🔥 Easily swap two JavaScript Variables with ES6 Destructuring https://t.co/rHNvsxqU6E
+49,658310967831482368,Sun Oct 25 15:55:40 +0000 2015,3257,0,"RT @Snowden: Wow. The United Nations just came out in favor of international whistleblower protections, @hrw reports: https://t.co/dioUQdtj…"
+50,658310291835518976,Sun Oct 25 15:52:59 +0000 2015,1630,0,"RT @sadserver: ""I fixed the problem with yesterday's deploy, I just need to deploy this hotfix real quick"" https://t.co/AE8R5t1spW"
+51,658310151410221056,Sun Oct 25 15:52:25 +0000 2015,19,0,RT @ReactJSNews: Force Touch coming to React Native https://t.co/TQL6D52Rce
+52,658230791416188928,Sun Oct 25 10:37:04 +0000 2015,79,0,"RT @Ocramius: Reminder: if you want to ALSO support #php7, use `”php”: “^5.5|^7.0”`, and NOT `”php”: “&gt;=5.5”`. You will thank me in 5 years."
+53,658230417938632704,Sun Oct 25 10:35:35 +0000 2015,8,0,"RT @_ericelliott: Learn how to build and test pure React components with The React Pure Component Starter:
+https://t.co/e1tyPpxEoJ
+#JavaScr…"
+54,657821502335787008,Sat Oct 24 07:30:42 +0000 2015,218,0,"RT @BMWDeutschland: Licht, das 600 Meter weit vorausblickt.
+Der neue BMW 7er mit #Laserlicht.*
+
+#BMW7er https://t.co/kCkooU3DWA https://t.c…"
+55,657459339251351552,Fri Oct 23 07:31:36 +0000 2015,13,0,"RT @_ericelliott: Are you building a monolithic app, or a modular app? Make sure your modules obey FIRST: https://t.co/sf7WQeJ7us @addyosma…"
+56,657459292832952321,Fri Oct 23 07:31:25 +0000 2015,129,0,"RT @_ericelliott: `var`, `let`, or `const`? I use `const` for almost everything. Rarely, I'll use `let`. Never `var`. #es6 #JavaScript"
+57,657458547911979008,Fri Oct 23 07:28:27 +0000 2015,21,0,"RT @mzabriskie: Released updates to react-tabs, and react-modal today! @reactjs #reactjs
+
+https://t.co/XnQnsRgofq
+https://t.co/rhYc7Bcung"
+58,657257056848711680,Thu Oct 22 18:07:48 +0000 2015,10,0,RT @_ericelliott: Use ES6 for both Node and Browsers: https://t.co/1qF3dfpTOS #es6 #JavaScript
+59,656925652961095681,Wed Oct 21 20:10:55 +0000 2015,6,0,RT @_ericelliott: Essential resources for new coders: https://t.co/KMKn8KrAq9 #jshomes #JavaScript
+60,656752761149792256,Wed Oct 21 08:43:54 +0000 2015,0,0,@developerjack @Dropbox what Im sayin is I can always go to the reg page and figure out which email is registered anyway.
+61,656744817586774016,Wed Oct 21 08:12:20 +0000 2015,0,0,https://t.co/zdGukNUQAT #chrome #devtools tips and tricks
+62,656743683807686656,Wed Oct 21 08:07:50 +0000 2015,2675,0,RT @letsencrypt: We are trusted! https://t.co/8hSWk3Y6Hi
+63,656731953991929856,Wed Oct 21 07:21:13 +0000 2015,0,0,@developerjack @Dropbox they most likely have unique email policy so it's impossible ti hide it.
+64,656730444768092160,Wed Oct 21 07:15:14 +0000 2015,6,0,RT @_ericelliott: Use icomoon to generate icon sets for your apps and websites. Choose the SVG export option. https://t.co/8u93wGFm9U #desi…
+65,656510284023119872,Tue Oct 20 16:40:23 +0000 2015,0,1,@_ericelliott can we pre-order just to increase the pressure?
+66,656508741660069888,Tue Oct 20 16:34:16 +0000 2015,61,0,"RT @RReverser: I know you all dreamed about this feature coming to JavaScript!
+P.S. Dear Universe, I'm so sorry. https://t.co/nAxFjzYbvc"
+67,656365901600673792,Tue Oct 20 07:06:40 +0000 2015,0,0,At the #MongoDB days Munich
+68,656198770451959808,Mon Oct 19 20:02:33 +0000 2015,8,0,"RT @_ericelliott: Great coverage of various JS object copy gotchas. https://t.co/T9GygRytj8
+#JavaScript"
+69,656008491950325760,Mon Oct 19 07:26:27 +0000 2015,12,0,"RT @jonathansampson: Eric S. Raymond
+The Cathedral and the Bazaar
+https://t.co/1pGF07EnpX http://t.co/A1vSS10sgE"
+70,656008074545766400,Mon Oct 19 07:24:47 +0000 2015,4,0,"RT @getify: why are airplanes the only form of travel that requires its own device mode? can you imagine ""bus mode"" or ""bicycle mode""?"
+71,656006476843102208,Mon Oct 19 07:18:26 +0000 2015,86,0,"RT @JavaScriptDaily: Writing Fast, Memory-Efficient JavaScript: http://t.co/jrIOEiYpg5 (Old, but doing the rounds again and still good.)"
+72,655639479160602624,Sun Oct 18 07:00:07 +0000 2015,5,0,RT @_ericelliott: JavaScript Training Sucks. But it doesn't have to. https://t.co/KMKn8KrAq9 #code #JavaScript
+73,655636548206088192,Sun Oct 18 06:48:28 +0000 2015,37,0,"RT @_ericelliott: Favor `map()` over `forEach()` when you can. Avoid side-effects.
+#functional #JavaScript"
+74,655333676079828992,Sat Oct 17 10:44:58 +0000 2015,16,0,"RT @_ericelliott: React pure components are the best way I've seen to render app widgets:
+https://t.co/e1tyPpxEoJ
+@reactjs #JavaScript"
+75,655110992867692544,Fri Oct 16 20:00:06 +0000 2015,17,0,RT @JavaScriptDaily: Dr. Axel Rauschmayer Defends ES6 Classes: https://t.co/WIxxbwfxNG
+76,655109880689373184,Fri Oct 16 19:55:41 +0000 2015,4,0,"RT @_ericelliott: Thinking in prototypes means favoring object composition. Learn how Monday Oct 19 1:00pm US Pacific
+https://t.co/yXgFvM36…"
+77,654921648416665600,Fri Oct 16 07:27:43 +0000 2015,51,0,"RT @MongoDB: Learn how to successfully build and run modern apps with MongoDB - MongoDB Germany, 20th October, Munich https://t.co/NRr4MP4l…"
+78,654921565952475137,Fri Oct 16 07:27:23 +0000 2015,10,0,"RT @_ericelliott: The Open Minded Explorer's Guide to Object Composition: https://t.co/N4bgznu49m
+#oop #JavaScript"
+79,654921166306549760,Fri Oct 16 07:25:48 +0000 2015,7,0,RT @_ericelliott: Excited for #ES6? Play in-browser: https://t.co/AYN5wGeRxu  `npm install -g babel` and check out the `babel-node` CLI. #n…
+80,654921143716028416,Fri Oct 16 07:25:43 +0000 2015,26,0,RT @JavaScriptDaily: Using the Google Analytics Core Reporting API from Node.js: http://t.co/wcra67rXVT
+81,654921113970081792,Fri Oct 16 07:25:36 +0000 2015,11,0,RT @_ericelliott: Make @reactjs faster with immutable stores: https://t.co/JhynTmtqP7 #React #JavaScript
+82,654921079237025792,Fri Oct 16 07:25:27 +0000 2015,107,0,RT @browniefed: Wrote a #reactnative blog post on Morphing SVG paths with React Art... using Batman Logos. http://t.co/pMDkDiGnTq http://t.…
+83,654656478842716162,Thu Oct 15 13:54:02 +0000 2015,44,0,RT @_ericelliott: The best of the best JavaScript links: https://t.co/ewHRVWmGWp #essentialjs #JavaScript
+84,654575264417099776,Thu Oct 15 08:31:19 +0000 2015,32,0,"RT @_ericelliott: Does it sound hard to learn to code? Try ""JavaScript for Cats"" Even your human companion could do it! by @maxogden http:/…"
+85,654574219406245888,Thu Oct 15 08:27:09 +0000 2015,4,0,RT @codepo8: Breaking changes in let and const in Firefox Nightly 44 https://t.co/yBghS2IkL8
+86,654350368747466752,Wed Oct 14 17:37:39 +0000 2015,14,0,RT @_ericelliott: Excited for #ES6? Play in-browser: https://t.co/AYN5wGwsW4 `npm install -g babel` and check out the `babel-node` CLI. #no…
+87,654350330369544192,Wed Oct 14 17:37:30 +0000 2015,56,0,"RT @_ericelliott: ES6 trap:
+const noop = () =&gt; {}; // returns undefined
+const obj = () =&gt; ({}); // returns empty object
+#ES6 #JavaScript"
+88,654350274249760770,Wed Oct 14 17:37:17 +0000 2015,39,0,"RT @_ericelliott: Learn ES6:
+1. https://t.co/T3wW6okft4
+2. https://t.co/HTwBijaomY
+3. https://t.co/1uXEOryD8L
+#es6 #JavaScript"
+89,654336059359260673,Wed Oct 14 16:40:48 +0000 2015,24,0,"RT @_ericelliott: Universal Routing in React with ES6: http://t.co/cb9Ec2cHU6
+#react #JavaScript"
+90,654224717830881280,Wed Oct 14 09:18:22 +0000 2015,0,0,https://t.co/iwGJo9tLRG #koa #errorhandler
+91,653995924679729153,Tue Oct 13 18:09:13 +0000 2015,8,0,RT @_ericelliott: What's all the hype about immutability and functional programming? https://t.co/hSgR9axvZw #JavaScript
+92,653970596922048512,Tue Oct 13 16:28:35 +0000 2015,39,0,"RT @reactjs: If you don't know what a codemod is, stop what you are doing and watch this talk by @cpojer at @jsconfeu now :) https://t.co/f…"
+93,653948193508622336,Tue Oct 13 14:59:33 +0000 2015,1,0,"RT @vstepanyuk: Node v4.2.0 (Stable)
+https://t.co/OYJqyXLSvE"
+94,653849902460600320,Tue Oct 13 08:28:59 +0000 2015,15,0,RT @_ericelliott: React tools: https://t.co/MkNEG33e1U #react #JavaScript
+95,653849718729146368,Tue Oct 13 08:28:15 +0000 2015,31,0,"RT @_ericelliott: We're building the best collection of free tech education resources online. Help us: https://t.co/OgnTCklIWJ
+#jshomes"
+96,653849599304683520,Tue Oct 13 08:27:47 +0000 2015,26,0,"RT @_ericelliott: JS devs, React is inspiring amazing innovations in app architecture. Pay attention. Check out redux and redux dev-tools @…"
+97,653629715648000000,Mon Oct 12 17:54:02 +0000 2015,0,0,@mariusschulz @andreasklinger accept theirs and run...
+98,652771004985528321,Sat Oct 10 09:01:50 +0000 2015,18,0,RT @JonathanTorke: Some helpful use cases for the #CSS calc() function - http://t.co/8bgN8lrStW
+99,652765601199431680,Sat Oct 10 08:40:21 +0000 2015,0,2,#nodejsit15 http://t.co/jiDhTBpBTa
+100,652744310778122240,Sat Oct 10 07:15:45 +0000 2015,12,0,RT @_ericelliott: Web Components: What's the Catch? (slides) http://t.co/L9rBYxWyFX #HTML5 #FluentConf
+101,652744290624520192,Sat Oct 10 07:15:40 +0000 2015,34,0,RT @reactnewsletter: Khan Academy's React Style Guide - https://t.co/aIUqzzKyI7
+102,652744271473319936,Sat Oct 10 07:15:36 +0000 2015,26,0,"RT @_ericelliott: All #JS devs should read JavaScript Scene:
+https://t.co/qhDFVMioTf
+https://t.co/KMKn8KrAq9
+https://t.co/CsQEsFJwy0
+https:…"
+103,652744242603929600,Sat Oct 10 07:15:29 +0000 2015,9,0,"RT @_ericelliott: `class` does not create a static type in JS.
+https://t.co/3r8Ey1oTGI http://t.co/lKM80a2stx"
+104,652494204514512896,Fri Oct 09 14:41:55 +0000 2015,27,0,"RT @_ericelliott: If you're a web developer not using Node and universal JS, you're doing a lot of unnecessary work. https://t.co/1CEKBuOvl…"
+105,652439290111217664,Fri Oct 09 11:03:43 +0000 2015,650,0,RT @reactjs: React 0.14 is out! 🎉 http://t.co/XV9lNls8hL
+106,652439082258333696,Fri Oct 09 11:02:53 +0000 2015,21,0,"RT @HenrikJoreteg: The following is a React 0.14 functional, stateless component in its entirety. So awesome! http://t.co/bxLirQfqNX http:/…"
+107,652439015765970944,Fri Oct 09 11:02:37 +0000 2015,52,0,"RT @_ericelliott: BIG: React 0.14 supports pure, functional components, class-free:
+http://t.co/uYMO3LbcmJ
+#reactjs #JavaScript"
+108,650670231988367360,Sun Oct 04 13:54:06 +0000 2015,627,0,"RT @li_haoyi: Industrial-strength access control in #Javascript; who needs private/public?
+
+Original https://t.co/oUJtecg9Ft http://t.co/dA…"
+109,650599596327051264,Sun Oct 04 09:13:25 +0000 2015,16,0,"RT @_ericelliott: Why you should avoid the JavaScript ""class"" keyword:  https://t.co/CsQEsFJwy0 #JavaScript #js"
+110,650599573589786624,Sun Oct 04 09:13:20 +0000 2015,21,0,RT @_ericelliott: We Have a Problem with Promises: http://t.co/T549oyA3yl #JavaScript
+111,650249222973992960,Sat Oct 03 10:01:10 +0000 2015,18,0,RT @_ericelliott: Essential JavaScript dev tools: https://t.co/VUrwkvGaD1 #js #JavaScript
+112,650249147266793472,Sat Oct 03 10:00:52 +0000 2015,24,0,"RT @_ericelliott: ""Immutable Data Structures and JavaScript"": http://t.co/beIC9KrK4g
+#JavaScript"
+113,650249135220727808,Sat Oct 03 10:00:49 +0000 2015,89,0,RT @JavaScriptDaily: nginScript: Why is NGINX Creating Its Own JavaScript Implementation? https://t.co/XKfJ6e6Bld
+114,650248275090636800,Sat Oct 03 09:57:24 +0000 2015,55,0,"RT @_ericelliott: `if` is not a function call. Give it space.
+Bad: `if(foo) {`
+Good: `if (foo) {`
+#JavaScript"
+115,649891503989489664,Fri Oct 02 10:19:43 +0000 2015,5,0,"RT @EINS78: Pro-Tip for @greenkeeperio users:
+
+Save all new dependencies with exact versions!
+
+npm install --save --save-exact #p
+# short:
+…"
+116,649850438221754368,Fri Oct 02 07:36:32 +0000 2015,44,0,"RT @_ericelliott: Introduction to Reactive Programming (video series) https://t.co/17ClnrrjiJ
+#JavaScript"
+117,649849692981956608,Fri Oct 02 07:33:35 +0000 2015,20,0,RT @Tomohiro: PHPUnit 5.0.0 🎉 / Release Announcement for PHPUnit 5.0.0 https://t.co/eOOkkzFFY2
+118,649848897595179008,Fri Oct 02 07:30:25 +0000 2015,23,0,RT @_ericelliott: Bad: `options = options || {};` Good: defaults/overrides pattern - https://t.co/6M2htVOR7W #js #JavaScript
+119,649847818618826752,Fri Oct 02 07:26:08 +0000 2015,8,0,"RT @reactnewsletter: ""Immutable Data Structures and JavaScript"" by @jlongster http://t.co/IqFqLA91kN"
+120,649654150029012992,Thu Oct 01 18:36:34 +0000 2015,27,0,"RT @rauschma: NGINX server: “nginScript – why create our own JavaScript implementation?” by @owengarrett
+https://t.co/2SP3M8ywKa"
+121,649653986778349568,Thu Oct 01 18:35:55 +0000 2015,11,0,RT @_ericelliott: DOS vulnerability in IOJS 3.x - Node 4.1.1. Security patch coming Oct 5th. https://t.co/r65C4YarRH #nodejs #JavaScript
+122,649217843289063424,Wed Sep 30 13:42:50 +0000 2015,55,0,RT @JavaScriptDaily: Clipboard.js: Modern Copy to Clipboard with No Flash - https://t.co/IvSEPagFPc
+123,649177728948809728,Wed Sep 30 11:03:26 +0000 2015,20,0,"RT @_ericelliott: Making Netflix Faster: http://t.co/3bHXhBWaCk
+#reactjs #JavaScript"
+124,649177675777581056,Wed Sep 30 11:03:13 +0000 2015,15,0,"RT @_ericelliott: Composition with prototypes. You'll never want to use `class` again. Learn it at @webdirections, Sydney:
+https://t.co/a2w…"
+125,649177613068427264,Wed Sep 30 11:02:58 +0000 2015,39,0,RT @_ericelliott: JavaScript Debugging with console.table() Link: http://t.co/F1lo393jaN  Pic: http://t.co/kEbW7DSLnr HT @addyosmani
+126,647059048160972800,Thu Sep 24 14:44:33 +0000 2015,601,0,"RT @ParseIt: Our JavaScript SDK is now open source! Learn about the tools we used to develop, test, and release it here: http://t.co/dMcg2n…"
+127,646996675521855488,Thu Sep 24 10:36:42 +0000 2015,0,0,#JavaScript just got bigger https://t.co/Oy3z52ucoM
+128,646952543118077952,Thu Sep 24 07:41:20 +0000 2015,0,0,http://t.co/qWFCsG1vCr #code
+129,644892289047920640,Fri Sep 18 15:14:37 +0000 2015,0,0,http://t.co/bfgytoSNip
+130,639552524626841601,Thu Sep 03 21:36:18 +0000 2015,30,0,"RT @_ericelliott: `var`, `let`, or `const`? I use `const` for almost everything. Rarely, I'll use `let`. Never `var`. #es6 #JavaScript"
+131,639552473569587200,Thu Sep 03 21:36:06 +0000 2015,27,0,RT @_ericelliott: Confused about reactive programming? Check out these resources: https://t.co/ZBnzaxazxf @reactivex  #JavaScript
+132,638747695155400704,Tue Sep 01 16:18:12 +0000 2015,28,0,RT @karenmcgrane: What’s next for responsive web design? http://t.co/kItcknszQE
+133,638747321736540160,Tue Sep 01 16:16:43 +0000 2015,14,0,RT @_ericelliott: Essential resources for new coders: https://t.co/KMKn8KrAq9 #jshomes #JavaScript
+134,638747249791619072,Tue Sep 01 16:16:26 +0000 2015,81,0,RT @JavaScriptDaily: node-c: Embed C Functions in JavaScript Comments in Node - https://t.co/XouZiSOPB0 (Still just a proof of concept) htt…
+135,638747161803534336,Tue Sep 01 16:16:05 +0000 2015,22,0,RT @_ericelliott: The Essential JavaScript Links Collection has moved. The gist is done. Long live the repo: https://t.co/ewHRVWEikZ #JavaS…
+136,638747131600334848,Tue Sep 01 16:15:58 +0000 2015,20,0,RT @reactnewsletter: Wondering about the benefits of a single state tree with Redux? Wonder no more.  http://t.co/xFzd5dSCX1 by @iammerrick
+137,637006414553161728,Thu Aug 27 20:58:58 +0000 2015,48,0,"RT @Real_CSS_Tricks: ➤ Responsive Images 101 by @grigs 
+
+(A 10-part series.)
+
+✎ https://t.co/cimJsPLWIy"
+138,637006179735052288,Thu Aug 27 20:58:02 +0000 2015,18,0,RT @_ericelliott: Make @reactjs faster with Immutable.js stores: https://t.co/JhynTmL2dH #React #JavaScript
+139,636477741467070464,Wed Aug 26 09:58:13 +0000 2015,2393,0,"RT @cdixon: ""Hello everybody.. I'm doing a (free) operating system.. just a hobby"" - Linus Torvalds, 1991 https://t.co/uIgHJUMrpN http://t.…"
+140,636462549236609024,Wed Aug 26 08:57:51 +0000 2015,6,0,RT @tomdale: So what's the state of the art in Node debugging? Any commercial offerings? My app takes 2 minutes to start up with node-inspe…
+141,636462333351587841,Wed Aug 26 08:56:59 +0000 2015,21,0,"RT @linuxtoday: No, Munich is not considering ditching Linux and going back to Windows: ocsmag: This “story” surfaces every se... http://t.…"
+142,636461188906360832,Wed Aug 26 08:52:26 +0000 2015,27,0,RT @_ericelliott: guid / uuid implementations often create collisions when you scale across many clients. Use cuid instead: http://t.co/IzD…
+143,636460998715699200,Wed Aug 26 08:51:41 +0000 2015,10,0,"RT @_ericelliott: Run node-inspector with the ""--no-preload=true"" option. It dramatically speeds up the time to initialize the UI. #nodejs …"
+144,636460896269791233,Wed Aug 26 08:51:17 +0000 2015,30,0,"RT @_ericelliott: JS devs, React is inspiring amazing innovations in app architecture. Pay attention. Check out redux and redux dev-tools @…"
+145,631022502823755776,Tue Aug 11 08:41:03 +0000 2015,214,0,RT @jsfiddle: You can now use ES6 (via @babeljs) in JSFiddle. http://t.co/Y50HRlpi2E
+146,622340810722418688,Sat Jul 18 09:43:06 +0000 2015,0,0,Follow all the news on voting day for the FC Barcelona presidency #FCBlive http://t.co/bcDQ8389D8 via @fcbarcelona
+147,621658810751524864,Thu Jul 16 12:33:05 +0000 2015,1,0,RT @Sethpolma: #GraphQL in the age of #REST APIs: http://t.co/SD2LcRnS4k
+148,621278388389564417,Wed Jul 15 11:21:25 +0000 2015,8,0,"RT @_ericelliott: Why I use tape instead of Mocha, and you should, too. https://t.co/JYk1ybRvNr cc @substack #js #JavaScript"
+149,621069888845688832,Tue Jul 14 21:32:55 +0000 2015,14,0,"RT @reactnewsletter: If you're wanting to use ES6 classes with @reactjs, you need to read this. http://t.co/oaSpNlHiiZ"
+150,621059349339873280,Tue Jul 14 20:51:02 +0000 2015,25,0,RT @_ericelliott: Unit test your React components with shallow renderer. http://t.co/RaB0nay6Vx #reactjs #JavaScript
+151,620558347180331008,Mon Jul 13 11:40:14 +0000 2015,60,0,"RT @mhoye: Third flash zero-day in a week, first Java zero-day in 2 years. Just uninstall them both, they're not worth it."
+152,620317496768372738,Sun Jul 12 19:43:10 +0000 2015,16,0,RT @tylermcginnis33: ICYMI. My brand new @eggheadio series on @reactjs is free through the weekend. Now is a very good time to lern React h…
+153,620316640954183680,Sun Jul 12 19:39:46 +0000 2015,64,0,"RT @ReactEurope: Never seen so many awesome animation demos in a talk, check out @_chenglou react-motion video! https://t.co/NyEJYrkTwd #re…"
+154,620316572687691776,Sun Jul 12 19:39:30 +0000 2015,31,0,"RT @ReactEurope: In case you missed it, all talks from Day 2 are available here https://t.co/rcvyc8DCHk #reactjs #ReactEurope"
+155,620316561790902273,Sun Jul 12 19:39:27 +0000 2015,15,0,"RT @ReactEurope: Are you done watching all #ReactEurope videos? Make sure to watch the Q&amp;A with the #ReactJS, Relay, GraphQL teams https://…"
+156,620316418198867968,Sun Jul 12 19:38:53 +0000 2015,11,0,RT @React_Rocks: react-masonry-gallery by @carlosvillu: Masonry-style layout with Flexbox. http://t.co/QG3SM2caz7 #reactjs
+157,620316370891341824,Sun Jul 12 19:38:42 +0000 2015,5,0,RT @EricLathrop: I made a #reactjs module for #html5 drag and drop list sorting. It's more simple and flexible than other modules https://t…
+158,620306598888636416,Sun Jul 12 18:59:52 +0000 2015,4,0,"RT @mikopp: Critical DoS Bug in #nodejs , #iojs Patched: http://t.co/4bVG3hd2k8  http://t.co/PNRfPBRRYF, http://t.co/fQRCWlfPls https://t.c…"
+159,620305431957798912,Sun Jul 12 18:55:14 +0000 2015,18,0,RT @CsharpCorner: Simple #CRUD With #MongoDB by Ratnesh Singh CC @CsharpCorner http://t.co/SGQOtyq2UE http://t.co/D9p6wm2vdg
+160,620300185172865024,Sun Jul 12 18:34:23 +0000 2015,5,0,"RT @designieure: #JavaScript #KoaJS
+Koa.js, a next-generation #webframework made by the creators of #Expressjs.
+http://t.co/ESWa8Y9tKv"
+161,620299538247589890,Sun Jul 12 18:31:49 +0000 2015,6,0,RT @ColinTheGeek: Simplifying Node with Koa http://t.co/MrsBKXe0vw #koajs #nodejs
+162,620296772963930112,Sun Jul 12 18:20:49 +0000 2015,2,0,RT @alexzeitler_: #RabbitMQ reliability troubles and workarounds http://t.co/Rfsqs2kqy3
+163,620291188541771776,Sun Jul 12 17:58:38 +0000 2015,22,0,"RT @_ericelliott: Array(10).join().split(',').map((e,i)=&gt;++i); // cool
+((a,b)=&gt;{while(a--){b[a]=a+1}return b})(10,[]); // 20x faster
+#js #e…"
+164,620290032801292288,Sun Jul 12 17:54:02 +0000 2015,4,0,"RT @derickbailey: 5 Rules for Mastering JavaScript's 'this' - never wonder what ""this"" is, again!!! http://t.co/iPY7s6N2xH http://t.co/QyHn…"
+165,620272152781193221,Sun Jul 12 16:42:59 +0000 2015,26,0,RT @reactjs: Lazy Sunday? Day 2 of @ReactEurope is also in handy playlist form ;) https://t.co/UupF12WW0s
+166,620272119377711105,Sun Jul 12 16:42:52 +0000 2015,21,0,RT @_ericelliott: What you don't know about inheritance in JavaScript: https://t.co/fSmGCM4Rwy #JavaScript
+167,620255054046605312,Sun Jul 12 15:35:03 +0000 2015,47,0,RT @JavaScriptDaily: Writing Angular 2 in TypeScript: http://t.co/OLvXjIq3tq
+168,620255029824516096,Sun Jul 12 15:34:57 +0000 2015,17,0,RT @_ericelliott: Easy clustering with PM2: https://t.co/GcfGv9US8F #nodejs #JavaScript
+169,620254897880072192,Sun Jul 12 15:34:26 +0000 2015,23,0,RT @_ericelliott: React: easier than it looks. Here's a simple example to get you started: https://t.co/p2Kgdpnfzq @reactjs #JavaScript
+170,620254877026021376,Sun Jul 12 15:34:21 +0000 2015,21,0,RT @_ericelliott: Ready to learn JavaScript? The path starts here: https://t.co/KMKn8KrAq9 #code #JavaScript
+171,620254858201952257,Sun Jul 12 15:34:16 +0000 2015,40,0,RT @_ericelliott: Node.js Production Checklist: http://t.co/9apQ2H51f1 #nodejs #JavaScript
+172,620238954047123456,Sun Jul 12 14:31:04 +0000 2015,8,0,"RT @_ericelliott: ""60fps on the Mobile Web"" React Canvas helped @flipboard hit target perf: http://t.co/6bTih2Odfd #perfmatters #JavaScript"
+173,619963547326529536,Sat Jul 11 20:16:42 +0000 2015,10,0,RT @_ericelliott: Hackable Hardware: https://t.co/Tv1BCByKo3 #nodejs #JavaScript #robots
+174,619947782384799744,Sat Jul 11 19:14:04 +0000 2015,64,0,RT @JavaScriptDaily: Validate.js: A Declarative Way to Validate JavaScript Objects - http://t.co/SWPP8fObdY
+175,619947437243924480,Sat Jul 11 19:12:41 +0000 2015,12,0,RT @_ericelliott: ES6 Generators in Depth: http://t.co/0tZWKbYBCW
+176,619947146616414208,Sat Jul 11 19:11:32 +0000 2015,43,0,RT @reactjs: Our plans for the weekend: all the phenomenal talks from @ReactEurope Day 1 - https://t.co/SQmQrWtpmj - you? ;)
+177,619947054912159744,Sat Jul 11 19:11:10 +0000 2015,54,0,RT @JavaScriptDaily: Introduction and Getting Started with React.js: http://t.co/QHanFKPEEy (A 1h20m workshop from JSConf 2015.) #video
+178,619871670203994113,Sat Jul 11 14:11:37 +0000 2015,12,0,"RT @xdebug: PHP 7's much ""improved"" APIs...: https://t.co/dQ5B8mugEi"
+179,619806697972998144,Sat Jul 11 09:53:26 +0000 2015,6,0,RT @_ericelliott: JavaScript `class` has nothing on this: https://t.co/PVhi8hCOBn #prototypaloo #JavaScript
+180,619577280583598080,Fri Jul 10 18:41:49 +0000 2015,29,0,RT @JavaScriptDaily: node-rdpjs: Remote Desktop Protocol for Node.js - https://t.co/SoB49VN627
+181,619577186249371648,Fri Jul 10 18:41:27 +0000 2015,10,0,RT @HeyDesigner: React.js Introduction For People Who Know Just Enough jQuery To Get By http://t.co/nH9XjzUFVC
+182,619577186123649024,Fri Jul 10 18:41:27 +0000 2015,12,0,RT @_ericelliott: Setting up TravisCI for your JS project: http://t.co/dgMVUJ9Kub via @JavaScriptDaily #js #JavaScript
+183,619484556924686336,Fri Jul 10 12:33:22 +0000 2015,2,0,"RT @es6katas: Sixty-second #es6kata perfect for a Friday. It’s about `Map.prototype.has()` which is perfect for a 5min break.
+http://t.co/D…"
+184,619483962772221952,Fri Jul 10 12:31:00 +0000 2015,157,0,RT @nodejs: Node.js v0.12.7 (Stable): http://t.co/sGKt6IN4Al fixes CVE-2015-1793 by upgrading to OpenSSL 1.0.1p + bug fixes + npm 2.11.3. #…
+185,619483831876325376,Fri Jul 10 12:30:29 +0000 2015,9,0,RT @_ericelliott: Compact default options in ES6: https://t.co/6M2htVOR7W #es6 #JavaScript
+186,619483683553153024,Fri Jul 10 12:29:54 +0000 2015,24,0,"RT @HackLang: Announcing XHP-JS: Building efficient user interface components with Hack, React, and XHP
+
+https://t.co/Hi0kMspsKH"
+187,619266550684643328,Thu Jul 09 22:07:05 +0000 2015,39,0,"RT @fbOpenSource: Announcing XHP-JS: Building efficient user interface components with Hack, React, and XHP: https://t.co/zFnbpMH7MG"
+188,619266230457925632,Thu Jul 09 22:05:49 +0000 2015,18,0,RT @maboa: Getting Started with GraphQL and Node.js http://t.co/udeAvLzRci
+189,619266229585465345,Thu Jul 09 22:05:49 +0000 2015,8,0,"RT @_ericelliott: Baby's First Reaction - A ""Hello, World!"" Example for React: https://t.co/p2Kgdpnfzq #react #JavaScript"
+190,619183099939811328,Thu Jul 09 16:35:29 +0000 2015,21,0,RT @ReactEurope: .@sebmck's video's up! Learn how to improve your workflow with code transformation &amp; @babeljs https://t.co/I3co4XpySI #rea…
+191,619182692559679488,Thu Jul 09 16:33:52 +0000 2015,8,0,RT @janl: OpenSSL 1.0.1 and 1.0.2 updates are out. Get patching’: https://t.co/JQbPUmx07V (correct link)
+192,619181456821211137,Thu Jul 09 16:28:57 +0000 2015,3,0,RT @echojs: GraphQL Overview - Getting Started with GraphQL and Node.js - http://t.co/TWhKDXaovE
+193,619181312151318528,Thu Jul 09 16:28:23 +0000 2015,16,0,RT @_ericelliott: Make @reactjs faster with Immutable.js stores: https://t.co/JhynTmL2dH #React #JavaScript
+194,618762714723303424,Wed Jul 08 12:45:01 +0000 2015,541,0,"RT @phpstorm: PhpStorm 9 released w/ postfix code completion for PHP, inline debugger, remote edit, and more http://t.co/oGmsDwonp4 http://…"
+195,618731136336969729,Wed Jul 08 10:39:33 +0000 2015,2,0,RT @_ericelliott: From callback to (Future -&gt; Functor -&gt; Monad) http://t.co/WIauwY1WMS #JavaScript
+196,618730917406883840,Wed Jul 08 10:38:40 +0000 2015,19,0,RT @_ericelliott: What's all the hype about immutability and functional programming? https://t.co/hSgR9axvZw #JavaScript
+197,618730871311351809,Wed Jul 08 10:38:29 +0000 2015,28,0,RT @_ericelliott: React helps you decouple DOM and application state in a way that is fundamentally different (and better) than MVC. https:…
+198,618708918496292864,Wed Jul 08 09:11:15 +0000 2015,20,0,RT @steveluscher: Thanks to @babeljs for inviting me to blog about writing @reactjs apps using ES6+ language features. http://t.co/NBb6Haqx…
+199,618693574004187136,Wed Jul 08 08:10:17 +0000 2015,2,0,"RT @LeoLaneseltd: Angular2 Starter using ES6, via Dan Wahlin #JS #AngularJS2 https://t.co/lgV15zH5NN"

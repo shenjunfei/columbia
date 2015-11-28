@@ -1,0 +1,243 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,667860972539777024,Sat Nov 21 00:23:58 +0000 2015,0,0,@colynb or you could try rollup.js https://t.co/nCDzeHX6DE - and tell me how it goes so I know if I should switch from webpack ;-)
+1,667856552095690752,Sat Nov 21 00:06:24 +0000 2015,0,0,"@colynb hmm, not familiar with babelify. I'm using webpack."
+2,667848460222140416,Fri Nov 20 23:34:15 +0000 2015,0,1,@colynb with babel v6.0 you need to also install the es2015 preset - https://t.co/5VIqHYUjXY
+3,667843478366220288,Fri Nov 20 23:14:27 +0000 2015,0,0,this is really clever! “@ryanflorence: Sending redux actions to google analytics events is pretty awesome.”
+4,667412967500025857,Thu Nov 19 18:43:46 +0000 2015,0,2,some cool JS debugging tricks: https://t.co/0uwuUl3sYE
+5,665221612044611585,Fri Nov 13 17:36:06 +0000 2015,4,0,"RT @kiwiupover: Source-map-explorer is great #javascript tool for peering your javascript builds. 
+
+Thanks @danvdk
+
+https://t.co/Sn5gKuwZmQ"
+6,665217941525258240,Fri Nov 13 17:21:31 +0000 2015,54,0,RT @dan_abramov: Hey browser folks. We whine a lot but your work is our bread and butter. Thank you for giving us a platform to run our shi…
+7,661396493119582208,Tue Nov 03 04:16:26 +0000 2015,0,1,"""programming languages aren’t useful for their features list, they are useful for the behaviors and idioms they encourage"" via @clarkkampfe"
+8,661393958325522433,Tue Nov 03 04:06:22 +0000 2015,0,0,great article by @andrestaltz: Unidirectional User Interface Architectures https://t.co/h90hcva4O2
+9,658667905375080449,Mon Oct 26 15:34:00 +0000 2015,6054,0,RT @SciencePorn: a² + b² = c² https://t.co/bPVb8nM0lV
+10,656300164844421120,Tue Oct 20 02:45:27 +0000 2015,889,0,"RT @jamesiry: A C programmer is one who, when told not to run with scissors, responds ""it should be 'don't trip with scissors.' I never tri…"
+11,616311204433104896,Wed Jul 01 18:23:36 +0000 2015,23,0,RT @wildfiction: Developers using Git in Mexico should be merging and not rebasing to avoid getting a citation. #learningonvacation http://…
+12,615979894548201472,Tue Jun 30 20:27:05 +0000 2015,1873,0,RT @idiot: http://t.co/SxSN3Ncxl6
+13,615552896839499776,Mon Jun 29 16:10:21 +0000 2015,119,0,"RT @revolutionwifi: RT @BarnabyEdwards: The comma, explained. http://t.co/IZMxpYhDzr"
+14,614522454711517188,Fri Jun 26 19:55:45 +0000 2015,1,0,RT @donohoe: Fight Club. The Children's Book (as read by Chuck Palahniuk) https://t.co/7gl9NoSxNu
+15,614168470238834688,Thu Jun 25 20:29:08 +0000 2015,105,0,RT @asymco: A brief history of Microsoft. http://t.co/mMcez5FC5q
+16,614119173703118848,Thu Jun 25 17:13:15 +0000 2015,1674,0,"RT @rikschennink: For now, let's just focus on fixing it quickly...
+
+6 months later... http://t.co/06nxj2sMqj"
+17,611936686059057153,Fri Jun 19 16:40:49 +0000 2015,17,0,"RT @ryanflorence: React is about values, functions, and snapshots rather than objects, mutations, and time."
+18,607954662080126976,Mon Jun 08 16:57:41 +0000 2015,134,0,RT @panzer: Trent Reznor is here. http://t.co/2iGrvBwo6h
+19,606216450827640832,Wed Jun 03 21:50:39 +0000 2015,4,0,"RT @kiwiupover: I believe now I'm a Statesman. 
+
+Because all frontend #Javascript development is state management."
+20,606118477837955072,Wed Jun 03 15:21:20 +0000 2015,0,0,There Is No “Finally” - words of wisdom from @shawnblancnet - http://t.co/4bH1e49oJ8
+21,605752481214103555,Tue Jun 02 15:07:00 +0000 2015,405,0,RT @iamdevloper: The greatest trick the devil ever pulled was to lead people to judge JavaScript frameworks by their example code on TodoMV…
+22,605433548107976707,Mon Jun 01 17:59:40 +0000 2015,0,0,".@usairways your website is broken in Chrome/Mac - the tabs for 'Log In' and 'Join' don't render, so no way to log in"
+23,605094872266055681,Sun May 31 19:33:54 +0000 2015,7218,0,"RT @iamdevloper: 10 lines of code = 10 issues.
+
+500 lines of code = ""looks fine.""
+
+Code reviews."
+24,604365735087849472,Fri May 29 19:16:34 +0000 2015,15,0,RT @tenderlove: Doing my best Seattle Tomster impression. http://t.co/hyhMm2rIoW
+25,603619756776665088,Wed May 27 17:52:19 +0000 2015,0,0,@kiwiupover @emberjs don't mess with Texas Tomsters!
+26,600343072636010496,Mon May 18 16:51:57 +0000 2015,2,0,RT @kiwiupover: 4 new people starting today on my team writing #Emberjs  @GoDaddy
+27,600339727246557184,Mon May 18 16:38:39 +0000 2015,602,0,"RT @iamdevloper: Consensus: “You shouldn’t mix your HTML and JS together”,
+
+Facebook: “You should mix your HTML and JS together”,
+
+…
+
+Conse…"
+28,600337571919622144,Mon May 18 16:30:05 +0000 2015,1,0,awesome article about JS Promises by @nolanlawson - http://t.co/lWQyJMxVHn
+29,598880756761432064,Thu May 14 16:01:13 +0000 2015,13613,0,RT @donohoe: Comprehensive map of all countries in the world that use the MMDDYYYY format http://t.co/jaOQp0oZyN
+30,590226416123256832,Mon Apr 20 18:51:58 +0000 2015,317,0,RT @jeresig: Just a reminder that jQuery 2.x still fixes 88 bugs in modern browsers to give you a consistent dev experience: https://t.co/S…
+31,581491328929796096,Fri Mar 27 16:21:51 +0000 2015,0,0,Woot! Updated EmberJS Guides using Ember CLI - http://t.co/MunW4OgZDI
+32,580915579202211840,Thu Mar 26 02:14:01 +0000 2015,44,0,RT @eviltrout: The best technical advice I can give is: don't bet against JavaScript.
+33,580893350045208576,Thu Mar 26 00:45:41 +0000 2015,0,0,back on the plane: SEA -&gt; PHX
+34,580441362035830784,Tue Mar 24 18:49:39 +0000 2015,1,0,"@kiwiupover ""What playing cricket looks like to Americans"" https://t.co/i0XyvtEpXC"
+35,579491815075647489,Sun Mar 22 03:56:29 +0000 2015,1,0,"RT @sstephenson: If executables are functions, and fork() + exec() is function invocation, then exec() without fork() is explicit tail-call…"
+36,578561655375695872,Thu Mar 19 14:20:22 +0000 2015,2120,0,RT @bijan: My 13year old daughters home screen. OMG. http://t.co/We8Z0JvF8j
+37,578341833593384960,Wed Mar 18 23:46:52 +0000 2015,739,0,"RT @GoatUserStories: As a goat I want a platform as a service, because the ground can get pretty cold https://t.co/N9CBjZYhPT http://t.co/W…"
+38,577545262765252609,Mon Mar 16 19:01:35 +0000 2015,0,0,great article by @scottnonnenberg - https://t.co/bnByj9BKBG
+39,576789478947229696,Sat Mar 14 16:58:22 +0000 2015,2108,0,"RT @neiltyson: Pi, written with enough digits to show all numerals in base 10:  3.14159265358979323846264338327950"
+40,575847250795999233,Thu Mar 12 02:34:17 +0000 2015,0,0,Once again PHX-&gt;SEA
+41,575733667789545472,Wed Mar 11 19:02:57 +0000 2015,1,0,this looks pretty awesome if you need to work with Excel files in Javascript: https://t.co/SE9LJ7newV
+42,575409639136735232,Tue Mar 10 21:35:23 +0000 2015,100,0,RT @ivanoats: Tim Berners-Lee just did a Reddit AMA and this happened: http://t.co/6VUuSy8qvf http://t.co/tmjeZq4Rww
+43,575408265095344129,Tue Mar 10 21:29:55 +0000 2015,11,0,"RT @EmberWatch: Watch all of last week’s Ember Conf 2015 videos online now, thanks to @confreaks https://t.co/vgtpSMR5ol #emberjs #emberconf"
+44,575374882139066368,Tue Mar 10 19:17:16 +0000 2015,2,0,RT @acarlos1000: Elastic Search is changing its name to just Elastic. including new brand and website: https://t.co/IkfK8rFzgb
+45,575344471958650880,Tue Mar 10 17:16:26 +0000 2015,0,0,great article by Paul Yoder: http://t.co/meYuSP4N14
+46,573136053533470721,Wed Mar 04 15:00:58 +0000 2015,0,2,Ready for another exciting day at #EmberConf
+47,572889843996364800,Tue Mar 03 22:42:37 +0000 2015,0,0,Great talk by @lukemelia on deployment strategy for Ember apps at #EmberConf2015
+48,572815804628000768,Tue Mar 03 17:48:24 +0000 2015,0,0,EmberConf keynote about to start! #EmberConf2015
+49,572781525256683521,Tue Mar 03 15:32:12 +0000 2015,0,0,Excited for first day of #EmberConf2015 in Portland!
+50,570445325338431490,Wed Feb 25 04:48:58 +0000 2015,0,0,"@cklosowski huge congrats, dude!"
+51,562646892471787520,Tue Feb 03 16:20:47 +0000 2015,4,0,RT @dneighbors: Where does your sport stack up in popularity?  American Football fans might be a bit surprised. http://t.co/7HaYMnl9ah
+52,540982905300729857,Fri Dec 05 21:35:50 +0000 2014,0,0,good intro to Backbone.Marionette by Ben McCormick - http://t.co/69TynQCpM2
+53,539924315576078336,Tue Dec 02 23:29:22 +0000 2014,0,0,awesome article by dzautner: http://t.co/xpsChoCMOs
+54,539869600364912640,Tue Dec 02 19:51:57 +0000 2014,486,0,"RT @searls: ""Isomorphic JavaScript"" is a new term that describes software systems which are a total mess on both the front-end _and_ the ba…"
+55,539847362621878272,Tue Dec 02 18:23:35 +0000 2014,0,1,Authorization plumbing for NodeJS/ExpressJS/ConnectJS apps - https://t.co/W0NycTagXC
+56,536958515613405184,Mon Nov 24 19:04:20 +0000 2014,0,0,great example of functional programming in JS: http://t.co/knwZZbRbQm
+57,534875985871503360,Wed Nov 19 01:09:07 +0000 2014,0,0,this is awesome! @NASA library of sounds - https://t.co/iIplEAgxpc
+58,534446924670058497,Mon Nov 17 20:44:11 +0000 2014,0,0,Spider - a new language that compiles to JS - same features as Coffeescript but with more traditional syntax http://t.co/tpC4Gy5LCR
+59,534407971476746240,Mon Nov 17 18:09:23 +0000 2014,0,0,"really good advice: ""Some REST best practices"" - https://t.co/bE5kwYduXJ"
+60,533393275667771392,Fri Nov 14 22:57:21 +0000 2014,0,1,"whoa, this is surprising: https://t.co/KYGaexsfEq"
+61,533314337683677184,Fri Nov 14 17:43:41 +0000 2014,0,0,"really interesting: Raven - ""a minimal, distraction-free text editor with good typography"" built on node-webkit https://t.co/djmCh65Cxx"
+62,532952641714667521,Thu Nov 13 17:46:26 +0000 2014,0,0,@EmberConf your RFP page for EmberConf 2015 still has a url that says 2014 and the page title still says 2014
+63,532187640716460032,Tue Nov 11 15:06:35 +0000 2014,13,0,RT @dhh: @keystonelemur @wycats Requiring each developer to carefully evaluate and pick each individual component of a large stack is woefu…
+64,531940762615676928,Mon Nov 10 22:45:35 +0000 2014,0,0,"really great article ""Reactive MVC and the Virtual DOM"" by @andrestaltz - http://t.co/xdZjvjMYh8"
+65,531899773775654914,Mon Nov 10 20:02:42 +0000 2014,0,0,good overview of Object.defineProperty by @argex - http://t.co/y3BnfqCC2P
+66,531157338997022720,Sat Nov 08 18:52:32 +0000 2014,0,0,"excellent, thoughtful article by @awgreenarrow08 - http://t.co/YhgRtazWhf"
+67,530715856112582656,Fri Nov 07 13:38:14 +0000 2014,0,0,ember-react from @ghempton looks really interesting - the best of both worlds? https://t.co/NouaXWr3Ro
+68,530084128905916416,Wed Nov 05 19:47:59 +0000 2014,0,0,"""AngularJS: The Bad Parts"" by Lars Eidnes - http://t.co/XPKcuLRMOY"
+69,530049071948390400,Wed Nov 05 17:28:41 +0000 2014,68,0,RT @JavaScriptDaily: 5 Functions of The Console Object You Didn’t Know: https://t.co/OsdidqgswY
+70,530037144379592705,Wed Nov 05 16:41:17 +0000 2014,0,1,@wildfiction definitely agree on Uber. It always feels like magic.
+71,530036807916736512,Wed Nov 05 16:39:57 +0000 2014,0,0,"@cklosowski yesterday PHP, today Ruby, Python. What about Javascript? Do you miss it, or good riddance?"
+72,529714979604152320,Tue Nov 04 19:21:07 +0000 2014,0,0,"looks interesting: LokiJS - a fast, in-memory document-oriented datastore for node.js and browser  http://t.co/cwPPEa9M6E"
+73,529321708881080322,Mon Nov 03 17:18:24 +0000 2014,0,0,"""HTTP/2 all the things!"" by @igrigorik - https://t.co/4DsLRslgvv"
+74,529320249623994368,Mon Nov 03 17:12:36 +0000 2014,0,0,"""The Road to Ember 2.0"" - https://t.co/UTK1lzWXT2"
+75,529285019018096640,Mon Nov 03 14:52:36 +0000 2014,6,0,"RT @wycats: Interesting under-the-surface difference between Ember and Angular: ""microsyntax"" is a good thing in Angular discussions, bad i…"
+76,528262893054087168,Fri Oct 31 19:11:03 +0000 2014,0,0,congrats! - @rubinius 2.3.0 released! http://t.co/wHv3gXLlmh
+77,528246564997722112,Fri Oct 31 18:06:10 +0000 2014,0,0,interesting take on the Angular 2.0 situation by @dantup: http://t.co/Eudmpj2IFx
+78,527601620171780096,Wed Oct 29 23:23:23 +0000 2014,0,0,Excellent advice from @AlanJames1987 - http://t.co/6HIN6nsPQh
+79,527548801456693249,Wed Oct 29 19:53:30 +0000 2014,0,0,the most ridiculous product ever: https://t.co/qWspEmZ0JN. And @tigweld bought it! That's even more ridiculous.
+80,527504916093214720,Wed Oct 29 16:59:07 +0000 2014,83,0,"RT @tenderlove: ""It’s also been confirmed that there will be no migration path from Angular 1.X to 2.0."" lolwut http://t.co/RXIk2YIGUL"
+81,527155906346094592,Tue Oct 28 17:52:16 +0000 2014,1,2,great presentation explaining the virtues of ReactJS: http://t.co/pPdjpGCePd
+82,526841818588008448,Mon Oct 27 21:04:12 +0000 2014,100,0,"RT @jashkenas: Very compelling Atom screenshot.
+
+If you ever asked “why would you use web tech to build a text editor?” This is why. http:/…"
+83,526783846763618305,Mon Oct 27 17:13:50 +0000 2014,0,1,"Excellent article by @greglinden - ""At what point is an over-the-air TV antenna too long to be legal?"""
+84,526773052181200896,Mon Oct 27 16:30:57 +0000 2014,0,0,I just ordered the new Amazon Fire TV Stick (only $19 as a prime member) - the next Kindle or Fire Phone?
+85,526223051684601856,Sun Oct 26 04:05:26 +0000 2014,0,0,Power went out in middle of upgrading my iMac to Yosemite. I hope it's not a brick now!
+86,525406957197615104,Thu Oct 23 22:02:34 +0000 2014,0,0,"geek #humor: do a google search for ""recursion"""
+87,525326626339704832,Thu Oct 23 16:43:22 +0000 2014,0,0,@dudulongchamps oops! should be working now. sorry 'bout that.
+88,525043503001108480,Wed Oct 22 21:58:20 +0000 2014,1,2,"slides for my talk at #ConnectJS in Atlanta, and at #HTML5DevConf in San Francisco https://t.co/YJGOR25W9Q"
+89,525037062596997121,Wed Oct 22 21:32:45 +0000 2014,2562,0,"RT @jashkenas: Ever miss the good old days of web dev? 
+
+Get excited guys. The true spirit of Internet Explorer LIVES ON! http://t.co/DaO57…"
+90,524992638601027584,Wed Oct 22 18:36:13 +0000 2014,0,0,"astonishing! ""The Difference 30 Years Makes: iMac with Retina 5K display vs. the Original Apple Macintosh"" http://t.co/gUlG5YqjF5"
+91,524991677069414400,Wed Oct 22 18:32:24 +0000 2014,0,0,"interesting presentation on ""How Google Works"" http://t.co/fhTLd0kg93"
+92,524989298093731840,Wed Oct 22 18:22:57 +0000 2014,5,0,"RT @tenderlove: Whenever I read ""engagement"", I can’t help but think Captain Picard took a marketing position and keeps saying ""engage""."
+93,524949187570327552,Wed Oct 22 15:43:34 +0000 2014,0,0,this looks useful: http://t.co/WsnrX1GFt3
+94,524635746557108224,Tue Oct 21 18:58:03 +0000 2014,14,0,RT @stevesi: Tesla's sales limits in Michigan tightened by one word @automotive_news http://t.co/noPeCyWVpd //bet dealers feel so clever ov…
+95,524626659756892160,Tue Oct 21 18:21:57 +0000 2014,0,0,"I really, really hate the new Finder icon in #Yosemite. The other new icons look great. I miss the classic MacOS face."
+96,524608322251415552,Tue Oct 21 17:09:05 +0000 2014,269,0,RT @coda: Of course someone’s forking Node. It’s not like they can start a thread.
+97,524351774757367808,Tue Oct 21 00:09:39 +0000 2014,1,2,"Today at #HTML5DevConf @acarlos1000 said ""code coverage is about seeing what you haven't tested"" #wisdom"
+98,524212339277434880,Mon Oct 20 14:55:35 +0000 2014,0,0,"@usairways yes, my profile contains my email address, yet it does not get pre-filled when I request mobile boarding pass."
+99,524201814346854400,Mon Oct 20 14:13:46 +0000 2014,0,0,"@USAirways yes, I am signed in to my account, yet the email addr field for mobile boarding pass never gets pre-filled."
+100,524091767147073536,Mon Oct 20 06:56:29 +0000 2014,0,0,"@USAirways why do I have to re-enter my email addr every time I request an electronic boarding pass, when you already have it?"
+101,524089785061613568,Mon Oct 20 06:48:36 +0000 2014,0,0,@michaellnorth I'm in for lunch! Where should we meet?
+102,524087419205722112,Mon Oct 20 06:39:12 +0000 2014,0,0,@wende_copfer thinking of you - let's meet for lunch soon to catch up
+103,524084223540350976,Mon Oct 20 06:26:30 +0000 2014,161,0,"RT @sama: ""buy stock in public companies whose products you love and sell them if that changes"" has been a great strategy for me"
+104,524063513686597632,Mon Oct 20 05:04:12 +0000 2014,0,1,"Every time I take an Uber, I feel like I'm in the future!"
+105,523999319910019072,Mon Oct 20 00:49:07 +0000 2014,0,3,On my way to San Francisco to speak at #HTML5DevConf
+106,523494255252103168,Sat Oct 18 15:22:11 +0000 2014,12981,0,"RT @hmason: TIL that the phrase software ""patch"" is from a physical patch applied to Mark 1 paper tape to modify the program. http://t.co/v…"
+107,523260075256078336,Fri Oct 17 23:51:38 +0000 2014,2,0,RT @Marc_A_Miller: Enterprise software is currently not delicious. I feel ya @connectjs
+108,523208815551201281,Fri Oct 17 20:27:57 +0000 2014,2,0,RT @compwright: Bacon.js is to Javascript what quantum theory is to physics. #connectjs
+109,523181850270138368,Fri Oct 17 18:40:48 +0000 2014,0,0,Listening to @looselytyped talk about AngularJS at #connectjs . Very entertaining!
+110,523168732865376257,Fri Oct 17 17:48:40 +0000 2014,0,0,Enjoying talk about functional reactive programming by @ph1 at #connectjs
+111,523122956558692352,Fri Oct 17 14:46:46 +0000 2014,0,1,Excellent talk by @radishmouse with cool demo: radishmouse/connectjs-isomorphic-demo · GitHub #connectjs https://t.co/tfDXKQQB7Q
+112,523109827246317568,Fri Oct 17 13:54:36 +0000 2014,4,0,"RT @shrineofapple: Michael Cohen from GoDaddy says ""software should be delicious."" #connectjs @connect_js @planetcohen"
+113,523109789929574401,Fri Oct 17 13:54:27 +0000 2014,2,0,RT @ardiwine: GoDaddy is working on redesigning the dashboard @planetcohen #connectjs
+114,523109215821647874,Fri Oct 17 13:52:10 +0000 2014,0,2,Keynote delivered! #missionaccomplished
+115,523089354269655040,Fri Oct 17 12:33:15 +0000 2014,0,0,Getting ready for my keynote at ConnectJS Atlanta. #excited
+116,519906743690600448,Wed Oct 08 17:46:41 +0000 2014,6,0,"RT @clayallsopp: Product Development in three acts:
+
+DESIGN: ""Here's what we could do""
+ENG: ""Here's what we can do""
+ENG, later: ""Here's wha…"
+117,518114082247823360,Fri Oct 03 19:03:17 +0000 2014,66034,0,RT @ErikMiller3: I felt my iPhone 6 bend in my pocket!! Then I realized it was just a Poptart and I don't have an iPhone 6. http://t.co/jJr…
+118,517729852829351936,Thu Oct 02 17:36:30 +0000 2014,0,0,brilliant: http://t.co/2tz5Cw75PJ
+119,515283438870343680,Thu Sep 25 23:35:20 +0000 2014,4,0,RT @wildfiction: Always be yourself. Unless you can be a unicorn. Then always be a unicorn.
+120,514860809596325888,Wed Sep 24 19:35:57 +0000 2014,928,0,"RT @zspencer: Go-Karts - Feel fast, are slow
+747s - Feel slow, are fast
+
+“Ship it!” - Feels fast, is slow
+“Test + Document it!” - Feels slo…"
+121,509795493388369920,Wed Sep 10 20:08:11 +0000 2014,82,0,RT @Blakei: The Internet needs to be open! Here's my open letter to FCC Chairman Tom Wheeler calling to protect #NetNeutrality http://t.co/…
+122,509492861989945344,Wed Sep 10 00:05:38 +0000 2014,153,0,RT @ValaAfshar: How does it compare to a poptart? $AAPL http://t.co/LuCT94x4q0
+123,506839753249939456,Tue Sep 02 16:23:08 +0000 2014,38478,0,RT @SimonNRicketts: This sign is supposed to show you which things are forbidden. But it actually creates the coolest dog ever. http://t.co…
+124,505363538454380544,Fri Aug 29 14:37:11 +0000 2014,408,0,RT @BenedictEvans: 'Our app should look the same on all platforms' is one of the oldest fallacies in GUIs. Actually means 'looks wrong on e…
+125,505363401237749760,Fri Aug 29 14:36:38 +0000 2014,46,0,"RT @farinajs: ""Somebody once told me I shouldn't bite more than I could chew. Told him I'd rather choke on greatness than nibble on mediocr…"
+126,499344660536360960,Wed Aug 13 00:00:19 +0000 2014,47,0,RT @bryanl: PUT PUT GET GET POST DELETE POST DELETE OPTIONS HEAD is the konami code for this web generation.
+127,497780710506127360,Fri Aug 08 16:25:44 +0000 2014,552,0,RT @mblondel_ml: Map-reduce explained in one picture http://t.co/xQItMxEnHZ
+128,494625306032889857,Wed Jul 30 23:27:17 +0000 2014,11,0,"RT @niallsmart: You're getting a six, @TWC_Help. http://t.co/w5PzOoOrN1"
+129,492051435744288768,Wed Jul 23 20:59:38 +0000 2014,3384,0,RT @peterseibel: My favorite Mythical Man Month story: a team in which each developer bought the manager a copy of MMM. So he could read it…
+130,465592809915838464,Sun May 11 20:42:30 +0000 2014,0,1,"after several year hiatus, resuming a family tradition: going to @woodlandparkzoo for Mother's Day"
+131,445618971828432896,Mon Mar 17 17:53:36 +0000 2014,0,0,"@tenderlove try out Coffeescript - it makes JS a little nicer, especially for Ruby devs http://t.co/5VMdL3ld6c"
+132,439442664052629504,Fri Feb 28 16:51:10 +0000 2014,0,0,"@rickeames no Atom invite yet, still waiting"
+133,439078472506286080,Thu Feb 27 16:44:00 +0000 2014,0,1,my search towards text editor nirvana: vi -&gt; MPW -&gt; UltraEdit -&gt; jEdit -&gt; TextMate -&gt; SublimeText ?-&gt; Atom
+134,433792729080791041,Thu Feb 13 02:40:20 +0000 2014,0,0,"OH: ""that deserves a Google"""
+135,417222677238001664,Sun Dec 29 09:16:52 +0000 2013,0,0,Jack just doesn't have the wood
+136,415223317906219008,Mon Dec 23 20:52:08 +0000 2013,0,0,"for font nerds: Knuth's TeX font, Computer Modern, for the web - http://t.co/vQYJvZdz1Y"
+137,412747345978093568,Tue Dec 17 00:53:30 +0000 2013,0,0,"magic: ""I’m giving you these comments because I have very high expectations and I know that you can reach them."" http://t.co/vY49KnchY4"
+138,411726073273929728,Sat Dec 14 05:15:20 +0000 2013,0,0,"OH: ""he had more confidence than wisdom"""
+139,398905488856731648,Fri Nov 08 20:10:54 +0000 2013,0,1,"OH: ""Let's adopt Agile. But let's make sure that our user stories are 80% complete 7 months ahead of our due dates"". D'oh!"
+140,395009085893922816,Tue Oct 29 02:07:59 +0000 2013,0,0,@wende_copfer Go Hawks!
+141,390540502241538048,Wed Oct 16 18:11:26 +0000 2013,157,0,"RT @dcurtis: Normal lawyer: “You can't do that.” 
+
+Startup lawyer: “Interesting. Let me figure out how you can do that.”"
+142,387348143882260480,Mon Oct 07 22:46:08 +0000 2013,74,0,RT @kraneland: Segway polo... Only at Google. http://t.co/QdSNMJNRIw
+143,387324258679922689,Mon Oct 07 21:11:14 +0000 2013,1,0,RT @briankirkland: @GoDaddy new office space is awesome!  Move in day for Scottsdale. http://t.co/BOv7VFc9rY
+144,385797241127989248,Thu Oct 03 16:03:24 +0000 2013,1,0,RT @cormacdriver: Missing the '.com' button on the iOS 7 keyboard? This is for you: http://t.co/AwW9C3ChHD
+145,385452432936812544,Wed Oct 02 17:13:16 +0000 2013,63,0,"RT @qrush: Incredibly proud and happy that https://t.co/fvBsrpNQVj uses Ruby, RubyGems, and Jekyll. It's open source too: https://t.co/OhPV…"
+146,384731305721593856,Mon Sep 30 17:27:45 +0000 2013,1,0,"RT @danielhardy: OH: ""Just because my dentist is hot doesn't mean I dress up for him"""
+147,383681068110344193,Fri Sep 27 19:54:29 +0000 2013,0,2,interesting presentation about mobile web development by @laraswanson: http://t.co/1igJXRSLVq
+148,381996891828801536,Mon Sep 23 04:22:10 +0000 2013,0,0,brilliant analysis by @stratechery: http://t.co/ius5ZeDub0 -
+149,381126831354544128,Fri Sep 20 18:44:52 +0000 2013,1,0,"RT @stympy: running just ""rake"" on a new Rails project you inherited is like a box of chocolates -- you never know what you're going to get"
+150,381126640295608320,Fri Sep 20 18:44:06 +0000 2013,1,0,RT @danielhardy: Good read - 10 Things Designers Need to Stop Doing to Kick Agile's Ass! - http://t.co/x243nrDvdx
+151,381126057346093056,Fri Sep 20 18:41:47 +0000 2013,10,0,"RT @Blakei: Wake up, kick ass, repeat #tgif"
+152,381125069948207104,Fri Sep 20 18:37:52 +0000 2013,4,0,"RT @_ZPH: Every time I see a ‘for’ statement in Ruby, I imagine Matz screaming in rage and frothing at the mouth about the joys of Enumerab…"
+153,380367357392068609,Wed Sep 18 16:26:59 +0000 2013,0,0,@Blakei Have you tried Strava? That's my favorite app for tracking my rides.
+154,380064289098190848,Tue Sep 17 20:22:42 +0000 2013,29,0,RT @raganwald: BYOD is evidence of something everyone has known for decades: Big Vendors and Big IT have done an absolutely shitty job for …
+155,377952371076517888,Thu Sep 12 00:30:41 +0000 2013,1191,0,"RT @zkahn94: Which one is better?
+The iPhone 5c: http://t.co/AI4DVbXxnV
+The iPhone 5s: http://t.co/9c5ZPw3kD6"
+156,374942369398792193,Tue Sep 03 17:10:01 +0000 2013,31,0,RT @rands: Suspense: https://t.co/lCG7xfh4eq
+157,374941467451482113,Tue Sep 03 17:06:26 +0000 2013,0,0,The changes at GoDaddy start rolling out today: http://t.co/X7YTPofW19
+158,373562003547099136,Fri Aug 30 21:44:56 +0000 2013,9593,0,"RT @stevelosh: HTTP status ranges in a nutshell:
+
+1xx: hold on
+2xx: here you go
+3xx: go away
+4xx: you fucked up
+5xx: I fucked up"
+159,365901195459575813,Fri Aug 09 18:23:37 +0000 2013,361,0,RT @climagic: Windows = Fast Food; Mac = $50 steakhouse dinner; iOS/Android = Vending machine snacks; Linux = Home cooked meal
+160,361895842065563649,Mon Jul 29 17:07:47 +0000 2013,1,0,RT @wende_copfer: Rain in Scottsdale is like snow in Seattle.
+161,352159368562737152,Tue Jul 02 20:18:30 +0000 2013,33,0,RT @rands: Listening to Nine Inch Nails is a good way to remind yourself that it could always be worse.
+162,350643285120921600,Fri Jun 28 15:54:08 +0000 2013,2,0,RT @danielhardy: Nifty Modal Effects - http://t.co/vv5NN48uyD
+163,349547980401029121,Tue Jun 25 15:21:47 +0000 2013,1,0,"""Stop polishing and ship instead. Polished perfect isn't better than perfect, it's merely shinier. And late."" http://t.co/bQrXQDoPHt"
+164,349200522793861121,Mon Jun 24 16:21:07 +0000 2013,1,0,RT @rajnijjer: Things haven't been the same since Adele set fire to the rain
+165,347390992783126530,Wed Jun 19 16:30:41 +0000 2013,6,0,RT @cormacdriver: “Watch The Phone” - What I learned at a Kanye West show about how college kids use their phones: https://t.co/Q3t45Jd9Ap
+166,347386600256323585,Wed Jun 19 16:13:14 +0000 2013,2028,0,RT @codinghorror: What the hell have you built. http://t.co/Tq7ktgDWzD
+167,347037055764807681,Tue Jun 18 17:04:16 +0000 2013,1,0,RT @danielhardy: CSS Typography cheat sheet https://t.co/ays2Dl8Gc2
+168,346651823010091008,Mon Jun 17 15:33:29 +0000 2013,6,0,"RT @thomasfuchs: If you run a Rails app, you want @newrelic, just saved me hours of work by identifying a performance problem in mere secon…"
+169,344992695334338560,Thu Jun 13 01:40:42 +0000 2013,7,0,"RT @Blakei: More good news: ""GoDaddy inks lease for Seattle-area engineering outpost at Carillon Point"" http://t.co/or2w97ZRTL via @geekwire"
+170,344503436244570113,Tue Jun 11 17:16:34 +0000 2013,0,0,"BrickPi: A Robotics Hacking Platform That Combines Raspberry Pi And LEGO Mindstorms
+http://t.co/VHI6tk2xuw"
+171,343490019291443201,Sat Jun 08 22:09:37 +0000 2013,1,0,"RT @ivanoats: If you're not convinced ""Why Coffeescript?"" Read this slide deck: The CoffeeScript Edge http://t.co/yWslkDlSSr"
+172,343485961168109570,Sat Jun 08 21:53:29 +0000 2013,12,0,"RT @robbyrussell: At this point, am pretty sure it'd be cheaper to buy your customers who are running IE6 a new computer than to build/test…"
+173,342757890387476480,Thu Jun 06 21:40:23 +0000 2013,3,0,RT @thomasfuchs: Why aren’t address form fields on websites just one text area? Code could easily parse and point out missing stuff/wrong z…
+174,340611387971760129,Fri May 31 23:30:57 +0000 2013,0,0,"""A brand that stands for what all brands stand for stands for nothing much."" http://t.co/Eg8HkOe1Fw"
+175,339253897724039168,Tue May 28 05:36:46 +0000 2013,0,0,"@usairways when I refresh page, I get an http://t.co/JZsYai67Qj server error. Really?!?"
+176,339253366096023552,Tue May 28 05:34:40 +0000 2013,0,0,"@usairways getting ""Error retrieving data"" trying to check in online. I have a 5am flight, don't really have time to deal with this."
+177,337243839632920576,Wed May 22 16:29:31 +0000 2013,1,0,it's now easier to take advantage of the Ruby ecosystem when writing iOS apps: MotionBundler by @archan937 http://t.co/eW0oS7o1uK
+178,336532871948939264,Mon May 20 17:24:23 +0000 2013,0,0,"what he said: ""Designing the Whole"" by @cap -- http://t.co/BLffCgIcYX"
+179,336517126833704960,Mon May 20 16:21:49 +0000 2013,1,0,RT @jrjasperson: Tumblr Architecture http://t.co/jFchFx8owk
+180,336516154216566784,Mon May 20 16:17:57 +0000 2013,0,0,this looks interesting: futures in Ruby --futuroscope gem by @josepjaume http://t.co/gGjINZLlrJ
+181,336508443273871362,Mon May 20 15:47:19 +0000 2013,0,0,"Good article by @leebrimelow: ""Native equivalents of jQuery functions""
+http://t.co/hMe2gREobi"
+182,335442921178411008,Fri May 17 17:13:19 +0000 2013,1,1,a new web component framework for JS: Polymer http://t.co/VPM7QP4kIC
+183,335181508887322624,Thu May 16 23:54:33 +0000 2013,1,0,RT @cormacdriver: Interesting post on how beautiful design can hold people back from really using a product: https://t.co/9P8LVxTTVb
+184,335091758893514752,Thu May 16 17:57:55 +0000 2013,0,0,Chrome keeps making things better for the user: latest innovation is requestAutocomplete() -- http://t.co/C4xEtIPLSd
+185,335083992493744128,Thu May 16 17:27:04 +0000 2013,0,0,"this looks really interesting: ProMotion, a Full-Featured RubyMotion Application Framework -- http://t.co/lEkBIAPEtl"
+186,334760192187183106,Wed May 15 20:00:24 +0000 2013,0,1,Created a new Win7 VM this morning. The WinUpdate/restart dance only takes about 2 hours. So much fun. Not.
+187,334745451247058945,Wed May 15 19:01:49 +0000 2013,1,0,"watching Google/IO keynote: simultaneously fascinating, exciting, terrifying. No other company today matches this breadth of innovation."
+188,334744691499216896,Wed May 15 18:58:48 +0000 2013,0,0,interesting: Apple's Obj-C to JS bridge -- http://t.co/ktvNkrLMPX
+189,334705168228691968,Wed May 15 16:21:45 +0000 2013,0,0,Microsoft should be very afraid: http://t.co/CyjoMOwwMs
+190,334407484292857858,Tue May 14 20:38:51 +0000 2013,0,1,This is really useful when digging into a new Rails project: http://t.co/tEaDCZTEQR
+191,334329826678824961,Tue May 14 15:30:16 +0000 2013,0,0,do you react to defects with fear or courage? from @mattwynne: http://t.co/xRX8OTmyVp
+192,331395926738477056,Mon May 06 13:12:00 +0000 2013,8,0,RT @thomasfuchs: A quick way to judge quality web app design is to try “add to home screen” on iOS and see if there’s a proper icon provide…
+193,329602224886005760,Wed May 01 14:24:28 +0000 2013,0,0,Google Fonts on your desktop with SkyFonts -- http://t.co/otlhRfrl9c
+194,329601764565344257,Wed May 01 14:22:39 +0000 2013,1,2,The MEAN stack - the 21st century successor to the LAMP stack? -- http://t.co/Ty20W7csOI
+195,317670979616788480,Fri Mar 29 16:13:58 +0000 2013,0,0,the cutest video EVER: http://t.co/pUdYYtJk0s
+196,316689874264670208,Tue Mar 26 23:15:24 +0000 2013,0,0,good article by @ozkatz100: Avoiding Common Backbone.js Pitfalls -- http://t.co/CQZZH2lSC2
+197,315148664584683520,Fri Mar 22 17:11:11 +0000 2013,0,0,a most excellent video tutorial covering the ins &amp; outs of SublimeText2 -- https://t.co/XPojqyQ0Lg
+198,314811598831226880,Thu Mar 21 18:51:48 +0000 2013,0,0,http://t.co/XTmfvX3Hue -- really useful listing of RubyMotion wrappers for iOS APIs by @clayallsopp
+199,314774589987229696,Thu Mar 21 16:24:45 +0000 2013,0,0,I want these things now! http://t.co/An5r9Khwv6

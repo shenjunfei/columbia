@@ -1,0 +1,283 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668929769547784193,Mon Nov 23 23:10:59 +0000 2015,1,0,RT @RedisLabs: Would you like a #free #cloud #database from #redis? Sign up @ https://t.co/MAuR4fohnr #FreeDatabase https://t.co/TqSLjSD3iz
+1,668929403624140800,Mon Nov 23 23:09:32 +0000 2015,7,0,"RT @udacity: A Tale Of Two Techs: Tech Skills Get You Hired Anywhere, NOT Just “In Tech” https://t.co/OOS7MnGeXw #EdTech https://t.co/YQ1ob…"
+2,668929390978334720,Mon Nov 23 23:09:29 +0000 2015,2,0,RT @vhdotco: The Difference Between Serif And Sans Serif https://t.co/MOxzpIbDGI https://t.co/kSzHbkiEB2
+3,668928737220493312,Mon Nov 23 23:06:53 +0000 2015,1,0,RT @RedisLabs: Redis sets Big Data on Fire! Click here to learn more https://t.co/S3TwEDpM1A
+4,668928650960474112,Mon Nov 23 23:06:33 +0000 2015,47,0,RT @AndroidDev: Using tabs is easy with TabLayout and a ViewPager https://t.co/6tS8c5rPz9  #BuildBetterApps
+5,668928616403591168,Mon Nov 23 23:06:24 +0000 2015,49,0,RT @AndroidDev: New Android Tool Time video series! @retomeier explores the world of Android Developer Tools https://t.co/YGuMDAsmhK https:…
+6,668928525718544384,Mon Nov 23 23:06:03 +0000 2015,55,0,"RT @googledevs: GooglePlayServices 8.3, TensorFlow, Chrome 47 &amp; Magnus tries to keep calm on a new #DevShow! https://t.co/rWFYPgJdBK https:…"
+7,668928503312617473,Mon Nov 23 23:05:57 +0000 2015,61,0,"RT @AndroidDev: Live now! 📡 #AndroidDevSummit framework, tooling, performance, data binding and more from Android engineers: https://t.co/D…"
+8,668928449352863745,Mon Nov 23 23:05:45 +0000 2015,621,0,RT @AndroidDev: Just announced: Android Studio 2.0 at #AndroidDevSummit keynote: https://t.co/DGQRgwnPoz https://t.co/nkuKAOdLUr
+9,668927838305697792,Mon Nov 23 23:03:19 +0000 2015,24,0,RT @AndroidDev: 10 tips to get more installs: https://t.co/s5lamEYIEx #GooglePlay
+10,668927813529939968,Mon Nov 23 23:03:13 +0000 2015,22,0,RT @AndroidDev: Join @cwren as he discusses Android notification UI and APIs - respecting user attention: https://t.co/DGQRgwnPoz  #Android…
+11,668927759863779328,Mon Nov 23 23:03:00 +0000 2015,36,0,RT @AndroidDev: Make life easy for your users. Chad Brubaker explains best-practices for common security tasks: https://t.co/DGQRgwnPoz #An…
+12,668927735603924992,Mon Nov 23 23:02:54 +0000 2015,30,0,"RT @AndroidDev: RecyclerView animations made easy! Or, easier, at least. @chethaase &amp; @yigitboyar on #AndroidDevSummit stage: https://t.co/…"
+13,668927735599730689,Mon Nov 23 23:02:54 +0000 2015,30,0,RT @AndroidDev: Check our YouTube channel for #AndroidDevSummit talks posted throughout the day -&gt; https://t.co/ahYHRJ5911 https://t.co/wIO…
+14,668927630553387008,Mon Nov 23 23:02:29 +0000 2015,80,0,RT @AndroidDev: Some seriously helpful libraries out there. Join @chrisbanes &amp; @adamp: https://t.co/DGQRgwnPoz #AndroidDevSummit https://t.…
+15,668926969669545984,Mon Nov 23 22:59:52 +0000 2015,16,0,RT @eggheadio: Angular 2 and Redux: https://t.co/tzNJnBX6aF
+16,668805810386898944,Mon Nov 23 14:58:25 +0000 2015,0,0,HTTP Live Streaming In Javascript https://t.co/QZHpcTZGuu
+17,668564028659118080,Sun Nov 22 22:57:40 +0000 2015,27,0,RT @JMunozCasillas: Node.js Performance Metrics | @ThingsExpo #IoT #APM #API #Microservices  #nodejs https://t.co/2u08RXWMHO https://t.co/x…
+18,668414581740470272,Sun Nov 22 13:03:49 +0000 2015,0,0,5 Tips to Increase Node.js Application Performance https://t.co/TTbT5Xx1Cw
+19,668359404387889152,Sun Nov 22 09:24:34 +0000 2015,4,0,"RT @MateiCopot: added leaves
+https://t.co/MEC0xBnd5a https://t.co/DjSNNDsaYK"
+20,668244806053728257,Sun Nov 22 01:49:11 +0000 2015,40,0,RT @sysdig: You've never seen a command line tool do this. Visualizing real-time latency spectrograms: https://t.co/KiLRNxMnmW http://t.co/…
+21,668242434371878912,Sun Nov 22 01:39:46 +0000 2015,0,0,Why you should understand (a little) about TCP - Julia Evans https://t.co/5WLpXijc1r via @b0rk
+22,668235296471826432,Sun Nov 22 01:11:24 +0000 2015,0,0,“Scaling Airbnb with Brian Chesky — Class 18 Notes of Stanford University’s CS183C” by @mccannatron https://t.co/51cfTGzdB3
+23,668060670240292864,Sat Nov 21 13:37:30 +0000 2015,2,0,RT @InfoQ: Article: Key Lessons Learned from Transition to NoSQL at an Online Gaming Website https://t.co/uxxS3lHeGl
+24,668058922410881024,Sat Nov 21 13:30:33 +0000 2015,27,0,RT @_ericelliott: Essential JavaScript dev tools: https://t.co/VUrwkvGaD1 #js #JavaScript
+25,668058708308463616,Sat Nov 21 13:29:42 +0000 2015,58,0,"RT @legomushroom: ◆ Modal Window Destroy Concept ◆
+blow any html node test
+-
+http://t.co/YQVXgVMnoz @CodePen
+#svg #canvas #uiux http://t.co…"
+26,668058642982146049,Sat Nov 21 13:29:27 +0000 2015,43,0,RT @LilGast8: A particule dream \\ Beautiful #WebGL demo! by @nopjia v/ @ayamflow http://t.co/KTL51IQSdb http://t.co/s61c9AgjpQ
+27,668051264870051840,Sat Nov 21 13:00:07 +0000 2015,34,0,RT @denormalize: huge congrats to @MikolaLysenko on all the amazing WebGL data viz tools opened source here https://t.co/q1Uop1OSAv
+28,668050686077087744,Sat Nov 21 12:57:49 +0000 2015,18,0,"RT @nodeschool: If you're familiar with JavaScript and want to learn Node.js from scratch, The Art of Node is a good place to start https:/…"
+29,668049202375626754,Sat Nov 21 12:51:56 +0000 2015,1,0,RT @RedisWeekly: Redis 3.0.5 and 2.8.23 released https://t.co/jgsudEgbFb
+30,668048631048474624,Sat Nov 21 12:49:40 +0000 2015,0,0,Chrome Extensions – AKA Total Absence of Privacy https://t.co/yQFpMmcEzL
+31,667888638273785856,Sat Nov 21 02:13:54 +0000 2015,0,0,Startup Playbook by Sam Altman (@sama) https://t.co/u0AH1sx3Dn
+32,667884509082222592,Sat Nov 21 01:57:30 +0000 2015,13,0,"RT @ProductHunt: Shift Card: Use bitcoin anywhere VISA is accepted https://t.co/eBMELGGh3p @ShiftPayments 
+💰💳✨ https://t.co/tV6s9ZoAXu"
+33,667883894079795200,Sat Nov 21 01:55:03 +0000 2015,0,1,https://t.co/t8nJXYXfRS How to Design a Better Pitch Deck
+34,667878919823994880,Sat Nov 21 01:35:17 +0000 2015,72,0,"RT @legomushroom: • mo · js • gets a website! https://t.co/CEkkAbQBOQ
+Lots of great articles are coming!
+-
+#mojs #animation #motion https:/…"
+35,667878776777216000,Sat Nov 21 01:34:43 +0000 2015,19,0,"RT @_ericelliott: Introduction to Reactive Programming (video series) https://t.co/17ClnrrjiJ
+#JavaScript"
+36,667878754811645952,Sat Nov 21 01:34:38 +0000 2015,0,0,motion graphics library for the web https://t.co/jqLaFx1HGM
+37,667734508465029120,Fri Nov 20 16:01:27 +0000 2015,0,0,“How To Learn a New Programming Language While Maintaining Your Day Job and Still Being There For…” by @robconery https://t.co/STGqxaJG1m
+38,667717958785830912,Fri Nov 20 14:55:41 +0000 2015,12,0,RT @golangweekly: go-oauth2-server: OAuth2 Server Implementation for Go - https://t.co/xbTGl94eSd
+39,667479619214290944,Thu Nov 19 23:08:37 +0000 2015,7,0,RT @GoogleForEntrep: Wonder what it's like to launch an app at Google? Get behind-the-scenes with @yourprimer: https://t.co/r6wrjmUu5w
+40,667479347452776448,Thu Nov 19 23:07:32 +0000 2015,9,0,"RT @twilio: Display &amp; maintain your data with @Reactjs, @Expressjs, and Socket.io in this call monitoring app via @SagnewShreds https://t.c…"
+41,667479299725766656,Thu Nov 19 23:07:20 +0000 2015,305,0,RT @AndroidDev: Android Studio 1.5 is now available to download from the stable release channel: https://t.co/KsAmuVGLgA https://t.co/CnVk5…
+42,667479276875223041,Thu Nov 19 23:07:15 +0000 2015,321,0,RT @ZURBfoundation: #Foundation6 is here! https://t.co/Xo8ENMTQIM https://t.co/ecqi8YGrNL
+43,667478900402839552,Thu Nov 19 23:05:45 +0000 2015,116,0,RT @awscloud: AWS SDK for #Golang is now at Version 1.0.0 &amp; ready for production use. https://t.co/0IYmDA8Erw https://t.co/KH46PGcXw6
+44,667477417494077440,Thu Nov 19 22:59:52 +0000 2015,1644,0,"RT @mjmalone: ""Random"" noise from Math.random() in Safari (top) and Chrome (bottom). More details at https://t.co/IqtRYdDCoJ https://t.co/h…"
+45,667253013489127424,Thu Nov 19 08:08:10 +0000 2015,5,0,"RT @Pat_Hg: My 11th contribution for #codevember. #Gsap svg animation.
+https://t.co/iAH3Hl8FSC
+cc @codevember2015 @CodePen https://t.co/fKV…"
+46,667121539888738304,Wed Nov 18 23:25:44 +0000 2015,103,0,"RT @ChromiumDev: HTTP/2 is coming. Actually, it’s here. Right now – @surmair gives you a quickstart: https://t.co/fVvThakzAv https://t.co/3…"
+47,666756735177064448,Tue Nov 17 23:16:08 +0000 2015,4,0,RT @mozappsdev: Extending the Web’s capabilities in Firefox and beyond - (includes cooking w/ #serviceworkers )- by @david_bryant https://t…
+48,666755123360632832,Tue Nov 17 23:09:43 +0000 2015,109,0,RT @ChromiumDev: Experimental Web Bluetooth API announced in Chrome for Android &amp; ChromeOS #ChromeDevSummit: https://t.co/fVvThakzAv https:…
+49,666753340475183104,Tue Nov 17 23:02:38 +0000 2015,17,0,"RT @cabel: .@Dropbox It seems very… wrong… that I can type ""a"" in this form and it'll reveal random people's names/e-mails? 😧 https://t.co/…"
+50,666752830905061377,Tue Nov 17 23:00:37 +0000 2015,22,0,"RT @AngularAir: ""The Importance of Learning JavaScript @getify"" is up!
+video: https://t.co/CjRW6rAio4
+audio: https://t.co/gVRgriZ6yg https:…"
+51,666727153665372160,Tue Nov 17 21:18:35 +0000 2015,0,0,Smarter Publish &amp; Subscribe With SmartQuery - Discover Meteor https://t.co/FtwN4vo6qn via @DiscoverMeteor
+52,666482733707694080,Tue Nov 17 05:07:21 +0000 2015,82,0,RT @ProductHunt: The most creative use for @Twilio? The detection of Parkinson’s Disease with 99% accuracy. https://t.co/W80KZdxAYU https:/…
+53,666474691725426688,Tue Nov 17 04:35:23 +0000 2015,0,0,Secret Symphony: The Ultimate Guide to Readable Web Typography — https://t.co/cQYIi0rzh5 via @pearsonified
+54,666367355925106688,Mon Nov 16 21:28:52 +0000 2015,25,0,RT @GoogleForEntrep: Learn how @richardbranson &amp; @tyrabanks dealt w/ failure to find success. https://t.co/ip1tXNFLXF #FailAndSucceed https…
+55,666366745465098240,Mon Nov 16 21:26:27 +0000 2015,7,0,RT @juicybeast: .@dnault wrote a thorough article on his level design process for #TotoTempleDeluxe https://t.co/qgfTQwfgLg #gamedev https:…
+56,666032266456358912,Sun Nov 15 23:17:21 +0000 2015,26,0,RT @kylemathews: Published my slides from talk on #graphql &amp; #relay I gave today at #nodevember https://t.co/2RfDJXJqTl
+57,666030631239860224,Sun Nov 15 23:10:51 +0000 2015,25,0,RT @paulg: Jessica's tips for YC interviews: https://t.co/kXxrluAMfl. Most have broader applications.
+58,666029766663778304,Sun Nov 15 23:07:25 +0000 2015,13,0,RT @newsycombinator: Show HN: ied – an alternative package manager for Node https://t.co/RWehHwAUNe
+59,666028839928119297,Sun Nov 15 23:03:44 +0000 2015,6,0,"RT @_ericelliott: Watch Composition Over Inheritance by @mpjme https://t.co/rI8QfgdbzF
+P.S. There's a new spec for that: https://t.co/a2wQV…"
+60,666007028989472768,Sun Nov 15 21:37:04 +0000 2015,0,1,Sigma.js: a JavaScript library for graph drawing https://t.co/68gh6VSnQd
+61,666002159234736128,Sun Nov 15 21:17:43 +0000 2015,59,0,RT @meteorjs: The Introduction to #Meteorjs Development Online Course via @coursera starts tomorrow! Register now: https://t.co/93vrpCkxVm …
+62,665843218999742464,Sun Nov 15 10:46:08 +0000 2015,0,0,Vue.js elastic header component https://t.co/Ca2MCWaMeT via @CodePen
+63,665776477212807168,Sun Nov 15 06:20:56 +0000 2015,29,0,RT @_ericelliott: Configure your Microservices with JSON using PM2: https://t.co/wAvZZXreVK #nodejs #JavaScript
+64,665705287475593216,Sun Nov 15 01:38:03 +0000 2015,4,0,RT @lexaloffle: monster eating jelly from 3 different angles https://t.co/2qxgY0MtjW
+65,665704570966773760,Sun Nov 15 01:35:12 +0000 2015,2,0,RT @albertomoss: In love with the #pico8 by @lexaloffle! Limitations foster the most creative solutions. https://t.co/dmJD0sdtqJ https://t.…
+66,665704303697358848,Sun Nov 15 01:34:08 +0000 2015,1,0,"RT @vuejs: @bitfalls unobtrusive reactivity, optimized by default, single file components with pre-processors &amp; hot reload: https://t.co/FB…"
+67,665521499747450881,Sat Nov 14 13:27:44 +0000 2015,1,0,"RT @RedisWeekly: ""Stored Procedures"" in Redis /by @vitol_l https://t.co/lRqYpXUFrH""Stored_Procedures""_in_Redis"
+68,665420750061457408,Sat Nov 14 06:47:24 +0000 2015,58,0,RT @googledevs: Using @Firebase and App Engine to write an app with backend data storage &amp; real-time sync: https://t.co/bIwe3Y7Sn5 https://…
+69,665415282446479366,Sat Nov 14 06:25:40 +0000 2015,4,0,"RT @_ericelliott: Have you been using Otto? How's the deployment process working for you?
+└[∵┌]└[ ∵ ]┘[┐∵]┘
+https://t.co/y0VRhwTiCl"
+70,665168067312271360,Fri Nov 13 14:03:20 +0000 2015,7,0,"RT @FGRibreau: Used redis-copy today (https://t.co/g1u7Mbwen5), that's a really nice tool when you don't have access to the servers :)"
+71,665165572670296064,Fri Nov 13 13:53:25 +0000 2015,111,0,RT @buffer: Some inspiration for you today! :) https://t.co/V2HsOKi2HN
+72,665165321909637121,Fri Nov 13 13:52:25 +0000 2015,15,0,RT @golangweekly: Gauge: A Cross-Platform Test Automation Tool - https://t.co/9nQoLfEjFY
+73,665104513309655040,Fri Nov 13 09:50:47 +0000 2015,29,0,"RT @WorldsAdrift: An exploding Behemoth litters the ground, below. #madewithunity #gamedev #indiedev #videogames https://t.co/92KCz37w66"
+74,665088733444599808,Fri Nov 13 08:48:05 +0000 2015,0,0,Webhooks for Payouts - https://t.co/7c1UJEp5F4
+75,664973650638966784,Fri Nov 13 01:10:47 +0000 2015,0,0,DevTools Challenger https://t.co/ozB7L6ASOB
+76,664973205984022528,Fri Nov 13 01:09:01 +0000 2015,41,0,RT @JavaScriptDaily: Nodeadmin: An Admin Interface for MySQL + Express Apps - https://t.co/57acgOmXgu
+77,664973014816059393,Fri Nov 13 01:08:15 +0000 2015,0,1,Multicore Programming in Node.js https://t.co/9VjJHtPZiz via @DZone
+78,664812987358687232,Thu Nov 12 14:32:22 +0000 2015,9,0,"RT @OReillyMedia: #HTTP2 will make your applications faster, simpler &amp; more robust! @igrigorik explains how https://t.co/3ElivJeUQG"
+79,664659177273294848,Thu Nov 12 04:21:11 +0000 2015,75,0,RT @heroku: Be a happy Node.js hacker! Here are 10 habits to improve application performance and be more productive - https://t.co/Zq53ETKw…
+80,664632856413532160,Thu Nov 12 02:36:35 +0000 2015,0,0,23 Deceptive Packaging Ideas That Aren’t What They Appear To Be https://t.co/zsB9snnHe6 via @christinina13 @buzzfeed
+81,664581357423624193,Wed Nov 11 23:11:57 +0000 2015,1,0,RT @BeauVrolyk: This @kubernetesio is serving 1 million HTTP requests per second while also doing a rolling upgrade to the software! https:…
+82,664581248761794561,Wed Nov 11 23:11:31 +0000 2015,3,0,"RT @_ericelliott: Still unsure what wasm is? Check out the recap near the bottom of my article:
+https://t.co/rpPuBFeU4w #wasm #JavaScript"
+83,664580828547039233,Wed Nov 11 23:09:51 +0000 2015,33,0,RT @kassens: Just published Relay v0.5.0. https://t.co/YEVKDeAx0b #relayjs @fbOpenSource
+84,664579364403605504,Wed Nov 11 23:04:02 +0000 2015,8,0,RT @thm_a: Here's why our Engineer @andrewverte built @CordProject's backend in @golang on @googlecloud https://t.co/dD6Mj1c9hy https://t.c…
+85,664579030956400640,Wed Nov 11 23:02:42 +0000 2015,21,0,"RT @Shopify: ""Avoiding failure is to avoid progress"" #Inspiration https://t.co/VUzjSpEqm0"
+86,664578810172473348,Wed Nov 11 23:01:50 +0000 2015,115,0,RT @nodejs: A look inside Netflix’s stack &amp; scaling culture with @ChrisUeland https://t.co/GyRJdCUhsS #nodejs
+87,664441996254142470,Wed Nov 11 13:58:11 +0000 2015,4,0,"RT @ReactiveConf: Containers Are Dead. Long Live Observable Combinators https://t.co/E8uWNkjoxR
+
+via @milankinen #ReactJS #GoReactive"
+88,664441590807588864,Wed Nov 11 13:56:34 +0000 2015,63,0,RT @devbattles: Free Drinks for #Programmers! Have a nice #weekend  #webdev https://t.co/R5UN1AQRW1
+89,664441547430035456,Wed Nov 11 13:56:24 +0000 2015,16,0,RT @buffer: New Post! A Bried History of Social Media + 4 Bold Predictions on Where We Are Headed https://t.co/oUq5sNr4VJ https://t.co/n1dU…
+90,664441224460288005,Wed Nov 11 13:55:07 +0000 2015,6,0,"RT @Firebase: Learn a better workflow with the Firebase CLI. 
+
+https://t.co/ISLmheEbXa https://t.co/m5aoRBuvsd"
+91,664440919546982400,Wed Nov 11 13:53:54 +0000 2015,7,0,RT @workdif: “Everyone around you wholeheartedly wants you to excel and evolve.” Inside @automattic: https://t.co/cvAfFTgkrF https://t.co/3…
+92,664440778807074816,Wed Nov 11 13:53:21 +0000 2015,9,0,RT @photonstorm: Bomberman Tutorial Part 1 https://t.co/qKTxkhJT7m https://t.co/2o5jl96D6q
+93,664440703485739009,Wed Nov 11 13:53:03 +0000 2015,81,0,RT @golangweekly: JetBrains Publishes Official Go Plugin for Its IDEs: https://t.co/4y0QB0ljIo
+94,664440257912246272,Wed Nov 11 13:51:16 +0000 2015,28,0,RT @superhoge: THREE.MMDLoader supports Physics with r73 now https://t.co/A9JtJaUhQk #threejs #JavaScript #WebGL #3dcg https://t.co/GzoBnGh…
+95,664065667205697536,Tue Nov 10 13:02:47 +0000 2015,33,0,"RT @3rdwave_themes: The #frontend spectrum 
+https://t.co/gx8pf6Uqcb
+#webdev #developer https://t.co/GcSRGDTOLD"
+96,664065585609703424,Tue Nov 10 13:02:28 +0000 2015,3,0,RT @MostovenkoA: nice example for #Rxjs selection with Ctrl and Shift https://t.co/OSvdSQQNdH #javascript
+97,664044836002000898,Tue Nov 10 11:40:00 +0000 2015,8,0,"RT @mamund: ""APIs.json Discovery"" by @kinlane eBook Download @InfoQ @apiacademy https://t.co/FDchnhthfJ #DDandP https://t.co/DDyKpz0Tt5"
+98,664044121972080640,Tue Nov 10 11:37:10 +0000 2015,4,0,RT @unbounce: 6 Articles on Design Theory to Help You Create Beautiful #LandingPages: https://t.co/GPPPu0DUdr https://t.co/W99w3hgQMh
+99,664043044262449152,Tue Nov 10 11:32:53 +0000 2015,39,0,RT @edthink: Very proud to have built the new live data visualisation at @ltmuseum with the brilliant @kindesign https://t.co/3SZTpxFAM9
+100,664042957075386368,Tue Nov 10 11:32:32 +0000 2015,5,0,RT @MaterialUp: Website builder – 💡 User interface by @vtcreative #concept  https://t.co/AvXi8SS8mu https://t.co/7SaxKYYrg8
+101,664039797694951424,Tue Nov 10 11:19:59 +0000 2015,49,0,"RT @GoodwolfStudio: You can filter your search in the editor by adding t:type, e.g. t:prefab #unitytips #unity3d #indiedev https://t.co/wnh…"
+102,664024595427561472,Tue Nov 10 10:19:35 +0000 2015,19,0,"RT @antirez: New blog post, “A few things about Redis security”, https://t.co/90IUSFhSWH"
+103,663948803569926144,Tue Nov 10 05:18:25 +0000 2015,0,2,How we unit test React components using expect-jsx https://t.co/dRXkzyN3Ae via @algolia
+104,663948675303911424,Tue Nov 10 05:17:54 +0000 2015,134,0,RT @Rygu: Uber released a &lt;MapGL&gt; React component: https://t.co/P0Gdk2yQUN #reactjs https://t.co/1rWD1O87Ce
+105,663886476992581632,Tue Nov 10 01:10:45 +0000 2015,275,0,"RT @ryanflorence: 💥 React Router v1.0 🎉
+
+- data loading integration points
+- 1st class code splitting
+- stateless routing
+- &amp; more
+
+https:/…"
+106,663885298426773504,Tue Nov 10 01:06:04 +0000 2015,12,0,"RT @treehouse: UI, UX: Who Does What? A Designer's Guide To The Tech Industry: https://t.co/ru6dFRbIpn via @FastCoDesign"
+107,663885178184445952,Tue Nov 10 01:05:35 +0000 2015,12,0,RT @ChrisGannon: SVG SoundCloud Vinyl Player @CodePen https://t.co/2rSdbQfrZu @greensock #interactive #music https://t.co/f9a21ecIbo
+108,663733768297934848,Mon Nov 09 15:03:56 +0000 2015,3,0,RT @happycog: 21 days to make a habit? Yann Girard tells us 10 or 11 things he learned writing everyday. https://t.co/YChVx5NTZN - DDR
+109,663733723200786434,Mon Nov 09 15:03:45 +0000 2015,45,0,RT @qz: Fake it ’til you become it: The science of self-perception https://t.co/xqVwrjArqV
+110,663733679013806080,Mon Nov 09 15:03:35 +0000 2015,14,0,RT @Behance: LowPoly fairy tales: https://t.co/QfyBvE2FEH https://t.co/sEAhhgi5Sk
+111,663733370199797760,Mon Nov 09 15:02:21 +0000 2015,3,0,RT @rethinkdb: Rethinking NoSQL by @robconery at @ABBDevDay // https://t.co/4C7RZpOjrS (Thanks Rob!) #NoSQL
+112,663733151542317057,Mon Nov 09 15:01:29 +0000 2015,64,0,RT @VentureBeat: Google launches open source machine-learning system TensorFlow https://t.co/lstEGXKSm6 by @psawers https://t.co/gei6mCeRCy
+113,663732519397814272,Mon Nov 09 14:58:58 +0000 2015,8,0,RT @reddit: What are some of the annoying things your cats do? https://t.co/Tfrlp9Ienu https://t.co/NKUj3wyGyg
+114,663732438565163011,Mon Nov 09 14:58:39 +0000 2015,4,0,"RT @_ericelliott: Functional programming is more than utilities and techniques.
+Learn the essence and foundations.
+https://t.co/zbLckjwV24
+…"
+115,663732362979602432,Mon Nov 09 14:58:21 +0000 2015,2,0,RT @uxpin: Build beautiful animations quickly. No coding required. https://t.co/MdF3ZDhIyr #uxpin
+116,663732335926349824,Mon Nov 09 14:58:15 +0000 2015,4,0,RT @WooCommerce: WooCommerce 2.5 Beta 1 https://t.co/ZBrms3pSML https://t.co/InIc4o2hrV
+117,663723772696854528,Mon Nov 09 14:24:13 +0000 2015,0,0,Free parking for life by @ronreiter https://t.co/2ibwwrijEw
+118,663666380051316736,Mon Nov 09 10:36:09 +0000 2015,1,0,RT @vhdotco: Explained in 60 Seconds: UX &amp; UI by @ohointeractive https://t.co/d5an5yZ0gY https://t.co/1R7ekkVaHY
+119,663386703407648768,Sun Nov 08 16:04:49 +0000 2015,3,0,RT @mozappsdev: Brotli is an open source data compression library - @lostoracle explains https://t.co/CDi2f4sJKZ https://t.co/OVpDZq8WTh
+120,663385988274622465,Sun Nov 08 16:01:59 +0000 2015,18,0,"RT @CSSLight: #Featured of the Day 08 Nov 2015
+Gobelins interactive experiments by @vdaguenet https://t.co/JPjY0gNkRJ https://t.co/5weVqBOG…"
+121,663384708168876032,Sun Nov 08 15:56:54 +0000 2015,12,0,"RT @_ericelliott: Tracking.js - Several computer vision algorithms in JS: https://t.co/zISZHPBle8
+#JavaScript"
+122,663346450516959233,Sun Nov 08 13:24:52 +0000 2015,16,0,RT @rethinkdb: Check out our #SQL to #ReQL cheat sheet! https://t.co/D6HYavk5Qv https://t.co/o3XQui3CzN
+123,663345727024709633,Sun Nov 08 13:22:00 +0000 2015,0,0,The Current State Of E-Commerce Filtering https://t.co/boe3zgRpDA via @smashingmag
+124,663344404891959296,Sun Nov 08 13:16:45 +0000 2015,10,0,"RT @couchbase: What looks like SQL, but easier than #MongoDB? Couchbase w/ N1QL. Agile development + scalable queries. Get started https://…"
+125,663338324191383552,Sun Nov 08 12:52:35 +0000 2015,0,0,"Usage Statistics and Market Share of WordPress for Websites, November 2015 https://t.co/n72xGnQAto"
+126,663273275389145088,Sun Nov 08 08:34:06 +0000 2015,7,0,"RT @ChromeExp: Play SpaceLamb by @12WaveStudio
+https://t.co/RMR4QMipyj http://t.co/MuxoFRxTT4"
+127,663273202823512065,Sun Nov 08 08:33:49 +0000 2015,6,0,"RT @ChromeExp: Waves, by @inconvergent 
+https://t.co/1C4tqwEbJk http://t.co/l4R8mURMmw"
+128,663273170594476033,Sun Nov 08 08:33:41 +0000 2015,9,0,"RT @ChromeExp: IO15 by @thespite 
+https://t.co/UfhPmk02Iz http://t.co/nKnJa2pQHW"
+129,663272715285983232,Sun Nov 08 08:31:52 +0000 2015,14,0,"RT @gnapse: The slides for my talk ""Better Async Javascript"" @startechconf https://t.co/fPf3SU8K8G #RxJS #FunctionalReactiveProgramming"
+130,663239069372026880,Sun Nov 08 06:18:11 +0000 2015,10,0,RT @ProductHunt: ProductBoard: Beautiful product management for lean startups https://t.co/iE0ltKsFRB via @rogerdudler https://t.co/W1U7w1t…
+131,663238853763821568,Sun Nov 08 06:17:19 +0000 2015,16,0,"RT @_ericelliott: Want to learn to build apps? Forget school.
+Do this instead: 
+https://t.co/KMKn8KJbhH
+#code #JavaScript"
+132,663238747312406528,Sun Nov 08 06:16:54 +0000 2015,12,0,RT @meteorjs: Visualize the Miami Dade County Budget: https://t.co/yV7yVlE3Jq #builtwithmeteor #meteorjs #d3js by @CodeForMiami https://t.c…
+133,663034316381937664,Sat Nov 07 16:44:34 +0000 2015,44,0,"RT @MongoDB: Learn the features in 3.2. Enhanced analytics &amp; search, new pluggable storage engines &amp; more! https://t.co/xe7rTyNCLa #GIANTle…"
+134,663033925111951361,Sat Nov 07 16:43:00 +0000 2015,26,0,"RT @SaraSoueidan: If you use React and need to generate some #SVG at some point, you might find this post useful: https://t.co/TOWaK52uA1"
+135,663033812142526464,Sat Nov 07 16:42:34 +0000 2015,72,0,RT @MongoDB: MongoDB 3.2 - Turn your data into realtime insights. https://t.co/l2CcEWH2cZ https://t.co/8hmyO6CiqX
+136,663033372042629120,Sat Nov 07 16:40:49 +0000 2015,74,0,RT @HTML5Weekly: Your First Offline Web App: https://t.co/bIeqCm5bxs
+137,662952475897368576,Sat Nov 07 11:19:21 +0000 2015,13,0,"RT @Behance: Celebrate good times, come on: https://t.co/kfFoQ2b498 https://t.co/ckBRjH3wTr"
+138,662952418095661056,Sat Nov 07 11:19:08 +0000 2015,29,0,RT @thespite: Someone said Akira-like trails? https://t.co/ecOVvgqlgM https://t.co/5E555WGtve
+139,662951945682849792,Sat Nov 07 11:17:15 +0000 2015,6,0,RT @michalvalasek: I've put together a bunch of links to all the cool stuff discussed at @ReactiveConf this week: https://t.co/I3N1kl8qYg #…
+140,662951859015946240,Sat Nov 07 11:16:54 +0000 2015,6,0,RT @newsycombinator: Opaleye’s sugar on top: SQL in the type system https://t.co/AWnTIGFagR
+141,662871351120674816,Sat Nov 07 05:57:00 +0000 2015,7,0,RT @MaterialUp: Email Receipt – 💡 User interface by @dmtors #concept  https://t.co/GoWOCr9NDj https://t.co/jx5qsi2ynP
+142,662821446792536065,Sat Nov 07 02:38:42 +0000 2015,0,0,HTTP Status Codes — httpstatus.es https://t.co/4BqRxgZq8z via @citricsquid
+143,662808727175610368,Sat Nov 07 01:48:09 +0000 2015,15,0,RT @InVisionApp: Mobile usage has officially passed the desktop https://t.co/8Q8y3W4Hnz https://t.co/f8IG0IzrTY
+144,662808641687285760,Sat Nov 07 01:47:49 +0000 2015,4,0,"RT @highalpha: ""What Investors Want"" by @brettbivens of @VisibleVC featured in the @mattermarkdaily https://t.co/l3O6DsAkp3"
+145,662808545478340608,Sat Nov 07 01:47:26 +0000 2015,2,0,RT @rethinkdb: How does @Lendio use RethinkDB in production? Learn about it in our #RealtimeStories web series // https://t.co/jmPEuZYQWA
+146,662808517003206656,Sat Nov 07 01:47:19 +0000 2015,33,0,RT @JavaScriptDaily: Create a GitHub File Explorer Using Vue.js: https://t.co/Uf5RObX2Jt
+147,662808501241024512,Sat Nov 07 01:47:15 +0000 2015,19,0,RT @ProductHunt: Startup Playbook by @Sama is a Must Read before your launch. Illustrated by @gkoberger  https://t.co/h7flaYRGHu 🙇📝🚀 https:…
+148,662808445989490688,Sat Nov 07 01:47:02 +0000 2015,1,0,RT @vhdotco: Rain &amp; Water Effect Experiments by @lucasbebber https://t.co/NidwjkkuuP https://t.co/irq8N1ahH5
+149,662808323876491265,Sat Nov 07 01:46:33 +0000 2015,9,0,"RT @SlackHQ: Sometimes you've just got to call it quits. And if you do, do it with panache! Just like these people did.🚪🏃💨🙅 https://t.co/oN…"
+150,662808260324364288,Sat Nov 07 01:46:18 +0000 2015,61,0,RT @allsecretcoding: Building an app with #ReactJS and NodeJS for beginners. Courtesy of Sérgio #JavaScript https://t.co/nWrjTyUfB1 https:/…
+151,662808163876368384,Sat Nov 07 01:45:55 +0000 2015,10,0,RT @ProductHuntPod: Tech Bubble or Tech Bust? New episode of the @jyarow &amp; @fmanjoo show! 💥 🎧🎙 https://t.co/Jsq1Wo4eiI TL:DR https://t.co/T…
+152,662808015943286784,Sat Nov 07 01:45:20 +0000 2015,1698,0,RT @SpaceSciTM: Here is an amazing illustration of how #Jupiter protects Earth from major astroid impacts. https://t.co/nN96Gu97QE
+153,662630528214917120,Fri Nov 06 14:00:03 +0000 2015,0,0,The best way to learn math is to learn how to fail productively https://t.co/5UPrYbLrqe via @qz
+154,662408043099914240,Thu Nov 05 23:15:59 +0000 2015,5,0,RT @happycog: RT @JoeRinaldi: This isn't War Games. Live mapping of internet attacks: https://t.co/zPgNZVhLIs /ht @paulbellows https://t.co…
+155,662406414963359744,Thu Nov 05 23:09:30 +0000 2015,6,0,RT @CampaignMonitor: We teamed up with @unbounce to show you how to create awesome holiday campaigns. https://t.co/Rsv6dmk8J3 https://t.co/…
+156,662402117441744897,Thu Nov 05 22:52:26 +0000 2015,39,0,RT @googlecloud: New to Cloud Shell? Learn how to create and manage Compute Engine instances and more: https://t.co/tatHbhRvt0 https://t.co…
+157,662196524009414656,Thu Nov 05 09:15:28 +0000 2015,0,0,"@dbs_care @dbs_care Hi, i had receive ur colleague call and helps. Thanks!"
+158,662165273714147328,Thu Nov 05 07:11:18 +0000 2015,0,0,@dbs_care Thanks for your Blazing fast reply. I had sent an email subject 'issue related to my account'. Pls take a look. Thanks!
+159,662155008289325056,Thu Nov 05 06:30:30 +0000 2015,0,0,@dbsbank @MOM_sg and can the deduction be waived? All info I had now is bank number &amp; insufficient fund notice
+160,662154759357378561,Thu Nov 05 06:29:31 +0000 2015,0,0,@dbsbank @MOM_sg so my question is what should I do now? Should i go MOMS center first? Or go any POSB branch to get my bank card/info?
+161,662154434990899200,Thu Nov 05 06:28:14 +0000 2015,0,0,@dbsbank @MOM_sg without getting any letter that notice me my POSB acc had been opened + where to get my bank card/info
+162,662153304642686976,Thu Nov 05 06:23:44 +0000 2015,0,0,"@dbsbank i'm work permit holder, my employer help me request open POSB acc throught @MOM_sg system. Now i receive insufficient fund letter"
+163,661683325317152769,Tue Nov 03 23:16:12 +0000 2015,880,0,"RT @addyosmani: CSS Variables (custom properties) have landed in Chrome! 
+
+https://t.co/3hJRatQsMi
+https://t.co/z3eNPXBOSJ https://t.co/31F…"
+164,661683084329222144,Tue Nov 03 23:15:15 +0000 2015,48,0,RT @MongoDB: MongoDB 3.2 announced! @eliothorowitz shares his thoughts on the MongoDB 3.2 release. #GIANTleap https://t.co/7s1sfWkWbl
+165,661682975663218688,Tue Nov 03 23:14:49 +0000 2015,6,0,RT @syedbalkhi: Advice: Train your mind to see the good in every situation! #lifetips #success
+166,661682581868380160,Tue Nov 03 23:13:15 +0000 2015,8,0,RT @fluentconf: Learn why and how to use ES6 and React in this live training w/ @netflix's @holtbt coming Nov 10: https://t.co/FYz5R9VvEs
+167,661681936088236033,Tue Nov 03 23:10:41 +0000 2015,7,0,RT @treehouse: 9 responsive typography tips from the experts: https://t.co/UfzNwmCxiM via @CreativeBloq
+168,661573372904497156,Tue Nov 03 15:59:18 +0000 2015,0,0,Why Static Website Generators Are The Next Big Thing https://t.co/7g7FgZTjUq via @smashingmag
+169,661320737228062721,Mon Nov 02 23:15:25 +0000 2015,19,0,RT @davidwalshblog: JavaScript Promise Overview  https://t.co/WsfH3QyVOp
+170,661320631972073472,Mon Nov 02 23:15:00 +0000 2015,18,0,RT @newsycombinator: Object.observe withdrawn from TC39 https://t.co/5gGQGhTAWW
+171,661315539478773760,Mon Nov 02 22:54:45 +0000 2015,3,0,"RT @dmorosinotto: Great @getify walk throught on async #js https://t.co/c1CaGbgDBY
+from callback,promise,generators+observables to CSP http…"
+172,660952078890614784,Sun Nov 01 22:50:30 +0000 2015,14,0,"RT @mozilla: Where can you learn about accessibility, Web audio, game dev, CSS, web security, ECMAScript, and more? #ViewSource: https://t.…"
+173,660729472040046594,Sun Nov 01 08:05:56 +0000 2015,19,0,RT @eggheadio: ...learn javascript arrays in depth   https://t.co/fuXtXfrw7i
+174,660225999896899585,Fri Oct 30 22:45:19 +0000 2015,0,0,Cross platform JavaScript REPL application based on Electron and React https://t.co/DnYLOlI6ij
+175,659951190633943040,Fri Oct 30 04:33:19 +0000 2015,0,0,Remembering Wayne Dyer: 20 Quotes to Help You Become a Better You by @Matt_Mayberry https://t.co/9VJT6HOsHu via @Entrepreneur
+176,659872691025895424,Thu Oct 29 23:21:24 +0000 2015,39,0,"RT @brad_frost: Neat! A self-guided workshop for learning the basics of Pattern Lab: https://t.co/1aTd7NWjsK 
+
+made by @RobbieTheGeek and @…"
+177,659872180935655424,Thu Oct 29 23:19:22 +0000 2015,3,0,RT @couchbase: #Couchbase replaces #SQLServer to deliver reliable #BlackFriday: @diginomica explains @CenterEdge’s move to #NoSQL https://t…
+178,659870858538684417,Thu Oct 29 23:14:07 +0000 2015,9,0,"RT @Shopify: A Step-by-Step Guide to Driving 10,000 Visitors a Month Through Pinterest » https://t.co/pxhOCkrI8D via @neilpatel"
+179,659870635254910976,Thu Oct 29 23:13:13 +0000 2015,8,0,RT @scalevp: Portfolio co @Pubnub Tutorial Covers How to Build Realtime Charts for Live-Updating Data by @sw1tch https://t.co/9UuRsZ0GGs #j…
+180,659870510260449280,Thu Oct 29 23:12:44 +0000 2015,8,0,RT @davidwalshblog: JavaScript Battery API: Promises  https://t.co/vSoEDw7l4V
+181,659870317838364672,Thu Oct 29 23:11:58 +0000 2015,24,0,RT @treehouse: What makes an effective landing page? https://t.co/2Pku3mJ2ub via @treehouse_blog #webdesign https://t.co/GvKRkmHq1S
+182,659870091551444992,Thu Oct 29 23:11:04 +0000 2015,4,0,RT @CouchDB: Hello there! The CouchDB Weekly News: https://t.co/ti14OeewvY
+183,659869618408808448,Thu Oct 29 23:09:11 +0000 2015,44,0,"RT @googlecloud: Our Developers Console gets a UI redesign with better nav, search, and more customization. https://t.co/B28vurzu5P https:/…"
+184,659869252753625088,Thu Oct 29 23:07:44 +0000 2015,695,0,"RT @derekakessler: Samsung Screens
+18.4
+12.2
+10.5
+10.1
+9.7
+9.6
+8.4
+8
+7
+6.3
+6
+5.7
+5.6
+5.5
+5.25
+5.1
+5
+4.8
+4.77
+4.7
+4.65
+4.5
+4.3
+4.27
+4
+3.8
+3.…"
+185,659869160910925824,Thu Oct 29 23:07:22 +0000 2015,12,0,RT @awwwards: Styling &amp; Customizing File Inputs the Smart Way from @codrops https://t.co/83bww5Fv5e   #WebDevelopment #Forms https://t.co/c…
+186,659869038617608192,Thu Oct 29 23:06:53 +0000 2015,132,0,"RT @WomenOfHistory: I don't know the key to success, but the key to failure is trying to please everybody."
+187,659868975837216768,Thu Oct 29 23:06:38 +0000 2015,73,0,RT @julian_duque: Node.js 5.0.0 is out https://t.co/RGroP4siSy (Node.js 4.2.1 is still LTS)
+188,659013489466314752,Tue Oct 27 14:27:14 +0000 2015,31,0,RT @meteorjs: Meteor Impact aims to provide information for more advanced developers https://t.co/scGvl8vIOH #meteorjs https://t.co/JzleHO9…
+189,659013395669094400,Tue Oct 27 14:26:52 +0000 2015,0,0,Software Is The New Oil https://t.co/9jN8jlU33G
+190,658779290230587392,Mon Oct 26 22:56:36 +0000 2015,2,0,RT @treehouse_blog: React: The Hype is Real: https://t.co/DFpWREvNXG by @chalkers
+191,658660134701297665,Mon Oct 26 15:03:08 +0000 2015,129,0,"RT @legomushroom: ·•● Bubble • Layout ●•·
+-
+http://t.co/9Yk4MwXNKy on @CodePen 
+#motion #animation #mojs #svg http://t.co/gAd40cVeCu"
+192,658659850478485504,Mon Oct 26 15:02:00 +0000 2015,36,0,RT @jackrugile: My mini pong entry for LD Mini 58  is complete. Warning: God awful anywhere but Chrome: http://t.co/TfxA3KbxEB #LDJAM http:…
+193,658422217340948480,Sun Oct 25 23:17:44 +0000 2015,4,0,RT @AdRoll: Behind the scenes: How our #engineering team built #prospecting platform #adrolltech @irrr https://t.co/XJrvVcp2j9 https://t.co…
+194,658422073803472896,Sun Oct 25 23:17:09 +0000 2015,2,0,RT @newsycombinator: Turing CEO Defends $750 Pill in Reddit AMA https://t.co/lap3otKIZD
+195,658420983389290496,Sun Oct 25 23:12:49 +0000 2015,1,0,RT @jonsaul: React.js Tutorial Pt 1: A Comprehensive Guide to Building Apps with React.js https://t.co/UaHV80Ng4A
+196,658420754241859584,Sun Oct 25 23:11:55 +0000 2015,8,0,"RT @_ericelliott: Curry or Partial Application? What's the Difference? https://t.co/s6hqp9p0Sw
+#JavaScript #functionalprogramming"
+197,658420388850872320,Sun Oct 25 23:10:28 +0000 2015,4,0,"RT @AdRoll: CPM, DSP, CPC, SSP... WTF? Programmatic acronyms explained! https://t.co/UZE7umbF9c"
+198,658098820211847168,Sun Oct 25 01:52:40 +0000 2015,37,0,"RT @googledevs: Unsure how to bind to objects in Polymer? ¯\_(ツ)_/¯
+We made this video to help out 🎥
+
+https://t.co/lJI4SxaitQ https://t.co/…"
+199,658065601953316864,Sat Oct 24 23:40:40 +0000 2015,0,0,What PostgreSQL has over other open source SQL databases: Part II https://t.co/KSeLKjnZzx via @composeio

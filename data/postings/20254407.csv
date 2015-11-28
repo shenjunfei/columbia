@@ -1,0 +1,319 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669276225299464193,Tue Nov 24 22:07:41 +0000 2015,18,0,RT @myfear: 8 surprising facts about real #Docker adoption  https://t.co/jvX2eNBqd4 /via @burrsutter
+1,668833848105398272,Mon Nov 23 16:49:50 +0000 2015,0,0,@speakjava drop me a note when you next plan to visit St louis. We should do lunch or dinner.
+2,668833179239739393,Mon Nov 23 16:47:10 +0000 2015,20,0,"RT @speakjava: Some of my thoughts on joining @AzulSystems and #Java in general, https://t.co/AsEiopevsE"
+3,668823874067279873,Mon Nov 23 16:10:12 +0000 2015,3,0,RT @SpiderOak: The most affordable way to protect your #business: https://t.co/ja6qVHDSkN
+4,668820457840185344,Mon Nov 23 15:56:37 +0000 2015,1,0,RT @ITUSnetworks: Real hackers don't fit into Hollywood's stereotypical image -- via @theguardian -- https://t.co/ui8k1ofLco https://t.co/G…
+5,668778739552022529,Mon Nov 23 13:10:51 +0000 2015,0,0,The Keys To Enya’s Kingdom https://t.co/o32hK8hCbh via @annehelen
+6,668617511445729280,Mon Nov 23 02:30:11 +0000 2015,14,16,"For 40 years, computer scientists looked for a solution that doesn’t exist https://t.co/FhF0BAhlvm via @BostonGlobe"
+7,667963233513312256,Sat Nov 21 07:10:19 +0000 2015,0,0,"@ablackamericann nope, would be a cool job however."
+8,667578041845968896,Fri Nov 20 05:39:42 +0000 2015,0,7,"The Cosmos Of #Enya
+ https://t.co/5iTavPumf6
+I Love Enya #music"
+9,667433619087097856,Thu Nov 19 20:05:49 +0000 2015,0,0,@ablackamericann @nodenow if Transaction has a nice toString() impl I would just do System.out.println(transactions)
+10,667433088268529664,Thu Nov 19 20:03:43 +0000 2015,0,0,"@ablackamericann @nodenow just to iterate easily I would use 
+for(Transaction t: transactions) {
+}"
+11,667356977752772608,Thu Nov 19 15:01:17 +0000 2015,2,2,"Sign up now for #Java Testing with #JUnit in #STL
+The how and why of testing.
+https://t.co/TYGscOXSW2 
+Click ""Register"" link. #RT"
+12,667069827031306241,Wed Nov 18 20:00:14 +0000 2015,2,0,"Sign up now for #Java Testing with #JUnit in #STL
+Learn what must be tested! 
+https://t.co/x2Ov4mRvIQ 
+Click ""Register"" link. #RT"
+13,667032219295215616,Wed Nov 18 17:30:48 +0000 2015,1,1,"Sign up now for #Java Testing with #JUnit in #STL
+Learn what parts I must be testing! 
+https://t.co/ukhMY0Nzn1
+Click ""Register"" link. #RT"
+14,666657133992144896,Tue Nov 17 16:40:21 +0000 2015,0,2,"Looking forward to visiting the @NeutralZoneStl again this week. Large retro arcade. MrsPacMan, Asteroids, DonkeyKong, Defender ..."
+15,666358364717252608,Mon Nov 16 20:53:09 +0000 2015,27,37,Time spent thinking about code to be written is much more important than time spent writing code. #Programming
+16,666290996829798400,Mon Nov 16 16:25:27 +0000 2015,2,2,Figured out how to get the I2C ack and clock stretch values in my pure #Java @seeedstudio grove framework.  Next will do LCD text.
+17,666074114201751553,Mon Nov 16 02:03:38 +0000 2015,0,3,Took the family out for bread bowls at @panerabread had wonderful time. Everyone was so polite.
+18,665620140722008064,Sat Nov 14 19:59:42 +0000 2015,0,0,@hotelzululima no problem thanks for the good info
+19,665575707053981697,Sat Nov 14 17:03:09 +0000 2015,0,0,@psygnisfive @seeedstudio it is however tasty to the masses.
+20,665575292585426944,Sat Nov 14 17:01:30 +0000 2015,0,0,@hotelzululima what am I missing here?
+21,665574698256695296,Sat Nov 14 16:59:08 +0000 2015,6,0,RT @seeedstudio: May the butter be with you! #DeathStar #waffle https://t.co/sZPWKEwHJv https://t.co/yvbAuSlSmf
+22,665573396541890561,Sat Nov 14 16:53:58 +0000 2015,2,6,Mount @seeedstudio grove moisture sensor to keep it from flopping around when traveling. https://t.co/0N9LwJh4PC
+23,665569195610890240,Sat Nov 14 16:37:16 +0000 2015,3,1,Building I2C streaming audit trail for my #Java Grove Edison setup.  Visibility is the first step to debugging hard problems.
+24,663914281201610752,Tue Nov 10 03:01:14 +0000 2015,9,10,Using IdentifiedDataSerializable for your @hazelcast objects can boost the cluster throughput significantly. #Java
+25,663820782930268160,Mon Nov 09 20:49:42 +0000 2015,4,0,RT @ObjectComputing: Our November Issue of SETT is available! Read on Extracting Value from Data. #bigdata https://t.co/PcPA1JDpyA
+26,663522469773381632,Mon Nov 09 01:04:19 +0000 2015,145,0,RT @torproject: Wouldn’t it be cool if every website could get an .onion address free with its #SSL certificate? @RogerDingledine #AaronSwa…
+27,663519383797403648,Mon Nov 09 00:52:03 +0000 2015,331,0,RT @paulg: There is much more money in doing new things than in paying people less.
+28,663439367768178689,Sun Nov 08 19:34:06 +0000 2015,9,0,"RT @codek_tv: #Java Testing with Spock
+☞ https://t.co/IWdXBW8nAU
+Deal of the Day: https://t.co/70rcLO0Tm7 https://t.co/julqgJjQkg"
+29,663359608115720192,Sun Nov 08 14:17:09 +0000 2015,13,26,"""Beware of bugs in the above code; I have only proved it correct, not tried it."" 
+Donald E. Knuth"
+30,662804407625449472,Sat Nov 07 01:30:59 +0000 2015,1,1,@kglsvn @hazelcast Smart just implies that lots of thought went into writing exactly what was needed for the problem at hand.
+31,662804062170025984,Sat Nov 07 01:29:37 +0000 2015,0,0,@kglsvn @hazelcast An EntryProcessor is a block of logic that is sent to the distributed map entries to modify the values in place
+32,662745981004288000,Fri Nov 06 21:38:49 +0000 2015,1,5,Using a two different #Java objects (client/server) which share the same serialized form can speedup and simplify a @hazelcast project.
+33,662744989412102145,Fri Nov 06 21:34:53 +0000 2015,0,0,Call https://t.co/cXrn16D5jw to help make @hazelcast fast ;-) Too much info to share here but using a good profiler is a big help.
+34,662743804735131648,Fri Nov 06 21:30:10 +0000 2015,4,5,Using smart #Java serialization of EntryProcessor data was able to get 30K updates per second on @hazelcast cluster of 7 members.
+35,662330513802203136,Thu Nov 05 18:07:54 +0000 2015,0,3,.@rajesuwerps @hazelcast Very custom.  Now doing 25K entry processor calls per second. Serialization is where all the big gains are.
+36,662072141957849088,Thu Nov 05 01:01:14 +0000 2015,4,3,Fast @Hazelcast upload/download to cluster from client with efficient #Java serialization. Clearing 5K-10K msg per second.
+37,661632735409102848,Tue Nov 03 19:55:11 +0000 2015,3,4,"Deep in #Java util concurrent we find.
+tryAcquireSharedNanos
+try some today, tasty."
+38,661622906615566336,Tue Nov 03 19:16:07 +0000 2015,1,0,"RT @Vieyraleo: #BenjamnCruz1 #Rock #VNVNation
+Cayendo hacia esos brazos que sostienen el alma...... https://t.co/YjK3X9HqOm"
+39,661235312467689472,Mon Nov 02 17:35:58 +0000 2015,2,1,"Building an easy to use #Java framework for programming with simple ""data flows"" a @seeedstudio grove kit"
+40,660971833118732288,Mon Nov 02 00:08:59 +0000 2015,0,0,"Once JVM is given a minute to optimize the CPU usage drops below 1% while monitoring button, rotary, light, moisture, and motion."
+41,660971430813675520,Mon Nov 02 00:07:24 +0000 2015,2,1,Early days for new #Java event framework for #Edison @seeedstudio Grove but here is the active work https://t.co/FMwhFfUDsw
+42,660897678247661568,Sun Nov 01 19:14:20 +0000 2015,0,1,"NASA Study: Mass Gains of Antarctic Ice Sheet Greater than Losses
+https://t.co/xp1nUH3n61"
+43,660884485811126272,Sun Nov 01 18:21:54 +0000 2015,2,4,Building pure #java Edison iot seeed grove events message based lib. Looking for help.
+44,660881348077359104,Sun Nov 01 18:09:26 +0000 2015,0,0,@sljones525 try different refresh frequencies
+45,660842531639328769,Sun Nov 01 15:35:12 +0000 2015,27,37,Time spent thinking about code to be written is much more important than time spent writing code. #Programming
+46,660842212272402432,Sun Nov 01 15:33:55 +0000 2015,0,1,"In the field secured data collection, license free, pure #Java. Contact @ObjectComputing"
+47,660653767180718081,Sun Nov 01 03:05:07 +0000 2015,0,0,Luther Amazon Instant Video ~ Joseph Fiennes https://t.co/z4e2cUSDZf via @amazon
+48,660510832590123008,Sat Oct 31 17:37:08 +0000 2015,0,5,"#Programming #BigData
+Clean inexpensive market data for back testing
+https://t.co/lo4Kf1ihgg 
+plz use coupon #NATHAN"
+49,659835132493238273,Thu Oct 29 20:52:09 +0000 2015,2,1,"#Programming #BigData
+Clean inexpensive market data for back testing
+https://t.co/QTiNCBZ1r6 
+plz use coupon #NATHAN"
+50,659749091249754113,Thu Oct 29 15:10:15 +0000 2015,0,1,"//Let #Java caller use their own enum while enforcing type check.
+public static &lt;T extends Enum&lt;T&gt; &amp; MyMarkerInterface&gt; void doIt(T arg)"
+51,659747454653349889,Thu Oct 29 15:03:45 +0000 2015,5,0,"RT @jonelf: @NathanTippy ""The key to making programs fast is to make them do practically nothing.""
+https://t.co/P399HpMJAl"
+52,659747319009570816,Thu Oct 29 15:03:13 +0000 2015,7,0,RT @john_burwell: Corollary:  Deleted code has no bugs. https://t.co/XS2RVHmjE0
+53,659747165296726016,Thu Oct 29 15:02:36 +0000 2015,110,0,RT @killer_kitsch: May the fur be with you #NationalCatDay https://t.co/omYTyLrYjo
+54,659652170678009856,Thu Oct 29 08:45:07 +0000 2015,34,33,"The fastest code is the code that is never executed.  
+Find something to delete today!
+#Programming"
+55,659577176048599040,Thu Oct 29 03:47:07 +0000 2015,1,1,Could not tell you how much Pad Thai I have eaten over the years.
+56,659576974428385280,Thu Oct 29 03:46:19 +0000 2015,0,1,The Invention of Pad Thai https://t.co/89guyGuhdZ via @priceonomics
+57,659529290598318080,Thu Oct 29 00:36:50 +0000 2015,4,3,High volume transaction processing in #Java? Call @ObjectComputing we are software engineers. https://t.co/124iXdLb8O
+58,659411607949197312,Wed Oct 28 16:49:13 +0000 2015,2760,0,RT @vladon: Modern comfortable programming language #java https://t.co/CPlD793QSH
+59,659409351476514816,Wed Oct 28 16:40:15 +0000 2015,2,0,RT @ObjectComputing: Stop by the @AzulSystems booth at #JavaOne to see our Industrial #IoT in a box demo in action! #Zulu #Embedded #Java h…
+60,659076114518683648,Tue Oct 27 18:36:05 +0000 2015,3,0,"RT @AzulSystems: We're going to be showcasing some ultra cool demos #javaone booth 5107, come and be amazed! https://t.co/DS75Q5uOSt"
+61,659075638913929216,Tue Oct 27 18:34:12 +0000 2015,2,0,"RT @bsideup: @NathanTippy don't forget about: 
+Set&lt;T&gt; values = EnumSet.allOf(c)"
+62,659075426451492864,Tue Oct 27 18:33:21 +0000 2015,1,0,"RT @kotseto: @NathanTippy Its great technique, just be careful with the type of CARS_PER_LOT ;)"
+63,659046425112608768,Tue Oct 27 16:38:06 +0000 2015,0,0,Use this technique for showing your work.  It also reduces the chance that you will do redundant work later.
+64,659046008286908416,Tue Oct 27 16:36:27 +0000 2015,4,0,"//No magic nums #Java
+private final static int CARS=2000;
+private final static int LOTS=7;
+private final static int CARS_PER_LOT=CARS/LOTS;"
+65,659023534719524864,Tue Oct 27 15:07:09 +0000 2015,3,2,"#Programming #BigData
+Clean inexpensive market data for back testing
+https://t.co/pLH82SoTK3 
+plz use coupon #NATHAN"
+66,658723987866783745,Mon Oct 26 19:16:51 +0000 2015,57,0,RT @joescii: Fold left. http://t.co/En6E93RB2T
+67,658723483732455424,Mon Oct 26 19:14:51 +0000 2015,0,0,.@paxos1977 It's part of a solution to the challenging problem of building re-usable code while enabling others to create their own Enums
+68,658698682167001089,Mon Oct 26 17:36:18 +0000 2015,6,3,"get(MyEnum.class, 2);
+// #Java Generics
+public static &lt;T extends Enum&lt;T&gt;&gt; T get(Class&lt;T&gt; c, int k) {
+return (T)c..getEnumConstants()[k];
+}"
+69,658696232093663232,Mon Oct 26 17:26:34 +0000 2015,3,13,"// #Java signature to take any Enum
+public static &lt;T extends Enum&lt;T&gt;&gt; void useSomeEnum(T myEnum) {
+        int x = myEnum.ordinal();
+}"
+70,658693398988128256,Mon Oct 26 17:15:18 +0000 2015,1,0,RT @ObjectComputing: We've partnered w/ @AzulSystems showcasing #Zulu #Embedded Demos for Industrial #IoT. Check it out at #JavaOne! https:…
+71,658655301457981440,Mon Oct 26 14:43:55 +0000 2015,5,8,"At #JavaOne, Azul will unveil Zulu embedded, an IoT-focused, optimized distribution of the OpenJDK. #Java
+https://t.co/ttJiUPG6pD"
+72,658400084669820928,Sun Oct 25 21:49:47 +0000 2015,2,3,"Catch New Zulu Embedded Demos @JavaOneConf 2015 #Java
+https://t.co/MBbL66qduf"
+73,658316627855826944,Sun Oct 25 16:18:09 +0000 2015,0,3,"#Programming #BigData
+Clean inexpensive market data for back testing
+https://t.co/cvsgH6lugh 
+plz use coupon #NATHAN"
+74,658130590483398656,Sun Oct 25 03:58:54 +0000 2015,12,0,RT @wmacgyver: So far @ObjectComputing as the new sponsor for #grailsfw has been much more effective about bringing in groovy/grails talents
+75,658130285339348992,Sun Oct 25 03:57:42 +0000 2015,104,0,"RT @bencasselman: Who are the 92 million Americans not in the labor force? Retirees and students, mostly.
+https://t.co/Uw1qekRD3k https://t…"
+76,657934615940759552,Sat Oct 24 15:00:10 +0000 2015,1,6,.@azulsystems and @objectcomputing have partnered to showcase a use case for industrial IoT. Check it out! https://t.co/TE5u0Exs8o
+77,657637902482960384,Fri Oct 23 19:21:08 +0000 2015,1,3,"#Programming #BigData
+Clean inexpensive market data for back testing
+https://t.co/aQxCrHcica 
+plz use coupon #NATHAN"
+78,657636771199610880,Fri Oct 23 19:16:39 +0000 2015,1,2,.@stlswengr I have the Indoor IoT. I am building a (soon to be on github) pure #Java solution for the Grove @seeedstudio setup.
+79,657628655301042176,Fri Oct 23 18:44:24 +0000 2015,4,0,RT @ObjectComputing: Be sure to visit @AzulSystems booth @JavaOneConf Monday to see our solution feat. #Zulu #Embedded Demos! #IoT #Java ht…
+80,657243722715807745,Thu Oct 22 17:14:49 +0000 2015,0,1,.@intel_stewart  good to know. What about 5v in over USB?
+81,657228791698190336,Thu Oct 22 16:15:29 +0000 2015,0,3,Quantum Study Suggests ‘Spooky Action’ Is Real. https://t.co/qY2WOuT52E
+82,657211219216986112,Thu Oct 22 15:05:39 +0000 2015,0,1,Working with Intel Edison and Grove Seeed sensors.  How many Amps is this going to pull/require?  Seems to be more than I expected.
+83,657143639676612608,Thu Oct 22 10:37:07 +0000 2015,3,6,"""Beware of bugs in the above code; I have only proved it correct, not tried it."" 
+Donald E. Knuth"
+84,656933509655719936,Wed Oct 21 20:42:08 +0000 2015,0,1,"#Programming #BigData
+Clean inexpensive market data for back testing
+https://t.co/t20aqQJqbc 
+plz use coupon #NATHAN"
+85,656629869472694276,Wed Oct 21 00:35:35 +0000 2015,1,0,Built @seeedstudio  Edison Grove pure #Java demo for @JavaOneConf see @ZuluCommunity @AzulSystems booth.  @Inteliot @ObjectComputing
+86,656624883841929216,Wed Oct 21 00:15:46 +0000 2015,6,2,Using large numbers of small objects makes the GC work a lot harder than using a few larger objects. #Java
+87,656149348200263680,Mon Oct 19 16:46:09 +0000 2015,1,1,"#Programming #BigData
+Clean inexpensive market data for back testing
+http://t.co/eli8SajwPw 
+plz use coupon #NATHAN"
+88,655452247053045760,Sat Oct 17 18:36:08 +0000 2015,43,41,Time spent thinking about code to be written is much more important than time spent writing code. #Programming
+89,655410723661570050,Sat Oct 17 15:51:08 +0000 2015,1,2,"#Programming #BigData
+Clean inexpensive market data for back testing
+http://t.co/WA7nKtfzHv 
+plz use coupon #NATHAN"
+90,655181187657285633,Sat Oct 17 00:39:02 +0000 2015,6,3,Floating point code in #java which makes use of NaN takes the slow path and is not optimized by the runtime.
+91,654717911219617792,Thu Oct 15 17:58:08 +0000 2015,1,5,"#Programming #BigData
+Clean inexpensive market data for back testing
+http://t.co/ZcdWvG9N6e 
+plz use coupon #NATHAN"
+92,654524389409472512,Thu Oct 15 05:09:09 +0000 2015,36,41,"The fastest code is the code that is never executed.  
+Find something to delete today!
+#Programming"
+93,654095992451526656,Wed Oct 14 00:46:51 +0000 2015,0,2,"Expect to have some code for you to try by years end.  This driver will be lock free, non blocking async and nearly garbage free."
+94,654095497523625984,Wed Oct 14 00:44:53 +0000 2015,5,3,Getting developer up to speed on @hazelcast to finish work on new smart client in #Java. Work will be done here https://t.co/lSoRuouLGo
+95,654038181852000256,Tue Oct 13 20:57:08 +0000 2015,0,2,"#Programming #BigData
+Clean inexpensive market data for back testing
+http://t.co/epjV441iT2 
+plz use coupon #NATHAN"
+96,653732093696933888,Tue Oct 13 00:40:51 +0000 2015,4,0,"RT @pjug: How does #gemfire differ from #hazelcast? Ask founder @oztalip when he presents, Oct 20 6:30p http://t.co/heJDLu1fx2 http://t.co/…"
+97,653731506435719169,Tue Oct 13 00:38:31 +0000 2015,15,0,RT @IntelSoftware: Intel Edison &amp; Galileo boards transform your #IoT idea into reality. What will you make? http://t.co/3tw8TXg6Mp http://t…
+98,653731362617188352,Tue Oct 13 00:37:57 +0000 2015,71,0,"RT @SGgrc: LastPass CEO, Joe Siegrist, will be our special guest at the top of the show on Security Now! Tuesday. (Live at 4:30 Eastern, 1:…"
+99,653598278387281921,Mon Oct 12 15:49:07 +0000 2015,12,0,RT @RecruiterLaura1: THIS WEEK IS GOING TO BE A GREAT WEEK :)! #Recruitment #software #backend #engineers #Java #Scala #Python #Go http://t…
+100,653316449792987136,Sun Oct 11 21:09:14 +0000 2015,0,0,This is in a larger app that uses MQTT and I am extracting just the polling logic to get a better usage number and for reuse by others.
+101,653316062247653376,Sun Oct 11 21:07:41 +0000 2015,4,7,Single #Java thread looping 6 @seeedstudio grove inputs every 20ms. Puts data on ring buffer &lt; 5% Edison CPU. @ZuluCommunity 32 bit Zulu.
+102,653271379303776256,Sun Oct 11 18:10:08 +0000 2015,2,3,"#Programming #BigData
+Clean inexpensive market data for back testing
+http://t.co/wqmST0jKOe 
+plz use coupon #NATHAN"
+103,653266605963538432,Sun Oct 11 17:51:10 +0000 2015,3,2,Made good progress yesterday. #Java component to simplify @seeedstudio edison2 configuration. Polls sensors while keeping CPU usage very low
+104,652567242182254592,Fri Oct 09 19:32:09 +0000 2015,0,1,"#Programming #BigData
+Clean inexpensive market data for back testing
+http://t.co/8n0OZOn60u 
+plz use coupon #NATHAN"
+105,652517781997355009,Fri Oct 09 16:15:37 +0000 2015,10,10,Donald Knuth http://t.co/aofi5Hnh1H
+106,652472558164377600,Fri Oct 09 13:15:54 +0000 2015,4,0,RT @noctarius2k: You'll do more GOOD if you aim to SERVE more than you aim to PLEASE. - Chris Edmonds #quote #leadership
+107,652214645550284801,Thu Oct 08 20:11:03 +0000 2015,2,3,"Real time processing with #Zulu #Java on the #Intel Edison.  Streaming light, motion, rotary encoder, moisture and other data every 20 ms."
+108,652154782270910464,Thu Oct 08 16:13:11 +0000 2015,1,5,Intel Edison - GPIO Setup and Scripting https://t.co/3Mzjmo7HOU via @YouTube Helpful video.
+109,652154318099841024,Thu Oct 08 16:11:20 +0000 2015,0,1,Most important documentation for Intel Edison GPIO work #IOT http://t.co/SCrNXLGAzi
+110,652038256826040320,Thu Oct 08 08:30:09 +0000 2015,24,19,"The fastest code is the code that is never executed.  
+Find something to delete today!
+#Programming"
+111,651941110944657408,Thu Oct 08 02:04:07 +0000 2015,15,0,"RT @twarko: ""Man, its hard to express this one particular thing in Java.""
+
+""Dude, just re-write everything in Clojure."" 
+
+""…go away please."""
+112,651940937887711232,Thu Oct 08 02:03:26 +0000 2015,55,0,"RT @RichardWarburto: ""Volkswagen – detects when your tests are being run in CI, and makes them pass""
+
+Gold!
+
+https://t.co/3dan8w8mOL"
+113,651940405479542784,Thu Oct 08 02:01:19 +0000 2015,2,5,Thinking about capturing all the #Intel Edison knowledge gained and building small #Java jar to simplify read/write access to @seeedstudio
+114,651932285457985536,Thu Oct 08 01:29:03 +0000 2015,2,0,"For decades, the government steered millions away from whole milk. Was that wrong? http://t.co/zOCyHF0SpB"
+115,651829880003276801,Wed Oct 07 18:42:08 +0000 2015,2,3,"#Programming #BigData
+Clean inexpensive market data for back testing
+http://t.co/I98AD8aveq 
+plz use coupon #NATHAN"
+116,651615672393334784,Wed Oct 07 04:30:57 +0000 2015,5,5,Introducing #Zulu #Embedded and running #Java on Intel® Edison and Galileo https://t.co/1Hstc4gwIE via @YouTube
+117,651460102357057536,Tue Oct 06 18:12:46 +0000 2015,1,6,Building small embedded #MQTT @netty_project web server. #Zulu JVM running very well on Intel Edison hardware. @AzulSystems @ZuluCommunity
+118,651428859959644161,Tue Oct 06 16:08:37 +0000 2015,2,7,My @seeedstudio grove dev setup with helpers @inteliot @objectcomputing http://t.co/b3Aa0dZs2Z
+119,651420868300554240,Tue Oct 06 15:36:52 +0000 2015,8,0,RT @kietnv: https://t.co/J5iUK8nHse http://t.co/80kdZKSx2s
+120,651394035253317633,Tue Oct 06 13:50:14 +0000 2015,5,4,"Up late last night migrating #Java demo over to the Intel Edison.
+Enable/Disable of GPIO pins is much more difficult than on @Raspberry_Pi"
+121,651123244628480000,Mon Oct 05 19:54:13 +0000 2015,5,12,"""Beware of bugs in the above code; I have only proved it correct, not tried it."" 
+Donald E. Knuth"
+122,651098810727337984,Mon Oct 05 18:17:07 +0000 2015,1,1,"#Programming #BigData
+Clean inexpensive market data for back testing
+http://t.co/jl2hjLZ4yh 
+plz use coupon #NATHAN"
+123,650835468867604480,Mon Oct 05 00:50:42 +0000 2015,27,0,RT @mwalimu59: Chuck Norris can create an instance of an abstract class. #Java
+124,650829612444848128,Mon Oct 05 00:27:26 +0000 2015,74,0,"RT @giltene: Want to see Spin Loop Hint in Java 9? (or 10)? RT and/or favorite to show support.
+http://t.co/tQarAeUZXm"
+125,650789585727827968,Sun Oct 04 21:48:22 +0000 2015,0,0,@ivanenok @netty_project netty is smaller than most and works very well but it is still larger than I need for my simple task.
+126,650786714886144000,Sun Oct 04 21:36:58 +0000 2015,0,0,@ivanenok @netty_project yes its nice but I hope to do better and replace it in the near future with something approaching garbage free.
+127,650771318162395136,Sun Oct 04 20:35:47 +0000 2015,0,0,@tehnyit I guess most of that time was research. If you already new all the tech needed it should not take more than 2 days.
+128,650770508338761728,Sun Oct 04 20:32:34 +0000 2015,0,1,@tehnyit Not too hard can do it in under two week I would expect.  I am using my Pronghorn framework so that shortened the time.
+129,650770063578959872,Sun Oct 04 20:30:48 +0000 2015,0,1,@ivanenok yep I am running @netty_project on the pi for now for all my static pages and websocket xmit.
+130,650769809274109952,Sun Oct 04 20:29:47 +0000 2015,0,5,Generate data-&gt;MQTT publish -&gt; Broker -&gt; MQTT subscribe -&gt; WebSocket publish all on the PI. Also static HTML page hosting for angular app.
+131,650767861506420736,Sun Oct 04 20:22:03 +0000 2015,0,0,@jdwallace the blue rubber bands are the critical part of this design.
+132,650767370273730561,Sun Oct 04 20:20:06 +0000 2015,0,0,New design is expected to consume &lt; 5% CPU and &lt; 24M.
+133,650767052760743936,Sun Oct 04 20:18:50 +0000 2015,4,7,Embedded #Java web server so hundreds of browsers can attach simultaneously and monitor real time feeds.  Consumes 12% of CPU and 80 Mb
+134,650765961272754176,Sun Oct 04 20:14:30 +0000 2015,13,31,Sine wave generated on pi and sent over websockets to angular app.  50 updates per second. #java http://t.co/wnbMAp8q8o
+135,650517949418180608,Sun Oct 04 03:48:59 +0000 2015,1,18,Had the parts so built breakout board for pi GPIO while wife watched downton abbey tonight. http://t.co/NJfbgxKKgl
+136,650397191735873536,Sat Oct 03 19:49:08 +0000 2015,0,2,"#Programming #BigData
+Clean inexpensive market data for back testing
+http://t.co/1kuz6tyuiU 
+plz use coupon #NATHAN"
+137,650011684166201345,Fri Oct 02 18:17:16 +0000 2015,36,32,Time spent thinking about code to be written is much more important than time spent writing code. #Programming
+138,649718973521485824,Thu Oct 01 22:54:09 +0000 2015,26,21,"The fastest code is the code that is never executed.  
+Find something to delete today!
+#Programming"
+139,649673123399356416,Thu Oct 01 19:51:57 +0000 2015,1,3,"#Programming
+'Zero-Copy' is a worthy goal as long as you are in the same thread. 
+If copy avoids shared mutable state, do it !"
+140,649669715300757504,Thu Oct 01 19:38:25 +0000 2015,0,2,"#Programming #BigData
+Clean inexpensive market data for back testing
+https://t.co/995YCtqHxV 
+plz use coupon #NATHAN"
+141,649593096011804672,Thu Oct 01 14:33:57 +0000 2015,10,0,RT @sfdrummerjs: Hilarious and eerily accurate: How to choose the right JavaScript framework http://t.co/3M9j6SWpIa
+142,649232465479909377,Wed Sep 30 14:40:56 +0000 2015,2,0,RT @michaelbridge: Aaron Bedra at @strangeloop_stl @Groupon http://t.co/qG9cbjQqIG
+143,649230402066886656,Wed Sep 30 14:32:44 +0000 2015,1,7,Catch up on all the missed talks https://t.co/l9UWtVFbs5 from @strangeloop_stl 2015. Excellent quality and content. #Programming
+144,648968572203462656,Tue Sep 29 21:12:19 +0000 2015,4,7,"Dependency Injection with Dagger 2 https://t.co/Ml9bhJmHa0
+#Java #Programming"
+145,648967677776556032,Tue Sep 29 21:08:46 +0000 2015,0,2,"Dagger 2: Even sharper, less square https://t.co/2wFgHdgjAa"
+146,648966397133914112,Tue Sep 29 21:03:40 +0000 2015,0,2,Dependency Injection With Dagger 2 on Android http://t.co/ajNCDjNbG0 via @tutsplus
+147,648965443684728832,Tue Sep 29 20:59:53 +0000 2015,5,1,"Dagger DI for Spring Refuges: 10 Tips http://t.co/bh4Jp0Nqq3
+#Java #Programming"
+148,648961258213871616,Tue Sep 29 20:43:15 +0000 2015,2,2,Twitter plans to go beyond its 140-character limit http://t.co/xchXi7Q87l via @KurtWagner8
+149,648944304769994752,Tue Sep 29 19:35:53 +0000 2015,0,0,@ScyntstJabbar you can not go wrong with Effective Java from Josh Bloch. Start with good habits.
+150,648942209564151808,Tue Sep 29 19:27:34 +0000 2015,422,0,RT @alicemazzy: *whispers* maybe the patent system isn't crucial to innovation after all http://t.co/gWU81Kl03q
+151,648939915086925824,Tue Sep 29 19:18:27 +0000 2015,2,3,Now back to building async @hazelcast driver small footprint garbage fee #java.
+152,648921499718451201,Tue Sep 29 18:05:16 +0000 2015,1,5,"#Programming #BigData
+Clean inexpensive market data for back testing
+http://t.co/cvrVXZ1VYI 
+plz use coupon #NATHAN"
+153,648625910241886208,Mon Sep 28 22:30:42 +0000 2015,1,0,RT @johnsextro: They are cleaning out an office at work and they found these. A blast from the past. #floppy http://t.co/OXQaJxakKT
+154,648563798022877184,Mon Sep 28 18:23:53 +0000 2015,4,6,#Maven #Java be sure to use &lt;scope&gt;test&lt;/scope&gt; in &lt;dependency&gt; to ensure you are not shipping your test framework dependencies.
+155,648562756438745088,Mon Sep 28 18:19:45 +0000 2015,1,1,"#Jenkins https://t.co/vde33Vl69r on @Cloudbees 
+Peace of mind that my #Java code is always built and tested."
+156,648513033497538560,Mon Sep 28 15:02:10 +0000 2015,0,1,"Yes, I would be lost without backup battery blocks.  Saved me on/at so many trips and conferences. https://t.co/ixjJUHYLkh"
+157,648334101984899072,Mon Sep 28 03:11:10 +0000 2015,0,1,"JUMBO 22,400 mAh Dual USB PowerPack: 2Pk for $59.99 http://t.co/K6vqkFYRa6 via @wootelectronics"
+158,648331119063007232,Mon Sep 28 02:59:18 +0000 2015,0,2,Glitch Architecture Shows How Beautiful Broken Can Be | The Creators Project http://t.co/f4RZryTgHi via @CreatorsProject
+159,648199579263897600,Sun Sep 27 18:16:37 +0000 2015,2,0,"RT @_ZPH: So long #StrangeLoop, despite being all fp, the conference has plenty of side effects that will percolate until next year ;)"
+160,648194936379043840,Sun Sep 27 17:58:10 +0000 2015,5,0,"RT @GlenKPeterson: Thank you @strangeloop_stl for exposing me to new ideas, teaching me things, touching my heart,  and making me want to b…"
+161,648194883908321280,Sun Sep 27 17:57:57 +0000 2015,34,0,RT @hypotext: Slides and code from my @strangeloop_stl talk on powerful knot notations: http://t.co/98G1Na84ex http://t.co/cLiJ97U9n6
+162,648194824999337984,Sun Sep 27 17:57:43 +0000 2015,3,0,"RT @gcouprie: I was very happy to be at @strangeloop_stl. The people are nice, the talks are interesting, I felt welcomed here. Thank you @…"
+163,648162966890635264,Sun Sep 27 15:51:08 +0000 2015,1,7,"#Programming #BigData
+Clean inexpensive market data for back testing
+http://t.co/sy1AA561F1 
+plz use coupon #NATHAN"
+164,647874089244225536,Sat Sep 26 20:43:14 +0000 2015,1,3,How NOT to measure latency at #strangeloop http://t.co/TNhpizz7Xs
+165,647804293110611968,Sat Sep 26 16:05:53 +0000 2015,3,0,RT @spargonaut: You'll never build the prefect thing.  There's already going to be tradeoffs.  #Strangeloop
+166,647776481448341504,Sat Sep 26 14:15:22 +0000 2015,1,0,"RT @marlenac: Oh yeah, got that t-shirt.  @skamille talking about hope, fear and distributed systems.  #strangeloop http://t.co/HlZ7bm7aFs"
+167,647622745967063040,Sat Sep 26 04:04:29 +0000 2015,1,0,"RT @dyokomizo: A room full of people interested in ""Building better substrates for computing"" #strangeloop http://t.co/apWyIMy0WJ"
+168,647622190272135173,Sat Sep 26 04:02:17 +0000 2015,4,0,RT @StephenPiment: Awesome talk by @martinkl at #strangeloop on CAP and a better framework for thinking about tradeoffs. Paper version: htt…
+169,647621672573382656,Sat Sep 26 04:00:13 +0000 2015,34,0,RT @jessitron: I'm a big fan of: start with the dumbest thing possible and see if it meets your needs. @caitie #strangeloop
+170,647621533377036290,Sat Sep 26 03:59:40 +0000 2015,16,0,RT @trevmex: The biggest lesson I am learning from #strangeloop is that TIME MATTERS. We can't think of systems without dealing w/ the mess…
+171,647527002308677632,Fri Sep 25 21:44:02 +0000 2015,3,0,RT @dennyabraham: from protesting to programming with @AbbyBobe #strangeloop http://t.co/QNatqvaam5
+172,647512935472852992,Fri Sep 25 20:48:08 +0000 2015,2,0,"#Programming #BigData
+Clean inexpensive market data for back testing
+http://t.co/2NsnmiPaAV 
+plz use coupon #NATHAN"
+173,647508703097126912,Fri Sep 25 20:31:19 +0000 2015,0,0,KingsX music at #strangeloop cool
+174,647445625219321857,Fri Sep 25 16:20:40 +0000 2015,4,2,#strangeloop speed comes from...  c vs #java http://t.co/cp7aVxBSCq
+175,647440496919343104,Fri Sep 25 16:00:17 +0000 2015,2,0,#strangeloop @azulsystems ready to start on faster objects and arrays. Closing the inherent c vs #java speed gap http://t.co/aNlQyX1DiM
+176,647438215465467905,Fri Sep 25 15:51:14 +0000 2015,0,2,#strangeloop causality and wall clocks http://t.co/UiPepvC7K5
+177,647436337092538368,Fri Sep 25 15:43:46 +0000 2015,3,0,RT @recursive_chaos: Using Tetris to visualize Kubernetes #StrangeLoop http://t.co/p0UxjKNS3g
+178,647432664471896069,Fri Sep 25 15:29:10 +0000 2015,4,0,RT @MarkSundt: Thank you #strangeloop 2015 for showcasing the most beautiful technical conference venue... https://t.co/EVCaPhBIhZ http://t…
+179,647415631193575424,Fri Sep 25 14:21:29 +0000 2015,4,0,RT @callmeike: Peter Alvaro: blow away a haystack and you find a hundred shiny needles.  #strangeloop
+180,647415407805005824,Fri Sep 25 14:20:36 +0000 2015,1,0,"RT @abbycabs: Good morning, #strangeloop! http://t.co/4pQhegwJTM"
+181,647413408099254272,Fri Sep 25 14:12:39 +0000 2015,0,1,@patricia_dugan @strangeloop_stl @ZuluCommunity @GlenKPeterson @giltene yep fun time
+182,647412347397537792,Fri Sep 25 14:08:26 +0000 2015,2,2,Building @ZuluCommunity at the cit museum http://t.co/bEsLYy2toC
+183,647389123792146432,Fri Sep 25 12:36:09 +0000 2015,1,0,RT @GlenKPeterson: @NathanTippy great to finally meet you and the Zulu guy at #strangeloop http://t.co/rBymmxJaL5
+184,647234227566571520,Fri Sep 25 02:20:39 +0000 2015,0,3,Watching the band @giltene http://t.co/gZscwttlau
+185,647232595550322688,Fri Sep 25 02:14:10 +0000 2015,1,1,I took him off the edge of the building in the bus and down the 10 story slide. https://t.co/j7pjXFgOIG
+186,647172982578655232,Thu Sep 24 22:17:17 +0000 2015,1,0,RT @Volti_Subito: I wonder if the common threads in FPW at #StrangeLoop is from forward looking folks generally looking in those directions…
+187,647170686566305792,Thu Sep 24 22:08:10 +0000 2015,1,0,RT @strangeloop_stl: Shuttle buses to party will pick up at Union Station and Hilton Ballpark 6:30-10:00 #strangeloop
+188,647155287070109696,Thu Sep 24 21:06:58 +0000 2015,1,0,RT @strangeloop_stl: #strangeloop pre-party tonight at City Museum 6:30-9:30 pm https://t.co/KDVJmB0ibe
+189,647153463885885441,Thu Sep 24 20:59:43 +0000 2015,1,0,"RT @andrewjl88: Great talk and demo by @mandy3284, looking forward to taking a closer look at Apparatus on GitHub. (http://t.co/EX6F7wyUmn)…"
+190,647147517075853312,Thu Sep 24 20:36:06 +0000 2015,2,0,RT @recursive_chaos: Apparatus: Creating interactive graphics in GUI. It's surprisingly cool! #StrangeLoop http://t.co/L81GSUj8Jv
+191,647143609683185664,Thu Sep 24 20:20:34 +0000 2015,0,3,Cool Interactive Diagrams by @mandy3284 http://t.co/XXUePEDrav at #fpw #strangeloop
+192,647140843728408577,Thu Sep 24 20:09:35 +0000 2015,1,0,RT @janinehempy: Yogurt snacks! #strangeloop http://t.co/X0CvkDbrqr
+193,647135000270254081,Thu Sep 24 19:46:21 +0000 2015,1,0,RT @strangeloop_stl: Late afternoon workshops start at 3:00 pm! #strangeloop
+194,647133747037409280,Thu Sep 24 19:41:23 +0000 2015,3,0,"RT @Lab_1500: Stop by Lab1500 this Friday after 6pm for Code Until Dawn, an evening of coding, pizza and beer - http://t.co/Lppxvki8e6 #str…"
+195,647133408246673408,Thu Sep 24 19:40:02 +0000 2015,1,0,RT @dberkholz: So when is Swift actually becoming open source? Apple said it would back in June. #strangeloop
+196,647127482429083648,Thu Sep 24 19:16:29 +0000 2015,9,0,RT @tomaspetricek: Enjoyed talking about TheGamma project at #FPW #StrangeLoop! CO2 emissions demo: http://t.co/QMXXfB2x1h &amp; slides: http:/…
+197,647119753132183552,Thu Sep 24 18:45:46 +0000 2015,1,0,"RT @recursive_chaos: Reactive wibbles wobble with William Taysom. Although, I'm not quite sure what just happened. #StrangeLoop http://t.co…"
+198,647119621150015488,Thu Sep 24 18:45:15 +0000 2015,1,0,RT @davidbiesack: “is this available?” William Tayson: “It does not work really well. This is the *Future* of Programming” #strangeloop
+199,647119556243165184,Thu Sep 24 18:44:59 +0000 2015,0,0,Make it clear rather than useful when dealing with politicians and bureaucrats. #fpw #strangeloop

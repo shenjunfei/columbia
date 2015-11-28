@@ -1,0 +1,206 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669003068927709185,Tue Nov 24 04:02:15 +0000 2015,3,0,RT @MarcusTLim: The amazing @LBreddemann on SAP HANA View Modelling at #SAPdev #HANA https://t.co/Y2b7GiF6Nt
+1,669003034517639168,Tue Nov 24 04:02:07 +0000 2015,2,0,RT @oxygensap: Our team jamming away in H3 Building SAPUI5 Applications using SAP Web IDE #SAPdev @WouterVenhuizen https://t.co/erqO18BQaJ
+2,669001798196178945,Tue Nov 24 03:57:12 +0000 2015,3,0,RT @oxygensap: Big shout out to our awesome team for sharing updates with us at #SAPdev @WouterVenhuizen @julie_hodgson @Rossdub76 @0Joe + …
+3,669001699130867712,Tue Nov 24 03:56:49 +0000 2015,2,0,RT @Rossdub76: Using https://t.co/idMA6R8r7N to view ui5 code #sapdev @oxygensap https://t.co/DXvlmvJ1IL
+4,669001664322383872,Tue Nov 24 03:56:40 +0000 2015,3,0,RT @oxygensap: Our man on the ground @WouterVenhuizen has just found out we have served over 1500 coffees over the 2 days! #SAPdev https://…
+5,669001463457165312,Tue Nov 24 03:55:52 +0000 2015,3,0,RT @julie_hodgson: #oxygensap No 2 on the leader board #SAPdev https://t.co/B5HyeGyuHo
+6,668964432404283392,Tue Nov 24 01:28:44 +0000 2015,5,0,RT @0Joe: @oxygensap BW 7.5 SP01 on HANA features #SAPDev https://t.co/1nluiYE3NI
+7,668964392201940992,Tue Nov 24 01:28:34 +0000 2015,3,0,RT @Rossdub76: @oxygensap #sapdev short demo on how to use hana xs to utilise gov open source data https://t.co/ArqhBhrFuZ
+8,668964338036703232,Tue Nov 24 01:28:21 +0000 2015,3,0,"RT @oxygensap: ""Taking a deeper look at the extensibility options for S/4 HANA"" sounds like fun Pete!  #SAPdev"
+9,668964304301895680,Tue Nov 24 01:28:13 +0000 2015,1,0,"RT @oxygensap: ""S/4 HANA allows you to focus on business innovation with the extensibility concept rather than maintaining the lights."" #SA…"
+10,668964233208401920,Tue Nov 24 01:27:56 +0000 2015,1,0,"RT @oxygensap: ""White listed BADIs and APIs are the key to ensuring your extensibility success with S/4 HANA"" #SAPdev"
+11,668910603512213504,Mon Nov 23 21:54:50 +0000 2015,1,0,"RT @oxygensap: ""HANA XS SPS11 will finally provide JavaScript on Node.js. Great move for the open source community"" just in from Pete Dever…"
+12,668910591407296512,Mon Nov 23 21:54:47 +0000 2015,1,0,"RT @oxygensap: Although SPS is available on market place now, SAP's kick-off event announcing SPS 11 will not be until the 8th of December …"
+13,668908221357146112,Mon Nov 23 21:45:22 +0000 2015,2,0,"RT @oxygensap: Live in from one of our guys on the ground... ""HANA SPS11 is now live !""  @WouterVenhuizen #SAPdev"
+14,668908207100723201,Mon Nov 23 21:45:18 +0000 2015,4,0,RT @oxygensap: This is our team (most of) at #SAPdev  Look out for them and have a chat...they have lots to talk about! https://t.co/FVUNnN…
+15,668908148669853696,Mon Nov 23 21:45:05 +0000 2015,2,0,"RT @oxygensap: ""LoB is now driving cloud application adoption"" #SAPdev  Good job we have a whole lot of experience here!"
+16,668908132068798464,Mon Nov 23 21:45:01 +0000 2015,2,0,"RT @oxygensap: Pete Devereux: ""Adding custom logic to S/4 HANA is as simple as a-b-c by utilising your existing ABAP skills""- someone's hav…"
+17,668908113928425473,Mon Nov 23 21:44:56 +0000 2015,2,0,RT @oxygensap: Huge shout out to @WouterVenhuizen for sending through updates live from #SAPdev  Hope you're enjoying our feed today!
+18,668908062061694976,Mon Nov 23 21:44:44 +0000 2015,3,0,"RT @ssonick: Great team, go for it! #sapdev @oxygensap @UXCLimited @SAPANZ  https://t.co/9hXf9kMZlC"
+19,668907984332787712,Mon Nov 23 21:44:25 +0000 2015,3,0,"RT @oxygensap: ""Only 28% percent of budget is spend on innovation. The rest is spent on maintaining old code base"" #SAPdev"
+20,668907917769207808,Mon Nov 23 21:44:09 +0000 2015,2,0,RT @oxygensap: 'Experience SAP HANA Cloud Portal in Action' Great hands on session customising look &amp; feel of the portal #SAPdev https://t.…
+21,668593840756920320,Mon Nov 23 00:56:08 +0000 2015,2,0,"RT @james_caston: @oxygensap @SAPANZ As the lead technical person on the project, I hope I get a chance to tell people about it at A&amp;D Summ…"
+22,668593713040388097,Mon Nov 23 00:55:37 +0000 2015,1,0,RT @oxygensap: This is where you get your coffee folks! #sapdev https://t.co/xosLP2BVQE
+23,668593581007896576,Mon Nov 23 00:55:06 +0000 2015,1,0,RT @oxygensap: Some great SAP HANA Cloud platform discussions being had!  Very cool stuff @SAPANZ  #SAPdev https://t.co/7dpJKnOgIE
+24,668593559033909250,Mon Nov 23 00:55:00 +0000 2015,2,0,RT @oxygensap: And they're off!!  Don't forget to grab your token to participate in the Droid races! Awesome set up @SAPANZ #SAPdev https:/…
+25,668593529719943168,Mon Nov 23 00:54:54 +0000 2015,2,0,"RT @oxygensap: Our guys Sandid and Galvin are in the Predictive Analytics workshop 'great workshop, both challenging and interesting!'  #SA…"
+26,668593481208586241,Mon Nov 23 00:54:42 +0000 2015,2,0,RT @oxygensap: Pete Devereux: 'Just finished S/4 HANA migration talking about deployment scenarios - very good session' #SAPdev
+27,668593457879908352,Mon Nov 23 00:54:36 +0000 2015,2,0,"RT @ssonick: @SAPANZ @vosloo777 @oxygensap @sufw @jhmoy @grahamrobbo @chris_rae01 @julie_hodgson Looks great, wish I was there..."
+28,668593417279008768,Mon Nov 23 00:54:27 +0000 2015,4,0,RT @Rossdub76: Tokens also from @oxygen staff attending #sapdev https://t.co/6nC328CcVh
+29,668593399436410880,Mon Nov 23 00:54:22 +0000 2015,3,0,RT @Rossdub76: And we are off @oxygen #sapdev https://t.co/xCBI6jXjES
+30,668593376346832897,Mon Nov 23 00:54:17 +0000 2015,3,0,RT @Rossdub76: Things getting busy @oxygen coffee stand #sapdev https://t.co/R37hwy9AIZ
+31,668593357795430400,Mon Nov 23 00:54:13 +0000 2015,1,0,"RT @oxygensap: Busy room of tech people diving in with exercises in the ""Experience SAP Fiori Cloud Edition on HANA Cloud Platform"" session…"
+32,668593335292968960,Mon Nov 23 00:54:07 +0000 2015,6,0,"RT @sapcec: The Essential Step-by-Step Guide To Creating A Successful Customer Engagement Strategy, Part 3 of 4 https://t.co/Px5VBeoj3z @di…"
+33,668593296860561408,Mon Nov 23 00:53:58 +0000 2015,3,0,"RT @sapcec: SAP Hybris is a leader in “The Forrester Wave™: Subscription Billing Platforms, Q4 2015: https://t.co/FmBHzMeAEl https://t.co/R…"
+34,668593256758808576,Mon Nov 23 00:53:48 +0000 2015,3,0,"RT @james_caston: @oxygensap #SAPdev I think I know something about this. I see Work Manager, UI5, NWBC and more ... https://t.co/MgZpHP6j3o"
+35,668593208570458112,Mon Nov 23 00:53:37 +0000 2015,2,0,"RT @oxygensap: Good morning #Sydney!  We are at the SAP Architect &amp; Developer Summit!  
+#sapdev https://t.co/6R8Dkyfh4J"
+36,668593184423804929,Mon Nov 23 00:53:31 +0000 2015,3,0,"RT @oxygensap: Keynote : Dirk Basenach, Senior Vice President, HCP Product ManagementSAP SE #sapdev https://t.co/S1auu6Y55F"
+37,668593162584129536,Mon Nov 23 00:53:26 +0000 2015,3,0,RT @james_caston: @oxygensap HCP Architecture in one slide #SAPdev https://t.co/VF65eGrAAF
+38,668593116467728384,Mon Nov 23 00:53:15 +0000 2015,4,0,RT @oxygensap: Don't forget to enter the droid race in the breaks - collect tokens from our team with the UXC Oxygen tops #SAPdev https://t…
+39,668593074696679424,Mon Nov 23 00:53:05 +0000 2015,3,0,RT @oxygensap: Hands on sessions are in full swing!  The team are having a great time and we're only 2 hours in!  #SAPdev https://t.co/P4nj…
+40,668593040051732480,Mon Nov 23 00:52:57 +0000 2015,3,0,RT @0Joe: @oxygensap Transition paths to SAP HANA #SAPdev https://t.co/tiQVVVQsYB
+41,668593017004027905,Mon Nov 23 00:52:51 +0000 2015,5,0,RT @oxygensap: Interesting session at 'Re-imaging scenarios with the IoTs'.  Enchanted beer!! Imagine a beer telling you it's cold enough t…
+42,668592994820321280,Mon Nov 23 00:52:46 +0000 2015,2,0,RT @oxygensap: We're here! #SAPdev Enjoy the next 2 days everyone! And drop by our cart and grab your coffee! https://t.co/kvPNF5JNFl
+43,668592868538191873,Mon Nov 23 00:52:16 +0000 2015,3,0,RT @0Joe: @oxygensap hands-on learning SAP productive analytics. #SAPdev https://t.co/24HF7qjQF8
+44,668592822363131909,Mon Nov 23 00:52:05 +0000 2015,3,0,"RT @oxygensap: Your customer deserves a good exp across every channel, every time!  Join our webinar next week to find out more https://t.c…"
+45,668592784383737856,Mon Nov 23 00:51:56 +0000 2015,7,0,RT @oxygensap: This little fellow is ready to race!  Be part of the droid races with @SAPANZ #SAPdev https://t.co/UuKoSRRbQI
+46,667461271571173376,Thu Nov 19 21:55:42 +0000 2015,1,0,RT @sapcec: SAP hybris cited among Leaders In @Forrester Subscription Billing Platform Evaluation -  https://t.co/Ofp3wQ5lrA #hybrisBilling
+47,667204212820869120,Thu Nov 19 04:54:15 +0000 2015,3,0,RT @oxygensap: Garth from DB Breweries kicking off at @NZSUG  this morning!  Very proud to be part of this project! https://t.co/i8BfErSeu3
+48,666459257311657985,Tue Nov 17 03:34:03 +0000 2015,2,0,"RT @oxygensap: In today's inStock webinar.. What problems does inStock solve? #8 Not knowing inventory availability, anytime, anywhere. #in…"
+49,666459243726286848,Tue Nov 17 03:34:00 +0000 2015,1,0,RT @oxygensap: In today's inStock webinar.. What problems does inStock solve? #2 Too many blocked vendor invoices due to missing goods rece…
+50,666459220238163968,Tue Nov 17 03:33:54 +0000 2015,2,0,RT @oxygensap: In today's inStock webinar.. What problems does inStock solve? #5 Inaccurate costs due to missing goods issues #inStock #mob…
+51,666459200038371328,Tue Nov 17 03:33:50 +0000 2015,2,0,RT @oxygensap: Optimise your maintenance forecast and budgeting with inPlan!  Join our webinar on Thursday to find out more https://t.co/kN…
+52,666459179540836353,Tue Nov 17 03:33:45 +0000 2015,2,0,RT @oxygensap: Excited to be a sponsor of tomorrow's @NZSUG Look forward to lots of discussions around our latest innovations! https://t.co…
+53,666459165393457152,Tue Nov 17 03:33:41 +0000 2015,1,0,RT @oxygensap: So what is inStock?  @adamsawley doing a great job of demonstrating in our webinar this morning! https://t.co/9dVhxLuPYf #in…
+54,666458706381410304,Tue Nov 17 03:31:52 +0000 2015,0,0,@NZSUG @oxygensap https://t.co/k5ZvVr61Ly
+55,666367701833510912,Mon Nov 16 21:30:15 +0000 2015,3,0,"RT @SAPTradeGeek: SAP Reaches 50,000th Business One Customer Milestone-- https://t.co/Xdwcn0TNjC"
+56,666367666421170176,Mon Nov 16 21:30:06 +0000 2015,3,0,RT @sapcec: How does the CMO work with the rest of the C-suite to make internal omnichannel work? https://t.co/MrK1C506gU https://t.co/c79l…
+57,666367377630621696,Mon Nov 16 21:28:57 +0000 2015,2,0,"RT @patsaundry: @BusinessCircle_@ event in Wellington this morning NZ CIO leaders discuss Tech Transformation. Partnering, Innovation, apps…"
+58,666366903200276481,Mon Nov 16 21:27:04 +0000 2015,4,0,RT @sapcec: What Do Effective B2B Marketing Leaders Do Differently?  https://t.co/eUTBH8Quyi @brennermichael https://t.co/8nFctVPvQb
+59,666366883898126337,Mon Nov 16 21:27:00 +0000 2015,5,0,RT @sapcec: Putting People with Autism to Work in Tech https://t.co/zjLsj5RnFq via @qz w/ @TechKidsU https://t.co/I0zPF43EKw
+60,666366859105562624,Mon Nov 16 21:26:54 +0000 2015,3,0,RT @sapcec: Digital Transformation &amp; Customer Centricity for Industrial Manufacturers: https://t.co/TJnWbFqxB2 #scn via @SAPCommNet
+61,666366727693844480,Mon Nov 16 21:26:23 +0000 2015,3,0,"RT @sapcec: Enterprises rely on billing solutions to create a transparent customer experience, learn about #hybrisBilling: https://t.co/m05…"
+62,666366692193271812,Mon Nov 16 21:26:14 +0000 2015,11,0,"RT @sapcec: Beyond CRM: The Customer Engagement Imperative - #Live webcast w/Johann Wrede, SAP Hybris https://t.co/IiSi89fhxG 9am PT Nov 17…"
+63,666366617249431553,Mon Nov 16 21:25:56 +0000 2015,2,0,"RT @oxygensap: Great match last Friday night at Melbourne City FC with members of our team, clients and @SAPANZ @patsaundry https://t.co/P8…"
+64,665843522784784385,Sun Nov 15 10:47:21 +0000 2015,2,0,"inStock, Improve stock accuracy with real-time, mobile inventory management apps @oxygensap https://t.co/haUj22BMbR"
+65,664970510841724928,Fri Nov 13 00:58:18 +0000 2015,2,0,"RT @oxygensap: Proud to announce we are the only local, certified #SAP Partner that can deliver Solution Mgr as a Managed Service  https://…"
+66,664969985211543556,Fri Nov 13 00:56:13 +0000 2015,1,0,RT @oxygensap: From tweet to receipt: SAP cloud chief defines ‘beyond CRM’ strategy https://t.co/U9KwbxvJBI @SAP @hybris_software #CRM
+67,664953223644446720,Thu Nov 12 23:49:37 +0000 2015,0,0,@oxygensap https://t.co/FOdugfW4cj
+68,664678239009304576,Thu Nov 12 05:36:55 +0000 2015,4,0,RT @oxygensap: Check out this very cool video taken during last week's SAP Redkite Regatta.  Great work team!  https://t.co/40vebmPehU @Red…
+69,664571708213366784,Wed Nov 11 22:33:37 +0000 2015,3,0,"RT @oxygensap: SAP Solidifies Small and Midsize Enterprise Success with 50,000th Customer of SAP Business One https://t.co/83hq9saA2R @SAPA…"
+70,664215778716090368,Tue Nov 10 22:59:16 +0000 2015,6,0,RT @SDenecken: #SAPtd nice shout out to #sapjam with workpattern API's @SameerPatel https://t.co/m2AhtBoMhs
+71,664215705617719296,Tue Nov 10 22:58:59 +0000 2015,2,0,RT @oxygensap: A reminder of our webinar on Thurs showing a new approach to solving challenges faced by service &amp; asset businesses https://…
+72,663535724658954245,Mon Nov 09 01:56:59 +0000 2015,7,0,RT @SDenecken: Upcoming Tools for SAP #S4HANA Migration – the simplification database https://t.co/2aHW1W1Cby #scn #SAPtd
+73,663535702504697856,Mon Nov 09 01:56:54 +0000 2015,2,0,RT @oxygensap: Some pics of our winning team from the 5th Annual @SAP Regatta for @Redkite. Such a great effort for a great cause! https://…
+74,663535683449974784,Mon Nov 09 01:56:49 +0000 2015,6,0,RT @oxygensap: Congratulations to our team for braving Sydney weather yesterday &amp; winning the 5th Annual @SAP Regatta for @Redkite! https:/…
+75,663535665645142017,Mon Nov 09 01:56:45 +0000 2015,12,0,RT @sapcec: Succeed in today’s customer-driven marketplace - 6 Steps to Selling Smarter: https://t.co/kbeQ3mrEpW #runsimple https://t.co/20…
+76,663535647164989440,Mon Nov 09 01:56:40 +0000 2015,4,0,RT @oxygensap: Proud to take out the @Redkite Regatta cup today in Sydney!  Well done everyone! @SAPANZ @studickinson @patsaundry https://t…
+77,663535622930345984,Mon Nov 09 01:56:35 +0000 2015,25,0,RT @SAPCloud: Flexibility &amp; choice come standard with @SAP HCP—unlike some other #PaaS options out there. https://t.co/w6UakvB3pu https://t…
+78,663535598112628736,Mon Nov 09 01:56:29 +0000 2015,3,0,RT @oxygensap: PaaS gaining popularity with Australian organisations: Telsyte https://t.co/7HJVcSBOkl @InsideSAP @Telsyte
+79,663535577501822976,Mon Nov 09 01:56:24 +0000 2015,3,0,RT @oxygensap: And a few more pictures of the @SAP @RedKite Regatta. Some great shots taken by UXC Oxygens @GoughV https://t.co/CtMMUuRSyA
+80,662449771722862592,Fri Nov 06 02:01:47 +0000 2015,0,0,PaaS gaining popularity with Australian organisations: Telsyte https://t.co/zXoHgWUN1u
+81,662117131522318336,Thu Nov 05 04:00:00 +0000 2015,6,0,RT @SDenecken: Upcoming Tools for SAP #S4HANA Migration - the simplification database https://t.co/KIR3KH1MjX https://t.co/pr5ZYREXRt
+82,662097093176090624,Thu Nov 05 02:40:22 +0000 2015,3,0,"RT @SDenecken: SAP Runs SAP S/4HANA: Interview with Helen Arnold, CIO https://t.co/lK4CsKLBEU https://t.co/zwcarZQCeP"
+83,662096968005480448,Thu Nov 05 02:39:52 +0000 2015,1,0,RT @SAPANZ: Early adopters are gaining real benefits from #IoT with 67% reporting process efficiencies. See infographic: https://t.co/O5LUr…
+84,662051526869843968,Wed Nov 04 23:39:18 +0000 2015,3,0,RT @ssonick: @oxygensap  https://t.co/n0dYMwImnf
+85,662051501741748227,Wed Nov 04 23:39:12 +0000 2015,2,0,"RT @oxygensap: GeoSPARK, radical new approach to solving challenges faced by service &amp; asset business - Join our webinar next week https://…"
+86,662051473828646912,Wed Nov 04 23:39:06 +0000 2015,2,0,"RT @oxygensap: Recruiting now!  SAP Project Manager, Sydney - Cutting edge new projects https://t.co/h4jDmbzYNX"
+87,662051459706433536,Wed Nov 04 23:39:02 +0000 2015,3,0,RT @oxygensap: Recruiting now! SAP BI &amp; Analytics Managing Consultant https://t.co/Mdwk8Gxpe0
+88,662051447513608192,Wed Nov 04 23:39:00 +0000 2015,2,0,RT @oxygensap: Recruiting now!  SAP BI Practice Lead - New Zealand https://t.co/bN29p33Htb
+89,662051422117064706,Wed Nov 04 23:38:54 +0000 2015,3,0,"RT @oxygensap: ""The 4 key elements of a good managed service"" https://t.co/rAboOEosLV"
+90,662051399442690048,Wed Nov 04 23:38:48 +0000 2015,3,0,RT @oxygensap: Your next career move could be just around the corner!  We have some great opportunities in ANZ https://t.co/gtlbR1jyA7
+91,662051281008128000,Wed Nov 04 23:38:20 +0000 2015,2,0,"GeoSPARK, a radical new approach to solving challenges faced by service and asset extensive business @oxygensap https://t.co/l65c15mIFe"
+92,661732587237314564,Wed Nov 04 02:31:57 +0000 2015,3,0,"RT @UXCLimited: ""Mobility solution enables QLD Rail to drive out improved railway maintenance efficiencies"" Great work by our team!  https:…"
+93,661731487952179200,Wed Nov 04 02:27:35 +0000 2015,2,0,Omnichannel for government @uxcoxygen @oxygensap https://t.co/oZFgwe4nJw
+94,661711860383657984,Wed Nov 04 01:09:36 +0000 2015,2,0,RT @oxygensap: Last chance to register for our Automate webinar with SAP Business One being held tomorrow https://t.co/aseP336hvR #SAPB1
+95,661711760924127232,Wed Nov 04 01:09:12 +0000 2015,1,0,RT @OxygenExpress: UXC Oxygen | Switch Platforms and Automate https://t.co/86maDbIPUX
+96,661711540530249728,Wed Nov 04 01:08:19 +0000 2015,1,0,RT @OxygenExpress: Last chance to register to learn how to Switch Platforms and Automate https://t.co/86maDbIPUX
+97,661711502903107584,Wed Nov 04 01:08:10 +0000 2015,1,0,RT @OxygenExpress: Cloud Computing: Keeping IT Simple https://t.co/eJppr5T3uc
+98,661711466752413696,Wed Nov 04 01:08:02 +0000 2015,1,0,RT @OxygenExpress: Digital Transformation And The SME https://t.co/BaODlGgTN9
+99,661673405427511296,Tue Nov 03 22:36:47 +0000 2015,2,0,RT @sapcec: [VIDEO] Customer Engagement - The Key to Continuous Customer Growth for Oil &amp; Gas @SAPIndustries https://t.co/cEpXJ8wYC9 @hybri…
+100,661673370254094336,Tue Nov 03 22:36:39 +0000 2015,5,0,RT @sapcec: The real customer experience begins after the first purchase is completed https://t.co/qDCUwhhkgd https://t.co/O6OVlXH4Yk
+101,661673345398652928,Tue Nov 03 22:36:33 +0000 2015,7,0,RT @sapcec: Crucial For Business To Understand: Customers Are In Control @forbes https://t.co/W82lWlaj0g @Hyken @webconversion https://t.co…
+102,661673307582828544,Tue Nov 03 22:36:24 +0000 2015,4,0,"RT @oxygensap: ""Mobility solution enables QLD Rail to drive out improved railway maintenance efficiencies"" Great work by our team!  https:/…"
+103,661672466599710720,Tue Nov 03 22:33:03 +0000 2015,0,0,SAP Work Manager - Queensland Rail https://t.co/jwYCgsGyKz
+104,660955948903587840,Sun Nov 01 23:05:52 +0000 2015,4,0,"RT @SDenecken: SAP Celebrates 1,000 Cloud HCM Customer Milestone in EMEA  https://t.co/5c5S4JitZQ"
+105,660750897660624896,Sun Nov 01 09:31:04 +0000 2015,1,0,RT @oxygensap: Have to love the crowd in #Melbourne!  #melbournecity @patsaundry @SAPANZ https://t.co/USW5KUxlgr
+106,660750872389906432,Sun Nov 01 09:30:58 +0000 2015,1,0,RT @oxygensap: Great night at Melbourne City Football with @patsaundry and @SAPANZ https://t.co/75IKLXSirT
+107,660750831403167745,Sun Nov 01 09:30:49 +0000 2015,3,0,RT @oxygensap: Great night!  Thanks #SAP everyone had a great time watching #MelbourneCity  @patsaundry https://t.co/1AMmepTVus
+108,660747517013823488,Sun Nov 01 09:17:38 +0000 2015,0,0,SAP C4C and hybris Commerce (Integration B2C Use Cases) https://t.co/LyWlFp4V9D
+109,659993936849563648,Fri Oct 30 07:23:11 +0000 2015,1,0,RT @OxygenExpress: Q&amp;A: SAP Luis Murguia on Business One's SME growth boom... https://t.co/qC5egWsbbz
+110,659993915865477120,Fri Oct 30 07:23:06 +0000 2015,1,0,RT @OxygenExpress: Q&amp;A: SAP Luis Murguia on Business One's #SME growth boom https://t.co/ZxF7Qiunym…/q-sap-luis-murguia-business-one…/ @SAP…
+111,659993898857598976,Fri Oct 30 07:23:02 +0000 2015,1,0,RT @OxygenExpress: 4 Essentials for Earning the Commitment of Employees You Need to Keep by @NamelyHR https://t.co/CIEpP9qD55 via @Entrepre…
+112,659993876376109056,Fri Oct 30 07:22:56 +0000 2015,1,0,"RT @OxygenExpress: ""80:20"" by @DavidLiff on @LinkedIn https://t.co/NnvFnMUAfM"
+113,659993364373245952,Fri Oct 30 07:20:54 +0000 2015,3,0,RT @oxygensap: UXC wins TasNetworks ERP project https://t.co/Y2hbs3QXvG
+114,659993309297815552,Fri Oct 30 07:20:41 +0000 2015,4,0,RT @oxygensap: UXC Oxygen wins TasNetworks ERP project!  What a wonderful result for our team!  https://t.co/2bFLLeD2cT @studickinson @Paul…
+115,659993265643483137,Fri Oct 30 07:20:31 +0000 2015,3,0,RT @oxygensap: #AUTBizAwards All's well that ends well.....and oh my its ending well!!!  @AUTuni you should be very proud! https://t.co/4js…
+116,659993129609662465,Fri Oct 30 07:19:58 +0000 2015,9,0,RT @sapcec: “Improving the customer experience” topped the list of business priorities companies have for the next 12 months: https://t.co/…
+117,659993106205376512,Fri Oct 30 07:19:53 +0000 2015,6,0,"RT @oxygensap: Your customer deserves a good experience…across every channel, every time.  Join our webinar on Wed 26 Nov.at 11am https://t…"
+118,659886286858096644,Fri Oct 30 00:15:25 +0000 2015,0,0,"Register your details to confirm your attendance, we look forward to seeing you there. Don&amp;#39... https://t.co/7semBvxdys"
+119,659645647381905408,Thu Oct 29 08:19:12 +0000 2015,3,0,RT @oxygensap: Good luck to all the finalists this evening!  Looking forward to hearing the results as they come in #AUTBizAwards https://t…
+120,659642843670016000,Thu Oct 29 08:08:04 +0000 2015,4,0,RT @newzealandtrenz: Breaking News: #AUTBizAwards is Trending top 10 in NewZealand : https://t.co/MMgQYg7mDN https://t.co/8Xg5Jtz2ka
+121,659642170576535555,Thu Oct 29 08:05:23 +0000 2015,0,0,gala.jpg https://t.co/THaS9nlo8c
+122,659607144312889344,Thu Oct 29 05:46:12 +0000 2015,8,0,"RT @oxygensap: UXC Oxygen - Leading the pack on digital! Great story in InsideSAP
+https://t.co/0XV6vwVnoW @InsideSAP @SAPANZ @hybris_softwa…"
+123,659578032483532800,Thu Oct 29 03:50:31 +0000 2015,2,0,RT @SDenecken: SAP Business Suite 4 SAP HANA #S4HANA https://t.co/1l4mENw8Zu https://t.co/wd30muINmj
+124,659577626474840064,Thu Oct 29 03:48:55 +0000 2015,1,0,RT @OxygenExpress: See three benefits of switching platforms in action.  UXC Oxygen is running a series of three webinars... https://t.co/W…
+125,659577613409632256,Thu Oct 29 03:48:52 +0000 2015,2,0,RT @OxygenExpress: Switch Platforms for better insight https://t.co/RaecoGWtWw … #SwitchPlatforms #SAPB1 #BI
+126,659577595399266304,Thu Oct 29 03:48:47 +0000 2015,2,0,RT @OxygenExpress: Switch Platforms and Integrate https://t.co/PbyKCSnmiT … #SwitchPlatforms #SAPB1
+127,659577582220775424,Thu Oct 29 03:48:44 +0000 2015,2,0,RT @OxygenExpress: Switch Platforms and Automate https://t.co/2p55IXtVJF … #SwitchPlatforms #SAPB1
+128,659577564269142016,Thu Oct 29 03:48:40 +0000 2015,1,0,RT @OxygenExpress: Wishing out NZ team good luck this evening at the #AUTBizAwards
+129,659577542219698177,Thu Oct 29 03:48:35 +0000 2015,1,0,"RT @OxygenExpress: ""The 4 key elements of a good managed service"" https://t.co/jjAupuOBgq … …"
+130,659577349608837120,Thu Oct 29 03:47:49 +0000 2015,1,0,"RT @SAP_APJ: The new SAP Cloud for Analytics delivers planning, predictive and BI capabilities in a single platform.
+https://t.co/59RL9MGD6Q"
+131,659577300787204096,Thu Oct 29 03:47:37 +0000 2015,1,0,RT @SDenecken: La Trobe University LoB HANA Video 2015 https://t.co/tSYZ5vxI6L https://t.co/b3bhIa1Jb3
+132,659577233359572992,Thu Oct 29 03:47:21 +0000 2015,1,0,RT @SDenecken: SAP S/4HANA: The Story Behind the New Suite - SAP HANA https://t.co/7PdbGnkkoz https://t.co/TTJrgOuPuh
+133,659577006015782912,Thu Oct 29 03:46:27 +0000 2015,4,0,RT @PaulKruger4: TasNetworks ERP project awarded to UXC Oxygen. Well done team and thanks to SAP for their support @oxygensap @SAPANZ
+134,659528521811824641,Thu Oct 29 00:33:47 +0000 2015,6,0,RT @oxygensap: Wishing out NZ team good luck this evening at the #AUTBizAwards
+135,659528354312290305,Thu Oct 29 00:33:07 +0000 2015,0,1,Leading the pack on digital @uxcoxygen https://t.co/1NaN1CP9rf
+136,659232901645496324,Wed Oct 28 04:59:06 +0000 2015,1,0,"RT @oxygensap: Great article by Chris O'Brien ""The 4 key elements of a good managed service"" https://t.co/rAboOEosLV #service"
+137,659201314006544384,Wed Oct 28 02:53:35 +0000 2015,0,0,Genband swaps out Salesforce for SAP Cloud for Customer https://t.co/B7U4PzXsNU
+138,659119423861624832,Tue Oct 27 21:28:11 +0000 2015,2,0,RT @oxygensap: 'This provides greater transparency and is built on solid co-partnering with our client'  Great introduction to our launch @…
+139,659119402080571392,Tue Oct 27 21:28:05 +0000 2015,3,0,"RT @oxygensap: Great kick off to our GeoSpark launch this afternoon.  ""We value safety and compliance - it's key to our system"" https://t.c…"
+140,658832719338598401,Tue Oct 27 02:28:55 +0000 2015,3,0,RT @oxygensap: @m_villazon doing a great job discussing data warehousing at #masteringsap this morning #ba15 #eam15 #scm15 https://t.co/N78…
+141,658831486892683266,Tue Oct 27 02:24:01 +0000 2015,2,0,"RT @oxygensap: Great session!!  @achimkrueger, VP Operational Solution Excellence - SAP SE https://t.co/C974THpbq2"
+142,658831466831347712,Tue Oct 27 02:23:56 +0000 2015,1,0,RT @oxygensap: UXC Oxygen's Filippo presenting maintenance budgeting at #scm2015 #ba15 #eam15 #masteringsap  Enough hashtags? https://t.co/…
+143,658831449005555712,Tue Oct 27 02:23:52 +0000 2015,1,0,RT @oxygensap: How to maximise your SAP investment!  #masteringsap #ba15 #scm15 #eam15 https://t.co/LaRzey3vor
+144,658831351089524737,Tue Oct 27 02:23:29 +0000 2015,3,0,RT @sapcec: Does anything beat a personal recommendation? https://t.co/yeEsPOe4ER https://t.co/FbWKb1WJKG
+145,658831305606492162,Tue Oct 27 02:23:18 +0000 2015,3,0,RT @oxygensap: Filippo showcasing how to optimise maintenance forecast and budgeting with inPlan #BSE15 #eam15 #masteringsap https://t.co/J…
+146,658831286232944640,Tue Oct 27 02:23:13 +0000 2015,2,0,RT @oxygensap: Our GeoSpark product launch is this afternoon! Registration closing shortly! https://t.co/looLULw9Ip  #masteringsap #ba15 #s…
+147,658831259276214273,Tue Oct 27 02:23:07 +0000 2015,2,0,RT @oxygensap: Rosalind Mitchell presenting SAP Personas at Mastering SAP in Melbourne this morning!  #scm15 #masteringsap #BSE15 https://t…
+148,658831060017418240,Tue Oct 27 02:22:19 +0000 2015,2,0,"RT @oxygensap: 9.30am BA4, ""Data Warehousing - To Break Tradition, Create New Ones or Leave Things the Way They Are"" presented by @m_villaz…"
+149,658830988886196224,Tue Oct 27 02:22:02 +0000 2015,2,0,RT @oxygensap: Lots of discussions taking place today at #masteringsap  Stop by and have a chat #ba15 #scm15 #eam15 #bse15 https://t.co/6SS…
+150,658830969076514816,Tue Oct 27 02:21:58 +0000 2015,4,0,RT @oxygensap: Our team is busy showcasing some awesome #scm15 #eam15 #ba15 solutions! #BSE15 #masteringsap https://t.co/PYskRgbGAR
+151,658437283071131648,Mon Oct 26 00:17:36 +0000 2015,4,0,"RT @SDenecken: Very often we get the question about the motivation for SAP S/4HANA, and while the value is clear - we thought it is…https:/…"
+152,658436813447524352,Mon Oct 26 00:15:44 +0000 2015,5,0,RT @SAPANZ: SAP Test Drive Theatre is up and running at @masteringsap #masteringsap #ba15 #scm15 #eam15 https://t.co/e535EAtW0X
+153,658436776529276928,Mon Oct 26 00:15:35 +0000 2015,2,0,RT @oxygensap: Meet some of our awesome team at #MasteringSAP over the next 2 days! https://t.co/lN7ptClsCB
+154,658436757457756160,Mon Oct 26 00:15:30 +0000 2015,5,0,RT @oxygensap: We are at #masteringsap!  Drop by and hear about our latest innovations #inplan #instock #geospark #BSE15 https://t.co/xRdPg…
+155,658436741007708160,Mon Oct 26 00:15:26 +0000 2015,2,0,RT @oxygensap: Don't miss Fillipo's session at 11.25am 'Time to move to better maintenance budgeting &amp; forecasting in SAP' #masteringsap #B…
+156,658436723299348480,Mon Oct 26 00:15:22 +0000 2015,4,0,"RT @oxygensap: Our team are talking better decision making, reduce supply chain costs, optimise asset management #BSE15 https://t.co/jkHhjp…"
+157,658436703791636481,Mon Oct 26 00:15:18 +0000 2015,3,0,RT @oxygensap: Meet some of our awesome team at #MasteringSAP over the next 2 days! #BSE15 https://t.co/dQgjmNY6SE
+158,658436517669371904,Mon Oct 26 00:14:33 +0000 2015,2,0,"RT @sapcec: Simply put, when you engage your customers, they buy more. Wanna know more? https://t.co/ij9t1BFaZK @SAPsocial https://t.co/dUj…"
+159,658436399645921280,Mon Oct 26 00:14:05 +0000 2015,3,0,RT @oxygensap: Optimise your maintenance forecast and budgeting with inPlan!  See more at our booth at  #MasteringSAP next week https://t.c…
+160,658436373506949120,Mon Oct 26 00:13:59 +0000 2015,3,0,RT @oxygensap: Sneak peak of what you can see at our booth at #MasteringSAP next week! inStock enables mobile inventory management https://…
+161,658436344667074560,Mon Oct 26 00:13:52 +0000 2015,1,0,"RT @oxygensap: Dr Achim Kruger, VP, Operational Excellence Solutions, SAP presenting, ""Big Data and its role in Asset Management"" https://t…"
+162,658434661333336064,Mon Oct 26 00:07:11 +0000 2015,0,0,Mastering SAP UXC Oxygen https://t.co/5qKrCT96Xd
+163,657363250112106496,Fri Oct 23 01:09:46 +0000 2015,0,0,UXC Oxygen Proud to be a sponsor of the Big Data https://t.co/XQF5YpiOBp
+164,657319726125715456,Thu Oct 22 22:16:49 +0000 2015,3,0,RT @sapcec: Coming up! Keynote: The Evolution From CRM To Customer 360 Engagement: A Powerful New Approach #B2BGamePlan @MHKGreenworks at 4…
+165,656976726396792832,Wed Oct 21 23:33:52 +0000 2015,1,0,"RT @devereuxj: As of today, Back to the Future II's future is a past future! Will future futures resemble past futures? https://t.co/dVxwTd…"
+166,656976713587396608,Wed Oct 21 23:33:49 +0000 2015,3,0,RT @sapcec: Great to see Anne kicking things off at CVN!  What a team ;-) @VHil11 #hybrissummit  https://t.co/ixhy9VhQBx
+167,656976667898810368,Wed Oct 21 23:33:38 +0000 2015,2,0,RT @oxygensap: We are hosting an exclusive launch of GeoSPARK in Melb on 27th October.  Register your interest at https://t.co/looLULw9Ip
+168,656692633067085824,Wed Oct 21 04:44:59 +0000 2015,0,1,GeoSPARK https://t.co/XW0whBpxv6
+169,656624468983353344,Wed Oct 21 00:14:07 +0000 2015,2,0,RT @sapcec: Is your business ready to engage customers like never before? https://t.co/Rx35SEzmCm https://t.co/T6aXWRn8a0
+170,656624445201645569,Wed Oct 21 00:14:01 +0000 2015,3,0,RT @sapcec: Interview your customers – and build a journey map of how they engage with your brand and make their decisions @MikeWalsh at #h…
+171,656624402524573696,Wed Oct 21 00:13:51 +0000 2015,2,0,RT @sapcec: SAPVoice: The 'Always On' Culture Is Revolutionizing Digital Business @forbes https://t.co/AOvF9JJlPv by @TClark01 https://t.co…
+172,656624365677604864,Wed Oct 21 00:13:42 +0000 2015,8,0,"RT @SAPCloud: Marking Milestones: 1,300 customers now using S/4HANA to drive their digital transformations https://t.co/GkQ93OYixq https://…"
+173,656624340738269185,Wed Oct 21 00:13:36 +0000 2015,1,0,RT @oxygensap: Why SAP Wants to Train and Hire Nearly 700 Adults With Autism @jeffchu https://t.co/ZA8PjtPBuA via @Inc
+174,656624324548259840,Wed Oct 21 00:13:33 +0000 2015,1,0,RT @oxygensap: How Is Finance Like Formula 1? https://t.co/WiQZBzcjGM
+175,656624286434619392,Wed Oct 21 00:13:24 +0000 2015,5,0,"RT @sapcec: The Simplified Front Office brought to you by @hybris_software Thanks, @brentleary #hybrissummit https://t.co/u3kSJrF77h"
+176,656624251106033665,Wed Oct 21 00:13:15 +0000 2015,6,0,RT @sapcec: The online community - as a place where consumers can meaningfully engage with a brand: https://t.co/vCyiXpyj85 via @CRM #hybri…
+177,656624181216342016,Wed Oct 21 00:12:58 +0000 2015,0,0,Great scott! It’s time for government to catch up to the future https://t.co/gE18gyfvJK
+178,656267687706755072,Tue Oct 20 00:36:24 +0000 2015,4,0,"RT @oxygensap: ""The changing face of finance"" Great article by UXC Oxygen's Stephen Morling.  http://t.co/6Op1A8pUIi #finance #simplefinanc…"
+179,656267668790489088,Tue Oct 20 00:36:19 +0000 2015,4,0,RT @oxygensap: Now recruiting!  SAP Technical Solution Architect - New Zealand http://t.co/h1NXJTnY8m
+180,656267647454023681,Tue Oct 20 00:36:14 +0000 2015,3,0,RT @oxygensap: Now recruiting! Platform &amp; Technology Practice Manager - Melbourne http://t.co/3Sp9K338B7 #SAP #careers
+181,656267627124228096,Tue Oct 20 00:36:09 +0000 2015,3,0,RT @oxygensap: Full house in our Melbourne office for our CEO @studickinson townhall http://t.co/5lrZYFEznH
+182,656267608665165824,Tue Oct 20 00:36:05 +0000 2015,4,0,RT @oxygensap: Meet some of our Melbourne team!  Awesome bunch of people! http://t.co/heyPFQkMRj
+183,656267537546547200,Tue Oct 20 00:35:48 +0000 2015,2,0,RT @oxygensap: @ibmnz @ColmarBruntonNZ @ChenPalmer Thanks!  Looking forward to the awards evening.
+184,656267348693811200,Tue Oct 20 00:35:03 +0000 2015,1,0,"RT @sapcec: How To Unify Your Sales, Service and Marketing Departments Around Customer Experience on @briansolis https://t.co/zJMPvjEurf by…"
+185,656267064051527680,Tue Oct 20 00:33:55 +0000 2015,2,0,RT @SDenecken: Sven Denecken: Embrace the digital economy or be left behind https://t.co/VsmkNAikQt https://t.co/FNMi0SO5T0
+186,656266789790191616,Tue Oct 20 00:32:50 +0000 2015,2,0,"RT @sapcec: Case study: Pinning Hope on Personalization Through Mobile
+https://t.co/7WwGH6CJmF via @peppersrogers https://t.co/1FRHQlAXeH"
+187,656266741627027457,Tue Oct 20 00:32:38 +0000 2015,1,0,RT @devereuxj: I just helped make a difference by supporting The New Zealand Breast Cancer Founda... https://t.co/bFys98Bo5z
+188,656266470360412161,Tue Oct 20 00:31:34 +0000 2015,4,0,RT @sapcec: Why Customer Gratitude Trumps Loyalty: http://t.co/Qqf8uWIg0q in @HarvardBiz by @MarkBonchek http://t.co/9DHGhBZXr1
+189,656266410511826944,Tue Oct 20 00:31:19 +0000 2015,1,0,RT @sapcec: Three Strategies for Customer Engagement Focus after Your Live Event https://t.co/qKk3J9L3j1 via @loyalty360 https://t.co/mwGut…
+190,656266389590708225,Tue Oct 20 00:31:14 +0000 2015,2,0,RT @sapcec: 3 steps to best-in-class B2B e-commerce https://t.co/hwSbK8wz6a https://t.co/zWilyE4UGf
+191,656266348419375104,Tue Oct 20 00:31:04 +0000 2015,1,0,RT @sapcec: What if the customer doesn't know his / her buying process? https://t.co/SROdnGUx7G @DavidABrock https://t.co/o9uuujLR3f
+192,656266312746831874,Tue Oct 20 00:30:56 +0000 2015,11,0,"RT @SAPCloud: Clearing the clouds around @SAPInMemory:
+A closer look at HANA's role in @SAP Cloud strategy https://t.co/uFwaczI1df https://…"
+193,656045352907239424,Mon Oct 19 09:52:55 +0000 2015,3,0,RT @oxygensap: The best dressed in pink will be announced soon!  Big shout out to our staff for supporting the cause #pinkforaday http://t.…
+194,654827562833567744,Fri Oct 16 01:13:51 +0000 2015,2,0,RT @oxygensap: The @SAP @Redkite  trivia night has commenced in Melb!  Proud to be supporting this evening with staff &amp; clients. http://t.c…
+195,654226637408481280,Wed Oct 14 09:25:59 +0000 2015,2,0,RT @oxygensap: Great opportunity to join our team in Auckland!  We're looking for an SAP Project Manager http://t.co/EYzfJA3jjk #SAP #caree…
+196,654226612058091520,Wed Oct 14 09:25:53 +0000 2015,2,0,RT @oxygensap: SAP Wins IT Security Award - great news given our great team &amp; capability in this space! http://t.co/MhMIh9z6GJ @ssonick #IT…
+197,654226551387500544,Wed Oct 14 09:25:39 +0000 2015,4,0,"RT @oxygensap: Leveraging #Cloud For Your Business: Realizing True Value With Agility, Elasticity And Commoditization http://t.co/OP8uwG5nsn"
+198,654210177709703168,Wed Oct 14 08:20:35 +0000 2015,0,1,Strategic Partnership at Frucor https://t.co/cfUwemjrA4
+199,654210096155660288,Wed Oct 14 08:20:16 +0000 2015,0,1,UXC Oxygen | Strategic Partnership at Frucor http://t.co/TapchrXwKj

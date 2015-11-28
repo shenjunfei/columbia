@@ -1,0 +1,199 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,667752075909009408,Fri Nov 20 17:11:15 +0000 2015,0,0,"Test facebook posting 2, London, Accountancy https://t.co/A9jGqHnsLL 1"
+1,667660169795534848,Fri Nov 20 11:06:03 +0000 2015,0,0,"Test facebook posting 2, London, Accountancy https://t.co/YIcPgEHiQT 1"
+2,667644831049625601,Fri Nov 20 10:05:06 +0000 2015,0,0,"Test facebook posting 2, London, Accountancy https://t.co/NBA2zn4G7V 1"
+3,664066265938567168,Tue Nov 10 13:05:10 +0000 2015,0,0,"mailru, London, Accountancy https://t.co/uRBJVAQWTZ 1"
+4,662648953343778816,Fri Nov 06 15:13:16 +0000 2015,0,0,"mailru, London, Accountancy https://t.co/ohqFmXg7hW 1"
+5,641620212375289856,Wed Sep 09 14:32:34 +0000 2015,0,0,heloooooooO!
+6,639808178331455488,Fri Sep 04 14:32:11 +0000 2015,0,0,"event test 2, Andorra, Accountancy http://t.co/sOneDOSuAz 1"
+7,639808157229940736,Fri Sep 04 14:32:06 +0000 2015,0,0,"event test 2, Andorra, Accountancy http://t.co/mFhv6QuZ7f 1"
+8,601329437356007424,Thu May 21 10:11:24 +0000 2015,0,0,"ETZ Test 3, Tiraspol, Accountancy http://t.co/3ppaV4zf2y 1"
+9,600311895573291009,Mon May 18 14:48:03 +0000 2015,0,0,"Twitter posting test, London, Accountancy http://t.co/JvYLQ5Xxi8 1"
+10,598025326271307776,Tue May 12 07:22:03 +0000 2015,0,0,"Test parsing, London, Accountancy http://t.co/4s4s4ET4gP 1"
+11,595622272167182337,Tue May 05 16:13:10 +0000 2015,0,0,"Test parsing, London, Accountancy http://t.co/7fHBScuEuZ 1"
+12,595621873616052225,Tue May 05 16:11:35 +0000 2015,0,0,"Test parsing, London, Accountancy http://t.co/sXyMKyky5y 1"
+13,595615049068208129,Tue May 05 15:44:28 +0000 2015,0,0,"Candidate communicator test, London, Accountancy http://t.co/vZPbLr7JNW 1"
+14,595614443632996353,Tue May 05 15:42:04 +0000 2015,0,0,"Candidate communicator test, London, Accountancy http://t.co/tIKGM4y4rb 1"
+15,595611752718557185,Tue May 05 15:31:22 +0000 2015,0,0,"Candidate communicator test, London, Accountancy http://t.co/HHFKFRANRS 1"
+16,595611259938177024,Tue May 05 15:29:24 +0000 2015,0,0,"Candidate communicator test, London, Accountancy http://t.co/paKCqMMJva 1"
+17,595610734865817601,Tue May 05 15:27:19 +0000 2015,0,0,I'm back!
+18,566266319579136000,Fri Feb 13 16:03:05 +0000 2015,0,0,"Test parsing, London, Accountancy http://t.co/Vj8q0AHlNR 1"
+19,563654126543073280,Fri Feb 06 11:03:10 +0000 2015,0,0,"Test parsing, London, Accountancy http://t.co/ZnIMYbAb4c 1"
+20,562206810011336704,Mon Feb 02 11:12:03 +0000 2015,0,0,"Test parsing, London, Accountancy http://t.co/dA8yVufvGM 1"
+21,562206559594618880,Mon Feb 02 11:11:03 +0000 2015,0,0,"Test parsing, London, Accountancy http://t.co/EftjChroIf 1"
+22,561157154066153472,Fri Jan 30 13:41:05 +0000 2015,0,0,"Test parsing, London, Accountancy http://t.co/KyuZxOuL05 1"
+23,561078922658717696,Fri Jan 30 08:30:14 +0000 2015,0,0,"vacancy, London, Accountancy http://t.co/3lJCL39coz 1"
+24,560364675276476416,Wed Jan 28 09:12:04 +0000 2015,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/VWQICG7Zol 1"
+25,560364484922191873,Wed Jan 28 09:11:18 +0000 2015,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/1IhUkQOP9t 1"
+26,559632851009019904,Mon Jan 26 08:44:03 +0000 2015,0,0,"vacancy, London, Accountancy http://t.co/1EWL4vhfcL 1"
+27,559632600466460673,Mon Jan 26 08:43:04 +0000 2015,0,0,"vacancy, London, Accountancy http://t.co/yjpl44l3aF 1"
+28,558584238132699136,Fri Jan 23 11:17:15 +0000 2015,0,0,"Applr Testing with location, London, £30k-50k, Accountancy http://t.co/P6Qar1BEWc 1"
+29,558575460788236289,Fri Jan 23 10:42:22 +0000 2015,0,0,"Applr Testing with location, London, £30k-50k, Accountancy http://t.co/dzJKjwkfr2 1"
+30,558574653305016320,Fri Jan 23 10:39:09 +0000 2015,0,0,"vacancy, London, Accountancy http://t.co/QgG9drw5H9 1"
+31,558568725654544384,Fri Jan 23 10:15:36 +0000 2015,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/YpWXEefusZ 1"
+32,558568338163789824,Fri Jan 23 10:14:04 +0000 2015,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/9o2bE6NJMz 1"
+33,558568105358946305,Fri Jan 23 10:13:08 +0000 2015,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/b7Vx5VLpos 1"
+34,558192882386223104,Thu Jan 22 09:22:08 +0000 2015,0,0,"Candidate communicator test not applr, Wereham, 10-100, Accountancy http://t.co/aSgGbhgyq8 1"
+35,558191859303211008,Thu Jan 22 09:18:04 +0000 2015,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/nmv0c405E7 1"
+36,557526723257200640,Tue Jan 20 13:15:03 +0000 2015,0,0,"vacancy, London, Accountancy http://t.co/q9JC62KBB7 1"
+37,557495260948201472,Tue Jan 20 11:10:02 +0000 2015,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/FDLezwTOCf 1"
+38,557494034386939905,Tue Jan 20 11:05:10 +0000 2015,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/kfIn6M3GP4 1"
+39,557491826127826944,Tue Jan 20 10:56:23 +0000 2015,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/aMvOA6WKzD 1"
+40,555667726048706560,Thu Jan 15 10:08:04 +0000 2015,0,0,"Applr Testing with location, London, £30k-50k, Accountancy http://t.co/6IXLr19lxa 1"
+41,555292252818649088,Wed Jan 14 09:16:04 +0000 2015,0,0,"Applr Testing, London, £30k-50k, Accountancy http://t.co/eyZDitPl6x 1"
+42,555014921856241665,Tue Jan 13 14:54:03 +0000 2015,0,0,"vacancy, London, Accountancy http://t.co/9JPyCrI8fl 1"
+43,555013946026229762,Tue Jan 13 14:50:11 +0000 2015,0,0,"multi mail testing, London, Accountancy http://t.co/HXVMf7T9ie 1"
+44,555013256625278976,Tue Jan 13 14:47:26 +0000 2015,0,0,"multi mail testing, London, Accountancy http://t.co/VAUkgnZPzA 1"
+45,554994829089054721,Tue Jan 13 13:34:13 +0000 2015,0,0,"multi mail testing, London, Accountancy http://t.co/jpn6nIEaGy 1"
+46,554993280921128960,Tue Jan 13 13:28:04 +0000 2015,0,0,"multi mail testing, London, Accountancy http://t.co/YWlBYXcm68 1"
+47,553146014023319552,Thu Jan 08 11:07:41 +0000 2015,0,0,"mailru, London, Accountancy http://t.co/djBwjbuxNr 1"
+48,553117696335044608,Thu Jan 08 09:15:09 +0000 2015,0,0,"Candidate communicator test, London, Accountancy http://t.co/hgxQBZn8d1 1"
+49,552501695289507841,Tue Jan 06 16:27:23 +0000 2015,0,0,"Candidate communicator test, London, Accountancy http://t.co/GMk4nChBB8 1"
+50,552456077737218048,Tue Jan 06 13:26:07 +0000 2015,0,0,"Candidate communicator test, London, Accountancy http://t.co/b5OrnaVEio 1"
+51,552121684288102400,Mon Jan 05 15:17:22 +0000 2015,0,0,"Candidate communicator test, London, Accountancy http://t.co/TMpvZ44azN 1"
+52,549555197039894528,Mon Dec 29 13:19:03 +0000 2014,0,0,"Candidate communicator test, London, Accountancy http://t.co/4XNGoz3gw9 1"
+53,548118732099559425,Thu Dec 25 14:11:03 +0000 2014,0,0,"Applr Testing, London, £30k-50k, Accountancy http://t.co/kxD5iCWsTK 1"
+54,545944914853650432,Fri Dec 19 14:13:05 +0000 2014,0,0,"Candidate communicator test, London, Accountancy http://t.co/CvJcb8JtDP 1"
+55,545912513477763072,Fri Dec 19 12:04:20 +0000 2014,0,0,"vacancy, Padavi Sritissapura, Aerospace http://t.co/0495YbLcIe 1"
+56,545912312105017344,Fri Dec 19 12:03:32 +0000 2014,0,0,"Candidate communicator without location, London, Accountancy http://t.co/y48dVaIufB 1"
+57,544877920402292736,Tue Dec 16 15:33:14 +0000 2014,0,0,"vacancy, Padavi Sritissapura, Aerospace http://t.co/9Z1qaiBvMZ 1"
+58,544861981640261632,Tue Dec 16 14:29:54 +0000 2014,0,0,"mailru, London, Accountancy http://t.co/8Oaxt1bb2k 1"
+59,544432967624708096,Mon Dec 15 10:05:09 +0000 2014,0,0,"Applr Testing, London, £30k-50k, Accountancy http://t.co/JXGoO08pcA 1"
+60,544432234179358721,Mon Dec 15 10:02:14 +0000 2014,0,0,"Applr Testing, London, £30k-50k, Accountancy http://t.co/al3GHWzie7 1"
+61,544423885949911040,Mon Dec 15 09:29:03 +0000 2014,0,0,"Applr Testing, London, £30k-50k, Accountancy http://t.co/0vFrKQHolT 1"
+62,540211433443966977,Wed Dec 03 18:30:17 +0000 2014,0,0,"test333333, London, Accountancy http://t.co/uBliCoT2PS"
+63,537575605978824704,Wed Nov 26 11:56:26 +0000 2014,0,0,"Candidate communicator with location (actually with), London, Accountancy http://t.co/67UiK7uADw 1"
+64,537574478281469952,Wed Nov 26 11:51:57 +0000 2014,0,0,"Candidate communicator with location, London, Accountancy http://t.co/BkNVUoQi9i 1"
+65,537552883605327873,Wed Nov 26 10:26:09 +0000 2014,0,0,"Candidate communicator without location, London, Accountancy http://t.co/tG0uTqagBh 1"
+66,537551536692682752,Wed Nov 26 10:20:48 +0000 2014,0,0,"Candidate communicator with location, Sri Palabaddala, Accountancy http://t.co/k4OTQckiye 1"
+67,535800463254638592,Fri Nov 21 14:22:39 +0000 2014,0,0,"new project event test, Sri Jayawardenepu, Accountancy http://t.co/ghLQXoYxZu 1"
+68,535800059976491008,Fri Nov 21 14:21:03 +0000 2014,0,0,"Candidate communicator test no applr, Sri Palabaddala, Accountancy http://t.co/pVJwQO3dgl 1"
+69,535383384022077440,Thu Nov 20 10:45:20 +0000 2014,0,0,"Candidate communicator test with redirect, Sri Palabaddala, Accountancy http://t.co/eO3bZboskf 1"
+70,535379572075024384,Thu Nov 20 10:30:11 +0000 2014,0,0,"ETZ Test 3, Tiraspol, Accountancy http://t.co/H2N4NdywNH 1"
+71,535378813602238464,Thu Nov 20 10:27:10 +0000 2014,0,0,"ETZ Test 3, Tiraspol, Accountancy http://t.co/9UELSbfuoT 1"
+72,535354666432098305,Thu Nov 20 08:51:13 +0000 2014,0,0,"Candidate communicator test with redirect, Sri Palabaddala, Accountancy http://t.co/Xylm9mmki7 1"
+73,535349607824637952,Thu Nov 20 08:31:07 +0000 2014,0,0,"Candidate communicator test with redirect, Sri Palabaddala, Accountancy http://t.co/qYppNmWiD2 1"
+74,535117909891493889,Wed Nov 19 17:10:26 +0000 2014,0,0,"Candidate communicator test with redirect, Sri Palabaddala, Accountancy http://t.co/ghSjssgSC1 1"
+75,535116841270923264,Wed Nov 19 17:06:11 +0000 2014,0,0,"Candidate communicator test no redirect, Sri Palabaddala, Accountancy http://t.co/vMQ2ZH37cA 1"
+76,535108834994696192,Wed Nov 19 16:34:22 +0000 2014,0,0,"Candidate communicator test applr, Sri Palabaddala, Accountancy http://t.co/6E8O5sRmgS 1"
+77,535104764942766081,Wed Nov 19 16:18:12 +0000 2014,0,0,"ETZ Test 3, Tiraspol, Accountancy http://t.co/9JBhqkMSyi 1"
+78,535103863746203648,Wed Nov 19 16:14:37 +0000 2014,0,0,"ETZ Test 3, Tiraspol, Accountancy http://t.co/PAE256aGak 1"
+79,535036781243416576,Wed Nov 19 11:48:03 +0000 2014,0,0,"Candidate communicator test applr, Sri Palabaddala, Accountancy http://t.co/1x4O7Ts7Ci 1"
+80,535028468376145920,Wed Nov 19 11:15:01 +0000 2014,0,0,"Candidate communicator test applr, Sri Palabaddala, Accountancy http://t.co/6RArBTeME3 1"
+81,535008616554971136,Wed Nov 19 09:56:08 +0000 2014,0,0,"Candidate communicator test no applr, Sri Palabaddala, Accountancy http://t.co/7MkMoQIKfZ 1"
+82,534631970480074753,Tue Nov 18 08:59:29 +0000 2014,0,0,"test333333, London, Accountancy http://t.co/99PeqIyqAQ"
+83,534385769222529024,Mon Nov 17 16:41:10 +0000 2014,0,0,"Candidate communicator test no applr, Sri Palabaddala, Accountancy http://t.co/Uuld2W8bVJ 1"
+84,534303472079093760,Mon Nov 17 11:14:09 +0000 2014,0,0,"ETZ Test 3, Tiraspol, Accountancy http://t.co/DU8GASIait 1"
+85,532853656711073793,Thu Nov 13 11:13:06 +0000 2014,0,0,"Candidate communicator test no applr, Sri Palabaddala, Accountancy http://t.co/JEGwF3hHkr 1"
+86,532836404737609728,Thu Nov 13 10:04:33 +0000 2014,0,0,"Candidate communicator test no applr, Sri Palabaddala, Accountancy http://t.co/ZwElfDRRtB 1"
+87,532833514207838208,Thu Nov 13 09:53:04 +0000 2014,0,0,"Candidate communicator test, Sri Palabaddala, Accountancy http://t.co/XM3N2mtSoK 1"
+88,532828274754588672,Thu Nov 13 09:32:14 +0000 2014,0,0,"ETZ Test 3, Tiraspol, Accountancy http://t.co/9IfK7JQkEe 1"
+89,532824303159754752,Thu Nov 13 09:16:27 +0000 2014,0,0,"Candidate communicator test, Sri Palabaddala, Accountancy http://t.co/FpO11Oy9fL 1"
+90,532820933170708481,Thu Nov 13 09:03:04 +0000 2014,0,0,"ETZ Test 3, Tiraspol, Accountancy http://t.co/Pn8v2RmAxL 1"
+91,532579221127061504,Wed Nov 12 17:02:35 +0000 2014,0,0,"Candidate communicator test, Sri Palabaddala, Accountancy http://t.co/QSBWlsxCKI 1"
+92,532550414135476224,Wed Nov 12 15:08:07 +0000 2014,0,0,"Candidate communicator test, Sri Palabaddala, Accountancy http://t.co/edfcsfDBMW 1"
+93,532548403633618944,Wed Nov 12 15:00:08 +0000 2014,0,0,"Candidate communicator test, Sri Palabaddala, Accountancy http://t.co/0VcBMr02pL 1"
+94,532546626628636672,Wed Nov 12 14:53:04 +0000 2014,0,0,"Candidate communicator test, Sri Palabaddala, Accountancy http://t.co/8apRea94f9 1"
+95,532546127330287616,Wed Nov 12 14:51:05 +0000 2014,0,0,"Lets take a tour..., Andorra, Accountancy http://t.co/7Vxx4SR5ZQ 1"
+96,532529321856884736,Wed Nov 12 13:44:18 +0000 2014,0,0,"Candidate communicator test, Sri Palabaddala, Accountancy http://t.co/P4ZlJUlgVl 1"
+97,531762609285255168,Mon Nov 10 10:57:40 +0000 2014,0,0,"Candidate communicator test, Sri Palabaddala, Accountancy http://t.co/LK7vYtt5VL 1"
+98,530298416002502656,Thu Nov 06 09:59:29 +0000 2014,0,0,"Candidate communicator test, Sri Palabaddala, Accountancy http://t.co/5Z6N3yRvPx 1"
+99,530296318158442496,Thu Nov 06 09:51:09 +0000 2014,0,0,"Candidate communicator test, Sri Palabaddala, Accountancy http://t.co/zp2xOfGcZp 1"
+100,530291261950156802,Thu Nov 06 09:31:03 +0000 2014,0,0,"Candidate communicator test, Sri Lanka, Accountancy http://t.co/JHmhHpzgHt 1"
+101,529942223358816256,Wed Nov 05 10:24:06 +0000 2014,0,0,"Payroll Officer, Manchester, £18k-22k, Accountancy http://t.co/yEoKDDcOlG 1"
+102,529922602362753024,Wed Nov 05 09:06:08 +0000 2014,0,0,"Applr Test, Manchester, £18k-20k, Accountancy http://t.co/xALYnn51ME 1"
+103,529625680997531650,Tue Nov 04 13:26:16 +0000 2014,0,0,"ETZ Test 3, Tiraspol, Accountancy http://t.co/w1Rf30k4YR 1"
+104,529561459379142656,Tue Nov 04 09:11:05 +0000 2014,0,0,"ETZ Test 3, Tiraspol, Accountancy http://t.co/LAAjqEhcTh 1"
+105,529560447620763648,Tue Nov 04 09:07:04 +0000 2014,0,0,"ETZ Test 3, Tiraspol, Accountancy http://t.co/BB7SQh08RX 1"
+106,529285138493231104,Mon Nov 03 14:53:05 +0000 2014,0,0,"ETZ Test 3, Tiraspol, Accountancy http://t.co/GzKkr5eR4C 1"
+107,529279354627710979,Mon Nov 03 14:30:06 +0000 2014,0,0,"ETZ Test 3, Tiraspol, Accountancy http://t.co/6GCpYOfnbM 1"
+108,529217196854370304,Mon Nov 03 10:23:06 +0000 2014,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/MqPxodqDvB 1"
+109,529014096487018498,Sun Nov 02 20:56:03 +0000 2014,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/wSKwjUGItD 1"
+110,528173480035246081,Fri Oct 31 13:15:45 +0000 2014,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/zkc4kJDZOL 1"
+111,528138342156607488,Fri Oct 31 10:56:07 +0000 2014,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/ajGpMqvm3W 1"
+112,527773707708932096,Thu Oct 30 10:47:12 +0000 2014,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/61l9b1CvKv 1"
+113,517623044123402241,Thu Oct 02 10:32:05 +0000 2014,0,0,"Adverts notifications, Sainthamaruthu, Accountancy http://t.co/BGOfIrjKMI 1"
+114,517603675318267904,Thu Oct 02 09:15:07 +0000 2014,0,0,"Candidate communicator test, Wereham, 10-100, Accountancy http://t.co/zGZXROfC2b 1"
+115,517597895097593857,Thu Oct 02 08:52:09 +0000 2014,0,0,"Candidate communicator test, Tebuwana, Accountancy http://t.co/ZYia0zjSet 1"
+116,516950865329278976,Tue Sep 30 14:01:05 +0000 2014,0,0,"project 1, Hasalaka, Accountancy http://t.co/bl6qLoLxzf 1"
+117,500189023663833088,Fri Aug 15 07:55:30 +0000 2014,0,0,"Lets take a tour..., Rezare, 10-100,  http://t.co/P5WoaiwP2Y 1"
+118,500185736667467776,Fri Aug 15 07:42:27 +0000 2014,0,0,"Lets take a tour..., Rezare, 10-100,  http://t.co/X9IuZeBjxN 1"
+119,359750628458762240,Tue Jul 23 19:03:28 +0000 2013,896,0,RT @ziptime_ru: Купоны на скидки известных магазинов http://t.co/tCh9qfhPY8
+120,350152143359049728,Thu Jun 27 07:22:31 +0000 2013,8849,0,"RT @Evgeniya_Fiesta: DJ Evgeniya Fiesta, клуб PRAVDA нск, приглашает: 27 июня-ПЕЧЕНЬКИ Paty, 28-29 июня-Театр.Сезон ТАНЦЫ ПУШКИНА 2131322 h…"
+121,340018747161075713,Thu May 30 08:16:01 +0000 2013,0,0,http://t.co/PX1IkcCt3d b7 егэ
+122,301558048563011585,Wed Feb 13 05:06:56 +0000 2013,0,0,программа photo-brush бесплатно скачать  http://t.co/UK0lBXEu  http://t.co/Q1XxKu3b
+123,301558030208737280,Wed Feb 13 05:06:51 +0000 2013,0,0,скачать программы на телефон самсунг  http://t.co/MSz1f6Yi  http://t.co/pOlb8jWt
+124,301558018951233537,Wed Feb 13 05:06:49 +0000 2013,0,0,скачать бесплатную программу кафель бесплатно  http://t.co/BlrixVD4  http://t.co/KAFJ8yZq
+125,301558003688144897,Wed Feb 13 05:06:45 +0000 2013,0,0,скачать бесплатно программу платежных поручений  http://t.co/VOX3SaBL  http://t.co/aQBhrirj
+126,301557985497456640,Wed Feb 13 05:06:41 +0000 2013,0,0,скачать программу для просмотра телепередач  http://t.co/3dL6kAqw  http://t.co/6xh18zWF
+127,301557967675854848,Wed Feb 13 05:06:36 +0000 2013,0,0,программа по литературе скачать  http://t.co/pKEEZgpy  http://t.co/EG2ngcHe
+128,298960454334697474,Wed Feb 06 01:05:01 +0000 2013,0,0,скачать программы для наложения звука на видео  http://t.co/IiMHhpeX  http://t.co/c3toQpId
+129,297788009988886529,Sat Feb 02 19:26:08 +0000 2013,0,0,скачать офисные программу word  http://t.co/LKmGtp92  http://t.co/xI0TKvc2
+130,296387028650704897,Tue Jan 29 22:39:08 +0000 2013,0,0,скачать программу для видео 3d  http://t.co/bNVhgtvw  http://t.co/HASfvWkU
+131,296387014641741824,Tue Jan 29 22:39:05 +0000 2013,0,0,скачать шахматную программу фриц  http://t.co/pr4QCIS5  http://t.co/lAQYo2ra
+132,296386997147271168,Tue Jan 29 22:39:01 +0000 2013,0,0,скачать программу для просмотра любого видео  http://t.co/kU2lXC1d  http://t.co/GRVgIttP
+133,296386977744437248,Tue Jan 29 22:38:56 +0000 2013,0,0,origin программа скачать торрент  http://t.co/wgFjmqeY  http://t.co/hJ7FS88R
+134,293613584385204224,Tue Jan 22 06:58:28 +0000 2013,0,0,скачать программы для обработки изображений бесплатно  http://t.co/MXIJd7RW  http://t.co/L5iKewDH
+135,293613575648473088,Tue Jan 22 06:58:26 +0000 2013,0,0,программа для удалений обновлений скачать  http://t.co/Cd4uN62F  http://t.co/zcAWqQSM
+136,293613561442361346,Tue Jan 22 06:58:22 +0000 2013,0,0,программы для last chaos скачать  http://t.co/qDKSii0o  http://t.co/zUNlKkJk
+137,293613548393877504,Tue Jan 22 06:58:19 +0000 2013,0,0,как скачать программы на iphone бесплатно  http://t.co/mKRpmoIZ  http://t.co/MTflI0Iy
+138,293613529091670016,Tue Jan 22 06:58:15 +0000 2013,0,0,мур клуб программы бесплатно скачать  http://t.co/bm73yauf  http://t.co/Ge80c3mm
+139,293613510599012352,Tue Jan 22 06:58:10 +0000 2013,0,0,скачать программу для записывания видео в игре  http://t.co/1s4mLmbl  http://t.co/PeWTqSwI
+140,293613493192626176,Tue Jan 22 06:58:06 +0000 2013,0,0,программы скачать бесплатно интерьер  http://t.co/6NIjtkgT  http://t.co/mrp6k0I4
+141,293613475148742656,Tue Jan 22 06:58:02 +0000 2013,0,0,скачать программу чтобы в играх делать деньги  http://t.co/3b4uRn45  http://t.co/GCeuvnbh
+142,291812494614351872,Thu Jan 17 07:41:34 +0000 2013,0,0,скачать бесплатно программу filezilla  http://t.co/vH8835EO  http://t.co/ZhwjgU2B
+143,291812489933500416,Thu Jan 17 07:41:33 +0000 2013,0,0,"скачать программу для взлома программ, поролей  http://t.co/iOwpNPeS  http://t.co/7OjlNW2G"
+144,291812472518766593,Thu Jan 17 07:41:29 +0000 2013,0,0,генератор звуковой программу скачать  http://t.co/4WeAmmBF  http://t.co/7wO93ZqI
+145,291812459214405632,Thu Jan 17 07:41:26 +0000 2013,0,0,скачать програма фото шоп  http://t.co/lQp1nTlL  http://t.co/vZSXcUbZ
+146,291812441594138624,Thu Jan 17 07:41:22 +0000 2013,0,0,скачать бесплатно программу приход расход  http://t.co/21MKZnKP  http://t.co/ngnNLUrs
+147,291812426591137792,Thu Jan 17 07:41:18 +0000 2013,0,0,скачать программу прически  http://t.co/KfUROHXX  http://t.co/CyK7cOOc
+148,291812413278392320,Thu Jan 17 07:41:15 +0000 2013,0,0,google программы скачать  http://t.co/Xu5ruGr2  http://t.co/T5r9HtHc
+149,291812398606725121,Thu Jan 17 07:41:12 +0000 2013,0,0,программа для нарезки mp3 скачать бесплатно на русском  http://t.co/GbCf9v0r  http://t.co/UuO8dI48
+150,288489241669955585,Tue Jan 08 03:36:09 +0000 2013,0,0,"скачать программу ftp клиент
+http://t.co/LiSxPp6C
+http://t.co/Y1NhDBEQ"
+151,288489212515348480,Tue Jan 08 03:36:02 +0000 2013,0,0,"скачать программы спутникового телевидения
+http://t.co/3yEDOUcB
+http://t.co/WWMBxq3k"
+152,288489186682609664,Tue Jan 08 03:35:56 +0000 2013,0,0,"скачать программу торрент mediaget
+http://t.co/Sy2ThBdk
+http://t.co/RkKwidw3"
+153,287959130159845376,Sun Jan 06 16:29:41 +0000 2013,0,0,"скачать бесплатно программу pdf reader
+http://t.co/jE0HUHJ9"
+154,287959116406730753,Sun Jan 06 16:29:38 +0000 2013,0,0,"для удаления программ скачать
+http://t.co/Va3XfclR"
+155,287959096722870273,Sun Jan 06 16:29:33 +0000 2013,0,0,"программа машинопись скачать
+http://t.co/Iv6glBMk"
+156,287959075487105024,Sun Jan 06 16:29:28 +0000 2013,0,0,"скачать программу для создания 3d-графики
+http://t.co/jdYH71SC"
+157,217157355568242688,Mon Jun 25 07:28:42 +0000 2012,0,0,@patrikus91 test test test
+158,157424686102360064,Thu Jan 12 11:32:24 +0000 2012,2,0,http://hosted.dev/registration/step1
+159,157393737956343808,Thu Jan 12 09:29:26 +0000 2012,0,0,PHP Forms - The best form creator & processor solution since 2003 http://hosted.dev/#2
+160,121168449014743040,Tue Oct 04 10:23:04 +0000 2011,0,0,qwerty
+161,120561073035284480,Sun Oct 02 18:09:34 +0000 2011,0,0,qwe
+162,120560306664636417,Sun Oct 02 18:06:31 +0000 2011,0,0,ololo
+163,120560045393068032,Sun Oct 02 18:05:29 +0000 2011,0,0,o
+164,120559815847186432,Sun Oct 02 18:04:34 +0000 2011,0,0,1
+165,119020874383884289,Wed Sep 28 12:09:22 +0000 2011,0,0,q
+166,119020625158348800,Wed Sep 28 12:08:22 +0000 2011,0,0,тут был хороший борщ
+167,119011741089792000,Wed Sep 28 11:33:04 +0000 2011,0,0,- тут был хороший борщ 3
+168,119011570947850240,Wed Sep 28 11:32:24 +0000 2011,0,0,- тут был хороший борщ 2
+169,119011360020496384,Wed Sep 28 11:31:34 +0000 2011,0,0,- тут был хороший борщ
+170,118987581475127296,Wed Sep 28 09:57:04 +0000 2011,0,0,вот. всё.
+171,118987558452596737,Wed Sep 28 09:56:59 +0000 2011,0,0,"он так утоляет жажду, и я чувствую себя человеком!"
+172,118987536591884288,Wed Sep 28 09:56:54 +0000 2011,0,0,вот… эщо чоо… вкусный чай
+173,118987527741898752,Wed Sep 28 09:56:51 +0000 2011,0,0,"вообще, он меня бесит"
+174,118987518808047616,Wed Sep 28 09:56:49 +0000 2011,0,0,"куда крошаД морковку, капусту и яблоки с ананасами"
+175,118987509630910464,Wed Sep 28 09:56:47 +0000 2011,0,0,"ну, еще есть какой-то непонятный салаД"
+176,118987500067897344,Wed Sep 28 09:56:45 +0000 2011,0,0,так… сасисачки.
+177,118987491066908672,Wed Sep 28 09:56:43 +0000 2011,0,0,"с капусткой, но не красный."
+178,118987482154024960,Wed Sep 28 09:56:41 +0000 2011,0,0,тут был хороший борщ
+179,118985282400956416,Wed Sep 28 09:47:56 +0000 2011,0,0,сосисочки
+180,118985165400842240,Wed Sep 28 09:47:28 +0000 2011,0,0,"капустка красная, но не борщ!"
+181,118984806120964096,Wed Sep 28 09:46:03 +0000 2011,0,0,"борщ с капусткой, но не красный!"
+182,118568263633485824,Tue Sep 27 06:10:51 +0000 2011,0,0,"борщ с капусткой, но не красный 2"
+183,118310996141015040,Mon Sep 26 13:08:34 +0000 2011,0,0,"борщ с капусткой, но не красный"
+184,118216963586662400,Mon Sep 26 06:54:55 +0000 2011,0,0,чумачечая весна 24
+185,118216867688095745,Mon Sep 26 06:54:32 +0000 2011,0,0,чумачечая весна 23
+186,118216432516464640,Mon Sep 26 06:52:48 +0000 2011,0,0,чумачечая весна 22
+187,118216358042402816,Mon Sep 26 06:52:30 +0000 2011,0,0,чумачечая весна 21

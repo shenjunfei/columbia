@@ -1,0 +1,208 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668666279478325248,Mon Nov 23 05:43:58 +0000 2015,0,1,@lukeoneil47 that's an outstanding balance 👏
+1,668638659298664448,Mon Nov 23 03:54:13 +0000 2015,0,0,"@danberger yeah, i read it a couple years ago, sometimes it's hard to tell whose POV in the writing but very captivating. good for movie too"
+2,668637846903894016,Mon Nov 23 03:51:00 +0000 2015,0,0,"@danberger https://t.co/GsGQxCKobb , this book is a must read! about a british guy in that prison."
+3,668587487804149760,Mon Nov 23 00:30:53 +0000 2015,3,0,RT @sebmarkbage: @nkbtnk @dan_abramov We've had several major issues at FB w/ code that throws in dev. Nobody notices what happens when the…
+4,668520068981137408,Sun Nov 22 20:02:59 +0000 2015,0,1,"@kylee_tilley ha, that's very interesting, also see this, https://t.co/RcRIgYZwa3 . I think modularity of redux trips people up."
+5,668095171976892416,Sat Nov 21 15:54:36 +0000 2015,0,2,"@__kbtoys the ""box"" https://t.co/RIvasbK3pF"
+6,666484783816581120,Tue Nov 17 05:15:29 +0000 2015,0,2,@Rovolutionary @danmactough @mcwhittemore @touchofray @Rdio what about caitlin fm ????
+7,666325822467346432,Mon Nov 16 18:43:50 +0000 2015,0,1,when you're getting too used to clojurescript... https://t.co/3isA2lliKH
+8,666102254378840064,Mon Nov 16 03:55:27 +0000 2015,0,0,@danberger i wouldn't have it any other way
+9,666034118367559681,Sun Nov 15 23:24:42 +0000 2015,0,1,"@angelinacho @__kbtoys wowowow, One directions only direction is towards obscurity"
+10,665622526014447616,Sat Nov 14 20:09:11 +0000 2015,0,3,"@matthewwithanm YES YES YES, oh man this is so great. cc @danmactough"
+11,665610766813429760,Sat Nov 14 19:22:27 +0000 2015,0,1,"@rickyvetter ha i still haven't bought in, https://t.co/2yL5t7KCyC , this looks interesting to me though"
+12,665609357095264257,Sat Nov 14 19:16:51 +0000 2015,0,1,@rickyvetter https://t.co/cPG9PpUZdG
+13,665606330749722624,Sat Nov 14 19:04:50 +0000 2015,11,47,"a simple implementation of redux to show just how elegant the api is
+https://t.co/jraf71Bi5q , @dan_abramov did i screw up anything wildly?"
+14,665417405083074560,Sat Nov 14 06:34:06 +0000 2015,0,0,@ITSoFRISCHial @angelinacho btw i had to execute three google searches to figure out what a foundation was https://t.co/8dNABOaO12
+15,665416781473947649,Sat Nov 14 06:31:38 +0000 2015,0,0,@ITSoFRISCHial @angelinacho wowowow is a house a house if it is built ona foundation of lies
+16,665410760621826048,Sat Nov 14 06:07:42 +0000 2015,1,2,"friday friday friday fun fun fun, https://t.co/ZNQq2UI4rp , record redux actions in session storage."
+17,664658235853533184,Thu Nov 12 04:17:26 +0000 2015,0,2,no one tells about migrating the test suite when they tell you how fun it is to migrate a gigantic app to redux 😰
+18,663922889666727936,Tue Nov 10 03:35:26 +0000 2015,0,4,"diving deep into redux tonight, and i finally feel like i get thunks, not that i ""get"" thunks, thanks @dan_abramov !"
+19,663610618579152896,Mon Nov 09 06:54:35 +0000 2015,79,0,RT @EnglishMossop: Code review is not about obeying the reviewer. It’s a conversation about how code can be better. Sometimes the reviewer …
+20,663603720203190272,Mon Nov 09 06:27:10 +0000 2015,0,0,@amasad @Vjeux looks like it 😓
+21,663593741387739136,Mon Nov 09 05:47:31 +0000 2015,0,0,@amasad @Vjeux and one more gist =&gt; https://t.co/Yeb8Wr4B1H appears to be a problem with jsx with a .js file extension
+22,663593014821060608,Mon Nov 09 05:44:38 +0000 2015,0,0,"@amasad @Vjeux fails as well, even without using es6 style code =&gt; https://t.co/WxFuKy8IM8"
+23,663590981816688640,Mon Nov 09 05:36:33 +0000 2015,0,0,"@amasad @Vjeux it definitely seems to be caused by single quotes inside of jsx , https://t.co/5wE3QlBu7w , here is a much smaller example"
+24,663589046086668288,Mon Nov 09 05:28:52 +0000 2015,0,2,@Vjeux @amasad this has been killing me lately! nothing obvious i can see from an es6 standpoint =&gt; https://t.co/cq5GvTUf66 any thoughts?
+25,663429791534735361,Sun Nov 08 18:56:02 +0000 2015,0,0,@derekhaller @azizansari i'm more of an arnold.
+26,663159040688660480,Sun Nov 08 01:00:10 +0000 2015,0,0,nothing makes me happier than seeing `this` disappear from a codebase.
+27,663079713078943744,Sat Nov 07 19:44:57 +0000 2015,0,0,"ow ow ow, i have a splinter, do they still sell tweezers at shops or only on the world wide web?"
+28,662490247733710848,Fri Nov 06 04:42:38 +0000 2015,0,2,"is the expanded media view, the like tooltip still says favorite, stop leading me on @twitter ! https://t.co/2m33vhML2Q"
+29,661949853409374208,Wed Nov 04 16:55:18 +0000 2015,0,1,"@1aura1opez @angelinacho @googlecalendar hmm, best solution, memorize your calendar. the brain is the best calendar"
+30,661576231633162240,Tue Nov 03 16:10:39 +0000 2015,0,5,"there are so many tweets i've favorited that i don't like, @twitter you have made me lie to thousands of people."
+31,660905566605336576,Sun Nov 01 19:45:40 +0000 2015,9,0,RT @React_Rocks: react-user-tour by @socialtables: Onboarding tool - give new users a tour. Bubble animates between steps. https://t.co/iXm…
+32,660329202789523456,Sat Oct 31 05:35:24 +0000 2015,0,1,@lanadeathrey not many treats from that bartender this halloween (this is a joke playing on the common halloween phrase `trick or treat`)
+33,660319699826302976,Sat Oct 31 04:57:39 +0000 2015,0,2,"@maevemq how many men are in this ""hot tub"" ?"
+34,660315087857668096,Sat Oct 31 04:39:19 +0000 2015,0,0,@angelinacho would i ever take an uber pool?
+35,660309843568418816,Sat Oct 31 04:18:29 +0000 2015,0,0,"fun, bizarre, what have you fact of the day, `Objects.keys(""string"")` works in ES6 and will return [""0"", ""1"", ""2"", ""3"", ""4"", ""5""] /shrug"
+36,659205689814949888,Wed Oct 28 03:10:58 +0000 2015,0,1,"writing tests today that required browser, and https://t.co/Olu2AaLv5V was such a joy to use. thanks @hughskennedy !"
+37,658315610414297088,Sun Oct 25 16:14:07 +0000 2015,0,2,beautiful example of my poetry writing past from my second grade journal ==&gt; https://t.co/TxkyKKma7H
+38,658309815358365700,Sun Oct 25 15:51:05 +0000 2015,0,0,"i have a lot of
+differing opinions
+
+about using the return key 
+
+in a tweet."
+39,656870486618566657,Wed Oct 21 16:31:42 +0000 2015,0,1,@danberger thank you 🎉
+40,656835493729083393,Wed Oct 21 14:12:39 +0000 2015,1,1,very excited for this to land ==&gt; https://t.co/gz7nGfjoKi
+41,656624744255639552,Wed Oct 21 00:15:13 +0000 2015,0,2,"here is a fictional story i wrote about basketball in second grade, wow it is great https://t.co/qiYAWy8KYv"
+42,656306402428887041,Tue Oct 20 03:10:14 +0000 2015,0,3,and as a bonus gave me a way better understanding of react internals i think...really great workshop from @swannodette yesterday
+43,656306283692322817,Tue Oct 20 03:09:46 +0000 2015,0,0,"even if you are not a clojurescript developer, om next provides great ideas for structuring data in your application"
+44,656287646281551872,Tue Oct 20 01:55:42 +0000 2015,0,0,@G_ram3000 @angelinacho @marhan002 @rachelkaritis graham did you make this this is very good
+45,656227438918246400,Mon Oct 19 21:56:28 +0000 2015,0,1,@angelinacho @marhan002 @G_ram3000 @rachelkaritis am i garbage?
+46,655453607261839360,Sat Oct 17 18:41:32 +0000 2015,0,5,When you catch yourself in the mirror and you're like wow beautiful boy
+47,655396247185072130,Sat Oct 17 14:53:36 +0000 2015,0,2,when you're at home and you have to go to a wedding in an hour but your mom is going out to buy you red bull so it's all ok.
+48,654853013719425026,Fri Oct 16 02:54:59 +0000 2015,0,1,does making communication easier make it better
+49,654685796071444481,Thu Oct 15 15:50:31 +0000 2015,0,0,i don't think i've ever spelled `threshold` correctly
+50,654444060191653888,Wed Oct 14 23:49:57 +0000 2015,1,3,fuck you if you don't think utz makes fucking dope snacks
+51,654336808516485120,Wed Oct 14 16:43:46 +0000 2015,0,1,@matzatorski @mjackson broke homebrew for me but solution was dead simple ==&gt; http://t.co/2Y0KLFlqV4
+52,653751479799545856,Tue Oct 13 01:57:53 +0000 2015,0,1,is there anything better than getting a second wind and a third wind at the same time
+53,653750594776223746,Tue Oct 13 01:54:22 +0000 2015,0,1,@1aura1opez @worldofmirth wow i need this i need it i need it i need it please please please omg i need it please please please please pleas
+54,653593660584534016,Mon Oct 12 15:30:46 +0000 2015,0,0,plz read this https://t.co/W25lNl4bdO
+55,653402169081786368,Mon Oct 12 02:49:51 +0000 2015,4,17,"@jontaffer my friend @lauraf_out_loud loves you 💞 , she says she will only go to restaurants with taffer-kabobs http://t.co/S9XYd9Dh11"
+56,653315039638781952,Sun Oct 11 21:03:38 +0000 2015,0,1,@matthewwithanm they did a surprise show in baltimore last night...the new stuff sounds really great unsurprisingly
+57,652317798467792896,Fri Oct 09 03:00:57 +0000 2015,0,1,sometimes i am too lazy to use emojis so i just type out the emoji i would use if i wasn't lazy
+58,652269663360024576,Thu Oct 08 23:49:40 +0000 2015,0,2,well i guess i'm an adult now http://t.co/lIKHWphWq5
+59,651198274506850304,Tue Oct 06 00:52:21 +0000 2015,0,1,video game advertisements are the easiest way to identify unhealthy foods
+60,651032643736371200,Mon Oct 05 13:54:12 +0000 2015,0,1,@angelinacho i wish you would lose...your attitude
+61,651032323685806081,Mon Oct 05 13:52:56 +0000 2015,0,0,@angelinacho no.
+62,650866230769938432,Mon Oct 05 02:52:56 +0000 2015,0,0,@angelinacho summertime sadness or mad world by gary jules or creep by radiohead
+63,650705753104326657,Sun Oct 04 16:15:15 +0000 2015,2,3,"happy birthday to my friend, confidant, and math tutor @sijietian"
+64,650457726875795456,Sat Oct 03 23:49:41 +0000 2015,0,3,@angelinacho @1aura1opez @taylor__park @tristancotter @__kbtoys @lauraf_out_loud you are supposed to challenge two people!
+65,650457021830033408,Sat Oct 03 23:46:53 +0000 2015,0,6,@taylor__park @1aura1opez @tristancotter @angelinacho @__kbtoys @lauraf_out_loud if you don't know you are not in http://t.co/6Eni8JIlwo
+66,650456479615569920,Sat Oct 03 23:44:44 +0000 2015,0,2,@angelinacho @taylor__park @tristancotter @__kbtoys @lauraf_out_loud @1aura1opez i'm going to endorse her on linkedin
+67,650456154129211393,Sat Oct 03 23:43:26 +0000 2015,1,3,@1aura1opez @taylor__park @angelinacho @tristancotter @__kbtoys @lauraf_out_loud IT IS FOR THE CHARITY OF YOUR FRIENDS HAPPINESS
+68,650455996201062400,Sat Oct 03 23:42:49 +0000 2015,0,1,@taylor__park @1aura1opez @angelinacho @tristancotter @__kbtoys @lauraf_out_loud tbh it's p. easy
+69,650455754332368896,Sat Oct 03 23:41:51 +0000 2015,0,1,@1aura1opez @angelinacho @taylor__park @tristancotter @__kbtoys @lauraf_out_loud 5 TIMES
+70,650455072636276736,Sat Oct 03 23:39:08 +0000 2015,0,2,@taylor__park @angelinacho @tristancotter @__kbtoys @lauraf_out_loud @1aura1opez or else
+71,650454689054621697,Sat Oct 03 23:37:37 +0000 2015,0,3,@angelinacho @tristancotter @taylor__park @__kbtoys @lauraf_out_loud we need @1aura1opez to make it go viral
+72,650368622305673216,Sat Oct 03 17:55:37 +0000 2015,0,0,@danmactough maybe i can expense that shirt than
+73,650336307022032900,Sat Oct 03 15:47:12 +0000 2015,0,5,i'm running out of undershirts because i keep ripping them off my body in celebration
+74,650058718047010816,Fri Oct 02 21:24:10 +0000 2015,0,6,#whichfridge so easy what a joke I challenge @ScottSehon @TrevorHLynn http://t.co/DfCR3M7nXR
+75,650053857465208833,Fri Oct 02 21:04:51 +0000 2015,0,0,@angelinacho not at work yet lol
+76,649961270691655680,Fri Oct 02 14:56:57 +0000 2015,0,2,this new wavves album tho 😍😍😍
+77,649933456370233344,Fri Oct 02 13:06:25 +0000 2015,0,5,So lonely 😥😥😥 http://t.co/zsuSWIGgz8
+78,649800701229576192,Fri Oct 02 04:18:54 +0000 2015,0,0,"if you ever wonder to yourself, what was the best moment of conors life, i will tell you, it was this day https://t.co/V0B9sDE8eY"
+79,649797422927990785,Fri Oct 02 04:05:52 +0000 2015,0,0,"happy october, historically the rudest month of the year"
+80,649788494827638784,Fri Oct 02 03:30:24 +0000 2015,0,2,i love premium deli meats http://t.co/HQFvzpXt8y
+81,649782898426515456,Fri Oct 02 03:08:10 +0000 2015,0,0,"if you are considering purchasing, here is a photorealistic mockup of what i might look like with this tattoo http://t.co/z4I6yhMw5W"
+82,649781394747559936,Fri Oct 02 03:02:11 +0000 2015,0,0,how much for this tattoo + will someone buy for me http://t.co/LzzHrhFKEo
+83,649376139773911040,Thu Oct 01 00:11:51 +0000 2015,0,0,"@angelinacho cap-om, sounds like you will be shooting someone (this is a joke based on colloquial phrase ""cap"" meaning shoot"
+84,649313968536879104,Wed Sep 30 20:04:48 +0000 2015,0,0,"semantic markup tags only make sense to those who understand the semantics, divs make sense to everyone..."
+85,649285401199419393,Wed Sep 30 18:11:17 +0000 2015,0,0,"@AsanaEng love the React update, but build with minified version for prod to avoid warnings! https://t.co/h2pZdP3yX3 http://t.co/Ky5cs6bGIZ"
+86,649059099724877825,Wed Sep 30 03:12:02 +0000 2015,0,1,@gfogle @rickyvetter I think my favorite part of slack integration is that it turns @ mentions into random strings https://t.co/HvSaWBXWTs
+87,649058864369922048,Wed Sep 30 03:11:06 +0000 2015,0,0,"@rickyvetter @gfogle @TwitterEng seems easy enough, custom emoji map ==&gt; upload image to S3 ==&gt; tweet it."
+88,649047436435042304,Wed Sep 30 02:25:42 +0000 2015,0,0,@rickyvetter @SlackHQ yeah i think it's odd that incoming webhooks even trigger outgoing hook...for now ignoring messages from slackbot
+89,649045380127133697,Wed Sep 30 02:17:31 +0000 2015,0,0,"@rickyvetter it's a bug, will put in a fix soon, but the bug is when an integration posts in a slack channel slack sends out undefined"
+90,648832905238704128,Tue Sep 29 12:13:13 +0000 2015,0,3,@rickyvetter you can now tweet articles to @STWhatAreWeRead and they'll show up in our channel! it's like you never left.
+91,648832628020350976,Tue Sep 29 12:12:07 +0000 2015,0,0,@STWhatAreWeRead http://t.co/PbuNTy5czq
+92,648696641541771264,Tue Sep 29 03:11:46 +0000 2015,0,1,"@__kbtoys @angelinacho @G_ram3000 i love the sonic guys so funny, great times, good humor (ice cream)"
+93,648687595858329600,Tue Sep 29 02:35:49 +0000 2015,0,1,i am sad #MopeInDC
+94,648500895722926080,Mon Sep 28 14:13:56 +0000 2015,0,1,gotta keep those domains renewed...cc @AngelinaNepa @TrevorHLynn http://t.co/bWaO8S5MEe
+95,648257764234498050,Sun Sep 27 22:07:49 +0000 2015,24,0,RT @dan_abramov: Stateless pure function components in React 0.14 is one of the reasons you don't want to use inheritance for your componen…
+96,648248254510067712,Sun Sep 27 21:30:02 +0000 2015,0,2,"@rickyvetter i do agree, the ones with children are pretty disgusting, I only really and truly like the newline for /&gt; self close"
+97,648220868389261312,Sun Sep 27 19:41:13 +0000 2015,0,0,@rickyvetter you'll agree with this though -- https://t.co/KeDgbGaTyd
+98,648220573299027969,Sun Sep 27 19:40:02 +0000 2015,0,0,@rickyvetter https://t.co/SoCKIVkuhP look at that beautiful new line for closing.
+99,648161334459281409,Sun Sep 27 15:44:39 +0000 2015,1,1,A simple server to post messages from slack to a twitter account - https://t.co/F7mTkQiVsi
+100,647804902937378816,Sat Sep 26 16:08:19 +0000 2015,0,1,@danmactough @rickyvetter I liked it in entrails...then saw it was made by terra eclipse...cool deal
+101,647803550135775233,Sat Sep 26 16:02:56 +0000 2015,0,0,"@rickyvetter - https://t.co/KQ9fTwOLqB, https://t.co/P4Nn9C2S8x , this works in theory, in practice i will need to shorten urls."
+102,646660853790560256,Wed Sep 23 12:22:16 +0000 2015,0,2,"@danberger it's awesome to see a community build up around this so quickly, the sonos stuff in particular is pretty cool."
+103,646472331293032448,Tue Sep 22 23:53:09 +0000 2015,0,1,@danberger most definitely necessary
+104,646410831647870976,Tue Sep 22 19:48:46 +0000 2015,0,0,"@danberger yes yes yes, i won't even let a person named alexa to my home any more."
+105,645290767402029057,Sat Sep 19 17:38:02 +0000 2015,0,0,@angelinacho gamerz
+106,645278613663670272,Sat Sep 19 16:49:44 +0000 2015,0,0,@angelinacho lol just talked to chang about this yesterday...we bought them to prank you and gross you out.
+107,645252897098215424,Sat Sep 19 15:07:33 +0000 2015,0,0,"first time using npm 3, the explicit nature of a flat dependency structure is simultaneously amazing and terrifying"
+108,645072179793653760,Sat Sep 19 03:09:27 +0000 2015,0,2,@sebmarkbage @floydophone I'm partial to https://t.co/0x0YF6pJ92 because it gives accessibility for free without forcing style
+109,644576121187528704,Thu Sep 17 18:18:17 +0000 2015,0,2,"@ClaireRepass @adriangrenier maybe you can join his *entourage* lol wow good joke conor, high five, brilliant, hilarious, etc..."
+110,643635042888122368,Tue Sep 15 03:58:47 +0000 2015,0,0,@__kbtoys DC2SF for SFDC wow i crack myself up
+111,643276557591646208,Mon Sep 14 04:14:17 +0000 2015,0,0,@angelinacho surprised you were even awake this early
+112,643267559500984320,Mon Sep 14 03:38:32 +0000 2015,0,3,"the temps tomorrow morning 😍, seems like the first day of the year to coat my body in denim"
+113,643253032608747524,Mon Sep 14 02:40:48 +0000 2015,0,0,english man
+114,643252995673706496,Mon Sep 14 02:40:39 +0000 2015,0,0,some times 🕐🕑🕟
+115,643252830472683521,Mon Sep 14 02:40:00 +0000 2015,0,0,sometimes
+116,643251018344583169,Mon Sep 14 02:32:48 +0000 2015,0,1,@McMan_s http://t.co/PbCHTpMVg6
+117,642744977441849344,Sat Sep 12 17:01:58 +0000 2015,0,0,@mcwhittemore yeah some kind of abstraction over hooking into the events possibly.
+118,642717031461224452,Sat Sep 12 15:10:56 +0000 2015,0,0,@mcwhittemore i need to think of something soon....i think it would be cool to flesh some of the ideas in that gist into an actual module
+119,642496708908306432,Sat Sep 12 00:35:27 +0000 2015,0,3,@mcwhittemore https://t.co/Korre7LPD1
+120,642153451695173632,Fri Sep 11 01:51:28 +0000 2015,0,2,good times remembering the good old days when @adriangrenier was shouting out my old twitter handle https://t.co/zHqDBqo4Ih #communion
+121,642151620390752257,Fri Sep 11 01:44:11 +0000 2015,509,0,"RT @boring_as_heck: ME: I call it ""sportsball"" instead of ""sports"" to comically show disdain for the very concept.
+PRIEST: Ok that's not re…"
+122,641838843893673985,Thu Sep 10 05:01:19 +0000 2015,0,1,"@angelinacho wowowowo thank god TV is back, pumpkin sucks but i can't wait to wear my denim jacket again"
+123,641768947235221505,Thu Sep 10 00:23:35 +0000 2015,0,1,"@McMan_s i've messed around with the aforementioned having a robot make fun of my friends but nothing more than that, surprisingly easy tho."
+124,641763277547028480,Thu Sep 10 00:01:03 +0000 2015,0,0,@McMan_s you haven't programmed it to make fun of your friends yet? https://t.co/P6o1x9a0Dy
+125,640168251482226688,Sat Sep 05 14:22:59 +0000 2015,0,0,"@danmactough i always forget, 6 extra characters every time 😓"
+126,640164113809674240,Sat Sep 05 14:06:33 +0000 2015,0,3,think of how often you type `npm install` and then think again about not having time to contribute to open source
+127,639915692364550145,Fri Sep 04 21:39:24 +0000 2015,0,0,@taylor__park so basic mind so narrow
+128,639205947366359040,Wed Sep 02 22:39:08 +0000 2015,1,0,RT @sijietian: @asana is there an typo in your localStorage? http://t.co/7FJnkZ4q3E
+129,638916823078043648,Wed Sep 02 03:30:15 +0000 2015,1,1,"fuck man, the internet goddamn rules https://t.co/5Iervj15O7"
+130,638853545639477248,Tue Sep 01 23:18:49 +0000 2015,0,0,cool https://t.co/pHgjNnII6R
+131,636628292381097984,Wed Aug 26 19:56:27 +0000 2015,0,1,@derekhaller i'll own that one day.
+132,636550322169716736,Wed Aug 26 14:46:37 +0000 2015,0,1,i'm relatively convinced that i don't know the order of the alphabet but just have the ability to recite the song
+133,636333081411125248,Wed Aug 26 00:23:23 +0000 2015,0,2,looking in the console of some of the first code i ever wrote http://t.co/AkTqHBi0u3
+134,636023317741334528,Tue Aug 25 03:52:30 +0000 2015,0,0,the nicest thing above tests is the revelation that your component has way too many interdependencies
+135,635466932473323521,Sun Aug 23 15:01:37 +0000 2015,0,1,amazing http://t.co/welWq72Fhf
+136,634912823739613184,Sat Aug 22 02:19:47 +0000 2015,0,1,@angelinacho @lauraf_out_loud wow u already learned how to code
+137,634909429046112256,Sat Aug 22 02:06:18 +0000 2015,0,0,"true, true true true http://t.co/oQj1Xq1Dzl"
+138,634909195284946945,Sat Aug 22 02:05:22 +0000 2015,0,3,@rachelkaritis @wmata v. proud of wmata for encouraging recycling #green #gogreen #greenlife #sogreen #whereskermit #getithesgreen #gogreen
+139,634536762128396297,Fri Aug 21 01:25:27 +0000 2015,0,1,"@lanadeathrey holy fuck, i'm been looking for a single line to distill my entire life. this is how i started drinking with two hands"
+140,634422350608334849,Thu Aug 20 17:50:50 +0000 2015,0,0,@angelinacho this one looks like it fits the bill. http://t.co/AEI1YV9761
+141,634348282974740480,Thu Aug 20 12:56:30 +0000 2015,0,1,@McMan_s god bring back some bagels so I can stop eating these piles of bread in DC
+142,633618538062815232,Tue Aug 18 12:36:46 +0000 2015,0,2,i accidentally apologized to a door today for lightly brushing it with my shoulder
+143,633001071271522304,Sun Aug 16 19:43:10 +0000 2015,0,2,i wish you could order to gate/seat delivery at the airport. text message/push notification + location at gate for pickup.
+144,632780137747058688,Sun Aug 16 05:05:15 +0000 2015,0,3,When your @socialtables coworker gets married &gt;&gt;&gt;&gt; http://t.co/6e0qrDYf0f
+145,632670220574965761,Sat Aug 15 21:48:29 +0000 2015,0,1,@lanadeathrey maybe one day 🍩🍷🌟
+146,632661791307366401,Sat Aug 15 21:14:59 +0000 2015,0,0,"@lanadeathrey yeah...at least I have champagne , donuts would be a perfect compliment though"
+147,632659362289483776,Sat Aug 15 21:05:20 +0000 2015,0,3,how do you get ready for a wedding? lots and lots of billy joel
+148,632644834872922112,Sat Aug 15 20:07:37 +0000 2015,0,0,@lanadeathrey i have no donuts
+149,632270081880424449,Fri Aug 14 19:18:29 +0000 2015,0,1,@1aura1opez anything as long as it's from the 💔💗💜💖💛💕💘💚💞💝💙❤️💓💟
+150,632263433422045186,Fri Aug 14 18:52:04 +0000 2015,0,0,something developers need to account for.
+151,632263396176625664,Fri Aug 14 18:51:55 +0000 2015,0,0,then accidentally clicked something else because of interface latency and no indicator anything was happening...
+152,632263284847153152,Fri Aug 14 18:51:28 +0000 2015,0,0,modern user interfaces are mostly only developed for ultra fast internet. how often have you clicked on something...
+153,632253823738843136,Fri Aug 14 18:13:52 +0000 2015,0,3,I like trains bc they are not fancy and seem to echo my casual indifference
+154,632218144669478912,Fri Aug 14 15:52:06 +0000 2015,0,1,@taylor__park @1aura1opez bring me back a present
+155,632215091048513537,Fri Aug 14 15:39:58 +0000 2015,0,3,so much fun fun fun in chitown (what some people call chicago) with @angelinacho @lauraf_out_loud @rachelkaritis http://t.co/lChfHEor8N
+156,632179741655740416,Fri Aug 14 13:19:30 +0000 2015,0,0,@angelinacho wow liars never come out ahead except in the cases where they do
+157,632178782489567233,Fri Aug 14 13:15:41 +0000 2015,0,1,@angelinacho @__kbtoys what a gd liar
+158,631806371567128576,Thu Aug 13 12:35:52 +0000 2015,0,3,wearing bird shirt as I prepare to fly today in deference to the lords of the sky http://t.co/FDpqnMWnXa
+159,631676759805718531,Thu Aug 13 04:00:50 +0000 2015,0,1,"@danmactough child.kill 💀, that is some beautiful, beautiful code, and people saying programming isn't an art..."
+160,631634184017182720,Thu Aug 13 01:11:39 +0000 2015,0,1,this was a fun line of code to write. http://t.co/lmEdmrtfSs
+161,631474865661415424,Wed Aug 12 14:38:34 +0000 2015,0,2,i was v. confused when i found out github was not a larry the cable guy fan forum
+162,631453572769693696,Wed Aug 12 13:13:58 +0000 2015,0,0,potential is fine and good and real but over used as a way to push responsibility to the future
+163,631438907079442432,Wed Aug 12 12:15:41 +0000 2015,0,2,"if ever you are walking with a group and you extend across the whole sidewalk, you are awful, reevaluate all current and past behavior"
+164,631290189525028864,Wed Aug 12 02:24:44 +0000 2015,0,1,hi i'm starting a cult here is the website for details http://t.co/xdfXvsjScu
+165,631269242290216960,Wed Aug 12 01:01:30 +0000 2015,0,0,when you accidentally poor a bunch of salt in your hair but you're still keepin it chill
+166,631066492839292928,Tue Aug 11 11:35:51 +0000 2015,0,1,it's very easy to misplace a loose key
+167,630561044377636864,Mon Aug 10 02:07:22 +0000 2015,0,0,https://t.co/Tt4NDnuUoU @McMan_s
+168,630417548568346624,Sun Aug 09 16:37:10 +0000 2015,0,0,my endorsement carries a lot of weight https://t.co/5ZzldaClZV
+169,630413074005106688,Sun Aug 09 16:19:24 +0000 2015,0,0,this seems like the antithesis of canada https://t.co/Ym2Hwy9bsG
+170,630194121291001856,Sun Aug 09 01:49:21 +0000 2015,0,0,@G_ram3000 we can share it!
+171,630193003823542272,Sun Aug 09 01:44:55 +0000 2015,0,0,"@G_ram3000 these claim they'll be half the price of a phunkyduck , only 800 bucks, that's basically free."
+172,630190287495761920,Sun Aug 09 01:34:07 +0000 2015,0,0,i went way over my yearly smile quota today. theme parks just make me so happy.
+173,630190104087293953,Sun Aug 09 01:33:23 +0000 2015,0,1,@angelinacho beautiful pic (of me)
+174,630189108070064128,Sun Aug 09 01:29:26 +0000 2015,0,0,wow I goddamn need this http://t.co/VOu4i0dQ9p @G_ram3000
+175,630165493505257474,Sat Aug 08 23:55:36 +0000 2015,0,2,this bad girl is wiped out from six flags #badgirl http://t.co/0tlNCuuy2A
+176,629072430955298817,Wed Aug 05 23:32:09 +0000 2015,0,1,@lanadeathrey honestly seems like they are breaking many laws #arrestchildren2015
+177,629038697019801600,Wed Aug 05 21:18:07 +0000 2015,0,1,@lanadeathrey children make shitty lemonade
+178,628906448727244805,Wed Aug 05 12:32:36 +0000 2015,0,0,@ElGrecode and a lot of validation stuff gets skipped so faster in production (doesn't validate PropTypes etc...)
+179,628906112419500032,Wed Aug 05 12:31:16 +0000 2015,0,0,"@ElGrecode checked out radpad today, really like it. You guys should try prod version of react though, no warnings http://t.co/alX33N85BR"
+180,628367565237157890,Tue Aug 04 00:51:16 +0000 2015,0,8,365 days of writing code and i can honestly say this has been the best year of my life http://t.co/McxcmdJ9ei
+181,628359144228167684,Tue Aug 04 00:17:48 +0000 2015,0,3,some people claim I'm not the most talented person on earth but I would disagree http://t.co/FZFxibgM8J
+182,628352358230175744,Mon Aug 03 23:50:51 +0000 2015,0,0,"@lanadeathrey for sure, all mild mannered teens works for the cops, right?"
+183,628350805305913345,Mon Aug 03 23:44:40 +0000 2015,0,0,"@lanadeathrey oh true true, i forgot i was in a food court last week at sbarro making fun of moms, never mind me #blessed"
+184,628349397496135681,Mon Aug 03 23:39:05 +0000 2015,0,0,"@lanadeathrey i have not been in a food court in a very long time, does that make me #blessed or #unblessed"
+185,628349301362663424,Mon Aug 03 23:38:42 +0000 2015,0,0,@lanadeathrey wow food court birds have to be the most chill. they have everything so figured out.
+186,628348123518267393,Mon Aug 03 23:34:01 +0000 2015,0,0,@lanadeathrey i would like to be an owl
+187,628348030895456256,Mon Aug 03 23:33:39 +0000 2015,0,0,@lanadeathrey i used to like flamingos but they are v. terrifying. i don't like there legs.
+188,628347485782712322,Mon Aug 03 23:31:29 +0000 2015,0,0,@lanadeathrey the worst thing about birds is none of them are sweet and precious and i think most crows are smarter than me.
+189,628345957021782019,Mon Aug 03 23:25:24 +0000 2015,0,1,@lanadeathrey would a bird say that?
+190,628320774538063872,Mon Aug 03 21:45:20 +0000 2015,0,2,@danmactough @McMan_s http://t.co/dEXGlASYHA
+191,628303454725885953,Mon Aug 03 20:36:31 +0000 2015,0,0,@ReubenFB #javascript
+192,628222692454481921,Mon Aug 03 15:15:36 +0000 2015,0,1,http://t.co/QyWyFFEgZa wowowowow
+193,627894442209337344,Sun Aug 02 17:31:15 +0000 2015,0,0,"@lanadeathrey yes, this is v.good , thank u for sharing."
+194,627854937653968896,Sun Aug 02 14:54:16 +0000 2015,0,0,https://t.co/LWecjBCCqG
+195,627570419537682432,Sat Aug 01 20:03:42 +0000 2015,0,0,Casual Saturday https://t.co/hmaIn2nNmD
+196,627509634224529408,Sat Aug 01 16:02:10 +0000 2015,0,1,"confession: my last tweet was a lie, bye."
+197,627509590268248065,Sat Aug 01 16:01:59 +0000 2015,0,0,confession: i am in a tree right now
+198,627509557938536449,Sat Aug 01 16:01:51 +0000 2015,0,0,confession: the thought of a branch breaking and me falling to my death is something i never really thought about
+199,627509442666459136,Sat Aug 01 16:01:24 +0000 2015,0,0,confession: i've never been good at climbing trees

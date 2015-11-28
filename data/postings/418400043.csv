@@ -1,0 +1,49 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669146492788166656,Tue Nov 24 13:32:10 +0000 2015,11,0,"RT @andrestaltz: From Observable to Iterable
+https://t.co/3yZWaTjVkE https://t.co/O3d0QhX36J"
+1,669145838036369408,Tue Nov 24 13:29:34 +0000 2015,8,0,RT @ReactJS_News: RT @allsecretcoding 6 No Flux Strategies for Component Communication in #ReactJS. @ahfarm... https://t.co/VSmubImB8h http…
+2,669127751727730688,Tue Nov 24 12:17:42 +0000 2015,30,0,RT @smashingmag: Re-reading a Service Worker + SVG chapters in the “Real-Life Responsive Web Design” book. So good. Seriously. https://t.co…
+3,668901927019814912,Mon Nov 23 21:20:21 +0000 2015,394,0,RT @dan_abramov: My course is out. And it's free. Learn Redux without any prior Flux knowledge: https://t.co/Zs9D0aBSqK
+4,668631055604326400,Mon Nov 23 03:24:00 +0000 2015,190,0,"RT @ra: Look, ma! No JVM! #ClojureScript packaged for node/npm! https://t.co/RK6m1h7mbk https://t.co/gvN4a2EnXg https://t.co/hX99zzyLkc"
+5,667758121457176582,Fri Nov 20 17:35:17 +0000 2015,231,0,RT @swannodette: Good ideas come from anywhere. If you're not actively listening to many programming languages and communities - doing it w…
+6,667467292171726848,Thu Nov 19 22:19:38 +0000 2015,135,0,"RT @fbOpenSource: Releasing mention-bot, a handy tool for projects to quickly notify potential PR reviewers. https://t.co/HQAmg34CQg https:…"
+7,667325460301406208,Thu Nov 19 12:56:02 +0000 2015,44,0,"RT @_ericelliott: What's reactive programming?
+1. https://t.co/KFZyv9yASi
+2. https://t.co/yntwN55vHU
+3. https://t.co/UMvLRqvbFg
+#JavaScript"
+8,667134392540618753,Thu Nov 19 00:16:48 +0000 2015,6,0,RT @sebmck: @ryanflorence @mjackson I've moved Babel to Phabricator. https://t.co/9Ilb11wk2w https://t.co/jYMhnUuSYw
+9,667092033262198785,Wed Nov 18 21:28:29 +0000 2015,40,0,RT @ChromiumDev: Learn how to use Node.js to discover V8 speedbumps with @s3ththompson: https://t.co/fVvThakzAv #ChromeDevSummit https://t.…
+10,667091280908967938,Wed Nov 18 21:25:29 +0000 2015,2,0,RT @jlongster: Is Manning Publications a good publisher?
+11,666960789736202240,Wed Nov 18 12:46:58 +0000 2015,12,0,"RT @Dj3bbZ: Again, JS borrowing from #clojurescript :) “@djsheldrick: Here are the slides from my Intro to Derivables talk: https://t.co/FD…"
+12,666835191000866816,Wed Nov 18 04:27:53 +0000 2015,5,0,RT @eggheadio: What’s the future of web development? Let’s have @swannodette explain it: https://t.co/AMrnuja2wQ
+13,666833968378077184,Wed Nov 18 04:23:01 +0000 2015,352,0,RT @addyosmani: Instant loading web apps possible with Service Worker &amp; an Application Shell architecture https://t.co/zPIPuYIl10 🔥 https:/…
+14,666598271654211584,Tue Nov 17 12:46:27 +0000 2015,131,0,RT @nodejs: Great explanation of how to use #nodejs to take advantage of multicore CPUs w. the Cluster API https://t.co/VyYy95i9E1
+15,666460068007706624,Tue Nov 17 03:37:17 +0000 2015,48,0,"RT @Real_CSS_Tricks: Mr. @ihatetomatoes with a great tutorial on making the Google logo with SVG &amp; @greensock
+
+https://t.co/l6vwZo9wbW http…"
+16,665949780212760576,Sun Nov 15 17:49:35 +0000 2015,17,0,"RT @andrestaltz: Rule of thumb: imperative functions should be named with a verb, while referentially transparent functions should be descr…"
+17,665729884958924800,Sun Nov 15 03:15:47 +0000 2015,541,0,RT @szalansky: Example of code which doesn't use immutable data structures http://t.co/LEG40PxGO2
+18,665291465921200129,Fri Nov 13 22:13:40 +0000 2015,205,0,RT @soprano: Try inspecting https://t.co/JAzPnetDJs for a taste of React v15: no more data-reactid attributes. It's like magic! https://t.c…
+19,664309735232036864,Wed Nov 11 05:12:37 +0000 2015,24,0,"RT @_ericelliott: Interesting: Making React more reactive: https://t.co/zb3ezI1ANC
+#reactjs #JavaScript"
+20,664263832295055361,Wed Nov 11 02:10:13 +0000 2015,14,0,"RT @meyerweb: “Bring Back MYSTERY SCIENCE THEATER 3000 for a New Season!” launched today, and I think they’re gonna be Hired! https://t.co/…"
+21,663875273482309633,Tue Nov 10 00:26:14 +0000 2015,15,0,"RT @fox: A short, insightful story of how far performance debt might go, based on @ryanair’s new design. 👏 @benschwarz 
+
+https://t.co/WwcNU…"
+22,663872682560106496,Tue Nov 10 00:15:56 +0000 2015,1,0,"RT @andrestaltz: @greweb Some people tend to associate anything jQuery-like with bad ideas, but they don't stop to think what was good and …"
+23,663872171744165889,Tue Nov 10 00:13:54 +0000 2015,18819,0,"RT @neiltyson: 400,000: Americans who died fighting in World War II.
+
+400,000: Americans who died by household Firearms since 2001"
+24,663589037215739904,Mon Nov 09 05:28:50 +0000 2015,40,0,RT @calestous: Understanding pi https://t.co/g8JlRJEduz via @SciencePorn
+25,663163024551735296,Sun Nov 08 01:16:00 +0000 2015,39,0,RT @kennybastani: Developers who gain influence without regard for operations have the potential to convince a business to do very stupid t…
+26,661699564429287424,Wed Nov 04 00:20:44 +0000 2015,22,0,RT @fbOpenSource: Teaching machines to see and understand: Advances in AI research. https://t.co/IMWRF1qnsA
+27,661408951188242432,Tue Nov 03 05:05:57 +0000 2015,20,0,"RT @jenseng: Removing Object.observe was prolly the right call, seeing as Object mutation is the precursor to Object cancer https://t.co/mN…"
+28,660865487572725760,Sun Nov 01 17:06:25 +0000 2015,72,0,RT @karpathy: Very nice article on the problem-solution ordering pattern  https://t.co/m6NF9KmRMb one of few bigger education insights I've…
+29,659617351441215488,Thu Oct 29 06:26:46 +0000 2015,295,0,RT @smashingmag: The class names used on @glenmaddern’s blog are quite… interesting. https://t.co/xSf9GW9XiV #wd15 https://t.co/APv4fuyAEm
+30,658027981864988672,Sat Oct 24 21:11:11 +0000 2015,0,0,node-canvas installed successfully... literally took days..
+31,655190076415221760,Sat Oct 17 01:14:21 +0000 2015,14,0,"RT @connect_js: Our speakers are beyond incredible! Thanks for coming, both near &amp; far, to deliver such valuable knowledge! http://t.co/y5d…"
+32,655186564067303424,Sat Oct 17 01:00:24 +0000 2015,0,0,"Links to my Connect js 2015 talk on Dataflow through React
+Github: https://t.co/HmMsh6cqMV
+Gitbook: https://t.co/Kgz3o3l8Vi"
+33,655185705514176512,Sat Oct 17 00:56:59 +0000 2015,1,0,RT @elstanfill: Virtual DOM is not the magic and allure of React; declarative programming is. - Clint Ayres #connect_js

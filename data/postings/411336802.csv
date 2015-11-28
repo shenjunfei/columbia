@@ -1,0 +1,115 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,575851827721302016,Thu Mar 12 02:52:29 +0000 2015,0,0,"@zillow How do I change the paragraph on my home?  Doesn't appear anywhere when I try to edit the ""home facts""!  http://t.co/do0FAZ6xUd"
+1,542056693518323712,Mon Dec 08 20:42:41 +0000 2014,0,0,"@zillow My price history is very incorrect on your site and nobody changes it with repeated attempts to ""flag transaction.""  Can you help?"
+2,496326252455006208,Mon Aug 04 16:06:14 +0000 2014,0,0,@C9Support I went to Cloud9 &gt; Restart Cloud9 and it appears to work now.  I tried browser refreshes before tho.  Does it do something more?
+3,496323720089460737,Mon Aug 04 15:56:10 +0000 2014,0,0,"@c9support Happens in both Chrome and Firefox.  Chrome OS and Windows.  All files.  Destroys my code, cannot save legit version."
+4,496323244186951681,Mon Aug 04 15:54:17 +0000 2014,0,0,"@c9support Whenever I Save my code, it reverts to the prior version / overwrites my code.  Extremely frustrating.  Started ~45 mins ago."
+5,490147368277262336,Fri Jul 18 14:53:33 +0000 2014,0,0,"@c9support Not able to start my instance at https://t.co/qN0m85o4se -- stuck on ""Archiving your workspace"" when I try to access."
+6,464057736028631041,Wed May 07 15:02:40 +0000 2014,0,0,@C9Support I can access it now.  Thanks for your help!!
+7,463853354305605634,Wed May 07 01:30:32 +0000 2014,0,0,@C9Support Getting error that no VFS was found.  Anything you can do to fix?  https://t.co/qN0m85o4se
+8,462273476951162880,Fri May 02 16:52:40 +0000 2014,0,0,@C9Support Back in the saddle.  Thank you kindly!
+9,461996611938185218,Thu May 01 22:32:30 +0000 2014,0,0,@C9Support Can't seem to load my workspace.  Stuck at the waking from hibernation screen. Tried ?reset=1 as well.  https://t.co/qN0m85o4se
+10,433726130005106688,Wed Feb 12 22:15:42 +0000 2014,0,0,@C9Support How do I change the email address associated with my account?
+11,421332815498592256,Thu Jan 09 17:29:05 +0000 2014,0,0,"@C9Support A paid account should offer reliance that it will work consistently, isolated from noisy neighbors.  Will try SSH.  Thanks."
+12,420698123992707072,Tue Jan 07 23:27:03 +0000 2014,0,0,"@C9Support I like C9, but it's been so slow all day that it's almost unusable. Opening files, command line, saving files -- all very slow."
+13,420634729671446528,Tue Jan 07 19:15:09 +0000 2014,0,0,"@C9Support If you get a paid account, does the performance / reliability increase?  Console/terminal is crawling..."
+14,334517808857772032,Wed May 15 03:57:15 +0000 2013,0,0,My Google+ profile.  http://t.co/MV45YOSSDR
+15,203704225694351360,Sat May 19 04:30:46 +0000 2012,22,0,"RT @newsycombinator: The story of the secret room at Pixar, frequented by Steve Jobs http://t.co/2o44OBXv"
+16,203702371040235520,Sat May 19 04:23:24 +0000 2012,0,0,"""PowerPoint makes us stupid"" http://t.co/V4DWQD9M"
+17,195000670498193409,Wed Apr 25 04:05:57 +0000 2012,0,0,"Insightful tips for all mentors, despite being written with software dev in mind.  http://t.co/FS6le6X8"
+18,185934259251449856,Sat Mar 31 03:39:16 +0000 2012,0,0,@andrewpriceau I've often thought we need social networking that isn't branded... and we should have one central DB of friends.  Not silos.
+19,185923950088433664,Sat Mar 31 02:58:18 +0000 2012,0,0,@andrewpriceau You are serving as Twitter's product.  What's your point?  ;]
+20,185515274785656832,Thu Mar 29 23:54:22 +0000 2012,1,0,RT @CCandSaaS: US Lags Much of World in Cloud Computing Adoption: Study http://t.co/Gsnm1GLy #cloud
+21,185513095102345216,Thu Mar 29 23:45:43 +0000 2012,0,1,"300GB of data sent to bit bucket on @awscloud #EBS storage volume this week due to ""multiple failures of underlying h/w"" Thanks, #Amazon!"
+22,185201909353816064,Thu Mar 29 03:09:10 +0000 2012,1,0,RT @CloudSSurfer: Google Apps Vault: Cloud eDiscovery at $5 Per User Per Month http://t.co/P6lMo8tq
+23,184799637297823744,Wed Mar 28 00:30:41 +0000 2012,0,0,"If you had to parse a CSV file and extract a few things for each row, which language or tool would you use?  PHP or Java?"
+24,177974772062355457,Fri Mar 09 04:31:06 +0000 2012,4,0,RT @DavidLinthicum: RT @gigaom: Another take on the cloud-jobs debate http://t.co/pxcufffG
+25,177971153955074049,Fri Mar 09 04:16:44 +0000 2012,0,0,"Solar-powered wireless keyboard, only 1/3-inch thick http://t.co/0OfyHoLR #in"
+26,177948432869228545,Fri Mar 09 02:46:27 +0000 2012,0,0,Universal docking station for your laptop; supports multiple monitors over USB http://t.co/JoPNohae #in
+27,175213377721876481,Thu Mar 01 13:38:19 +0000 2012,0,0,"Eric Schmidt Keynote at #Mobile World Congress
+http://t.co/hTrviGVI"
+28,173805482727845888,Sun Feb 26 16:23:50 +0000 2012,0,0,"Report: Google-Branded Tablet to Land in April
+http://t.co/DAhZGvw5"
+29,173805099766923264,Sun Feb 26 16:22:19 +0000 2012,0,0,"Samsung Galaxy Beam Is Both a Smartphone and Projector
+http://t.co/2BvXBhvV"
+30,169196658779897857,Mon Feb 13 23:10:01 +0000 2012,1,0,"RT @RussRothsteinIT: Read this good short primer on the #IaaS and #PaaS #cloud computing market in China, including Sina, Aliyun, Baidu: ..."
+31,169190655665516544,Mon Feb 13 22:46:10 +0000 2012,0,0,RT @helpscout: 70% of buying experiences are based on how the customer feels they are being treated. - http://t.co/6OkB4NGt
+32,168666157648322561,Sun Feb 12 12:02:00 +0000 2012,1,0,RT @randybias: RT @christianve: Can we consider #cloud as irrelevant as do IT managers? - http://t.co/7TUU68VE [ very cogent; highlights ...
+33,167842107237728256,Fri Feb 10 05:27:31 +0000 2012,0,0,"Google Chrome could exceed 50% market share by end of 2012, and will pass IE by June http://t.co/afPL4oAa via @mjasay #in"
+34,167837896387207168,Fri Feb 10 05:10:47 +0000 2012,0,0,@allg00d My face is melting just trying to fathom the capabilities of that.  Divide by zero.
+35,166331600546697217,Mon Feb 06 01:25:18 +0000 2012,0,0,"@cshel Sorry to hear.  Could also try removing stick of RAM, if multiple.  Probably under MFR warranty still, if no dice."
+36,166325230057431040,Mon Feb 06 00:59:59 +0000 2012,0,0,@cshel Gotcha.  I would try to reseat the RAM next.  Did you buy at store or online?
+37,166324138485616641,Mon Feb 06 00:55:39 +0000 2012,0,0,@cshel Could you try hooking it up to external known-good monitor?  That would help isolate the problem.
+38,166323281744498689,Mon Feb 06 00:52:15 +0000 2012,0,0,"@cshel What's your laptop doing, exactly?"
+39,165940383644266496,Sat Feb 04 23:30:45 +0000 2012,0,0,Pinterest: Everything You Need To Know http://t.co/DGvhDgTe via @ClaytonJohnston #in
+40,165666674480128000,Sat Feb 04 05:23:07 +0000 2012,0,0,RT @DavidLinthicum: Amazon Web Services: The new Microsoft Windows http://t.co/fE3dcTdf #in
+41,165179701596401665,Thu Feb 02 21:08:04 +0000 2012,0,0,MT @asperasoft: Learn how individuals and groups can collaborate and exchange files at high-speed globally http://t.co/cbYMpEiR #webinar
+42,165150331997650944,Thu Feb 02 19:11:22 +0000 2012,0,0,@randybias Any potential for AWS to be spin-off public company?  How many pure-play cloud public companies are there? #i'dinvestinthat
+43,164967600982462464,Thu Feb 02 07:05:15 +0000 2012,0,0,RT @orionvm: #Cloud computing both more agile and less expensive http://t.co/YJW7rDTc #in
+44,164786339357790208,Wed Feb 01 19:04:59 +0000 2012,0,0,"New Feature for @GoogleDocs #Android app:  ""Make File Available Offline""  http://t.co/51lIbudl #in"
+45,164663484221624320,Wed Feb 01 10:56:48 +0000 2012,0,0,Surprising #Twitter Search Options - http://t.co/zL4IJCon #in
+46,164650165590962176,Wed Feb 01 10:03:53 +0000 2012,0,0,"@RussRothsteinIT Well, I just rm -rf'd #Drupal and installed WP.  Just need something easy to drive right now.  GL with web app!"
+47,164607770069450754,Wed Feb 01 07:15:25 +0000 2012,0,0,"I understand that #Drupal is powerful, but #WordPress seems more refined, intuitive, and user-friendly, even if not quite as ""organized."""
+48,164532682787782656,Wed Feb 01 02:17:03 +0000 2012,0,0,I'm about to toss #drupal and just use #wordpress.  Tired of twiddling technical bits.  Would rather be editing content than code.  #eek
+49,164506366650753024,Wed Feb 01 00:32:28 +0000 2012,0,0,Essential Mobile Apps for Freelancers http://t.co/hxwNHhAx
+50,164014946898821121,Mon Jan 30 15:59:45 +0000 2012,0,0,"@Easy_Backup Anything physical and local is vulnerable.  Fine to do on the cheap, but less systematic.  Fast restore backup + remote = ideal"
+51,164011223644508161,Mon Jan 30 15:44:57 +0000 2012,0,0,"@Easy_Backup Videographers et al may have tape use case, but most should be leveraging internet for offsite #backup.  #automated"
+52,164006653161783296,Mon Jan 30 15:26:47 +0000 2012,0,0,"@Easy_Backup @spanningbackup @Axcient @cjrowley Offsite cloud backup suffices SOX 404.  Tape lingers, but is completely obsolete, IMHO."
+53,163989422197579777,Mon Jan 30 14:18:19 +0000 2012,0,0,"@Easy_Backup For heavier #backup with need for fast restore, I have used and like @Axcient Hybrid #Cloud - D2D2C @cjrowley @spanningbackup"
+54,163718593572380672,Sun Jan 29 20:22:09 +0000 2012,0,0,@spanningbackup Thanks for the RT.
+55,163641630157574144,Sun Jan 29 15:16:19 +0000 2012,0,0,"RT @igrigorik great article.. detailed comparison of Google GFS, Hadoop HDFS, Amazon's Dynamo and Azure's DFS: http://t.co/3XpsMJEB"
+56,163452720492183552,Sun Jan 29 02:45:40 +0000 2012,0,0,"Here's what the #USPS should be doing:  
+Digital #Mail as a Service http://t.co/ysAhkxZi #in"
+57,163446701422673922,Sun Jan 29 02:21:44 +0000 2012,0,0,"What is the best #Twitter #App for handling multiple accounts well?  @Tweetdeck is great for one, but not great for 2+.  #Android #Help"
+58,163393041426681857,Sat Jan 28 22:48:31 +0000 2012,0,0,RT @Obihai Use your OBi100 or OBi110 with Callcentric - Great Rates to Many Countries & E911 Calling to Boot! http://t.co/eUYBo2sy
+59,163344961549516800,Sat Jan 28 19:37:28 +0000 2012,0,0,"You can't build a brick house without bricks.  Practitioners with vision, building with bricks = solutions, houses. @cloudclint @reillyusa"
+60,163326397639700480,Sat Jan 28 18:23:42 +0000 2012,0,0,"@pcreytens So you view @insynchq as enabling occasional offline edits, but prefer to use browser still?  Why is that?  #googledocs"
+61,163319252969984000,Sat Jan 28 17:55:18 +0000 2012,0,0,@lukasvan3l Good luck!
+62,163318678476169216,Sat Jan 28 17:53:01 +0000 2012,0,0,"@pcreytens Also, I think #Google wants to capture your attention in browser so they can sell you advertisements: their #1 source of revenue."
+63,163318245363945472,Sat Jan 28 17:51:18 +0000 2012,0,0,"@pcreytens #Google can go way beyond #Dropbox with fertile platform for active dev community.  But, I do like @insynchq a lot, nits aside!"
+64,163274360155672576,Sat Jan 28 14:56:55 +0000 2012,0,0,"@pcreytens In general, #Google is better off continuing to foster extensible ecosystem with API than partner acquisition. #imho #googledocs"
+65,163271377816784896,Sat Jan 28 14:45:04 +0000 2012,0,0,Why Every Entrepreneur Should Self-Publish a Book - TechCrunch http://t.co/HR7NrUMd
+66,163146228492812288,Sat Jan 28 06:27:46 +0000 2012,0,0,@otisg Sure.  Any reclaimed outlay there would be a win for customer.  I wonder if this reserved market would help stabilize spot prices.
+67,163122550682038272,Sat Jan 28 04:53:41 +0000 2012,0,0,"@otisg Secondary market reserved instances would compete with spot.  Analogy:  subletting vs. sleeping on a friend's couch, respectively."
+68,163121095300485120,Sat Jan 28 04:47:54 +0000 2012,0,0,"@otisg I've thought this before too.  I wonder how many reserved instances go unused, especially at higher tiers of service."
+69,163076604564738048,Sat Jan 28 01:51:07 +0000 2012,1,0,RT @ZimanaAnalytics: Private #cloud computing set to soar - read more in this @BusinessAgility post http://t.co/MKBq0vsl #business #nyc  ...
+70,163070413063208961,Sat Jan 28 01:26:30 +0000 2012,0,0,@lukasvan3l Did you find someone to assist you with this project?
+71,163068045382787072,Sat Jan 28 01:17:06 +0000 2012,1,0,".@cjrowley I like @insynchq to sync local files to @GoogleDocs, then @SpanningBackup to backup #GoogleDocs. #cloud #backup #googleapps"
+72,163065868207652865,Sat Jan 28 01:08:27 +0000 2012,0,0,".@jodidanziger You can also pull in / send as other #Gmail accounts using POP3, SMTP and labels.  http://t.co/0P6AgUiU"
+73,163064941425852416,Sat Jan 28 01:04:46 +0000 2012,0,0,.@jodidanziger Do you know about the multiple sign-in feature in #Gmail? http://t.co/MVW420eA #googleapps #help
+74,163063175917486080,Sat Jan 28 00:57:45 +0000 2012,0,0,How To Correct #Gmail Time Zone:  http://t.co/BgGlIS8L @champs794 @agentFin
+75,162154981003231232,Wed Jan 25 12:48:54 +0000 2012,35,0,RT @jeffbarr: The AWS Storage Gateway: http://t.co/FcnLwajc - Integrate Your Existing On-Premises Applications with AWS Cloud Storage #a ...
+76,162154585371328512,Wed Jan 25 12:47:20 +0000 2012,2,0,RT @cveira: Nice reading: RT @gigaom A CTO’s take on cloud http://t.co/FAuHkYh1
+77,162054175029596161,Wed Jan 25 06:08:20 +0000 2012,0,0,@antothony huh?  Office365 is more expensive but not 5x more expensive.
+78,162051930917576704,Wed Jan 25 05:59:25 +0000 2012,0,0,@zacharye What's the point of sitting on a mountain of cash?  Put it to work to advance other technologies.  Do something for humanity.
+79,161241205055832064,Mon Jan 23 00:17:53 +0000 2012,3,0,RT @samj: If us innovators accept the intermingling of content hosting and discovery (ala Google+) then we accept a regression to AOL @m ...
+80,159680578793390081,Wed Jan 18 16:56:31 +0000 2012,0,0,Watching #AWSCloudEvent http://t.co/GMNpssYY via @livestream - Amazon to launch cloud search service?
+81,158848149111308288,Mon Jan 16 09:48:44 +0000 2012,0,0,RT @jeffbarr The #AWS Free Usage Tier Now Includes Microsoft #Windows: http://t.co/0jar6Kbi #EC2
+82,158763460073766912,Mon Jan 16 04:12:13 +0000 2012,0,0,RT @simon “@iDev247: Great article for resizing EC2 drives. Flawlessly worked for me! http://t.co/AcKY1rP0”
+83,157984523794137089,Sat Jan 14 00:37:00 +0000 2012,0,0,Setup was ridiculously simple!  Hooked up with GV in less than 10 minutes. RT @Obihai PC Magazine reviews the OBi110. http://t.co/ISZwxeJ7
+84,157103754926239746,Wed Jan 11 14:17:08 +0000 2012,0,0,RT @ZaraTheGeek Intel bets big on Android and the smartphone ecosystem could benefit http://t.co/uEo85dmG
+85,156787173977366529,Tue Jan 10 17:19:09 +0000 2012,0,0,InSync: Dropbox-Like Client With Google Docs Integration http://t.co/hdNnVMBP via @insynchq #in
+86,155387740207316992,Fri Jan 06 20:38:18 +0000 2012,0,0,"Yes, please; I support vanilla #Android. MT @zacharye @Google's #Nexus tablet may push out Android partners: http://t.co/RHAzYDbD"
+87,155123049975382017,Fri Jan 06 03:06:31 +0000 2012,0,0,Die-cut business cards in full color at a reasonable price:  http://t.co/0gfVuHU7 #marketing
+88,154717418613260288,Thu Jan 05 00:14:41 +0000 2012,0,0,"RT @AWSstartups If you're new to #AWS & #EC2, here's why you should use EBS boot instances http://t.co/EsLcyxAD - great writeup from @esh"
+89,154574270377369602,Wed Jan 04 14:45:52 +0000 2012,0,0,9 Tools for a Paperless Life http://t.co/0ILdS1Q9 @JaredOToole #in
+90,154230134172434432,Tue Jan 03 15:58:24 +0000 2012,0,0,RT @ZaraTheGeek RIM reportedly preparing to oust chairmen Mike Lazaridis and Jim Balsillie http://t.co/sNIp4ygp
+91,153284153561989120,Sun Jan 01 01:19:24 +0000 2012,0,0,@pminne Thanks for making your vector QR code generator.  Very helpful.
+92,153283488248905729,Sun Jan 01 01:16:46 +0000 2012,0,0,Create vector #QR codes for high-quality printing on #businesscards or any other printed materials:  http://t.co/PG0x3Osi
+93,152457243739172864,Thu Dec 29 18:33:34 +0000 2011,0,0,RT @BusinessApps kwjblogs on geeky stuff.: Why integrating smb systems is no longer a ... http://t.co/CPXuOazh #erp #smallbusiness
+94,152290768097247232,Thu Dec 29 07:32:03 +0000 2011,0,0,You can easily move your Google Voice number from one Google account to another:  http://t.co/BzVa8j1H #googlevoice #voip
+95,152240146618646530,Thu Dec 29 04:10:54 +0000 2011,0,0,RT @simon “@jeffbarr: Released last night: Policy-Driven Object Expiration for Amazon S3 Buckets: https://t.co/w3f5ew73 #aws”
+96,151382284484882432,Mon Dec 26 19:22:03 +0000 2011,594,0,RT @TheEconomist: IBM announces predictions of the five technology innovations that will change our lives within the next five years htt ...
+97,150551915028168704,Sat Dec 24 12:22:28 +0000 2011,0,0,@samj We knew that a year or more ago though.  I bought a Nexus for that very reason.  Plain vanilla is only Android model that makes sense.
+98,150316838113386496,Fri Dec 23 20:48:21 +0000 2011,2,0,"RT @BusinessApps DEAR GOOGLE: Please, Please, Please Invest More Money In ... http://t.co/vBzNpcDD #googleapps"
+99,150158316507643904,Fri Dec 23 10:18:27 +0000 2011,1,0,RT @CloudAssist: #GoogleApps Script for User Account Creation http://t.co/v4kMpfpz via @cloudassist
+100,149977571000459265,Thu Dec 22 22:20:14 +0000 2011,0,0,Just added myself to the http://t.co/kZxjyHGL twitter directory! #Bolingbrook #informationtechnology #consultant #cloudcomputing
+101,149973489972019201,Thu Dec 22 22:04:01 +0000 2011,0,0,Currently reading The Lean #Startup by Eric Ries.  #in
+102,149742217853022208,Thu Dec 22 06:45:01 +0000 2011,0,0,"@leviait RIM has been almost-acquired for years now.  QNX on #blackberry, strong in foreign markets, mote with network setup."
+103,149656483435524096,Thu Dec 22 01:04:20 +0000 2011,1,0,"RT @CloudAssist: @WrenModern congratulations! Welcome to the deployment community. A Band of Brothers, fighting the good fight."
+104,149656225066385408,Thu Dec 22 01:03:19 +0000 2011,0,0,"@andrewpriceau Sorry to be coy, but can't discuss the contents of the exam due to NDA.  Do be sure to study though!  Good luck."
+105,149632502426898432,Wed Dec 21 23:29:03 +0000 2011,0,0,Just passed the Google Apps Deployment Specialist certification exam!  I am #447 to pass.  #hooray #googleapps
+106,149426651820855296,Wed Dec 21 09:51:04 +0000 2011,0,0,@CloudAssist Thanks for the RT!
+107,149421647164751872,Wed Dec 21 09:31:11 +0000 2011,0,0,Would love to try running #Asterisk from this #DreamPlug:  http://t.co/wGsq4jEA  #voip #green
+108,149347384244174848,Wed Dec 21 04:36:05 +0000 2011,0,0,Fix slow 802.11n #WiFi speed:  http://t.co/zHxOxq9R
+109,149049321449463808,Tue Dec 20 08:51:42 +0000 2011,1,0,Great article on #cloud add-ons:  http://t.co/7I1J8vS9 #chrome #googleapps #googledocs

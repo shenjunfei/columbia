@@ -1,0 +1,234 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668955951194628096,Tue Nov 24 00:55:02 +0000 2015,167,0,RT @sarah11918: Web site developers should be forced to view their own sites while on hotel wifi.
+1,668544846773231616,Sun Nov 22 21:41:27 +0000 2015,106,0,RT @katemonkeys: Aaaaaaaa https://t.co/WZiI1B3Rc3
+2,668224005007126528,Sun Nov 22 00:26:32 +0000 2015,9,0,RT @debbryant: @purpleidea killin' a full room on Vagrant and Kuberetes at @FOSSETCON https://t.co/fWQ6ZF4I4L
+3,667864677414600705,Sat Nov 21 00:38:42 +0000 2015,103,153,"Great overview of 100 monitoring tools, including logs, anomaly detection, on-call, APM, mobile, and error tracking: https://t.co/6CbRLs9EdZ"
+4,667748821208834049,Fri Nov 20 16:58:19 +0000 2015,12,0,RT @lizthedeveloper: NEVER LOOK AWAY FROM THE INTERNET FOR EVEN ONE MOMENT
+5,667123868038004736,Wed Nov 18 23:34:59 +0000 2015,17,41,"If you're doing Wordpress—and if so, my thoughts are with you—then check out Trellis, a config-managed LEMP stack: https://t.co/LuCt4yOTHh"
+6,666764278947561474,Tue Nov 17 23:46:06 +0000 2015,124,0,RT @irisherself: #ages https://t.co/z4CtwJUUDo
+7,666034488976277504,Sun Nov 15 23:26:11 +0000 2015,2,0,RT @tuxmea: @felis_rex @bitfield @owenmarinas @alvagante puphpet (https://t.co/8nkMLPyH0x) and blueprint (https://t.co/cm6hRRncU5) try to d…
+8,665845029563457536,Sun Nov 15 10:53:20 +0000 2015,4,3,.@owenmarinas I don't think there really is a replacement for CFT. 'puppet resource' is the only Puppet code generator I know of. Anyone?
+9,665560044021268480,Sat Nov 14 16:00:54 +0000 2015,26,0,"RT @lizthedeveloper: That thing where you make a tool to automate something, then accidentally automate away human interaction and get lone…"
+10,665309938470686720,Fri Nov 13 23:27:04 +0000 2015,26,27,"Replace myself with CM code, tested SOPs, monitoring, a friendly, collaborative culture, and a fixation with uptime. https://t.co/8u0ALsbgDJ"
+11,665115901595926528,Fri Nov 13 10:36:02 +0000 2015,0,0,"@MarkChrisWalsh I may be able to help, drop me a line to john@bitfieldconsulting.com."
+12,664246241870524416,Wed Nov 11 01:00:19 +0000 2015,314,0,"RT @PHP_CEO: WE NEED MORE DATABASE SLAVES?
+
+I THOUGHT THAT WAS WHY WE HIRED YOU"
+13,664070299504287744,Tue Nov 10 13:21:11 +0000 2015,144,145,"""If you have to SSH into your servers, then your automation has failed."" A good perspective on cloud life: https://t.co/fbHMXuev16"
+14,663166190655840256,Sun Nov 08 01:28:35 +0000 2015,175,183,7 weird tips to lose a little bit of repo cruft every day: write great Git commit messages https://t.co/G022LGacuG https://t.co/5eMIT2MVRL
+15,662705702486585344,Fri Nov 06 18:58:46 +0000 2015,26,46,"""Our domain expired last month!""
+—""So 'fix it by yesterday' wasn't a figure of speech... you actually need me to literally go back in time."""
+16,661231923457564672,Mon Nov 02 17:22:30 +0000 2015,26,21,In case you were wondering what my typical day looks like. https://t.co/QVCjycqxGI
+17,660955705969672193,Sun Nov 01 23:04:54 +0000 2015,21,0,RT @stillinbeta: a programming language that looks pretty normal except the entire text of Atlas Shrugged is a valid and meaningful program
+18,660451765800869889,Sat Oct 31 13:42:26 +0000 2015,1,1,"@Shotagonist if you read the piece, you'll see that that XKCD is actually featured pretty prominently."
+19,659054163666542593,Tue Oct 27 17:08:51 +0000 2015,0,0,@jessemonroy650 want to know the secret? I don’t read all of them.
+20,658708009653145600,Mon Oct 26 18:13:22 +0000 2015,1630,0,"RT @sadserver: ""I fixed the problem with yesterday's deploy, I just need to deploy this hotfix real quick"" https://t.co/AE8R5t1spW"
+21,657637103182987264,Fri Oct 23 19:17:58 +0000 2015,7146,0,RT @heathercmiller: Carved something scary into pumpkin cc/ @jamesiry @databricks (office jackolantern) http://t.co/sqiNaYGDQy
+22,657530650375774209,Fri Oct 23 12:14:58 +0000 2015,3,1,@512banque would you rather be a member of the much larger set of people I don't follow?
+23,657285325119725568,Thu Oct 22 20:00:07 +0000 2015,137,0,RT @AnaSwanson: These researchers have discovered the perfect password that’s also easy to remember https://t.co/YN6kaF1qG5 https://t.co/6D…
+24,657121259013165056,Thu Oct 22 09:08:11 +0000 2015,192,157,Can't deploy because Bitbucket is down? Why not use the time to ponder the wisdom of a critical single point of failure you don't control?
+25,656797632136880128,Wed Oct 21 11:42:12 +0000 2015,4,8,"$ chef gem install knife-solo
+
+You're welcome. https://t.co/LG91NnBfqo"
+26,656761196029325312,Wed Oct 21 09:17:25 +0000 2015,3,1,"@jessbrammar epic show! Evan sticking it to Chinese protocol droid: ""Don't lecture us on protectionism!"" Hilton: ""China is a rogue state""."
+27,656436459516338176,Tue Oct 20 11:47:02 +0000 2015,1,0,@Sharas_ https://t.co/dJ7LMYZdQ8
+28,656415012391620608,Tue Oct 20 10:21:49 +0000 2015,1,1,"@Sharas_ I'm a consultant, so you'll never get a straight answer. It depends why Puppet wasn't right for you. Can you elaborate?"
+29,655529145556979713,Sat Oct 17 23:41:42 +0000 2015,4,4,I'll see you over there. https://t.co/oRJaZqehP4
+30,655130405830590464,Fri Oct 16 21:17:15 +0000 2015,38,33,"""You’re meat to them."" Are tech recruiters a necessary evil? https://t.co/dCZjkYRcET"
+31,655103078631350272,Fri Oct 16 19:28:39 +0000 2015,4,0,"RT @filler: @bitfield $ brew cask install chefdk
+
+You’re welcome."
+32,655026838897623040,Fri Oct 16 14:25:42 +0000 2015,1,1,"@kbsingh I've heard of revolutionary software, but this is ridiculous."
+33,655026205213794304,Fri Oct 16 14:23:11 +0000 2015,11,31,"This dialog might need a few tweaks. Still, I'm looking forward to installing 'Che'. http://t.co/AICsLrkVd8"
+34,654996331082227712,Fri Oct 16 12:24:29 +0000 2015,1,0,@jessbrammar more fascinating facts about Old Peckham (written by a younger version of me): http://t.co/kNmrCJziiq
+35,654995083650011136,Fri Oct 16 12:19:31 +0000 2015,1,1,"@jessbrammar that’s my bedroom window top left! The funeral home was there in my day, but ‘Munch &amp; Crunch’ was a newsagents. O tempora."
+36,654022393405554688,Tue Oct 13 19:54:24 +0000 2015,500,0,RT @DrLindseyFitz: I have no answer for this... http://t.co/2baeCMGRLP
+37,653985296451772416,Tue Oct 13 17:26:59 +0000 2015,6,0,RT @bridgetkromhout: Listening to @kartar's #velocityconf talk makes it clear his forthcoming Art of Monitoring book will be a must-read. h…
+38,653871061231079425,Tue Oct 13 09:53:03 +0000 2015,102,112,"""I won't use this shiny new framework until its proposed benefits have been rigorously validated.""
+—No dev ever
+
+http://t.co/jtTUGaaS7n"
+39,653864302122795008,Tue Oct 13 09:26:12 +0000 2015,0,0,@wholemilk try making a Twitter list of just the people you want to read. Helps no end.
+40,653683781556137984,Mon Oct 12 21:28:53 +0000 2015,34,46,"""I need communication that is technically brutal but personally respectful."" So well put. https://t.co/Eb4DWEtRSD"
+41,653303354005815296,Sun Oct 11 20:17:12 +0000 2015,15,17,"More helpful than the actual documentation, if not quite as scary. https://t.co/pr1zdNr5K1"
+42,653274540760563712,Sun Oct 11 18:22:42 +0000 2015,462,0,"RT @ValaAfshar: ""You likely have to get management approval for a $500 expense ... but you can call a 1 hour meeting with 20 people and no …"
+43,652787836853338116,Sat Oct 10 10:08:43 +0000 2015,0,0,"@msugioarto @sharoorocks in Spanish maybe. In English we just call them 'doctors'. You know, as if they had the same qualifications as men."
+44,652773711016292353,Sat Oct 10 09:12:35 +0000 2015,56,33,"Women, don't forget to take your MD / PhD certificates when you go to the store. You may be asked to produce them. https://t.co/ND6CKPxXSm"
+45,652636808564592640,Sat Oct 10 00:08:35 +0000 2015,16,0,RT @Puppet_Alan: Except the zombie processes. You never feel bad about killing them. #PuppetConf  https://t.co/SiRJ6shckw
+46,652452115038760960,Fri Oct 09 11:54:40 +0000 2015,1928,0,RT @calcsam: 10x Engineer: a developer who incurs technical debt so fast he appears more productive than the 10 developers tasked w/ cleani…
+47,652218416707801088,Thu Oct 08 20:26:02 +0000 2015,13,0,RT @benzobot: Waiting for chef runs to finish #DressForTheJobYouWant http://t.co/NGYHZL2m2a
+48,652217206135214080,Thu Oct 08 20:21:14 +0000 2015,0,1,@bashtoni @unixdaemon Silicon Valley is basically a documentary now. Reality is overtaking satire.
+49,652197379949596673,Thu Oct 08 19:02:27 +0000 2015,6,0,"RT @alvagante: (4)2 things happening at the #PuppetConf - PART 2:
+Launched the [DevOps] Guide to Puppet, Universe, and Everything
+(http://t…"
+50,652197067402690560,Thu Oct 08 19:01:12 +0000 2015,0,0,@unixdaemon is it Kid Rock? “Make some mother****** noise in here!”
+51,651871023281926144,Wed Oct 07 21:25:37 +0000 2015,171,0,"RT @gesa: I got mad at ridiculous(ly insecure) password requirements this weekend, so I made a thing: http://t.co/1bEm5iS1ki
+
+(submissions …"
+52,651866287505850368,Wed Oct 07 21:06:48 +0000 2015,45,0,"RT @sigje: OH ""DevOps: I Bring the Shaver, You Bring the Yak"""
+53,651468883585581056,Tue Oct 06 18:47:40 +0000 2015,0,1,"@unixgoddesskate I ask the business which is least worst, no system, or insecure system? Depends on lots of variables, but it’s not my call."
+54,651466631420477440,Tue Oct 06 18:38:43 +0000 2015,0,0,"@workingadviser your website seems to be down, otherwise I’d enjoy reading your link about how to do websites."
+55,651452412646047744,Tue Oct 06 17:42:13 +0000 2015,33,0,"RT @pleia2: New blog post: ""Ending my 6 year tenure on the Ubuntu Community Council"" http://t.co/E8QBtwtGNL"
+56,651044179221573632,Mon Oct 05 14:40:02 +0000 2015,313,0,RT @Miss_Cybernaut: That's commitment http://t.co/Y4CDkqApAl
+57,650991043878473728,Mon Oct 05 11:08:54 +0000 2015,34,34,"If your upgrade plan involves the website being down for a week, it might be time to review your IT choices. https://t.co/7HDLWM4kjh"
+58,650664057666707457,Sun Oct 04 13:29:34 +0000 2015,0,0,"@Opacki @workingadviser weirdly, someone's around to tweet every day that the website's still down."
+59,650662521385431040,Sun Oct 04 13:23:28 +0000 2015,0,1,@rnelson0 are they powered by employees pedalling an exercise bike?
+60,650619296905863168,Sun Oct 04 10:31:42 +0000 2015,41,63,Er… it’s 2015. We don’t shut down websites for the weekend anymore. https://t.co/g5NrscIHQC
+61,650259475778158597,Sat Oct 03 10:41:54 +0000 2015,0,0,"@bksarthak if it’s optional, great. If compulsory and non-functional, it’s 0FA."
+62,650223038890442752,Sat Oct 03 08:17:07 +0000 2015,59,40,"It pays not to penalise people for mistakes. ""Precious information was concealed out of fear of the consequences."" http://t.co/lyDcgSkjkG"
+63,650063225602637824,Fri Oct 02 21:42:05 +0000 2015,30,0,"RT @jamesdotcuff: I updated this 1986 #HPC document from the CIA for @Werner 
+
+http://t.co/UnGCw1T6a5 http://t.co/yzKaEOoNtT"
+64,650010234103144449,Fri Oct 02 18:11:31 +0000 2015,12,0,"RT @matt_gourd: The problem isn’t the CMS, it’s how you use it! RT @Trozellidesign: Managing Your Content Management System http://t.co/v1h…"
+65,649992656173535232,Fri Oct 02 17:01:40 +0000 2015,0,0,"@andol no room in the tweet to list other options: my point is, ANY other options would work. Requiring SMS with no alternative is bad."
+66,649914643276804096,Fri Oct 02 11:51:40 +0000 2015,0,0,@KamiSLO I’m now looking for another bank. One that thinks through major website redesigns a bit more thoroughly.
+67,649910989874458624,Fri Oct 02 11:37:09 +0000 2015,0,0,@MrJaba helps if you’re paid by the hour.
+68,649900678660251648,Fri Oct 02 10:56:11 +0000 2015,0,0,"@BermudezJuanjo @toredash see previous replies. GA runs on desktop, and WiFI connectivity != SMS service."
+69,649898801424044032,Fri Oct 02 10:48:43 +0000 2015,0,1,"@sid3windr I didn't have room to add 'for example', but you're right."
+70,649889953065734144,Fri Oct 02 10:13:33 +0000 2015,0,0,"@melindrea @radiodario GA doesn't need connectivity (it's like a SecurID token), and it runs on most platforms, including desktops."
+71,649888956826300416,Fri Oct 02 10:09:36 +0000 2015,41,51,"If SMS authentication is obligatory for your online service, bad news: not everyone has a cellphone, or signal. Use Google Authenticator."
+72,649726121299329025,Thu Oct 01 23:22:33 +0000 2015,130,0,"RT @ches: Watched a deaf person on the train have a sign conversation over Skype video on her phone.
+
+My software projects could be more me…"
+73,649633100008263680,Thu Oct 01 17:12:55 +0000 2015,0,1,"@alphabete there's one thing computers can never provide. Love! Unless they can, and I just haven't seen that Hacker News post yet."
+74,649347798454960132,Wed Sep 30 22:19:14 +0000 2015,202,0,RT @jvanegue: Only after you build large systems can you realize the power of simplicity. Complexity and over-engineering are the enemies o…
+75,649297309226921985,Wed Sep 30 18:58:36 +0000 2015,8,0,RT @unixdaemon: My favourite talk from Operability IO - 'Building world class Ops teams' by @mipsytipsy - https://t.co/nW8FA2wpHW
+76,649296870402097152,Wed Sep 30 18:56:51 +0000 2015,0,2,@Bradamante ‘To slack someone’ is a perfectly cromulent expression. Verbing usefulizes language.
+77,649177044568416256,Wed Sep 30 11:00:43 +0000 2015,2,4,"@jessbrammar Twitter rule 1: For any statement, no matter how innocuous, there exists a non-empty set of people who will take offense at it."
+78,649129651156176896,Wed Sep 30 07:52:23 +0000 2015,30,0,"RT @girlgerms: Sysadmins like *THIS* are the reason we have such a bad wrap for being BOFH's: https://t.co/neepxuw3Iv
+
+&gt;.&lt;"
+79,649129272783843328,Wed Sep 30 07:50:53 +0000 2015,1,0,"@girlgerms the computering is the easy bit, but dealing with people? That’s where it gets challenging. Also, rewarding."
+80,649118302187442176,Wed Sep 30 07:07:17 +0000 2015,0,0,"@hdgarrood PHP users also less able to discern gentle irony, Twitter comments reveal."
+81,649000878192623616,Tue Sep 29 23:20:41 +0000 2015,101,86,"PHP quite a bit more shit than other languages, study confirms. https://t.co/QFLsVoCLWl"
+82,648617419234234369,Mon Sep 28 21:56:58 +0000 2015,25,0,RT @PHP_CEO: SOMETIMES I WONDER IF THESE EMAILS ARE EVER GETTING TO PEOPLE
+83,648576336991232000,Mon Sep 28 19:13:43 +0000 2015,15,0,RT @beerops: @benjammingh BUT WHO WILL ASK ME HOW I BALANCE COMPUTERING WITH ALL THOSE WOMANLY THINGS I'M ALWAYS DOING
+84,647359231822180352,Fri Sep 25 10:37:22 +0000 2015,1,1,"@telent_net I hoped if I stole jokes from Dilbert 20 years ago, no-one would notice. Dang it."
+85,647356550776918016,Fri Sep 25 10:26:43 +0000 2015,56,66,"I reckon this so-called 'devops' is overrated. All it seems to be is typing a lot, and occasionally clicking the mouse. Anyone can do that!"
+86,646985663640936448,Thu Sep 24 09:52:57 +0000 2015,46,98,Wow! Just noticed my Puppet books are on the @puppetlabs 'recommended reading' page. In great company too: https://t.co/tW9VyJ2g4r *proud*
+87,646818486254194688,Wed Sep 23 22:48:39 +0000 2015,1,4,@patrickdebois it’s quid promo quo.
+88,646788718120955905,Wed Sep 23 20:50:21 +0000 2015,0,0,"@RFarahbod it's all true. Only the names have been changed, for reasons of national security."
+89,646739864986218497,Wed Sep 23 17:36:14 +0000 2015,0,0,@garethr tio estas bonega!
+90,646739602745724928,Wed Sep 23 17:35:11 +0000 2015,0,0,@unixdaemon I don’t know whether that’s awesome or scary. I’m gonna go with ‘both’.
+91,646733778677698560,Wed Sep 23 17:12:03 +0000 2015,1,2,"@unixgoddesskate you know, we learn nothing from success. Which must mean I'm learning a heck of a lot every day."
+92,646729390504570880,Wed Sep 23 16:54:37 +0000 2015,19,28,"""This outage report is great. You know, we should have more outages, so we can write reports on them."""
+93,646603185109360640,Wed Sep 23 08:33:07 +0000 2015,2,3,"@jarohen I'm sure the genius who said that prefers to remain anonymous, but he's just saying what we're all thinking."
+94,646361676388761600,Tue Sep 22 16:33:27 +0000 2015,105,115,"""So how do we call your API?""
+""Well, you just click on 'Schedule a report'.""
+""Great, thanks. I'll get a mouse fitted to one of our servers."""
+95,646350287729328128,Tue Sep 22 15:48:11 +0000 2015,6,0,"RT @LauraBrammar: Utter, unbridled, glorious hilarity.  Makes me explode in giggles every time I look at it. Like just then. https://t.co/k…"
+96,646328796094689280,Tue Sep 22 14:22:47 +0000 2015,0,2,"@AlanHogan @alicemazzy @longnow mind-bogglingly, ISO 8601 allows for that."
+97,646303889562562560,Tue Sep 22 12:43:49 +0000 2015,0,1,"@original_FoBoT @alicemazzy that would be, presumably, the English-speaking military? SEP doesn't mean a whole lot in other languages."
+98,646295007612108801,Tue Sep 22 12:08:32 +0000 2015,1,1,@red_puma @alicemazzy date format trolling is a thing? When will Twitter crack down on this outrageous abuse?
+99,646265269489262592,Tue Sep 22 10:10:21 +0000 2015,0,0,"@jordan_web you can't, don't, and shouldn't. Just read your reads list. I keep it to a few hundred, updated fairly often."
+100,646247599016689664,Tue Sep 22 09:00:08 +0000 2015,357,0,"RT @alicemazzy: btw to ppl who argue over mm/dd/yy vs dd/mm/yy dates, you are both wrong. the only acceptable format is yyyy-mm-dd"
+101,646246633093513217,Tue Sep 22 08:56:18 +0000 2015,1,1,"@jordan_web no, you just make a list of people you actually want to read. The crème de la Twitter, if you like. Read that, not your TL."
+102,646087851675922433,Mon Sep 21 22:25:22 +0000 2015,344,0,"RT @Opacki: If DynamoDB can avoid further problems, they can be back on track for their five nines SLA in just 60 short years. #awsoutage"
+103,646081945969950720,Mon Sep 21 22:01:54 +0000 2015,26,29,"""Women just want to be treated the same, paid the same, respected the same. Is that really too much to ask?"" http://t.co/g75pYq4Yq2"
+104,646072302384357377,Mon Sep 21 21:23:34 +0000 2015,0,0,"@justdoglet ha ha, jinx."
+105,646072180959281152,Mon Sep 21 21:23:06 +0000 2015,0,1,"@justdoglet oh yeah, if you see the word ‘SEO’ in there, run a mile. But junk accounts only really get junk followers (hashtag followback)"
+106,646070752677101568,Mon Sep 21 21:17:25 +0000 2015,0,4,"@justdoglet Twitter’s about making connections, or you’re just talking to yourself. I connect with lots of people, but they're all relevant."
+107,646070335427715077,Mon Sep 21 21:15:46 +0000 2015,0,2,"@kylecronin the point is, they *can* follow as many as they want, without making their timeline unreadable. Lists. Pro tip."
+108,646068876808224772,Mon Sep 21 21:09:58 +0000 2015,6,31,"Whenever I see someone with 50K followers who only follows 50 people, I think: this person really needs to find out about Twitter lists."
+109,646036603161460736,Mon Sep 21 19:01:43 +0000 2015,0,1,@chiller I like it.
+110,646022155050856448,Mon Sep 21 18:04:18 +0000 2015,6,0,RT @jessbrammar: Just found myself enraged because 3G on my phone wasn't strong enough to send an essential snapchat of me vomiting a rainb…
+111,646009676132323328,Mon Sep 21 17:14:43 +0000 2015,0,0,@klyntonj security by expiry?
+112,645906324430172160,Mon Sep 21 10:24:02 +0000 2015,0,1,@Rzhevsky @HelloSign are you sure? I haven’t heard anything about this. *earnest look*
+113,645900654750269440,Mon Sep 21 10:01:31 +0000 2015,4,13,"From @hellosign: ""WARNING do not forward this link to others or else they will be able to access your document"".
+
+Well, I'm reassured."
+114,645396206022193152,Sun Sep 20 00:37:01 +0000 2015,0,1,"@astrostl that’s very kind of you! There is a new edition of that book for Puppet 4, I’m happy to say, written by the estimable @uphillian."
+115,644861064736321536,Fri Sep 18 13:10:33 +0000 2015,0,1,"@laserllama I think there’s a useful distinction between ‘griping’ and constructive criticism. Of course, the former is much easier."
+116,644640411957469184,Thu Sep 17 22:33:45 +0000 2015,3872,0,RT @flyosity: Old PowerMacs still score pretty high in benchmark tests. http://t.co/RzyWVFrdSV
+117,644451501377654784,Thu Sep 17 10:03:05 +0000 2015,24,20,"Caching might seem like a free lunch, but don't ignore the potential downsides: http://t.co/stiuWQRK6T /via @jarohen"
+118,644257131013742592,Wed Sep 16 21:10:44 +0000 2015,158,0,"RT @littleidea: live code like there's nobody watching
+
+deploy like you've never brought down production"
+119,644256581866115072,Wed Sep 16 21:08:33 +0000 2015,0,0,@MrJaba did you set anyone else on fire?
+120,644106376453599232,Wed Sep 16 11:11:41 +0000 2015,67,45,Next up: kid who builds his own PC arrested for 'witchcraft' and 'un-American activities'. https://t.co/tEkLz708I1
+121,643916360637116416,Tue Sep 15 22:36:38 +0000 2015,9,0,RT @matt_gourd: Top post on writing for the web: “@Econsultancy: Why visitors only read 20% of your web page http://t.co/LX1kQcwn2f http://…
+122,643699402394181632,Tue Sep 15 08:14:31 +0000 2015,16,0,"RT @abscond: ""Software is politics now"". @richardjpope explains so clearly how and what to do. http://t.co/RqbLXd9SdR"
+123,643698849656254464,Tue Sep 15 08:12:19 +0000 2015,0,0,"@BruceHoult every time someone tries, it just says, “This incident will be reported.”"
+124,643513062205599746,Mon Sep 14 19:54:04 +0000 2015,53,58,With great sudo comes great responsibility. https://t.co/HUnUq4Vf9T
+125,643196644830392320,Sun Sep 13 22:56:44 +0000 2015,0,2,@kaytwo @paul_pearce @awscloud a ‘show me everything that’s costing me money’ button would be helpful.
+126,643135602091773953,Sun Sep 13 18:54:11 +0000 2015,5,8,Sounds like an awfully good idea to me. https://t.co/AREZ5wweSB
+127,643134293380874241,Sun Sep 13 18:48:59 +0000 2015,0,0,"@philsplace if you think Visual Studio's the problem, you might have stopped reading a bit too early."
+128,643126058896723969,Sun Sep 13 18:16:15 +0000 2015,1,1,"@joat_es config files OK. Unencrypted credentials, not OK. Even private repos, as we learned, can unexpectedly become public."
+129,643125613583302656,Sun Sep 13 18:14:29 +0000 2015,0,1,"@huslage actually, I thought it was good - very open about his own mistakes and lessons learned. Think I would have kept that one to myself."
+130,643125141002584064,Sun Sep 13 18:12:36 +0000 2015,0,1,"@GranTuring and if you were in any doubt that GitHub is continuously scanned for AWS creds to steal, doubt no longer."
+131,643117638688854016,Sun Sep 13 17:42:48 +0000 2015,190,115,"We all make mistakes. This one resulted in a $6,500 AWS bill. So if you think you've had a bad day, read https://t.co/BylNjrKbcS"
+132,642678777789718528,Sat Sep 12 12:38:55 +0000 2015,0,3,"@unlocalblog @LauraBrammar yes, definitely. Let's start right away."
+133,642475913335173120,Fri Sep 11 23:12:49 +0000 2015,7,0,RT @LauraBrammar: Mmmm.Interesting. Chicks Rule? | Information Is Beautiful http://t.co/dXChnl4RYW
+134,642056133360746496,Thu Sep 10 19:24:45 +0000 2015,20,21,This so-called 'joke' betrays some serious misunderstandings about the TCP protocol. How did it pass QA? https://t.co/REavKkuCC6
+135,642006910527401985,Thu Sep 10 16:09:10 +0000 2015,0,1,"@_lanzz_ @leeflower apparently so, yes."
+136,641989566954643456,Thu Sep 10 15:00:15 +0000 2015,71,0,RT @leeflower: Your periodic reminder that there is nothing remarkable about women with brains. Acting shocked that we're smart is not a co…
+137,641903075851157504,Thu Sep 10 09:16:33 +0000 2015,0,1,"@hlame horological nomenclature is quite the fashion, don’t you know."
+138,641763416567361536,Thu Sep 10 00:01:36 +0000 2015,0,2,"@christopherneal @Obdurodon ontogeny doesn’t exactly recapitulate phylogeny either, but it’s still fun to say."
+139,641759549377118212,Wed Sep 09 23:46:14 +0000 2015,18,0,"RT @Obdurodon: The best way to teach an idea often mirrors the way it originally developed over time.  In other words, pedagogy recapitulat…"
+140,641758565552799744,Wed Sep 09 23:42:19 +0000 2015,0,0,"@gtuckerkellogg yes, from time to time - drop me an email to john@bitfieldconsulting.com if you’d like to know more."
+141,641598364367257600,Wed Sep 09 13:05:45 +0000 2015,1,1,"@coldclimate @unixdaemon 'Put all your eggs in AWS' makes perfect sense from the vendor's POV, but not necessarily the customer's."
+142,641584891885436929,Wed Sep 09 12:12:12 +0000 2015,1,2,"@unixdaemon excessive AWS-centricity concerns me. Diversity is an inherently good thing for tools and platforms, just as it is for people."
+143,641170812100218881,Tue Sep 08 08:46:48 +0000 2015,0,2,"@ifesdjeen @sharnik @lukaszkorecki I'm super happy for you, but I'm afraid that's the cultural equivalent of 'works on my laptop'."
+144,641154729133797376,Tue Sep 08 07:42:54 +0000 2015,0,1,"@jessalyn echo ""127.0.0.1 http://t.co/yvEXCREYAf"" &gt;&gt;/etc/hosts"
+145,641005703981764608,Mon Sep 07 21:50:43 +0000 2015,1,0,"@davidfrahm @SlackHQ the noise problem solved, maybe; it doesn't solve anxiety, interruptions, expectations, procrastination, or threading."
+146,641004028265017344,Mon Sep 07 21:44:04 +0000 2015,1,0,@ifesdjeen see https://t.co/HGkTCWqChG
+147,640835010493157377,Mon Sep 07 10:32:27 +0000 2015,2,0,"@sharnik @lukaszkorecki you may think that, but others in the team may have different ideas. Making it explicit solves that problem."
+148,640818773218295808,Mon Sep 07 09:27:56 +0000 2015,134,116,"If you use Slack with a team, be clear about expectations for weekend and out-of-hours availability. Always-on syndrome leads to burnout."
+149,640542206483263488,Sun Sep 06 15:08:57 +0000 2015,44,32,"Slack's great, but here's the downside: there's no 'Slack Zero': http://t.co/dxyVV9jMuR"
+150,639831387026034688,Fri Sep 04 16:04:24 +0000 2015,115,155,"""This is trivial, I can solve it in 3 lines of Ruby!""
+
+385 lines of Ruby later..."
+151,639814244104474624,Fri Sep 04 14:56:17 +0000 2015,4,12,"""Houston, we've had a problem. Icinga's red, we're getting PagerDuty alerts, and we can't ping the load balancers."" http://t.co/kEu46fJHdG"
+152,639723694214942720,Fri Sep 04 08:56:28 +0000 2015,0,0,@aivalli maybe I will! I need to get my Fosdem on one of these years.
+153,639507602699849728,Thu Sep 03 18:37:48 +0000 2015,7,11,"Election fraud, Poincaré’s bread, Anscombe’s quartet, and Clojure for data science. What’s not to like? http://t.co/ZUBTdVRJhq /via @cljds"
+154,639201730010447872,Wed Sep 02 22:22:22 +0000 2015,0,1,"@fazl hey, if you clear out disk space, someone'll only fill it up again. Am I right?"
+155,639140055068614656,Wed Sep 02 18:17:18 +0000 2015,34,28,"In fact, monitoring just makes you feel worse. https://t.co/foTg068rnQ"
+156,639032496168931329,Wed Sep 02 11:09:54 +0000 2015,57,63,"""Calling 'wipe' directly on a block device is EXTREMELY DANGEROUS. Be sure to be sober.""
+—wipe(1) man page"
+157,638733582123470848,Tue Sep 01 15:22:07 +0000 2015,0,1,"@DMonTech we've had mobile phones for 40 years, yet people still have landlines. So I think the point stands."
+158,638406800304394241,Mon Aug 31 17:43:36 +0000 2015,80,35,What burns me is that someone had to actually program this validation rule. https://t.co/YQIzrTNyJ9
+159,638406107556392960,Mon Aug 31 17:40:51 +0000 2015,0,0,@peterc we can’t talk to the robots on Skype though.
+160,638133242785304576,Sun Aug 30 23:36:35 +0000 2015,9,10,@shmick there are people younger than IPv6 who are building systems that don't support IPv6.
+161,638132814672740352,Sun Aug 30 23:34:53 +0000 2015,2,1,"@Trevoke and often even 'way better' isn't enough to drive change. Change is expensive, and time-consuming, even when it's inevitable."
+162,638123700391399425,Sun Aug 30 22:58:40 +0000 2015,185,118,"When you hear about disruptive new technologies changing the world, remember it’s taken 20 years to roll out IPv6, and we’re still not done."
+163,637937973951115264,Sun Aug 30 10:40:39 +0000 2015,55,0,"RT @Zyradyl: ""Our infrastructure doesn't need to be that complex."" = ""I prefer the same problems day in and out versus new problems that ra…"
+164,637384103181033473,Fri Aug 28 21:59:46 +0000 2015,51,44,Drive your co-workers crazy with random network failures. This is better than Call of Duty. https://t.co/deHCRcqIVb
+165,637290983508590592,Fri Aug 28 15:49:45 +0000 2015,42,0,"RT @jarohen: From @bitfield: Caching can, if you're not careful, turn a small performance problem into a large cache-invalidation problem"
+166,637028376277086208,Thu Aug 27 22:26:14 +0000 2015,92,0,RT @justinweiss: “No hire: Tabs instead of spaces. Not a cultural fit.”
+167,636644710136815616,Wed Aug 26 21:01:41 +0000 2015,10,19,"May I just gently make the point, though, that there are consultants and consultants? https://t.co/VjGHlEbdvy"
+168,636599055028781056,Wed Aug 26 18:00:16 +0000 2015,1,2,"@thedoh I'm a monster. In a way, I actually want to be caught."
+169,636590798025396224,Wed Aug 26 17:27:28 +0000 2015,1,1,@johnsextro braaaaarp
+170,636589610760540160,Wed Aug 26 17:22:45 +0000 2015,18,30,"Using Puppet to deploy a script which shells out to Puppet to make system changes. I know it's wrong, but it feels so right."
+171,636321668235968512,Tue Aug 25 23:38:02 +0000 2015,91,93,Most people don't have a config management problem. They have a change management problem.
+172,635257286328381440,Sun Aug 23 01:08:34 +0000 2015,34,40,This looks like the graph of my average workday. https://t.co/THfnjMmygz
+173,635110926975389696,Sat Aug 22 15:26:59 +0000 2015,5,5,"@threedaymonk ”For a list of all the ways technology has failed to improve the quality of life, please press three.” —Alice Kahn"
+174,634693425342779393,Fri Aug 21 11:47:59 +0000 2015,56,61,After Docker: Unikernels and Immutable Infrastructure https://t.co/uVSr0KPsMQ /via @hundredmondays
+175,634381975701209088,Thu Aug 20 15:10:23 +0000 2015,1,1,"@hundredmondays very possibly, tell me more!"
+176,634381911033425920,Thu Aug 20 15:10:08 +0000 2015,2,1,@aliylcn_ drop me an email to john@bitfieldconsulting.com if you like.
+177,634062978481016832,Wed Aug 19 18:02:49 +0000 2015,1,1,"@riking27 @uphillian cool, we’re pairing on Twitter! I like it."
+178,633977289496072192,Wed Aug 19 12:22:19 +0000 2015,146,214,$ git commit -m 'Unfuck'
+179,633802084320694272,Wed Aug 19 00:46:07 +0000 2015,78,83,"Instead of Docker, Puppet, Chef, or Ansible, we need a dynamic linker for stacks: http://t.co/VvGgCTlwir"
+180,633444637227765760,Tue Aug 18 01:05:45 +0000 2015,481,0,RT @GonzoHacker: The point of eating your own dog food is to motivate you to make it better not to acclimate your taste to garbage
+181,633013456401235968,Sun Aug 16 20:32:23 +0000 2015,12,0,RT @unixgoddesskate: On Becoming a Badass https://t.co/nKwHi1bTtQ
+182,632701319522983936,Sat Aug 15 23:52:04 +0000 2015,524,0,"RT @danielglauser: OH ""I realized I could code when I started pairing with engineers. They just google everything. I can do that."""
+183,632302973469765632,Fri Aug 14 21:29:11 +0000 2015,5285,0,RT @mathiasverraes: There are only two hard problems in distributed systems:  2. Exactly-once delivery 1. Guaranteed order of messages 2. E…
+184,632152826714673152,Fri Aug 14 11:32:33 +0000 2015,66,0,RT @nixcraft: Apple OS X 10.10.5 fixes DYLD_PRINT_TO_FILE  privilege escalation vulnerability https://t.co/sA6ExlEfs7 #Unix http://t.co/yG0…
+185,631899753186467840,Thu Aug 13 18:46:55 +0000 2015,24,0,"RT @a_z_e_t: news at 11: instead of a configuration management system, you can use Perl!
+
+no. really: http://t.co/LPb9xuBoPm"
+186,631753676051345408,Thu Aug 13 09:06:28 +0000 2015,2,2,@informatom you're most welcome! I always like to hear from readers (especially satisfied ones).
+187,631513576600113152,Wed Aug 12 17:12:24 +0000 2015,9,0,"RT @unixdaemon: ""Whilst packets from GCE to the Internet were not affected, the loss of return traffic prevented the correct operation of T…"
+188,631431558667370496,Wed Aug 12 11:46:29 +0000 2015,12,0,"RT @abscond: Some news: I'm taking a break from government, and looking for new work. http://t.co/E9aEhEsv1l"
+189,631270253549514752,Wed Aug 12 01:05:31 +0000 2015,35,0,RT @AnnaPawlicka: I’m just going to upgrade all dependencies = All hell broke loose
+190,630517464850411520,Sun Aug 09 23:14:12 +0000 2015,23,0,RT @bcantrill: Our postmortem on the @Joyent @MantaStorage outage last Monday (July 27th): https://t.co/XvZ3skzWFU
+191,630335138660921344,Sun Aug 09 11:09:42 +0000 2015,2,1,"@marcpalmerdev well, I think that's the point, isn't it - if you're doing GTD, everything goes into one system."
+192,630169012052303872,Sun Aug 09 00:09:35 +0000 2015,1007,0,"RT @dominictarr: if you want to write fast software, use a slow computer"
+193,630166628118974466,Sun Aug 09 00:00:06 +0000 2015,2,1,"@marcpalmerdev OmniFocus can capture Reminders, so you can use Siri to add things that way."
+194,630063304757547008,Sat Aug 08 17:09:32 +0000 2015,1,0,@sparrk at least one contribution is immortalised here: http://t.co/MIlcrtWWwC
+195,630053677298888709,Sat Aug 08 16:31:17 +0000 2015,0,0,"@sparrk 'fame' might be putting it too strongly, but who wants to know?"
+196,629820793636134912,Sat Aug 08 01:05:53 +0000 2015,49,52,You won’t believe what I found in my /etc/sudoers file by following this one weird tip: https://t.co/7QT8nTuRX1
+197,629817864841732096,Sat Aug 08 00:54:15 +0000 2015,18,0,RT @bytemeorg: This @ACMQueue article about FS integrity in the face of crashes (crash consistency) is well worth your time. http://t.co/RN…
+198,629730213471989764,Fri Aug 07 19:05:57 +0000 2015,11356,0,RT @SeinfeldToday: Jerry gets paranoid about his girlfriend’s past when her iPhone automatically connects to the wi-fi at Newman’s apartmen…
+199,629084464191303680,Thu Aug 06 00:19:58 +0000 2015,126,0,"RT @PHP_CEO: YEAH WE'VE GOT IMMUTABLE INFRASTRUCTURE
+
+AT LEAST THERE DOESNT SEEM TO BE A WAY TO DISABLE ALL THE ALERTS THAT SHIT IS GENERAT…"

@@ -1,0 +1,65 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,667841155158155264,Fri Nov 20 23:05:13 +0000 2015,3,3,Interested in helping but not sure where to start? We have a very approachable issue just for you. https://t.co/Yc6Y4qOwEZ @yourfirstpr #µ
+1,667351350829780993,Thu Nov 19 14:38:55 +0000 2015,0,0,We've set up our Slack channels.  Drop by and say hi! https://t.co/D6O2U9TssT
+2,665477997626003457,Sat Nov 14 10:34:53 +0000 2015,0,0,Microbe 0.4.12 has been released including appendTo and prependTo https://t.co/UcMChRmhF0
+3,660468055957458944,Sat Oct 31 14:47:10 +0000 2015,0,0,Easily check if they used the inputs correctly with µ( 'input:in-range' ) and µ( 'input:out-of-range' ) #css4 #µ #microbejs
+4,660444661941669888,Sat Oct 31 13:14:12 +0000 2015,1,0,Need to see which of those divs are those drop points? Use the drop selector µ( 'div:drop' ) #css4 #µ #microbejs
+5,660349530492260352,Sat Oct 31 06:56:11 +0000 2015,0,0,#css4 contains an improvement on the css1 descendent selector whitespace. µ( 'ul li' ) becomes µ( 'ul &gt;&gt; li' ) #µ #microbejs
+6,660126534846558208,Fri Oct 30 16:10:05 +0000 2015,1,0,"Did they fill out the entire form?  If they did, the length µ( 'input:blank' ) will be 0 #css4 #µ #microbejs"
+7,660105628619288577,Fri Oct 30 14:47:00 +0000 2015,1,0,Using multiple direction languages on the same page? Easily select them with the direction selector. µ( 'div:dir(ltr)' ) #µ #microbejs #css4
+8,660082258032857088,Fri Oct 30 13:14:08 +0000 2015,1,0,Match children with the relational selector 'has'.  Make sure you picked the right div! µ( 'div:has( .suceess )' ) #µ #microbejs #css4
+9,659987156686004224,Fri Oct 30 06:56:14 +0000 2015,1,0,Quickly sort the editable field in your page with µ( ':read-only' ) and µ( ':read-write' ) #µ #microbejs #css4
+10,659764142425964544,Thu Oct 29 16:10:04 +0000 2015,1,0,It'll be a lot easier to check your input validation with µ( 'input:required' ) and µ( 'input:optional' ) #µ #microbejs #css4
+11,659743241336709120,Thu Oct 29 14:47:00 +0000 2015,1,0,"All those links on your page, and you only want the ones to your page? Use local-link! µ( ':local-link' ) #µ #microbejs #css4"
+12,659719882070761473,Thu Oct 29 13:14:11 +0000 2015,1,1,"How about matching more than one selector option? #css4 has you covered there too! µ( 'div:matches( .class1, .class2 )' ) #µ #microbejs"
+13,659624759244759040,Thu Oct 29 06:56:12 +0000 2015,1,1,"Need to exclude more than one class from your selection? #css4 has you covered! µ( 'div:not( .class1, .class2 )' ) #µ #microbejs"
+14,659401766694486016,Wed Oct 28 16:10:06 +0000 2015,1,1,How do you select the default elements from all your inputs?  Easy!  Try the defalult selector! µ( 'input:default' )  #µ #microbejs #css4
+15,659380862836985856,Wed Oct 28 14:47:03 +0000 2015,1,2,Need to deal with only the english elements?  Try the language selector with wildcards! µ( ':lang(*-en)' ) #µ #microbejs #css4
+16,659357488194715649,Wed Oct 28 13:14:10 +0000 2015,1,1,The parent selector (!) selects it's direct parent. Let's select an input's label µ( 'input! label' ) #µ #microbejs #css4
+17,659262380757688320,Wed Oct 28 06:56:14 +0000 2015,1,0,Have you ever met the new #css4 pseudo-selectors? Microbe wants to introduce you! #µ #microbejs https://t.co/OSbahgjJrv
+18,657563430841380864,Fri Oct 23 14:25:13 +0000 2015,2,0,RT @SaltineJustine: Contributing to OSS isn't as scary as it might seem — https://t.co/mpsJsMqDsb
+19,655823240800129025,Sun Oct 18 19:10:19 +0000 2015,0,0,"give µ 0.4.10 a try with:
+
+npm install microbejs
+
+or
+
+bower install microbejs
+
+or visit:
+http://t.co/iYsj9FJBG5"
+20,655725645872394240,Sun Oct 18 12:42:31 +0000 2015,1,0,"µ 0.4.10 just published!
+
+you can now use the selector as syntactic sugar for µ.ready
+
+µ( function(){ console.log( 'DOM loaded' ); } );"
+21,653909818244263936,Tue Oct 13 12:27:04 +0000 2015,2,0,"RT @sociomantic_DE: #TechTalk mit @nbrugneaux und @mousemke über microbe.js, eine modulare JS library http://t.co/9dfO2doQvz http://t.co/Lx…"
+22,652538620100890624,Fri Oct 09 17:38:25 +0000 2015,58,0,"RT @smashingmag: A (very, very, very) comprehensive checklist for your new open source JavaScript project. https://t.co/8x6XSIaZLL #frontee…"
+23,652416334039515136,Fri Oct 09 09:32:30 +0000 2015,1,0,"RT @sociomantic: We're loving aquatic bacteria! 
+
+Have you been bitten by the @microbejs #javascript bug yet? http://t.co/H8ScVqMDkG http:/…"
+24,652198629294383104,Thu Oct 08 19:07:25 +0000 2015,20,0,RT @jden415: #KeepTechWeird http://t.co/vFM7QJTir5
+25,651763079836008448,Wed Oct 07 14:16:42 +0000 2015,1,0,RT @sociomantic: Contributing towards a new #OSS project? Our #javascript library @microbejs wants you to help! http://t.co/H8ScVqMDkG http…
+26,651693827930083329,Wed Oct 07 09:41:31 +0000 2015,3,0,RT @dacnannings: #ICYMI Our first open source JS library: microbe.js created by @mousemke #µ https://t.co/kbrW2Zwkah http://t.co/TV7hgViOls
+27,650326610390970368,Sat Oct 03 15:08:41 +0000 2015,11,0,RT @andywalpole: Here's my write-up of Reject.JS conference:https://t.co/rNOssSr66O … @RejectJS @filtercake
+28,647429458526371844,Fri Sep 25 15:16:26 +0000 2015,4,0,"RT @sociomantic: Sick of #jQuery getting all the attention? @mousemke created his own OSS JS library, Microbe! http://t.co/ZOnERpAu6P http:…"
+29,647382621341790208,Fri Sep 25 12:10:19 +0000 2015,2,0,"RT @sheley: So happy for @mousemke’s open source library to be released and celebrated by @sociomantic after lots of hard work!
+
+https://t.…"
+30,647380355876552704,Fri Sep 25 12:01:19 +0000 2015,3,0,"RT @sociomantic: Here's MICROBE -our new open source #javascript library, from creators @mousemke &amp; @nbrugneaux http://t.co/ZOnERpAu6P http…"
+31,647342242202566656,Fri Sep 25 09:29:52 +0000 2015,2,0,"RT @chambaz: This looks very interesting! #Microbe is a #JavaScript library aiding in DOM manipulation events, and data binding - http://t.…"
+32,647323705085964288,Fri Sep 25 08:16:12 +0000 2015,5,0,RT @kureevalexey: First minutes of @jsconfeu http://t.co/zyTsvAnXbw
+33,647185936841838592,Thu Sep 24 23:08:46 +0000 2015,3,0,RT @stephanieaslan: Interact with your early users. They become your core group. @gocarshare @DrummondGilbert #twiliotalks @twilio http://t…
+34,647095601331576832,Thu Sep 24 17:09:48 +0000 2015,0,0,On closing the last ever #RejectJS @RejectJS http://t.co/66sjFyEBc9
+35,647026248875700224,Thu Sep 24 12:34:13 +0000 2015,2,2,"microbe has updated to 0.4.9 including bower support! 
+
+To start use:
+npm i microbejs
+or
+bower install microbejs
+
+https://t.co/CqlSTuewgI"
+36,647022839426646016,Thu Sep 24 12:20:40 +0000 2015,29,0,RT @speakerinnen: Today we are @RejectJS in #Berlin. They have 58% women speakers. Another good example in the tech scene! #javascript #wom…
+37,646712367984865280,Wed Sep 23 15:46:58 +0000 2015,2,0,RT @JavaScriptKicks: microbe by @mousemke https://t.co/DAJQjTBQ3L #javascript via @JavaScriptKicks
+38,646673042568028160,Wed Sep 23 13:10:42 +0000 2015,2,1,Introducing microbe.js! (via reddit) https://t.co/C2y3ZAyr13
+39,646640713007005696,Wed Sep 23 11:02:14 +0000 2015,4,0,RT @mousemke: I’m excited to finally be able to say this! microbe 0.4.6 is released and officially open source! #microbejs https://t.co/dZJ…

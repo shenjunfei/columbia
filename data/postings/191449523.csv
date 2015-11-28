@@ -1,0 +1,201 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669153538380009472,Tue Nov 24 14:00:10 +0000 2015,3,2,New @Azure blog Azure PowerShell 1.0 https://t.co/udJ1mxWOt7 also try https://t.co/WNtVWmoAj7
+1,668791169891962880,Mon Nov 23 14:00:15 +0000 2015,1,2,New @Azure blog Cortana Analytics Gallery - a scalable community site built on Azur... https://t.co/eNA2pWf6iH
+2,667729650018185216,Fri Nov 20 15:42:09 +0000 2015,3,0,"RT @PyramisTech: Really great #Cloud #Monitoring service provided by @cloudmonix , This should come in handy with our adventures in #LightS…"
+3,667704019813552128,Fri Nov 20 14:00:18 +0000 2015,6,4,New @Azure blog Announcing the Availability of PHP 7 RC7 x86 (Experimental) on Azur... https://t.co/LGeSGmacLT
+4,667341663921176576,Thu Nov 19 14:00:25 +0000 2015,6,6,New @Azure blog Announcing Azure Backup support for Load Balancer and CloudLink enc... https://t.co/FjhkzRQOV0
+5,666979258435289091,Wed Nov 18 14:00:21 +0000 2015,7,6,New @Azure blog Microsoft Azure Government growth and enabling new cloud capabiliti... https://t.co/6ZoCazrDme
+6,666616873920937984,Tue Nov 17 14:00:22 +0000 2015,3,3,New @Azure blog Altair® RADIOSS® now supported on Microsoft Azure https://t.co/Ol4n96fXN7 also try https://t.co/WNtVWmoAj7
+7,666357227574444033,Mon Nov 16 20:48:38 +0000 2015,5,5,Any #Azure users know an answer to this #stackoverflow question? https://t.co/fo7rk9hjcB   Thanks in advance
+8,666291483998355456,Mon Nov 16 16:27:23 +0000 2015,2,5,New @Azure blog Azure SQL Database hosts Ask Me Anything session https://t.co/9ipGzEWyKU also try https://t.co/WNtVWmoAj7
+9,666272862429437952,Mon Nov 16 15:13:23 +0000 2015,3,3,New @Azure blog Red Hat Cloud Access now available on Azure! https://t.co/8IkFFIOAAw also try https://t.co/WNtVWmoAj7
+10,666254508775882752,Mon Nov 16 14:00:27 +0000 2015,7,4,New @Azure blog Using Power BI with SQL Data Warehouse https://t.co/H5B9rA1G3Y also try https://t.co/WNtVWmoAj7
+11,665167354830184448,Fri Nov 13 14:00:30 +0000 2015,8,4,The Ultimate list of Top SQL Monitoring Tools https://t.co/1ZLLs5TEtz
+12,664804983414616064,Thu Nov 12 14:00:34 +0000 2015,5,1,New @Azure blog Azure VM Scale Sets public preview https://t.co/ou3OGaZH3c also try https://t.co/WNtVWmoAj7
+13,664442595691528192,Wed Nov 11 14:00:34 +0000 2015,10,4,New @Azure blog Import geospatial data into DocumentDB https://t.co/oMB1hd9q9Z also try https://t.co/WNtVWmGbaF
+14,664080239644049408,Tue Nov 10 14:00:41 +0000 2015,6,4,New @Azure blog Ethereum Blockchain as a Service now on Azure https://t.co/Kw968JCny1 also try https://t.co/WNtVWmoAj7
+15,663755834351067136,Mon Nov 09 16:31:37 +0000 2015,2,2,New @Azure blog The Key to Improving the IT/LOB Relationship https://t.co/NKGoBmeuM6 also try https://t.co/WNtVWmoAj7
+16,663733432216739840,Mon Nov 09 15:02:36 +0000 2015,2,2,New @Azure blog Elastic Database Transactions with Azure SQL Database https://t.co/BymlOMxJm7 also try https://t.co/WNtVWmGbaF
+17,663717838998405120,Mon Nov 09 14:00:38 +0000 2015,2,2,New @Azure blog Announcing a new partnership between Microsoft and Red Hat https://t.co/zCJUuTtyfG also try https://t.co/WNtVWmoAj7
+18,662707440094457861,Fri Nov 06 19:05:40 +0000 2015,4,2,Am I understanding correctly that #Azure Cloud Services (Web/Worker roles) are not supported thru Azure Resource Management API yet?
+19,662641761026723844,Fri Nov 06 14:44:41 +0000 2015,0,1,New @Azure blog MariaDB Enterprise Cluster® on Azure https://t.co/JObKQdyIK2 also try https://t.co/WNtVWmoAj7
+20,662630692577255425,Fri Nov 06 14:00:42 +0000 2015,6,5,What is Azure Scheduler? https://t.co/BakeBkQQJu
+21,662268322650681344,Thu Nov 05 14:00:47 +0000 2015,3,2,New @Azure blog Azure SQL Database In-Memory OLTP and Real-Time Operational Analyti... https://t.co/CptT0zkLbE
+22,661926074662653952,Wed Nov 04 15:20:48 +0000 2015,5,4,New @Azure blog Azure DocumentDB is now available in South Central US https://t.co/R3w9mcszGQ also try https://t.co/WNtVWmoAj7
+23,661905957224599553,Wed Nov 04 14:00:52 +0000 2015,7,3,What is Azure Storage Monitoring? https://t.co/UhQdV5GlnI
+24,661556632745320448,Tue Nov 03 14:52:47 +0000 2015,3,2,New @Azure blog Transactional Replication to Azure SQL DB now in public preview https://t.co/lAVbZebUsD also try https://t.co/WNtVWmoAj7
+25,661543561746325504,Tue Nov 03 14:00:50 +0000 2015,3,1,What is Azure Service Bus Management? https://t.co/VJfBixSdSj
+26,661218423326826496,Mon Nov 02 16:28:51 +0000 2015,6,5,"New @Azure blog U-SQL, the new big data language for Azure Data Lake https://t.co/un1oXO6oE5 also try https://t.co/WNtVWmoAj7"
+27,661204830510317568,Mon Nov 02 15:34:50 +0000 2015,6,6,New @Azure blog Creating big data pipelines using Azure Data Lake and Azure Data Fa... https://t.co/KOzB9Qt7iq
+28,661190994705186816,Mon Nov 02 14:39:52 +0000 2015,2,3,New @Azure blog How Halo 5 implemented social gameplay using Azure DocumentDB https://t.co/WEQfG1awxh also try https://t.co/WNtVWmoAj7
+29,661181178918080512,Mon Nov 02 14:00:51 +0000 2015,3,1,What is Azure Service Bus? https://t.co/uVcYuQCoXE
+30,660098309542043648,Fri Oct 30 14:17:55 +0000 2015,8,6,"New @Azure blog Dev-Test Starts with IT: Create simple, cloud-only dev-test configu... https://t.co/RBKV7ylyKW"
+31,660078944536793088,Fri Oct 30 13:00:58 +0000 2015,6,6,What are Azure Notifications Hubs and how it is used? https://t.co/lL7WLUYQd4
+32,659730141921337344,Thu Oct 29 13:54:57 +0000 2015,9,7,New @Azure blog Reducing troubleshooting time with Azure Resource health https://t.co/HFb2m30e5g also try https://t.co/WNtVWmoAj7
+33,659716554246983684,Thu Oct 29 13:00:58 +0000 2015,6,4,What is Azure API Management and how it used? https://t.co/HvLMBcEetk
+34,659376318174404608,Wed Oct 28 14:28:59 +0000 2015,3,2,New @Azure blog Indexing and analyzing media for law enforcement https://t.co/eteie8zXHX also try https://t.co/WNtVWmoAj7
+35,659354183385141248,Wed Oct 28 13:01:02 +0000 2015,3,4,What are Azure Logic Apps and how are they used? https://t.co/sNLHiKhKkp
+36,658991795410464768,Tue Oct 27 13:01:02 +0000 2015,3,3,New @Azure blog Application Insights - Temporary limitations and performance improv... https://t.co/m7R1b4OgSO
+37,658654073214914561,Mon Oct 26 14:39:02 +0000 2015,0,2,New @Azure blog Dev-Test Starts with IT: Set up a LOB application in a hybrid cloud... https://t.co/8xgJeA8kZH
+38,658643007193919488,Mon Oct 26 13:55:04 +0000 2015,0,3,New @Azure blog Lots of options for Java Cloud developers with Azure! https://t.co/Vk4AD7YoCX also try https://t.co/WNtVWmoAj7
+39,657542277838016512,Fri Oct 23 13:01:10 +0000 2015,1,1,New @Azure blog Sampling in Application Insights: How to keep the volume of your te... https://t.co/dJ6Mq1dCie
+40,657178135876804608,Thu Oct 22 12:54:12 +0000 2015,1,2,New @Azure blog Microsoft Azure Storage: Service version removal update - Extension... https://t.co/hsHc0i5K9P
+41,656815766407401472,Wed Oct 21 12:54:16 +0000 2015,2,2,New @Azure blog October update for Azure SQL Data Warehouse https://t.co/9kJsgmvq8j also try https://t.co/WNtVWmoAj7
+42,656453376427868160,Tue Oct 20 12:54:15 +0000 2015,4,2,New @Azure blog The Search for Search Contest https://t.co/uioOmONgXj also try https://t.co/WNtVWmoAj7
+43,656112640771661824,Mon Oct 19 14:20:18 +0000 2015,10,6,New @Azure blog Determine your WordPress web app usage with Azure App Insights http://t.co/tXqxJP0aft also try http://t.co/WNtVWmoAj7
+44,656105849757151233,Mon Oct 19 13:53:19 +0000 2015,7,3,New @Azure blog Dev-Test Starts With IT: Set up a SharePoint farm in a hybrid cloud... http://t.co/VcjXPovOEr
+45,656091016110428160,Mon Oct 19 12:54:22 +0000 2015,7,2,New @Azure blog Cross-Database Queries in Azure SQL Database http://t.co/CF4KReeLqz also try http://t.co/WNtVWmoAj7
+46,655003849820868608,Fri Oct 16 12:54:21 +0000 2015,8,3,New @Azure blog September update for Web Apps and App Service Environments http://t.co/hQKAYRur62 also try http://t.co/WNtVWmoAj7
+47,654656821169274881,Thu Oct 15 13:55:23 +0000 2015,1,1,New @Azure blog Azure CLI supports Microsoft Account logins http://t.co/bXdmvEWZQy also try http://t.co/WNtVWmGbaF
+48,654641473435123712,Thu Oct 15 12:54:24 +0000 2015,2,0,What is Azure RemoteApp and how it is used? http://t.co/flIRhsN2LD
+49,654295461503746048,Wed Oct 14 13:59:28 +0000 2015,2,1,New @Azure blog Integrating SQL AlwaysOn with Azure Site Recovery http://t.co/L8ykgbHvJC also try http://t.co/WNtVWmGbaF
+50,654279095946203137,Wed Oct 14 12:54:27 +0000 2015,3,1,What are Azure API Apps and how it is used? http://t.co/MWkfLcrVjI
+51,653567922066096128,Mon Oct 12 13:48:29 +0000 2015,4,1,"New @Azure blog Azure Backup introduces backup of SQL, Hyper-V VMs and more http://t.co/vtXRD7qzY8 also try http://t.co/WNtVWmoAj7"
+52,653554350619557888,Mon Oct 12 12:54:34 +0000 2015,3,1,New @Azure blog Azure App Service hosts Ask Me Anything session http://t.co/4xIrdoBWkz also try http://t.co/WNtVWmoAj7
+53,652467193892970496,Fri Oct 09 12:54:35 +0000 2015,10,3,New @Azure blog Azure SQL Data Warehouse introduces Data Auditing http://t.co/rKytqb2xiJ also try http://t.co/WNtVWmoAj7
+54,652104840018030592,Thu Oct 08 12:54:44 +0000 2015,6,2,New @Azure blog Using Hue for query authoring with Hadoop on Azure HDInsight http://t.co/Tu3Hb8pCgb also try http://t.co/WNtVWmoAj7
+55,651742447219929088,Wed Oct 07 12:54:42 +0000 2015,5,4,New @Azure blog Using Varnish as front end cache for Azure Web Apps http://t.co/ZtL4YAUrP9 also try http://t.co/WNtVWmoAj7
+56,651400201169563648,Tue Oct 06 14:14:45 +0000 2015,4,1,New @Azure blog Microsoft Applications on Azure http://t.co/pRaqMKsI7H also try http://t.co/WNtVWmGbaF
+57,651380052282748928,Tue Oct 06 12:54:41 +0000 2015,7,4,New @Azure blog Microsoft Applications on Azure http://t.co/pRaqMKb7g9
+58,651081594174705664,Mon Oct 05 17:08:43 +0000 2015,2,3,What is Azure Elasticity as a Service? http://t.co/2rCgRDZQ5j
+59,651065500651388928,Mon Oct 05 16:04:46 +0000 2015,1,3,New @Azure blog Go mobile with Azure App Service and Xamarin http://t.co/DIKkt3iwHr
+60,651056187916591104,Mon Oct 05 15:27:45 +0000 2015,2,1,What is Windows Server Management? http://t.co/5TGto0xH36
+61,651040319249752064,Mon Oct 05 14:24:42 +0000 2015,3,1,New @Azure blog Azure Media Services – Dynamic Manifest Composition support and HLS output additional features http://t.co/KLrfD8w1TI
+62,651029012098228224,Mon Oct 05 13:39:46 +0000 2015,1,2,Recieve your Azure alerts in Slack and Hipchat http://t.co/k0f2GsyQvq
+63,651017701624782848,Mon Oct 05 12:54:50 +0000 2015,4,1,New @Azure blog Azure Redis Cache: Public preview of premium tier http://t.co/aSSBkv2pca
+64,649941098090098688,Fri Oct 02 13:36:47 +0000 2015,4,2,What is Cloud Monitoring Software? http://t.co/ZyQvwg627m
+65,649930782744649728,Fri Oct 02 12:55:48 +0000 2015,3,1,New @Azure blog Azure Government cloud announces Azure Backup for U.S. public sector http://t.co/PmxJ8SDYXu
+66,649578224838701056,Thu Oct 01 13:34:52 +0000 2015,2,2,What is Azure Storage Monitoring? http://t.co/opz6VS0NP4
+67,649568154629357568,Thu Oct 01 12:54:51 +0000 2015,8,5,New @Azure blog View and analyze Azure Audit Logs in Power BI and more http://t.co/JA6upvgZEF
+68,649219618825994240,Wed Sep 30 13:49:53 +0000 2015,2,0,CloudMonix launches support for monitoring Azure hosted Linux Virtual Machines http://t.co/00r4v1vubM
+69,649205775127191552,Wed Sep 30 12:54:53 +0000 2015,1,2,New @Azure blog AzureCon 2015: Azure Storage Announcements http://t.co/oe4b0sIMep
+70,648856476560322560,Tue Sep 29 13:46:53 +0000 2015,4,1,What is Cloud Monitoring as a Service? http://t.co/Ko9KJoGSFY
+71,648843399106326528,Tue Sep 29 12:54:55 +0000 2015,3,2,New @Azure blog Using Azure Automation to take action on Azure Alerts http://t.co/TEMgAjvTUh
+72,648570325337247744,Mon Sep 28 18:49:50 +0000 2015,0,0,"@BootstrappedWK hey guys, love your show, listen to it all the time. Happy to share what works with selling to IT pros for Sysdoc. DM me"
+73,648562555313606656,Mon Sep 28 18:18:57 +0000 2015,4,7,What is Azure Visual Studio Online? http://t.co/IzOSXkb280
+74,648545694794522624,Mon Sep 28 17:11:57 +0000 2015,5,4,New @Azure blog Try Hadoop on Azure HDInsight – No credit card needed http://t.co/icIXAk53IG
+75,648533113673531392,Mon Sep 28 16:21:58 +0000 2015,2,4,What is Azure Content Delivery Network (Azure CDN)? http://t.co/6s2Iw9JQSY
+76,648515494543278080,Mon Sep 28 15:11:57 +0000 2015,2,0,New @Azure blog Announcing the AzureCon Challenge http://t.co/d2ICH36kpG
+77,648501405712576512,Mon Sep 28 14:15:58 +0000 2015,4,4,What is Azure Storage Queue? http://t.co/5LH4yQqbiY
+78,648481033520816129,Mon Sep 28 12:55:01 +0000 2015,2,2,New @Azure blog Dev-Test Starts with IT: How to resource VMs for your dev-test environment http://t.co/7G0E00KGaX
+79,647409975145439232,Fri Sep 25 13:59:01 +0000 2015,5,4,What is Azure Automation Management? http://t.co/j6Zj2Ngnj2
+80,647393908654231553,Fri Sep 25 12:55:10 +0000 2015,2,4,New @Azure blog Building a better experience for Azure and DataStax customers http://t.co/iNiTf9IOCI
+81,647047339287408640,Thu Sep 24 13:58:01 +0000 2015,5,2,What is Azure Virtual Network? http://t.co/BLqHXkIqkh
+82,647031492636463104,Thu Sep 24 12:55:03 +0000 2015,6,4,New @Azure blog Introducing Azure Storage Data Movement Library Preview http://t.co/cVrxVzmaac
+83,646682473657696257,Wed Sep 23 13:48:11 +0000 2015,3,3,What is Windows Server Monitoring? http://t.co/3gT7l4hTDh
+84,646669111787933696,Wed Sep 23 12:55:05 +0000 2015,3,1,New @Azure blog Azure Mobile Apps September 2015 Update http://t.co/wGt0fLdnS7
+85,646492676330655744,Wed Sep 23 01:13:59 +0000 2015,1,1,@LeeABrian yes?
+86,646321321027235840,Tue Sep 22 13:53:05 +0000 2015,6,5,What is Azure Hypervisor? http://t.co/6Uup4Q0HyC
+87,646306729416859649,Tue Sep 22 12:55:06 +0000 2015,3,3,New @Azure blog September update: Azure Preview Portal improvements http://t.co/GHFJhb9rmc
+88,646008769898508288,Mon Sep 21 17:11:07 +0000 2015,4,7,What is Azure ExpressRoute? http://t.co/I5VcxifZt2
+89,646002485371518977,Mon Sep 21 16:46:09 +0000 2015,3,3,New @Azure blog AzureCon keynote lineup http://t.co/oI9WIngv4V
+90,645994932012978176,Mon Sep 21 16:16:08 +0000 2015,5,3,What is Cloud Monitoring? http://t.co/MkKgWJrfs4
+91,645976323677138946,Mon Sep 21 15:02:11 +0000 2015,6,7,New @Azure blog Preview: Azure AD authentication http://t.co/hzc581kP7k
+92,645957938625007617,Mon Sep 21 13:49:08 +0000 2015,2,2,What is Azure Batch Service? http://t.co/CcsxHOFZOB
+93,645944368457752576,Mon Sep 21 12:55:13 +0000 2015,3,4,New @Azure blog Switch Abstraction Interface (SAI) officially accepted by the Open Compute Project (OCP) http://t.co/2pdcVhDtAW
+94,644874319143809024,Fri Sep 18 14:03:13 +0000 2015,2,2,What is Azure StorSimple? http://t.co/5G6A4YyLhP
+95,644857211055943680,Fri Sep 18 12:55:14 +0000 2015,7,6,New @Azure blog Microsoft showcases the Azure Cloud Switch (ACS) http://t.co/TkvgmOCt2y
+96,644505398024773636,Thu Sep 17 13:37:15 +0000 2015,2,3,What is Azure Status Dashboard? http://t.co/ZWjLbLNt4I
+97,644494831813816320,Thu Sep 17 12:55:16 +0000 2015,1,1,New @Azure blog Continuing the Data Protection Journey from London to AzureCon http://t.co/OjRP6Vex4a
+98,644139999131119618,Wed Sep 16 13:25:17 +0000 2015,6,5,What is Azure Service Bus Queue? http://t.co/y49DOY2Zok
+99,644132446699700224,Wed Sep 16 12:55:17 +0000 2015,3,2,New @Azure blog Azure Automation-Hybrid Runbook Worker FAQs http://t.co/shIT6gUWAC
+100,643780147804545024,Tue Sep 15 13:35:22 +0000 2015,4,3,What is Azure Networking? http://t.co/EsWE6vDUpi
+101,643770068950618113,Tue Sep 15 12:55:19 +0000 2015,3,3,New @Azure blog Source Control Integration in Azure Automation http://t.co/6oHBBrEQkr
+102,643488734109925376,Mon Sep 14 18:17:24 +0000 2015,2,3,Integrate your Azure alerts with Zendesk or Freshdesk http://t.co/nY1MKXwQE3
+103,643470619401695232,Mon Sep 14 17:05:25 +0000 2015,1,3,New @Azure blog Azure Media Services announces new services and partnerships at IBC 2015 http://t.co/xgTJMPUY4R
+104,643451474308145152,Mon Sep 14 15:49:20 +0000 2015,1,1,What is Azure Service Bus Monitoring? http://t.co/OQoiV1an5M
+105,643436878788734977,Mon Sep 14 14:51:21 +0000 2015,0,3,New @Azure blog Announcing support for Apple ProRes videos in Azure Media Services http://t.co/RFJnnuSlJz
+106,643428160307134464,Mon Sep 14 14:16:42 +0000 2015,2,4,What is Azure Visual Studio Application Insights? http://t.co/bIMnu79Gls
+107,643407706150170624,Mon Sep 14 12:55:25 +0000 2015,3,1,New @Azure blog Azure Backup - Announcing general availability of backup for Azure IaaS VMs http://t.co/6ynSqpYzRL
+108,642334894136389632,Fri Sep 11 13:52:27 +0000 2015,3,1,What is Azure Traffic Manager? http://t.co/FJ3nulr8wh
+109,642320543501389824,Fri Sep 11 12:55:25 +0000 2015,1,1,New @Azure blog Azure Media Services adds Google Widevine packaging for delivering multi-DRM stream http://t.co/vfubBZqZZr
+110,641979073200267264,Thu Sep 10 14:18:33 +0000 2015,3,2,What are Azure BizTalk Services? http://t.co/4vRTH44oYA
+111,641958162849894400,Thu Sep 10 12:55:27 +0000 2015,4,0,New @Azure blog Announcing Node.js support for Azure Mobile Apps http://t.co/hvDOWfAz79
+112,641740993373577216,Wed Sep 09 22:32:30 +0000 2015,4,4,New @Azure blog Announcing Node.js support for Azure Mobile Apps http://t.co/hvDOWfSavJ
+113,641650141326385153,Wed Sep 09 16:31:29 +0000 2015,9,3,New @Azure blog Elastic database client library now open sourced http://t.co/1wLQo8wViK
+114,636462069580189696,Wed Aug 26 08:55:56 +0000 2015,13,7,New @Azure blog Azure Media Services Java SDK adds support for Content Protection feature http://t.co/RA1YylAZbY
+115,636370465259397120,Wed Aug 26 02:51:56 +0000 2015,8,4,New @Azure blog Azure Premium Storage expanding in more regions http://t.co/ASTc60A4FH
+116,636279626512355329,Tue Aug 25 20:50:59 +0000 2015,11,6,New @Azure blog Get the DocumentDB SQL query cheat sheet http://t.co/ZavQisp5ga
+117,636222273205071872,Tue Aug 25 17:03:05 +0000 2015,11,7,"Can any @Azure or @dotnet user group organizers take more sponsors?  Please DM me, would love to work together w/ http://t.co/WNtVWmGbaF"
+118,636006323067428865,Tue Aug 25 02:44:58 +0000 2015,6,5,"New @Azure blog New Azure IT Workload: Web-based, line of business application http://t.co/6T2CmniNl2"
+119,635915477110366208,Mon Aug 24 20:43:59 +0000 2015,3,3,New @Azure blog Azure Backup update – New features in IaaS VM backup support http://t.co/swtZMm7rAx
+120,635907642012114944,Mon Aug 24 20:12:51 +0000 2015,12,9,This is what degraded @Azure storage response times look in @CloudMonix #oops http://t.co/WNtVWmoAj7 #minoroutage http://t.co/mOC3eaSn5S
+121,635791431358132224,Mon Aug 24 12:31:04 +0000 2015,1,0,Recieve your Azure alerts in Slack and Hipchat http://t.co/k0f2GsyQvq
+122,635783643701624832,Mon Aug 24 12:00:07 +0000 2015,2,2,Integrate your @Azure alerts with @Zendesk or @Freshdesk - http://t.co/4JyuU42WRI
+123,635609459738472448,Mon Aug 24 00:27:58 +0000 2015,7,3,Integrate your Azure alerts with Zendesk or Freshdesk http://t.co/nY1MKXwQE3
+124,635096596586319872,Sat Aug 22 14:30:02 +0000 2015,8,3,New @Azure blog Microsoft and Mesosphere partner to bring Mesos container orchestration across Windows and Linux w http://t.co/SzHwdcQlL7
+125,635005748313915392,Sat Aug 22 08:29:02 +0000 2015,6,2,New @Azure blog Azure DocumentDB: JavaScript as Modern Day T-SQL http://t.co/KvkKVqhEd0
+126,634914155108147200,Sat Aug 22 02:25:05 +0000 2015,7,2,"New @Azure blog Azure Site Recovery is now available in Central US, North Central US, South Central US, East US2 http://t.co/uuTJHJQKhG"
+127,634823334149136384,Fri Aug 21 20:24:11 +0000 2015,7,3,New @Azure blog Cloud Foundry on Azure Preview 2 Now Available http://t.co/jzmWlIJVKg
+128,634732473226797057,Fri Aug 21 14:23:09 +0000 2015,2,0,New @Azure blog Meet AzureCon http://t.co/oqeudEEy0D
+129,634641856492605440,Fri Aug 21 08:23:04 +0000 2015,3,2,New @Azure blog Why Your Private Cloud is Failing – Join Me at OpenStack Silicon Valley http://t.co/XAio3yTlUW
+130,634549756178604032,Fri Aug 21 02:17:05 +0000 2015,8,3,New @Azure blog Row-Level Security for SQL Database is Generally Available http://t.co/1g2vSUQh6U
+131,634459174236237824,Thu Aug 20 20:17:09 +0000 2015,1,1,New @Azure blog Azure Mobile Apps August 2015 update http://t.co/zIw2LG3fTE
+132,634337362793865216,Thu Aug 20 12:13:07 +0000 2015,2,1,What is Azure Storage Queue? http://t.co/5LH4yQqbiY
+133,634155680333631488,Thu Aug 20 00:11:10 +0000 2015,6,6,What is Azure Content Delivery Network (Azure CDN)? http://t.co/6s2Iwa1rKw
+134,634094779089973248,Wed Aug 19 20:09:10 +0000 2015,0,1,New @Azure blog Microsoft Showcases Software Defined Networking Innovation at SIGCOMM v2 http://t.co/7aVfM4egr6
+135,633973999333208064,Wed Aug 19 12:09:14 +0000 2015,1,3,What is Azure Networking? http://t.co/EsWE6vDUpi
+136,633821216915202048,Wed Aug 19 02:02:08 +0000 2015,3,1,New @Azure blog Azure Government Achieves Significant Compliance Milestones http://t.co/XKrrb7FXc2
+137,633792276678995968,Wed Aug 19 00:07:08 +0000 2015,1,1,What is Azure StorSimple? http://t.co/5G6A4YyLhP
+138,633730631881621504,Tue Aug 18 20:02:11 +0000 2015,3,2,New @Azure blog Announcing Backup of Windows 10 machines using Azure Backup http://t.co/hNYpylV3Dj
+139,633610332737511424,Tue Aug 18 12:04:09 +0000 2015,3,0,What is Azure Virtual Network? http://t.co/BLqHXkIqkh
+140,633457113197596672,Tue Aug 18 01:55:19 +0000 2015,3,5,New @Azure blog Dependency call stack and Application Insights SDK labs http://t.co/AH5TmdxlbV
+141,633428643528708096,Tue Aug 18 00:02:11 +0000 2015,2,1,What is Azure Service Bus Queue? http://t.co/y49DOYkAMU
+142,633366233249906688,Mon Aug 17 19:54:12 +0000 2015,6,5,"New @Azure blog Containers: Docker, Windows and Trends http://t.co/150273sCdJ"
+143,633246972896346112,Mon Aug 17 12:00:18 +0000 2015,4,4,Publish @Azure alerts to @Hipchat and @Slack in a few minutes - http://t.co/crlfZfWLBd
+144,632273821110796288,Fri Aug 14 19:33:20 +0000 2015,4,5,New @Azure blog Azure Media Player update with multi-audio stream support http://t.co/E6bJSdE7YN
+145,632182954962366465,Fri Aug 14 13:32:16 +0000 2015,3,1,New @Azure blog Azure Files Preview Update http://t.co/YMmRpeE3XY
+146,632092377319145472,Fri Aug 14 07:32:21 +0000 2015,2,1,"New @Azure blog New CDN features – country filtering, compression and analytics http://t.co/PNKJa5fVgy"
+147,632000526847115264,Fri Aug 14 01:27:22 +0000 2015,5,2,New @Azure blog Azure DocumentDB bids fond farewell to Self-Links http://t.co/nrl9kUpabJ
+148,631909672224694272,Thu Aug 13 19:26:20 +0000 2015,3,3,New @Azure blog Announcing Geospatial support in Azure DocumentDB! http://t.co/aoFGGGi01u
+149,631818828125745152,Thu Aug 13 13:25:21 +0000 2015,1,3,New @Azure blog How Well Do You Use Cloud Economics In Your Cloud Strategy? http://t.co/hWVsk35Lrs
+150,631727971116552192,Thu Aug 13 07:24:19 +0000 2015,2,2,New @Azure blog Azure Data Factory is generally available http://t.co/ap37o7mZ8g
+151,631636370793046016,Thu Aug 13 01:20:20 +0000 2015,3,1,New @Azure blog Update: Azure Media Indexer v1.3.2 http://t.co/CSgbHDjdeY
+152,631609692817608704,Wed Aug 12 23:34:20 +0000 2015,0,0,CloudMonix launches support for monitoring Azure hosted Linux Virtual Machines http://t.co/00r4v1vubM
+153,631592425941807104,Wed Aug 12 22:25:43 +0000 2015,0,0,Monitor/Automate Azure Linux VMs without an agent and for FREE with CloudMonix @ http://t.co/KosBXosJJT
+154,631545592569856000,Wed Aug 12 19:19:37 +0000 2015,1,1,"New @Azure blog Azure Backup enables backup of large volumes, VMs, databases and more http://t.co/Un4OTiuEey"
+155,631454675225714688,Wed Aug 12 13:18:21 +0000 2015,1,1,New @Azure blog Update on .NET Framework 4.6 and Azure http://t.co/5AKRmtWHcv
+156,631364077177192448,Wed Aug 12 07:18:20 +0000 2015,1,1,New @Azure blog Azure HDInsight now available in the Azure Preview Portal http://t.co/2RUlRb7dss
+157,631272240928178176,Wed Aug 12 01:13:25 +0000 2015,0,0,New @Azure blog PowerShell module for the OMS Search API http://t.co/WRw6m7uheC
+158,631181637276073984,Tue Aug 11 19:13:23 +0000 2015,5,0,New @Azure blog Managing multiple Azure SQL Databases just got easier with Elastic Database Jobs http://t.co/B2P1OwNh4L
+159,630908337064906752,Tue Aug 11 01:07:23 +0000 2015,2,3,New @Azure blog Using App Service Web Apps continuous deployment with GitHub organizations http://t.co/B3wYBOxNAl
+160,630817745207230464,Mon Aug 10 19:07:25 +0000 2015,7,3,"New @Azure blog Azure Storage Release – Append Blob, New Azure File Service Features and Client-Side Encryption  http://t.co/4dojbKiAy3"
+161,629635226956918784,Fri Aug 07 12:48:30 +0000 2015,3,5,New @Azure blog A key IT decision: Which apps to move to the cloud http://t.co/4i0rBbW26j
+162,629544377350782976,Fri Aug 07 06:47:30 +0000 2015,2,5,New @Azure blog Azure and Scalr come together to offer top-notch Cloud Management on Azure http://t.co/hEzNZi4MNK
+163,629453027133521920,Fri Aug 07 00:44:30 +0000 2015,2,2,New @Azure blog Transitioning Application Insights from the VSO Portal to the Azure Portal http://t.co/uP3cBYYPKw
+164,629362193344167936,Thu Aug 06 18:43:34 +0000 2015,2,1,New @Azure blog Update your DocumentDB indexing policies online http://t.co/eAnKowh9Vh
+165,628998544893046784,Wed Aug 05 18:38:33 +0000 2015,5,4,New @Azure blog Scheduling Azure Automation Runbooks with Azure Scheduler http://t.co/TGFcfXx9pw
+166,628621149941817344,Tue Aug 04 17:38:56 +0000 2015,0,0,Find out about latest new features in CloudMonix - http://t.co/jsOJtTEzas
+167,628452962587664384,Tue Aug 04 06:30:37 +0000 2015,3,5,New @Azure blog Securing your pre-production environment in the cloud http://t.co/hLlQ3EiFwD
+168,628361350830534656,Tue Aug 04 00:26:35 +0000 2015,1,0,New @Azure blog Remote Profiling support in Azure App Service http://t.co/OcXCkueq7S
+169,628270761183170560,Mon Aug 03 18:26:36 +0000 2015,1,0,New @Azure blog Azure Data Factory: Live in North Europe http://t.co/NQ3wAHheGg
+170,626905041291616256,Thu Jul 30 23:59:43 +0000 2015,3,3,New @Azure blog July update for Web apps and App Service environments in the Azure preview portal http://t.co/2piFbL9BO1
+171,626814468169826304,Thu Jul 30 17:59:49 +0000 2015,3,0,"New @Azure blog Tagging on Compute, Network and Storage Resources http://t.co/WGAoy0NFAy"
+172,626451315045048320,Wed Jul 29 17:56:47 +0000 2015,4,3,"New @Azure blog Enterprise Grade Disaster Recovery with Azure Site Recovery, EMC VMAX, VMAX3 and SRDF: Now General http://t.co/KKf6HLdp3L"
+173,626423687068004353,Wed Jul 29 16:07:00 +0000 2015,0,0,Sent newsletter to 1000s of ppl with awesome new CloudMonix feature and landing page went down! All good now though http://t.co/uw2kA4dZbC
+174,626365304654802944,Wed Jul 29 12:15:00 +0000 2015,5,7,Finally! Monitor performance and syslogs of @Azure Linux VMs! http://t.co/uw2kA4dZbC #Azure #Linux #cloudmonitoring #excited
+175,626269637903261696,Wed Jul 29 05:54:51 +0000 2015,1,0,New @Azure blog Create and Edit DocumentDB Server Side Scripts in the Azure Preview Portal http://t.co/k94FCS5lIe
+176,626178774715994112,Tue Jul 28 23:53:48 +0000 2015,4,1,New @Azure blog Hybrid Management in Azure Automation http://t.co/bgYhxvvzB8
+177,626158136781590528,Tue Jul 28 22:31:47 +0000 2015,0,4,How to Setup FTP on Azure Virtual Machine? http://t.co/vYGKZONV1i
+178,625976697196781568,Tue Jul 28 10:30:49 +0000 2015,0,1,What are Azure BizTalk Services? http://t.co/4vRTH44oYA
+179,625795503649878016,Mon Jul 27 22:30:49 +0000 2015,3,4,What is Azure Stream Analytics? http://t.co/uAWf8ulfsu
+180,625613867213815808,Mon Jul 27 10:29:03 +0000 2015,3,0,What is Azure Virtual Machines Monitoring? http://t.co/vvMwzh9lPd
+181,625431647605903360,Sun Jul 26 22:24:59 +0000 2015,1,2,What is Azure Active Directory? http://t.co/8igIJiAp3W
+182,625249915086729216,Sun Jul 26 10:22:50 +0000 2015,0,2,What is Azure Rights Management? http://t.co/a0oiAQQac0
+183,625067720455884800,Sat Jul 25 22:18:52 +0000 2015,4,2,What is Azure Access Control Service? http://t.co/YsI0T16sLd
+184,624886023563124736,Sat Jul 25 10:16:52 +0000 2015,4,2,How to check if code is running on Azure Web Apps? http://t.co/Ag2AmI2zil
+185,624703600753811456,Fri Jul 24 22:11:59 +0000 2015,1,3,What is Azure Web Apps Management? http://t.co/uVRTjouNzd
+186,624522151052320768,Fri Jul 24 10:10:58 +0000 2015,3,3,What is Azure Cloud Services Management? http://t.co/w1cSwdoYQL
+187,624450163331997696,Fri Jul 24 05:24:55 +0000 2015,2,1,"New @Azure blog Azure SQL Database Web and Business edition retirement September 12th, 2015 http://t.co/kY9a3Cfx5l"
+188,624357810848034816,Thu Jul 23 23:17:56 +0000 2015,1,3,New @Azure blog Can’t recover VMs in Azure with volumes greater than 1TB? Use Storage Spaces! http://t.co/9VGf4NXtNC
+189,624266966891692032,Thu Jul 23 17:16:57 +0000 2015,2,2,New @Azure blog Build a Mobile Data Sync Experience for Dynamics CRM with Azure App Service http://t.co/5twPoE3juu
+190,624176126265417728,Thu Jul 23 11:15:59 +0000 2015,1,2,"New @Azure blog Azure Search – New regions, samples and datasets http://t.co/zOl1c6ryej"
+191,624085530557423616,Thu Jul 23 05:16:00 +0000 2015,0,1,New @Azure blog Announcing general availability of premium encoding http://t.co/9mEutZk91N
+192,623992927044431872,Wed Jul 22 23:08:01 +0000 2015,2,2,New @Azure blog Azure Data Factory Visual Studio Extension for authoring pipelines http://t.co/e6rql2zjjz
+193,623934282176823296,Wed Jul 22 19:14:59 +0000 2015,6,4,I liked a @YouTube video from @ipapirov http://t.co/ekDsMeaLZz CloudMonix Introduction
+194,623753354498416640,Wed Jul 22 07:16:03 +0000 2015,20,17,Super excited! 1st #Azure aware Linux VM monitoring. Takes ~30-seconds to setup. Currently in QA for @cloudmonix http://t.co/j4JrWyaVVk
+195,623720622653353984,Wed Jul 22 05:05:59 +0000 2015,5,5,New @Azure blog Every developer can now build their career with Azure Vidyapeeth http://t.co/kXof2n3Vu7
+196,623628020541222913,Tue Jul 21 22:58:01 +0000 2015,2,0,New @Azure blog Leveraging the OMS Search API in an Azure Automation Runbook http://t.co/ejR7jMRs3N
+197,623263119951962114,Mon Jul 20 22:48:02 +0000 2015,4,3,New @Azure blog Application Insights Tools in Visual Studio 2015 RTM http://t.co/olmrlBEkWQ
+198,623172277958483968,Mon Jul 20 16:47:03 +0000 2015,3,2,New @Azure blog Announcing the Azure SDK 2.7 for .NET http://t.co/h3iPY8AQx2
+199,622990579350261761,Mon Jul 20 04:45:03 +0000 2015,6,2,New @Azure blog Availability of Linux RDMA on Microsoft Azure http://t.co/ABicjYWs8r

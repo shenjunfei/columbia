@@ -1,0 +1,286 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669269457362165760,Tue Nov 24 21:40:47 +0000 2015,4,5,"Lovely example of animating the #SVG viewbox on a complex graphic.
+https://t.co/dUP8rGwSMb  https://t.co/tVHLjRoYon"
+1,669268111426744322,Tue Nov 24 21:35:26 +0000 2015,0,1,"@anatudor @erikdahlstrom It's one of the new stroke proposals that are on hold for now, but are planned eventually:
+https://t.co/lduXCpkfEo"
+2,669245256198696960,Tue Nov 24 20:04:37 +0000 2015,0,0,"@Mamboleoo @anatudor Yep. Has no effect in browsers, so safe to dump. Replaced with mix-blend-modes and eventually by background-filter."
+3,669204883434795008,Tue Nov 24 17:24:12 +0000 2015,0,1,"@ChrisGannon If it's a browser painting problem, could try `will-change: transform`. If it's GSAP initialization, maybe an initial delay?"
+4,669202991870816257,Tue Nov 24 17:16:41 +0000 2015,0,0,"@SaraSoueidan …and when SVG isn't possible as a substitute for GIF, you should probably be using a &lt;video&gt; instead!"
+5,669200855426572289,Tue Nov 24 17:08:11 +0000 2015,0,1,"@MikeMJHarris It's on my radar as something I would like to get into the SVG spec, but it won't be in SVG 2 for next year."
+6,669191040419647488,Tue Nov 24 16:29:11 +0000 2015,0,0,"@n3wjack Thanks! (&amp; I'm good, it seems) That's a really smart way of building an easy test &amp; proof of why it's a problem, all in one."
+7,669190471785324544,Tue Nov 24 16:26:56 +0000 2015,0,1,@MikeMJHarris It has been mentioned. There's a proposed canvas text-to-path function &amp; a font API within Houdini project. But nothing yet.
+8,668994156765777922,Tue Nov 24 03:26:50 +0000 2015,0,0,"@stevefaulkner Umm, not sure about wording of the tweet/heading (hidden may affect name-from-contents), but the section is good information."
+9,668992524002963456,Tue Nov 24 03:20:21 +0000 2015,0,0,"Looks like my older Dell laptop is OK.
+Use certmgr.msc from Start menu to view certificates, look for eDellRoot. https://t.co/FWsacXxDdV"
+10,668957788026986496,Tue Nov 24 01:02:19 +0000 2015,0,0,"Dear #lazyweb,
+Is there a quick how-to available yet on how to find if you're affected by the Dell security certificate problem &amp; fix if so?"
+11,668954133395730432,Tue Nov 24 00:47:48 +0000 2015,0,0,"@codepo8 Thank you, I needed that."
+12,668943638211067904,Tue Nov 24 00:06:06 +0000 2015,0,2,"@vlh @rachsmithtweets
+So… yeah, if you weren't previously following @BaliBaloPG on CodePen, do that! So many great animations in CSS/canvas."
+13,668940967756435458,Mon Nov 23 23:55:29 +0000 2015,0,0,"@brnnbrn Ugh, indeed. Also makes me wonder why the copywriter gets tasked as substitute receptionist. My guess: last one was a young woman."
+14,668939945336135680,Mon Nov 23 23:51:25 +0000 2015,0,0,"@rachelnabors Also, pin hole camera kits? Haven't seen that before!"
+15,668939666939228160,Mon Nov 23 23:50:19 +0000 2015,0,0,@rachelnabors +1 to making friends with people who have different but complementary skill sets!
+16,668939088871821312,Mon Nov 23 23:48:01 +0000 2015,0,0,"@rachsmithtweets @vlh @beesandbombs Have you seen @BaliBaloPG's CodePen version?
+https://t.co/qHzGVN0Cpm"
+17,668850526474235905,Mon Nov 23 17:56:06 +0000 2015,0,0,"@Mamboleoo Mais oui! J'suis canadienne…
+Mais les petits nuances d'usage sont desfois hors de ma comprehension, avec fr-CA même que fr-BE!"
+18,668846520301584384,Mon Nov 23 17:40:11 +0000 2015,0,0,@Mamboleoo @benjamincrozat J'ai toujours pensé que belle-mère était plus gentile phrase que mother-in-law—mais non si vous l'associé à ça!
+19,668842249896095744,Mon Nov 23 17:23:13 +0000 2015,0,0,"@brucel But, click fees are an easier to measure metric than people leaving in disgust &amp; assuming your magazine just re-publishes that crap."
+20,668841908685266946,Mon Nov 23 17:21:52 +0000 2015,0,1,@brucel I can't understand why some otherwise-respectable publications allow that crap on their pages. The click fees _can't_ be worth it.
+21,668838599115214848,Mon Nov 23 17:08:43 +0000 2015,0,2,@sarah_edo I now understand the impetus between some of your crazy mechanical interactives. Turn a crank to build a gorgeous fantasy scene!
+22,668835959950041089,Mon Nov 23 16:58:13 +0000 2015,0,0,"@steltenpower The goal is to get a stable draft in February, but there will probably be some clean-up after that.
+@SaraSoueidan @Mamboleoo"
+23,668835589542711298,Mon Nov 23 16:56:45 +0000 2015,0,0,"@Mamboleoo @SaraSoueidan Make noise towards browser implementers!
+Or, if you're really keen &amp; know C++, dive into Firefox source code!"
+24,668834383369932800,Mon Nov 23 16:51:57 +0000 2015,1,2,"@SaraSoueidan @Mamboleoo To clarify: SVG 2 as a whole will be finalized 2016, but height/width/x/y as CSS are for sure, waiting on browsers."
+25,668833767390220290,Mon Nov 23 16:49:31 +0000 2015,0,0,"@SaraSoueidan @Mamboleoo Ooops, yes, sorry: wasn't looking closely. Yes, height of a &lt;rect&gt; as a CSS property is new, only in Chrome so far."
+26,668833078463172608,Mon Nov 23 16:46:46 +0000 2015,0,0,@SaraSoueidan @Mamboleoo This isn't really an SVG2-specific thing. More just a bug. height of &lt;svg&gt; in HTML should follow normal CSS layout.
+27,668568047381323776,Sun Nov 22 23:13:38 +0000 2015,1,4,"I don't often work with bitmapped graphics, but when I do, I always use GIMP.
+
+Love the classy new look, @patdavid! https://t.co/D9ZNXA5QPR"
+28,668561227623366657,Sun Nov 22 22:46:32 +0000 2015,0,0,@Mamboleoo So glad to see you're weathering the scares with sense of humour intact!
+29,668557292397314048,Sun Nov 22 22:30:54 +0000 2015,0,0,"@Tweetsfromyow @kittythefool I don't think any song on the subject could match Eric Bogle's ""Nobody's Moggy"":
+https://t.co/8r1lULM676"
+30,668493820024123392,Sun Nov 22 18:18:41 +0000 2015,6,0,RT @codepo8: Breaking news leads to fact shards.
+31,668487230923476992,Sun Nov 22 17:52:30 +0000 2015,0,0,@sten_muchow @snookca @sarah_edo I love that there's a global invasion of giant spiders weaving a web of art appreciation around the Earth.
+32,668483946758299648,Sun Nov 22 17:39:27 +0000 2015,0,0,"@sarah_edo @svgeesus In addition, I'd like to see a calligraphy pen stroke, defined by the pen shape/angle rather than by padding the path."
+33,668483335363006464,Sun Nov 22 17:37:01 +0000 2015,0,1,"@sarah_edo @svgeesus Straightforward authoring, but still lots of Qs on how to smooth curves, deal with corners &amp; efficiently calculate it."
+34,668183425971527680,Sat Nov 21 21:45:17 +0000 2015,0,0,"@rem Ugh, yes. When this happened to me, I was so surprised that this seemed to be the normal way Apple batteries are expected to fail!"
+35,668171840003710976,Sat Nov 21 20:59:15 +0000 2015,0,1,"@ThatEmil Thanks for testing! Might fix the ""2 objects"" by also putting role=presentation on the &lt;text&gt;.
+PS The SVG-AAM should help w/ this!"
+36,668169959843958784,Sat Nov 21 20:51:47 +0000 2015,0,1,"@tigt_ @sarah_edo @svgeesus At one point, there was a (rough) draft spec, got taken out, may make it to SVG Strokes:
+https://t.co/7vPWGTurQI"
+37,668112112267448320,Sat Nov 21 17:01:55 +0000 2015,0,1,"To all politicians of today,
+Before you speak, ask: will future politicians debate the ethics of your infanticide? https://t.co/gLThe9G7Ig"
+38,668110426438311936,Sat Nov 21 16:55:13 +0000 2015,0,0,"@jsutt +1
+I'm not fond of #a11y (insider-y unpronounceable acronym doesn't seem very accessible to me) but it's the standard, stick with it!"
+39,668103861803069441,Sat Nov 21 16:29:08 +0000 2015,0,0,@rachelnabors @PWDO It's awesome that you were able to (and willing to) arrange this workshop last minute when your life turned upside down!
+40,668101315919290368,Sat Nov 21 16:19:01 +0000 2015,0,1,"@ThatEmil Oooh, that's a new one for me. xml:preserve support is pretty horrible in general, but that's just wacky."
+41,668099983959281664,Sat Nov 21 16:13:43 +0000 2015,1,2,"I really love how many former drunken party girls are now getting into web development—judging from my Twitter new followers' list, anyway!"
+42,668097243417825280,Sat Nov 21 16:02:50 +0000 2015,1,0,"@ThatEmil Should be, anyway—haven't tested properly! The presentation role says ignore markup &amp;pass through content, like for table layouts."
+43,668096858426900480,Sat Nov 21 16:01:18 +0000 2015,1,2,"@ThatEmil &lt;h1&gt;&lt;svg role=""presentation""&gt;&lt;text&gt;Hello 'n stuff&lt;/text&gt;&lt;/svg&gt;&lt;/h1&gt; is enough, unless accessible label differs from text content."
+44,668093735717240833,Sat Nov 21 15:48:53 +0000 2015,0,0,"@AmeliasBrain Don't want to read an entire feature article? @omar_aok tweeted his own TL;DR listing of top 10 facts:
+https://t.co/ByI6w0k75Z"
+45,668092904402001920,Sat Nov 21 15:45:35 +0000 2015,0,0,"Fascinating history of the sweet&amp;spicy Alberta donair, and why it differs from the tzatziki tang I knew in Ottawa. https://t.co/S2TkkACJLH"
+46,667806346901786625,Fri Nov 20 20:46:55 +0000 2015,0,0,"@meyerweb If you haven't already written it, a nice meta wrap-up could discuss the impact of writing on personal topics for a tech audience."
+47,667740067813830656,Fri Nov 20 16:23:32 +0000 2015,0,1,"@jake_albaugh I wonder if screen readers say it that way? They pronounce URL as ""urrl"". An ""appy"" API makes just as much phonetic sense."
+48,667547671184474112,Fri Nov 20 03:39:01 +0000 2015,0,0,@jake_albaugh I'm clearly not up for twitter trolling with you. I'd be totally down for mocking you over a beer—if you weren't in Chicago.
+49,667545825208332296,Fri Nov 20 03:31:41 +0000 2015,0,0,@jake_albaugh That would not be awesome.
+50,667545498644045824,Fri Nov 20 03:30:23 +0000 2015,0,0,@jake_albaugh Maybe. Depends on whether your friend is a trolling grammar pedant like you…
+51,667544281217921024,Fri Nov 20 03:25:33 +0000 2015,0,0,"@jake_albaugh Definitely an ""up for it"" situation, then. ""I am totally down"" is when your friend suggests something unexpected but awesome."
+52,667543571973672960,Fri Nov 20 03:22:44 +0000 2015,0,1,"@jake_albaugh
+""up for it""=I have energy/stamina/mild interest
+""down for it"" (or just ""down"")=I am committed/enthusiastic
+
+P.S. What's ""it""?"
+53,667541585396133890,Fri Nov 20 03:14:50 +0000 2015,0,0,"@_hmig Oh, I understand—no worries! I try so hard not to make promises, but I always end up feeling guilty for the things I said I'd do…"
+54,667482305078792193,Thu Nov 19 23:19:17 +0000 2015,0,0,"@GregorAdams Ah, hadn't looked at the markup, didn't realize there was nested content/flattening issues. @tmrDevelops @CodePen"
+55,667481302979842049,Thu Nov 19 23:15:18 +0000 2015,0,1,@tmrDevelops @GregorAdams @CodePen Woah! Love the 3D blocks &amp; that the info is still all usable. (…maybe an overflow:scroll on descriptions)
+56,667480085474078720,Thu Nov 19 23:10:28 +0000 2015,30,0,RT @triketora: Why Marissa Mayer is too hot to be Yahoo’s CEO: The case against hiring women.  https://t.co/uT2qHrEhve
+57,667477350477492225,Thu Nov 19 22:59:36 +0000 2015,0,0,"@jeffbigham And yet, right this moment, someone else is using Google search to find and load their web email client."
+58,667476621104844800,Thu Nov 19 22:56:42 +0000 2015,0,0,@kizmarh It would be really nice to at least have CSS max/min functions and ideally a ternary operator equivalent to (variable &gt; x)? a:b;
+59,667475326855806976,Thu Nov 19 22:51:33 +0000 2015,0,1,"@LeaVerou Fair enough. Maybe that's the key to not being a hypocrite: focus on the why behind the best practice, i.e., on clear DRY code."
+60,667474375570931712,Thu Nov 19 22:47:46 +0000 2015,0,0,@LeaVerou One difference is DRY coding. A parameterizable template versus multiple hard-coded onEvent attributes for each button/field/etc.
+61,667455596417814528,Thu Nov 19 21:33:09 +0000 2015,0,0,@AmeliasBrain Found an error myself. All references to non-existent `xml:title` attribute should be to (deprecated) `xlink:title` attribute.
+62,667426509808906242,Thu Nov 19 19:37:34 +0000 2015,0,2,"@anatudor @fabiovenni If that's easier. No blend mode will turn an opaque layer transparent. Compositing modes could, but not in CSS yet."
+63,667423192684826624,Thu Nov 19 19:24:23 +0000 2015,0,1,"@anatudor @fabiovenni Then you need to use border-image: linear-gradient(), not background.
+https://t.co/pKw6C6Rg3G"
+64,667420530568491009,Thu Nov 19 19:13:49 +0000 2015,1,2,"@AmeliasBrain P.P.S., This is only one of many draft ARIA specs &amp; guides that were updated today:
+https://t.co/FnJA51pg0d"
+65,667419397674409986,Thu Nov 19 19:09:19 +0000 2015,0,2,New work (with tutorial!) from the awesome @LegoMushroom. https://t.co/RxCNwCnEDS
+66,667415942524067840,Thu Nov 19 18:55:35 +0000 2015,3,1,"@AmeliasBrain P.S., If the whole spec is somewhat overwhelming, focus on the Editor's Notes, which describe issues we're still unsure of."
+67,667413546871861248,Thu Nov 19 18:46:04 +0000 2015,33,18,"Dear #SVG nerds and #a11y nerds:
+I would love your feedback &amp; examples on a draft spec for how SVG+ARIA should work
+https://t.co/edcTN1MTbX"
+68,667370425618268160,Thu Nov 19 15:54:43 +0000 2015,0,1,"@rachelnabors Cuter than the cockroaches, anyway?
+
+Wonder if they eat the roaches, too?"
+69,667199540039143430,Thu Nov 19 04:35:40 +0000 2015,0,0,"@LeaVerou Especially true if the re-factor doesn't have an immediate, measurable performance impact—only long term dev efficiency impact!"
+70,667198498383781888,Thu Nov 19 04:31:32 +0000 2015,0,0,@svgeesus @tabatkins @LeaVerou @SimonSapin +1 to Unicode-block keywords. Ranges with characters aren't much more intuitive than codepoints.
+71,667159756004397056,Thu Nov 19 01:57:35 +0000 2015,0,0,"When the chicken is so tender you can slice it by poking it with a wooden spatula, you know the stew is ready.
+
+BRB. Netflix and chew."
+72,667144691570184192,Thu Nov 19 00:57:44 +0000 2015,1,1,"@HenriHelvetica @SaraSoueidan SVG are great for file size &amp; resolution, but rendering (particularly filters &amp; animation) can be slow."
+73,667140236040794112,Thu Nov 19 00:40:01 +0000 2015,0,1,"@DavidGogoBlues @talker1 This isn't the track they played on @ckuaradio, but it's fun. If you keep your mind clean.
+https://t.co/SX5rDT4DrY"
+74,667139759890829312,Thu Nov 19 00:38:08 +0000 2015,0,1,@DavidGogoBlues @talker1 Same reaction here. You've ruined the word Gogo for Cdn blues fans. But not in New Orleans: https://t.co/vH3zSmG6Pv
+75,667103405827985409,Wed Nov 18 22:13:40 +0000 2015,0,1,"@MMosley Clearly designed in the land of sandy playgrounds. Maybe try brushing it out w/ a wire pet brush, but it might pull too much fluff."
+76,667078877219549184,Wed Nov 18 20:36:12 +0000 2015,0,0,@jcdsvg The original code had hard-coded line breaks &amp; extra spans for the line-end effect. The trick was to do it on a natural paragraph.
+77,667050004046094336,Wed Nov 18 18:41:28 +0000 2015,0,0,"@AmeliasBrain ALT=Map of US states who've ""surrendered to ISIS by promising not to aid or house victims"" vs those who've told ISIS to F off."
+78,667049535580086272,Wed Nov 18 18:39:37 +0000 2015,1,4,"Sometimes, quality in data visualization is all about clear, to-the-point labels.
+https://t.co/p9vijmkUL3 https://t.co/ZVZZzgnjII"
+79,667048315893227520,Wed Nov 18 18:34:46 +0000 2015,0,1,"@LeaVerou @csswg How would this interact with the idea of an `alt` to complement `content`? Would alt:"""" be enough?
+https://t.co/7XWAnIALbM"
+80,666983914670579712,Wed Nov 18 14:18:51 +0000 2015,0,0,"If you don't know the answer, look at other's responses for an introduction to the box-decoration-break property. https://t.co/uFwlcG3Sv1"
+81,666978223859875842,Wed Nov 18 13:56:15 +0000 2015,0,1,"@swartable Yes, I'm hoping I can separate out the ""don't want to miss a thing"" accounts from the ""interesting, if I have time"" accounts."
+82,666825593615437825,Wed Nov 18 03:49:45 +0000 2015,0,0,"Trying a new Twitter strategy:
+❶Sort everyone I follow into lists
+❷Follow everyone I was stalking via lists
+❸Only use lists to read tweets"
+83,666767950460899329,Wed Nov 18 00:00:41 +0000 2015,2,0,@codepo8 @jacobrossi @cwilso I still love that I can hack/guess a URL. Even the redundant :// punctuation enabled protocol-relative URLs.
+84,666738088278933504,Tue Nov 17 22:02:02 +0000 2015,0,0,"@anatudor This is one reason clip-path: path(…) will be good. But I'd also like a more generic solution. Have an idea, need to write it up."
+85,666710517839470593,Tue Nov 17 20:12:28 +0000 2015,0,1,"@helenvholmes Yes, filters are applied in order. For those two (opacity/blur), the difference will be minimal, for others could be extreme."
+86,666703358066053120,Tue Nov 17 19:44:01 +0000 2015,0,0,"@anatudor By the way, this will get easier! Path syntax in CSS shapes is part of Shapes Level 2, some browser devs already working on it."
+87,666698731086024705,Tue Nov 17 19:25:38 +0000 2015,0,0,"@MateiCopot I'm always uncertain whether to use ""Chromium"" or ""Blink"" when talking about the browser code but not that specific browser."
+88,666697868842049541,Tue Nov 17 19:22:13 +0000 2015,0,0,"@supersole Can I just say that ""Workday is crashing Nightly"" is a fabulous bug report title if you read it as plain English."
+89,666501323404148736,Tue Nov 17 06:21:13 +0000 2015,0,1,"Some people give money to charities at Christmas.
+Other people give money to the electricity company.
+https://t.co/jkiOHO4joR"
+90,666500582216044545,Tue Nov 17 06:18:16 +0000 2015,0,0,"We haven't had any snow yet in Edmonton, but this family is working to make the season bright.
+Very, very bright.
+https://t.co/8BLZMYMVzK"
+91,666427010193866752,Tue Nov 17 01:25:55 +0000 2015,0,0,"@TonyDiteodoro @MonkeyJunkBand So… how long was the debate on which song to drop, once you realized you were 26 seconds over time on side B?"
+92,666403189843980288,Mon Nov 16 23:51:16 +0000 2015,0,0,"People opened their doors to strangers, knowing there were many times more victims than monsters, &amp; that it could as easily be themselves."
+93,666402261468323840,Mon Nov 16 23:47:34 +0000 2015,0,0,"@kcarter80 Side effect of the default inline display mode for SVG in HTML. See reply on SO with corrected demo.
+@chriscoyier @SaraSoueidan"
+94,666399968039739392,Mon Nov 16 23:38:28 +0000 2015,2,0,"Sad to see a Canadian leader on this bandwagon: https://t.co/QNmmlHqG6x
+
+In the worst horror, Parisiens offered #PorteOuverte. Why can't we?"
+95,666366420696043520,Mon Nov 16 21:25:09 +0000 2015,0,0,"@gary_schroeder A word is real if people understand it. It starts as jargon, understood within a given trade—maybe even local dialect in SF!"
+96,666362151066542084,Mon Nov 16 21:08:11 +0000 2015,0,1,"@Una Anonymous won't likely be a direct help to people living in Iraq/Syria, but they're really the best bet to disrupt recruiting networks."
+97,666360062722617344,Mon Nov 16 20:59:53 +0000 2015,0,0,@anatudor @JDStringfellow Then best guess is it's hardware-specific—Chrome expecting your GPU to do something it doesn't. File a bug report?
+98,666358309805494274,Mon Nov 16 20:52:56 +0000 2015,0,0,"@anatudor @JDStringfellow Could be a Chrome/Linux bug, or maybe an issue with an older GPU on your laptop doing something non-standard."
+99,666357827825438720,Mon Nov 16 20:51:01 +0000 2015,0,0,"@anatudor @JDStringfellow Works in 46/Win for me. I do have ""experimental web platform features"" on, but blends should be standard since 41."
+100,666356075239776256,Mon Nov 16 20:44:03 +0000 2015,0,1,"@jackrugile @jake_albaugh (or am I the only one who does that? 'Cause I do it all the time, looking for the motion in peripheral vision…)"
+101,666355830267248641,Mon Nov 16 20:43:04 +0000 2015,0,1,"@jackrugile @jake_albaugh Would be strange if unexpected, but very useful when you've got 3 monitors &amp; are waving mouse to find the cursor."
+102,666351733682085888,Mon Nov 16 20:26:48 +0000 2015,1,1,@anatudor @w3unpocodetodo I think `isolation` for blend modes is not a well known term. But it's like `clear` vs `float`: you need both!
+103,666304495895322624,Mon Nov 16 17:19:05 +0000 2015,2,0,RT @w3unpocodetodo: @anatudor I'm reading @AmeliasBrain book about SVG colors. She mention isolation so I wanted to try it.
+104,666303697161449474,Mon Nov 16 17:15:55 +0000 2015,0,1,"@w3unpocodetodo @anatudor Glad to hear it, Gabi! I didn't really go in depth with blend modes, so I'm glad it was enough to get you curious!"
+105,666302153015865344,Mon Nov 16 17:09:47 +0000 2015,4,0,"RT @rachelnabors: If museums represent a population's culture, then its malls must represent its aspirations."
+106,666298704673030144,Mon Nov 16 16:56:05 +0000 2015,0,0,"@SaraSoueidan Not in this case—I was actually 5hrs back in the infinite scroll feed, then I re-tweeted this &amp; @Twitter lost my spot. Urgh!!!"
+107,666297478816354304,Mon Nov 16 16:51:12 +0000 2015,1,2,"(Haven't read this carefully yet, but it's by @SaraSoueidan, so sure to be full of great #SVG tips!) https://t.co/eGfoM43Kb2"
+108,666122180074180608,Mon Nov 16 05:14:38 +0000 2015,0,0,"@AmeliasBrain (Context: Pre-renos, the Yale was a legendary live blues venue &amp; my regular haunt the 3 years I lived in Vancouver.)"
+109,666120539551977472,Mon Nov 16 05:08:07 +0000 2015,0,1,"@AmeliasBrain Seriously, their Twitter &amp; every article talks about the mechanical bull, and the promise of live music seems an afterthought?"
+110,666119531853717504,Mon Nov 16 05:04:06 +0000 2015,0,0,"4yrs after closing for renos, Vancouver's Yale re-opens as a kitschy Saloon.
+No live music listings yet—just a bull. https://t.co/18USaWUuFn"
+111,666098460857356288,Mon Nov 16 03:40:23 +0000 2015,0,1,"@jake_albaugh Looks like a lovely view, droning traffic noise not included.
+
+Also, you weren't kidding about cutting off all the hair!"
+112,665949276854349824,Sun Nov 15 17:47:34 +0000 2015,0,0,"@heydonworks The tumblr indenting matches email chains, including the margin line &amp; ability to insert comments in middle of someone else's."
+113,665796633318289408,Sun Nov 15 07:41:01 +0000 2015,1,2,@jwjonesblues The best musicians make the old songs sound fresh and their new originals sound classic. So…all of the above!
+114,665658758379511808,Sat Nov 14 22:33:09 +0000 2015,0,2,@DavidGogoBlues @RainbowBistro But I don't think they have @TonyDiteodoro with a page-boy haircut; used to see it in the entry to Tucson's.
+115,665658235563728896,Sat Nov 14 22:31:05 +0000 2015,0,2,@DavidGogoBlues The @RainbowBistro has some good old glossies. I admit I smirked at teenage @jwjonesblues &amp; @stevemarriner last I was there.
+116,665649724100354048,Sat Nov 14 21:57:16 +0000 2015,0,2,"TIL @CodePen redirects you to the #Firefly theme song (Today I Found Serenity) when a professor-mode pen is at capacity.
+Sorry, @MateiCopot!"
+117,665648761201410048,Sat Nov 14 21:53:26 +0000 2015,1,2,"When Texas-bred taste buds go home for a visit, and bring with them Northern California-adapted gut microbiota: https://t.co/A6LhRVCKpv"
+118,665647691985199104,Sat Nov 14 21:49:11 +0000 2015,0,1,"@brucel Actually forcing you to drink, or forcing you to split the cost of a bottle, knowing you won't drink much &amp; more for them?"
+119,665600014106906624,Sat Nov 14 18:39:44 +0000 2015,0,1,"If you don't have a searchable archive of all the messages in your conversation, did you really say anything at all? https://t.co/oHF5jvwRvt"
+120,665598239668871168,Sat Nov 14 18:32:41 +0000 2015,0,0,"@AmeliasBrain Took me a while to find the correct photo. 2 other views of Earth from Saturn:
+https://t.co/846xGuwgsO
+https://t.co/WP1vzIgnLf"
+121,665597830741016576,Sat Nov 14 18:31:03 +0000 2015,0,0,(More on the photo here: https://t.co/RImysd1XA8) https://t.co/y8mbboHJK8
+122,665590476586803200,Sat Nov 14 18:01:50 +0000 2015,0,1,"@Tony_Downey No fatalities, but multiple amputations in a Grey's Anatomy plot: https://t.co/x7p826sfZv"
+123,665378872456830976,Sat Nov 14 04:00:59 +0000 2015,0,1,"@SaraSoueidan @rem …even though Lebanon has been peaceful til this week.
+
+PS Hope you're doing ok. I kept watch on your feed after the news."
+124,665378220464730112,Sat Nov 14 03:58:24 +0000 2015,0,2,"@SaraSoueidan @rem Paris gets more coverage because it scares people more, breaks down the mental borders we put between ""safe"" and ""war""."
+125,665377947742785536,Sat Nov 14 03:57:19 +0000 2015,0,2,"@SaraSoueidan @rem The Beirut attacks were covered a bit here. But I think to too many in Europe &amp; N.Am, Lebanon=Middle East=another world."
+126,665304451876425728,Fri Nov 13 23:05:16 +0000 2015,0,0,"@anatudor @ChrisGannon You trust the people who made it, to test &amp; deal with bugs.
+
+Sometimes, you just live dangerously for a fun Codepen."
+127,665304142311636993,Fri Nov 13 23:04:02 +0000 2015,0,0,"@ChrisGannon @anatudor My suggestion was that for non-interactives, would be nice to have a compiler that subset to only have code you use."
+128,665303695685349377,Fri Nov 13 23:02:16 +0000 2015,0,0,"@ChrisGannon @anatudor Yes. Libraries take a while to learn, but once you do they can be powerful tools."
+129,665303310585303040,Fri Nov 13 23:00:44 +0000 2015,0,0,"@anatudor Well, maybe some of the list owners will see these tweets.
+Please don't call Ana a ""Developer""!
+
+(She's just a CSS/JS hacker)."
+130,665302100683821056,Fri Nov 13 22:55:56 +0000 2015,0,0,"@anatudor My advice would be, let it go unless it's used somewhere very public. If someone has ""web dev"" list, that's a personal shorthand."
+131,665300963398324225,Fri Nov 13 22:51:25 +0000 2015,0,0,@anatudor @ChrisGannon I think the message here is most of the value of libraries is in the math. Should be able to compile to simpler code!
+132,665300286831878144,Fri Nov 13 22:48:43 +0000 2015,0,0,"@anatudor It seems the only way to prevent being added to a list is to block the user, which may be extreme. Are lists a problem for you?"
+133,665296029898510336,Fri Nov 13 22:31:48 +0000 2015,1,1,"@antimytheme And the best part—you get completely different patterns on different browsers. (Repeating gradients are fun for this, too!)"
+134,665295397686906882,Fri Nov 13 22:29:18 +0000 2015,0,0,"@AmeliasBrain Also, emphasize semantic elements: Content in &lt;main&gt; weighted heavily, consider links in proper &lt;address&gt; and &lt;nav&gt; sections."
+135,665295211573088256,Fri Nov 13 22:28:33 +0000 2015,0,0,"Love to see this. e.g., disregard content not accessible by keyboard nav, &amp; if that means only content is a pop-up… https://t.co/4D09L7jbPQ"
+136,665203744993378305,Fri Nov 13 16:25:06 +0000 2015,0,0,"@chaals I started to do this, then realized I'd have to set up a Cyrillic keyboard to do some of them, so it shifted to the back-burner…"
+137,665195932858916864,Fri Nov 13 15:54:03 +0000 2015,0,0,"@meyerweb @tabatkins Nor I. But you've already got a good test case, Eric, so you're halfway there. Ping us with a link when you've got it!"
+138,665041609852088320,Fri Nov 13 05:40:50 +0000 2015,0,0,"@nandronikos Wait—not sure I should like that! I wrote a lot of that text!
+And it's got examples like this: https://t.co/hoLbmR8DFg"
+139,665040019367845888,Fri Nov 13 05:34:31 +0000 2015,0,0,"@meyerweb Not just you. Compare with:
+background: radial-gradient(ellipse farthest-side at 25% 40px, pink, red 99%, cyan)
+…which works."
+140,665007098024062977,Fri Nov 13 03:23:42 +0000 2015,0,1,"@gryghostvisuals Whoever it was @MSEdgeDev that came up with the ""Boom! It's Done"" copy is brilliant. Makes me want to answer ""_Oh_, yeah!"""
+141,664970813267976192,Fri Nov 13 00:59:31 +0000 2015,0,0,"Can confirm!
+Use https://t.co/f9aOLvH2QW as the stylesheet.
+Comment in @fantasai's code: /*Pick a better character*/ https://t.co/bpManQkUyH"
+142,664966524134912000,Fri Nov 13 00:42:28 +0000 2015,0,1,"@ChrisGannon Ha! But they gave me a very good (if long) full name. I'm the only Amelia Bellamy-Royds on the Internet!
+@sarah_edo @anatudor"
+143,664930343108112384,Thu Nov 12 22:18:42 +0000 2015,0,3,"@sarah_edo @anatudor My initials are abbr, so my abbreviated name is the abbreviation for abbreviations. Which is fun, but bad SEO!"
+144,664901480848068608,Thu Nov 12 20:24:00 +0000 2015,0,1,"@ShaneHudson Depends how warm the water &amp; how thick the meat. With very cold water, it's safe to leave for &gt;hr. But hot tap water is faster!"
+145,664898676221841408,Thu Nov 12 20:12:52 +0000 2015,0,0,"@ShaneHudson Reliable defrost method: Wrap well with plastic or place in zip-lock bag (squeezing out air), put in sink and cover with water."
+146,664893502887608321,Thu Nov 12 19:52:18 +0000 2015,0,0,"@AmeliasBrain But seriously, highly recommended if y'all are in Nashville, and enjoy roots/blues/country/rock/any music that does not suck."
+147,664892953299582977,Thu Nov 12 19:50:07 +0000 2015,4,2,"The Rotting Matadors??
+I've heard Johnny Dymond &amp; Gary Craig many times w/ @colinlinden, never heard that band name! https://t.co/NWmoXKg2Jo"
+148,664875016836673537,Thu Nov 12 18:38:51 +0000 2015,0,0,"@stevefaulkner @surkovalexander @sundress Thanks, yes, the HTML changes don't make sense without the AcName changes: https://t.co/HpqdXZC3ao"
+149,664645320404414464,Thu Nov 12 03:26:07 +0000 2015,0,1,"@htmlnate Hmm, yes, don't know why they hide the cool features. I remember the awe when I discovered the Win calculator's advanced views!"
+150,664643339413618688,Thu Nov 12 03:18:15 +0000 2015,0,1,"@htmlnate Char map is great because you can search by char name: eg ""circled"" for ❶/ⓐ or ""arrow"". But it's font-specific, which is annoying…"
+151,664640865915154432,Thu Nov 12 03:08:25 +0000 2015,0,2,@htmlnate @tmrDevelops I make extensive use of the Windows character map utility while on Twitter. But you can just copy from my tweet!
+152,664639656584024064,Thu Nov 12 03:03:37 +0000 2015,0,2,"@htmlnate @tmrDevelops I think title + author is usually enough. P.S. you could save some chars with proper typography:
+title—by author: URL"
+153,664600897960308737,Thu Nov 12 00:29:36 +0000 2015,0,0,@rem @SaraSoueidan Yes. JS should be active in SVG-as-iframe or SVG-as-object. Regular sandboxing rules apply for iframes.
+154,664564187167784966,Wed Nov 11 22:03:43 +0000 2015,0,2,"@noahblon @twholman When you've stared at the web page so long your eyes can't focus, clearly it's time to cave to your colleague's idea?"
+155,664543247893528576,Wed Nov 11 20:40:31 +0000 2015,0,0,"@anatudor Whoops! I've made that style of mistake before: changing so many things, looking for the big problem, end up overlooking typos!"
+156,664542186155839490,Wed Nov 11 20:36:18 +0000 2015,77,0,RT @malonebarry: If this was a Western journalist you'd know his name. https://t.co/QkLwdMVvxI https://t.co/CxEovtkcif
+157,664540939453513728,Wed Nov 11 20:31:21 +0000 2015,1,1,"@anatudor Clip-paths are always calculated in the transformed coordinate system. Solution is nested groups: clip parent, transform child."
+158,664516749987975168,Wed Nov 11 18:55:13 +0000 2015,0,1,"@anatudor The order *shouldn't* matter, but there were bugs in some Safari versionw, it wouldn't find re-used content later in the file."
+159,664503722181955584,Wed Nov 11 18:03:27 +0000 2015,0,0,"@MikeMJHarris @CodePen Hehehe! But if people complain of perf, they'll eventually figure out SVGSVGElement.pauseAnimations()!"
+160,664501689995493376,Wed Nov 11 17:55:23 +0000 2015,0,0,@ThatEmil Some sort of shortcut optimization trick going wild. A reminder that no test suite can replace a careful logic review of code.
+161,664500317476655104,Wed Nov 11 17:49:56 +0000 2015,1,0,"RT @ThatEmil: Oh, IE lets iframed SVG &lt;symbols&gt; overflow the iframe container... Cool, cool. Oh, but only if there are ID collisions."
+162,664500283859341312,Wed Nov 11 17:49:48 +0000 2015,0,2,"@ThatEmil I'm not sure if you have a wonderful attitude about this, or if you're suffering brain damage from hitting your head on the desk…"
+163,664235115388661760,Wed Nov 11 00:16:07 +0000 2015,0,2,"Shh!
+Don't say it's for accessibility, say it's for a consistent and predictable user interface with minimal coding! https://t.co/S7yVYg38o5"
+164,664225202344099840,Tue Nov 10 23:36:43 +0000 2015,0,0,"Great reminder of how ""species"" is an arbitrary classification scheme.
+Eastern Coyote is a dog/wolf/coyote hybrid.
+
+https://t.co/NZ61BxV5mr"
+165,664215957766692864,Tue Nov 10 22:59:59 +0000 2015,0,0,"@anatudor @rem Either that or the cat will be greedy, eat it, get sick, &amp; puke it into your shoe.
+Plastic bag⇒trash bin. Just do it already."
+166,664214446026326016,Tue Nov 10 22:53:59 +0000 2015,0,0,"@tabatkins ""crepuscular"" is such a nasty-sounding word for such a lovely phenomenon.
+Safe travels!"
+167,664191547936641024,Tue Nov 10 21:22:59 +0000 2015,0,1,"@rem @WebReflection Might want to use proper word break RegEx markers instead of whitespace, in case your bad word bear uses punctuation."
+168,664190375435743232,Tue Nov 10 21:18:20 +0000 2015,0,0,@WebReflection @rem This might be the best approach. Let the whiz kids who build the node JS RegEx engine optimize for you.
+169,664188971342127104,Tue Nov 10 21:12:45 +0000 2015,0,0,"@rem If your 450 words rarely change, might be worth building a decision tree, then scanning the string once yourself. 450✖indexOf adds up."
+170,664172449345351680,Tue Nov 10 20:07:06 +0000 2015,0,0,"@nzgb Your pants? Not sure that makes sense.
+More like browsing a mall via the delivery docks, back halls, storage rooms, &amp; staff lockers."
+171,664169899040731136,Tue Nov 10 19:56:58 +0000 2015,0,0,"When a website actually works without (most) CSS+JS, you've probably got accessibility covered as well!
+#a11y https://t.co/egSnjyMAo3"
+172,664163937722593280,Tue Nov 10 19:33:16 +0000 2015,0,0,"Allen Toussaint, good to the last drop.
+From last night's show. Ain't the Internet wondeful.
+https://t.co/5jfag1AxVA
+♩⋅♪♫♩♫
+cc @monicackua"
+173,664162566780747776,Tue Nov 10 19:27:50 +0000 2015,0,0,"@monicackua Loving the mix of other artists doing Toussaint's songs, though! Glad I saw him presenting his own retrospective in Feb 2014."
+174,664162195496812545,Tue Nov 10 19:26:21 +0000 2015,0,0,Was enjoying all the N'Awlins funk music to start @monicackua's show today. So saddened to hear the inspiration was Allen Toussaint's death.
+175,664145655552544769,Tue Nov 10 18:20:38 +0000 2015,0,0,Codes of Conduct aren't just for short-term events. Love they emphasize expected as well as unacceptable behavior. https://t.co/jqAtpNRh71
+176,664143665216905216,Tue Nov 10 18:12:43 +0000 2015,0,0,@anatudor Nice. Better than trying to pick one photo that sums up everything about you! Although a photo of a big cat sums up a lot…
+177,664141651057623040,Tue Nov 10 18:04:43 +0000 2015,0,0,"Use JS to add tabindex for JS-interactive content. Native widgets don't need tabindex.
+Exception: scrolling panels! https://t.co/EsAwN7Ywoj"
+178,664140239082930177,Tue Nov 10 17:59:06 +0000 2015,0,1,@deanleigh Body Shop used to sell a clay ring that balanced on an incandescent light bulb—but you'd need to find an incandescent light bulb!
+179,664137788669857792,Tue Nov 10 17:49:22 +0000 2015,0,1,@stevefaulkner &lt;dl&gt; is difficult because each list-item is a series of sibling dt/dd elements. Might need implicit aria-owns relationships?
+180,664134862446563330,Tue Nov 10 17:37:44 +0000 2015,0,1,@TobiReif I'm pretty sure those are sign-offs. Current @csswg chair @cssrossen (Rossen Atanassov) vs former chair @glazou (Daniel Glazman).
+181,664128678956130304,Tue Nov 10 17:13:10 +0000 2015,0,0,"Who should @todd be getting in touch with?
+Re web accessibility at NYT, WSJ or AP.
+
+(Psst @elliot_bentley) https://t.co/Uuqw4cRfaL"
+182,663934033391259648,Tue Nov 10 04:19:43 +0000 2015,0,3,"@AmeliasBrain And since some of you are *total* nerds, you might also enjoy the original subject matter:
+https://t.co/2bExK4HbUq"
+183,663932158977814530,Tue Nov 10 04:12:16 +0000 2015,0,1,@AmeliasBrain (Context was an FB comment in which I claimed I wasn't nerd enough to get a math joke without it being fully spelled out.)
+184,663931857289932800,Tue Nov 10 04:11:04 +0000 2015,0,6,"From my younger sister:
+""You get paid to write books for nerds. I'm pretty sure that makes you a super nerd now."""
+185,663884618068701184,Tue Nov 10 01:03:21 +0000 2015,0,0,"Things I find disproportionately amusing:
+""This email is confidential to intended recipient"" disclaimers on mail to publicly archived lists."
+186,663858828870598656,Mon Nov 09 23:20:53 +0000 2015,0,1,"@Wittmeier To start, they could extend the free child fare past a kid's 6th birthday! That's a real hit on families with no other option."
+187,663855708446806017,Mon Nov 09 23:08:29 +0000 2015,0,2,"@MateiCopot You're young, Matei—you don't remember the time when links all looked like links and buttons all looked like gray plastic!"
+188,663842876019773440,Mon Nov 09 22:17:29 +0000 2015,8,7,"Flat design has turned us into random mad interface clickers. I know I do this sometimes, trying to find the nav!
+https://t.co/pSFEzsCSSZ"
+189,663837216976863233,Mon Nov 09 21:55:00 +0000 2015,0,0,@meyerweb @twitter I'd love it if the advanced search link wasn't hidden in a drop-down in the search results page—I didn't know it existed!
+190,663797492685762560,Mon Nov 09 19:17:09 +0000 2015,0,2,"@brucel @smashingmag Remind me, is that tool called Grouch, or Grump? I'm having a hard time finding it on Github…"
+191,663779189582008320,Mon Nov 09 18:04:25 +0000 2015,3,4,Been seeing so many awesome @CodePen demos using the Audio API lately. This one by @ChrisGannon also has fun #SVG: https://t.co/ctfTpHzUzi
+192,663777270868258816,Mon Nov 09 17:56:48 +0000 2015,1,0,RT @brucel: How the youth of  Ochiichagwe'Babigo'Ining Ojibway Nation built their own internet infrastructure https://t.co/yQ9jXNRGMS
+193,663775533872775168,Mon Nov 09 17:49:54 +0000 2015,0,1,"@antimytheme Versus the exact same URL on Chrome desktop, completely different colors &amp; icons (&amp; icon labels): https://t.co/TPbD6aN32O"
+194,663774202479181824,Mon Nov 09 17:44:36 +0000 2015,0,1,"@antimytheme Same page, Firefox on Android. Note layout changes, but look &amp; feel mostly the same. https://t.co/522ybHubPJ"
+195,663773769304023040,Mon Nov 09 17:42:53 +0000 2015,0,1,@antimytheme Less between browsers than between devices &amp; OSes. This is Chrome on Android: https://t.co/dO7RgMEwbj
+196,663756645739003906,Mon Nov 09 16:34:51 +0000 2015,0,0,"@HugoGiraudel I (and many others) already use *emphasis* all the time, just requires a twitter client to process &amp; display!"
+197,663755001412497413,Mon Nov 09 16:28:18 +0000 2015,1,1,"You probably don't need that prefix.
+
+Love the reminder that old browser prob equals old hardware, so just simplify! https://t.co/kSvrfxQBek"
+198,663744878107455488,Mon Nov 09 15:48:05 +0000 2015,0,0,How would you mock-up a UI for a new plug-in or browser feature? https://t.co/OuVTkFKRO7
+199,663620478355922944,Mon Nov 09 07:33:46 +0000 2015,0,0,"@antimytheme You mean, besides Twitter? It's certainly the most extreme - I think they try to match their native app for that OS, but???"

@@ -1,0 +1,339 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668872590920949760,Mon Nov 23 19:23:47 +0000 2015,0,1,"@davglass Dav, this was a brilliant question ;)"
+1,668144681507815424,Sat Nov 21 19:11:20 +0000 2015,0,0,@TwitterEng It would be cool if we could subscribe to a tweet and its responses (to watch it). Checking manually is tedious.
+2,667801661671387136,Fri Nov 20 20:28:17 +0000 2015,0,1,React Virtual DOM vs Incremental DOM vs Ember’s Glimmer: Fight https://t.co/efvjrTXcr8 via @auth0
+3,667726606316789760,Fri Nov 20 15:30:03 +0000 2015,0,7,"Changes to the tech stack in our team since I joined @here:
+✓ Gulp/RequireJS ➠ Webpack
+✓ CoffeScript ➠ ES2015
+✓ Jasmine ➠ Mocha
+Good start."
+4,667464417752256513,Thu Nov 19 22:08:12 +0000 2015,0,1,"Quiz: Is the code below correct or not?
+a = {
+a: []
+b
+}
+2. If correct, what's the value of 'b'?
+Answer: CoffeScript is a bizarre language."
+5,667089021093416961,Wed Nov 18 21:16:31 +0000 2015,0,0,"Old and gold rule - ""Don't try to memorize rules, use tools [when dealing with performance]""
+#ChromeDevSummit"
+6,667072337322340352,Wed Nov 18 20:10:13 +0000 2015,89,0,"RT @ChromiumDev: Performance breakthroughs in the V8 JavaScript engine, with @s3ththompson #ChromeDevSummit: https://t.co/fVvThakzAv https:…"
+7,664897088665362434,Thu Nov 12 20:06:33 +0000 2015,2,3,"It seems December 3rd will be a great day - Let’s Encrypt will be opened! Free HTTPS for everyone, not bad at all.
+https://t.co/LAdtXwpz10"
+8,662895321689669632,Sat Nov 07 07:32:15 +0000 2015,11,10,"AlloyEditor 0.7.0 is out! Works with GitHub Electron, works with Browserify, supports React 0.14, bugfixes&amp;features!
+https://t.co/AaWB4x6tpo"
+9,661285734184296448,Mon Nov 02 20:56:19 +0000 2015,1,0,"It seems React killed O.o too. And just 1.5 years ago the crowd ""went wild"" because of it: 
+https://t.co/P5BF7abhRb
+Web is crazy."
+10,659951587847221248,Fri Oct 30 04:34:54 +0000 2015,1,0,HTTP/2 on Google Cloud Platform: https://t.co/geQdKUZw5P via @googlecloud
+11,659086635200598016,Tue Oct 27 19:17:53 +0000 2015,0,0,@greenoid_de That sounds familiar :)
+12,658653286715793408,Mon Oct 26 14:35:55 +0000 2015,0,0,Implementing AutoComplete is fun - such a simple component with many challenges. Currently implementing one using Trie. Using Map follows.
+13,657946652049805312,Sat Oct 24 15:48:00 +0000 2015,0,0,"@eduardolundgren In one tweet? In general - they plan and think more before doing something and they don't waste resources, especially time."
+14,657677307725922304,Fri Oct 23 21:57:43 +0000 2015,286,0,RT @__apf__: chrome canary now has a security panel in DevTools for debugging HTTPS problems! /cc @lgarron @paul_irish http://t.co/5cx3SoL4…
+15,657568456712323072,Fri Oct 23 14:45:11 +0000 2015,0,2,"In just one week in Berlin, I got it. It is not that German people work more. They work smarter."
+16,657305738214297600,Thu Oct 22 21:21:14 +0000 2015,0,0,"@Thirelu It was meant to be, so it was inevitable. But think from this point of view - a ""goodbye"" is still better than ""adiós"" :)"
+17,657265248865505281,Thu Oct 22 18:40:21 +0000 2015,0,1,"@jhidalgoreina @bryan_ Thank you, Bryan, Juan! I miss you too, but this is how it's meant to be. Wish you all the best... I really do!"
+18,657259313807912960,Thu Oct 22 18:16:46 +0000 2015,0,2,"@Larteas @Liferay_es @gonpinju  Thank you, friends! I also miss you!"
+19,657258208130650113,Thu Oct 22 18:12:22 +0000 2015,0,0,"@mdelapenya I also miss you, Manu! 8th position? No way! Should be on the 1st :) Development, support and fun should be loved... and I do."
+20,656793311466934274,Wed Oct 21 11:25:02 +0000 2015,0,1,"Attending an Agile workshop today. The whole day, the whole team. Amazingly how this helps to reach the root of the challenges you have."
+21,656007343268696064,Mon Oct 19 07:21:53 +0000 2015,4,2,"Discussion about switching from AMD to ES6 modules in CKEditor:
+https://t.co/biaZWB7VnL"
+22,655496745674104832,Sat Oct 17 21:32:57 +0000 2015,7,6,AlloyEditor 0.6.0 is out! Proud to say it was an entirely community driven release. We have a new button (images centering) and bugfixes.
+23,655491632666578944,Sat Oct 17 21:12:38 +0000 2015,0,3,"Working on and maintaining an Open Source project is a bless. Nothing can stop me to release a new version on Saturday, 23:11pm"
+24,654754315756662785,Thu Oct 15 20:22:48 +0000 2015,0,9,"Today was my first working day at @here. Great people and a really interesting project.
+#excited"
+25,654325393328074752,Wed Oct 14 15:58:25 +0000 2015,5,3,"How to make #AlloyEditor to work with #AngularJS:
+1. Without ng-model:
+https://t.co/dw1sWVx0KK
+2. With ng-model:
+https://t.co/sGhWgkWpQB
+\o/"
+26,654203793219932160,Wed Oct 14 07:55:13 +0000 2015,2,0,RT @abozhilov: The art of bullshit - everything which starts or ends with jquery!
+27,653997478044377088,Tue Oct 13 18:15:24 +0000 2015,2,3,"""The Future of Web Development - React, Falcor, and ES6"":
+http://t.co/lLDsifXJPT
+Many of the points in the article make sense."
+28,652585008121671681,Fri Oct 09 20:42:45 +0000 2015,34,0,"RT @BrendanEich: JS trollery aside, yes: I'm doing something new, https://t.co/6AnFZh7fxl, for a better Web. #secretconf"
+29,652525095190163456,Fri Oct 09 16:44:40 +0000 2015,0,0,"@greenoid_de I also missed you and many others, but life is like this. Everything that has a beginning has an end."
+30,652351199895777280,Fri Oct 09 05:13:40 +0000 2015,0,0,"It seems I will miss the BerlinJS meeting on October. It is just on the same day I will start my new job at @here
+#coincidence"
+31,652058165979291648,Thu Oct 08 09:49:16 +0000 2015,14,0,"RT @bagder: look, both http://t.co/t5HWRj0k0r and http://t.co/vXzRCtT42e are on #http2 now..."
+32,651776063064907780,Wed Oct 07 15:08:17 +0000 2015,0,3,"...And nothing makes me prouder than mentioning AlloyEditor as a ""creative solution"". Glad we helped to make Web content editing better!"
+33,651775071070093312,Wed Oct 07 15:04:20 +0000 2015,2,4,"CKEditor's future looks more than bright. Plenty of goodies, including support for Operational Transformations!
+https://t.co/TTa0Q3OifL"
+34,651629868841607169,Wed Oct 07 05:27:22 +0000 2015,0,1,"Nothing better than working on OpenSource project with the community on 5am while waiting to start a new job:
+https://t.co/QAfeWgTCup"
+35,650732937315491842,Sun Oct 04 18:03:16 +0000 2015,0,0,Async/Await: The Hero JavaScript Deserved  https://t.co/1jP7BUET0C via @twilio
+36,649836607206465536,Fri Oct 02 06:41:35 +0000 2015,0,1,"This video is neat too:
+""Composition over Inheritance""
+https://t.co/sviMWgxYin"
+37,649835894585860096,Fri Oct 02 06:38:45 +0000 2015,1,1,"""How to stay relevant as a programmer"":
+https://t.co/sMD98nJV5g
+So many devs fail because they do just the opposite.
+#confirmed"
+38,649651379716403200,Thu Oct 01 18:25:33 +0000 2015,0,0,"The implementation of the Async Function specification for the Microsoft Edge browser:
+https://t.co/YosXKjGvna"
+39,649265129499045888,Wed Sep 30 16:50:44 +0000 2015,0,0,@schtool @jbalsas You will watch and tell me after that :)
+40,649257418510221312,Wed Sep 30 16:20:05 +0000 2015,0,0,"@schtool Thanks, James! No, I won't be there, but Chema will do my talks. There is no drama, everything is under control :)"
+41,649232836009021440,Wed Sep 30 14:42:24 +0000 2015,0,6,"I may leave #Liferay, but I will leave it with clear heart and thankful for the gifts from the guys in the office! http://t.co/NqGaemDd2x"
+42,649175240325627905,Wed Sep 30 10:53:33 +0000 2015,0,0,@Thirelu Sure thing :)
+43,649146562363437056,Wed Sep 30 08:59:35 +0000 2015,0,0,"@Thirelu There is no drama, everything will be fine. I'm not leaving some crap here, what I wrote works well, my knowledge will stay too."
+44,649143849303035905,Wed Sep 30 08:48:48 +0000 2015,0,1,"@gonpinju Thanks, Juan! It was pleasure for me too! Some day we will see each other again for sure!"
+45,649139120959320064,Wed Sep 30 08:30:01 +0000 2015,0,1,"@milendyankov Might be considered a as a joke too, depending on your sense of humor :)"
+46,649136871512100868,Wed Sep 30 08:21:05 +0000 2015,0,0,"@edupgv Haha, por seguro, tío :)"
+47,649122401641451520,Wed Sep 30 07:23:35 +0000 2015,0,1,"@jmnavarro Couldn't agree more! Will miss you too, man, but I'm sure we will see each other again!"
+48,649119637607698432,Wed Sep 30 07:12:36 +0000 2015,0,1,"@zenorocha Have no fear, have fun, things will work out all right!"
+49,649117376299053056,Wed Sep 30 07:03:37 +0000 2015,0,2,"@jhidalgoreina Thanks, Juan! I grew a lot these years too. Looking back, I'm happy with what we achieved together and what I will leave :)"
+50,649115687387049984,Wed Sep 30 06:56:54 +0000 2015,0,1,"@_pier JS talks will never end, neither the fun :)
+First will move to Berlin, Germany, then will join @here"
+51,649093299324743680,Wed Sep 30 05:27:56 +0000 2015,1,23,"Today is my last day at #Liferay after almost 5 years. Thanks everyone for the inspiration and support, you will stay in my heart forever!"
+52,648097726895403009,Sun Sep 27 11:31:53 +0000 2015,0,1,"""How Chromium Works"":
+https://t.co/HbN1JQ1Jye"
+53,647523405374296068,Fri Sep 25 21:29:44 +0000 2015,0,3,"@mdelapenya Everything will go better, Don Manu! Thanks a lot for everything!"
+54,646406507815436289,Tue Sep 22 19:31:35 +0000 2015,0,1,"HTTP 203: Maintainable Code
+https://t.co/cECQzoVbIo
+I like these stories - short, smart and funny."
+55,645104361794838528,Sat Sep 19 05:17:19 +0000 2015,563,0,RT @paul_irish: Curious about what triggers a reflow? I made a modern list of what forces a layout. https://t.co/LGLy0gFzMv
+56,644798142270054400,Fri Sep 18 09:00:31 +0000 2015,1,1,Understanding the functional revolution in front-end applications | React and be thankful http://t.co/Xlj8ZrAr19 via @tcroch
+57,644515331508162560,Thu Sep 17 14:16:44 +0000 2015,0,1,"The previous tweet was a good example for an isomorphic app with React. Here is a bad example:
+https://t.co/qtL44GEEcK"
+58,644502694867156992,Thu Sep 17 13:26:31 +0000 2015,1,1,"Isomorphic templating with Spring Boot, Nashorn and React:
+https://t.co/iLxMj2NX0r"
+59,644351152876843008,Thu Sep 17 03:24:20 +0000 2015,1,1,"TypeScript 1.6 adds support for React/JSX:
+http://t.co/mb0vRMmmE2"
+60,644040562258116608,Wed Sep 16 06:50:10 +0000 2015,1,2,Do you Java devs like my new T-shirt? http://t.co/zwV7TebpH4
+61,643502408660852736,Mon Sep 14 19:11:44 +0000 2015,101,0,"RT @rauschma: “Today, we're happy to release React Native for Android.”
+https://t.co/J1xlVgf21O"
+62,642959203636772864,Sun Sep 13 07:13:14 +0000 2015,0,0,"Vacation is over. I read:
+1. Angular 2
+2. TypeScript
+3. Angular 1.x
+4. Articles - mostly software architecture
+Got some rest. And peace."
+63,641630002153439233,Wed Sep 09 15:11:28 +0000 2015,13,0,RT @mnot: Wordpress and HTTP/2 - https://t.co/lLUh7Y2QDV
+64,641316202854395904,Tue Sep 08 18:24:32 +0000 2015,0,0,"HTTP/2 implementation in Dart:
+https://t.co/OvLhyWSS8R
+(initial, experimental version)"
+65,641260679597527040,Tue Sep 08 14:43:54 +0000 2015,0,0,"Better performance tooling in Safari - ""Introducing Rendering Frames Timeline"":
+https://t.co/AgjLbaOMIS"
+66,641158379130503168,Tue Sep 08 07:57:24 +0000 2015,0,0,"@victor_miranda She has a good sense of humor :) And actually, this is against people who blame the framework instead their own crappy code."
+67,641149802164670464,Tue Sep 08 07:23:19 +0000 2015,1,4,Choosing a JavaScript framework is like the marriage. You get something‚ but you start to regret once you see what the others have :)
+68,640901211965812736,Mon Sep 07 14:55:30 +0000 2015,0,0,How do JavaScript closures work under the hood [Dmitry Frank] http://t.co/1EgeCd6pzk
+69,640900134344204288,Mon Sep 07 14:51:14 +0000 2015,1,3,"Use link's ""rel"" attr to improve performance, not only for ""stylesheet""
+https://t.co/4oYTl4m5va
+Btw, I give that very often on interviews :)"
+70,640894338160021505,Mon Sep 07 14:28:12 +0000 2015,0,1,"HTTP/2 - status update and usage numbers:
+http://t.co/Cp0QWozf0x"
+71,637545547063279616,Sat Aug 29 08:41:18 +0000 2015,0,0,"@cheeaun Great, thanks!"
+72,637543126345863168,Sat Aug 29 08:31:40 +0000 2015,0,0,"@cheeaun Yes, comes with a bundled CKEditor engine. Or, if you already have CKEditor on your page, you can still use it, but with the new UI"
+73,637540920578179072,Sat Aug 29 08:22:55 +0000 2015,0,0,"@cheeaun It is an editor, which uses CKEditor's engine and has its own UI and plugins.
+Almost all CKEditors plugins can be reused OOTB too."
+74,637538836206219264,Sat Aug 29 08:14:38 +0000 2015,0,0,@cheeaun You may consider to include AlloyEditor (http://t.co/AaWB4wOSxQ) to your WYSIWYG Editors WIKI page: https://t.co/7Z9OyOVwrD
+75,636285219247661056,Tue Aug 25 21:13:12 +0000 2015,1,1,"Want to generate your own #AlloyEditor skin? We just published a new guide how to do it thanks to @jbalsas:
+http://t.co/6atqEH6bhf"
+76,634775026517045248,Fri Aug 21 17:12:14 +0000 2015,0,2,Vacation mode on!
+77,634720484454727680,Fri Aug 21 13:35:30 +0000 2015,2,3,"AlloyEditor 0.5.0 is now available! Bug fixes, improvements, mobile-friendly site, more docs and guides like this:
+http://t.co/aKoGVd2wb7"
+78,633353864108974082,Mon Aug 17 19:05:03 +0000 2015,126,0,RT @igrigorik: Eliminating Roundtrips with Preconnect: http://t.co/bkAekfJpWU - (hot) new tool for your optimization toolbox! http://t.co/t…
+79,632931581221539840,Sun Aug 16 15:07:02 +0000 2015,0,2,"I read only docs and specs usually, but this weekend I read a book: ""Working Effectively with Legacy Code"". It is from 2005, but it is worth"
+80,632196212528128000,Fri Aug 14 14:24:57 +0000 2015,0,0,"@adambrandizzi @reinmarpl Haha, in these cases in Bulgaria we say: ""This grass which you are grazing now, I've peed on it"" :D"
+81,632057703632908288,Fri Aug 14 05:14:34 +0000 2015,1,2,"Creating your own WYSIWYG editor should be cool and easy project, right? @reinmarpl will bring you down to Earth: https://t.co/fTT6EEbnXy"
+82,632051322389417984,Fri Aug 14 04:49:12 +0000 2015,57,0,"RT @igrigorik: ""The Hamburger Menu Doesn't Work"": http://t.co/uy5pyvtfL3 - good critique and design tips."
+83,630765924954566656,Mon Aug 10 15:41:30 +0000 2015,3,1,"Just released #AlloyEditor v0.4.0. Many improvements, including reusing CKEditor's UI plugins!
+https://t.co/KZRajgW6Vi
+#react #liferay"
+84,629612100772626432,Fri Aug 07 11:16:37 +0000 2015,11,9,"New blog post: ""Introducing ECMAScript 2015 support in Liferay Portal 7"" https://t.co/iBCOdANfTs
+#liferay #javascript"
+85,627958099794640896,Sun Aug 02 21:44:12 +0000 2015,23,0,RT @reactpodcast: Our much awaited @ReactEurope conference recap / CSS discussion is up! http://t.co/dVacS7LKQ8
+86,627956305874055168,Sun Aug 02 21:37:04 +0000 2015,0,1,"Watching this talk - Web Frameworks in 2015 and Where Ember Fits In: https://t.co/5taKXgNoTQ
+As I see, @emberjs evolved a lot recently."
+87,627538366725271552,Sat Aug 01 17:56:20 +0000 2015,0,0,@caridy Thanks!
+88,627346472103772160,Sat Aug 01 05:13:49 +0000 2015,0,0,"@caridy I'm watching ecma262 &amp; tc39-notes.
+For the loader, is there a specific repo or ecma262 is the right one?"
+89,627338040889995264,Sat Aug 01 04:40:18 +0000 2015,0,0,"@caridy Great! Were there any notes taken? I would like to hear news about both, but especially about the loader."
+90,626815634375057408,Thu Jul 30 18:04:27 +0000 2015,0,0,@alozalv @jmnavarro @liferayeng Liferay permitted us to do it as a proof of concept. The project will evolve if people like it.
+91,626738252825935872,Thu Jul 30 12:56:58 +0000 2015,9,4,"New blog post - ""Creating native mobile applications using Liferay Screens and React"":
+https://t.co/BnxDmTteXM
+#liferay #react #javascript"
+92,626230093443149824,Wed Jul 29 03:17:43 +0000 2015,0,1,"Worth reading: ""How to Build a High Velocity Development Team"":
+https://t.co/Up2dJuMgab
+by @_ericelliott"
+93,625655462369853440,Mon Jul 27 13:14:21 +0000 2015,1,0,"A few days before the deadline writing ES2015 in #Liferay Portal is finally possible (details will follow):
+https://t.co/IlJ7FLMWsN
+#victory"
+94,625586786836811776,Mon Jul 27 08:41:27 +0000 2015,0,0,@miguelinlas3 And In most of the cases exactly they are those who created the shit.
+95,625586038623313920,Mon Jul 27 08:38:29 +0000 2015,1,0,RT @miguelinlas3: People do like a lot working on new stuff ... let the others deal with the shit
+96,623800457081815040,Wed Jul 22 10:23:13 +0000 2015,10,0,RT @kazuho: blogged #http2 / “Kazuho's Weblog: H2O version 1.4.0 released with outstanding support for forward secrecy and load…” http://t.…
+97,623412910551900160,Tue Jul 21 08:43:14 +0000 2015,1086,0,RT @Khanoisseur: Why top talent leaves http://t.co/n3jjwYWGCJ
+98,623235331131875328,Mon Jul 20 20:57:36 +0000 2015,1,1,"Peer-to-peer Extension to HTTP/2 (turns a single HTTP/2 connection into a bi-directional communication channel):
+https://t.co/guIf3h7sR3"
+99,623234446397960192,Mon Jul 20 20:54:05 +0000 2015,23,0,"RT @mozhacks: If you took Friday off, you might have missed ES6 In Depth: Proxies by @jorendorff - http://t.co/qf68PfMIm2 #JavaScript #ECMA…"
+100,623145713510313984,Mon Jul 20 15:01:30 +0000 2015,3,4,"AlloyEditor has a new beautiful skin (Atlas) and a new, more powerful skin infrastructure!
+https://t.co/GxDUK1Yn9R
+Great job @jbalsas!
+\o/"
+101,621951972300693504,Fri Jul 17 07:58:00 +0000 2015,52,0,"RT @jeffbski: I posted ""Is React.js fast? Faster than X? ... or are there better questions to ask?"" https://t.co/ktszlSHszI #reactjs #javas…"
+102,620796301714812928,Tue Jul 14 03:25:46 +0000 2015,0,0,V8 JavaScript Engine: Digging into the TurboFan JIT http://t.co/NmINTrherP
+103,620793117818556416,Tue Jul 14 03:13:07 +0000 2015,0,0,"@miguelinlas3 Thank you very much, Migue!"
+104,620565326585958400,Mon Jul 13 12:07:58 +0000 2015,4,1,"NodeJS (V8) vs Java (Nashorn):
+http://t.co/gBBgDPYj3W
+Results - shame on you @oracle"
+105,620266439652458496,Sun Jul 12 16:20:17 +0000 2015,1,0,"Just added support for ""browser globals"" scripts to #Liferay AMD Loader
+https://t.co/B07anb0qoN
+Tomorrow may not go to office :)
+#lazysunday"
+106,620221282827669504,Sun Jul 12 13:20:51 +0000 2015,8,0,"RT @_ericelliott: ""60fps on the Mobile Web"" React Canvas helped @flipboard hit target perf: http://t.co/6bTih2Odfd #perfmatters #JavaScript"
+107,619216494472335361,Thu Jul 09 18:48:11 +0000 2015,120,0,"RT @cramforce: Introducing Incremental DOM
+
+https://t.co/felUbqBuRn"
+108,618155603844841472,Mon Jul 06 20:32:35 +0000 2015,41,0,RT @rauschma: Support for React’s JSX is coming to TypeScript: http://t.co/FDWO4nioFn
+109,617966788081545216,Mon Jul 06 08:02:18 +0000 2015,0,0,@gonpinju I wish we were that close to a blog post
+110,617603932290973696,Sun Jul 05 08:00:26 +0000 2015,29,0,"RT @jlongster: Web Components is still trying to figure out how to import a component. Meanwhile, React users are now solving complex data …"
+111,617603572709085185,Sun Jul 05 07:59:00 +0000 2015,25,0,RT @jonlebensold: I just published “Thoughts from ReactEurope 2015” https://t.co/cnjircKRs7
+112,617602492508053508,Sun Jul 05 07:54:43 +0000 2015,0,0,@skamille One hater less; no one will miss you.
+113,616930811925954560,Fri Jul 03 11:25:42 +0000 2015,0,0,"@milendyankov Haha, this is actually a new dawn for #Liferay's UI development :)"
+114,616918658288369664,Fri Jul 03 10:37:24 +0000 2015,7,3,"#Liferay UI developers, remember this day well because the main part of adding ES6 in Portal just landed in master!
+https://t.co/IlJ7FLMWsN"
+115,616915584392036352,Fri Jul 03 10:25:11 +0000 2015,46,0,RT @reactnewsletter: React 0.14 beta just released. http://t.co/wsTuVolLgD
+116,616680975435755521,Thu Jul 02 18:52:56 +0000 2015,37,0,"RT @ggrgur: #React is on the way to become a universal target-agnostic view rendering library. Think Native, WebGL, or even crazier"
+117,616651225828880385,Thu Jul 02 16:54:43 +0000 2015,44,0,RT @levibuzolic: React 0.14 will split renderings implementations into their own packages. Awesome! 👏🏼 #ReactEurope from @sebmarkbage
+118,615833348565397504,Tue Jun 30 10:44:46 +0000 2015,0,0,"Sometimes the bugs in #React applications could be very tricky to resolve:
+https://t.co/jxECUXlVYu"
+119,613760512409632768,Wed Jun 24 17:28:03 +0000 2015,1,0,"""HTTP/2 Comes to Java"":
+http://t.co/8ZOHEGb39G"
+120,613746999804956672,Wed Jun 24 16:34:22 +0000 2015,0,0,"@jmnavarro @luisobo Wow, this is worth un Potosí! Thanks guys, after two days working on AMD Loader + ES6 in Portal I needed some humor :)"
+121,613194525234855936,Tue Jun 23 03:59:02 +0000 2015,0,1,“JavaScript Scene Tech Survey Results” by @_ericelliott https://t.co/8LW6NWUSum
+122,612023549302296578,Fri Jun 19 22:25:59 +0000 2015,1,1,"Proposal for extending Source Maps to improve the debugging in Web:
+http://t.co/SV4fPXhMhC"
+123,610563054280028160,Mon Jun 15 21:42:30 +0000 2015,0,4,How to Implement Node + React Isomorphic JavaScript &amp; Why it Matters https://t.co/j15ihVpmsJ
+124,609891314549825537,Sun Jun 14 01:13:15 +0000 2015,0,1,How a Frontend and a Java engineer plug a charger - an elegant vs an over engineered solution ;) @juliocamarero http://t.co/6f3pXkeFwL
+125,609883683693174784,Sun Jun 14 00:42:55 +0000 2015,0,2,"Heading back to home after one week on Brazil. Great retreat, great talks, met again my friends here, what else you can ask for?"
+126,608745872126521344,Wed Jun 10 21:21:40 +0000 2015,5,4,"The slides from my today's talk about ""Modern Web Development"":
+http://t.co/IoyWbSg1FG"
+127,608651489935011841,Wed Jun 10 15:06:38 +0000 2015,2,0,"RT @liferayeng: Very interesting talk by @ipeychev about Modern Web dev and it's evolution from jQuery to React, EcmaScript 7 and RP. http:…"
+128,608357292694753280,Tue Jun 09 19:37:35 +0000 2015,10,0,RT @ShaneHudson: I'm not much of a fan of react but these slides by @stubbornella are incredible. https://t.co/3ZU2GhO08j
+129,607658198108110850,Sun Jun 07 21:19:38 +0000 2015,0,2,"Ready for the talk ""Modern Web Development"" for the retreat in Brazil. Now I know I'm on the right track."
+130,607192823029481472,Sat Jun 06 14:30:24 +0000 2015,0,0,"Heading to Brazil one more time, it will be busy week."
+131,607018593084178432,Sat Jun 06 02:58:05 +0000 2015,18,0,"RT @ryanflorence: lots of if/else nesting used to bother me, I was ""smarter"" than that. I find now its some of the easiest code to follow a…"
+132,606377909113061376,Thu Jun 04 08:32:14 +0000 2015,0,3,"React application using RxJS instead of Flux:
+https://t.co/Hf4ZWGv8NU"
+133,605464371251146752,Mon Jun 01 20:02:09 +0000 2015,0,0,"@lifestyleLy I checked enough libraries/frameworks. They all ""beat"" React... on the price of horrible API and bad memory/events management."
+134,605459693901770752,Mon Jun 01 19:43:34 +0000 2015,1,1,"In short - React removes the pain of manipulating DOM + events, while it is still very fast.
+There are faster alternatives but they all suck"
+135,605453161021743104,Mon Jun 01 19:17:37 +0000 2015,2,1,"Worth reading: ""Is ReactJS really fast?"" http://t.co/lQnoyRaTF0"
+136,604879613370740736,Sun May 31 05:18:32 +0000 2015,3,7,"How did I miss that post:
+""Understanding React and reimplementing it from scratch""
+https://t.co/PEAWxV4PAG
+Good reading for Sunday morning.."
+137,604696884142317569,Sat May 30 17:12:26 +0000 2015,514,0,"RT @igrigorik: HTTP/2 is here, let's optimize: http://t.co/Jo3Bc1wgRC - time to revise some of our best practices... #velocityconf http://t…"
+138,603502291820355585,Wed May 27 10:05:33 +0000 2015,3,2,"Here is the (short) interview I gave on #JSDayES about ReactJS and AlloyEditor:
+https://t.co/MDxEMjtA3a
+via @nhpatt"
+139,603463993647325184,Wed May 27 07:33:22 +0000 2015,5,5,"Just released AlloyEditor v0.2.8 - translated to 66 languages, WAI-ARIA support, works with screen readers too.
+http://t.co/nLcLSYGTbk"
+140,603209382885773312,Tue May 26 14:41:38 +0000 2015,0,0,"@dpobel Hey Damien! There is no forum (yet). If needed, we can create one. For now you may comment/ask on the site via Disquss."
+141,602680342865141760,Mon May 25 03:39:25 +0000 2015,0,0,"@mraleph Haha, okay, thanks!
+Great tool and I just checked my code - no deopts at all :)"
+142,602580675590561794,Sun May 24 21:03:23 +0000 2015,0,0,"@mraleph One more issue - the functions are not colored. Even with your demo1, they aren't:
+https://t.co/fBbAWne9sP https://t.co/jIjumwPUHL"
+143,602580184697544706,Sun May 24 21:01:26 +0000 2015,0,0,"@mraleph This works now, thanks!"
+144,602477561369735170,Sun May 24 14:13:38 +0000 2015,0,0,"@mraleph Here it is:
+https://t.co/onM0zi0I4W
+Thanks!"
+145,602471615822229505,Sun May 24 13:50:01 +0000 2015,0,0,"@mraleph Vyacheslav, do you know what is wrong with this compilation artifact that it does not load in IRHydra 2?
+https://t.co/NPzMnqXunT"
+146,601294993463058432,Thu May 21 07:54:32 +0000 2015,1,0,"Wow, spectacular performance improvements in Microsoft Edge: http://t.co/p1hFe3VEUw"
+147,601108081964093440,Wed May 20 19:31:49 +0000 2015,9,0,RT @Liferay: Easily create web content using AlloyEditor at the next #LiferayLIVE w/@ipeychev on 5/27! http://t.co/OJw5nXV0eI http://t.co/k…
+148,600723649235132417,Tue May 19 18:04:13 +0000 2015,2,3,"The video from my recent talk on JSDayES ""Creating a WYSIWYG editor with React"":
+https://t.co/W3mfOcq014
+The slides:
+http://t.co/gbPipsGFbF"
+149,600653181421559808,Tue May 19 13:24:12 +0000 2015,0,0,"@FelixOrtegaM @JSDayES 
+Got it, thanks!
+@medialabprado - Can't you guys upload these videos with better quality, please?"
+150,600647781989163008,Tue May 19 13:02:45 +0000 2015,0,0,"@JSDayES Hey guys, why is the quality of the videos in YouTube only 240p?
+https://t.co/RxCKEgBWOe"
+151,600620473723047936,Tue May 19 11:14:14 +0000 2015,0,0,"@FelixOrtegaM @carlosvillu Do you know why the quality of the video is 240p?
+I would expect to be a bit more :)"
+152,600605861015363584,Tue May 19 10:16:10 +0000 2015,0,0,"@FelixOrtegaM @carlosvillu Ooo, I didn't know, thanks!"
+153,600605040915652609,Tue May 19 10:12:55 +0000 2015,0,1,"@carlosvillu @felixortegam There will be one more talk about React and AlloyEditor, in June (MadridJS group). You'll have one more chance :)"
+154,600604434025074689,Tue May 19 10:10:30 +0000 2015,0,0,"@carlosvillu Thank you! Here they are:
+http://t.co/gbPipsGFbF
+
+I think they recorded it too, but I don't think it is already published."
+155,600318047535177729,Mon May 18 15:12:30 +0000 2015,5,0,RT @React_Rocks: alloy-editor by @ipeychev: WYSYWIG HTML editor built on top of CKEditor. http://t.co/hclrDLxtMe #reactjs
+156,599116702975033344,Fri May 15 07:38:47 +0000 2015,40,0,RT @bagder: I blogged RFC 7540 is #http2: http://t.co/XjK94xrTFq
+157,598949437822607360,Thu May 14 20:34:08 +0000 2015,0,0,"Bill Scott on how they made the Frontend engineering in PayPal to not suck:
+https://t.co/MpP2mHJwt3"
+158,598742951066492929,Thu May 14 06:53:38 +0000 2015,0,0,Spent the morning before going to office digging (again) into Reactive programming. An interesting weekend seems to come.
+159,598490134955335682,Wed May 13 14:09:02 +0000 2015,299,0,RT @toddmotto: Angular 2.0 migration: npm install react
+160,598454255511609344,Wed May 13 11:46:27 +0000 2015,0,1,"An article about AlloyEditor in german:
+""AlloyEditor - Liferay's neuer WYSIWYG-Editor"" thanks @communardo http://t.co/3f9AWKee3W"
+161,597264636497567744,Sun May 10 04:59:20 +0000 2015,16,12,"The slides from my presentation on JSDayES - ""Creating a WYSIWYG Editor with React"" http://t.co/gbPipsGFbF
+#alloyeditor #react #liferay"
+162,597080289190490114,Sat May 09 16:46:48 +0000 2015,4,0,RT @miguelzunda: ¿Por qué aprender inglés? Para disfrutar hoy de esta excelente charla en #jsdayes íntegra en inglés con @ipeychev http://t…
+163,596773157291294720,Fri May 08 20:26:22 +0000 2015,10,5,"#AlloyEditor has a new release and a brand new, gorgeous site thanks to @jbalsas and @jhidalgoreina:
+http://t.co/AaWB4wOSxQ
+#liferay"
+164,595854515376652288,Wed May 06 07:36:01 +0000 2015,3,8,"This is how we fight against bugs in Liferay office :)
+#TourdeLiferay http://t.co/o0YxfpbgvR"
+165,595651852164853760,Tue May 05 18:10:42 +0000 2015,0,0,Three days left until #JSDayES where I will talk about #ReactJS and how to create a WYSIWYG editor with it.
+166,594600123725918209,Sat May 02 20:31:31 +0000 2015,3,4,"On May 27th join the session where I will introduce AlloyEditor - a new WYSIWYG editor, built with @reactjs
+\o/ https://t.co/bp4pAgzWN6"
+167,594001686663983105,Fri May 01 04:53:32 +0000 2015,28,23,"The slides from my talk @MadridJS about HTTP/2 and QUIC protocols and how do we optimize the Web stack for HTTP/2 era
+http://t.co/Bdit5W4DrZ"
+168,593497793194430464,Wed Apr 29 19:31:15 +0000 2015,1,0,"Fully prepared for tomorrow's talk at @MadridJS about #HTTP2 and #QUIC protocols!
+If you are in Madrid tomorrow - welcome and let's rock!"
+169,592595339326160897,Mon Apr 27 07:45:13 +0000 2015,5,0,RT @ImpactHubMAD: Don´t miss the next @MadridJS meeting about #HTTP2 with @ipeychev 30/04. #JavaScript http://t.co/oErMXM8gBb
+170,590607647021359104,Tue Apr 21 20:06:50 +0000 2015,0,0,"@jorgeferrer Wow, insane :("
+171,590606530539610114,Tue Apr 21 20:02:24 +0000 2015,0,0,"A very good CSS3 Flexbox article:
+https://t.co/3rZi9IR3kq
+And if you still build UI without using it - I'm...sorry."
+172,589125526876454912,Fri Apr 17 17:57:25 +0000 2015,20,0,"RT @mnot: Google gives an update on QUIC, nearing end of independent experimentation. http://t.co/G6q8SLvDHr"
+173,588656083834638336,Thu Apr 16 10:52:01 +0000 2015,4,0,"RT @ImpactHubMAD: Coders, os invitamos a conocer el nuevo protocolo #HTTP2 con @ipeychev organizado por @MadridJS 30/04.  http://t.co/oErMX…"
+174,587963886676115456,Tue Apr 14 13:01:29 +0000 2015,0,0,"@codepo8 @davglass As contributor and part of YUI community for 7 years, I can say it was ahead of its time.
+But not always the best win."
+175,587155550837874688,Sun Apr 12 07:29:26 +0000 2015,1,0,"React/Angular meeting day notes:
+https://t.co/czY1nuzjCv
+#WorthReading"
+176,586510352013230080,Fri Apr 10 12:45:39 +0000 2015,3,0,RT @pinchito: Lots of expectation for @ipeychev talk in @MadridJS: The new HTTP/2 protocol (in English). RSVP now: http://t.co/GFJ8x4Vc0q
+177,582457805405351936,Mon Mar 30 08:22:17 +0000 2015,0,0,@runx I bet ReactNative will win.
+178,581170459003215873,Thu Mar 26 19:06:49 +0000 2015,0,0,@jmnavarro @jordwalke Woohoo!
+179,581052944226914304,Thu Mar 26 11:19:52 +0000 2015,0,0,"Dart team will focus on the compilation to JavaScript and won't put its VM in Chrome:
+http://t.co/oOsJnQ9yEL
+That is kinda good news."
+180,581047434182291456,Thu Mar 26 10:57:58 +0000 2015,2,0,"From the experience I have so far, I'm pretty sure to create unit tests for a nuclear reactor should be easier than for an WYSIWYG editor."
+181,581009727313747968,Thu Mar 26 08:28:08 +0000 2015,0,0,@jakeydev @jorgeferrer @eduardolundgren @AlloyUI What exactly would you like to know?
+182,580755196206301187,Wed Mar 25 15:36:43 +0000 2015,0,0,"@bzz_hu @milendyankov Zsolt, he has to enable ""Marcos"", not ""Macros"". To become rich you have to read carefully :)"
+183,580234952798834688,Tue Mar 24 05:09:27 +0000 2015,41,0,"RT @JavaScriptDaily: Scala.js lets you compile Scala to JavaScript: 
+http://t.co/fJUY5pimzC"
+184,580043443155652608,Mon Mar 23 16:28:28 +0000 2015,0,0,@eranhammer @nodejs What exactly impressed you?
+185,579334840157364225,Sat Mar 21 17:32:44 +0000 2015,3,0,"RT @billwscott: The person I learned the most about hiring great talent: @elainewherry 
+
+Here she shares the ""simulation"". 
+
+http://t.co/N0…"
+186,578956734905057280,Fri Mar 20 16:30:16 +0000 2015,2,2,"Just implemented adding image via the camera in AlloyEditor. Look how my 6 years old daughter is using it:
+https://t.co/4HSl0XtW6V
+:D"
+187,578601692696092672,Thu Mar 19 16:59:28 +0000 2015,25,0,RT @elijahmanor: Chrome 41: New JavaScript techniques for rapid page loads http://t.co/krm5Dc5O57
+188,578143632630370304,Wed Mar 18 10:39:18 +0000 2015,1,1,"Btw, yesterday Chrome Canary finally added support for the final version of HTTP/2!
+\o/
+#webperf"
+189,577000050070536192,Sun Mar 15 06:55:06 +0000 2015,0,0,"@brk0v I did when I tuned it up. It seems FF connects properly.
+With HTTP:
+http://t.co/JfB96OkJ3K
+With HTTPS:
+http://t.co/FKkkptoGj9"
+190,576312574691663872,Fri Mar 13 09:23:19 +0000 2015,0,0,"@miguelinlas3 Not that WebComponents are bad, he didn't understand React and the problem it solves, that's the point :)"
+191,576310267958681600,Fri Mar 13 09:14:09 +0000 2015,0,0,@miguelinlas3 The guy who wrote this article does not have an idea what he is talking about :)
+192,575029685605810176,Mon Mar 09 20:25:35 +0000 2015,1,1,Practical Performance Tips to Make Your HTML/JavaScript Faster (Channel 9) https://t.co/SDCMjVI1Qh via @ch9
+193,574859932496961536,Mon Mar 09 09:11:02 +0000 2015,1,2,Back to Madrid office after two weeks in Brazil. Looking back - we couldn't do it better. Looking forward - future looks good.
+194,573994563397902336,Fri Mar 06 23:52:22 +0000 2015,0,0,"Flying back to home after two weeks in Brazil. Tired a bit, but happy - we finished more work than expected.
+Time for a beer and a cigar."
+195,571995698767536128,Sun Mar 01 11:29:36 +0000 2015,9,3,"Why are there so many JS Frameworks?
+@juanferrub You recently was joking on it, read this:
+http://t.co/cKMZKUgg6x"
+196,571371610093064192,Fri Feb 27 18:09:42 +0000 2015,0,1,"@_pier Ups, sorry :)"
+197,571080033823014913,Thu Feb 26 22:51:04 +0000 2015,0,0,"Worth reading: ""The Path to Parallel JavaScript"":
+https://t.co/EFibDFCIa6"
+198,569496612399128576,Sun Feb 22 13:59:07 +0000 2015,4,0,"RT @zenorocha: there are the serious guys behind @Liferay's front-end: @ipeychev, @natecavanaugh and @eduardolundgren http://t.co/RDqnbzYjGT"
+199,568720460990566400,Fri Feb 20 10:34:58 +0000 2015,0,0,"@juanferrub @jbalsas Haha, things are moving fast :) This is healthy for the community and language."

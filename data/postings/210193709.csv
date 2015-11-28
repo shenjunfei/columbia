@@ -1,0 +1,211 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669337712181305344,Wed Nov 25 02:12:00 +0000 2015,0,3,There's another Nathan sneakin' into my search results https://t.co/N99QWRM687
+1,669337225595891714,Wed Nov 25 02:10:04 +0000 2015,0,4,@frazelledazzell Even when they pipe to /dev/null
+2,669337183476686848,Wed Nov 25 02:09:54 +0000 2015,0,3,@frazelledazzell Vent friends are the best.
+3,669330213143257088,Wed Nov 25 01:42:13 +0000 2015,9,0,RT @rethinkdb: Simplify deployment w/the new networking features in @docker 1.9 — new post by @segphault https://t.co/2ybkYMroDM https://t.…
+4,669330196626071552,Wed Nov 25 01:42:09 +0000 2015,0,3,"@rethinkdb @docker @segphault Ah, synchronicity!"
+5,669322414526996482,Wed Nov 25 01:11:13 +0000 2015,0,0,@frazelledazzell @gortok @fenneh yup depends on the bug but docker/machine or docker/toolbox thx Jess
+6,669272945773137921,Tue Nov 24 21:54:39 +0000 2015,0,2,I had a wise friend who once said the Internet is the equivalent for humans of what a room full of dangling strings would be for cats.
+7,669269753735835648,Tue Nov 24 21:41:58 +0000 2015,0,1,@chanezon Ahahaha nice! :)
+8,669201868468391937,Tue Nov 24 17:12:13 +0000 2015,1,0,RT @pankajojha: love it  https://t.co/2jQyJWEUmA
+9,669201824482725890,Tue Nov 24 17:12:02 +0000 2015,17,0,RT @UberEng: How @UberEng developed Argos to detect outliers before they're outages: https://t.co/SgwgRDx7IV #UberEng #UberData https://t.c…
+10,669153686241849345,Tue Nov 24 14:00:45 +0000 2015,21,42,New article! Seamless @Docker Multihost Networking on @digitalocean ft. @rethinkdb https://t.co/GUTR2CpysX https://t.co/FS4G7kPDN2
+11,669025233559560192,Tue Nov 24 05:30:20 +0000 2015,0,0,It's almost as if programmers are bad at managing scope or something.
+12,669024847369019392,Tue Nov 24 05:28:48 +0000 2015,0,0,2nd time in a row for me that the scope of an article has gotten too big and had to be split into yet another one.
+13,669022179271573504,Tue Nov 24 05:18:12 +0000 2015,0,0,@bridgetkromhout @aphyr Same
+14,669007872894849024,Tue Nov 24 04:21:21 +0000 2015,0,3,"Man, Riemann is amazing."
+15,668985670921289728,Tue Nov 24 02:53:07 +0000 2015,0,0,@jitka You didn't dream it I remember it
+16,668918516460974081,Mon Nov 23 22:26:16 +0000 2015,4,0,RT @FanetteJobs: @julienbarbier42 @AshlynnPolini @vcoisne @ah3rz @upthecyberpunks added more awesomeness here cc @ekaterinatj https://t.co/…
+17,668899074914066432,Mon Nov 23 21:09:01 +0000 2015,0,1,@julienbarbier42 @jpetazzo J's got m4d h4ckz
+18,668140018741841920,Sat Nov 21 18:52:48 +0000 2015,0,0,@latimes @aanand Ah man this explains so much
+19,668139559293599744,Sat Nov 21 18:50:59 +0000 2015,0,1,@frazelledazzell @kiwicon nice have fun remember to take the fur off before eating kiwis
+20,667910615172644866,Sat Nov 21 03:41:14 +0000 2015,0,2,Just wrote a bookmarklet to hide vendored changes in diffs on GitHub.  Yay bookmarklets.
+21,667897190191271937,Sat Nov 21 02:47:53 +0000 2015,3,14,Passed our 1000th closed PR on @dockermachine today.  Here's to many more great contributions to come 🐳
+22,667891036270686208,Sat Nov 21 02:23:26 +0000 2015,0,0,Somebody going to implement that DOOM process killer mod but for zombies instead?
+23,667844855662403584,Fri Nov 20 23:19:56 +0000 2015,76,0,RT @pasalavida: Moebius. Vía @openculture cc/ @Oniropolis https://t.co/542qXl0La4
+24,667813580104863745,Fri Nov 20 21:15:39 +0000 2015,0,0,"@jpetazzo Dude, SICK!  Thanks @kobolog for the concise and fascinating presentation can't wait to play around with it!"
+25,667813393642815488,Fri Nov 20 21:14:55 +0000 2015,36,0,"RT @jpetazzo: Want to learn cool load balancing tricks? Check out ""IPVS for @docker containers"", by @kobolog at #dockercon: https://t.co/a0…"
+26,667811055402246144,Fri Nov 20 21:05:37 +0000 2015,4,0,"RT @yellowiscool: Dockercraft avec des shaders, c'est encore mieux :-) https://t.co/wAJWmW2VGz"
+27,667519616772542465,Fri Nov 20 01:47:33 +0000 2015,2,2,We merged support for Ubuntu &gt;=15.04 into @dockermachine lately.  Get ready to enjoy your native multihost networking ;D
+28,667514439181033472,Fri Nov 20 01:26:58 +0000 2015,0,0,@dblandin @NicolasMLV This is good advice.
+29,667086980782514176,Wed Nov 18 21:08:24 +0000 2015,0,1,"@adriennefriend Daww, you're making me blush.  Thanks :)"
+30,667086861043527680,Wed Nov 18 21:07:56 +0000 2015,0,2,"@adriennefriend Wow, looks fantastic!  Putting that on the TODO list :D"
+31,667079038951800832,Wed Nov 18 20:36:51 +0000 2015,0,1,@adriennefriend Ha I meant any great recipes you might have off the top of your head that we should try.
+32,667066636663304193,Wed Nov 18 19:47:34 +0000 2015,0,1,@adriennefriend Any suggestions? :)
+33,666820612371779589,Wed Nov 18 03:29:57 +0000 2015,0,2,BIG BLUE &gt; BLUE DEVILS
+34,666820556373684224,Wed Nov 18 03:29:44 +0000 2015,0,2,KENTUCKY WON THE GAME AGAINST DUKE AWWW YEAH
+35,666820347904159744,Wed Nov 18 03:28:54 +0000 2015,0,0,"""Hackers"" referenced in @docker comment thread on @newsycombinator .   I'd call that an epic win."
+36,666801150977376256,Wed Nov 18 02:12:37 +0000 2015,0,1,KENTUCKY IS PLAYING DUKE OH SNAP
+37,666784315288649728,Wed Nov 18 01:05:43 +0000 2015,32,0,RT @TheRegister: Debian daddy Murdock joins the unstoppable Docker crusade https://t.co/j8BYtNcukS
+38,666767105379864576,Tue Nov 17 23:57:20 +0000 2015,0,0,@calavera Rough.
+39,666764296483790850,Tue Nov 17 23:46:10 +0000 2015,0,0,"@calavera Or at least some way to ignore vendored changes, which are one of the culprits here that can't be helped by smaller PRs."
+40,666693905635651588,Tue Nov 17 19:06:28 +0000 2015,8,0,RT @BettyJunod: This guy. @ehazlett maintainer extraordinaire and prolific engineer #docker universal control plane #dockercon https://t.co…
+41,666693481700573185,Tue Nov 17 19:04:47 +0000 2015,51,0,RT @jpetazzo: NGINX running in a Unikernel running in @docker. 💥🐳📦 I've been to #dockercon and I've seen the future :)
+42,666693425773699072,Tue Nov 17 19:04:33 +0000 2015,26,0,"RT @solomonstre: ""Docker: a new ecosystem for unikernels?"" @avsm and @justincormack #dockercon"
+43,666413059938742272,Tue Nov 17 00:30:29 +0000 2015,0,1,Not sure I'm digging the new GitHub layout changes.  It seems a bit like change for change's sake.  Wonder what the motivation is.
+44,666382531026010113,Mon Nov 16 22:29:10 +0000 2015,0,2,"@gaetan_dv @frazelledazzell @thelamkin Very, very, happy with mine."
+45,666319446089207809,Mon Nov 16 18:18:30 +0000 2015,0,0,@normalfaults No worries don't mind the mentions just making sure @nathanmccauley gets his proper tweets forwarded :D
+46,666317014814748672,Mon Nov 16 18:08:50 +0000 2015,0,0,:D
+47,666316977841942528,Mon Nov 16 18:08:41 +0000 2015,0,0,@normalfaults @nathanmccauley
+48,666311256534441984,Mon Nov 16 17:45:57 +0000 2015,0,0,"@KendrickColeman unfortunately not, still in SFO"
+49,665669279853907969,Sat Nov 14 23:14:58 +0000 2015,5,0,RT @stefscherer: Sitting in the train to Berlin to attend at the #Docker Meetup. Working on the @HypriotTweets docker-machine driver https:…
+50,665668633201278976,Sat Nov 14 23:12:24 +0000 2015,0,1,"@tianon @debian I know, I'm just teasing :)"
+51,665617970194870272,Sat Nov 14 19:51:05 +0000 2015,0,1,@tianon @debian You know she probably would like it for its own accord don't need to crank up the subliminal messaging :)
+52,665617491326930944,Sat Nov 14 19:49:11 +0000 2015,0,0,"@_zchee_ Sure, I'll try again.  I'm not sure I will get around the DHCP lease issue though.  That file doesn't even exist on my computer."
+53,665402669578780674,Sat Nov 14 05:35:33 +0000 2015,8,0,RT @patio11: You know how Ruby makes you feel like you're being productive even when you may not actually be being productive? Devops does …
+54,665331181383061505,Sat Nov 14 00:51:29 +0000 2015,0,0,@sthulb Looks promising... nice
+55,665319608803438594,Sat Nov 14 00:05:30 +0000 2015,0,1,"Are there any Go modules which will simply spit out the boilerplate for a ""mock"" interface without introducing their own weird layer on top?"
+56,665228573238689792,Fri Nov 13 18:03:45 +0000 2015,3,7,"Awesome looking new @docker tool from @ClusterHQ: ""dvol"".  Version control your data like you version control code! https://t.co/Y8eYQ0z2F4"
+57,665227179236524032,Fri Nov 13 17:58:13 +0000 2015,6,0,RT @ClusterHQ: Docker 1.9 volume working Flocker:  `docker volume create -d flocker --name=myvolume` https://t.co/u0ibUDMurf https://t.co/e…
+58,664968085321809921,Fri Nov 13 00:48:40 +0000 2015,81,0,"RT @docker: Announcing @Docker Trusted Registry 1.4: New UI, Integrated Content Trust &amp; Support for #Docker Engine 1.9: https://t.co/7ZF2tD…"
+59,664959593735323648,Fri Nov 13 00:14:56 +0000 2015,0,0,@moku_rai @chanezon Haha.  Basically my reaction as well.
+60,664957906673008640,Fri Nov 13 00:08:13 +0000 2015,0,0,"@moku_rai @chanezon Don't worry, I've got a ""Docker Swarm using Docker in Docker Driver For Docker Machine"" post in the works"
+61,664950647574298625,Thu Nov 12 23:39:23 +0000 2015,0,0,@moku_rai @docker @ansible @chanezon It's a lot of fun and following up with a dynamic inventory for @dockermachine is a good time too.
+62,664950489755217920,Thu Nov 12 23:38:45 +0000 2015,2,5,.@_zchee_ has xhyve running as @dockermachine plugin.  Good times!  https://t.co/kUsNmYrXeR https://t.co/sveKCzrEsw https://t.co/QGXdSADhG2
+63,664947295239188480,Thu Nov 12 23:26:03 +0000 2015,0,2,"@moku_rai @docker @ansible Heh, I can't take responsibility for what's on @chanezon computer.  He loves to move fast and break things :)"
+64,664947000064905216,Thu Nov 12 23:24:53 +0000 2015,0,0,@booyaa Good times.  Now just have to turn it into a little Flask app I guess :)
+65,664857817560387585,Thu Nov 12 17:30:30 +0000 2015,0,0,@chrisbiscardi Could bind mount the directory and then put the socket in there.
+66,664647538453024768,Thu Nov 12 03:34:56 +0000 2015,58,0,RT @hackers_party: https://t.co/ymeGYLjJ5B
+67,664596892559519744,Thu Nov 12 00:13:41 +0000 2015,29,0,"RT @sh0dan: Awesome! We can now expect 10x SSL speedup in Go 1.6 on AMD64, thanks to @intel and @cloudFlare #golang https://t.co/NOUpTH89ss"
+68,664517432074080256,Wed Nov 11 18:57:56 +0000 2015,6,0,RT @brightbox: Our new @dockermachine driver makes bootstrapping and managing @docker hosts on @brightbox dead easy: https://t.co/K9bVpcLzhb
+69,664490258969554944,Wed Nov 11 17:09:58 +0000 2015,0,0,"@milosgajdos Sorry about this, it is likely a bug.  Could I get you to file a report at https://t.co/HmkFdZH6up with your symptoms?"
+70,664442583037407238,Wed Nov 11 14:00:31 +0000 2015,46,83,"New article: ""Using @ansible With @dockermachine To Bootstrap Host Nodes""! @docker https://t.co/XQ09vj7yIU https://t.co/LA2ZQ1OQn1"
+71,664283988857516032,Wed Nov 11 03:30:19 +0000 2015,0,1,@adr Cool the swarm instructions for machine are not too bad to transpose to cloud providers and/or generic driver as well FWIW
+72,664274468932456448,Wed Nov 11 02:52:29 +0000 2015,1,1,People using @dockermachine plugins to deploy to cloud providers I'd never heard of before.  #LoveIt Nice one @nc_yamamoto !
+73,664274209867104256,Wed Nov 11 02:51:27 +0000 2015,0,0,"@sembiringadi Hey, that's how I prefer my @dockermachine too !  :D"
+74,664274005008977920,Wed Nov 11 02:50:39 +0000 2015,1,0,RT @gijzelaerr: using the new #docker-machine to deploy our scientific pipelines to a private cluster running #OpenStack . Luvin it. Saving…
+75,664273913518686208,Wed Nov 11 02:50:17 +0000 2015,0,0,@yburyug Was just discussing this: https://t.co/WN1E3NRHoB
+76,664273749806460928,Wed Nov 11 02:49:38 +0000 2015,9,0,"RT @nc_yamamoto: docker-machine-sakuracloudの使い方を投稿しました。
+“docker-machine + さくらのクラウドでお手軽リモートdockerするよ on Qiita https://t.co/kkVGxZjwcF” #さくらの…"
+77,664273574987849728,Wed Nov 11 02:48:56 +0000 2015,0,0,"@takumainca Should work (I've been doing this just fine the past few days), please file an issue with --debug output / symptoms"
+78,664273468029083649,Wed Nov 11 02:48:31 +0000 2015,0,0,@adr You can do Swarm on your local laptop using VMs: https://t.co/kmAtA2586w
+79,664216593455431680,Tue Nov 10 23:02:31 +0000 2015,0,1,.@danielmewes Great Success https://t.co/EP6QvWjOgC
+80,664216456221986816,Tue Nov 10 23:01:58 +0000 2015,0,0,"@danielmewes Ah, making it 100000 rows write instead took care of that problem :)"
+81,664215915580424192,Tue Nov 10 22:59:49 +0000 2015,0,0,"@danielmewes Ah, exactly what I'm looking for, looks like the cluster performance graph doesn't budge though.  Not sure why."
+82,664198267668815872,Tue Nov 10 21:49:41 +0000 2015,0,0,@coffeemug @mglukhovsky @danielmewes To be clear I mean the cluster performance graph on the homepage.  Just for show.
+83,664198198328586240,Tue Nov 10 21:49:25 +0000 2015,0,0,@coffeemug @mglukhovsky @danielmewes Any quick quer(y|ies) I could punch into Data Explorer to get some graph action going?  and/or script?
+84,664162393975468032,Tue Nov 10 19:27:08 +0000 2015,1,1,I do think that declaratively scheduling containers with simple rules based on labels and filters is EXTREMELY powerful.
+85,664162162902863872,Tue Nov 10 19:26:13 +0000 2015,0,0,Compose makes a really great frontend for Swarm because it's not bound by the normal Docker client restrictions as well.
+86,664162051669909504,Tue Nov 10 19:25:47 +0000 2015,1,3,Been playing with @docker Swarm and Compose more and more lately now that networking is in an official release.  It's amazing!  Very fast
+87,664160595126542336,Tue Nov 10 19:20:00 +0000 2015,36,0,RT @b0rk: yesterday I used docker in earnest for the first time and I discovered DOCKER IS AMAZING https://t.co/CuIwDqi0hd
+88,664160355766022144,Tue Nov 10 19:19:02 +0000 2015,8,0,"RT @chanezon: docker run -it https://t.co/t8HNXQ5hpe
+https://t.co/Nzb82bas6y New machine learning open source goodies from Jeff Dean &amp; team…"
+89,664160342197473280,Tue Nov 10 19:18:59 +0000 2015,0,0,@chanezon @google Dude nice!  I was thinking about Dockerizing it!
+90,664137212510892032,Tue Nov 10 17:47:05 +0000 2015,1,1,"@jpetazzo @huslage @kartar @s0ulshake Oh yeah... Decreases that time from ""Showing up in class"" to ""Magic Docker moment"" significantly :)"
+91,663846723400237056,Mon Nov 09 22:32:47 +0000 2015,0,0,"@ewindisch @digitalocean Yeah, I've always had a desire to notate that in docs, but everything spiraled out of control quickly."
+92,663843363079090176,Mon Nov 09 22:19:26 +0000 2015,0,1,Should just be on a webpage for easy reference somewhere IMO
+93,663843315188547584,Mon Nov 09 22:19:14 +0000 2015,0,1,It's absurdly silly that you have to make an API call to @digitalocean to get the names of their images for programmatic use.
+94,663825943903866880,Mon Nov 09 21:10:12 +0000 2015,7,0,"RT @gabrtv: I'm still convinced @docker swarm has the best syntax for constraints, affinity and anti-affinity. #KubeCon"
+95,663778533445996544,Mon Nov 09 18:01:49 +0000 2015,6,0,"RT @patio11: HN commenter: ""Sometimes you have to pay your dues and do at-cost or volunteer work."" &lt;-- Strong. Disagree. Neither required n…"
+96,663778509530140672,Mon Nov 09 18:01:43 +0000 2015,16,0,"RT @patio11: Engineers want to think ""Man if I just throw lots of value up onto Github then I will be given the best jobs and gigs."" This i…"
+97,663775832133861376,Mon Nov 09 17:51:05 +0000 2015,1,0,"RT @aanand: It’s true that I have named several of my birds after Docker tools – Machine, Compose &amp;c. In retrospect, this has caused a lot …"
+98,663520500212088832,Mon Nov 09 00:56:29 +0000 2015,0,0,@tianon @papertigerss but going over the wire complicated things a bit
+99,663520416116269056,Mon Nov 09 00:56:09 +0000 2015,0,1,@tianon @papertigerss ha yeah I've been working on a solution where machine checks drivers to see if they fulfill NoSSHer interface
+100,663478448002744320,Sun Nov 08 22:09:23 +0000 2015,84,0,RT @docker: nvidia-docker: repo including utilities to build and run @NVIDIA @Docker images: https://t.co/uH0gS8HafY https://t.co/oa3m0kdRIn
+101,663477654641709056,Sun Nov 08 22:06:14 +0000 2015,0,0,@papertigerss @kelseyhightower @botchagalupe we want a plugin for triton too ;)
+102,663477553470922752,Sun Nov 08 22:05:50 +0000 2015,15,0,RT @kelseyhightower: docker-machine just saved me 45 mins. Thanks for making it easy to setup new docker dev instances on GCE. https://t.co…
+103,663162339995185152,Sun Nov 08 01:13:17 +0000 2015,1,1,"I'm dying for someone to write a Chrome extension that embeds a ""Fork To Automated Build on @docker Hub"" button on @github repositories."
+104,663116411976331264,Sat Nov 07 22:10:47 +0000 2015,0,0,@rfc1459 @docker I think we've considered --private flag for docker-machine ip before.  Can be a bit tricky as each cloud has its own ideas
+105,663116048544083969,Sat Nov 07 22:09:20 +0000 2015,0,0,"@rfc1459 @docker Best is to chat on or open issues at https://t.co/KuLIPpJSqb .  I agree bootstrapping ""SwarmNet""s is not as it should be"
+106,663115618283995136,Sat Nov 07 22:07:38 +0000 2015,0,0,"@kaitoedter That said, a detailed issue at https://t.co/HmkFdZpv5P would be great as it helps us to understand how to help."
+107,663115477019791360,Sat Nov 07 22:07:04 +0000 2015,0,0,"@kaitoedter There can often be VirtualBox issues, make sure you are manually trying docker-machine create and checking --debug ouptut"
+108,663100612897214464,Sat Nov 07 21:08:00 +0000 2015,0,4,@chanezon https://t.co/PM0jdYUk2D
+109,662854525259087872,Sat Nov 07 04:50:08 +0000 2015,9,0,RT @chanezon: https://t.co/6k8zQooydn Docker Hub Reaches Over 1.2 Billion Pulls https://t.co/3p9mRsiqK7
+110,662826918551556096,Sat Nov 07 03:00:26 +0000 2015,0,1,@deeeet dude nice
+111,662821101370609664,Sat Nov 07 02:37:19 +0000 2015,0,3,Listening to Drum and Bass makes you a better programmer. Sorry I don't make the rules
+112,662818118566154241,Sat Nov 07 02:25:28 +0000 2015,0,1,#OSSLife https://t.co/7F7UOD3dNe
+113,662808874697670656,Sat Nov 07 01:48:44 +0000 2015,32,0,"RT @vieux: \o/ #swarm is in the top 10 most pulled repo on the @Docker Hub 
+
+https://t.co/Pz3NTTntJ4"
+114,662802466451288064,Sat Nov 07 01:23:16 +0000 2015,120,0,RT @docker: .@Docker Hub Reaches Over 1.2 Billion Pulls! https://t.co/ukbzmwEVIj https://t.co/pHmitDJlNU
+115,662747048362438656,Fri Nov 06 21:43:04 +0000 2015,3,0,RT @StackHut: @docker @dockermachine just moved our codebase from boot2Docker to Docker Machine - more reliable on OSX and isolated machine…
+116,662452981770534912,Fri Nov 06 02:14:33 +0000 2015,3,10,.@jweissig_ has been playing with neural networks https://t.co/0AVvTOA3il
+117,662382603954032640,Thu Nov 05 21:34:53 +0000 2015,1,0,RT @networkstatic: Hey thanks @digitalocean I heart some random free compute. Moar docker-machine fuelz. https://t.co/2qOaSUgqJg
+118,662378973972660227,Thu Nov 05 21:20:28 +0000 2015,0,0,"@sjfloat @docker You can always contribute more than +1s.  Logs, specific symptoms, OS versions, etc.  All extra info helps solve problems."
+119,662368818795155456,Thu Nov 05 20:40:07 +0000 2015,0,0,@sjfloat @docker Running 0.5.0?  We're always wanting to hear user issues at https://t.co/HmkFdZpv5P
+120,662337993672228864,Thu Nov 05 18:37:37 +0000 2015,0,0,@jshmlr Cool background!
+121,662165902842920960,Thu Nov 05 07:13:48 +0000 2015,14,0,RT @scott_lowe: Apparently Netflix is writing an Docker Networking plugin for use with Amazon VPC. Interesting.
+122,662103097053868032,Thu Nov 05 03:04:14 +0000 2015,12,0,RT @dockermachine: You can use the quickstart here https://t.co/CeydVtkNnh to get started trying Docker 1.9 multi-host networking today!
+123,662075591257034752,Thu Nov 05 01:14:56 +0000 2015,1,2,You can try out the new Docker 1.9 multi-host networking in just 5-10 minutes using the quickstart from the docs! https://t.co/ekK3wbzFjP
+124,662061059436490753,Thu Nov 05 00:17:11 +0000 2015,0,0,@joschi83 Yay!
+125,662059669247016961,Thu Nov 05 00:11:40 +0000 2015,0,1,@jbrains We do accept issues at https://t.co/HmkFdZpv5P if and when you're feeling better.
+126,662059511931244544,Thu Nov 05 00:11:02 +0000 2015,2,0,"RT @dcurrie: Playing with Docker 1.9: just ran my first multi-host network utilizing machine, swarm and compose following https://t.co/ZPsu…"
+127,662053996270477312,Wed Nov 04 23:49:07 +0000 2015,13,0,RT @icecrime: Docker Clustering Tools Compared: Kubernetes vs Docker Swarm https://t.co/FYZiiAAwAT https://t.co/9oaUpIIf3J
+128,662023975954878464,Wed Nov 04 21:49:50 +0000 2015,0,0,@AshBerlin @bfirsh @docker Toolbox is the official way to upgrade.  Sorry to hear about the trouble
+129,662023846883491840,Wed Nov 04 21:49:19 +0000 2015,0,0,"@AshBerlin @bfirsh @docker We've worked hard to get the brew recipe up to date, but waiting on https://t.co/c2Lt1rH526 getting merged."
+130,661998086001049600,Wed Nov 04 20:06:57 +0000 2015,0,0,@normalfaults @nathanmccauley But I think it looks cool ;D
+131,661998058180227072,Wed Nov 04 20:06:51 +0000 2015,0,0,@normalfaults Hm I think you maybe meant to cc @nathanmccauley
+132,661961087890366464,Wed Nov 04 17:39:56 +0000 2015,0,0,@StackHut @docker @dockermachine appreciate the positive feedback!
+133,661799534155055104,Wed Nov 04 06:57:59 +0000 2015,2,0,RT @segphault: The new networking model in @Docker 1.9 solves a ton of problems for me. I’m really excited to start using it with my home D…
+134,661798380738220032,Wed Nov 04 06:53:24 +0000 2015,0,0,@oliyoung Cool hope it works out for you always welcome to file an issue at https://t.co/HmkFdZpv5P if you continue to run into trouble
+135,661763106268319744,Wed Nov 04 04:33:14 +0000 2015,0,1,"@oliyoung Failing that, trying SSHing into the machine and see if docker commands work there."
+136,661762638326595584,Wed Nov 04 04:31:22 +0000 2015,0,1,@oliyoung Just -H alone isn't sufficient if TLS is enabled.  Have you tried 'docker $(docker-machine config name) ps'?
+137,661706112366829568,Wed Nov 04 00:46:45 +0000 2015,3,0,"RT @dockermachine: Some example plugins are already being developed! 
+
+@ParallelsMac: https://t.co/QDMk4WFU47 
+@docker-in-@docker: https://…"
+138,661706092443885568,Wed Nov 04 00:46:41 +0000 2015,7,0,"RT @dockermachine: Docker Machine 0.5.0 released! https://t.co/im4E90I7Fq
+
+Pluggable drivers will allow use of any cloud or virtualization …"
+139,661701167538290688,Wed Nov 04 00:27:06 +0000 2015,22,0,"RT @AanandPrasad: Compose 1.5 is huge: experimental networking support, environment variable substitution and it runs on Windows. https://t…"
+140,661701140057227265,Wed Nov 04 00:27:00 +0000 2015,1,2,".@AanandPrasad @mnowster @dnephin @j0ffrey Man did anyone else notice that this https://t.co/2o6x2OOVxR account is like, really professional"
+141,661701048633987072,Wed Nov 04 00:26:38 +0000 2015,3,0,"RT @AanandPrasad: Plus: environment-specific “override” files, better errors when your config’s wrong. Spectacular work from @mnowster, @dn…"
+142,661700931617091584,Wed Nov 04 00:26:10 +0000 2015,410,0,RT @docker: Multi-Host @Docker Networking is now ready for production with today's #Docker 1.9 release: https://t.co/6uSsNmCizg https://t.c…
+143,661700888810012672,Wed Nov 04 00:26:00 +0000 2015,200,0,RT @docker: Just released: #DockerSwarm 1.0 - Production-ready clustering at any scale https://t.co/nzD3wEM39n https://t.co/ZCRXGdTCLa
+144,661679502628487168,Tue Nov 03 23:01:01 +0000 2015,16,0,RT @legal_90: Run #Docker on your Mac! I've just released #Parallels Driver for @DockerMachine 0.5.0: https://t.co/Dlp67DUlPx
+145,661656831220051970,Tue Nov 03 21:30:56 +0000 2015,127,0,RT @tiborvass: Happy to announce @docker 1.9.0 is released! https://t.co/LtIIdiRwsu And so proud it coincides w the #golang book! https://t…
+146,661638236146569220,Tue Nov 03 20:17:02 +0000 2015,0,0,@bsideup @arungupta Try 0.5.0 once it comes out and let us know what you think.  Issues at https://t.co/pHOoklai5B if you run into problems
+147,661638135411924992,Tue Nov 03 20:16:38 +0000 2015,0,0,@arungupta You're going to get so much organic search love for this one :)
+148,661638007095558145,Tue Nov 03 20:16:08 +0000 2015,7,0,RT @dgageot: Thanks everyone for the great support. I'm currently working on docker-machine. If you want to participate to the code/drivers…
+149,661637955799285760,Tue Nov 03 20:15:55 +0000 2015,19,0,"RT @jonasrosland: [new blog] Use #Docker Swarm with a data persistence layer
+https://t.co/IgrcEdqi3y"
+150,661637270286413825,Tue Nov 03 20:13:12 +0000 2015,0,0,@ZenHubIO I think labels (the right hand bar in an issue or pull request)
+151,661632982445240320,Tue Nov 03 19:56:10 +0000 2015,50,0,RT @icecrime: .@Docker core team is starting the 1.9.0 release process #behindthescenes https://t.co/3ugMlvEwZd
+152,661632932973441024,Tue Nov 03 19:55:58 +0000 2015,1,3,I don't like hearts I like stars
+153,661632868616024064,Tue Nov 03 19:55:43 +0000 2015,0,0,Does @ZenHubIO have hotkeys to zip around setting the different tags on issues more quickly?
+154,661429442338623488,Tue Nov 03 06:27:22 +0000 2015,0,0,@frazelledazzell dysentery right?
+155,661418445737603072,Tue Nov 03 05:43:40 +0000 2015,71,0,RT @docker: Setting up an @ownCloud Server in a @Docker #container using #Docker Compose by @msuixo https://t.co/LFczHbEJQd https://t.co/mb…
+156,661298204873355264,Mon Nov 02 21:45:53 +0000 2015,239,0,"RT @patio11: ""Why use Slack when IRC exists?"" UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX UX …"
+157,661246162448416768,Mon Nov 02 18:19:05 +0000 2015,0,0,@ZenHubIO Sure
+158,660687944294907904,Sun Nov 01 05:20:55 +0000 2015,42,0,RT @tiborvass: RC4 for @docker 1.9.0 is out! If you have any major issues upgrading let us know. https://t.co/SS2Z7Th7SI PLEASE TEST! Thank…
+159,660551291857317889,Sat Oct 31 20:17:55 +0000 2015,0,0,@eeeebbbbrrrr @github It's available in the latest RC and will be coming out in 0.5.0 next week
+160,660551177373769728,Sat Oct 31 20:17:27 +0000 2015,0,0,@eeeebbbbrrrr @github Sorry about this but for future reference we just added a --github-api-token flag that will solve the rate limit
+161,660550402736152576,Sat Oct 31 20:14:23 +0000 2015,133,0,RT @laurelcomics: Happy Halloween !!!  @docker #whale #Halloween #Docker #zombie https://t.co/eXCRC8rWu0
+162,660232004869316608,Fri Oct 30 23:09:11 +0000 2015,46,0,"RT @frazelledazzell: if you create a filepath w `path1+""/""+path2+""/""+path3` instead of filepath.Join or path.Join I am going to assume you …"
+163,660226125851836416,Fri Oct 30 22:45:49 +0000 2015,0,0,"@smashwilson @docker @travisci Ah, I see.  Yeah, that makes sense."
+164,660223196285681666,Fri Oct 30 22:34:11 +0000 2015,7,7,Apparently you can use @docker *directly* (as in docker run blah...) in @travisci now.  https://t.co/kd5cEqmt8p  That's just stupid awesome.
+165,660219887378259968,Fri Oct 30 22:21:02 +0000 2015,2,1,Excellent writing at https://t.co/mzsmgIwyZL which I had read before but appreciate even more now https://t.co/qxBkQsPsjg
+166,660210297664221184,Fri Oct 30 21:42:55 +0000 2015,0,0,I love it when a plan comes together https://t.co/3Fr6XEXaxA https://t.co/eoIU9taof1
+167,660194838847950848,Fri Oct 30 20:41:30 +0000 2015,0,1,If you write any kind of Go code regularly and don't use goimports-on-save you need to make it an immediate priority to at least try it.
+168,660190887733886976,Fri Oct 30 20:25:48 +0000 2015,14,0,"RT @inadarei: YESSS! Thank you, @docker!  ♥️♥️♥️ https://t.co/raEfbAV6cL"
+169,660190287084453888,Fri Oct 30 20:23:24 +0000 2015,5,0,"RT @ataussig: ""@RethinkDB Shows Remarkable Momentum with 30% Growth Month-over-Month"" https://t.co/S8rGcypvVe"
+170,660190183388635136,Fri Oct 30 20:23:00 +0000 2015,0,1,@bketelsen cc @AhmetAlpBalkan maybe you know some folks
+171,660190016346263552,Fri Oct 30 20:22:20 +0000 2015,0,1,@AnnaPawlicka New job in SF?  Congrats!
+172,660159381082759168,Fri Oct 30 18:20:36 +0000 2015,0,0,@chrisbiscardi haha no i mean the painting of you
+173,660156171043516417,Fri Oct 30 18:07:50 +0000 2015,11,0,RT @jpetazzo: We are the containerati and we run our OpenVPN clients @docker containers and so should you! https://t.co/lNMVZGn4RO
+174,660155862841856000,Fri Oct 30 18:06:37 +0000 2015,0,0,@chrisbiscardi I think we need to see a pic of the graffiti mural C Biz for comparison
+175,660155795393220608,Fri Oct 30 18:06:21 +0000 2015,0,0,@chrisbiscardi LMAO
+176,660155689663262720,Fri Oct 30 18:05:56 +0000 2015,0,0,@aanand I used to never floss until I had a couple cavities that easily could have been avoided otherwise.  Now I'm practically religious
+177,660155366915751937,Fri Oct 30 18:04:39 +0000 2015,0,1,@vcoisne @julienbarbier42 @AshlynnPolini @WebSummitHQ I'm hella game for this
+178,660155126250803200,Fri Oct 30 18:03:41 +0000 2015,8,0,RT @benballjr: @julienbarbier42 @upthecyberpunks @LinkedIn sorry but we're looking for a minimum of 5 years experience using Docker...
+179,660009907781898240,Fri Oct 30 08:26:39 +0000 2015,0,0,@chanezon I see.  vim
+180,659950645659631616,Fri Oct 30 04:31:09 +0000 2015,0,2,"@tianon @thaJeztah @gabrtv @docker @yosifkit T, J, and T2 have held the torch for a while though let's not forget their massive dedication"
+181,659949916848979968,Fri Oct 30 04:28:16 +0000 2015,0,1,@chanezon same thing happened with ZoHo at Dreamforce.  I'd be surprised if those went out without a lot of marketing attn though so I dunno
+182,659949735076229120,Fri Oct 30 04:27:32 +0000 2015,0,0,@chanezon I noticed these too and actually feel like this type of ad just inadvertently promotes the brand they're trying to attack
+183,659949398135193600,Fri Oct 30 04:26:12 +0000 2015,0,2,@chanezon oh are we just stirring up trouble for trouble's sake now?
+184,659915561451675648,Fri Oct 30 02:11:45 +0000 2015,14,0,RT @docker: go-dockervolume: lib producing generic code for @Docker volume plugins written in @golang: https://t.co/q15IKThNHm
+185,659898617843417088,Fri Oct 30 01:04:25 +0000 2015,73,0,"RT @dockermachine: Docker Machine 0.5.0-rc4 has been released: https://t.co/im4E90I7Fq.  Please help us test this release, it's going to be…"
+186,659879402801500160,Thu Oct 29 23:48:04 +0000 2015,0,0,Guess the Go authors can't save you from your own silly mistakes :)
+187,659879337546518528,Thu Oct 29 23:47:48 +0000 2015,0,0,"Spent some time trying to figure out why my embedded method was ambiguous, only to realize that I embedded another struct with same method"
+188,659878838638252033,Thu Oct 29 23:45:49 +0000 2015,0,0,*writing.  Not my day for spelling and version numbers apparently. :)
+189,659878784749862913,Thu Oct 29 23:45:36 +0000 2015,0,1,"After righting Go for over 2 years now, and currently doing it full time as a job, I have a huge appreciation for the authors doing this"
+190,659878677920874496,Thu Oct 29 23:45:11 +0000 2015,0,0,"I've always had a feeling that they were on to something and that if something I was trying to do was difficult, that it was just Wrong"
+191,659878546282680320,Thu Oct 29 23:44:40 +0000 2015,0,0,The authors made it simple and small so that you would be forced into the right way of doing things.
+192,659878451210354688,Thu Oct 29 23:44:17 +0000 2015,1,3,"I know that people think of Go as a simple, small language, but I think the learning curve is actually deceptively steep after a while"
+193,659874653020667904,Thu Oct 29 23:29:11 +0000 2015,0,0,@AshlynnPolini @julienbarbier42 @docker @vcoisne 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥#BOOM
+194,659874471679946752,Thu Oct 29 23:28:28 +0000 2015,0,0,"@julienbarbier42 @docker @AshlynnPolini @vcoisne LOL so then maybe I shouldn't take a photo, just so I know my victory is genuine"
+195,659874388368494593,Thu Oct 29 23:28:08 +0000 2015,1,0,RT @julienbarbier42: @upthecyberpunks @docker Now thatyou mention lushups... Where are the pushups??? @AshlynnPolini @vcoisne #boomteam
+196,659873114235400192,Thu Oct 29 23:23:04 +0000 2015,0,0,@julienbarbier42 @docker dockerun.gif dockerpushup.gif
+197,659872805010345984,Thu Oct 29 23:21:51 +0000 2015,1,0,"RT @bridgetkromhout: @upthecyberpunks But &lt;NAME&gt;, don't you want to work in the South Bay as one of faceless thousands?!?"
+198,659872743031083009,Thu Oct 29 23:21:36 +0000 2015,0,1,@julienbarbier42 @docker I don't remember that... SOUNDS LIKE A REMATCH
+199,659872535954087936,Thu Oct 29 23:20:47 +0000 2015,0,2,@upthecyberpunks UPDATE: MY ESTEEMED COLLEAGUE @jmorgan HAS REMINDED ME THAT IT'S ACTUALLY THE 0.5.0-rc4 #NUMBERS #ONEMACHINETORULETHEMALL

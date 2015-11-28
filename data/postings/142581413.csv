@@ -1,0 +1,190 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668830827896111104,Mon Nov 23 16:37:50 +0000 2015,57,0,RT @_ericelliott: They said JS was slow. Now it's fast. Said we had no dev tools. We have the best. Said it sucks for big apps. We rock the…
+1,668830685323509761,Mon Nov 23 16:37:16 +0000 2015,33,0,RT @dan_abramov: Emphasizing “one container component at the top” in Redux examples was a mistake. Don’t take this as a maxim.
+2,668830643346911232,Mon Nov 23 16:37:06 +0000 2015,9,0,"RT @dan_abramov: Generally as soon as you feel a parent knows too much about “personal” data / actions of its children, time to extract a c…"
+3,668830609146531840,Mon Nov 23 16:36:58 +0000 2015,5,0,RT @dan_abramov: Try to keep your presentation components separate. Create container components by connecting them when it’s convenient.
+4,668830583745863681,Mon Nov 23 16:36:52 +0000 2015,5,0,"RT @dan_abramov: Whenever you feel like you’re duplicating code in parent components to provide data for same kinds of children, time to ex…"
+5,668830540305444864,Mon Nov 23 16:36:41 +0000 2015,1,0,RT @JoeIngeno: Protecting #Microsoft #Edge against binary injection https://t.co/NvAJGbdP17 @windowsblog
+6,668829784068251648,Mon Nov 23 16:33:41 +0000 2015,183,0,"RT @BenjaminNorton: ""All that is solid melts into air.""
+-Marx https://t.co/Rql1MGpq8F"
+7,668829731635245056,Mon Nov 23 16:33:28 +0000 2015,65,0,"RT @BenjaminNorton: This is from an IBM presentation — that is to say, capitalists are boasting about how increasingly useless they are.
+ht…"
+8,668829616371560448,Mon Nov 23 16:33:01 +0000 2015,3,0,RT @JoeIngeno: Engineers Have Written #Quantum Code on a Silicon Chip for the Very First Time https://t.co/vIlduzix8y @IFLScience
+9,668829517113335808,Mon Nov 23 16:32:37 +0000 2015,11,0,"RT @mgsiegler: Now that AWS is finally established as a killer business, it's on to the next massive market: users of Final Draft.  https:/…"
+10,668829438017183744,Mon Nov 23 16:32:18 +0000 2015,13,0,"RT @WeeklyMeteor: Meteor Weekly Issue #5 released!
+https://t.co/Tcy7NMHjl0
+#meteorjs #javascript"
+11,664733907796033537,Thu Nov 12 09:18:08 +0000 2015,13,0,"RT @sublimecoder: Testing can show the presence of errors, but not their absence.
+- E. W. Dijkstra"
+12,664437195130994688,Wed Nov 11 13:39:06 +0000 2015,4,0,RT @webfuts: #Meteor package @Atmospherejs to handle the BLAZING FAST @Algolia search engine (working on client and server) » https://t.co/…
+13,664429942701219840,Wed Nov 11 13:10:17 +0000 2015,315,0,RT @_ericelliott: Java is to JavaScript as pain is to painting.
+14,664429319654146048,Wed Nov 11 13:07:48 +0000 2015,1,0,RT @neoplextech: Quality means doing it right when no one is looking. - Henry Ford
+15,664428996088766464,Wed Nov 11 13:06:31 +0000 2015,1,0,RT @neoplextech: ORM generate #T-SQL code is not optimized... I wish the data layer is developed using #t-sql only!! Time for optimized #st…
+16,663729982955528192,Mon Nov 09 14:48:54 +0000 2015,10,0,"RT @sublimecoder: TDD does not drive towards good design, it drives away from a bad design"
+17,662653426740944897,Fri Nov 06 15:31:03 +0000 2015,5,0,RT @todd_singleton: How to Build a Helpful Search for Technical Documentation : The Laravel Example https://t.co/2Un1zIpvd1 via @algolia
+18,662653422848577538,Fri Nov 06 15:31:02 +0000 2015,6,0,"RT @JoeEmison: The more I use @algolia, the more I love it. Total mystery to me how few developers are aware of it (but know found.no???)"
+19,662599471600148480,Fri Nov 06 11:56:39 +0000 2015,13,0,RT @JoeIngeno: C# 6.0 Features You Should Know https://t.co/hZ84et1VHH @aspnet @dotnet @visualstudio @msdev #csharp
+20,662599396928970752,Fri Nov 06 11:56:21 +0000 2015,20,0,RT @meteorjs: Exporting Data From Your Meteor Application https://t.co/HJnKFDn0Cl by @themeteorchef #meteorjs #javascript
+21,662591474995974144,Fri Nov 06 11:24:52 +0000 2015,22,0,"RT @subdigital: I have near zero tolerance for commented out code that is checked into a repo.
+
+This is what source control is for."
+22,662591349666021376,Fri Nov 06 11:24:22 +0000 2015,29,0,RT @DaniStefanovic: Really enjoyed @andrestaltz talk yesterday at #GoReactive. Is React a thing of the past and Cycle.js the future? https:…
+23,662591328807723009,Fri Nov 06 11:24:17 +0000 2015,15,0,"RT @sublimecoder: ""Lisp isn't a language, it's a building material.""
+- Alan Kay."
+24,661180707507671040,Mon Nov 02 13:58:59 +0000 2015,0,0,Learning process of a software developer https://t.co/3Pw0HfgAmS via @ariancelina
+25,660062473098305536,Fri Oct 30 11:55:31 +0000 2015,133,0,RT @ryanflorence: Reminder to be positive. I meet a lot of developers and feel bad for the ones who only seem to complain about stuff. PROG…
+26,660061646904279040,Fri Oct 30 11:52:14 +0000 2015,8,0,"RT @sublimecoder: Thinking about learning #Ruby or #Rails? Check out my review for a few of the best resources on the web. 
+https://t.co/Ti…"
+27,659726020224917505,Thu Oct 29 13:38:34 +0000 2015,351,0,RT @ryanlanciaux: My daughter’s costume is pretty awesome :) cc: @github https://t.co/0IyRqgOPmg
+28,659725697246740481,Thu Oct 29 13:37:17 +0000 2015,1,0,RT @gilfink: App has a new layout that is also responsive to fit mobile phones :)
+29,659725637071040512,Thu Oct 29 13:37:03 +0000 2015,6,0,RT @jkrummenacher: How does HTTP/2 improve your #webperf? Meet us at the KeyCDN booth and lets talk at #VelocityConf https://t.co/TJMZmm0ltx
+30,659721635390431232,Thu Oct 29 13:21:09 +0000 2015,115,0,RT @JavaScriptDaily: Choosing a Framework: Angular vs Ember vs React - https://t.co/WlMSguETSx
+31,659721514900672512,Thu Oct 29 13:20:40 +0000 2015,11,0,"RT @DaniStefanovic: A sample Docker workflow with Nginx, Node.js and Redis https://t.co/CPkGfM504w"
+32,659715745522262016,Thu Oct 29 12:57:45 +0000 2015,2,0,"RT @Kevin_Granger: ""Beyond Usability: Designing With Persuasive Patterns""  https://t.co/b881m555Yc #mustread #feedly"
+33,659715703046557697,Thu Oct 29 12:57:35 +0000 2015,4,0,"RT @Kevin_Granger: ""Web Development Reading List #107""  https://t.co/hdMAttqMHL"
+34,659689794910470145,Thu Oct 29 11:14:38 +0000 2015,14,0,RT @autocoderun: What the Autocode team is all about  #docker #nodejs #laravel #rails #sailsjs #django #npmjs https://t.co/Q9p9nQSLmA https…
+35,659421191044775936,Wed Oct 28 17:27:18 +0000 2015,58,0,RT @ng_directives: Angular directive to add a reCaptcha widget to your form | https://t.co/7gcC5uymAZ #angularjs https://t.co/MudQzX1Tgm
+36,659421186674302977,Wed Oct 28 17:27:17 +0000 2015,12,0,RT @Syncfusion: How To Achive Polymorphism In C# via @CsharpCorner https://t.co/R90HNEGXaG
+37,659421186628173833,Wed Oct 28 17:27:17 +0000 2015,1,0,RT @jasonpjason: this is a fantastic read about empathy and decision-making https://t.co/iK3K2R2CxL /via @MichelleBee
+38,659421186619744256,Wed Oct 28 17:27:17 +0000 2015,1,0,RT @JoeIngeno: Lazy Loading Images on the Web https://t.co/VZNwj1x3O5 @remotesynth @telerik
+39,659421186607181824,Wed Oct 28 17:27:16 +0000 2015,4,0,RT @JoeIngeno: Front-end Developer Handbook https://t.co/zbexQuQ9Pm @codylindley
+40,659421177581015040,Wed Oct 28 17:27:14 +0000 2015,1,0,"RT @subdigital: 1 entire hour on the phone with Blue Cross, they finally tell me that they can’t help me and that my wife will have to call."
+41,659421176448602112,Wed Oct 28 17:27:14 +0000 2015,29,0,"RT @steveklabnik: A good programming language programs you, just as much as you program it."
+42,659421173437104129,Wed Oct 28 17:27:13 +0000 2015,2,0,"RT @subdigital: Some say I’m a coffee-snob, but really I just pay attention to the details.  Like this guy:
+
+https://t.co/goeJ5uPPEc"
+43,659421170178072576,Wed Oct 28 17:27:13 +0000 2015,5,0,"RT @SaraJChipps: If you're going to lose, that's the way to do it."
+44,659421168869507072,Wed Oct 28 17:27:12 +0000 2015,47,0,"RT @codinghorror: ""the 15 hours a day I sleep have no effect."" https://t.co/haK3wPVTSF"
+45,659421168865292288,Wed Oct 28 17:27:12 +0000 2015,1,0,RT @gilfink: Making an app more mobile friendly
+46,659421164918415360,Wed Oct 28 17:27:11 +0000 2015,34,0,RT @meteorjs: Processing payments in #meteorjs apps using #Braintree https://t.co/TPFIL5WmRw via @michaltakac #AppMonetization https://t.co…
+47,659421153564475393,Wed Oct 28 17:27:09 +0000 2015,0,0,@jeresig eruye
+48,659421152939483136,Wed Oct 28 17:27:08 +0000 2015,33,0,RT @haacked: Found a cool C# evaluator on the web for when I'm too lazy to install and run Linqpad. https://t.co/uIuMCPhMbF
+49,659421152935301120,Wed Oct 28 17:27:08 +0000 2015,1,0,RT @gilfink: It is nice to find my own post about a thing I needed to implement in a project... Only cut and paste from my example and it w…
+50,659421152809492480,Wed Oct 28 17:27:08 +0000 2015,2,0,"RT @gilfink: #AngularJS tip: bind to objects, not to primitive types!"
+51,658994303558098945,Tue Oct 27 13:11:00 +0000 2015,3,0,RT @wulfmeister: #meteorspacecamp https://t.co/0y3KdTTllM
+52,658988207619600386,Tue Oct 27 12:46:46 +0000 2015,0,0,"@Coffee @FoundryCofee Ethiopia is where Coffee arabica, the coffee plant, originates.  https://t.co/FvkJ4irOwD"
+53,658685064365154304,Mon Oct 26 16:42:11 +0000 2015,62,0,RT @mhevery: Great write up on @AngularConnect https://t.co/MeiB65v7kH
+54,657575198561058817,Fri Oct 23 15:11:59 +0000 2015,734,0,RT @amasad: Infrastructure engineering http://t.co/skOkYbaxJM
+55,657573056748105728,Fri Oct 23 15:03:28 +0000 2015,3,0,RT @ag_dubs: heck yeah! @benjamn says stop ignoring your es6 modules and publish them to @npmjs! https://t.co/BnVjmTYvaK
+56,657572931229233153,Fri Oct 23 15:02:58 +0000 2015,12,0,RT @briantford: slides for my @AngularConnect talk about #aliens https://t.co/z8Nx7hyT8M
+57,657520113919393793,Fri Oct 23 11:33:05 +0000 2015,1,0,"RT @ZombieCodeKill: Never leave cross browser testing until the last minute. 
+
+Always develop your app in the crappiest browser you support."
+58,657518961391747073,Fri Oct 23 11:28:31 +0000 2015,5,0,RT @jeremylikness: The #JavaScript #Cordova #AngularJS based #MobileDev tool #Ionic is now in 2.0 alpha https://t.co/yhJahhlsWE
+59,657234484568420352,Thu Oct 22 16:38:06 +0000 2015,3,0,"RT @ZombieCodeKill: A huge amount of unit tests is not the goal.
+
+It is a technique to aid the goal of producing happy customers."
+60,657234430080192512,Thu Oct 22 16:37:53 +0000 2015,26,0,"RT @sublimecoder: The best thing about a boolean is even if you are wrong, you are only off by a bit"
+61,657234389412245504,Thu Oct 22 16:37:43 +0000 2015,49,0,RT @meteorjs: Meteor blog: Get started with #ES2015 (#ES6) and Meteor https://t.co/hYmc0pRhru by @rdickert #meteorjs #javascript https://t.…
+62,657234345942454272,Thu Oct 22 16:37:33 +0000 2015,32,0,RT @jquer_in: A simple Date Paginator for Twitter Bootstrap | https://t.co/hkoSHARCTz #jquery #jqueryplugin https://t.co/LyRM5lkoVq
+63,657154857606975488,Thu Oct 22 11:21:42 +0000 2015,255,0,RT @naomitraveller: Want a cheat sheet for Angular 2 TypeScript Syntax? Here you go! https://t.co/Bwceak2gnb http://t.co/axrCYzHDFQ
+64,656474000000970754,Tue Oct 20 14:16:12 +0000 2015,3,0,RT @code_epic: Thanks to @radokirov and @naomitraveller for a good sample app showing #angular2 superpowers. #angularconnect https://t.co/X…
+65,656473666151165952,Tue Oct 20 14:14:53 +0000 2015,25,0,RT @michlbrmly: Missed the @AngularConnect keynote? Got you covered. I trust that clears things up. @bradlygreen @UriGoldshtein https://t.c…
+66,656432195427520512,Tue Oct 20 11:30:05 +0000 2015,1,0,RT @JoeIngeno: #Google to enterprises: Ditch your #Microsoft contract early for us https://t.co/zu3nkJ3eS0 @cioonline
+67,656431995191492608,Tue Oct 20 11:29:18 +0000 2015,86,0,"RT @haroonmeer: 58% of the current Silicon Valley / EU ""Unicorns"" use Gmail for their email.
+
+https://t.co/8ozAa0abyY https://t.co/xpOf5CRP…"
+68,656429966914166784,Tue Oct 20 11:21:14 +0000 2015,4,0,RT @stevenlivz: Just finished @MeteorinAction - good read. Excellent overviews of real world deployments too. A host of stuff to try out no…
+69,656390471674109952,Tue Oct 20 08:44:18 +0000 2015,8,0,RT @StanBoyet: Such a good initiative !  https://t.co/LQHlzdpqAb
+70,656390402677854208,Tue Oct 20 08:44:01 +0000 2015,9,0,RT @MeteorToys: The stack of the future: Meteor + React + Angular + GraphQL + more React + Flux + Relay + every hip database under one ORM …
+71,656390062981185536,Tue Oct 20 08:42:40 +0000 2015,6,0,"RT @sublimecoder: Here is a list of some of my favorite resources for keeping up to date in the programming community.
+https://t.co/Rqkz4hG…"
+72,656145698962952192,Mon Oct 19 16:31:39 +0000 2015,8,0,RT @DaniStefanovic: JavaScript ORMs: Bookshelf vs. Sequelize vs. Lovefield http://t.co/wTmbHs6TIa
+73,656145613810180097,Mon Oct 19 16:31:19 +0000 2015,2,0,"RT @msavin: ""An honest man is always a child"""
+74,656145499184078850,Mon Oct 19 16:30:52 +0000 2015,7,0,RT @JoeIngeno: #Microsoft Enables Async/Await in #Edge Preview Build http://t.co/UzbHOwPZpZ @infoq
+75,656145249627017216,Mon Oct 19 16:29:52 +0000 2015,3,0,RT @JoeIngeno: #Mancy: A Cross Platform #JavaScript REPL built on Electron and React http://t.co/A0QPboDNTq
+76,656145163497152512,Mon Oct 19 16:29:32 +0000 2015,7,0,"RT @sublimecoder: The fool wonders, the wise man asks.
+  — Benjamin Disraeli"
+77,656145064570322944,Mon Oct 19 16:29:08 +0000 2015,27,0,RT @teropa: Published: “Refactoring Angular Apps to Component Style”  http://t.co/QQR43ZXrIp
+78,656144997633363968,Mon Oct 19 16:28:52 +0000 2015,36,0,"RT @jendmann: Experienced devs make just as many mistakes as juniors, just recover from them faster. @KyFaSt @airportyh #connectjs http://t…"
+79,656144562394673152,Mon Oct 19 16:27:08 +0000 2015,31,0,"RT @don_kelsey: I just learned about pure functions and wrote a little about it for those that are interested:
+http://t.co/TEIvTR20ip
+I thi…"
+80,656075303253639168,Mon Oct 19 11:51:56 +0000 2015,9,0,RT @ariancelina: 10 rules of best practice for responsive design http://t.co/lMGC67ivrD #webdev #resposnive #webdesign
+81,654996150156701697,Fri Oct 16 12:23:46 +0000 2015,14,0,"RT @zoraslapen: Why I don’t commit generated files to master
+https://t.co/Ag4rx4AYG6
+#git"
+82,654995925790801920,Fri Oct 16 12:22:52 +0000 2015,54,0,RT @Tillirix: Schrödinger's Code http://t.co/fZGEQ71QYq
+83,654995793154330624,Fri Oct 16 12:22:20 +0000 2015,8,0,"RT @sublimecoder: Let's all remember, the plural of anecdote is not data."
+84,654995754377986049,Fri Oct 16 12:22:11 +0000 2015,58,0,RT @meteorjs: Meteor 1.2.0.2 on ARM Devices @UDOO_Board #RaspberryPi #nodejs #meteorjs http://t.co/prhIo9K2cM by @TomFreudenberg http://t.c…
+85,654315752527405056,Wed Oct 14 15:20:06 +0000 2015,8,0,RT @sublimecoder: Walking on water and developing software from a specification are easy if both are frozen.  - Edward V Berard
+86,653976634245181441,Tue Oct 13 16:52:34 +0000 2015,2,0,RT @_benstr: @arunoda @kadirahq congrats on releasing Kadira Enterprise!
+87,653564046801772544,Mon Oct 12 13:33:06 +0000 2015,37,0,"RT @plaintshirts: ""Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind."" —Bernard Bar…"
+88,653563635034419200,Mon Oct 12 13:31:27 +0000 2015,2,0,RT @fknipp: Pls vote for our #meteorjs #hackathon project: The Meteor Train http://t.co/ulIpzMtkZt http://t.co/BqWbUvXH5y
+89,653563147991826432,Mon Oct 12 13:29:31 +0000 2015,7,0,RT @Africaontherise: Spotlight on Ethiopian Runner-Turned-Entrepreneur Haile Gebrselassie http://t.co/KYndoPbWzW
+90,653528150719246336,Mon Oct 12 11:10:27 +0000 2015,2,0,RT @nodenow: El team MeteorChile en acción! Comienza la revolución en Santiago de Chile. #Developers #MeteorJS  #Javascript http://t.co/C6I…
+91,653527836716875776,Mon Oct 12 11:09:12 +0000 2015,23,0,RT @cedric_exbrayat: Updated our ebook to the last #Angular 2 alpha : lots of changes! http://t.co/DVibg3aaSR
+92,653527622949990400,Mon Oct 12 11:08:21 +0000 2015,51,0,RT @leastprivilege: Are you shitting me? way to go MSDN documentation ;) http://t.co/6jiHXzRXdf
+93,651734314191843329,Wed Oct 07 12:22:23 +0000 2015,116,0,RT @bradlygreen: What browsers versions will Angular 2 support?  There's a new build widget with some hints on https://t.co/llFZlMfhml http…
+94,651385910454583296,Tue Oct 06 13:17:57 +0000 2015,1,0,RT @ZombieCodeKill: @cwoodruff @habtamuD We can praise the accomplishments of one dead person without parodying another dead person.
+95,651074798165065728,Mon Oct 05 16:41:42 +0000 2015,146,0,RT @cwoodruff: Very important to remember http://t.co/kHgYMG4EFW
+96,651074698747486209,Mon Oct 05 16:41:19 +0000 2015,1408,0,RT @Carnage4Life: Every programmer's office should have this sign http://t.co/c2r172g32Q
+97,644185205092302848,Wed Sep 16 16:24:55 +0000 2015,30,0,RT @HaileGebr: Looking forward to taking part in the #GreatScottishRun on 4 Oct because I love this city. Hope to see you there! http://t.c…
+98,641592052963217408,Wed Sep 09 12:40:40 +0000 2015,1,0,RT @stepheneyer: 'Believe you can and you’re halfway there.' -Theodore Roosevelt #birdseed http://t.co/srRi8Ib0nB
+99,641278652731260928,Tue Sep 08 15:55:19 +0000 2015,5,0,"RT @thomaux: As a Developer
+I want to Kill my darlings
+So I can stop wasting time discussing which framework is the most awesome http://t.c…"
+100,641278500662607873,Tue Sep 08 15:54:43 +0000 2015,454,0,RT @ValaAfshar: 30 years ago he spoke to his watch and owned a driverless car. A true tech visionary and pioneer. http://t.co/2DeD9CTX6e
+101,639130442621431808,Wed Sep 02 17:39:06 +0000 2015,34,0,"RT @meteorjs: The ultra responsive, all new HansoftX uses #meteorjs  http://t.co/6qVftpbB6D #builtwithmeteor @hansoft http://t.co/NygaNHPDcq"
+102,638733521725595648,Tue Sep 01 15:21:53 +0000 2015,50,0,RT @ShawnWildermuth: Being a developer isn't about writing code; it's about continually learning- whether it's a new technology or deeper i…
+103,637276612216647680,Fri Aug 28 14:52:39 +0000 2015,27,0,"RT @leehuffman: Go read @isamlambert’s interview. He talks about the cool tools me and the Physical Infra team build at @GitHub.
+
+https://t…"
+104,636185085214130176,Tue Aug 25 14:35:18 +0000 2015,162,0,RT @meteorjs: Announcing early access to Meteor Galaxy http://t.co/w8uBegHezN by @debergalis #javascript http://t.co/lPkYnm8CL9
+105,635819434452647936,Mon Aug 24 14:22:20 +0000 2015,118,0,RT @meteorjs: An early look at SQL in Meteor http://t.co/Cpxsndrles by @stubailo #javascript http://t.co/6cMv9gvWyG
+106,634325323740483585,Thu Aug 20 11:25:17 +0000 2015,0,0,#Meteor #1 #web framework https://t.co/lrnzOjUeQF
+107,634017568769097728,Wed Aug 19 15:02:22 +0000 2015,13,0,RT @sahilmalik: PROOF: German people are obsessed with accuracy! http://t.co/mDTpJC3fPT
+108,631433487996846080,Wed Aug 12 11:54:09 +0000 2015,2,0,"RT @joyceechessa: How To Do Your Best Work by Working Smarter, Not Harder! http://t.co/PArhjA0osI"
+109,631360949790875648,Wed Aug 12 07:05:55 +0000 2015,5,0,RT @WayneEllery: Testing vs checking #dddmelb http://t.co/OCR2mDSFKk
+110,631360148141948928,Wed Aug 12 07:02:44 +0000 2015,3,0,RT @DylanMSanders: Meteor Student Summer Hackathon doing it right @meteorjs http://t.co/bbqxE6Qjna
+111,630953435244986369,Tue Aug 11 04:06:36 +0000 2015,11,0,RT @msavin: I wonder if reading bad code can kill brain cells... it sure feels like it!
+112,630755902270910464,Mon Aug 10 15:01:40 +0000 2015,0,0,"“Everybody is a genius.But if you judge a fish by it’s ability to climb a tree,it will live its whole life believing that it is stupid”~enst"
+113,626038732152553472,Tue Jul 28 14:37:19 +0000 2015,482,0,"RT @nytimes: The singular mind of Terry Tao, one of the greatest mathematicians in the world http://t.co/n5FysWCbKd http://t.co/ZpJyrk8n7s"
+114,626038539248103424,Tue Jul 28 14:36:33 +0000 2015,317,0,"RT @WhiteHouse: ""Nothing will unlock Africa’s economic potential more than ending the cancer of corruption."" —@POTUS to the African Union"
+115,626037736588345344,Tue Jul 28 14:33:22 +0000 2015,1707,0,"RT @WhiteHouse: ""The single best indicator of whether a nation will succeed is how it treats its women."" —@POTUS to the African Union http:…"
+116,626037660419796992,Tue Jul 28 14:33:04 +0000 2015,737,0,"RT @WhiteHouse: ""When citizens cannot exercise their rights—the world has a responsibility to speak out"" —@POTUS to the African Union http:…"
+117,620519076369158144,Mon Jul 13 09:04:11 +0000 2015,1,0,RT @nebachew: Eritrean cyclists make history at Tour de France http://t.co/WDfv6kTuWy
+118,618812125717352448,Wed Jul 08 16:01:22 +0000 2015,5,0,"RT @Rahul: A programming language based on the one liners of Arnold Schwarzenegger http://t.co/dJix7CmH8u
+
+Ah. The internet."
+119,588631085984182272,Thu Apr 16 09:12:41 +0000 2015,0,0,@FashaKassa hihihi
+120,509317206346592256,Tue Sep 09 12:27:39 +0000 2014,0,1,#ETHIOPIANNEWYEAR Happy ethiopian new year
+121,505030144344719360,Thu Aug 28 16:32:24 +0000 2014,40,0,"RT @CalEvans: Dev Managers,
+
+Make sure that when devs leave your team, they are better than when they joined you.
+
+Start a learning program…"
+122,504420303293136896,Wed Aug 27 00:09:06 +0000 2014,18,0,RT @kirstyevidence: Why saying ‘seven out of ten fastest growing economies are in Africa’ carries no real meaning – By Morten Jerven http:/…
+123,504416508920213505,Tue Aug 26 23:54:02 +0000 2014,36,0,"RT @dhh: This is why people don't like capitalists: ""Hey, why do you care? It's just business""."
+124,504415419269390338,Tue Aug 26 23:49:42 +0000 2014,63,0,RT @dhh: Goodwill is like a bank account. Compounding interest on a solid balance is where you want to be. In overdraft is not. Deposit som…
+125,501720881430016001,Tue Aug 19 13:22:34 +0000 2014,0,0,"A presentation shows on automated registrar system software i developed. 
+http://t.co/Zpua5zdVrn
+#ethdev"
+126,501685072693854208,Tue Aug 19 11:00:16 +0000 2014,1,0,"RT @Fergara: ""Do or do not. There's no try."" -Yoda."
+127,496227231434166273,Mon Aug 04 09:32:46 +0000 2014,7,0,RT @quotedojo: The secret of success is constancy of purpose. ~Benjamin Disraeli
+128,492248668226215936,Thu Jul 24 10:03:22 +0000 2014,0,0,Congratulation! #BillGates
+129,477074954241204224,Thu Jun 12 13:08:27 +0000 2014,4,0,RT @iceaddis: Pissed off? Get rid off your frustrations and share it with your friends: check out http://t.co/aIQ2kpu65n developed in #Ethi…
+130,476371079041396737,Tue Jun 10 14:31:30 +0000 2014,0,0,@janrauter @davybrion I 'm interested on .Net Developer. contact me at habtamu.desalegn@gmail.com. Thanx
+131,472000770716758016,Thu May 29 13:05:27 +0000 2014,16,0,"RT @TCAS3: New blog post on ""A Coder's Way of Thinking."" Check it out! http://t.co/1RceTuTOaO #WebDevelopment #MEANStack #JavaScript #NodeJ…"
+132,180298661253750785,Thu Mar 15 14:25:25 +0000 2012,0,0,"After all, computer science was man-made.
+All the answers had to be there."
+133,172243124612108288,Wed Feb 22 08:55:35 +0000 2012,24,0,RT @persdevquotes: The best way to sell yourself to others is first to sell the others to yourself. ~ Napoleon Hill http://t.co/FBFmRht5
+134,171981862967844864,Tue Feb 21 15:37:26 +0000 2012,4,0,RT @elijahmanor: The Largest Free #jQuery Class in the World by @envatowebdev http://t.co/EXgL2Wtl
+135,171980685333106690,Tue Feb 21 15:32:45 +0000 2012,12,0,RT @angusTweets: Nice article on functional JavaScript http://t.co/PmlMkdS9
+136,72431708984721410,Sun May 22 22:40:39 +0000 2011,0,0,"Today i released the website for Anene general trading plc
+http://www.anenetrading.com"
+137,69699326221357057,Sun May 15 09:43:08 +0000 2011,14,0,RT @persdevquotes: How am I going to live today in order to create the tomorrow I'm committed to? ~ Tony Robbins http://bit.ly/persdev
+138,69424963488194560,Sat May 14 15:32:55 +0000 2011,0,0,http://www.slideshare.net/samnang.chhun/nhibernate-the-orm-for-net-platform-presentation
+139,69393027864600576,Sat May 14 13:26:01 +0000 2011,0,0,http://www.slideshare.net/srikanthps/practices-for-becoming-a-better-programmer-presentation
+140,69361694446596096,Sat May 14 11:21:31 +0000 2011,29,0,"RT @shanselman: Make your Facebook more secure with ""Login Approvals"" (password + your phone!) http://www.facebook.com/note.php?note_id= ..."
+141,66395247739027456,Fri May 06 06:53:55 +0000 2011,0,0,"RT @persdevquotes: Everything in the world we want to do or get done, we must do with and through people. ~ E. Nigh... http://bit.ly/persdev"
+142,65791712127229952,Wed May 04 14:55:41 +0000 2011,10,0,RT @persdevquotes: Every blessing ignored becomes a curse ~ Paulo Coelho http://bit.ly/persdev
+143,65784924426346496,Wed May 04 14:28:42 +0000 2011,0,0,Lift 2.3 Released http://t.co/zi8PeQ6
+144,64926563623374848,Mon May 02 05:37:53 +0000 2011,0,0,5 Free E-Books and Tutorials on Scala http://bit.ly/lpRNNg
+145,45798625623805952,Thu Mar 10 10:50:17 +0000 2011,0,0,@subdigital i want to
+146,20611080430551041,Thu Dec 30 22:43:59 +0000 2010,0,0,"For Managers: 8 Ways to Build Trust, 3 to Break It http://bit.ly/9R6Vr0"
+147,19349452212932608,Mon Dec 27 11:10:43 +0000 2010,0,0,"There are no mistakes - only lessons. see setbacks as opportunities for personal expansion & spritual growth.
+Merry x-mas"
+148,18962873397018624,Sun Dec 26 09:34:35 +0000 2010,0,0,happy holiday to all of you. By the way i an from ethiopia and in my country this is our 4th month 2003
+149,18941928020115457,Sun Dec 26 08:11:22 +0000 2010,0,0,@ayende i will
+150,13774817086,Tue May 11 07:00:41 +0000 2010,0,0,"today Monday MAy 10, 2010 i am twitting my way ..."

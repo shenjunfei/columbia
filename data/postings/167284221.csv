@@ -1,0 +1,310 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,658157374818119680,Sun Oct 25 05:45:20 +0000 2015,16,0,"RT @_ericelliott: What Every Unit Test Needs: How to Write Better Tests https://t.co/qiHiv2VXw8
+#tdd #JavaScript"
+1,616332334741241856,Wed Jul 01 19:47:34 +0000 2015,79,0,RT @unclebobmartin: New Blog.  The Little Singleton.  http://t.co/MvGheJZFg0
+2,589133736387735552,Fri Apr 17 18:30:02 +0000 2015,0,2,Great blog post by @_ericelliott regarding JavaScript performance optimization http://t.co/V7dzzGpd2g
+3,580457052721569792,Tue Mar 24 19:52:00 +0000 2015,5,0,RT @codurance: Two blog posts today: http://t.co/O9hjdT4YPz by @mashooq and http://t.co/uAY6600XVd by @pedromsantos Nice going!
+4,570055495790292992,Tue Feb 24 02:59:55 +0000 2015,0,0,How gzip uses Huffman coding - Julia Evans http://t.co/X19yeOTJpD
+5,564491430119628801,Sun Feb 08 18:30:19 +0000 2015,0,0,"List&lt;T&gt; - Is it really as efficient as you probably think?
+http://t.co/WY5PSz09yH"
+6,562671269863501825,Tue Feb 03 17:57:39 +0000 2015,5,5,"""The Software Craftsman"" by @sandromancuso. A must-read! Awesome! http://t.co/V4uQ1RU9yV"
+7,559826340711395328,Mon Jan 26 21:32:55 +0000 2015,0,0,"Here are three common symptoms that indicate that your test suite is sick, dead, or dying | 8th Light http://t.co/JOe368xeWx"
+8,559824973515087872,Mon Jan 26 21:27:29 +0000 2015,0,0,Readable is not the same as understandable | 8th Light http://t.co/q8lsx6VzJd
+9,559823267314536448,Mon Jan 26 21:20:42 +0000 2015,0,0,'Interface' Considered Harmful http://t.co/oowoJzLbYc #feedly
+10,559814346067705856,Mon Jan 26 20:45:15 +0000 2015,7,0,RT @adibolb: New blog post: Use mocking framework when testing legacy code http://t.co/Njn2IScioO
+11,558927123633950720,Sat Jan 24 09:59:45 +0000 2015,0,0,An Introduction to the Dart Language with Lars Bak and Kasper Lund on the Hanselminutes Podcast. http://t.co/PEQj5WWBEt via @shanselman
+12,557480247952941056,Tue Jan 20 10:10:23 +0000 2015,6,0,"RT @rbioteau: Software Craftsmanship by @sandromancuso https://t.co/Jct4bIfeOi, I should read his book: http://t.co/dVPjqDNNdG"
+13,557467659470901248,Tue Jan 20 09:20:21 +0000 2015,2,0,RT @InformIT: Do you own your #career? Learn more about the Software Craftsmanship attitude via @sandromancuso http://t.co/O1sKfgFoTA
+14,556437188549033984,Sat Jan 17 13:05:38 +0000 2015,16,0,RT @fekberg: Code comments are like the fake laughter added to TV shows: if you need it you're probably doing it wrong
+15,556146388644663296,Fri Jan 16 17:50:06 +0000 2015,14,0,RT @thecleancoders: http://t.co/5uMYQa6j4Q Java Case Study Episode 6 is live.  We complete the little web server and start work on the fron…
+16,554999975307149313,Tue Jan 13 13:54:40 +0000 2015,1,0,"RT @8thLightInc: ""Here are three common symptoms that indicate that your test suite is sick, dead, or dying."" http://t.co/5qIkGhNYeM"
+17,547352382930440192,Tue Dec 23 11:25:52 +0000 2014,11,0,RT @unclebobmartin: RT @thecleancoders: Episode 5 of the Java Case Study is Live on http://t.co/M0Dpl24oMP.  Lots of interesting threading …
+18,547111089465741312,Mon Dec 22 19:27:03 +0000 2014,45,0,RT @unclebobmartin: RT @DevinSRose: The Crappy Code Rewrite Cycle aka the prophetic words of @unclebobmartin http://t.co/kLNLmAJP2E
+19,547108994956165121,Mon Dec 22 19:18:43 +0000 2014,9,0,RT @Iprogrammerinfo: The Art of Unit Testing by @RoyOsherove (@ManningBooks) 1st of  IProgrammer's Best Books (rated 5/5) of the year http:…
+20,546181668651151360,Sat Dec 20 05:53:52 +0000 2014,4,0,RT @8thLightInc: Don't mix test code with your production code: a new blog by craftsman Darek Pasciak! http://t.co/5006XLKMmH
+21,543712789965987840,Sat Dec 13 10:23:25 +0000 2014,0,0,Visual Studio 2015 Preview and Open Sourcing .NET Announced http://t.co/X1PS9YP1Xr via @feedly
+22,542954029949939712,Thu Dec 11 08:08:22 +0000 2014,0,0,What’s new in #csharp version 6? Great talk by @fekberg. https://t.co/Y23svFs2HQ
+23,542285728039071744,Tue Dec 09 11:52:47 +0000 2014,3,0,RT @fekberg: Developing Good Software is Damn Hard http://t.co/uTMJKjDc3S
+24,539316024714072064,Mon Dec 01 07:12:14 +0000 2014,0,0,Using Repository Analysis to Find Single Responsibility Violations by @mfeathers https://t.co/R0CVBQnOfk
+25,539314521743970304,Mon Dec 01 07:06:16 +0000 2014,0,1,Detecting Shoved Code https://t.co/J0lVear4mF via @feedly
+26,537339384560103424,Tue Nov 25 20:17:47 +0000 2014,3,0,"RT @fekberg: Understanding Memory Access Patterns is important, here's why: http://t.co/7bCdG31nrW"
+27,537335285374517248,Tue Nov 25 20:01:29 +0000 2014,304,0,RT @unclebobmartin: New blog.  FP vs OO.  Please RT.  http://t.co/ojj4r7iroh
+28,536963456608378880,Mon Nov 24 19:23:59 +0000 2014,0,0,One Hacker Way! http://t.co/53DnwOUbRz via @feedly
+29,535911073262870528,Fri Nov 21 21:42:11 +0000 2014,24,0,RT @headinthebox: @headinthebox http://t.co/7Z91kNn2uP
+30,535896943520907264,Fri Nov 21 20:46:02 +0000 2014,183,0,RT @unclebobmartin: New Blog: The Obligation of the Programmer.  Please RT.  http://t.co/krRQC2A0Ex
+31,535894778526072833,Fri Nov 21 20:37:26 +0000 2014,56,0,RT @unclebobmartin: New Blog: Thorns around the Gold.  Please RT!  http://t.co/2CAdoDnUif
+32,535889492561764352,Fri Nov 21 20:16:26 +0000 2014,0,0,Dangers of Survival Mode http://t.co/86moDslrVH via @feedly
+33,535170533034573825,Wed Nov 19 20:39:32 +0000 2014,23,0,RT @fekberg: Overview of C# 6.0 https://t.co/uBCdMA5uOc
+34,535168118927011840,Wed Nov 19 20:29:57 +0000 2014,0,0,Getting Started with Continuous Delivery http://t.co/Xqkn0yDgVr via @feedly
+35,528417853918441472,Sat Nov 01 05:26:48 +0000 2014,34,0,"RT @unclebobmartin: http://t.co/pcRi7FlyWW Episode 28 : The State Pattern, is live.  Please RT.  https://t.co/UYmzRCFNDP"
+36,525010155503878144,Wed Oct 22 19:45:49 +0000 2014,0,0,"Spotify Engineering Culture part 2 (Agile Enterprise Transition with Scrum and Kanban)
+https://t.co/TQLksPDSeN"
+37,525009951480356864,Wed Oct 22 19:45:01 +0000 2014,0,0,"Spotify Engineering Culture part 1 (Agile Enterprise Transition with Scrum and Kanban)
+https://t.co/FZuoXDBTgN"
+38,523798380129300480,Sun Oct 19 11:30:40 +0000 2014,0,0,"""Start doing code reviews – Seriously""  http://t.co/VICb855FWW good read"
+39,523797981917904897,Sun Oct 19 11:29:05 +0000 2014,0,0,"""A Value System for Code Reviews, and How to Scale Them for a Large Project""  http://t.co/OIM3M8319P good read"
+40,522098084013420546,Tue Oct 14 18:54:18 +0000 2014,7,0,"RT @unclebobmartin: http://t.co/pcRi7FlyWW, shooting E29. All about writing a compiler. Lots of fun."
+41,520522820124946433,Fri Oct 10 10:34:45 +0000 2014,2,0,"RT @ProgiraAB: Reflections from IBC 2014
+http://t.co/sXMdB3bdIY"
+42,519088166540951552,Mon Oct 06 11:33:57 +0000 2014,4,0,RT @thecleancoders: RT @unclebobmartin: Java Case Study Episode 3 - Sorting Our Issues  is live! http://t.co/qZwW4m4Lvb #cleancode via @the…
+43,519087868103647232,Mon Oct 06 11:32:46 +0000 2014,3,0,"RT @8thLightInc: ""There is a real danger that Software Craftsmanship itself could degenerate to the same Cargo Cult mentality."" http://t.co…"
+44,519087799237378048,Mon Oct 06 11:32:30 +0000 2014,21,0,"RT @8thLightInc: ""Projects that tolerate the small, annoying stuff are more likely to rot over time."" http://t.co/C0VOUZIAkB"
+45,519087787975655425,Mon Oct 06 11:32:27 +0000 2014,3,0,RT @8thLightInc: Six ways to reduce unnecessary complexity in our code and in our teaching: http://t.co/gKNYp0MF81
+46,510309220424880128,Fri Sep 12 06:09:33 +0000 2014,0,0,"""FM Band in Brazil Being Extended 50 %"" good read http://t.co/yurlesxmpt"
+47,510302736915906561,Fri Sep 12 05:43:48 +0000 2014,0,0,"@frrrdrrrc @CadiAyyadUniv Hi! I am not the person you are referring to. However, it seems to be a really good app. Have a great day!"
+48,509287349029986305,Tue Sep 09 10:29:00 +0000 2014,1,0,RT @8thLightInc: What is a Bug? Craftsman @paytonrules asks (and answers) the hard questions: http://t.co/9pMoEXQAb3
+49,507873372529627137,Fri Sep 05 12:50:22 +0000 2014,1,0,"RT @ProgiraAB: 700 MHz mobile allocation vs DTT network quality
+http://t.co/qsnXKIWJdJ"
+50,507813969747124224,Fri Sep 05 08:54:19 +0000 2014,1,0,"RT @ProgiraAB: Visit PROGIRA at IBC Amsterdam 2014
+http://t.co/R1omW9uvqs"
+51,506476112713875457,Mon Sep 01 16:18:09 +0000 2014,1,0,"RT @ProgiraAB: The PROGIRA® plan family grows in Brazil
+http://t.co/xDnhmsiXmz"
+52,503899932831797249,Mon Aug 25 13:41:20 +0000 2014,14,0,"RT @thecleancoders: http://t.co/bzJczYqIXi Clean Code Episode 27: Strategy and Template Method, is live.  Please RT!"
+53,503898984897724416,Mon Aug 25 13:37:34 +0000 2014,0,0,Media Broadcast to launch DVB-T2/HEVC trial in Berlin http://t.co/cRYkn8sS0i
+54,500005171100155904,Thu Aug 14 19:44:57 +0000 2014,2,0,RT @8thLightInc: Craftsman @dougbradbury went to Germany and discovered a new frontier of the software craftsmanship movement: http://t.co/…
+55,500003428844961792,Thu Aug 14 19:38:01 +0000 2014,3,0,RT @8thLightInc: Apprentice Blog of the Week: Are we missing opportunities to improve our READMEs? http://t.co/1MJ0PytuSo
+56,497450512238010368,Thu Aug 07 18:33:38 +0000 2014,1,0,PROGIRA at SET 2014 in Brazil http://t.co/PIiD1LFcEZ
+57,496632570738900993,Tue Aug 05 12:23:26 +0000 2014,0,0,"Nokia testing LTE for TV
+http://t.co/tYnJuHX46y"
+58,496625595200331776,Tue Aug 05 11:55:43 +0000 2014,7,0,RT @DVB_Project: DVB to demo maximum efficiency with DVB-S2X and DVB-T2 using HEVC. #IBC2014. http://t.co/99jsQSHIwF
+59,496357932796485632,Mon Aug 04 18:12:07 +0000 2014,1,1,"""First Wide-scale 700MHz LTE Broadcast Trial Launched"" http://t.co/eiNe2x5uCG"
+60,496357081503776768,Mon Aug 04 18:08:44 +0000 2014,0,0,"""Prideful Programming"" good read http://t.co/ATfPZ2u51U"
+61,496025012307234817,Sun Aug 03 20:09:13 +0000 2014,4,0,RT @EBU_Eurovision: #WorldBroadcastingUnions stand together against release of more TV broadcasting #RadioSpectrum: http://t.co/khNzuoKs6f
+62,496019493886259200,Sun Aug 03 19:47:17 +0000 2014,1,0,#EBU Technical Report: Delivery of Broadcast Content over LTE Networks https://t.co/mdy98KJIkT Good read!
+63,496011143992074241,Sun Aug 03 19:14:06 +0000 2014,1,0,"Study throws doubt on LTE Broadcast as DTT replacement technology
+http://t.co/xwdlW1Ux7H"
+64,496010650125352960,Sun Aug 03 19:12:09 +0000 2014,1,0,EBU Spectrum Factsheet http://t.co/4HxM5VDZ0Z
+65,495959641579610112,Sun Aug 03 15:49:27 +0000 2014,0,0,"""Take Pride in Your Legacy (Code)"" good read http://t.co/ZpZRt1TEIY"
+66,495502332206280704,Sat Aug 02 09:32:16 +0000 2014,0,0,"Nokia Networks first to trial LTE for national TV broadcasting
+http://t.co/Q2crdWpD45"
+67,493380101552504832,Sun Jul 27 12:59:17 +0000 2014,0,0,"LTE Broadcast - The Next 
+Hyped Broadcasting Challenger http://t.co/Dmb0hpl5lH"
+68,493379115752620032,Sun Jul 27 12:55:22 +0000 2014,1,0,LTE Uses 40 Times the Electricity of DAB+ http://t.co/ijiYCCrlVm
+69,492943111237414912,Sat Jul 26 08:02:50 +0000 2014,0,0,"""Abstraction To The Rescue""  http://t.co/jgP24ZhET5 good read"
+70,492695497245986816,Fri Jul 25 15:38:55 +0000 2014,3,0,RT @RoyOsherove: Blog: Scrum Master 2.0 http://t.co/sThfPEhkNe
+71,492632807400022016,Fri Jul 25 11:29:48 +0000 2014,0,0,"Spain - Frequencies to be available for the launch of new DTT services
+http://t.co/lPzMYEDheY"
+72,492632382772875264,Fri Jul 25 11:28:07 +0000 2014,0,0,"Poland - Increase in number of DTT households
+http://t.co/EyJ6uQFCkD"
+73,492631931482542080,Fri Jul 25 11:26:19 +0000 2014,0,0,"WBU supports UHF band allocation for DTT services
+http://t.co/h8KkF8zFay"
+74,491992638716149761,Wed Jul 23 17:06:00 +0000 2014,4,0,"RT @8thLightInc: Here's the latest #blog post from craftsman &amp; CEO, @paulwpagel. http://t.co/E3Pn9BNJCK Read it here. http://t.co/ez1GeF2QWp"
+75,491434077321695232,Tue Jul 22 04:06:29 +0000 2014,8,0,RT @thecleancoders: Part 2 of episode 2 of the java case study is live. http://t.co/bzJczYqIXi. Please RT.
+76,489625523799474176,Thu Jul 17 04:19:56 +0000 2014,5,0,"RT @thecleancoders: http://t.co/JAHDaMk8AQ Java Case Study Episode 2, P1 is live. P2 will follow soon. Lots of code &amp; discussion.  Please R…"
+77,489331685050564608,Wed Jul 16 08:52:19 +0000 2014,1,0,"RT @ProgiraAB: Asia approaching a new era of digital broadcasting
+http://t.co/nLI52k70b9"
+78,483723368802566144,Mon Jun 30 21:26:52 +0000 2014,1,0,"RT @ProgiraAB: Hi Twitter! We are #PROGIRA
+http://t.co/j4nYKH4WKh"
+79,481328704787062784,Tue Jun 24 06:51:20 +0000 2014,1,1,"Upcoming market opportunities for PROGIRA in the Americas
+http://t.co/tKDX3ORJkT"
+80,480392195317698560,Sat Jun 21 16:49:59 +0000 2014,142,0,RT @unclebobmartin: New Blog:  “My Lawn”.  Please RT.  http://t.co/wFfeyaqB96
+81,478909916204503040,Tue Jun 17 14:39:56 +0000 2014,0,0,"Teracom Danmark also becomes a PROGIRA® plan user
+http://t.co/RBGO0nlRoG"
+82,476966467179937792,Thu Jun 12 05:57:22 +0000 2014,0,0,"BBC's DAB Rollout Continues
+http://t.co/Z16cKWZpLU"
+83,476963809504944128,Thu Jun 12 05:46:48 +0000 2014,1,1,"Germany is moving forward with development of a DVB-T2 platform for terrestrial distribution of HD programmes
+http://t.co/PzqdaqGhaJ"
+84,475944935318097920,Mon Jun 09 10:18:09 +0000 2014,1,1,"PROGIRA at Broadcast Asia
+http://t.co/5JEgRiMlGb"
+85,473725346416967680,Tue Jun 03 07:18:18 +0000 2014,0,0,"Network topologies and spectrum efficiency of High and Low Tower Broadcast Networks 
+http://t.co/WM06ZX85Rk"
+86,473531315565129728,Mon Jun 02 18:27:18 +0000 2014,1,1,New PROGIRA product brochure http://t.co/jddPFJt3H4
+87,471018582261137408,Mon May 26 20:02:35 +0000 2014,0,0,"PROGIRA® academy in Amman
+http://t.co/nLYHwNWfG2"
+88,469571260067094529,Thu May 22 20:11:27 +0000 2014,1,1,"Reflections from ABU DBS in Kuala Lumpur
+http://t.co/7L5j3sufBU"
+89,467226457362956288,Fri May 16 08:54:02 +0000 2014,0,0,"PROGIRA® academy in Manila
+http://t.co/CNmj6mRQgh"
+90,466933933448638464,Thu May 15 13:31:39 +0000 2014,0,0,"PROGIRA® plan 5.1 is underway
+http://t.co/yKdXXtD1BP"
+91,466933814410117121,Thu May 15 13:31:11 +0000 2014,0,0,"PROGIRA and Ericsson implements DTT network in Armenia
+http://t.co/tp2bMcNHFX"
+92,466933625486053376,Thu May 15 13:30:26 +0000 2014,0,0,"PROGIRA® academy in Hanoi - DVB-T2 network design training
+http://t.co/bA6pNLrKzG"
+93,464127336200556544,Wed May 07 19:39:14 +0000 2014,1,0,"PROGIRA sees a growing demand for optimization of infrastructure investments
+http://t.co/1tBcGkzNSh"
+94,461116063598804993,Tue Apr 29 12:13:31 +0000 2014,0,0,"Successful Comissioning study in Hong Kong
+http://t.co/5Xrd2PVYiS"
+95,459547274851680256,Fri Apr 25 04:19:42 +0000 2014,0,0,Poland Convenes Digital Radio Conference http://t.co/OQIPYDBJ7I
+96,459545800620933120,Fri Apr 25 04:13:51 +0000 2014,0,0,"OFCOM Paving the Way for DAB+ in the U.K.
+http://t.co/XltshAyaoQ"
+97,459262558164516864,Thu Apr 24 09:28:21 +0000 2014,1,0,"The importance of Site Survey
+http://t.co/iNoOFHaAKJ"
+98,458922542347354112,Wed Apr 23 10:57:15 +0000 2014,1,0,"PROGIRA receives renewed confidence from Teracom
+http://t.co/riNpguH1jX"
+99,458492159671664640,Tue Apr 22 06:27:03 +0000 2014,1,0,"Digital radio is well ahead in Norway
+http://t.co/HY6Vk1V1nD"
+100,458490268610990080,Tue Apr 22 06:19:33 +0000 2014,1,0,"45% of Norwegians tune-in to digital radio
+http://t.co/8y71tJAaFZ"
+101,456430896279998464,Wed Apr 16 13:56:20 +0000 2014,0,0,"Great success for PROGIRA® Academy at VTV
+http://t.co/McpaHQxaC1"
+102,455959371001131008,Tue Apr 15 06:42:40 +0000 2014,0,0,"Reflections from CABSAT 2014
+http://t.co/cGBQyxXm1w"
+103,455318538430210049,Sun Apr 13 12:16:13 +0000 2014,1,0,"New blog post: ""The Importance of a Site Survey""
+http://t.co/pYeM5zummd"
+104,454500742498643968,Fri Apr 11 06:06:35 +0000 2014,0,0,"Research on comparing the costs of supply of radio transmission through DAB+ or LTE
+http://t.co/gZruBjQDFs"
+105,451724089489903616,Thu Apr 03 14:13:10 +0000 2014,0,0,"PROGIRA visits NAB Show 2014 in Las Vegas
+http://t.co/BoehURGNxn"
+106,451267924880547840,Wed Apr 02 08:00:32 +0000 2014,1,0,"PROGIRA® plan used for DAB+ network planning in the Netherlands
+http://t.co/f9ye1yATR7"
+107,451266216842522624,Wed Apr 02 07:53:44 +0000 2014,1,0,"How to reach the full potential of your SFNs?
+http://t.co/KWeRG2wtM3"
+108,449531888987033600,Fri Mar 28 13:02:08 +0000 2014,0,0,"Bosnia selects Croatia’s OiV for DTT
+http://t.co/BMyRv1M53Z"
+109,449528312940220416,Fri Mar 28 12:47:56 +0000 2014,1,0,"Nigeria Looking for DVB-T2 Operators
+http://t.co/W4BAD0Wrkr"
+110,449527279455326208,Fri Mar 28 12:43:49 +0000 2014,1,0,"Pioneer sees DAB growth in Europe
+http://t.co/tm0Lr40yUK"
+111,449526700968529922,Fri Mar 28 12:41:31 +0000 2014,1,0,"Czech Radiokomunikace launches DAB+ pilot
+http://t.co/bgw2gG0VbA"
+112,449526230002728960,Fri Mar 28 12:39:39 +0000 2014,1,0,"Swedish article about opportunities with future digital radio systems
+http://t.co/ZTBGeyYnge"
+113,448796077278642176,Wed Mar 26 12:18:17 +0000 2014,3,0,RT @EBU_TECH: EBU questions future mobile spectrum requirements #wrc-15 https://t.co/xVHkAPbzwi via @EBU_TECH
+114,443480027578265600,Tue Mar 11 20:14:12 +0000 2014,81,0,RT @unclebobmartin: New blog: When to Think.  http://t.co/1oS1bmSXwR
+115,442301824255934464,Sat Mar 08 14:12:27 +0000 2014,0,0,"How do you reach the full potential of your SFNs?
+http://t.co/qOkQ3ltmoZ"
+116,441923857331810304,Fri Mar 07 13:10:32 +0000 2014,0,0,"FM radio sets in Norway will go quiet in a few years' time
+http://t.co/Ctc26FeBcO"
+117,441922956273680384,Fri Mar 07 13:06:57 +0000 2014,0,0,"The time is now for DAB+ in the Asia Pacific
+http://t.co/qj7tP8QKrp"
+118,441922536239300608,Fri Mar 07 13:05:17 +0000 2014,0,0,"Broadcast Radio Remains the Top Choice for In-Car Radio Listening
+http://t.co/NpCClfGFDS"
+119,438778702483439616,Wed Feb 26 20:52:49 +0000 2014,0,0,"Take the opportunity to meet PROGIRA at CABSAT 2014 in Dubai
+http://t.co/PjqwICv2si"
+120,435767429960986624,Tue Feb 18 13:27:06 +0000 2014,0,0,"Meet PROGIRA at ABU DBS 2014 in Kuala Lumpur
+http://t.co/iDMhVdEvrg"
+121,433546318682660864,Wed Feb 12 10:21:11 +0000 2014,0,0,"PROGIRA and Omnitele announce cooperation
+http://t.co/YTTrXkOCJi
+http://t.co/6gI4ZNNGNy"
+122,432884366130167808,Mon Feb 10 14:30:50 +0000 2014,0,0,"Vietnam Television is a new PROGIRA customer in Southeast Asia
+http://t.co/UcBtenSv1E"
+123,431479290111479808,Thu Feb 06 17:27:33 +0000 2014,1,0,"DAB+ on the roll
+http://t.co/QmqxvCVMXc #PROGIRA"
+124,430714119465869312,Tue Feb 04 14:47:03 +0000 2014,0,0,"The Domain Discontinuity, new blog post by @unclebobmartin.
+http://t.co/lo2VdcHvet"
+125,429151247040385024,Fri Jan 31 07:16:45 +0000 2014,0,0,"Malaysia Moves Closer Towards T2 Implementation
+http://t.co/OuDEBrv7M1"
+126,429150224351637504,Fri Jan 31 07:12:41 +0000 2014,0,0,"Spectrum Report Reveals DTT Delivers More Value Than Mobile Broadband
+http://t.co/fWPUXH6aIP"
+127,428544664942022657,Wed Jan 29 15:06:24 +0000 2014,0,0,"Tachyon is a new PROGIRA partner
+http://t.co/U5VyElwZ7L"
+128,427836310858899457,Mon Jan 27 16:11:39 +0000 2014,0,0,"PROGIRA solutions presented at BES-EXPO in India
+http://t.co/zRSyPY7aJP"
+129,426252225518632960,Thu Jan 23 07:17:04 +0000 2014,0,0,"DTT needed for PSB obligations
+http://t.co/HQyWSTghip"
+130,423423522417823745,Wed Jan 15 11:56:49 +0000 2014,0,0,"New PROGIRA® plan customer in Hong Kong
+http://t.co/aVLLzGChsr"
+131,422332580050894848,Sun Jan 12 11:41:48 +0000 2014,0,0,"Terrestrial Broadcasting is the European Consumer’s Choice
+http://t.co/od0F6qWhxH"
+132,420533897198190592,Tue Jan 07 12:34:28 +0000 2014,0,0,"Boom for digital-TV devices in Thailand
+http://t.co/hLg4oiFxmn"
+133,419018657302212608,Fri Jan 03 08:13:27 +0000 2014,0,0,"PROGIRA wishes you a happy new year
+http://t.co/OspJP8lZf2"
+134,413597341094928385,Thu Dec 19 09:11:05 +0000 2013,0,0,"PROGIRA in a digital dividend study for Globo in Brazil
+http://t.co/HQkR15EI8F"
+135,413417118118318080,Wed Dec 18 21:14:56 +0000 2013,0,0,"DRM  Radio Station On Air in Germany on Regular Basis
+http://t.co/jhVTKVXnvE"
+136,413414916653973504,Wed Dec 18 21:06:11 +0000 2013,0,0,"British Government: No Date for FM Switch-Off
+http://t.co/NuvsUZFRUn"
+137,413411453261996032,Wed Dec 18 20:52:25 +0000 2013,0,0,How to Shorten Your Sales Cycle and Avoid Wasting Time: http://t.co/ktEfVejX7K via @msuster
+138,412898319967326208,Tue Dec 17 10:53:25 +0000 2013,0,0,EBU TECH 3348 (Frequency and Network Planning Aspects of DVB-T2) Version 3.0 is now available. https://t.co/5pz9nudxcp
+139,412825629852065792,Tue Dec 17 06:04:34 +0000 2013,0,0,"PROGIRA® at BES EXPO 2014
+http://t.co/6y7eTybrvl"
+140,412825431176269824,Tue Dec 17 06:03:47 +0000 2013,0,0,"Four important news in Rec. ITU-R P.1546-5
+http://t.co/0S8mFDMLCK"
+141,412816826276401152,Tue Dec 17 05:29:35 +0000 2013,0,1,@jimboyman Believe. Achieve. Have a great Christmas!
+142,412103869561188353,Sun Dec 15 06:16:33 +0000 2013,0,0,"Four (4) important news in Rec. ITU-R P.1546-5
+http://t.co/T3pxQc4BB5"
+143,411146551591849984,Thu Dec 12 14:52:31 +0000 2013,0,0,"ITU and the NBTC choose PROGIRA® plan
+http://t.co/VIvyNoDngf"
+144,409737795918233600,Sun Dec 08 17:34:37 +0000 2013,0,0,PROGIRA at Saudi Media Forum http://t.co/COLeCzX68N
+145,409725390601867264,Sun Dec 08 16:45:20 +0000 2013,0,0,PRESS RELEASE - PROGIRA® plan 5 now available http://t.co/661YRCFoI5
+146,409724966880686080,Sun Dec 08 16:43:39 +0000 2013,0,0,"PROGIRA presentation at DigiTAG
+http://t.co/abBnZuOciL"
+147,409587292274442240,Sun Dec 08 07:36:34 +0000 2013,1,0,RT @BjornTannersjo: Checking the frequency plan for broadcast networks - There are many aspects on checking the frequency plan fo… http://t…
+148,402341258334437376,Mon Nov 18 07:43:25 +0000 2013,0,0,"PRESS RELEASE - PROGIRA in cooperation with Ramboll and Robincon
+http://t.co/zBm6z9HIyT"
+149,402341068202471424,Mon Nov 18 07:42:40 +0000 2013,0,0,"PROGIRA at DigiTAG workshop in Istanbul, November 14-15
+http://t.co/CHxP298BS4"
+150,402340831836639232,Mon Nov 18 07:41:44 +0000 2013,0,0,"Telecommunicatie Autoriteit Suriname chooses PROGIRA® plan
+http://t.co/Sy7T77wgtH"
+151,399846281503195140,Mon Nov 11 10:29:16 +0000 2013,1,0,"Why the Choice of T2-Frame Length is Essential for DVB-T2
+http://t.co/XQCCLPBKhu"
+152,394941764659720192,Mon Oct 28 21:40:29 +0000 2013,0,0,"An Introduction to the Whats, Whys, and Hows of DVB-T2 FECFRAMEs http://t.co/GTOafF0h96"
+153,393630491808907264,Fri Oct 25 06:49:57 +0000 2013,107,0,RT @unclebobmartin: New Blog: “The Careless Ones”.  Please RT. http://t.co/ULxaUPqV8l
+154,390751704422940672,Thu Oct 17 08:10:40 +0000 2013,1,0,"We are PROGIRA®
+http://t.co/KKjnoqgFqu"
+155,389398747559374849,Sun Oct 13 14:34:30 +0000 2013,1,0,"An Introduction to the Whats, Whys, and Hows of DVB-T2 Scattered Pilot Patterns
+http://t.co/wPi5TYfrUE"
+156,387825907505053696,Wed Oct 09 06:24:36 +0000 2013,1,0,"Analysis of coexistence and mutual interference between mobile and digital television systems
+http://t.co/AQxuGKVPTR"
+157,387215052387782656,Mon Oct 07 13:57:17 +0000 2013,2,0,"RT @PatrikEngstedt: Serbia - DTT roll-out to be completed by mid-2014
+
+At a Parliamentary hearing, the head of the Regulatory Telecommunica…"
+158,387215027150655488,Mon Oct 07 13:57:11 +0000 2013,1,0,RT @BjornTannersjo: News about EBU's position in the fight over the spectrum. http://t.co/WABIKvUmRp
+159,386890456488873984,Sun Oct 06 16:27:27 +0000 2013,0,0,"An excellent, entertaining, and important message from @unclebobmartin: ""Tables are not business objects!""
+http://t.co/ktI2fnV0or"
+160,385694503140487168,Thu Oct 03 09:15:10 +0000 2013,1,0,"DVB-T2 Strong Contender for ATSC 3.0
+http://t.co/UewzIxRVK8"
+161,385656888756424704,Thu Oct 03 06:45:42 +0000 2013,1,0,"FUTURECAST UTB System - a physical layer proposal for the emerging ATSC 3.0 standard.
+http://t.co/k6hsU57bHt"
+162,385640175709061120,Thu Oct 03 05:39:17 +0000 2013,0,0,"Interesting reading! Optimization of the Energy Efﬁciency of a Hybrid Broadcast (#DVBT2) and Unicast (#LTE) Network
+http://t.co/ImaQwbRlz4"
+163,385286655503912960,Wed Oct 02 06:14:31 +0000 2013,0,0,"Indian public service broadcaster, Doordarshan, switch to DVB-T2 technology
+http://t.co/QQESBd4KYr"
+164,385285681892700160,Wed Oct 02 06:10:39 +0000 2013,0,0,"Honduras adopts the standard of Japanese-Brazilian digital TV
+http://t.co/vzfcbJROxk"
+165,383152789171355648,Thu Sep 26 08:55:18 +0000 2013,1,0,RFS and PROGIRA have agreed to collaboratively design and produce new antenna design software for the broadcast indu…http://t.co/ryzJBf7bgp
+166,380629527791022081,Thu Sep 19 09:48:45 +0000 2013,0,0,"PROGIRA provides tender support to Redtone Malaysia for DVB-T2 Network
+http://t.co/72tE2gBRBp"
+167,380074548579672064,Tue Sep 17 21:03:28 +0000 2013,1,0,"New post on my blog!
+""DVB-T2 and large SFNs – Some Pros and Cons""
+http://t.co/C7iNQrDTM8"
+168,377755432150122496,Wed Sep 11 11:28:08 +0000 2013,0,0,"Three (3) Reasons to Plan a Broadcast Network. New post on my blog. Please visit!
+http://t.co/TBCeh8gXSZ"
+169,376317201118023680,Sat Sep 07 12:13:07 +0000 2013,0,0,"Great words from @RoyOsherove about techniques to avoid having bottlenecks in your projects.
+http://t.co/gYnW2lw4wn"
+170,376306584810299392,Sat Sep 07 11:30:55 +0000 2013,2,5,"Highly recommended reading! @RoyOsherove's ""Notes to a Software Team Leader"". 
+http://t.co/yi2oFz7QPa"
+171,376286918461652992,Sat Sep 07 10:12:47 +0000 2013,1,0,RT @BjornTannersjo: Caribbean broadcasters spark a regional digital discourse http://t.co/2jPcRJPDAR via @sharethis
+172,375696998868873216,Thu Sep 05 19:08:39 +0000 2013,1,0,"New post on my blog regarding coverage probability calculations in radio network planning software.
+http://t.co/CF1mKPuJX4"
+173,375328803293126656,Wed Sep 04 18:45:34 +0000 2013,0,0,"Raise your seat backs, and put your tray tables in the upright and locked position. #PROGIRA goes #IBCSHOW.
+http://t.co/XnC168MUUu"
+174,375226723320606720,Wed Sep 04 11:59:56 +0000 2013,0,0,"Interesting article promoting #DVBT2 Lite.
+http://t.co/NmWnIJ2tsE"
+175,371994177195634688,Mon Aug 26 13:54:57 +0000 2013,0,0,@BjornTannersjo explains the concepts of how to calculate maximum allowed ERP for a gapfiller. Good read!
+176,371521733687537664,Sun Aug 25 06:37:38 +0000 2013,41,0,RT @unclebobmartin: http://t.co/Ppz1SXP8Ta Episode 21: Test Design is live.  Please RT!
+177,370458686583341056,Thu Aug 22 08:13:28 +0000 2013,0,0,Important msg from @BjornTannersjo! Are you switching to DVB-T2 and also changing your network design at same time? http://t.co/GSvrDbm6VS
+178,370428301732347904,Thu Aug 22 06:12:44 +0000 2013,0,0,#DVBT2 radio network planning using PROGIRA | plan http://t.co/QjKfw63Ek1: http://t.co/toBH0qBRzL
+179,368102910645002240,Thu Aug 15 20:12:27 +0000 2013,33,0,RT @unclebobmartin: http://t.co/Ppz1SXP8Ta Episode 21 - Test Design - is just about ready.  Have you watched E20 yet?  Please RT!
+180,367384054146269184,Tue Aug 13 20:35:58 +0000 2013,0,0,"""Conditionals Aren’t Evil, Unless You Duplicate Them""  http://t.co/lfFnhabinA good read"
+181,367382366802956288,Tue Aug 13 20:29:16 +0000 2013,1,0,RT @PatrikEngstedt: Progira will attend the SET Broadcast and Cable exhibition in Sao Paulo 20-22 August.
+182,367381126031376385,Tue Aug 13 20:24:20 +0000 2013,1,0,RT @BjornTannersjo: More re-planning is needed with less spectrum. http://t.co/QcOnslm1OL
+183,366161029341786113,Sat Aug 10 11:36:06 +0000 2013,0,0,"Great article by @mjansen401 at @8thlightinc: Set the Tone With Project Setup
+http://t.co/8Oyr8XO8KF"
+184,365575557154471936,Thu Aug 08 20:49:39 +0000 2013,4,0,RT @CVogtHBC: The number of homes receiving #DTT signals will more than double by 2018 – reaching 553 million!  http://t.co/PPUivdJY5J
+185,365574643001737216,Thu Aug 08 20:46:01 +0000 2013,0,0,"DTT boom extends beyond Europe
+http://t.co/az58WZUOFH"
+186,365572533937897472,Thu Aug 08 20:37:38 +0000 2013,0,0,DTT: The cornerstone of TV delivery http://t.co/O4yyzM3dfO
+187,363346299908657154,Fri Aug 02 17:11:23 +0000 2013,9,19,"Highly recommended viewing! @unclebobmartin's ""Clean Code Episode 20 - Clean Tests"".
+http://t.co/spVGTsW6oW"
+188,361919979605590016,Mon Jul 29 18:43:41 +0000 2013,0,0,"""Honesty Under Pressure""  http://t.co/Jj3CnW2ekC good read"
+189,361480822022356994,Sun Jul 28 13:38:38 +0000 2013,0,0,"Kroes frustrated by Europe’s 800MHz laggards
+http://t.co/I23PYb4mVO"
+190,361479641309003776,Sun Jul 28 13:33:57 +0000 2013,0,0,"U.K. surrenders 700MHz spectrum to mobile
+http://t.co/7hntIWswbk"
+191,358871940334759937,Sun Jul 21 08:51:52 +0000 2013,21,0,RT @unclebobmartin: Roman Numerals Kata in C++ by @JonJagger  and @olvemaudal.  Very cool.  http://t.co/7LSlVwO8Qh
+192,358583205953150976,Sat Jul 20 13:44:33 +0000 2013,0,0,"""The Right Tests in the Wrong Order""  http://t.co/VjggRuKcbQ good read"
+193,357546898174902272,Wed Jul 17 17:06:38 +0000 2013,0,0,"""We are Principled: 10th Edition""  http://t.co/Kf5IhU9dgl good read"
+194,355176211451883520,Thu Jul 11 04:06:22 +0000 2013,0,0,Digital Radio in the FM Band http://t.co/rN3jtKFy4S
+195,355014268468469760,Wed Jul 10 17:22:52 +0000 2013,0,0,"@unclebobmartin has delivered another awesome talk on ""Automated Acceptance Testing"". Watch and learn! http://t.co/cLjNOmZ4V3"
+196,354490691335884801,Tue Jul 09 06:42:21 +0000 2013,0,0,"BNE Sponsors European Spectrum Conference
+http://t.co/troF5Up2gN"
+197,354487032917139456,Tue Jul 09 06:27:49 +0000 2013,0,0,"Strive for Simplicity
+http://t.co/6brxWdqMac"
+198,354282826096590848,Mon Jul 08 16:56:22 +0000 2013,0,0,"Spectrum is DTT Oxigen
+http://t.co/rbg0iTNlzt"
+199,354281685812133890,Mon Jul 08 16:51:50 +0000 2013,0,0,"Freeview makes case for keeping UHF spectrum
+http://t.co/lBDJIsAjhy"

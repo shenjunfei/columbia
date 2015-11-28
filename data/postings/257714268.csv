@@ -1,0 +1,211 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668980524929564672,Tue Nov 24 02:32:40 +0000 2015,735,0,RT @sharked_up: Give me a pizza and I will eat for a day. Give me two pizzas and I will eat for a day.
+1,668952087347249152,Tue Nov 24 00:39:40 +0000 2015,281,0,RT @dan_abramov: My course is out. And it's free. Learn Redux without any prior Flux knowledge: https://t.co/Zs9D0aBSqK
+2,668504851614068736,Sun Nov 22 19:02:31 +0000 2015,0,1,"SFO ✈️ ORD. See ya San Francisco, hope to be back soon. Thanks for hosting @thejoengo"
+3,668486657339846656,Sun Nov 22 17:50:13 +0000 2015,0,2,Sfo would have a yoga room...@thejoengo @SamuelRSolomon @JoeVillanueva22 @BrettHoyer
+4,668224932464062465,Sun Nov 22 00:30:13 +0000 2015,0,2,Timeless Classic @lenovo #thinkpad https://t.co/GmtuC6FFN9
+5,668222994242646018,Sun Nov 22 00:22:31 +0000 2015,0,0,https://t.co/ZCqMuZTrU4
+6,668217839229075456,Sun Nov 22 00:02:02 +0000 2015,0,1,All you need @JoeVillanueva22 @SamuelRSolomon @thejoengo https://t.co/pqJLODBDaO
+7,667479596674121729,Thu Nov 19 23:08:31 +0000 2015,1,0,RT @iamjackhamm: Network automation @riotgames with @ansible. Sweet. #AnsibleFest https://t.co/cxjZG8y2m7
+8,667409260247171072,Thu Nov 19 18:29:02 +0000 2015,1,0,RT @Linuturk: Take it one playbook at a time. #AnsibleFest https://t.co/tPPCAvulxN
+9,667384101633060864,Thu Nov 19 16:49:03 +0000 2015,1,0,Anyone at #AnsibleFest deploying Ruby on Rails applications w/ zero downtime? Lets chat tasks! @ansible #rails
+10,667380190532599808,Thu Nov 19 16:33:31 +0000 2015,0,0,@DillonHafer https://t.co/kyxTwyczQ1 I hope someone makes one for qt 😄
+11,667289169475993601,Thu Nov 19 10:31:50 +0000 2015,0,0,@PatrickArchr yeah I caved and got a 5s… Had to retire the glorious Nokia #N9
+12,667200794849124353,Thu Nov 19 04:40:40 +0000 2015,0,1,ORD ✈ SFO. finally on my way to #ansiblefest after like 5 delays and 1 uncanceled canceled-flight! #aa1625
+13,667186877347270657,Thu Nov 19 03:45:21 +0000 2015,0,4,@jbrancha @MCNormalMode @jwworth totes. u have ansible install ur chef agent and have your recipe set up puppet while u docker in ur docker
+14,667186106606206976,Thu Nov 19 03:42:18 +0000 2015,0,0,@jbrancha @jwworth @MCNormalMode @briandevries_ @higgaion yup I am at ord k15
+15,667181763995783168,Thu Nov 19 03:25:02 +0000 2015,0,0,@jbrancha @jwworth @MCNormalMode @briandevries_  😱 https://t.co/VBwVooRlml
+16,667175527741046785,Thu Nov 19 03:00:15 +0000 2015,0,2,@jwworth still at the gate…945 now. delays for days the gate has changed like 5 times 😰. Shoulda gone back to wolf bar @MCNormalMode
+17,667151066170019840,Thu Nov 19 01:23:03 +0000 2015,0,0,@ChrisC_FSUSD @ansible @Rackspace I hope they showed off the osx say plugin! That one is fun
+18,667110745491046401,Wed Nov 18 22:42:50 +0000 2015,0,0,@MCNormalMode @jwworth and the trains are super packed… 😭
+19,667110245899071490,Wed Nov 18 22:40:51 +0000 2015,1,0,Should have went with Andrew time. Flight delayed to 9… @MCNormalMode @jwworth #ansiblefest
+20,666805720214544384,Wed Nov 18 02:30:47 +0000 2015,0,1,@DillonHafer RT @laserllama: Manage docker inside of mine craft - https://t.co/uBCNwMieL6
+21,666391680413597696,Mon Nov 16 23:05:32 +0000 2015,0,1,@jbrancha https://t.co/Rcwr4gWktt
+22,664287434000179200,Wed Nov 11 03:44:00 +0000 2015,0,1,@jbrancha @dorian_escplan @DillonHafer i like @Namecheap their twitter trivia contests are always fun
+23,663173739903909889,Sun Nov 08 01:58:35 +0000 2015,0,1,@SamuelRSolomon @JoeVillanueva22 I bought a fancy standing desk but I still like to work out here… #hackerden https://t.co/9TqhGKDuwl
+24,662124679449214976,Thu Nov 05 04:29:59 +0000 2015,0,1,https://t.co/cjTPe4VOO6 10/10 @jbrancha
+25,662119097715417088,Thu Nov 05 04:07:49 +0000 2015,0,2,@jbrancha https://t.co/G9HRdLiKZs
+26,661974924739911681,Wed Nov 04 18:34:55 +0000 2015,1,2,super stoked for #ansiblefest @ansible
+27,661660542206124036,Tue Nov 03 21:45:40 +0000 2015,0,0,@Ryyudo https://t.co/l3rNICj9MK
+28,661660225167036416,Tue Nov 03 21:44:25 +0000 2015,0,0,@Ryyudo 2spooky
+29,658417612360175618,Sun Oct 25 22:59:26 +0000 2015,0,0,@Ryyudo was a skellington 3spooky5u?
+30,658404827999764480,Sun Oct 25 22:08:38 +0000 2015,209,0,"RT @swannodette: Even if you don't care about Lisp or Om Next, this is a brain dump of my last decade as a UI programmer. Steal away! https…"
+31,658181178671964165,Sun Oct 25 07:19:56 +0000 2015,0,1,Ansible w/ Serverspec is great! @ansible @gosukenator https://t.co/f5vRfyaTi1
+32,657590787706888193,Fri Oct 23 16:13:55 +0000 2015,0,3,Sweet mug @SamuelRSolomon @JoeVillanueva22 @thejoengo @TheZainyWay https://t.co/6Ot5TZrTfK
+33,655841992400879616,Sun Oct 18 20:24:50 +0000 2015,0,0,@SamuelRSolomon @JoeVillanueva22 @thejoengo @TheZainyWay to my cube of cash http://t.co/FbV21zetUy
+34,655821927672606721,Sun Oct 18 19:05:06 +0000 2015,0,0,Boarding @SamuelRSolomon @JoeVillanueva22 @thejoengo @TheZainyWay http://t.co/OBwNLjPXbD
+35,653481099675348992,Mon Oct 12 08:03:29 +0000 2015,0,1,@PatrickArchr https://t.co/jt8fOYIR1w
+36,652900168736600064,Sat Oct 10 17:35:05 +0000 2015,0,0,@briandevries_  how many do you have? RT @SwiftOnSecurity: So this is what it feels like to be a BlackBerry investor http://t.co/3bTPizAuGW
+37,652899784966152196,Sat Oct 10 17:33:33 +0000 2015,0,1,@patio11 I like z https://t.co/mFH4RYnfUG
+38,652293865563639808,Fri Oct 09 01:25:51 +0000 2015,0,1,@Ryyudo @mosesplan SHUT UP AND JAM JAM
+39,652191828171706368,Thu Oct 08 18:40:23 +0000 2015,0,1,@Ryyudo you should go 38 yrs into the future and witness the chaos dunk!
+40,651293547778473984,Tue Oct 06 07:10:56 +0000 2015,0,1,@ReactJSNews @ReactiveConf react primer draft for me https://t.co/A5V5t0fZGB still in the works of course :)
+41,650501816027754498,Sun Oct 04 02:44:53 +0000 2015,2413,0,RT @SomethingMeh: LEAKED PHOTO OF ONE OF THE NEW FIGHTERS COMING TO SMASH 4 http://t.co/9pHpSu8DBq
+42,650468425530257408,Sun Oct 04 00:32:12 +0000 2015,0,0,@Ryyudo 10000000% Himedere 6000% Kamidere OH HO HO HO @Tohmane
+43,649450073517096960,Thu Oct 01 05:05:38 +0000 2015,0,1,i was looking at es transport and i found this https://t.co/s5yV8sh08x seems much better than our webmock implementation... @jbrancha
+44,648198194812329984,Sun Sep 27 18:11:07 +0000 2015,0,1,@Ryyudo @Tohmane https://t.co/sE6ErnAN3U
+45,646536312753909760,Wed Sep 23 04:07:23 +0000 2015,0,0,"@CharlesKirk argh they dont have a dist and i dont feel like building it atm, i would build a vjs bundle from this https://t.co/RBvQhERilw"
+46,646412241282146304,Tue Sep 22 19:54:22 +0000 2015,0,0,@CharlesKirk which plugin?
+47,646385322859884544,Tue Sep 22 18:07:24 +0000 2015,0,0,"@CharlesKirk sounds good to me, whatcha workin on?"
+48,646047020952584192,Mon Sep 21 19:43:07 +0000 2015,0,0,@PatrickArchr ah! here is a more complete example: https://t.co/keIDBbTI60 :)
+49,646038990123073536,Mon Sep 21 19:11:12 +0000 2015,0,0,@PatrickArchr haha seriously?! What was it? 😊
+50,645770142551556096,Mon Sep 21 01:22:54 +0000 2015,0,0,@Tohmane wake up zone king!
+51,644974401306423296,Fri Sep 18 20:40:54 +0000 2015,0,0,@Ryyudo i wish i could finish Xenoblade. i always end up spending like 5 hours clearing everything on the map instead
+52,643213780525129730,Mon Sep 14 00:04:50 +0000 2015,21947,0,RT @mghnplr: my friend just posted this real-life photo of a crab wandering the streets of north philly with a cigarette http://t.co/Nqvewf…
+53,643196475661533184,Sun Sep 13 22:56:04 +0000 2015,0,0,@Ryyudo ( •᷄⌓•᷅ )
+54,643165311475171328,Sun Sep 13 20:52:14 +0000 2015,0,0,@Ryyudo http://t.co/C4scILLu6I
+55,642508484580372480,Sat Sep 12 01:22:14 +0000 2015,0,0,@jbrancha http://t.co/2gUwt3Ahe5
+56,641310497275555840,Tue Sep 08 18:01:52 +0000 2015,0,0,@Ryyudo pso 2? :o
+57,638115186629472256,Sun Aug 30 22:24:50 +0000 2015,0,1,"Its been fun, i hope to see yall again real soon @JoeVillanueva22 @SamuelRSolomon"
+58,637078017882259456,Fri Aug 28 01:43:30 +0000 2015,0,0,@joeVillanueva22 im just chillin for craftbeer thursdays hmu when your free
+59,636402721004720128,Wed Aug 26 05:00:07 +0000 2015,0,1,Hello los angeles @SamuelRSolomon @JoeVillanueva22 @Henry_Song
+60,636304832022843392,Tue Aug 25 22:31:08 +0000 2015,0,1,@jeffcohen https://t.co/4z06TfKHUn two semicolons
+61,635153382211084288,Sat Aug 22 18:15:41 +0000 2015,0,1,cc: @Ryyudo @Tohmane  https://t.co/RBhlE0Eqbs
+62,631198099751444480,Tue Aug 11 20:18:48 +0000 2015,0,1,༼ つ ◕◡◕ ༽つ Got RELAY
+63,631193539880296448,Tue Aug 11 20:00:41 +0000 2015,318,0,RT @reactjs: ༼ つ ◕_◕ ༽つ RELAY http://t.co/UlZsEtbUgq
+64,629834531441250304,Sat Aug 08 02:00:28 +0000 2015,0,0,@SamuelRSolomon WHOA there. what are you going to do with all that karma?
+65,629432950505889792,Thu Aug 06 23:24:44 +0000 2015,0,4,Thanks for working hard to bring us relay @en_JS @yungsters ❤❤❤ we're all super stoked! @cpojer @reactjs #༼ つ ◕_◕ ༽つ Give RELAY ༼ つ ◕_◕ ༽つ
+66,628357355281870850,Tue Aug 04 00:10:42 +0000 2015,75,0,"RT @adambbecker: Turns out, this react-motion thing https://t.co/3A99e4u7y7 from @_chenglou is pretty awesome… http://t.co/8OCdYs83Qs"
+67,628345854538088448,Mon Aug 03 23:25:00 +0000 2015,42,0,RT @dan_abramov: The best intro to functional programming in JavaScript: https://t.co/kIziEhV51c
+68,627154151257022464,Fri Jul 31 16:29:36 +0000 2015,0,1,@ericqweinstein woah
+69,622517483333771265,Sat Jul 18 21:25:08 +0000 2015,0,0,@jeffcohen I can help! :)
+70,620796360313298946,Tue Jul 14 03:26:00 +0000 2015,0,0,@Tohmane @Ryyudo NOW KITH
+71,619536990124548100,Fri Jul 10 16:01:43 +0000 2015,0,0,@JoeVillanueva22 check slack :D
+72,619322362010316800,Fri Jul 10 01:48:52 +0000 2015,0,0,@SamuelRSolomon http://t.co/M2wRmcSv4y
+73,618789741232664576,Wed Jul 08 14:32:25 +0000 2015,0,1,@jimplush my coworker @DerkTheDaring is giving a talk on Delve! :)
+74,618156829223333888,Mon Jul 06 20:37:27 +0000 2015,6,0,"RT @J3C10: @biggunsdesign @DerkTheDaring Something new to try! Plus, no TSA, no airport hassle, plenty of legroom, see the country, more ti…"
+75,617895476940025857,Mon Jul 06 03:18:56 +0000 2015,0,0,@Ryyudo https://t.co/JRymUCYfjY
+76,617016395906183168,Fri Jul 03 17:05:47 +0000 2015,0,0,@Tohmane which stream are you at :O
+77,617010338286833664,Fri Jul 03 16:41:42 +0000 2015,0,0,@Tohmane WHERE YOU AT
+78,616440413155528706,Thu Jul 02 02:57:02 +0000 2015,0,0,@briandevries_ http://t.co/7kt281vntO
+79,616408376952512512,Thu Jul 02 00:49:44 +0000 2015,0,0,"finally paid off all my student loans, finally freedom! http://t.co/mH3GpnJHkn"
+80,614434518884347904,Fri Jun 26 14:06:19 +0000 2015,0,0,@patio11 its so nice just being able to shift focus to the data and state
+81,614288374665478144,Fri Jun 26 04:25:36 +0000 2015,0,0,bring us the thinkpad classic @lenovo! http://t.co/T8c3mKqqTe #thinkpad cc: @fahadron
+82,611794572750950400,Fri Jun 19 07:16:07 +0000 2015,0,0,ok marionette is pretty legit @ryanore @briandevries_
+83,610654438059999232,Tue Jun 16 03:45:38 +0000 2015,0,0,@verge @Ryyudo :o
+84,607612157497372672,Sun Jun 07 18:16:41 +0000 2015,0,0,openshift is pretty interesting
+85,606988399279407105,Sat Jun 06 00:58:06 +0000 2015,0,0,@Ryyudo is this you right now? https://t.co/gMNxjwCaXY
+86,606987421721313280,Sat Jun 06 00:54:13 +0000 2015,0,1,@Ryyudo forreal man! i wish i had my aol chat logs... actually okay maybe i dont D;
+87,606956476867821570,Fri Jun 05 22:51:15 +0000 2015,0,1,@Ryyudo happy birthday my brotha!
+88,606696557241507842,Fri Jun 05 05:38:25 +0000 2015,0,3,@Ryyudo @Tohmane hot fire by @MelloMakes https://t.co/0KTncUELwz
+89,606669868251758592,Fri Jun 05 03:52:22 +0000 2015,0,0,@rique_hajj aww yeah the midnight coder
+90,606319475734937601,Thu Jun 04 04:40:02 +0000 2015,0,0,@jasontheblock WITNESS ME
+91,606268321026179072,Thu Jun 04 01:16:46 +0000 2015,0,0,@Pusheen @CatConLA aw man visited at the wrong weekend @henry_song @joeVillanueva22
+92,606114209781436416,Wed Jun 03 15:04:23 +0000 2015,0,0,@greggyb thats so awesome!
+93,605498815139954688,Mon Jun 01 22:19:01 +0000 2015,0,1,"@CBUvideo hi i dont experience any wobble from the legs, the top might vibrate if you are shaking it or something, hope this helps!"
+94,605009105980252160,Sun May 31 13:53:06 +0000 2015,0,2,had a blast catching up with @SamuelRSolomon @thejoengo @BrettHoyer  @JoeVillanueva22 @Henry_Song #atl #sf #la
+95,604462794684035072,Sat May 30 01:42:15 +0000 2015,0,0,Classic mixup lol @joeVillanueva22@samuelRSolomon
+96,604336325131567104,Fri May 29 17:19:42 +0000 2015,0,0,where you at dawg @JoeVillanueva22
+97,604204450350137344,Fri May 29 08:35:41 +0000 2015,0,1,"just saw mad max, you were right @BrettHoyer cc: @thejoengo"
+98,604031270624976896,Thu May 28 21:07:31 +0000 2015,0,0,@thejoengo @BrettHoyer maybe we should have a remote screen sesh sometime :)
+99,604030950410854400,Thu May 28 21:06:15 +0000 2015,0,0,@SamuelRSolomon so proud
+100,604026540301504512,Thu May 28 20:48:44 +0000 2015,0,0,#LA here i come! @JoeVillanueva22 @Henry_Song
+101,604026412245233664,Thu May 28 20:48:13 +0000 2015,0,0,"#SF was a ton of fun, great catching up with @thejoengo and @BrettHoyer perfect hoodie weather for days"
+102,603782889260589056,Thu May 28 04:40:33 +0000 2015,0,0,"@greggyb @twilio aw no worries man, ill be back in chicago june 1st - but my friend @ALzonedOut works out there and would love a tour!"
+103,603668721656209408,Wed May 27 21:06:53 +0000 2015,0,0,"@greggyb im visiting a friend right now, who works below @twilio offices, any chance we could get a tour?"
+104,603444532345049088,Wed May 27 06:16:02 +0000 2015,0,1,"After two delays, ive finally landed in #SF @brettHoyer @thejoengo that damn storm @samuelRSolomon"
+105,603269938825007105,Tue May 26 18:42:16 +0000 2015,0,0,@AmaAmaLeeLee please make a sail cover and have it play as you drop from the sky
+106,603242226844508160,Tue May 26 16:52:09 +0000 2015,0,3,#Atlanta was a ton of fun! Thanks for hosting @samuelRSolomon on to #SF cc: @bretthoyer @thejoengo http://t.co/jGeWsTf95d
+107,602081510577967104,Sat May 23 11:59:52 +0000 2015,0,0,@evanjacover thanks Evan!
+108,601916675785621504,Sat May 23 01:04:53 +0000 2015,0,0,"@mattATrefactor Thanks Matt, you too! :)"
+109,601906340794134529,Sat May 23 00:23:49 +0000 2015,0,0,"@evanjacover going to @hashrocket, checking out the world of software consulting!"
+110,601905488771620864,Sat May 23 00:20:26 +0000 2015,0,0,@jaredmckiernan ill be joining @hashrocket btw tell mark i said hello!
+111,601904730831462400,Sat May 23 00:17:25 +0000 2015,1,10,"Ready to start my next chapter, thanks for everything @jellyvisionlab @jellyvisionALEX @AmandaLannert @CharlesKirk @abeach4life"
+112,600461289215766529,Tue May 19 00:41:42 +0000 2015,0,0,"@jeffcohen check out @ansible, its awesome :)"
+113,600158047596449793,Mon May 18 04:36:43 +0000 2015,1,0,the burnout is real
+114,600118606425235456,Mon May 18 02:00:00 +0000 2015,0,0,@JoeVillanueva22 its carryout!
+115,599248156560326656,Fri May 15 16:21:08 +0000 2015,0,0,@scotttownsley aw man i fly back to may 31st :(
+116,598893558062587904,Thu May 14 16:52:05 +0000 2015,0,0,@JoeVillanueva22 sounds like a plan! Itll be good to catch up
+117,598786872001728513,Thu May 14 09:48:09 +0000 2015,0,5,stoked for this trip! @BrettHoyer @thejoengo @Henry_Song @JoeVillanueva22 @SamuelRSolomon @scotttownsley #atl #sf #la http://t.co/fu1mz6rAuK
+118,597988504451186688,Tue May 12 04:55:44 +0000 2015,0,0,@Ryyudo but where else can you play a tbs and rekt baddies with morrigan and demitri :&lt;
+119,597986372490670080,Tue May 12 04:47:15 +0000 2015,0,0,@Ryyudo namco x capcom
+120,596288756279152640,Thu May 07 12:21:32 +0000 2015,0,1,@SamuelRSolomon I REGRET NOTHING
+121,596288716240388096,Thu May 07 12:21:23 +0000 2015,1,0,RT @SamuelRSolomon: Morning conversation about email with @money_mikec http://t.co/uwKjjOUZNx
+122,594996178699202560,Sun May 03 22:45:18 +0000 2015,1,0,RT @Barzorx: @Ryyudo get out
+123,594711323457363968,Sun May 03 03:53:23 +0000 2015,0,0,@jasontheblock haha right
+124,594258658759806976,Fri May 01 21:54:39 +0000 2015,0,1,@_ericelliott yes we are
+125,593959528720248832,Fri May 01 02:06:01 +0000 2015,32,0,"RT @ryanflorence: Since adopting webpack I haven't spent more than 3 minutes on ""tooling"" in a new project."
+126,593589676847407105,Thu Apr 30 01:36:21 +0000 2015,0,0,"@joneslee85 wonderful usb keyboard, i have one as well :D"
+127,593493796849057792,Wed Apr 29 19:15:22 +0000 2015,89,0,"RT @dan_abramov: If you're doing Flux and feeling confused, hang this on your desk http://t.co/HQQRpgkW27"
+128,593460112271937538,Wed Apr 29 17:01:31 +0000 2015,0,0,@martinowen Thank you! More to come soon! :D
+129,592616527544750080,Mon Apr 27 09:09:25 +0000 2015,0,0,@ShirtJS ive ordered some shirts like a month ago and have not received anything or even a status update
+130,590599682285555713,Tue Apr 21 19:35:11 +0000 2015,1,2,@_ericelliott @Vjeux @reactjs so good http://t.co/2cJ6Fda5Ce
+131,590225390817259520,Mon Apr 20 18:47:53 +0000 2015,0,0,https://t.co/QDLeCsg867 fantastic ebook on getting started with react+webpack by @bebraw
+132,590169481319579648,Mon Apr 20 15:05:43 +0000 2015,0,1,@adriangranados @ansible i also love coming back to a playbook like 3 months later and still know exactly whats going on :D
+133,589478926084284417,Sat Apr 18 17:21:42 +0000 2015,0,0,"@ben_anderson awesome! yeah some really exciting possibilities, looking forward to seeing the talk (hopefully itll be available online) :D"
+134,589470870466244610,Sat Apr 18 16:49:42 +0000 2015,0,1,@ben_anderson @dan_abramov @bebraw @winkler1 @iamdustan true. @gnijor did something like that. babel plugin makes it easier to do!
+135,589469271350059008,Sat Apr 18 16:43:20 +0000 2015,1,3,@ben_anderson @dan_abramov @bebraw @winkler1 inject mixins with esprima-loader or babel plugin ex: http://t.co/oFeab3bITk cc: @iamdustan
+136,588380904797536256,Wed Apr 15 16:38:33 +0000 2015,1,0,@SamuelRSolomon you just need to invite all your contacts to connect ;)
+137,587424145157136384,Mon Apr 13 01:16:44 +0000 2015,15,0,RT @dan_abramov: This is an illusion. Stars come and go. Open source is all about the people. Get to know the people. Find their pain point…
+138,584540767147794432,Sun Apr 05 02:19:13 +0000 2015,0,0,@Ryyudo https://t.co/4HYMJMJexm
+139,583235530634063873,Wed Apr 01 11:52:41 +0000 2015,14,0,"RT @ModusCreate: #ReAngular is Re-diculous! See the killer features of the upcoming #React + #Angular merger
+http://t.co/fAAA7ybC2m
+#Virtua…"
+140,582710462845874177,Tue Mar 31 01:06:15 +0000 2015,2559,0,RT @pakalupapito: rt if u love sleeping to avoid problems
+141,582692017085394944,Mon Mar 30 23:52:57 +0000 2015,1,0,@sarahmei @tamatojuice its also kinda like: you just learned how to walk forward but now everyones telling you to walk backward
+142,582664009914064896,Mon Mar 30 22:01:39 +0000 2015,0,0,"@dan_abramov I'd love to see a write up on your thoughts on how you approach testing w/ React, I think it'd be super helpful!"
+143,582139657334341632,Sun Mar 29 11:18:04 +0000 2015,0,0,@purubo I hope it helps! :)
+144,582095459147120641,Sun Mar 29 08:22:26 +0000 2015,3,0,"RT @jordwalke: @ryanflorence @reactweek The irony - that for web developers to build native apps, they must first learn this new web techno…"
+145,581980312525266945,Sun Mar 29 00:44:53 +0000 2015,0,1,@Cycligent Thanks!
+146,581862354020888577,Sat Mar 28 16:56:10 +0000 2015,0,0,@kdironside fun... my parents made me do all the paperwork!
+147,581861047646158850,Sat Mar 28 16:50:58 +0000 2015,154,0,"RT @reactjs: This weekend in 3 easy steps:
+
+📖 Read: http://t.co/BtAIRrestL
+
+📺 Watch: http://t.co/PBGZqWK9CO
+
+📲 Code: https://t.co/LNVQAeOtgL"
+148,581712075895930881,Sat Mar 28 06:59:01 +0000 2015,0,0,@ericdfields Glad to hear it! What were your findings? :D
+149,581646492894568448,Sat Mar 28 02:38:25 +0000 2015,40,0,"RT @roman01la: @reactjs So I've figured out how to write #reactnative in ES6 with webpack &amp; babel, so good! https://t.co/0tRyfop41A http://…"
+150,581636072255283201,Sat Mar 28 01:57:00 +0000 2015,56,0,"RT @rwenderlich: Brand new tutorial on React Native by @ColinEberhardt, minutes after the repo goes live! http://t.co/Nk6lmvCvKV http://t.c…"
+151,581522098205659136,Fri Mar 27 18:24:07 +0000 2015,3,0,RT @dan_abramov: “I got into development because I want to be able to say YES to things.” @ryanflorence
+152,581348388391636992,Fri Mar 27 06:53:51 +0000 2015,89,0,"RT @floydophone: i think @github's ""sophisticated ddos attack"" is just a bunch of people trying out @reactjs native"
+153,581331416656396288,Fri Mar 27 05:46:25 +0000 2015,1,0,RT @bit2pixel: @tomocchino this was the shirt I was wearing today -&gt; http://t.co/HRlWW2u7JQ
+154,581144792832196608,Thu Mar 26 17:24:50 +0000 2015,162,0,RT @fbOpenSource: Bringing React to native platforms: https://t.co/71S15x5san
+155,581144707591331840,Thu Mar 26 17:24:30 +0000 2015,0,1,@ben_anderson awesome @reactjs talk! @fluentconf
+156,581135622749888512,Thu Mar 26 16:48:24 +0000 2015,1201,0,"RT @rbates: Hello, world!"
+157,581073822574456832,Thu Mar 26 12:42:49 +0000 2015,0,0,@MaximRouiller Thank you!
+158,580798115072081920,Wed Mar 25 18:27:15 +0000 2015,0,2,Best surprise ever! Thank you so much. @jellyvisionalex @jellyvisiontech http://t.co/UvpX6uLsQN
+159,580778838885437440,Wed Mar 25 17:10:40 +0000 2015,0,0,@mikeebert ready to go when you are!
+160,580775986796634114,Wed Mar 25 16:59:20 +0000 2015,0,0,@mikeebert not sure if my dm went thru omw now if ya didnt get lunch already
+161,580617615053316096,Wed Mar 25 06:30:01 +0000 2015,0,0,@ryanbigg is made with ansible? :D
+162,580617068908773376,Wed Mar 25 06:27:51 +0000 2015,0,2,"We're trending, you guys are awesome. Thank you everyone for the support. Shout-out to anyone who made a PR! @reactjs http://t.co/q4fcng0p2f"
+163,580535848439029763,Wed Mar 25 01:05:06 +0000 2015,0,0,@craftedpixelz Thank you so much!
+164,580497438840086528,Tue Mar 24 22:32:29 +0000 2015,0,0,Small world @mikeebert lets grab lunch tomorrow if youre free!
+165,580490879405789184,Tue Mar 24 22:06:25 +0000 2015,0,0,@djabatt Thank you! :D
+166,580465713439240192,Tue Mar 24 20:26:25 +0000 2015,0,0,@PatrickArchr steve must be rolling in his grave... over a pile of money
+167,580461960153698304,Tue Mar 24 20:11:30 +0000 2015,10,0,"RT @goatslacker: In case you missed it yesterday, I wrote a Getting Started with Flux guide @reactjs @ReactJSNews https://t.co/KrQukpwPh7"
+168,580461856537604096,Tue Mar 24 20:11:05 +0000 2015,0,0,@evanjacover thanks evan! more to come for sure
+169,580453030312742914,Tue Mar 24 19:36:01 +0000 2015,0,2,@greggyb thanks man! definitely wouldnt be here today without @eeeschwartz or @starterleague
+170,580383440245145600,Tue Mar 24 14:59:29 +0000 2015,0,0,"thanks @clearlyandy I cant wait to see it completed, feel free to help out if you find some time!"
+171,580379856875061248,Tue Mar 24 14:45:15 +0000 2015,0,3,"feeling really inspired right now, the support and interest for react-primer-draft has been absolutely crazy, thank you everyone! @reactjs"
+172,580379259492917248,Tue Mar 24 14:42:53 +0000 2015,0,0,@bitchwhocodes thank you! :)
+173,580340341695369216,Tue Mar 24 12:08:14 +0000 2015,0,0,"@epaga Ah thanks, I'll fix that. Pull requests are welcome!"
+174,580233423253413888,Tue Mar 24 05:03:22 +0000 2015,16,0,RT @jasonfried: We have some coffee snobs at our office… Or do we? Let's find out —&gt; https://t.co/FspeSC9jNe
+175,580231498093056000,Tue Mar 24 04:55:43 +0000 2015,0,1,@PatrickArchr @ansible one of the best things since sliced bread
+176,580194655888760832,Tue Mar 24 02:29:20 +0000 2015,8,31,Started drafting a @reactjs primer for the fine devs at @JellyvisionLab @JellyvisionALEX https://t.co/A5V5t0xAy9 cc: @clearlyandy @Vjeux
+177,579368530652438528,Sat Mar 21 19:46:36 +0000 2015,0,0,"@Ryyudo btw i heard @Tohmane moonlights as this based like being known as The Zone King, guy spits fire straight outta Swedonia"
+178,579366569580466176,Sat Mar 21 19:38:48 +0000 2015,0,0,@Ryyudo @Tohmane hey.
+179,579366140398403584,Sat Mar 21 19:37:06 +0000 2015,0,0,@Tohmane @Ryyudo ohman pls
+180,579365649060737024,Sat Mar 21 19:35:09 +0000 2015,0,0,@Ryyudo @Tohmane YEAH OHMAN WHICH ONES
+181,579042284781502464,Fri Mar 20 22:10:13 +0000 2015,5,0,RT @dan_abramov: React Router 0.13 is out
+182,578971532027826176,Fri Mar 20 17:29:04 +0000 2015,0,0,@tamatojuice samesies coughs for days
+183,578656978802778113,Thu Mar 19 20:39:09 +0000 2015,0,1,@gnijor dude awesome reactjs conf talk on using AST! i just wrote a thing to inject a mixin to log all of a components lifecycle events :)
+184,578414647075737600,Thu Mar 19 04:36:12 +0000 2015,153,0,"RT @stefanpenner: NPM is the best package manager ever.
+@rwjblue -&gt; me: ""which version of glob do you have"" I respond with: http://t.co/kwh…"
+185,578396037770919938,Thu Mar 19 03:22:16 +0000 2015,0,1,"@SamuelRSolomon theyve made a fantastic game, my sim city master architect friends love it"
+186,576175827613671424,Fri Mar 13 00:19:56 +0000 2015,610,0,"RT @BenedictEvans: Old: all software expands until it includes messaging
+New: all messaging expands until it includes software"
+187,575683146882027521,Wed Mar 11 15:42:12 +0000 2015,0,1,"@samuelRSolomon Amy's tomato bisque is pretty fire, nice suggestion"
+188,574385498296221697,Sun Mar 08 01:45:49 +0000 2015,23,0,"RT @markdalgleish: With Relay/GraphQL from @fbOpenSource and @falcorjs from @NetflixOSS coming soon, it's clear UI data mgmt is about to ge…"
+189,570680862553067520,Wed Feb 25 20:24:55 +0000 2015,0,1,Remember the time when we climbed code mountain? @SamuelRSolomon @JoeVillanueva22 @thejoengo @starterleague
+190,570200897113862145,Tue Feb 24 12:37:42 +0000 2015,8,0,RT @mjackson: 1/ Don't ever get so invested in something you built that you completely miss something better when it comes along.
+191,569945104934260736,Mon Feb 23 19:41:16 +0000 2015,4,0,RT @dan_abramov: I still don't understand CSS box model.
+192,569447795612114945,Sun Feb 22 10:45:08 +0000 2015,1,0,"RT @vaibpuri: “Everybody comes to a point in their life when they want to quit, but it's what you do at that moment that determines who you…"
+193,569418277354500096,Sun Feb 22 08:47:51 +0000 2015,0,1,"#Flux is great, but I'm so excited for #Relay and #GraphQL, @reactjs is on point! Truly making frontend dev fun."
+194,563526462339174401,Fri Feb 06 02:35:53 +0000 2015,0,1,@reactjs @mjackson @ryanflorence fantastic talk guys!
+195,562026302815735808,Sun Feb 01 23:14:47 +0000 2015,0,0,@laserllama dont forget the puppy bowl!
+196,561334566321795072,Sat Jan 31 01:26:04 +0000 2015,0,0,@Saikyo_Husky @Ryyudo http://t.co/mi4Z9MoKzy dont stop believing
+197,561332667380015107,Sat Jan 31 01:18:31 +0000 2015,1,0,@laserllama thanks for your hard work! Ansible has made my job so much easier from provisioning to deployments. cc: @thisdavejohnson
+198,561331658737979393,Sat Jan 31 01:14:31 +0000 2015,39,0,"RT @laserllama: Happy Trails, Ansible - Happy Trails, Ansible [1] I started the Ansible project on my couch in Feburary of... http://t.co/g…"
+199,559864693242613760,Tue Jan 27 00:05:19 +0000 2015,8,0,RT @Kirbutashi: http://t.co/dMlMPWlMli

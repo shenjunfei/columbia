@@ -1,0 +1,248 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668987526883995648,Tue Nov 24 03:00:30 +0000 2015,1,2,"Developers, help us end homelessness!
+https://https://t.co/vNBoxPJrKt
+#WordPress #JavaScript #JSHomes"
+1,668978625383964673,Tue Nov 24 02:25:07 +0000 2015,2,4,Why you should avoid the JavaScript `class` keyword:  https://t.co/CsQEsFJwy0 #JavaScript #js
+2,668974717739511808,Tue Nov 24 02:09:36 +0000 2015,0,0,@philswenson @lcrespom Yep. Bloated + poor UX.
+3,668974547685654528,Tue Nov 24 02:08:55 +0000 2015,0,0,@raganwald why would you expect that?
+4,668969826514296832,Tue Nov 24 01:50:10 +0000 2015,3,12,"Create great animations for your React components with Velocity:
+https://t.co/kJuVU7pmlp
+#JavaScript"
+5,668964828782825472,Tue Nov 24 01:30:18 +0000 2015,9,21,We Have a Problem with Promises: https://t.co/T549oyREpT #JavaScript
+6,668956024951304192,Tue Nov 24 00:55:19 +0000 2015,66,0,"RT @ValaAfshar: Employees stay when:
+
+1 paid well
+2 mentored
+3 challenged
+4 promoted
+5 involved
+6 appreciated
+7 valued
+8 on a mission
+9 emp…"
+7,668954719419826176,Tue Nov 24 00:50:08 +0000 2015,2,2,"If you're homeless or about to lose your home:
+https://t.co/0E3SBXFVPt
+#JSHomes"
+8,668953798681825280,Tue Nov 24 00:46:28 +0000 2015,1,4,Tech recruiting is seriously broken. @JS_Cheerleader
+9,668953420401766400,Tue Nov 24 00:44:58 +0000 2015,2,0,RT @JS_Cheerleader: TFW a recruiter calls your mom to try and track you down. Deal breaker. https://t.co/KyIhz56S9q
+10,668947162399682560,Tue Nov 24 00:20:06 +0000 2015,1,3,"I joke about the parens, but clojure's data structures are no joke. Check them out. https://t.co/y9m514elBP
+#clojure #JavaScript"
+11,668943051423780864,Tue Nov 24 00:03:46 +0000 2015,1,3,Share this with somebody in need: https://t.co/0E3SBXXwH1 #homeless #JSHomes
+12,668942737144573952,Tue Nov 24 00:02:31 +0000 2015,0,0,@risseraka Good eye.
+13,668942557737435136,Tue Nov 24 00:01:48 +0000 2015,0,0,"@lcrespom @philswenson A few short years ago, and I was on a brand-new Mac PowerBook. PLENTY of muscle for a souped up text editor."
+14,668941908329172992,Mon Nov 23 23:59:13 +0000 2015,0,0,"@guidsen If you open a pull request, I can give you inline feedback."
+15,668930424484200448,Mon Nov 23 23:13:35 +0000 2015,4,8,"If you're ""remote"" workers have to live nearby, you're doing remote wrong.
+https://t.co/8HVKYFU6ni
+#Startup #code"
+16,668899924113649664,Mon Nov 23 21:12:24 +0000 2015,2,0,RT @JS_Cheerleader: Yay! https://t.co/KGyaxO0gTr
+17,668899546211061760,Mon Nov 23 21:10:54 +0000 2015,18,0,RT @JS_Cheerleader: #mondaymotivation The new WordPress is written in JavaScript and it's open source. Yas! https://t.co/vqy5u7lhNY
+18,668865792318959616,Mon Nov 23 18:56:46 +0000 2015,0,0,@lcrespom @philswenson Eclipse drags the whole world with it when you just want to edit a bit of text.
+19,668865612429459456,Mon Nov 23 18:56:03 +0000 2015,0,0,"@lcrespom @philswenson You wanted a banana but what you got was a gorilla holding the banana, and the entire jungle."
+20,668865483760775169,Mon Nov 23 18:55:32 +0000 2015,0,0,@lcrespom @philswenson crushed under it's own weight: The problem with oo languages is they've got all this implicit env they carry around..
+21,668865018490818560,Mon Nov 23 18:53:41 +0000 2015,0,0,"@lcrespom @philswenson it started crashing randomly on startup, running out of memory trying to boot up its own bloated UI."
+22,668864810163965956,Mon Nov 23 18:52:52 +0000 2015,0,1,@lcrespom @philswenson Story time. Used it daily. Then it started randomly crashing. Then it started chugging on startup...
+23,668861694752374784,Mon Nov 23 18:40:29 +0000 2015,0,0,@philswenson @lcrespom is that even possible? lol
+24,668861504683274240,Mon Nov 23 18:39:44 +0000 2015,0,0,@johnnystrom Yep! Blog post coming.
+25,668861338479783937,Mon Nov 23 18:39:04 +0000 2015,0,0,@guidsen drop me the link. :)
+26,668861283509252097,Mon Nov 23 18:38:51 +0000 2015,0,0,@guidsen yeah!
+27,668854952987525120,Mon Nov 23 18:13:42 +0000 2015,31,0,"RT @neoroma: “Instead of Major.Minor.Patch, think Breaking.Feature.Fix.” — @_ericelliott https://t.co/0SfHcub3Yi https://t.co/NyhhQjhhtj"
+28,668700940153700352,Mon Nov 23 08:01:42 +0000 2015,0,0,@axhlf I've been looking at wasm prototype code. It uses s-expressions. Maybe Clojure will eventually target wasm. Should feel familiar. :)
+29,668700043692503041,Mon Nov 23 07:58:08 +0000 2015,2,0,RT @axhlf: @_ericelliott Try figwheel + boot + reagent + core.async. It's pretty sweet. #clojure #clojurescript
+30,668699987216175106,Mon Nov 23 07:57:55 +0000 2015,0,1,@axhlf I've heard good things. I used to write AutoLisp back in my graphics days. Gotta say I don't miss all the parens. ;)
+31,668620284178464768,Mon Nov 23 02:41:12 +0000 2015,11,0,"RT @mgsiegler: Now that AWS is finally established as a killer business, it's on to the next massive market: users of Final Draft.  https:/…"
+32,668620114204295169,Mon Nov 23 02:40:32 +0000 2015,0,0,"@randfish @iPullRank If that takes off, it will be harder (more expensive) for everyone to launch and grow business. Not cool."
+33,668618849256759297,Mon Nov 23 02:35:30 +0000 2015,16,0,RT @davidcummings: $1M in recurring revenue is harder than it looks: https://t.co/FiZuGO1XSI
+34,668616579681161216,Mon Nov 23 02:26:29 +0000 2015,75,0,RT @Inc: How Robert Herjavec escaped poverty and became a millionaire 'shark' @robertherjavec https://t.co/6S5XzYRtNO https://t.co/zyembVnH…
+35,668594187084787712,Mon Nov 23 00:57:30 +0000 2015,9,0,"RT @dan_abramov: Generally as soon as you feel a parent knows too much about “personal” data / actions of its children, time to extract a c…"
+36,668594121699753984,Mon Nov 23 00:57:15 +0000 2015,5,0,"RT @dan_abramov: Whenever you feel like you’re duplicating code in parent components to provide data for same kinds of children, time to ex…"
+37,668594070105665538,Mon Nov 23 00:57:02 +0000 2015,5,0,RT @dan_abramov: Try to keep your presentation components separate. Create container components by connecting them when it’s convenient.
+38,668594042960109568,Mon Nov 23 00:56:56 +0000 2015,33,0,RT @dan_abramov: Emphasizing “one container component at the top” in Redux examples was a mistake. Don’t take this as a maxim.
+39,668572883057184768,Sun Nov 22 23:32:51 +0000 2015,0,0,"@photonstorm Same problem plagues php, many db vendors, etc..."
+40,668572580131942400,Sun Nov 22 23:31:39 +0000 2015,0,0,@photonstorm Yep. I saw that problem with shopping carts the day of a feature on Good Morning America. That was the day that sparked cuid.
+41,668572073313177600,Sun Nov 22 23:29:38 +0000 2015,1,5,"@BrendanEich @PeteFromSeattle @Vintharas @raganwald TS and Flow are a start, but far from perfect. See also rtype/rfx. Not done, but cool."
+42,668544783820787712,Sun Nov 22 21:41:12 +0000 2015,0,0,"@photonstorm Bottom line, if you're using pure random for unique id's, you're rolling dice with your user data. Ends in tears."
+43,668544457776607232,Sun Nov 22 21:39:54 +0000 2015,1,2,@photonstorm See https://t.co/VHejxEn0kZ
+44,668544420824772608,Sun Nov 22 21:39:45 +0000 2015,5,0,RT @photonstorm: @_ericelliott this one for sure: https://t.co/DwTiZkYbth
+45,668544186782584832,Sun Nov 22 21:38:49 +0000 2015,8,0,RT @BrendanEich: @_ericelliott @ShawnMcCool @codedungeon Reverse debugging is the future. https://t.co/tA8hdp9Cov
+46,668543242229551104,Sun Nov 22 21:35:04 +0000 2015,0,0,"@javascriptjosh @BrendanEich Maybe, but can they run Unreal Engine + Unity in-browser at 60fps? ;)"
+47,668542635426971648,Sun Nov 22 21:32:39 +0000 2015,0,0,@PeteFromSeattle @BrendanEich Looking forward to another cambrian explosion on top of wasm. First class wasm/js module import will rock.
+48,668542225421201408,Sun Nov 22 21:31:02 +0000 2015,0,0,"@PeteFromSeattle @BrendanEich I'm all for language proliferation. Before the web, I used BASIC, ASM, Pascal, Delphi, AutoLisp, C/C++, Java.."
+49,668541484317065216,Sun Nov 22 21:28:05 +0000 2015,0,0,@mattdesl @zeroload Who said anything about manual? https://t.co/3BQjqfm0aX
+50,668541256679620608,Sun Nov 22 21:27:11 +0000 2015,0,0,@philswenson @lcrespom I got out of the Java game before IntelliJ. Eclipse had deep issues. Desperately needed a rewrite last I used it.
+51,668540757280591872,Sun Nov 22 21:25:12 +0000 2015,0,1,@BrendanEich @ShawnMcCool @codedungeon I haven't seen rr-project before. Very cool! Could this eventually work with LLVM/wasm?
+52,668540087764828161,Sun Nov 22 21:22:32 +0000 2015,0,1,@ShawnMcCool @codedungeon @BrendanEich https://t.co/kxOGzy9x8O
+53,668538292900499456,Sun Nov 22 21:15:24 +0000 2015,0,0,@BrendanEich @ShawnMcCool @codedungeon these get blurry with runtime tools. See Redux time travel debugger.
+54,668526300265508865,Sun Nov 22 20:27:45 +0000 2015,0,1,@BrendanEich @PeteFromSeattle Our runtime tools make IDE auto complete look like a baby chew toy.
+55,668526079494107136,Sun Nov 22 20:26:52 +0000 2015,0,0,@BrendanEich @PeteFromSeattle &amp; we more than make up for auto complete glitches with our totally unmatched runtime tools.
+56,668525289442426880,Sun Nov 22 20:23:44 +0000 2015,0,0,"@BrendanEich @PeteFromSeattle @Cloud9IDE Also starting on runtime reflection with Reflect,  React.PropTypes, rfx: https://t.co/1H36JotzgD"
+57,668524715242160128,Sun Nov 22 20:21:27 +0000 2015,0,0,"@BrendanEich @PeteFromSeattle @Cloud9IDE We've had several decent type tools. JSDoc + Tern, definitely typed, flow type inference..."
+58,668523852197072896,Sun Nov 22 20:18:01 +0000 2015,0,1,@ZombieCodeKill @r31gN_ @lcrespom There are many platforms at different levels of abstraction. And that's a good thing.
+59,668523705241223168,Sun Nov 22 20:17:26 +0000 2015,0,3,"@ZombieCodeKill @r31gN_ @lcrespom You mean like the web platform, or Node, or the IoT platforms popping up? JS is many things."
+60,668519922889166848,Sun Nov 22 20:02:24 +0000 2015,0,0,@lcrespom This is why I switched. Getting my source maps to map wasn't intuitive w/browserify + several transform tools.
+61,668519586359193601,Sun Nov 22 20:01:04 +0000 2015,1,2,@lcrespom Don't say Java+Eclipse. It's horribly broken. :)
+62,668519273623523328,Sun Nov 22 19:59:49 +0000 2015,0,0,"@lcrespom I've heard C# matches C++ experience, but can't personally vouch for it. Which others are rocking it?"
+63,668518786840965121,Sun Nov 22 19:57:53 +0000 2015,0,0,"@lcrespom C++ is the only other lang I've seen that comes close to JS dev experience, and only in the game engines. JS crushes others."
+64,668518377502064641,Sun Nov 22 19:56:16 +0000 2015,0,0,@lcrespom It has the best I've seen in a career spanning many languages.
+65,668517956800790528,Sun Nov 22 19:54:36 +0000 2015,6,11,"As @BrendanEich says: Always bet on JS.
+https://t.co/MFBbcO3Zzd
+#JavaScript"
+66,668517748033490944,Sun Nov 22 19:53:46 +0000 2015,0,2,@lcrespom Compare this boilerplate: https://t.co/dMIlc958rl
+67,668517541862477824,Sun Nov 22 19:52:57 +0000 2015,57,67,They said JS was slow. Now it's fast. Said we had no dev tools. We have the best. Said it sucks for big apps. We rock them. @BrendanEich
+68,668516184136941568,Sun Nov 22 19:47:33 +0000 2015,0,0,"@lcrespom And other langs have compile steps, packaging, compression &amp; post processing that makes runtime debug features almost impossible."
+69,668515789255737344,Sun Nov 22 19:45:59 +0000 2015,0,0,@lcrespom I don't lose my sourcemaps. Check your config. :)
+70,668515544761393152,Sun Nov 22 19:45:00 +0000 2015,3,0,RT @JS_Cheerleader: The man behind Jon Stewart's secret project lays out the future of media — and it's riveting https://t.co/fwIDIluyb1 vi…
+71,668515441581494272,Sun Nov 22 19:44:36 +0000 2015,7,0,RT @merobertsjr: Keynotes for Node.js Interactive 2015 Announced  https://t.co/PLbZycojEf #javascript
+72,668515407842533378,Sun Nov 22 19:44:28 +0000 2015,3,8,".@JS_Cheerleader Isn't just a cheerleader. She's a champion for devs, platforms, projects, and people in need. We need more like her. #JS"
+73,668511007963123712,Sun Nov 22 19:26:59 +0000 2015,25,71,npm+eslint++tape+chrome+React+hot loader+Redux+time travel debugger. These JS dev tools put other language tools to shame.
+74,668508794175930368,Sun Nov 22 19:18:11 +0000 2015,0,0,@dogenpunk @raganwald @scripterson Working on that. But all in code (for good reasons): https://t.co/1H36JotzgD
+75,668505579430789120,Sun Nov 22 19:05:25 +0000 2015,2,0,The Cure for Homelessness - How Tech can Bridge the Income Gap: https://t.co/85Y2ICxeXW #jshomes #volunteer
+76,668480885994356736,Sun Nov 22 17:27:17 +0000 2015,0,0,"@ljharb I prefer that when my repo says builds are passing, that should assure users that the code works. But it can't with mutable deps. );"
+77,668480181514846209,Sun Nov 22 17:24:29 +0000 2015,0,0,"@ljharb Could just be the freshness of the recent pain, but respectfully, strongly disagree."
+78,668479226115264514,Sun Nov 22 17:20:41 +0000 2015,7,18,"The world where SemVer guarantees anything is a fantasy. It doesn't exist.
+https://t.co/jDFNzOIoeU
+https://t.co/3BQjqfm0aX
+#npm #JavaScript"
+79,668478187718885376,Sun Nov 22 17:16:34 +0000 2015,0,0,"@ljharb And if the code is different, it's not a dupe. Again, this world where SemVer guarantees anything is a fantasy. Doesn't exist."
+80,668477926329815044,Sun Nov 22 17:15:32 +0000 2015,0,0,@ljharb There are tools for that. Tools that test automatically and automate PRs.
+81,668477231694393344,Sun Nov 22 17:12:46 +0000 2015,0,0,@ljharb Respectfully disagree after this latest round of scrambling to fix my libs that other people broke. Again.
+82,668476979566395392,Sun Nov 22 17:11:46 +0000 2015,0,0,@ljharb See https://t.co/3BQjqfm0aX
+83,668476734275108864,Sun Nov 22 17:10:47 +0000 2015,0,0,@ljharb They would if we could guarantee SemVer. Can you? Is that even possible?
+84,668476504251109380,Sun Nov 22 17:09:52 +0000 2015,0,1,@Steven__PA Yep. That's why we need collaboration and mentorship. Beginners shouldn't feel they're on their own.
+85,668476214957371392,Sun Nov 22 17:08:43 +0000 2015,0,0,@mattdesl @zeroload @revolunet What much larger problem is that?
+86,668475998032166912,Sun Nov 22 17:07:52 +0000 2015,0,0,"@mattdesl @zeroload @revolunet But it is absolutely true that if we can't guarantee our deps, we can't guarantee that our software works. :|"
+87,668475607164960769,Sun Nov 22 17:06:19 +0000 2015,0,0,"@ljharb It's a systemic ecosystem problem that you as an individual rarely see, but taken in whole is a big problem."
+88,668475313714651136,Sun Nov 22 17:05:09 +0000 2015,0,0,@ljharb It happens to one individual person rarely. It happens very frequently is you consider the whole ecosystem.
+89,668474780874510336,Sun Nov 22 17:03:02 +0000 2015,0,0,@ljharb we're seeking an unscalable human solution when a technical solution is the only real fix available.
+90,668474564574253056,Sun Nov 22 17:02:10 +0000 2015,0,0,@ljharb The real problem is we're trusting people to not make mistakes when we could have immutable deps instead.
+91,668473801538015232,Sun Nov 22 16:59:08 +0000 2015,0,0,@ljharb Nope. Multiple. Blacklist is a poor solution to a widespread problem.
+92,668473452139933696,Sun Nov 22 16:57:45 +0000 2015,0,0,"@ljharb There were multiple breaking sources I had to pin, and they're useful. Blacklist is a poor solution to a widespread problem."
+93,668473037256192000,Sun Nov 22 16:56:06 +0000 2015,0,0,"@scripterson I agree with this, but also agree with both @raganwald's conflicting arguments. Paradox."
+94,668472538964475908,Sun Nov 22 16:54:07 +0000 2015,0,1,@Steven__PA practice teaches you how to deal with issues. You can't just absorb someone else's experience. You must experience for yourself.
+95,668472080397004800,Sun Nov 22 16:52:18 +0000 2015,0,0,"@zeroload @mattdesl @revolunet so if Shrinkwrap is a solution only for top level apps, it's not a solution at all."
+96,668471673708908544,Sun Nov 22 16:50:41 +0000 2015,0,0,"@zeroload @mattdesl @revolunet for libs, it's even more important that we help guard against breakage. Only way forward: immutable deps."
+97,668471361413607425,Sun Nov 22 16:49:26 +0000 2015,0,0,"@zeroload @mattdesl @revolunet that ""top level is responsible"" line doesn't work if your broken libs break other libs, and so on..."
+98,668471113337323520,Sun Nov 22 16:48:27 +0000 2015,0,0,@zeroload @mattdesl @revolunet The projects that broke while I was sleeping during Babel 6 transition were mostly libs.
+99,668470668476870656,Sun Nov 22 16:46:41 +0000 2015,0,1,"@keithort @raganwald document your code in code, not comments. :) https://t.co/1H36JotzgD"
+100,668469840248598528,Sun Nov 22 16:43:24 +0000 2015,0,3,@raganwald @scripterson Yep. See pros and cons of FP: https://t.co/aLGo68lgwe
+101,668459407987052544,Sun Nov 22 16:01:56 +0000 2015,61,68,"Program readability is much more important than program writability. Be kind to your future self, and your team."
+102,668458731412152320,Sun Nov 22 15:59:15 +0000 2015,0,0,"@mattdesl @revolunet @zeroload wrong. If you follow that advice, your projects will break while you sleep, eventually. Happened to me lots."
+103,668458260018499584,Sun Nov 22 15:57:23 +0000 2015,0,0,"@mattdesl @revolunet @zeroload Yes, with an update to add https://t.co/3BQjqfm0aX to their projects."
+104,668457810439483392,Sun Nov 22 15:55:36 +0000 2015,0,0,@mattdesl @revolunet @zeroload https://t.co/3BQjqfm0aX
+105,668353983589691392,Sun Nov 22 09:03:01 +0000 2015,0,0,@zeroload @revolunet @mattdesl I'd rather cause a bit of duplication than break a bunch of people's downstream code completely.
+106,668353330121302017,Sun Nov 22 09:00:25 +0000 2015,0,0,"@zeroload @revolunet @mattdesl Dream? Ideal? Pick the least offensive word for ""it doesn't work like that in real life."""
+107,668347714518708224,Sun Nov 22 08:38:07 +0000 2015,0,0,@ljharb @wbinnssmith I had to fix mine fast because they were causing other people build failures. I think I'll pin from now on.
+108,668347349215764480,Sun Nov 22 08:36:40 +0000 2015,0,0,"@ljharb @wbinnssmith Somebody else updated something my libs depended on. My libs broke, which broke all the libs depending on them."
+109,668347027130966016,Sun Nov 22 08:35:23 +0000 2015,0,0,@ljharb @wbinnssmith My experience agrees with this: https://t.co/zyraKN7GvH
+110,668346831043063809,Sun Nov 22 08:34:36 +0000 2015,1,2,@revolunet @mattdesl @zeroload That's the fantasy. Here's the truth: https://t.co/zyraKN7GvH
+111,668344289009647616,Sun Nov 22 08:24:30 +0000 2015,0,0,"@ljharb @wbinnssmith fixed by rolling back package versions until install + tests worked, then pinned versions for everything."
+112,668343601949073408,Sun Nov 22 08:21:46 +0000 2015,12,0,RT @kramp: @_ericelliott The cost of Frameworks  https://t.co/t5Vh0HusIK
+113,668343029971849216,Sun Nov 22 08:19:30 +0000 2015,0,0,@ljharb @wbinnssmith had to fix several repos that couldn't even npm install anymore. And eslint broke in my React projects.
+114,668334230976380930,Sun Nov 22 07:44:32 +0000 2015,0,0,@mattdesl Why not libs?
+115,668333896455487488,Sun Nov 22 07:43:12 +0000 2015,0,0,@wbinnssmith @ljharb Questioning my reasoning though after awkward Babel 6 ecosystem shakeup.
+116,668333583379992576,Sun Nov 22 07:41:57 +0000 2015,0,0,@wbinnssmith @ljharb That's what I thought.
+117,668333388927905792,Sun Nov 22 07:41:11 +0000 2015,0,0,"@Manjeethakur Atom, Chrome, Redux, Redux dev tools, React + hot loader: https://t.co/dMIlc958rl"
+118,668312910850973696,Sun Nov 22 06:19:49 +0000 2015,1,0,"RT @ljharb: @_ericelliott pinning deps doesn't save you at all tho, because of subdeps. you should always use the ^, and shrinkwrap the top…"
+119,668312849307926528,Sun Nov 22 06:19:34 +0000 2015,0,0,"@ljharb Shrinkwrap libs? I never have, but maybe should."
+120,668258986215518208,Sun Nov 22 02:45:32 +0000 2015,4,11,What's your favorite recent blog post on JavaScript? #nodejs #JavaScript
+121,668234618416459777,Sun Nov 22 01:08:42 +0000 2015,0,0,"@willaharian @George_harrap @lacker Yes, it's a dev tool, intended for hackers who want to explore BitCoin products."
+122,668233774719746048,Sun Nov 22 01:05:21 +0000 2015,18,61,"10 Interview Questions Every JavaScript Developer Should Know
+https://t.co/qhDFVMioTf
+#startup #JavaScript"
+123,668231786401394688,Sun Nov 22 00:57:27 +0000 2015,2,6,Fight poverty with code. Give homeless job training centers an easy Docker-based learning platform install. https://t.co/tvuzNsRvfx #JSHomes
+124,668207375275433985,Sat Nov 21 23:20:27 +0000 2015,4,14,"The growing importance of functional programming in JavaScript visualized: https://t.co/vD0r0FWJek
+
+https://t.co/yntwN55vHU
+#JavaScript"
+125,668204059199836160,Sat Nov 21 23:07:17 +0000 2015,0,2,@McQuinTrix @JS_Cheerleader Post to GitHub.
+126,668203999259062272,Sat Nov 21 23:07:02 +0000 2015,0,2,"@McQuinTrix @JS_Cheerleader Code: build simple apps (like our student projects). Use API's &amp; real-time. Demo closures, async, prototypes."
+127,668203306309648388,Sat Nov 21 23:04:17 +0000 2015,0,1,@McQuinTrix @JS_Cheerleader Code or visual design?
+128,668188478258171904,Sat Nov 21 22:05:22 +0000 2015,4,29,Stackgrid - a lib to arrange blocks on the screen: https://t.co/0sgONZycAG #JavaScript
+129,668176344614744064,Sat Nov 21 21:17:09 +0000 2015,11,0,RT @jordi_diaz: “It’s never a good idea to pay regular employees below market rates.” — @_ericelliott https://t.co/pd3FCbcrhN
+130,668176134480134145,Sat Nov 21 21:16:19 +0000 2015,1,0,RT @pete_otaqui: @_ericelliott I've been a fan of this since we used it to hire @tsoukn and @yavor_atanasov at the @BBC
+131,668175775024058368,Sat Nov 21 21:14:53 +0000 2015,28,0,"RT @jordi_diaz: “Instead of Major.Minor.Patch, think Breaking.Feature.Fix.” — @_ericelliott https://t.co/ttjL7F9RVh https://t.co/nzjtkN1PE9"
+132,668174759482421248,Sat Nov 21 21:10:51 +0000 2015,4,0,RT @JS_Cheerleader: Looking for Utah tech or entertainment companies doing great things with JavaScript. Yay! DM me. #code
+133,668174599654260736,Sat Nov 21 21:10:13 +0000 2015,3,0,RT @JS_Cheerleader: Yay remote :) https://t.co/nBG53T7CZO
+134,668174507987742720,Sat Nov 21 21:09:51 +0000 2015,5,0,"RT @JS_Cheerleader: I know, right? Wish people would stop this. https://t.co/wqaIse8EVp"
+135,668165826424500224,Sat Nov 21 20:35:21 +0000 2015,13,36,"Pair programming is the best way to test developer candidates:
+https://t.co/1yLG9jejpB #tech #SaaS"
+136,668148433455190017,Sat Nov 21 19:26:14 +0000 2015,86,0,RT @TechCrunch: Samsung Gear VR Sold Out Online At Amazon And Best Buy https://t.co/UXgvNqTylH by @drew
+137,668147850409152512,Sat Nov 21 19:23:55 +0000 2015,0,0,"@cmx66 I think we agree more than you think. But if you want to be an effective JS dev, you must understand more than one of its paradigms."
+138,668145090347450368,Sat Nov 21 19:12:57 +0000 2015,289,0,"RT @johnmaeda: “If you just communicate clearly, you’ll do better than 99% of startups.” —Kevin Hale: https://t.co/9yR5NnumJq https://t.co/…"
+139,668144718581108736,Sat Nov 21 19:11:29 +0000 2015,0,0,"@cybwn also, have you looked at rfx? It literally attaches a manual to interface objects so you don't have to look up the docs ;)"
+140,668144478671257600,Sat Nov 21 19:10:31 +0000 2015,6,18,"Binary in JavaScript by @workshydev https://t.co/DrL1iz4hTa
+#JavaScript"
+141,668144317899210752,Sat Nov 21 19:09:53 +0000 2015,0,0,@cybwn What does auto complete tell you about exceptions? :)
+142,668143835654975488,Sat Nov 21 19:07:58 +0000 2015,0,0,"@cmx66 Every JS dev, even if you do mostly FP, should understand delegation, obj concat and obj merge &amp; related patterns and idioms."
+143,668143193565716480,Sat Nov 21 19:05:25 +0000 2015,0,0,"@cmx66 delegation can be used to wrap ordinary maps, sets, pojos with chaining APIs for functors (see Array.prototype), etc..."
+144,668141852407631873,Sat Nov 21 19:00:05 +0000 2015,0,0,"@cmx66 If you restrict your understanding of OO to mutable state, you miss out on convenient stuff like chaining, data object concat &amp; merge"
+145,668140965652135937,Sat Nov 21 18:56:34 +0000 2015,0,0,"@cmx66 sounds like we have different definitions of ""prototypal OO"". IMO, it is complementary to FP, and leads to more convenient fp."
+146,668138895117152256,Sat Nov 21 18:48:20 +0000 2015,0,0,@cybwn Types are highly overrated as an error catching mechanism. Underrated as documentation &amp; a way to reduce cognitive load for devs.
+147,668138379335368704,Sat Nov 21 18:46:17 +0000 2015,0,0,@cybwn Throw indicators are still valuable though in that they indicate to developers that they should pay special attention to throw cases.
+148,668138087772385280,Sat Nov 21 18:45:08 +0000 2015,0,0,@cybwn I see what you mean. I think checked exceptions are an untenable problem. More trouble and overhead than it's worth.
+149,668135812874174464,Sat Nov 21 18:36:05 +0000 2015,0,0,@cmx66 yes it is. I specifically mention it in the list and even call special attention to it with an embedded video.
+150,668134827434991616,Sat Nov 21 18:32:10 +0000 2015,26,34,Every idea is a seed. It takes work and time to turn it into something valuable. Pick your best idea right now and get to work.
+151,668133527112675328,Sat Nov 21 18:27:00 +0000 2015,0,0,"@cybwn In JS, only the async ones have given me error related headaches. You have a different experience?"
+152,668128873570156545,Sat Nov 21 18:08:31 +0000 2015,0,0,@willaharian @George_harrap @lacker Something like this could make machine to machine transactions simple.
+153,668128609106661376,Sat Nov 21 18:07:28 +0000 2015,0,0,@willaharian @George_harrap @lacker It's the first iteration of what could become an inexpensive way to bake payments into hardware.
+154,668127231714025472,Sat Nov 21 18:01:59 +0000 2015,0,1,@SteveALee @code maybe soon. Let's see what the OSS community does with it. :)
+155,668127000993796096,Sat Nov 21 18:01:04 +0000 2015,0,1,"@cybwn ah. You shouldn't throw from a typical async function. For Node callbacks, pass an Error object into the cb. Reject promises w/ Err."
+156,668123102287654912,Sat Nov 21 17:45:35 +0000 2015,6,27,Ready to Learn JavaScript? Skip the junk. Learn the essentials: https://t.co/KMKn8KrAq9 #js #JavaScript
+157,668097899125936130,Sat Nov 21 16:05:26 +0000 2015,16,17,"You're overcomplicating things.
+https://t.co/piIbvs4rUs
+#JavaScript"
+158,668074236196581377,Sat Nov 21 14:31:24 +0000 2015,1,7,"Monthly webcasts for members: ""Learn JavaScript with Eric Elliott"" https://t.co/aRnPsaRnvi #JavaScript"
+159,668051516964630528,Sat Nov 21 13:01:08 +0000 2015,26,54,Essential JavaScript dev tools: https://t.co/VUrwkvGaD1 #js #JavaScript
+160,668031039013412864,Sat Nov 21 11:39:45 +0000 2015,36,54,"If you want to learn to code, code.
+
+""The mind is not a vessel that needs filling, but wood that needs igniting."" - Plutarch"
+161,668012561309155328,Sat Nov 21 10:26:20 +0000 2015,0,0,"@bananu7 I tried a whole lot of libs before I got ""attached"" to tape. And if something better comes along, I'll switch. :)"
+162,668010094672523264,Sat Nov 21 10:16:32 +0000 2015,0,0,@bananu7 The reason is you have a $30k budget. :)
+163,668007239362318336,Sat Nov 21 10:05:11 +0000 2015,180,0,RT @BobMurphyEcon: Parents trying to decide foreign language(s) kid will learn: Remember the population that will grow most during kid's li…
+164,667990484959170560,Sat Nov 21 08:58:36 +0000 2015,104,0,RT @seldo: npm is about to hit 20 billion downloads in the last 365 days. https://t.co/GRRdVKTHyW
+165,667989992719822848,Sat Nov 21 08:56:39 +0000 2015,21,0,RT @s_ferdie: “Why is it so hard to find a front end developer?” @illyism https://t.co/UM5q9ENgIL
+166,667985563601862656,Sat Nov 21 08:39:03 +0000 2015,0,0,"@cybwn We don't try to mix our types into the rest of the JS syntax, so I think we have a cleaner solution. What do you think of rtype?"
+167,667985121253834752,Sat Nov 21 08:37:18 +0000 2015,0,0,@azat_co Take it for a spin. Enjoy fewer features.
+168,667984960817532928,Sat Nov 21 08:36:39 +0000 2015,0,1,@azat_co Even the WordPress team mixes WP and Node. :)
+169,667984667430117376,Sat Nov 21 08:35:29 +0000 2015,0,1,@azat_co WP because it does so much we need (CMS things). Node because we can reuse lots of code on both sides of the stack. And JS rocks.
+170,667984092676292608,Sat Nov 21 08:33:12 +0000 2015,0,0,@BenLesh I use Sauce Labs for cross-browser tests.
+171,667948339392962560,Sat Nov 21 06:11:08 +0000 2015,0,1,@codepo8 @SeraAndroid You got me there.
+172,667929212444102656,Sat Nov 21 04:55:08 +0000 2015,13,35,"Why I use tape instead of Mocha, and you should, too. https://t.co/AhKjmZi074  #js #JavaScript"
+173,667914981271171072,Sat Nov 21 03:58:35 +0000 2015,0,0,@erniestrings I like the idea of abstracting at the app level rather than the container level. Seems like it could be easier to scale?
+174,667914732913889280,Sat Nov 21 03:57:36 +0000 2015,0,1,@erniestrings Looking for staging + prod push strategy that can be easily replicated by a bunch of training centers using the platform.
+175,667914277836079104,Sat Nov 21 03:55:47 +0000 2015,4,6,"I need help with Vagrant/Otto/Docker - for a good cause (help the homeless): https://t.co/tvuzNsRvfx
+#JSHomes"
+176,667909809102917632,Sat Nov 21 03:38:02 +0000 2015,10,0,"RT @Stonehippo: Dev pro tip: think of SemVer as Breaking.Feature.Fix, and use code name for releases.  Spot on, @_ericelliott! https://t.co…"
+177,667909710725578752,Sat Nov 21 03:37:38 +0000 2015,2,4,What do you think? Do we need Otto? https://t.co/tvuzNsRvfx
+178,667909562599542784,Sat Nov 21 03:37:03 +0000 2015,3,3,JSHomes is currently using Vagrant. Should we switch to Otto? The app is WordPress + Node.js connecting to MySQL &amp; Redis dbs. #docker
+179,667899009370058753,Sat Nov 21 02:55:07 +0000 2015,6,14,Permissions API for the web: https://t.co/jr8vUNZ7ef #html5 #JavaScript
+180,667896742629650432,Sat Nov 21 02:46:07 +0000 2015,0,0,@jfbastien @Sunfishcode @BrendanEich @kripken Cool. I'm excited about the progress. Thanks for sharing. :)
+181,667895976217063424,Sat Nov 21 02:43:04 +0000 2015,2,0,RT @jfbastien: @_ericelliott @Sunfishcode @BrendanEich try the LLVM build through wasm-e2e. It can generate some code. Or try binaryem from…
+182,667885962236526592,Sat Nov 21 02:03:16 +0000 2015,1,0,@_ericelliott cc @jfbastien @Sunfishcode @BrendanEich looking for illustrative demo examples of wasm prototype s-expression source. =)
+183,667881637355499521,Sat Nov 21 01:46:05 +0000 2015,3,2,"Do you have a simple working wasm prototype demo with text s-expression source? Please share!
+https://t.co/X53Voerhbj
+#wasm #JavaScript"
+184,667877018873106432,Sat Nov 21 01:27:44 +0000 2015,0,1,"@elvispt Yep, but too many people are breaking the rules. I'm trying to help people avoid the trouble and avoid causing it themselves. =)"
+185,667873975201058816,Sat Nov 21 01:15:38 +0000 2015,3,19,"Building a HTML5 Control Surface for Ableton Live: https://t.co/Dd7EYJRhtD
+#HTML5 #JavaScript"
+186,667866924735336448,Sat Nov 21 00:47:37 +0000 2015,0,0,"@steverydz Yes. Super hackable. I still use Sublime Text for a couple things, just because it's slightly better for them."
+187,667866460685905920,Sat Nov 21 00:45:47 +0000 2015,0,0,"@tomasekeli @yamalight That's what file hashes or commit hashes do. If you trust that task to npm, it will bite you eventually."
+188,667856236495400960,Sat Nov 21 00:05:09 +0000 2015,3,5,"Open a folder as a project with Atom's CLI: atom &lt;your-folder&gt; # or atom .
+#code #JavaScript"
+189,667851070010331137,Fri Nov 20 23:44:37 +0000 2015,0,9,Want runtime types &amp; better interface documentation in your JS? We're building that. Help us with a vote: https://t.co/NlFe7fDH56
+190,667850724722642946,Fri Nov 20 23:43:15 +0000 2015,7,0,RT @yamalight: “Version numbers are only there to communicate the nature of a change…” — @_ericelliott https://t.co/GUS5Xd9LBu https://t.co…
+191,667844919042666496,Fri Nov 20 23:20:11 +0000 2015,7,20,"Software versions are broken:
+https://t.co/dX4xqB1ymO
+#JavaScript"
+192,667842387171913728,Fri Nov 20 23:10:07 +0000 2015,22,23,"Empathy is the key to true, lasting success in software. Feel the pain of users and collaborators to understand the problem you're solving."
+193,667839964378451968,Fri Nov 20 23:00:30 +0000 2015,7,19,"): Major.Minor.Patch
+:) Breaking.Feature.Fix
+https://t.co/dX4xqB1ymO
+#JavaScript"
+194,667837850038079488,Fri Nov 20 22:52:05 +0000 2015,9,0,RT @geteslint: We are currently investigating a compatibility issue with eslint-plugin-react. We recommend not upgrading if you use it.
+195,667837694353866752,Fri Nov 20 22:51:28 +0000 2015,0,0,"@EnglishCriminal @npmjs Without good answers to those questions, the quality vs quantity suggestion is a meaningless false dichotomy."
+196,667837288424968192,Fri Nov 20 22:49:52 +0000 2015,0,0,@EnglishCriminal @npmjs Do you have a good quality graph?  How is quality measured? Is that measure objective?
+197,667836954835193856,Fri Nov 20 22:48:32 +0000 2015,0,0,"@james_womack I doubt it, but Go, Go!"
+198,667833352460767232,Fri Nov 20 22:34:13 +0000 2015,0,2,"rtype throw indicator: Comma or no comma?
+https://t.co/r16UwCgc0N
+#JavaScript"
+199,667824652270473216,Fri Nov 20 21:59:39 +0000 2015,3,0,RT @JS_Cheerleader: A new post AND it's Friday. Yay! “Software Versions are Broken” by @_ericelliott https://t.co/cxZVCLjCDy

@@ -1,0 +1,28 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,626784343726387200,Thu Jul 30 16:00:07 +0000 2015,0,0,Svako ima pravo da radi ali i da bude adekvatno plaćen. Zahtevam #POSAOSNOVA! Besplatna obuka! Priključi se i podeli! http://t.co/dEINKMavqk
+1,614049700136751104,Thu Jun 25 12:37:11 +0000 2015,1798,0,RT @alicemazzy: The keyboard used by the designer of vi had esc next to Q and arrows printed on hjkl http://t.co/99XXIrmeEK
+2,590878104945561600,Wed Apr 22 14:01:32 +0000 2015,16,0,RT @_ericelliott: Essential JavaScript Libraries: https://t.co/SaqqLVVdsj #essentialjs #JavaScript
+3,590878093352509440,Wed Apr 22 14:01:30 +0000 2015,11,0,RT @_ericelliott: Essential JavaScript dev tools: https://t.co/ajx0MiZdh6 #js #JavaScript
+4,563624468153917440,Fri Feb 06 09:05:19 +0000 2015,2,0,RT @4ndraP: Very informative #javascript reading: “@rauschma: Latest version of my slides on ES6 (completely redone): https://t.co/bhO4DQNd…
+5,560773642595086336,Thu Jan 29 12:17:09 +0000 2015,38,0,RT @Independent: A Jewish leader became trapped in Auschwitz and was arrested when he tried to escape http://t.co/DWSOj37KRH http://t.co/JK…
+6,560446216514052096,Wed Jan 28 14:36:05 +0000 2015,3,0,RT @JoeIngeno: ECMAScript 6 in io.js http://t.co/h2d5YrzP6s @airportyh @davidwalshblog #ES6 #javascript #iojs
+7,557933660264226817,Wed Jan 21 16:12:05 +0000 2015,0,0,@SocketIO found it in source code at the end ... But would be nice if there is a note in docs whom does socket inherit ...
+8,557905873784561664,Wed Jan 21 14:21:40 +0000 2015,0,0,Start with 'getting started' page on socket.io and have no clue where to find socket.on() documentation within Server API page? @SocketIO
+9,554920371519250432,Tue Jan 13 08:38:21 +0000 2015,1,0,RT @4ndraP: “@mraleph: what's up with monomorphism http://t.co/u6moyFE0aP” Best text I found on this topic ever.
+10,540073578709151745,Wed Dec 03 09:22:29 +0000 2014,3,0,"RT @4ndraP: ""One particularly obscure way to retain an object in memory is to log it to the console.""
+http://t.co/S10uKKheWO
+#JavaScript #m…"
+11,534707295486496769,Tue Nov 18 13:58:48 +0000 2014,6,0,RT @4ndraP: Multiple #nodejs applications on a single server using a reverse proxy approach. http://t.co/70AwZ7uZLT
+12,532564798006099968,Wed Nov 12 16:05:17 +0000 2014,0,0,Do I really have to aggregate all of my JS files into one for Safari? #Safari #iOS8 #webapp #JavaScript
+13,514161671066353664,Mon Sep 22 21:17:49 +0000 2014,0,0,JSON schema as a helper: building both mongoose schema (model) and form? Should give it a try soon :D #MEAN #MeanIO
+14,502813495289999360,Fri Aug 22 13:44:13 +0000 2014,0,0,@zmajevi_postoje http://t.co/xaR19yKTyr
+15,502767349184086016,Fri Aug 22 10:40:51 +0000 2014,0,0,"@zmajevi_postoje nisi, matori, gledao konferenciju: srbija nikog ne moli ... Cuo sam da se i Cak Noris usrao ..."
+16,416335809953136640,Thu Dec 26 22:32:46 +0000 2013,10,0,"RT @Misko_DH: Uvek kazem: prati tokove novca. Znaci hajka na Ognjanovice je bila da pare opet odu drzavnoj ustanovi, a ne nekom bolesnom de…"
+17,416152114209882112,Thu Dec 26 10:22:50 +0000 2013,0,0,"@razgibavanje cenjeni drugari, APSOLUTNA podrska, drugari, uz vas smo :D"
+18,408534838468415488,Thu Dec 05 09:54:30 +0000 2013,1,0,RT @4ndraP: Detailed and informative text on using the MEAN stack: http://t.co/hdGoJ2uLUJ
+19,379515009837322240,Mon Sep 16 08:00:04 +0000 2013,1,0,"RT @4ndraP: Fabric.js, exciting graphics library. How usable is it for game development? http://t.co/fSFj3IvjKl"
+20,349443678542118912,Tue Jun 25 08:27:19 +0000 2013,8,0,"RT @Misko_CZ: Otkricu vam strasnu istinu: nije najgore biti u Srbiji zatvoren, pritom star. Najgore je biti slobodan i mlad. Zao mi je, deco"
+21,347091397783977984,Tue Jun 18 20:40:12 +0000 2013,5,0,RT @Misko_CZ: Ovde samo fali portir iz Agencije za privatizaciju.
+22,345139998296776705,Thu Jun 13 11:26:02 +0000 2013,1,0,RT @Misko_CZ: Osecam se tako beskorisno ovih 6 meseci. Mozda samo Boris Tadic razume kako mi je
+23,336805935467077632,Tue May 21 11:29:27 +0000 2013,1,0,RT @drupal_modules: Field Collection Manipulator: Helper PHP class for manipulating collections of fields - adding/removing fields... http:…
+24,336805852864462848,Tue May 21 11:29:07 +0000 2013,1,0,RT @drupal_modules: H.E.R.S. cluster: NodeJS has shown a lot of potential for building ad-hoc servers for an almost unlimited numb... http:…

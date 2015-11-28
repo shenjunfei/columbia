@@ -1,0 +1,234 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669219989812027392,Tue Nov 24 18:24:13 +0000 2015,6,0,"RT @zuehlke_group: Wir gratulieren der SBB zur gelungenen #SBBnew App und freuen uns, euch auch weiterhin unterstützen zu dürfen. https://t…"
+1,669195819107688448,Tue Nov 24 16:48:10 +0000 2015,0,1,Nice that there is a community preview for the next sbb app: https://t.co/s8b4qm7sRf #sbbnew #usersdomatter
+2,669115120488857602,Tue Nov 24 11:27:30 +0000 2015,0,1,@sockeqwe finally ☺
+3,669115061881950208,Tue Nov 24 11:27:16 +0000 2015,4,0,"RT @sockeqwe: refactoring unit tests and Android unit tests at the same time! Instant run!
+welcome in 2015 to all Android devs #AndroidDevS…"
+4,668088936225488896,Sat Nov 21 15:29:49 +0000 2015,1328,0,"RT @SciencePorn: Caulle Volcano Erupting, Chile. Picture credit: Francisco Negroni https://t.co/zHRNTJdSP2"
+5,666845105677074432,Wed Nov 18 05:07:17 +0000 2015,2943,0,RT @SciencePorn: Typical Whale Problems.. https://t.co/R0uV8bjG9K
+6,666503320304017408,Tue Nov 17 06:29:09 +0000 2015,5,0,RT @AnDevCon: Dynamic Android dependency versions done right https://t.co/43mrAkSb08 #AndroidDev
+7,664331763724906496,Wed Nov 11 06:40:09 +0000 2015,0,2,"Unplug your mouse! A must-see for everyone using IntelliJ based IDEs. #mouselessDrivenDevelopment #byebyeEclipse
+https://t.co/3CFQ83x9AH"
+8,664065503191654400,Tue Nov 10 13:02:08 +0000 2015,0,0,@fork_ch also good read https://t.co/pdi3KsHCEs
+9,663985289954627585,Tue Nov 10 07:43:24 +0000 2015,0,0,"remember to always include a full set of your native libraries for each arch, or use ABI splits:
+#androiddev #ndk https://t.co/Vzv3v94aKu"
+10,663609544023625728,Mon Nov 09 06:50:19 +0000 2015,0,0,“The Perils of Loading Native Libraries on Android” by Hilal Alsibai https://t.co/oa2oiVUjde
+11,662310825970020352,Thu Nov 05 16:49:40 +0000 2015,1760,0,RT @SciencePorn: No water available. https://t.co/wW3KmKpSOZ
+12,662310346401693696,Thu Nov 05 16:47:46 +0000 2015,2022,0,RT @PhilipCotan: Technical debt in one image technicaldebt http://t.co/eoIpYNbHU0
+13,660120599193378816,Fri Oct 30 15:46:29 +0000 2015,18,0,RT @hamen: Android development is 30% more expensive than iOS https://t.co/AinE7iOUOa Hopefully Kotlin will help in the future.
+14,660120361984507904,Fri Oct 30 15:45:33 +0000 2015,0,0,@fankhs konnte gestern leider nicht. Aber Danke für die Einladung!
+15,659996758521548800,Fri Oct 30 07:34:24 +0000 2015,1,1,"wake up device and disable animations when running espresso UI test on android #AndroidDev 
+https://t.co/oaE3997c7o"
+16,659258195563716608,Wed Oct 28 06:39:36 +0000 2015,3,0,RT @ollispieps: Today @jugch continuous documentation https://t.co/1zGiPiYLd3 big thx to @bruderol and @adi_herzog https://t.co/bT7QjUGrHi
+17,658542084299862016,Mon Oct 26 07:14:02 +0000 2015,0,0,"How do you synchronoize your espresso tests with sqlbrites hot observables? #androiddev 
+/cc  @JakeWharton, @sockeqwe"
+18,657540781419405312,Fri Oct 23 12:55:13 +0000 2015,0,1,Leder-Sandalen und Sturmgewehre: Was Expats in der Schweiz schräg einfährt - https://t.co/pYQrGjoioP via @watson_news
+19,657210995752988672,Thu Oct 22 15:04:46 +0000 2015,1,0,RT @GetBring: Let's open the curtain for the new Bring! Android Material Design release. Get it now! #android #material #design https://t.c…
+20,657202516006973440,Thu Oct 22 14:31:04 +0000 2015,245,0,"RT @kotlin: Kotlin 1.0 Beta Candidate is Out!
+https://t.co/6C308B1LCx https://t.co/kEFCQwj6O9"
+21,654950243734306816,Fri Oct 16 09:21:21 +0000 2015,0,0,Now available on https://t.co/a6ZxPmu8ao
+22,654925097321517056,Fri Oct 16 07:41:25 +0000 2015,0,0,"stripping down ffmpeg is really easy: --disable-everything --enable-encoder=h264 ... in ffmpeg_build.sh
+http://t.co/VAu4uqs07n"
+23,654657702631575552,Thu Oct 15 13:58:53 +0000 2015,0,0,"@xrb at least I know it works great with ffmpeg! but 15mb per arch (arm, x86) is too much"
+24,654651272495169536,Thu Oct 15 13:33:20 +0000 2015,0,0,Feeling nostalgic: adjusting ./configure calls to reduce binary size of #ffmpeg #crossCompilngForAndroid
+25,654638242466279424,Thu Oct 15 12:41:34 +0000 2015,0,0,@donturner @marcbaechinger Thanks!
+26,654624537007534080,Thu Oct 15 11:47:06 +0000 2015,0,0,After a nice chat with @marcbaechinger i will go the FFMPEG route by probably compiling a custom variant removing unneeded parts!
+27,654582175271141376,Thu Oct 15 08:58:46 +0000 2015,1,1,"Any suggestions on encoding a movie from bitmaps with 1 fps on Android? ffmpeg-android is huge, jcodec makes large movie files #androiddev"
+28,654223799899017216,Wed Oct 14 09:14:43 +0000 2015,0,0,"Do you like Jasmine JS tests but are programming in Java? Have a look at https://t.co/CmU1L5PcSv
+#forBetterTests #unittesting"
+29,653870126375301120,Tue Oct 13 09:49:21 +0000 2015,0,1,"great online Markdown editor https://t.co/OGIxhTTcEr
+#markdown #webtool"
+30,653858809300033536,Tue Oct 13 09:04:22 +0000 2015,0,0,"Android Studio recreates .idea folder when you select your projects folder, to avoid this select your project "".iml"" file /cc @AndroidDev"
+31,653596917428027392,Mon Oct 12 15:43:43 +0000 2015,3078,0,RT @SciencePorn: http://t.co/VhReEQGe8N
+32,652146535656910848,Thu Oct 08 15:40:25 +0000 2015,3,0,"RT @InfinitSerenity: CI the Volkswagen way: ""Volkswagen detects when your tests are being run in a CI server, and makes them pass."" https:/…"
+33,651983451495792641,Thu Oct 08 04:52:22 +0000 2015,0,0,Nice addition to an already very useful little library  https://t.co/kbwCRc0jlo
+34,650367826356740096,Sat Oct 03 17:52:27 +0000 2015,6,0,RT @adi_herzog: Don't miss our talk about #scenarioo at @jugch on October 27 in Zürich! @zuehlke_group @bruderol http://t.co/8uXZcP6PQU
+35,649829000861347841,Fri Oct 02 06:11:21 +0000 2015,1,1,@jitpack is great if you need to fork a library but still can use it in your build as a dependency!
+36,649269156500611072,Wed Sep 30 17:06:44 +0000 2015,0,0,Pouletverkäufer setzten auf ein äusserst erfolgreiches Werbemittel: die Nase
+37,644845137743491072,Fri Sep 18 12:07:16 +0000 2015,0,0,@sockeqwe how to handle relations? query the child tables seperately and manually set the fields on the parent object (zip operator)?
+38,644234590366892034,Wed Sep 16 19:41:10 +0000 2015,0,0,@sockeqwe nice!
+39,644056454358548480,Wed Sep 16 07:53:19 +0000 2015,0,0,"thanks @sockeqwe for the awesome sqlbrite-dao library which greatly augments sqlbrite by @SquareEng
+https://t.co/S6Il6a7eWX"
+40,638424619171581952,Mon Aug 31 18:54:25 +0000 2015,0,0,@xeronimus need to ask somebody to take flying footage..on board videos won't be available here..
+41,638060779665756160,Sun Aug 30 18:48:39 +0000 2015,0,0,Never noticed the jump'n'run game in #chrome until now #waitingForCellularNetwork http://t.co/hQ2NafXZkw
+42,637650240758251520,Sat Aug 29 15:37:19 +0000 2015,3790,0,RT @SciencePorn: http://t.co/5z6sKB9tuG
+43,637569194020708352,Sat Aug 29 10:15:15 +0000 2015,0,3,Nice day to do some FPV #multicopter flying..btw. thats a #Chrome  App #configuring #firstFlipsAndRolls #nocrash http://t.co/faPwr45Pjl
+44,636893951614676992,Thu Aug 27 13:32:05 +0000 2015,5,0,RT @TelmeJohn: Telme John in der @sonntagszeitung http://t.co/pEu8ROOCjS
+45,636185235948990464,Tue Aug 25 14:35:54 +0000 2015,10116,0,RT @BabyAnimalPics: If you're having a bad day http://t.co/jEDIoVOTOa
+46,636185070731137025,Tue Aug 25 14:35:15 +0000 2015,0,0,How do you deal with @RxJava hot observables (e.g. BehaviourSubject) and android UI tests with espresso? #AndroidDev
+47,636151316843241473,Tue Aug 25 12:21:07 +0000 2015,0,5,"thanks @f2prateek  for this awesome little android library which let me enter the world of @RxJava  #AndroidDev
+https://t.co/lpV3MUpyko"
+48,636151102141001729,Tue Aug 25 12:20:16 +0000 2015,0,5,finally started using @RxJava in an Android project and immediately experienced its huge benefits :-) #reactive #androiddev
+49,634476676437671936,Thu Aug 20 21:26:42 +0000 2015,150,0,RT @jpmens: The Internet is now definitely complete: Node.js meets COBOL. https://t.co/EzX54r0Zo3 http://t.co/3aAEUHeg1X
+50,634383168389410816,Thu Aug 20 15:15:08 +0000 2015,2,0,RT @jernejv: Running a single test in AS right now takes me about 3-4 minutes in round trip. This is f***cking impossible to work with.
+51,633598855561482240,Tue Aug 18 11:18:33 +0000 2015,4821,0,RT @Android: Introducing #AndroidMarshmallow. Learn more about our latest sweet http://t.co/eIwlgT7c6i http://t.co/ytRwKLuCKT
+52,632570471691735040,Sat Aug 15 15:12:07 +0000 2015,9173,0,RT @SciencePorn: The mass of a super-massive black hole measured in suns http://t.co/7Zsa5vevzt
+53,632247671219220480,Fri Aug 14 17:49:26 +0000 2015,39944,0,RT @BabyAnimalPics: Lion cub napoleon shows off his mighty roar 😻 http://t.co/pBq4rnRjE1
+54,631705634849845248,Thu Aug 13 05:55:34 +0000 2015,2,0,"thank you @jitpack for compiling and delivering me #AutoFitTextView as gradle dependency https://t.co/ZCP4lQj46k 
+#androiddev"
+55,631703146339921920,Thu Aug 13 05:45:41 +0000 2015,0,0,Why don't we have a sane way to display a connected device's screen at an good framerate using adb? #sad /cc @AndroidDev
+56,631547435056283648,Wed Aug 12 19:26:56 +0000 2015,3024,0,RT @SciencePorn: Celsius vs Fahrenheit http://t.co/ihfQd9tSbL
+57,629212887945465856,Thu Aug 06 08:50:17 +0000 2015,344,0,"RT @JakeWharton: Very happy to announce that RxAndroid 1.0 has been released! Thanks to @danlew42 and @mttkay for all their work.
+
+https://…"
+58,628798905707331584,Wed Aug 05 05:25:16 +0000 2015,0,1,does anybody know a good library for creating a spreadsheet like editor for numbers on #android? #AndroidDev
+59,628529960702078976,Tue Aug 04 11:36:34 +0000 2015,0,0,How to centralize the support libraries dependencies in gradle http://t.co/klehmZWMjF
+60,628224457224650753,Mon Aug 03 15:22:37 +0000 2015,1575,0,RT @pickover: Network cable with built-in firewall.  http://t.co/Ae5Yqxfvto http://t.co/lTT3bm0VE3
+61,628223423530029056,Mon Aug 03 15:18:30 +0000 2015,1,0,convert your SVGs to android vector drawables: http://t.co/uDt13gwwff
+62,628223371134808064,Mon Aug 03 15:18:18 +0000 2015,0,0,support lib for vector drawables in pre-L devices: https://t.co/FD5tElsEgV
+63,623861774962552832,Wed Jul 22 14:26:52 +0000 2015,1,0,When will checkSelfPermission et. Al. be in the support libraries? Or how do you migrate your pre-M apps? #AndroidDev #AndroidMPreview
+64,623396872527441920,Tue Jul 21 07:39:31 +0000 2015,1,0,How do I set the percentual width and height of views for the new Percent*Layouts in the support libs programatically? #AndroidDev
+65,623146846228230144,Mon Jul 20 15:06:00 +0000 2015,2,0,RT @zuehlke_group: Android + Kotlin = love http://t.co/unAcUSrdII
+66,622765231027159040,Sun Jul 19 13:49:36 +0000 2015,1,0,@PatrickMWalther @SwissJS already some new bots to compete with @adi_herzog 's bot?
+67,619958128562597889,Sat Jul 11 19:55:10 +0000 2015,0,0,«That's relativity folks».... watching #interstellar the second time just makes it more epic!!
+68,617986374768136192,Mon Jul 06 09:20:08 +0000 2015,6,0,"RT @bruderol: #usecamp 2015 education week @zuehlke_group started today: #angularjs , #javascript , #nodejs, #javafx, #Swift , #iosdev , #m…"
+69,615912674220736512,Tue Jun 30 15:59:59 +0000 2015,2,0,RT @zuehlke_group: Software zu dokumentieren ist mühsam und teuer. Warum nicht automatisieren mit #Scenarioo? #ui #opensource http://t.co/G…
+70,615478400308899840,Mon Jun 29 11:14:20 +0000 2015,0,0,need to write #JNI binding code for your native code? start using #djinni by @Dropbox right now!! #thankyou https://t.co/PIM37SxVp4
+71,615416418822148096,Mon Jun 29 07:08:02 +0000 2015,1,0,RT @hamen: Android Percent Supprt - Sh*t is getting real! - JulienGenoud/android-percent-support-lib-sample http://t.co/pOy7En7qri
+72,614558308645621760,Fri Jun 26 22:18:13 +0000 2015,1,0,RT @marcbaechinger: Low latency audio on Android. Is the chicken fast enough? https://t.co/OamUc9ztI7
+73,613825511689687040,Wed Jun 24 21:46:20 +0000 2015,2,0,"Thanks to @itemis, @bsiag_com and @jugch for a great #eclipsedemocamp in Zürich! /cc @colameo @EclipseScout"
+74,613772168145563648,Wed Jun 24 18:14:22 +0000 2015,0,0,@hamen but on what would you filter since they are just method calls? Let the subject emit enum values to filter upon?
+75,613715889322598401,Wed Jun 24 14:30:44 +0000 2015,0,0,@kglsvn komme leider erst später..
+76,613631870392266752,Wed Jun 24 08:56:53 +0000 2015,0,0,"how would you implement an #rxjava Observable from a listener with multiple methods like onConnected,onPasswordRequested?"
+77,613609355150274560,Wed Jun 24 07:27:25 +0000 2015,0,0,@kglsvn ja ich werde wahrscheinlich auch kommen.
+78,613575221229056000,Wed Jun 24 05:11:47 +0000 2015,0,0,@pocketcasts best podcast player ever! Beautiful #materialdesign android app for on the go and a webplayer for the office! #greatwork
+79,613050488209190912,Mon Jun 22 18:26:40 +0000 2015,0,0,@dominik_erni @xrb just for the record: i would rather have Linux on my machine but EVERYTHING is better than windows ☺
+80,612941867672576000,Mon Jun 22 11:15:03 +0000 2015,0,0,@xrb I would definitively order a corporate mac right now but I have a quite new dell and I need to wait until its retired :-(
+81,612925808508862464,Mon Jun 22 10:11:15 +0000 2015,0,0,Its a tragedy (continued): to reconnect my previoulsy connected logitech keyboard i need to restart windows #devolvingWindows #Windows8
+82,612924903814205440,Mon Jun 22 10:07:39 +0000 2015,0,1,Its a tragedy: to use headphones on my Win8 I need to change manually the playback device in the settings #devolvingWindows #Windows8
+83,611963056038510592,Fri Jun 19 18:25:36 +0000 2015,0,1,"""Do you want to hear the old shit?"" Yes please! /cc @eluveitie  @paparoach  @Rock_the_Ring"
+84,611947839707578368,Fri Jun 19 17:25:09 +0000 2015,1,1,"Nice! #swissairforce PC-7 Team am #rockthering, aber auf die Werbesprüche könnte ich verzichten☺ http://t.co/0OLHk9YEuK"
+85,607999904108150784,Mon Jun 08 19:57:27 +0000 2015,0,0,Apparently there are no limits in #GoT
+86,607587956644302848,Sun Jun 07 16:40:31 +0000 2015,0,0,Berlin Tegel: worst airport ever!
+87,606840383558062080,Fri Jun 05 15:09:56 +0000 2015,3,2,I don't care how they do stuff I have a day job! Cool talk by @hamen about #rxjava #droidconDE
+88,606487413821702146,Thu Jun 04 15:47:22 +0000 2015,1,1,#Kotlin for #android is awesome #droidconDE http://t.co/cJiV4yb2EV
+89,606149660651233280,Wed Jun 03 17:25:15 +0000 2015,16,0,"RT @JakeWharton: JetBrains MPS editor overview: https://t.co/LwICC1JMxb. Starts off a bit dull, but keep watching. Starts getting crazy at …"
+90,606120389035573248,Wed Jun 03 15:28:56 +0000 2015,0,0,"@jernejv nice talk about crossplatform, need to look at djinni, thanks!"
+91,606085964319084544,Wed Jun 03 13:12:09 +0000 2015,0,0,https://t.co/iibtrWt0Ny
+92,606085521362841600,Wed Jun 03 13:10:23 +0000 2015,4,0,"RT @adi_herzog: #scenarioo Coding Days 2015: Working on new website, demos, tutorial and build server infrastructure @zuehlke_group http://…"
+93,606085371483582464,Wed Jun 03 13:09:47 +0000 2015,1,1,very good talk about custom lint rules by @q2ad and thanks for opensourceing it! #droidconDE
+94,606022101053636609,Wed Jun 03 08:58:22 +0000 2015,0,0,nice industrual venue for a techconference #droidconDE https://t.co/YFT29NBhlj
+95,606009249110622208,Wed Jun 03 08:07:18 +0000 2015,1,1,#droidconDE starts with the barcamp today http://t.co/wiOD9hpYzQ
+96,606002780583686144,Wed Jun 03 07:41:36 +0000 2015,9,0,RT @MaterialUp: Replace - Interaction by @zeeya1989  http://t.co/JP1HX00pCF http://t.co/JSKqe99S6g
+97,605832968897052675,Tue Jun 02 20:26:50 +0000 2015,0,0,da kommen Nostalgiegefühle auf.. #Berlin #ascomAutelca #lehrstelle http://t.co/wWPURsPLDF
+98,605758384051208192,Tue Jun 02 15:30:27 +0000 2015,1,0,RT @GetBring: Von der grossen #GoogleIO Bühne auf die grosse @20min  Bühne... Merci danke! #Press #AndroidWear http://t.co/2uc7OVbNJq
+99,605757941715767297,Tue Jun 02 15:28:42 +0000 2015,0,0,S12 fährt von Schlieren direkt an den HB wegen eines defekten zuges in Altstetten...hmm.. #pendeln #nerven @zvv
+100,605749798587797504,Tue Jun 02 14:56:20 +0000 2015,22,0,RT @cyrilmottier: Wondering what are the actual buckets/qualifiers of an Android device ? Go to https://t.co/QevY3oOZMG #Design http://t.co…
+101,605622249354342400,Tue Jun 02 06:29:30 +0000 2015,2,0,"RT @marcbaechinger: Er war schon Netzwerker, bevor es den Begriff gab http://t.co/CaTdZXYrVo #proudOfMyDad"
+102,605248999734562816,Mon Jun 01 05:46:21 +0000 2015,1,0,RT @xrb: SolarImpulse2 HB-SIB Cockpit Live. Leg 7 Nanjing to Hawaii. https://t.co/JfpuwgVXGA
+103,604611055361400832,Sat May 30 11:31:23 +0000 2015,1,0,RT @GetBring: @fork_ch https://t.co/FG0S1DyMP3 at 8m44s. Android Wear Always-On Session.
+104,604610987975680000,Sat May 30 11:31:07 +0000 2015,0,0,@GetBring very nice! did you told them to show swiss chocolate?☺
+105,604597815847882752,Sat May 30 10:38:46 +0000 2015,0,1,@GetBring which session was it exaclty? the link is apparently only for the live stream..
+106,604022874257637376,Thu May 28 20:34:10 +0000 2015,27,0,RT @donnfelker: Brace yourselves … Data Binding is coming. https://t.co/a13a0sPadL h/t - @tsuharesu  #androiddev
+107,604004680478367744,Thu May 28 19:21:52 +0000 2015,0,1,google is not messing around Android M preview and Tools previews already available in SDK manager #io15 #AndroidDev http://t.co/IOVlbtiZnN
+108,603991451081519104,Thu May 28 18:29:18 +0000 2015,237,0,"RT @AndroidDev: Announcing preview of Android Studio 1.3: improved Gradle build speed, new memory profiler and full editing and debugging s…"
+109,603991305971240962,Thu May 28 18:28:43 +0000 2015,191,0,"RT @chrisbanes: Pssst, we've released a new Android Design support library. http://t.co/RoAwDqfVCc"
+110,603972970822893569,Thu May 28 17:15:52 +0000 2015,0,0,"""android is about choice!"" #io15"
+111,603954893410406401,Thu May 28 16:04:02 +0000 2015,0,0,android 5.1.1 system update 20mins prior to google #io15 start...should I really do this now??! http://t.co/fTTWgUBCXN
+112,603434578141978624,Wed May 27 05:36:29 +0000 2015,75,0,"RT @jessewilson: OkHttp’s New URL Class 🍦 
+https://t.co/FeVMdjiPqj"
+113,603433939638886400,Wed May 27 05:33:57 +0000 2015,3,1,who is going to #GoogleIOExtended Zürich? #io15
+114,603113045825560576,Tue May 26 08:18:50 +0000 2015,1,1,leaking android activities http://t.co/a0WZHydXf4 and how to find them https://t.co/jqDxDkN8gr #androidDev
+115,602556485281918976,Sun May 24 19:27:15 +0000 2015,0,0,"Crack Pitts: fun 3d slow flyer, but boy that thing is twichy with it big throws ☺ #RCFlying http://t.co/pn5JwWZVQG"
+116,602556405363712000,Sun May 24 19:26:56 +0000 2015,0,0,"Crack Pitts: fun 3d slow flyer, but boy that thing is twichy with it big throws ☺ #RCFlying"
+117,598906550892236800,Thu May 14 17:43:43 +0000 2015,0,0,"@xrb sure, the structural components are from @FliteTest the electronics from readytofly quads, but the booms are just wood"
+118,598905157359935488,Thu May 14 17:38:11 +0000 2015,0,0,@xrb yes ☺
+119,598898058173280257,Thu May 14 17:09:58 +0000 2015,0,0,that is why I as an amateur would never by an expensive off the shelf multirotor (that boom costs &lt;1$) #electrohub http://t.co/4NdbOOvtLF
+120,598890359670833153,Thu May 14 16:39:23 +0000 2015,0,0,"first crash of my @FliteTest  #electrohub with terminal damage to one boom, but no electronics broken #firstcrash http://t.co/uIcpnBb6BX"
+121,598122947656683522,Tue May 12 13:49:57 +0000 2015,1,1,"found the first memory leak using 
+#LeakCanary by @SquareEng #androidDev 
+https://t.co/isxBWWRXUM"
+122,598065373553008641,Tue May 12 10:01:11 +0000 2015,279,0,RT @SciencePorn: Electric plane prototype takes off like a helicopter &amp; flies like an aircraft http://t.co/BoRBLsuv0s http://t.co/niCtixxk6g
+123,597726788450689025,Mon May 11 11:35:46 +0000 2015,1,0,inject Android dependencies (e.g. BluetoothAdapter) into your class to facilitate unittesting (using Mockito) #unitTest101 #androidDev
+124,596294519634657281,Thu May 07 12:44:26 +0000 2015,0,0,"AssertJ: Why do I hear from that only now? Simplifies life a lot!
+http://t.co/drO3VS86HI
+see also: http://t.co/1ubY4aqIT2  #androidDev"
+125,596267722373201920,Thu May 07 10:57:57 +0000 2015,0,0,"need an general purpose file based LRU cache?  https://t.co/K8ZlTzCInv by @JakeWharton
+#androiddev #dontWriteOwnCaches"
+126,595856917383258112,Wed May 06 07:45:34 +0000 2015,2,0,"RT @GetBring: Yeah we're on @MaterialUp, the best of Material Design inspiration. Thank you guys! Please upvote. 
+http://t.co/V0eVj1KWvZ"
+127,595671627918094337,Tue May 05 19:29:17 +0000 2015,0,0,"@kglsvn @claudegex Tony: ""jump on the roof and recalibrate the ISDNs""...hmmmm..."
+128,595671239206825984,Tue May 05 19:27:45 +0000 2015,0,0,@kglsvn @claudegex rein zufällig gerade am #ironman3 gucken http://t.co/bEwnGCKcms
+129,595604088500420608,Tue May 05 15:00:55 +0000 2015,0,4,very good #materialdesign icon collection http://t.co/j9VcRO2JJB
+130,592971050725593088,Tue Apr 28 08:38:10 +0000 2015,0,0,what is the best practice for a REST API concerning the ID for a resource? Generate a UUID on device (possibly offline) or on the backend?
+131,592079832722309121,Sat Apr 25 21:36:47 +0000 2015,4046,0,"RT @SciencePorn: If you have a pizza with radius ""z"" and thickness ""a"", its volume is Pi(z*z)a. http://t.co/77B3UqL29Z"
+132,590767437014048769,Wed Apr 22 06:41:47 +0000 2015,0,0,the concept of time and specifically timezones are human madness - https://t.co/cn8O2OFYpO
+133,588654156564410368,Thu Apr 16 10:44:22 +0000 2015,0,1,"I’m going to ""droidcon Berlin 2015""! Who’s joining? http://t.co/6d9BFRZ0dT via @xingevents_gmbh"
+134,588609512099028992,Thu Apr 16 07:46:58 +0000 2015,1,1,It would be nice if Android Studio would provide a live view of the connected device e.g. to show on a projector #androiddev #androidstudio
+135,587583055067480064,Mon Apr 13 11:48:11 +0000 2015,0,0,"Stop extending ActivityInstrumentationTestCase2 when using JUnit4 use the following junit rule
+https://t.co/z5kzPYihf1
+thx @JakeWharton"
+136,586521308969730048,Fri Apr 10 13:29:11 +0000 2015,0,0,why does a simple #Android ProgressBar result in constant surface updates? this makes UI testing with #espresso impossible @AndroidDev
+137,585856063293018113,Wed Apr 08 17:25:44 +0000 2015,0,0,@lynfogeek got a almost new N5..that should be OK until a N6 successor comes out ☺
+138,584384299937464320,Sat Apr 04 15:57:29 +0000 2015,0,0,@lynfogeek hmm kind of a decent camera would be nice though..
+139,583642648004665346,Thu Apr 02 14:50:25 +0000 2015,0,0,@peitor @zuehlke_group @MichaelSchnyder have you tried turning it off and on again?
+140,583642497307508736,Thu Apr 02 14:49:49 +0000 2015,2,0,RT @peitor: I found the Internet @zuehlke_group. I knew it was close by since speed is awesome at office cc @MichaelSchnyder http://t.co/ZF…
+141,583641870967910400,Thu Apr 02 14:47:20 +0000 2015,1,0,which android device with stock android (or close to) would you suggest?  nexus 6 is too big for me.. #searching #AndroidDev
+142,582814972058734592,Tue Mar 31 08:01:32 +0000 2015,0,1,@kglsvn @veit_weber habt ihr schon 2013? wenn nein geniess es noch😉
+143,582807780656037888,Tue Mar 31 07:32:57 +0000 2015,0,0,@kglsvn aber auch Autschlook nähert sich langsam an der Usability von Lotus Notes an insb. in der 2013 Version :-(
+144,581898583613530112,Sat Mar 28 19:20:08 +0000 2015,4499,0,"RT @SciencePorn: If you look at the mouth on the left you'll hear bar, if you look at the one on the right, you'll hear far. https://t.co/0…"
+145,580409123310796800,Tue Mar 24 16:41:33 +0000 2015,9170,0,RT @Manz: # /etc/init.d/daemon stop http://t.co/LMJK6UX4B9
+146,578869781014663170,Fri Mar 20 10:44:45 +0000 2015,0,3,Now I have a 69% sunburn...😉 #solareclipse2015 http://t.co/H991SxyDR6
+147,578866107114745856,Fri Mar 20 10:30:09 +0000 2015,1897,0,RT @esa: #Solareclipse seen from space by ESA's Proba-2 http://t.co/Re6vpcVYRD http://t.co/KWuSz4b6rs
+148,578842158612004864,Fri Mar 20 08:54:59 +0000 2015,0,1,partial solar eclipse in Zürich #solareclipse2015 http://t.co/9D7PYC0yxI
+149,578841614296203265,Fri Mar 20 08:52:49 +0000 2015,641,0,RT @sciencemuseum: But today people across the world - and even those in orbit above it - enjoy the spectacle #eclipse http://t.co/bzijd8jd…
+150,576454626343591937,Fri Mar 13 18:47:47 +0000 2015,8,0,"RT @GetBring: Nominated for MobileTechAward 2015. Happy if you vote for Bring!
+https://t.co/G5JgMyJQ66 #Thanks #PleaseRT #HelpUsWin http://…"
+151,570284034892439552,Tue Feb 24 18:08:03 +0000 2015,0,0,@sathoeni ☺ wir haben jetzt einen durchsatz von ca. 10 decoder pro stunde  😀 aber in die weichen einbauen braucht dann auch nochmals Zeit..
+152,570282019156058112,Tue Feb 24 18:00:03 +0000 2015,0,0,@sathoeni warst du mal elektroniker?
+153,570278446359822338,Tue Feb 24 17:45:51 +0000 2015,0,0,@sathoeni und das kleinste bauteil ist 1mm klein..das blästs wohl weg mit dem heisluftfön..
+154,570277490419240962,Tue Feb 24 17:42:03 +0000 2015,0,0,@sathoeni hmm lötpaste kostet extrem viel vorallem wenn man 250x 76 lötstelle löten muss
+155,569615112472006656,Sun Feb 22 21:50:00 +0000 2015,0,0,@glockbuster23 they are 2212 900 KV motors from ready to fly quads (the electrohub kit)
+156,569475760651669504,Sun Feb 22 12:36:16 +0000 2015,0,0,"@glockbuster23 thx, actually the matching orange was by pure luck..i did not remember ordering orange props ☺"
+157,569445930283487232,Sun Feb 22 10:37:44 +0000 2015,0,0,ich bin auch eine Bestückungsmaschiene ☺ Modellbahn Weichen-Decoder #smd #tiny #90LeftToGo #DIY http://t.co/LtkjqH40xz
+158,568829286393782273,Fri Feb 20 17:47:24 +0000 2015,4,0,RT @youengineering: Want to learn something about #git? Just read our first blog post #startergit at http://t.co/kGHRlBck81
+159,568436391203504128,Thu Feb 19 15:46:11 +0000 2015,0,0,really really great to see #unittest support for Android #androidDev (build types supported as well)
+160,568409982338797568,Thu Feb 19 14:01:14 +0000 2015,17,0,RT @MarkIAllison: Android Studio and grade plugin version 1.1.0 are both available in the stable channel #AndroidDev
+161,566540328560496641,Sat Feb 14 10:11:54 +0000 2015,20,0,RT @androidweekly: Do you like what we do? Give us a retweet :) http://t.co/SdMklEFJei - free and weekly Android Development Newsletter #An…
+162,566300766877794304,Fri Feb 13 18:19:58 +0000 2015,1,0,Hello #debugDrawer! Many thanks to @JakeWharton in showing how to do this! #opensource #androidDev https://t.co/vYcGDZ50Dn
+163,566113578366038016,Fri Feb 13 05:56:09 +0000 2015,27,0,"RT @JakeWharton: Just released Hugo 1.2.0 which addresses some of the long-standing issues as well as bring some sweet new features.
+
+https…"
+164,565457460325265408,Wed Feb 11 10:28:58 +0000 2015,0,0,Browser: Chrome Version 40.0.2214.93 http://t.co/uNfA1PWXnw
+165,565457177130070016,Wed Feb 11 10:27:51 +0000 2015,0,0,@zvv ja genau. mir ist da gerade noch etwas aufgefallen:wenn man mit den Pfeiltasten ein Zielvorschlag auswählt scrollt die seite
+166,565454820665221123,Wed Feb 11 10:18:29 +0000 2015,0,0,"@zvv  z.B. ""schlieren"" &lt;tab&gt; ""altstetten"" eingeben und Verbindung suchen. Schlieren wurde nicht übernommen"
+167,565454427851849730,Wed Feb 11 10:16:55 +0000 2015,0,0,"@zvv ich muss den Ort aus dem Vervollständigungs ""Dropdown"" auswählen damit auch damit gesucht wird"
+168,565188359497465856,Tue Feb 10 16:39:40 +0000 2015,0,0,"liebe @zvv schöne neue site, doch bitte verwendet auch die ohne Vervollständigung eingegebenen Orte für die Abfrage #ux #web #mobile"
+169,565179403542728705,Tue Feb 10 16:04:04 +0000 2015,2,0,RT @GetBring: «Swiss Made Apps» with Bring! Thanks @AppStore #Feature #AppStore #Bring http://t.co/0Au79tcwJS
+170,564664500738342913,Mon Feb 09 05:58:02 +0000 2015,6,0,RT @_dlazaro: Materialize you app @lime_cl  http://t.co/dI8OiTA3dK #AndroidDev
+171,563745791442157569,Fri Feb 06 17:07:25 +0000 2015,0,0,@PatrickMWalther waiting for the weather 😞
+172,563439385618952192,Thu Feb 05 20:49:52 +0000 2015,1,5,finished my @flitetest #electrohub #deadcat. now waiting for calm weather for its maidenflight http://t.co/sufMoRQUvc http://t.co/TEJ0Ll5oTo
+173,562605907214102528,Tue Feb 03 13:37:55 +0000 2015,0,0,"very nice little gradle plugin by @JakeWharton
+https://t.co/N4kvDeSyYx"
+174,561057316687343616,Fri Jan 30 07:04:22 +0000 2015,17,0,"RT @JakeWharton: Retrofit made it on to @thoughtworks Technology Radar!
+
+http://t.co/ghybdAkJhT"
+175,559662076801859584,Mon Jan 26 10:40:11 +0000 2015,8,0,"RT @GetBring: Ready for a short Bring! usability test? Invest 30 sec and help us to improve the app :D
+https://t.co/zGGEji4jwD 
+Feel free t…"
+176,559361318709637120,Sun Jan 25 14:45:05 +0000 2015,0,1,#viadi: great timetable app for Android https://t.co/icU5P3y4CM
+177,558333866168299520,Thu Jan 22 18:42:21 +0000 2015,0,0,"The #du-bro prop balancer is the first thing to arrive, can't wait for the @FliteTest #electrohub...#cannotWait http://t.co/bagwX5zbXy"
+178,558291637949181952,Thu Jan 22 15:54:33 +0000 2015,0,0,"#WhatsappForWeb only works for android, in chrome AND the phone forwards the messages to the browser..#stupidDesign"
+179,558159788602044419,Thu Jan 22 07:10:38 +0000 2015,0,0,"@ettisberger it's about time :-) 
+#WhatsappForWeb"
+180,557793365178466304,Wed Jan 21 06:54:36 +0000 2015,0,0,"@kglsvn cool...even Obama knew that bubblesort is not the way to go to sort numbers but it would still beat this;-)
+https://t.co/3RDlBKDnhg"
+181,557561054587543552,Tue Jan 20 15:31:29 +0000 2015,76,0,"RT @cyrilmottier: Stop considering apps as ""icons on a launcher"". It's never been that. An app is multi-UI &amp; multi-entry point. http://t.co…"
+182,554532235693789184,Mon Jan 12 06:56:02 +0000 2015,0,0,@NeilScavelli @FliteTest nice! what motors do you use?
+183,554351963086016512,Sun Jan 11 18:59:42 +0000 2015,3,5,just ordered an ElectroHub Quadcopter kit and a FT Spitfire speed build by @FliteTest really looking forward to it http://t.co/5yVrrs5E5N
+184,549501426410749952,Mon Dec 29 09:45:23 +0000 2014,0,1,Sogar auf der Sonne hats Schnee.. #kalt #endlichSchnee http://t.co/rwQ9yy5TNX
+185,548203622098800642,Thu Dec 25 19:48:23 +0000 2014,0,0,@kglsvn did someone stumble over the telescope?
+186,545209946984681472,Wed Dec 17 13:32:35 +0000 2014,0,2,thank you @Devoxx for providing all talks on @Parleys!! awesome service!
+187,544992792897155072,Tue Dec 16 23:09:41 +0000 2014,0,0,watching @BattlestarShow the 4th time...what a great show!! too sad no spinoff really took off..maybe too a complex tv show?
+188,544813900836114432,Tue Dec 16 11:18:50 +0000 2014,11,0,RT @GetBring: What's better than a Bring! shopping list? Two Bring! shopping lists! #BringUpdate #MultiList #Free #GetNow http://t.co/KppO5…
+189,543535834868482048,Fri Dec 12 22:40:16 +0000 2014,0,2,töggelen at @zuehlke_group year end party!! http://t.co/peMcVKrEns
+190,543080277791494144,Thu Dec 11 16:30:02 +0000 2014,1,3,@GetBring looking great on my shiny new @LGElectronics  #GWatchR #AndroidWear http://t.co/QfFXEnLhMk
+191,540950944960487426,Fri Dec 05 19:28:50 +0000 2014,0,0,@kglsvn @PatrickMWalther @xrb ja genau
+192,540945401705426944,Fri Dec 05 19:06:48 +0000 2014,4,0,RT @PatrickMWalther: #Dichtestress am USE Weihnachtsessen @zuehlke_group http://t.co/LeXGD2FJOx
+193,538322247573049345,Fri Nov 28 13:23:20 +0000 2014,1,1,vision part of our augmented reality scrabble solver #minicamp #vienna /cc @zuehlke_group @thomasmemmel http://t.co/Mz2gy7bRu4
+194,537917518510571521,Thu Nov 27 10:35:05 +0000 2014,2,1,"#scrabble with #augmentedReality..vision pretty good,3D coming soon #minicamp in viennna cc: @zuehlke_group http://t.co/PP7ira8B6P"
+195,535781854054744064,Fri Nov 21 13:08:43 +0000 2014,14,0,"RT @tball724: One of Inbox's secrets to success is out, and J2ObjC is part of it: http://t.co/xLN0UK3Tu8"
+196,534652568103055360,Tue Nov 18 10:21:20 +0000 2014,0,0,really like #GoogleCardboard :-)
+197,534607281745588224,Tue Nov 18 07:21:23 +0000 2014,0,1,hello #androidlollipop ...finally😊
+198,534264445640658944,Mon Nov 17 08:39:04 +0000 2014,3,0,RT @adi_herzog: The #scenarioo wiki just got a cleanup. It should be easy now to find what you need. https://t.co/qkml8rOVVS @zuehlke_group…
+199,533678741315416065,Sat Nov 15 17:51:41 +0000 2014,3,0,RT @_lennart: http://t.co/AgTkb1UNGC

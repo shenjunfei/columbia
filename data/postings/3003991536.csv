@@ -1,0 +1,17 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,563374199193206784,Thu Feb 05 16:30:50 +0000 2015,1,0,TIP: you can cast one data type to another e.g a sting to an integer int(variable name) or integer to string str(variable name) #python
+1,563369705311055873,Thu Feb 05 16:12:59 +0000 2015,0,1,"TIP: Syntax errors mean you have a problem with the way your code is written. Look for missing ( ) , : and "" "" in your code! #Python"
+2,562998310206967808,Wed Feb 04 15:37:11 +0000 2015,0,1,Had a long day coding? Make navigating your piles of code easier by adding comments with the # key #this is a comment #Python
+3,562890123868925952,Wed Feb 04 08:27:18 +0000 2015,0,0,"If ""late to work"":
+       print(""RUN!"")
+else:
+        print(""Have a brew"")
+#Python"
+4,562882780536012802,Wed Feb 04 07:58:07 +0000 2015,2,1,"print(""Good Morning!"") #python"
+5,562731259160719360,Tue Feb 03 21:56:01 +0000 2015,1,0,TIP: Have two windows snapped open side by side ! Its much faster! #Python http://t.co/GYTUEUzC7C
+6,562730469922721793,Tue Feb 03 21:52:53 +0000 2015,0,0,Need any help with coding? Message us! #Python
+7,562727842824593409,Tue Feb 03 21:42:27 +0000 2015,1,1,Variable can be defined/named anything you wish and can store data types as shown below...  #Python http://t.co/WUHBGNXuUZ
+8,562726653575852032,Tue Feb 03 21:37:43 +0000 2015,1,1,Little mini project I'm doing...  #Python http://t.co/n2voh0sxrh
+9,562674535796056065,Tue Feb 03 18:10:37 +0000 2015,0,0,TIP: You can press 'f5' after saving a python code to run it! #Python
+10,562672376304111616,Tue Feb 03 18:02:03 +0000 2015,1,1,TIP : All functions will be purple in Python when typed correctly! #Python
+11,562666223251755010,Tue Feb 03 17:37:36 +0000 2015,2,2,"The print( ) function allows you to display a message on screen! Don't forget the "" "" inside the brackets! #Python http://t.co/7VWa3jsnem"

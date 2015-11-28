@@ -1,0 +1,240 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,664883744889786369,Thu Nov 12 19:13:32 +0000 2015,0,6,One of the biggest #UX problems I face right now is multi account management.
+1,664497149657264128,Wed Nov 11 17:37:20 +0000 2015,1,13,My reasons for writing in @golang are largely personal. It makes me happy.
+2,664258428769083392,Wed Nov 11 01:48:45 +0000 2015,0,0,@ExpressoFitness There is a boundary bug at 2.25 miles on Mountain Goat 5.3 track
+3,664149300172169217,Tue Nov 10 18:35:07 +0000 2015,0,3,I markets are conversations then leading brands need to be interesting conversationalists #marketing
+4,663022492907413505,Sat Nov 07 15:57:35 +0000 2015,0,5,"I want a ""covering mouth, about to explode with laughter"" emoji for when I make clever puns over text #ux"
+5,662985182006214657,Sat Nov 07 13:29:19 +0000 2015,0,1,@golang: Any suggestions for tackling this memory leak? #golang https://t.co/JjxYz0hXg0
+6,660996584965017600,Mon Nov 02 01:47:21 +0000 2015,9,0,RT @esportsclips: Penta from @C9Solo playing darius. Making big plays for @Cloud9gg #league #cloud9 https://t.co/ki4Ul53Z9j
+7,659706087810011136,Thu Oct 29 12:19:22 +0000 2015,0,4,"Dear @Optimizely, I love your product. Please make it faster."
+8,659319114268151808,Wed Oct 28 10:41:41 +0000 2015,0,0,@AntoineGrondin testing nondeterministic code are we?
+9,658322117436579840,Sun Oct 25 16:39:58 +0000 2015,0,0,@ExpressoFitness your twitter oauth is broken. I want to sign up for an account
+10,654338339705909249,Wed Oct 14 16:49:51 +0000 2015,0,1,"@TrevorSStone I'm looking to parse the chunk data for machine learning fun, if you have any interest ping me :)"
+11,654337999954673664,Wed Oct 14 16:48:30 +0000 2015,0,0,@TrevorSStone sad face. I wrote a spectating server that mimics riots implementation https://t.co/QYXhlqqIw9
+12,654336634897494016,Wed Oct 14 16:43:05 +0000 2015,4,0,RT @esportsclips: Sivir pentas! #leagueoflegends #league #esports http://t.co/rgROE5SX17
+13,654131883807260672,Wed Oct 14 03:09:28 +0000 2015,0,0,@TrevorSStone I found your golol repo on github. does this work for spectating games?
+14,653203645589254144,Sun Oct 11 13:40:59 +0000 2015,3,0,RT @esportsclips: Lucian pentas! #leagueoflegends #league #esports http://t.co/3slVnYkGZA
+15,651900698121105410,Wed Oct 07 23:23:32 +0000 2015,0,0,YC Research http://t.co/Evle8bKR3u
+16,651106804429135872,Mon Oct 05 18:48:53 +0000 2015,1,0,RT @gamer_bet: Daily Penta Kickoff - Katarina Pentakills http://t.co/bt8mZp9yZr
+17,651028875892400128,Mon Oct 05 13:39:14 +0000 2015,0,1,Workout #ux. A race game embedded in cardio machines. Well done @snapfitness @ExpressoFitness http://t.co/8aHQTtBKlw
+18,647155251670183936,Thu Sep 24 21:06:50 +0000 2015,129,0,"RT @fioroco: i wrote about the ways my team at etsy uses math to help you search when you have no idea what you're searching for
+https://t.…"
+19,645917852055244800,Mon Sep 21 11:09:51 +0000 2015,0,1,DAT 400 millisecond #ux delay
+20,643785067131703296,Tue Sep 15 13:54:55 +0000 2015,57,0,RT @percolate: 11 charts that outline important trends for senior marketers to look out for this year. http://t.co/RfoFfG3ZMR http://t.co/Q…
+21,641921320121450496,Thu Sep 10 10:29:03 +0000 2015,61,0,RT @pythondj: New #SoftwareCircus Game: drink up every time someone says #microservices @softwarecircus http://t.co/NBkRewMp7y
+22,641920857913327616,Thu Sep 10 10:27:13 +0000 2015,0,0,new obsession: @sia music videos
+23,640020484134989824,Sat Sep 05 04:35:49 +0000 2015,1,7,To all fellow #startup grinders and #entrepreneur s #IRespectYou http://t.co/y6WZfPuLBa
+24,638774467817308162,Tue Sep 01 18:04:35 +0000 2015,0,0,There's something wrong with this #startup diagram http://t.co/UtNnmkW0Cg
+25,636008922256670720,Tue Aug 25 02:55:18 +0000 2015,2158,0,RT @ThinkwithGoogle: Consumer decisions are shaped in #MicroMoments. Here are 4 that every marketer should know: https://t.co/6MkeJIHWim ht…
+26,634695915027210240,Fri Aug 21 11:57:52 +0000 2015,0,0,"DEEZ NUTZ for president. 9% of North Carolina has a great sense of humour
+
+http://t.co/I9rQKdxw80"
+27,634116242761252865,Wed Aug 19 21:34:28 +0000 2015,753,0,"RT @golang: Go 1.5 is released
+
+http://t.co/2D5h6TjDRZ
+
+Download: https://t.co/StazJXa19M
+
+#golang"
+28,634065411382902784,Wed Aug 19 18:12:29 +0000 2015,44,0,"RT @GopherAcademy: It is Time.
+#golang
+https://t.co/ogGFf0nRnh"
+29,631888066005745664,Thu Aug 13 18:00:29 +0000 2015,0,1,"@marchroberge if you're looking to experiment with a new language at school, take a look at #golang https://t.co/5Hc0dPfrX4"
+30,631268142526828544,Wed Aug 12 00:57:08 +0000 2015,14,0,RT @davecheney: Principles of designing Go APIs with channels /ht @inconshreveable https://t.co/q3H3vESwQQ
+31,631267266265374720,Wed Aug 12 00:53:39 +0000 2015,1,1,exec slack integration bash script in my systemd file like I just don't care
+32,631118545435369472,Tue Aug 11 15:02:41 +0000 2015,0,0,Use icons instead of words where possible. A picture speaks a thousand words. You can find one that'll do the job better. #ux
+33,630949446474334208,Tue Aug 11 03:50:45 +0000 2015,779,0,"RT @sama: You can skip all the parties, all the conferences, all the press, all the tweets.  Build a great product and get users and win."
+34,630864692135636992,Mon Aug 10 22:13:58 +0000 2015,2,0,"RT @AntoineGrondin: When your physical location is not a factor in your ability to earn a wage, it enables a different approach to work. ht…"
+35,630738543183327232,Mon Aug 10 13:52:41 +0000 2015,0,1,"when using #golang time.Time and SQL. Use SQL column type ""timestamp with time zone"""
+36,630045768699768832,Sat Aug 08 15:59:51 +0000 2015,90,0,RT @davecheney: Performance without the event loop http://t.co/xff6UMcvcO #golang http://t.co/CTaAuuaTMj
+37,630045612524859396,Sat Aug 08 15:59:14 +0000 2015,0,0,DNS parser meet go fuzzer! https://t.co/i5fyZjw7ld
+38,629733754026749952,Fri Aug 07 19:20:01 +0000 2015,0,0,@benjamin_doyle prepping the arsenal for extracting government data. I hope we don't ever have to use this http://t.co/JlLdLdTmF6
+39,629342251186044928,Thu Aug 06 17:24:19 +0000 2015,62,0,"RT @CSI_MaTTica: Amigos, ¿Que les parece este dispositivo de última generación para proteger su privacidad de la mejor manera? :P http://t.…"
+40,628652768501362688,Tue Aug 04 19:44:34 +0000 2015,19,0,"RT @kelseyhightower: CoreOS is sponsoring the preview edition of Kubernetes Up &amp; Running, which includes 2 ""complete"" chapters for free. ht…"
+41,628292005651705858,Mon Aug 03 19:51:01 +0000 2015,0,0,"to my non non-dev girlfriend ""Babe I finally did the thing!"""
+42,628163584867061760,Mon Aug 03 11:20:44 +0000 2015,0,0,"#js peeps, write composable code not componentizable code"
+43,627104987915554817,Fri Jul 31 13:14:14 +0000 2015,10,0,RT @_rsc: @kelseyhightower about funding. No business plan? As long as you're using Go you'll probably get funded. #gophercon http://t.co/7…
+44,627104350435807232,Fri Jul 31 13:11:42 +0000 2015,17,0,RT @jmoiron: I really don't like of the use of #golang struct tags as a backdoor for introducing un-checked declarative mini-languages.
+45,626756531837640704,Thu Jul 30 14:09:36 +0000 2015,1074,0,"RT @DopeAhhAquarius: Officer: I'm gonna have to take you down to the station
+Owl: Am I under arrest? Hoo the fuck gave you the right? http:…"
+46,626588383763107840,Thu Jul 30 03:01:26 +0000 2015,0,0,@AntoineGrondin let's first get the whole world on the metric system
+47,626588196319719424,Thu Jul 30 03:00:42 +0000 2015,0,0,@AntoineGrondin I'd have to multiply km/s by 60 to get anything remotely useful
+48,626587368691269632,Thu Jul 30 02:57:24 +0000 2015,69,0,"RT @stripe: Peruse their whiteboards so that you may know their API architecture.
+
+https://t.co/205arVHfiK"
+49,626562460896641028,Thu Jul 30 01:18:26 +0000 2015,0,0,@AntoineGrondin it's not practical
+50,626544665727270912,Thu Jul 30 00:07:43 +0000 2015,0,0,@AntoineGrondin m/s is not as useful in transportation speed. I don't measure the distance of cities in meters
+51,626455108851748864,Wed Jul 29 18:11:51 +0000 2015,1,0,"Good open ended question for your cofounder ""What is your general mindset on X right now?"""
+52,626156944550531072,Tue Jul 28 22:27:03 +0000 2015,3,0,RT @LauRARbee: You never know when design inspiration is going to strike. The excitement of that magic never gets old.
+53,626156194495795200,Tue Jul 28 22:24:04 +0000 2015,0,0,Brings a tear of joy to my eye https://t.co/u78W5JdfTa
+54,626155656236523520,Tue Jul 28 22:21:56 +0000 2015,493,0,"RT @sama: ""we'll just do both"" #FamousStartupLastWords"
+55,626155486862127104,Tue Jul 28 22:21:16 +0000 2015,0,0,@AntoineGrondin @googledrive same with @Medium
+56,626155178840854528,Tue Jul 28 22:20:02 +0000 2015,0,0,"@jasonmulligan make a slack integration for it, throw it on product hunt"
+57,626079715305091072,Tue Jul 28 17:20:10 +0000 2015,0,0,@emotiv I am a @kickstarter backer! I charged my emotiv for the first time. Went to turn it on after and it doesn't turn on. What can I do?
+58,626078810262384640,Tue Jul 28 17:16:35 +0000 2015,0,0,@AnnieClaudeCote as opposed to concentrating on every device size. I immediately thought of your idea
+59,626078693757190144,Tue Jul 28 17:16:07 +0000 2015,0,0,@AnnieClaudeCote @lukew made an interesting point in a talk about updating the UI just before a break
+60,626078534482706432,Tue Jul 28 17:15:29 +0000 2015,0,0,@AnnieClaudeCote I'm very curious.
+61,626033428228653056,Tue Jul 28 14:16:15 +0000 2015,0,0,@AnnieClaudeCote wicked! Any code snippets?
+62,626015609449488384,Tue Jul 28 13:05:26 +0000 2015,0,0,"@AnnieClaudeCote Hey, did you ever figure out a solution to element queries?"
+63,626014085486931969,Tue Jul 28 12:59:23 +0000 2015,2692,0,RT @daisyfroud: This is utterly amazing isn't it? The way Bernini makes marble look like flesh. 23 he was when he did this. 23! http://t.co…
+64,625860824771481600,Tue Jul 28 02:50:23 +0000 2015,1,1,http://t.co/45MjtBwu1h
+65,625699555850502144,Mon Jul 27 16:09:33 +0000 2015,1,1,golang fuzz-a-thon #golang #golangfuzz https://t.co/PrjZyyHbz9 http://t.co/4pYQaOFEEu
+66,625656002143195136,Mon Jul 27 13:16:29 +0000 2015,0,0,"My grandfather just passed away, here's what I learned on being memorable https://t.co/dgN83BcuKJ"
+67,625652001968361472,Mon Jul 27 13:00:35 +0000 2015,0,0,First blog post on my medium account: https://t.co/dgN83BcuKJ
+68,625424950254534656,Sun Jul 26 21:58:22 +0000 2015,0,0,The moment I've all been waiting for http://t.co/sAyu3rrVO8
+69,624949363643707392,Sat Jul 25 14:28:33 +0000 2015,0,1,@AntoineGrondin allo antonie http://t.co/Q8ZiK4qP6P
+70,623158922401087488,Mon Jul 20 15:53:59 +0000 2015,0,2,"Search first, Browse second #UX design pattern"
+71,621880898766684160,Fri Jul 17 03:15:34 +0000 2015,0,1,"dealing with money fields in postgres? use type numeric(X,2)"
+72,621489467719860225,Thu Jul 16 01:20:10 +0000 2015,89,0,"RT @Dank_Pal: [2nd grade test]
+
+What is your ethnicity?
+a.) Space Cowboy
+b.) Gangster of Love
+c.) Maurice
+
+*Steve Miller raises his hand*"
+73,621489143026176000,Thu Jul 16 01:18:53 +0000 2015,20,0,"RT @Dank_Pal: Say it ain't so
+I will not go
+Turn the lights off
+Carry me home http://t.co/MLS0cfmcg0"
+74,621299417933611008,Wed Jul 15 12:44:59 +0000 2015,0,0,@frazelledazzell great little tool hehe
+75,621299238878756864,Wed Jul 15 12:44:16 +0000 2015,0,1,http://t.co/ndnoaf0r57
+76,621069289232166912,Tue Jul 14 21:30:32 +0000 2015,156,0,RT @sama: focus on 1) the founders 2) the size of the market in 10 years and 3) the founders' plan to eventually build a monopoly in that m…
+77,621059967416557568,Tue Jul 14 20:53:29 +0000 2015,0,1,@jasonmulligan it's all about balance
+78,621037460630339584,Tue Jul 14 19:24:03 +0000 2015,0,1,a tool for startups celebrating their first birthday: https://t.co/TTA7VcWbK2 #MongoDB #SQL
+79,619492740036849664,Fri Jul 10 13:05:53 +0000 2015,8,0,RT @gamer_bet: Obama working on his pentakill #leagueoflegends #obama #leaguechampions #yeswecan #eSports #championsbeforepeople http://t.c…
+80,618611161999634432,Wed Jul 08 02:42:48 +0000 2015,0,2,Gophers marching to @GopherCon Kickoff party @galvanize http://t.co/gqIPTqhECt
+81,618362878375120896,Tue Jul 07 10:16:13 +0000 2015,0,0,The smoothest rocks in the sea are the ones who have collided the most with others.
+82,618361144974159872,Tue Jul 07 10:09:20 +0000 2015,0,5,Airport #UX http://t.co/yBONDfUWKg
+83,618160059739193345,Mon Jul 06 20:50:17 +0000 2015,42,0,RT @EGJaedong: Why always people are asking me 'are you Japanese?
+84,618145034806784000,Mon Jul 06 19:50:35 +0000 2015,0,0,@itzikr @frazelledazzell @docker you could access your own os session from any computer in the world with a handful of dotfiles and docker
+85,618127899657412608,Mon Jul 06 18:42:30 +0000 2015,24,0,RT @_K_E_L_S_E_Y: supposedly programming requires rare smarts but in all my yrs in tech i've never worked with a man capable of refilling a…
+86,618081025168531456,Mon Jul 06 15:36:14 +0000 2015,32,0,"RT @itzikr: Probably the coolest @docker session I've seen so far
+https://t.co/VIXxwO4xIA
+@frazelledazzell"
+87,616812272351092736,Fri Jul 03 03:34:40 +0000 2015,11,0,RT @davecheney: The market for #golang in China is massive.  http://t.co/CQVFw8s9pt
+88,616809977341067264,Fri Jul 03 03:25:33 +0000 2015,138,0,RT @HypriotTweets: @docker Let Docker Swarm all over your @Raspberry_Pi's: http://t.co/z5WYSXUeYz http://t.co/761q8RXy85
+89,616734928718442497,Thu Jul 02 22:27:20 +0000 2015,2,0,RT @prOpZeweig: #GBOpen #4 has concluded! Emotion defeats Apocalypse 3-1 and is the reigning champion for the 2nd week in a row
+90,616035252964859904,Wed Jul 01 00:07:04 +0000 2015,6,0,"RT @rmill: you're absolutely right @adobe!
+
+nothing.
+interests.
+me. http://t.co/cSTiAa5XPz"
+91,615997017194655744,Tue Jun 30 21:35:08 +0000 2015,0,0,omgomgomgomgomg https://t.co/YJ1lD6NIUa
+92,611924595889819648,Fri Jun 19 15:52:47 +0000 2015,118,0,RT @imjoshholloway: Deployed a simple #golang app to replace a #nodejs one. Memory usage drop from a peak of 141MB to 5MB - less errors and…
+93,611875559325466624,Fri Jun 19 12:37:56 +0000 2015,38620,0,"RT @See_Say_92: White killer: ""I am a racist. This was racially motivated."" 
+
+Media: ""Woah there buddy!!!! We don't know all the facts yet.…"
+94,611745769842966528,Fri Jun 19 04:02:11 +0000 2015,2323,0,RT @PeopleRuin: 😂😂💀🔥 http://t.co/Asiy6nI16k
+95,611363380742336512,Thu Jun 18 02:42:43 +0000 2015,795,0,RT @ThinkwithGoogle: Are you optimizing for #MicroMoments across devices? https://t.co/mDFDrbVyrz http://t.co/9kQSrCZmj9
+96,610572855001137152,Mon Jun 15 22:21:27 +0000 2015,126,0,RT @jimaley: Fun fact in @ftrain's Code epic: Printout of GitHub JavaScript semicolon debate= length of sperm whale. @business http://t.co/…
+97,610569957487853569,Mon Jun 15 22:09:56 +0000 2015,0,2,We pushed a new version of our site today https://t.co/FOL58lPe5R #esports #gaming
+98,610562877414490112,Mon Jun 15 21:41:48 +0000 2015,0,0,GamerBet Weekly Open #2 is now open for registration :) #sc2 #esports http://t.co/IR3nrXotC4
+99,610518802791571456,Mon Jun 15 18:46:40 +0000 2015,7985,0,"RT @TheTweetOfGod: I created skin to hold you together, not tear you apart."
+100,610060375527149568,Sun Jun 14 12:25:02 +0000 2015,98,0,"RT @SlackHQ: Our name may seem funny, but think on this: without slack, there is no reach, no play, no flexibility, no learning, no evoluti…"
+101,608055386713812992,Mon Jun 08 23:37:55 +0000 2015,2,0,RT @gitlost: Merge pull request #8 from mkohlmann-he/master Added a piece of test code to OhShit.py
+102,607737029238005760,Mon Jun 08 02:32:53 +0000 2015,0,1,@rawsomevegan third date was a success thanks to these bad boys http://t.co/7m4gAZTX5I
+103,605772638959509505,Tue Jun 02 16:27:06 +0000 2015,0,0,Open up your mind and open up the world.
+104,605444689031012352,Mon Jun 01 18:43:57 +0000 2015,0,0,@jennschiffer sexy sax man https://t.co/LgP6CrGioQ
+105,605428907588915200,Mon Jun 01 17:41:14 +0000 2015,0,0,@ODonnell_K this sort of competition is healthy :). Maybe someone could draw an #infograph to show tradeoffs
+106,604629780357513216,Sat May 30 12:45:47 +0000 2015,0,0,@nativescript is it currently possible to import third party android libs using .aar files?
+107,603542868674904064,Wed May 27 12:46:47 +0000 2015,0,0,http://t.co/eDEhX4OiRD
+108,603541317776465920,Wed May 27 12:40:38 +0000 2015,1,1,“There are only two kinds of programming languages: those people always bitch about and those nobody uses.”
+109,602657241011916800,Mon May 25 02:07:37 +0000 2015,1,0,"RT @gamer_bet: f*ck it, we'll do it live! #LeagueofLegends #championsofleague #welldoitlive #loseyourself http://t.co/Q84cm8u0lc"
+110,601161728785850369,Wed May 20 23:04:59 +0000 2015,0,0,Sharing economy is the solution to earth's prisoner's dilemma
+111,599335637645447168,Fri May 15 22:08:45 +0000 2015,45,0,"RT @kickstarter: In the future, will we print our clothes on-demand? This project is a step in that direction: https://t.co/jK79xuOnPt http…"
+112,596341196395450369,Thu May 07 15:49:55 +0000 2015,0,0,"@edwardog Free for a coffee sometime over the next couple weeks? I'm working with @ItMattersCanada, I'd like to pick your brain on #opendata"
+113,596105149854023681,Thu May 07 00:11:57 +0000 2015,70,0,"RT @horse_js: As a JavaScript developer, I’m sure you’ve already been falling into this scenario: something goes wrong"
+114,596104429272633344,Thu May 07 00:09:05 +0000 2015,1,0,RT @HanaAbaza: Apple Watch Is All the Rage! (Comic) http://t.co/uYvxpDyK7x
+115,596097502060912640,Wed May 06 23:41:34 +0000 2015,0,0,"@timbray Following up my question on tagging subscriptions before piping to Kinesis, what factors influenced the decison to query after?"
+116,596095946825535488,Wed May 06 23:35:23 +0000 2015,0,0,"@timbray Thanks for coming to Ottawa to present and scout talent, I enjoyed your talk!"
+117,595407469825908737,Tue May 05 01:59:37 +0000 2015,0,0,"@AntoineGrondin May 14th, 11am or 1pm @planetcoffeeott?"
+118,595238673882288128,Mon May 04 14:48:53 +0000 2015,2,3,Help crowdsource a new tagline for GamerBet Inc. #oneliner http://t.co/UAH2ORCEmg
+119,594710114667376640,Sun May 03 03:48:35 +0000 2015,0,0,@AntoineGrondin gimme a couple viable times that week and we'll make it happen
+120,594675549034917888,Sun May 03 01:31:14 +0000 2015,0,0,Goes out to my high school teachers Marc Roberge and Luc St. Louis https://t.co/9ujAcQ84OJ
+121,594674324168146944,Sun May 03 01:26:22 +0000 2015,0,0,@AntoineGrondin free for coffee next week or weekend?
+122,594674123441348608,Sun May 03 01:25:34 +0000 2015,0,0,an interesting thread that dives into some golang internals and the optimization of RWMutex https://t.co/hyocjDFYQQ #golang
+123,593927815940157440,Fri May 01 00:00:00 +0000 2015,0,0,I'd rather hang out with someone who thinks magic is possible than someone who thinks nothing is.
+124,593846220168273920,Thu Apr 30 18:35:46 +0000 2015,6,0,RT @gamer_bet: My reaction when... #leagueoflegends #patch5.8 #cat #nobugsplease http://t.co/Enph0VQ8Gk
+125,593494288308273152,Wed Apr 29 19:17:19 +0000 2015,0,1,"var wontWork = (navigator.userAgent.indexOf(""MSIE"") != -1); #js #webdev"
+126,593026213553250304,Tue Apr 28 12:17:21 +0000 2015,42021,0,RT @CanadaNATO: Geography can be tough. Here’s a guide for Russian soldiers who keep getting lost &amp; ‘accidentally’ entering #Ukraine http:/…
+127,592698590352560129,Mon Apr 27 14:35:30 +0000 2015,0,0,"Monday creativity boost with https://t.co/47I8rYbtao, @Behance and @dribbble http://t.co/gdDpSs0cmx"
+128,592369289191104512,Sun Apr 26 16:46:58 +0000 2015,5,0,RT @gamer_bet: Story of my life... #whereismychampion #leagueoflegends #ChampionsLeague #fml http://t.co/VGYfTwHwrf
+129,591917251269369856,Sat Apr 25 10:50:44 +0000 2015,2,0,RT @gamer_bet: Behind the scenes... of the League of Legends Subreddit #leagueoflegends #reddit #leagueoflegendssubreddit http://t.co/Xm6uz…
+130,589227327944536064,Sat Apr 18 00:41:56 +0000 2015,4,0,"RT @gamer_bet: Madrid, League of Legends is here. #leagueoflegends #loleu #madrid http://t.co/UuM1WfWnVB"
+131,589064972870799360,Fri Apr 17 13:56:48 +0000 2015,1,0,friday dev humour #sqlhelp http://t.co/aPTFTlhsdY
+132,589060891234140160,Fri Apr 17 13:40:35 +0000 2015,0,0,@jasonmulligan @BridgetHillyer will take a look
+133,588871418709934080,Fri Apr 17 01:07:41 +0000 2015,1,0,"RT @gamer_bet: ""Stay mana hungry my friends"" #leagueoflegends #debonair #midlane #didyougetityet http://t.co/pVUk2STT5n"
+134,588772485476306944,Thu Apr 16 18:34:34 +0000 2015,0,0,All I want for Christmas is a client side framework with components and services
+135,588485254643638272,Wed Apr 15 23:33:12 +0000 2015,2,0,"RT @gamer_bet: Parents, Cyber Curfew does not apply to League of Legends. #leagueoflegends #cybercurfewsucks #letthekidfinishthegame http:/…"
+136,586145684304302080,Thu Apr 09 12:36:35 +0000 2015,0,1,"@macadamianlabs is a great company to work for, honour system and employee wellbeing are at the heart of culture http://t.co/lwE9hctYRp"
+137,585855599289729026,Wed Apr 08 17:23:54 +0000 2015,0,0,@NESTEA_ca I love your cans
+138,585852311047507969,Wed Apr 08 17:10:50 +0000 2015,1,0,"RT @gamer_bet: Hey friends, come join our exclusive Alpha users group at http://t.co/ck8EmyEIDh and get 100 BetCoins for FREE! #LeagueOfLeg…"
+139,585852254600601600,Wed Apr 08 17:10:36 +0000 2015,0,0,Listening to John Cage - 4:33 on loop play
+140,583732001137623040,Thu Apr 02 20:45:28 +0000 2015,114,0,RT @deIuge: bro do you even suffer for your art
+141,583423891177132033,Thu Apr 02 00:21:09 +0000 2015,1,0,RT @gamer_bet: GamerBet selfie #tcmtl http://t.co/ukFpMdqoN1
+142,583422386734817280,Thu Apr 02 00:15:11 +0000 2015,1,0,RT @gamer_bet: A few minutes away from pitching GamerBet at #tcmtl
+143,583421788480241664,Thu Apr 02 00:12:48 +0000 2015,0,1,@jordanrcrook Welcome to Canada! #TCMTL
+144,583071197128187904,Wed Apr 01 00:59:40 +0000 2015,2,0,RT @gamer_bet: GamerBet has been selected to pitch at TechCrunch in Montreal tomorrow! Wish us luck! http://t.co/x3vp2HBZAH via @techcrunch
+145,580150881313824768,Mon Mar 23 23:35:23 +0000 2015,1,0,RT @gamer_bet: leagueoflegendslatestnews's photo http://t.co/hSnWzC2H8W
+146,580150820655751169,Mon Mar 23 23:35:08 +0000 2015,1,0,"RT @gamer_bet: League cheaters, Riot is watching you. #leagueoflegends #cheaters #EdwardSnowden #gamerswatchyourback #wecanseeyou http://t.…"
+147,580004485931597824,Mon Mar 23 13:53:40 +0000 2015,1,0,CSS Mondays #CSS http://t.co/Xsif894ySr
+148,574015906457776128,Sat Mar 07 01:17:11 +0000 2015,3,0,RT @gamer_bet: Roommate problems... #leagueoflegends #obliviousgamer #roommatewantsattention #esportsbeforehos http://t.co/IxG1IXsx8N
+149,570996693958840320,Thu Feb 26 17:19:55 +0000 2015,0,0,@jasonmulligan well deserved: http://t.co/V82PEWtCOY
+150,569294524121534464,Sun Feb 22 00:36:06 +0000 2015,0,0,@jimrhoskins thank you https://t.co/Kb2IHSAdQE
+151,568406071288733696,Thu Feb 19 13:45:42 +0000 2015,0,0,The best IE pros and cons list #internetexplorer source: http://t.co/bZrPsVTn4T http://t.co/g9Fkf9VQcn
+152,563139269590781954,Thu Feb 05 00:57:19 +0000 2015,0,2,just bought my ticket!!! #gophercon #golang
+153,560769757209956352,Thu Jan 29 12:01:43 +0000 2015,0,0,"normalize until it hurts, denormalize until it works #sql #db"
+154,560420513022246912,Wed Jan 28 12:53:57 +0000 2015,0,0,"@rethinkdb: well done, http://t.co/4RZXTN4FkN"
+155,559370764609392640,Sun Jan 25 15:22:37 +0000 2015,0,0,"The next product I make I'm putting ""Race: Human""  on signup #nodiscrimination"
+156,558236496210432000,Thu Jan 22 12:15:26 +0000 2015,1,1,#opensource #programming http://t.co/amXBxwNoHE
+157,557689693757009921,Wed Jan 21 00:02:39 +0000 2015,0,0,"@Vikstrous yo viktor, I'm getting a skype interview with Mozilla Toronto. Ping me what to expect"
+158,556151172047044609,Fri Jan 16 18:09:06 +0000 2015,0,1,I'm on the screen #cusec2015
+159,548818362445602816,Sat Dec 27 12:31:08 +0000 2014,0,0,Go stateless #haskell #functionalprogramming #humour http://t.co/AqbQ1ANIqh
+160,548615530496917504,Fri Dec 26 23:05:09 +0000 2014,1142,0,RT @paulg: Let the Other 95% of Great Programmers In: http://t.co/px0bA1nG99
+161,545420305804836864,Thu Dec 18 03:28:28 +0000 2014,0,0,LOL #lean #ux #please http://t.co/hrjDa1702b
+162,545417975743143938,Thu Dec 18 03:19:13 +0000 2014,0,7,Our customer will point us to the moon and we examine their fingers. #ux #leanstartup #lean #startup #design
+163,543887100337078272,Sat Dec 13 21:56:04 +0000 2014,4,0,RT @gamer_bet: @ImCaptainTeemo @LoL_Teemo @LeagueOfLegends Where's Teemo?! #LeagueOfLegends http://t.co/Cwsm4beyAL
+164,543886391508103168,Sat Dec 13 21:53:15 +0000 2014,6,0,RT @gamer_bet: 10 Celebrities you didn't know play League of Legends http://t.co/oupUVlT0j2 #leagueoflegends #celebritynews
+165,542477872871800832,Wed Dec 10 00:36:18 +0000 2014,3,0,RT @gamer_bet: @LeagueOfLegends @riotgames @lolesports 10 Celebrities you didn't know play League of Legends: http://t.co/oupUVlT0j2 #celeb…
+166,541737087931011072,Sun Dec 07 23:32:41 +0000 2014,7,0,RT @gamer_bet: akward moment when you realize you use lol to mean #LeagueOfLegends more than laugh out loud #gamerproblems
+167,541357792268132355,Sat Dec 06 22:25:30 +0000 2014,4,0,RT @gamer_bet: @LeagueOfLegends @riotgames On second thought #esports #gaming http://t.co/97PAtbrtNH
+168,541352312841977858,Sat Dec 06 22:03:43 +0000 2014,9,0,RT @gamer_bet: Wow thx to everyone who signed up as a GamerBet beta user! Looking for just a few more users: http://t.co/89h5yKRKSh http://…
+169,540983070430863362,Fri Dec 05 21:36:29 +0000 2014,1,0,@jasonmulligan learning about #tenso http://t.co/a1lrKrijQm
+170,540701805559443456,Fri Dec 05 02:58:50 +0000 2014,0,0,Life after League of Legends for Imaqtpie http://t.co/pgzoMJdMX2
+171,540663425782018048,Fri Dec 05 00:26:20 +0000 2014,4,0,"RT @gamer_bet: If you're wondering what's up with Imaqtpie these days, GamerBet just published a blog: http://t.co/OkDG6EUHWm #leagueoflege…"
+172,539142564801445888,Sun Nov 30 19:42:58 +0000 2014,5,0,RT @gamer_bet: Fun times working on PlayerBet! http://t.co/4BanBACCcJ
+173,538863778969178112,Sun Nov 30 01:15:11 +0000 2014,5,0,RT @ckdarby: Team of champions working hard @player_bet http://t.co/YfDbXFnvI4
+174,538859434311966721,Sun Nov 30 00:57:55 +0000 2014,4,0,RT @player_bet: PlayerBet back at work a week after @swottawa http://t.co/fRXIF5cTQw
+175,536684325996343296,Mon Nov 24 00:54:49 +0000 2014,0,3,Love #entrepreneurship #startup The speakers are brilliant and there is beer in their hands #swottawa #GSB2014 http://t.co/uByesXuvXQ
+176,532271832603168768,Tue Nov 11 20:41:08 +0000 2014,0,0,"Just registered for hack.summit(), a virtual conference of top developers. Check it out! http://t.co/X4FRMWD8c4"
+177,532247649744080896,Tue Nov 11 19:05:03 +0000 2014,1,0,Election poll software should be open for the same reason as cryptography cyphers
+178,529994799542435841,Wed Nov 05 13:53:01 +0000 2014,0,0,"@bankofcanada As a once unemployed youth, I agree with #poloz. Doing extra curricular activities related to my field got me employed"
+179,527446154112688128,Wed Oct 29 13:05:37 +0000 2014,5,3,"My first startup! A Role Playing Game for your career.
+https://t.co/r0jlqpQ6i0 #nodejs #golang #javascript #gamedev #lean"
+180,521441541693669376,Sun Oct 12 23:25:26 +0000 2014,0,0,"To all designers, check out my contest for an RPG of life @99designs http://t.co/EalSTt3HK1 … … #design #indo #GraphicDesign @welcome2indo"
+181,519642425824784384,Wed Oct 08 00:16:23 +0000 2014,1,1,cool article http://t.co/gPnesqNpAv #rust #socket #programmingproblems
+182,519627459453411328,Tue Oct 07 23:16:55 +0000 2014,0,0,startup humour http://t.co/9B2oOEdgvd
+183,518585479483375616,Sun Oct 05 02:16:27 +0000 2014,0,0,@digitalocean awesome tutorials on @coreoslinux and @docker https://t.co/KwQ9zb0ms7
+184,517466634521305088,Thu Oct 02 00:10:34 +0000 2014,0,1,@mashakrol Check out my http://t.co/Z815nbWnjX and I can send you my resume!!
+185,517466505655492609,Thu Oct 02 00:10:03 +0000 2014,0,0,"@mashakrol Hi, I'm in CompSci! Planning to travel Europe nxt September for a few months! I'd love to work for you guys and use your product!"
+186,516742937431261184,Tue Sep 30 00:14:51 +0000 2014,517,0,RT @JenSelter: Don't let someone who gave up on their dreams talk you out of yours.
+187,516615143841890304,Mon Sep 29 15:47:03 +0000 2014,4,0,"RT @HackTheNorth: 3 out of 4 @ChallengePost staff picks are from #hackthenorth. Coincidence?
+#pebilepsy #projectseed #tremedic http://t.co/…"
+188,516550611933093888,Mon Sep 29 11:30:37 +0000 2014,3,0,RT @BrianHerman14: How babies are born in #Canada: http://t.co/HDJoXpyWFL via @amestl01 #WeTheNorth
+189,515541999395426305,Fri Sep 26 16:42:45 +0000 2014,25,0,RT @tobi: I have now completed two projects in Go. I predict that it's going to be the dominant language for server work. #golang
+190,515284702656479233,Thu Sep 25 23:40:21 +0000 2014,113,0,"RT @vmg: ╔════════ ೋღ☃ღೋ ═══════╗
+  RT this if ur a beautiful strong Golang
+          who don’t need no generics
+╚════════ ೋღ☃ღೋ ═══════╝"
+191,514407776169525249,Tue Sep 23 13:35:45 +0000 2014,3,1,still my list http://t.co/IBIrKxsXHm
+192,509010377347448832,Mon Sep 08 16:08:25 +0000 2014,0,0,interactive map of linux http://t.co/h3ylf5HoTv
+193,507302509439090688,Wed Sep 03 23:01:58 +0000 2014,1107,0,RT @JenSelter: ✌️ http://t.co/esEHdnhcQ5
+194,506865128403644416,Tue Sep 02 18:03:58 +0000 2014,0,0,"@machty can you explain this better to me? change is inevitable, including data, one should design 4 it #js #frp http://t.co/bzeYnCa6hf"
+195,504061323140153345,Tue Aug 26 00:22:39 +0000 2014,0,0,Word from the wise: use nosql until relations form.
+196,504036906003595264,Mon Aug 25 22:45:37 +0000 2014,0,1,"@rileyjshaw no problemo, well earned! I showed it to my buddy doing neuro science simulations at the uni here"
+197,503966870429761536,Mon Aug 25 18:07:19 +0000 2014,1,0,"Confucius Say.
+OK to let a fool kiss you,
+But not OK to let a kiss fool you"
+198,503503686208069632,Sun Aug 24 11:26:48 +0000 2014,8,0,"RT @newsycombinator: Show HN: Terra, a JS framework for cellular automata and biological simulations http://t.co/ha2W0rAm2y"
+199,503502823653642240,Sun Aug 24 11:23:22 +0000 2014,1,1,@rileyjshaw congrats on terra.js hitting front page of hacker news. +1 upvote from me

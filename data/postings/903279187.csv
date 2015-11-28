@@ -1,0 +1,59 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,655564594438537218,Sun Oct 18 02:02:33 +0000 2015,0,0,"@SMARTCares Hi, what's wrong with my LTE? Last month it was 10mbps but this past few days 0.6mpbs na lang."
+1,655004661078847488,Fri Oct 16 12:57:35 +0000 2015,0,0,Wohoo! I'll vote for you @senmiriam. https://t.co/NbwXYMGC03
+2,655003062113669121,Fri Oct 16 12:51:14 +0000 2015,0,0,"@SMARTCares I've been experiencing very slow internet this past few days with frequent disconnection on my LTE. Loc: Banawa, Cebu City."
+3,606093258054172672,Wed Jun 03 13:41:08 +0000 2015,145,0,RT @senmiriam: #WednesdayWisdom http://t.co/MtvH8ZMen2
+4,532422179510435840,Wed Nov 12 06:38:34 +0000 2014,0,0,"Just registered for hack.summit(), a virtual conference of top developers. Check it out! http://t.co/dtUM3UcmM6"
+5,519607016692527104,Tue Oct 07 21:55:41 +0000 2014,5,0,RT @passy: What the actual ...?! 'Team Dolls' disqualified from female Dota 2 tournament for 'being too pro to be girls'. http://t.co/9WBsG…
+6,505668845512577024,Sat Aug 30 10:50:22 +0000 2014,0,0,"Parse is down. Nice one for ""backend as a service"" service. http://t.co/jJLbyvkCjn"
+7,501527947988054016,Tue Aug 19 00:35:55 +0000 2014,0,0,@rstacruz Is there an event I haven't heard of that is going to be cool coz you will be there speaking? :)
+8,491399677879676928,Tue Jul 22 01:49:47 +0000 2014,2,0,"RT @passy: I love how Elm isn't trying to bring small incremental improvements to web development, but radically reimagines the entire plat…"
+9,452344979080245249,Sat Apr 05 07:20:21 +0000 2014,0,0,my dog has a hip dysplasia :(
+10,444472737805762560,Fri Mar 14 13:58:53 +0000 2014,0,0,@rstacruz more as a set of reusable components.
+11,442683228176928768,Sun Mar 09 15:28:00 +0000 2014,0,0,Just about to transfer my requirejs projects to browserify and yet here comes webpack. Awesome!
+12,442594929617801216,Sun Mar 09 09:37:08 +0000 2014,0,2,You know what I like about @gulpjs? It just works. #itjustworks
+13,436781701616787456,Fri Feb 21 08:37:27 +0000 2014,0,0,docker or meteor for the weekend? hmm...
+14,430143484985475072,Mon Feb 03 00:59:33 +0000 2014,0,0,2 git configs that will save you life! https://t.co/iVod5ygJn5 @coderwall
+15,415779313393229824,Wed Dec 25 09:41:27 +0000 2013,0,0,The worst thing you can do with web security is inventing your own.
+16,411807925737226240,Sat Dec 14 10:40:35 +0000 2013,9,0,"RT @mraleph: want to test webdevs that tweet a lot about equality, democracy, transparency &amp; opportunities? tell them that you don't like J…"
+17,408875180673359872,Fri Dec 06 08:26:54 +0000 2013,0,0,"""Tiptoe higher."""
+18,383917541543784448,Sat Sep 28 11:34:09 +0000 2013,3,1,@elementary installs in less than 10 minutes. So far the best designed linux distro I've used.
+19,375174573387309056,Wed Sep 04 08:32:43 +0000 2013,0,0,How to teach Nodejs to beginners #protip https://t.co/hxKPIc1Ygz via @coderwall
+20,361400417189494785,Sun Jul 28 08:19:08 +0000 2013,0,0,"@rstacruz Oh, I forgot github's gists."
+21,361400261362720768,Sun Jul 28 08:18:31 +0000 2013,0,0,@rstacruz I too think someone already solved this. Reading sublime's snippets tool right now.
+22,361392803810525184,Sun Jul 28 07:48:53 +0000 2013,0,0,"@rstacruz how about an app to easily copy code snippets you often use? e.i. css3 text-shadow, date parsing functions with specific params"
+23,360313992276754432,Thu Jul 25 08:22:04 +0000 2013,0,0,"@passy @yeoman  me: ""where will I put this model/view? How will I add this view file?"" on generator-marionette with requirejs."
+24,360062467252031488,Wed Jul 24 15:42:36 +0000 2013,4,0,"RT @H9RBSjs: Tip of the day: You may refer to a library as a ""framework"" but you may not refer to a framework as a ""library""."
+25,359971790040215553,Wed Jul 24 09:42:17 +0000 2013,0,0,I wish every @yeoman generators that uses requirejs shows an example of a simple app using it.
+26,359764067755360259,Tue Jul 23 19:56:52 +0000 2013,0,1,An improved node-inspector brought to you by @StrongLoop - You guys simply rocks!
+27,359347631719329792,Mon Jul 22 16:22:06 +0000 2013,21,0,"RT @H9RBSjs: ☆。★。☆。★  
+。☆ 。☆。☆  
+★。＼｜／。★    
+ATTACKCLONE
+THE GRIT REPO
+★。／｜＼。★  
+。☆。。☆  
+☆。 ★。 ☆  ★"
+28,358917150087458816,Sun Jul 21 11:51:31 +0000 2013,88,0,RT @juandopazo: Promises in Firefox Nightly http://t.co/SXa6weWRIZ
+29,358085203366903809,Fri Jul 19 04:45:40 +0000 2013,0,0,Startups! The very idea
+30,357386462406258690,Wed Jul 17 06:29:07 +0000 2013,0,0,"If you do things right, people won't be sure if you've done anything at all."
+31,354582965830950912,Tue Jul 09 12:49:01 +0000 2013,0,0,Oh my @sketchapp you just made me an instant logo designer.
+32,352333453116719104,Wed Jul 03 07:50:15 +0000 2013,17,0,"RT @FakeAlexRussell: WHY JAVASCRIPT?!?! WHYYYYYYYY??!!!!!!
+
+New blog post: http://t.co/ZB8zzA8f1o"
+33,351599005765099520,Mon Jul 01 07:11:50 +0000 2013,0,0,Back from a twitter hiatus and the pomodoro soup is so good. http://t.co/n2BuEV77oM
+34,293345059666018305,Mon Jan 21 13:11:26 +0000 2013,11,0,RT @jashkenas: RubyJS’ standard library (in CoffeeScript) is a pretty fun code read: https://t.co/cAC9I53j (low-level/high-level)
+35,288976830667554816,Wed Jan 09 11:53:40 +0000 2013,28,0,RT @ChromiumDev: Play safely in sandboxed iframes: http://t.co/wFZwO9hu Explore &lt;iframe sandbox&gt; and its uses
+36,286695403737473025,Thu Jan 03 04:48:05 +0000 2013,0,0,@foursquare api for the browser https://t.co/84fngn9Z
+37,286537049136328704,Wed Jan 02 18:18:50 +0000 2013,0,0,Eyeing: Secrets of the Javascript Ninja by @jeresig ...
+38,282522164366811136,Sat Dec 22 16:25:07 +0000 2012,0,0,"Everything is fast today, except for gmail and youtube."
+39,281568566065635329,Thu Dec 20 01:15:52 +0000 2012,23,0,"RT @H9RBSjs: Hey, did you guys know that Bootstrap uses Bootstrap to Bootstrap their Bootstrapped Bootstrap-based pages? It's true."
+40,281403885741015041,Wed Dec 19 14:21:29 +0000 2012,0,0,I got lost asynchronously while writing my first nodejs module...
+41,281297511052869633,Wed Dec 19 07:18:47 +0000 2012,10,0,RT @wycats: protip: do not use a JS library that overrides toString on any builtin
+42,281161809912815616,Tue Dec 18 22:19:33 +0000 2012,64,0,"RT @H9RBSjs: Did you know, if you attend a responsive design conference, the size of the room isn't decided until they know how many peo ..."
+43,277448973617332225,Sat Dec 08 16:26:04 +0000 2012,0,0,@laravelphp hey are those route callbacks asynchronous? be nice man I'm new..
+44,267491091362758658,Sun Nov 11 04:57:00 +0000 2012,0,0,"I'm releasing goSketch next week, so excited..."
+45,266028948213870592,Wed Nov 07 04:06:58 +0000 2012,5,0,"RT @H9RBSjs: I'd love to help you with your coding problem, but I'm too busy being awesome."
+46,265231426595729408,Sun Nov 04 23:17:54 +0000 2012,0,0,How does one create such a kick-ass framework? @BackboneJsClass
+47,263670874186600450,Wed Oct 31 15:56:49 +0000 2012,0,0,OpenLayers + Backbonejs + Twitter Bootstrap = Fiesta
+48,261389627166965760,Thu Oct 25 08:51:58 +0000 2012,0,0,Context menu for twitter bootstrap coming in https://t.co/xQ1iPlPr

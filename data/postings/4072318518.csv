@@ -1,0 +1,14 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,662906683530702848,Sat Nov 07 08:17:24 +0000 2015,2,2,I was just fixing a bug in #php #MySQL I wrote in 2007. Wow! I've got the urge to refactor ALL the code... but motivation is waning rapidly
+1,662901642426056704,Sat Nov 07 07:57:22 +0000 2015,1,0,We just finished a flexible and powerful CSV upload tool built in #angularJS with a #PHP and #MySQL backend. https://t.co/xP8MrghGoH
+2,662892556787691520,Sat Nov 07 07:21:16 +0000 2015,0,1,#Mountainbiking this afternoon there was a little rain but it's still stunning around #Dunedin https://t.co/klq3WPJXf4
+3,662169526855798784,Thu Nov 05 07:28:12 +0000 2015,2,0,RT @ClaridgeMedia: can't help but laugh at companies with 'cheap' in their name.  Can almost guarantee they're not cheap. #branding
+4,661670375076462593,Tue Nov 03 22:24:45 +0000 2015,0,0,RT Why #jQuery is still relevant 10 years on #javascript https://t.co/XoVqaOyauI @kanesean
+5,661663904452341760,Tue Nov 03 21:59:02 +0000 2015,0,0,Use $scope.$evalAsync() method to avoid conflict with an already-running digest. Much better than hacky $timeout. #angularjs #AppDev
+6,661662306351230976,Tue Nov 03 21:52:41 +0000 2015,0,0,Tech solutions real time application development when you have to use #LAMP. #PHP #appdev #webdev https://t.co/e6QpmjY6DL
+7,661661279258456064,Tue Nov 03 21:48:36 +0000 2015,0,0,The new era of #onlinemarketing should be about communication and #engagement. @ClaridgeMedia https://t.co/aRHLnuxNWw
+8,661630199214141442,Tue Nov 03 19:45:06 +0000 2015,0,0,Speed up your #AngularJS app by limiting $digest cycles. Avoid the jumpy #UI by setting #ngModelOptions #AppDev https://t.co/6loildPpW2
+9,660923662887874560,Sun Nov 01 20:57:35 +0000 2015,0,0,The key difficulty in dev estimates: the unknown unknowns https://t.co/PHF06d7uee @javacodegeeks Also the mystery bug- it should but doesn't
+10,660645830513192960,Sun Nov 01 02:33:34 +0000 2015,1,1,If you have to use $scope.$watch in #AngularJS you can limit the frequency with #debounce. #appdev #javascript https://t.co/toCcrfzi9N
+11,660343725923569664,Sat Oct 31 06:33:07 +0000 2015,3,0,When to use $emit $broadcast $on in #AngularJS and when to use $rootScope. #bestpractices #webdev https://t.co/9hukdkB6Gw
+12,660343023348224000,Sat Oct 31 06:30:20 +0000 2015,1,1,"#PHP #realtime using #LongPolling or a heartbeat approach, both have pros and cons, so which should you use? https://t.co/8UJdQ1Erpb"

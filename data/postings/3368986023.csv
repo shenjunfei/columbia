@@ -1,0 +1,243 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,662754986892337152,Fri Nov 06 22:14:36 +0000 2015,1,0,RT @Ciaranlav1: Someone give this man the nuclear codes.... https://t.co/D12DofxR1m
+1,661922221498245120,Wed Nov 04 15:05:30 +0000 2015,16,0,"RT @_ericelliott: If a problem can be solved with pure functions, there's a good chance that pure functions are the simplest solution to th…"
+2,661837796668239873,Wed Nov 04 09:30:01 +0000 2015,0,0,@eoincasey_rocks loves death metal at 8.30 in the morning after 5 hours sleep https://t.co/wp8hJS06DQ
+3,661836279114547200,Wed Nov 04 09:23:59 +0000 2015,0,1,#websummit #hungover
+4,661523939739500544,Tue Nov 03 12:42:52 +0000 2015,18,0,"RT @WebSummitHQ: Palmer Luckey of @oculus ""There'll be a real blurring of virtual word and real world"" #websummit"
+5,661517353256099841,Tue Nov 03 12:16:42 +0000 2015,0,0,VR talk at #WebSummit https://t.co/LvWmKkec9Z
+6,661514969125658625,Tue Nov 03 12:07:13 +0000 2015,0,1,"Coloured sheep at #websummit, just because https://t.co/EIGPdUDhbU"
+7,661508383367909376,Tue Nov 03 11:41:03 +0000 2015,0,0,"Just arrived at @WebSummitHQ, happily survived the trip down"
+8,657522683584847872,Fri Oct 23 11:43:18 +0000 2015,0,0,"@Bitbucket goes down, seems like a good time to take a break #TFIFriday"
+9,654914301636034560,Fri Oct 16 06:58:31 +0000 2015,0,0,@swmcc wtf?
+10,654913980893384704,Fri Oct 16 06:57:15 +0000 2015,2,0,"RT @fritzy: Postgres, MSSQL 2016, and SQLite will all have JSON support. http://t.co/cpUh2bvZIC"
+11,652374638320877568,Fri Oct 09 06:46:48 +0000 2015,12,0,RT @_ericelliott: Essential JavaScript Books: https://t.co/S4SOTi12O7 #essentialjs #JavaScript
+12,651684653540220928,Wed Oct 07 09:05:03 +0000 2015,23,0,"RT @basarat: A few #TypeScript tips added to the book
+Quick object return: https://t.co/md0UYA0fX8
+String enums: 
+https://t.co/BEBRXdFbd4
+#…"
+13,651663727616487424,Wed Oct 07 07:41:54 +0000 2015,0,0,"Finally started reading ng-book by @auser, it's awesome, should have read it sooner #angularjs"
+14,651649085150248960,Wed Oct 07 06:43:43 +0000 2015,3,0,RT @swmcc: There's a new internet thing out there... http://t.co/kD06Jst2HT - yeah and stuffs.... Will amend articles as I go on. #shipv0do…
+15,651362852389920770,Tue Oct 06 11:46:20 +0000 2015,14,0,RT @WebReflection: How To Copy Objects in JavaScript - and side effects via Object.assign =&gt;  https://t.co/SH41H4xUUQ / cc @barneycarroll
+16,650994650946387968,Mon Oct 05 11:23:14 +0000 2015,0,0,"5hrs on Saturday trying to get @angularjs 2 to bundle correctly with jspm, reflect-metadata isn't getting bundled for some reason..."
+17,650585353473126400,Sun Oct 04 08:16:50 +0000 2015,26,0,"RT @_ericelliott: Use more pure functions:
+Given the same input, always produce the same output &amp;
+Produce no side-effects.
+#JavaScript"
+18,650230529162412032,Sat Oct 03 08:46:53 +0000 2015,0,1,Amen https://t.co/XVTmaZbfms
+19,650229865652862976,Sat Oct 03 08:44:15 +0000 2015,33,0,RT @JavaScriptDaily: ES6 Promises in Depth: http://t.co/QxqAVrwadV
+20,650228244550144000,Sat Oct 03 08:37:48 +0000 2015,31,0,RT @John_Papa: Just released: @angularjs 2 alpha 38. See the change log here  https://t.co/wR8qeAyjUb
+21,650227901745524736,Sat Oct 03 08:36:27 +0000 2015,10,0,"RT @TheWebPlatform: Listen to @sharondio &amp; @eisaksen on ep63 "" #ES6 &amp; #TypeScript in #AngularJS apps"" w/ guest @danwahlin - http://t.co/wGF…"
+22,649479108083228672,Thu Oct 01 07:01:00 +0000 2015,4,1,Very nice $q examples #angularjs  https://t.co/fcxMcyjOi1
+23,649238801114624000,Wed Sep 30 15:06:07 +0000 2015,2902,0,"RT @david8hughes: Wife: don't forget to pick the kids up from school
+Me: it's Saturday, they're both upstairs
+Wife: it's Wednesday &amp; we hav…"
+24,648965238059089920,Tue Sep 29 20:59:04 +0000 2015,0,0,This absolutely blew me away https://t.co/KqTqMAOoP0
+25,648490901690564608,Mon Sep 28 13:34:13 +0000 2015,0,0,Promises ftw #javascript #promises https://t.co/bHmf22HgYj
+26,648477937075945473,Mon Sep 28 12:42:42 +0000 2015,6,0,"RT @BenNadel: “Components should be reused, not repurposed.” A perfectly articulated statement from @chantastic. http://t.co/lr0ApSjxZf #Ja…"
+27,648421398793183232,Mon Sep 28 08:58:03 +0000 2015,6678,0,RT @NEWeatherWx: In case you missed the #SuperBloodMoon this is what happened:  http://t.co/JPr2NPXH67
+28,648421314324250625,Mon Sep 28 08:57:43 +0000 2015,38,0,RT @JohnBristowe: NativeScript snippets for @code? Boom. https://t.co/043duawi0U http://t.co/lFlV2583Cw
+29,648080681143287809,Sun Sep 27 10:24:09 +0000 2015,11,0,RT @imuduino: Shipping out some orders today. Batch of 10 IMUduinos ready. Starting next batch shortly. #nodejs #arduino #3D #webgl http://…
+30,647502735949058051,Fri Sep 25 20:07:36 +0000 2015,76,0,RT @darylginn: Schrödinger's cat applied to web development: If I don't look at it in Internet Explorer then there's a chance it looks fine.
+31,647373837676453892,Fri Sep 25 11:35:25 +0000 2015,0,0,Anyone else wish they were at @jsconfeu or is it just me.... :(
+32,647371464023404544,Fri Sep 25 11:25:59 +0000 2015,20,0,RT @devbattles: Everything you need to understand to start with #AngularJS http://t.co/N0S9mcdqZ4 http://t.co/w7r9GGvgw1
+33,647330356279013377,Fri Sep 25 08:42:38 +0000 2015,1,0,"RT @BenNadel: @modohash ha ha ha, hopefully gives you a reason to keep coming back :D"
+34,647083027072483328,Thu Sep 24 16:19:50 +0000 2015,0,0,"Been to @BenNadel's blog many times, just realised that the title pic has been changing all along! http://t.co/CIwSXlqCiw #themoreyouknow"
+35,647080944566988800,Thu Sep 24 16:11:34 +0000 2015,7,0,RT @BrendanEich: Rescuing the Stage 3 Exponentiation Operator for ES2016: http://t.co/DdhDhrjCfO. cc: @rwaldron @awbjs
+36,647077057160159232,Thu Sep 24 15:56:07 +0000 2015,6,0,"RT @jdalton: Growth rates of JS projects. Happy surprised to see Underscore/Lodash at the top \@W3Techs
+http://t.co/1bLDdTT7Rw http://t.co/…"
+37,647051446362480641,Thu Sep 24 14:14:21 +0000 2015,0,0,"So so true, @swmcc you know the feeling? https://t.co/wuMTYFunlX"
+38,647034290174328832,Thu Sep 24 13:06:10 +0000 2015,0,1,love immutability #javascript https://t.co/Al5o743KWV
+39,647016927261536256,Thu Sep 24 11:57:11 +0000 2015,0,0,Mmmm I like... https://t.co/n86wuTwG1t
+40,647014467251871744,Thu Sep 24 11:47:24 +0000 2015,0,0,"I've got some time this weekend, I WILL get the CSP version of #systemjs running in a @googlechrome app if it kills me..."
+41,647007778977001472,Thu Sep 24 11:20:49 +0000 2015,29,0,RT @allsecretcoding: Part III: Architecting a #ReactJS App with Flux. Courtesy of @tylermcginnis33 #Javascript http://t.co/rqHF0J7CXG http:…
+42,646648557114683392,Wed Sep 23 11:33:24 +0000 2015,0,1,"Seeing lots of tweets about @jsconfeu, wish I was going... next time... #javascript"
+43,646627852939591680,Wed Sep 23 10:11:08 +0000 2015,0,0,"Didn't even know this existed, if I ever write a book this is what I'll use: https://t.co/lZiJZA305L via @GitBookIO"
+44,646602095102197760,Wed Sep 23 08:28:47 +0000 2015,2,0,"RT @KaisInsights: When I hear somebody sigh, ‘Life is hard,’ I am always tempted to ask, ‘Compared to what?’ - Sydney Harris http://t.co/a9…"
+45,646238086159069184,Tue Sep 22 08:22:20 +0000 2015,45,0,RT @mfpiccolo: An Entrepreneur's Life in a Flowchart. #startup #entrepreneur http://t.co/FkQ86OtEve
+46,645994931648102400,Mon Sep 21 16:16:08 +0000 2015,0,0,@MichaelBole @fitbit over my dead body Miley....
+47,645924530838441984,Mon Sep 21 11:36:23 +0000 2015,2,0,RT @cmaxw: #Angular 2.0 is coming fast. And what about TypeScript? @gnomeontherun will be telling us all about it. Sign up at http://t.co/e…
+48,645876135931330561,Mon Sep 21 08:24:05 +0000 2015,0,1,"Was playing around with @code editor, I'm pretty impressed. The #TypeScript integration is excellent"
+49,645632376329125888,Sun Sep 20 16:15:28 +0000 2015,1,0,"RT @swmcc: So Amazon sneezes, heroku gets a cold and then half the internet can't function... We've seen this before in 2008 ;) #toobigtofa…"
+50,645630998160523264,Sun Sep 20 16:09:59 +0000 2015,0,0,Finding the CSP policy on chrome apps very limiting with #systemjs and #Angular2 why are you making this so difficult for us @googlechrome!
+51,645630396336611328,Sun Sep 20 16:07:36 +0000 2015,8,0,"RT @AngularJSFan: ES6 and ES7 the future of #Javascript
+https://t.co/pvDNoPau2v http://t.co/h8ayPzi9x4"
+52,645630269203070976,Sun Sep 20 16:07:06 +0000 2015,0,0,rediscovering #irc it's been a while my old friend...
+53,645181288173977600,Sat Sep 19 10:23:00 +0000 2015,66,0,RT @bradlygreen: A developer's perspective on the Angular 1 to Angular 2 upgrade path http://t.co/47qsTHo6p7 http://t.co/zy1scW6NiY
+54,645180881510993920,Sat Sep 19 10:21:23 +0000 2015,1,0,RT @andyet: May your weekend be full of cold Diet Cokes and pepperoni 🎉
+55,644868960010285056,Fri Sep 18 13:41:55 +0000 2015,243,0,RT @kcunning: They never thought that Ahmed had a bomb. http://t.co/x5tCo6ZpYY
+56,644815962949206016,Fri Sep 18 10:11:20 +0000 2015,1,0,RT @cmaxw: Want to know what everyone is using for their #Angular apps? @jeffwhelpley ran a survey and has the answers. Sign up http://t.co…
+57,644757083456425984,Fri Sep 18 06:17:22 +0000 2015,145,0,"RT @nodejs: Why Node.js beats Java &amp; .Net for Web, mobile, &amp; IoT apps http://t.co/5C7XmXUBnB @InfoWorld &amp; @AnyPresence"
+58,644559445717065728,Thu Sep 17 17:12:01 +0000 2015,146,0,RT @JavascRRipt: How to choose the right JavaScript framework http://t.co/dkwEFFbMh4 http://t.co/01lq6Wnwmx
+59,644543807846023168,Thu Sep 17 16:09:53 +0000 2015,0,0,Nice... I'm loving @typescriptlang  https://t.co/P6mi4QaQBc
+60,644543659610894336,Thu Sep 17 16:09:18 +0000 2015,0,0,Trawling through old @JIRA tickets to close off the ones that aren't relevant any more #thisispainful
+61,644519917375627264,Thu Sep 17 14:34:57 +0000 2015,952,0,RT @codinghorror: Time for more programmering http://t.co/EbPJAitcs4
+62,644508217507192833,Thu Sep 17 13:48:28 +0000 2015,73,0,"RT @rvagg: v4.1.0 of @nodejs just released by @Fishrock123, details here https://t.co/qLpb3UMRwU, download here https://t.co/hICWQH27De"
+63,644508159449694208,Thu Sep 17 13:48:14 +0000 2015,39,0,"RT @HTML5Weekly: Keep Out! - A WebGL Game : http://t.co/yezb2rI1Ys (very slick and well made, loads quickly too) http://t.co/uSmRon6Hhn"
+64,644495599509839872,Thu Sep 17 12:58:19 +0000 2015,3,0,RT @angularpodcast: New @angularpodcast Episode 60: Further Down the Road to NG2 http://t.co/iqU7zacZ7x
+65,644492795575685120,Thu Sep 17 12:47:11 +0000 2015,0,0,"@swmcc Let me rephrase, you broke the build you feckin eijit :)"
+66,644471366423564288,Thu Sep 17 11:22:02 +0000 2015,0,0,"Wondering if #reactnative can actually be used cross-platform, or is it more learn once than code once. Still cool. #reactjs #javascript"
+67,644470842668228608,Thu Sep 17 11:19:57 +0000 2015,0,0,"@swmcc Well, you did wipe out my changes..."
+68,644470757725220865,Thu Sep 17 11:19:36 +0000 2015,5,0,RT @JSJabber: Want to get to know @ionicframework better? Don't miss @saniyusuf's talk on Ionic and Angular http://t.co/nksd0ejIcj
+69,644429498591657985,Thu Sep 17 08:35:40 +0000 2015,1,2,Seems awesome #reactnative #reactjs https://t.co/6aqyFgEOz5
+70,644428535940128768,Thu Sep 17 08:31:50 +0000 2015,31,0,RT @itvnews: Police release photograph of  clock for which student Ahmed Mohamed was arrested http://t.co/fjPrvlwTw9 http://t.co/lWOlIeoOux
+71,644428090391818240,Thu Sep 17 08:30:04 +0000 2015,123,0,RT @basarat: I trusted you schrodinger http://t.co/0817m9Uyth
+72,644168975581114368,Wed Sep 16 15:20:26 +0000 2015,37,0,"RT @raganwald: 🕚
+
+#IStandWithAhmed"
+73,644168711369281536,Wed Sep 16 15:19:23 +0000 2015,29,0,RT @nodejs: Join the #nodejs community at the first Node.js Foundation event. #NodeInteractive will be held Dec. 8-9 in Portland http://t.c…
+74,644157365680521217,Wed Sep 16 14:34:18 +0000 2015,0,0,Anyone used @angularjs 2 with SystemJS in a @googlechrome app? Having CSP issues...
+75,644144318526001152,Wed Sep 16 13:42:27 +0000 2015,0,0,@swmcc You talking about me? :)
+76,643829789485363200,Tue Sep 15 16:52:38 +0000 2015,0,0,@swmcc typical!!
+77,643327915694891008,Mon Sep 14 07:38:22 +0000 2015,122,0,RT @qz: This mind-controlled prosthetic robot arm lets you actually feel what it touches http://t.co/USOYBvC6vV http://t.co/aIYjZHOn2l
+78,643169155445858305,Sun Sep 13 21:07:30 +0000 2015,26,0,RT @JavaScriptDaily: Typed Arrays in ECMAScript 6: http://t.co/nNZKnAGWZj
+79,643124370047696896,Sun Sep 13 18:09:33 +0000 2015,23,0,"RT @dany0w: Fresh blog post on ES7 async/await with @AureliaEffect:  http://t.co/54Pnxyyp4O
+
+#javascript #aurelia"
+80,643124206985678848,Sun Sep 13 18:08:54 +0000 2015,0,0,@swmcc That's it your blocked on skype LOL
+81,643015576223354880,Sun Sep 13 10:57:14 +0000 2015,2,0,RT @cmaxw: Wanna build mobile apps with @ionic framework? Check out talks by @saniyusuf and @mhartington on Sept 26. http://t.co/edJy2xIGpF
+82,643015530065076224,Sun Sep 13 10:57:03 +0000 2015,2,0,"RT @jonathansampson: ""A new version of Exploring ES6 is available! Here are the download links for the latest version.""
+
+I love you, @leanp…"
+83,642855574909095936,Sun Sep 13 00:21:27 +0000 2015,16,0,RT @gerardsans: Finally approved #AngularJS GDE! Yay! (* ^ ◯ ^ *) Many thanks @googledevexpert program. @bradlygreen @Jack_Franklin @jeffbc…
+84,642719989112438785,Sat Sep 12 15:22:41 +0000 2015,1,0,RT @andyet: We think of conferences as a transformative art form beginning with a mysterious buildup prior to the event. http://t.co/UN6xq8…
+85,642711700865720320,Sat Sep 12 14:49:45 +0000 2015,0,0,Awww yeah... I love it!! https://t.co/VEPd7p4LJV
+86,642711438423891968,Sat Sep 12 14:48:42 +0000 2015,7,0,RT @JSJabber: Did you know that @ionicframework is adapting for Angular 2? What's in Ionic 2? @mhartington will tell us. Sign up at http://…
+87,642658889259945984,Sat Sep 12 11:19:53 +0000 2015,43,0,RT @maxlynch: Apple iOS 9 GM reminder! Ionic users should test + use an Angular patch for UIWebView issues http://t.co/26IKrvw9yb http://t.…
+88,642658505988669440,Sat Sep 12 11:18:22 +0000 2015,0,1,"Anyone using #angularjs with @apachecordova, remember to patch your app for the infinite digest issue! https://t.co/exk53vYByx"
+89,642637540999229441,Sat Sep 12 09:55:04 +0000 2015,33,0,"RT @Meligy: Decorators &amp; metadata reflection in TypeScript: From Novice to Expert http://t.co/kyiEVKP7cT via @WolkSoftwareLtd
+#TypeScript"
+90,642606353618501632,Sat Sep 12 07:51:08 +0000 2015,2,0,"RT @angularpodcast: JSPM, SystemJS and Angular. Sounds like a winning combination. What about Angular 2? Listen to @robwormald fill us in h…"
+91,642604783950544896,Sat Sep 12 07:44:54 +0000 2015,81,0,"RT @bradlygreen: Bootstrap components for Angular 2!
+https://t.co/nDgZkViGbN http://t.co/s31jEmcAS6"
+92,642603653455593472,Sat Sep 12 07:40:24 +0000 2015,77,0,RT @IgorMinar: Using Angular and deploying to iOS via @apachecordova? It's likely that iOS9 will BREAK your app next week. Read: http://t.c…
+93,642362978810118144,Fri Sep 11 15:44:03 +0000 2015,0,1,"Awesome resource, need to get time to thoroughly re-read it. #typescript #javascript https://t.co/fGaAv90EfP"
+94,642361913129762816,Fri Sep 11 15:39:49 +0000 2015,23,0,RT @KentBeck: There are people in this world who make me feel socially adept. By comparison. For this I am deeply grateful.
+95,642329539201355776,Fri Sep 11 13:31:10 +0000 2015,0,2,A subject near and dear to my heart #angularjs #javascript https://t.co/R3pip6WcfC
+96,642234693962874880,Fri Sep 11 07:14:17 +0000 2015,12,0,"RT @nycdotnet: Cool!  My course ""Practical TypeScript Migration"" is now up on @Pluralsight!  http://t.co/fbZSUodF2O  #JavaScript"
+97,642234403893182464,Fri Sep 11 07:13:08 +0000 2015,3,0,"RT @josepheames: Cool vid by Jessica Kerr at @ReactRally about Functional Programming, React, &amp; Elm https://t.co/T244KuYF9l"
+98,642090911992815616,Thu Sep 10 21:42:57 +0000 2015,3,0,RT @vallejosfab: The State of Front-End Tooling – 2015 http://t.co/1mQPDfPJU3
+99,642078977671217152,Thu Sep 10 20:55:32 +0000 2015,28,0,"RT @DanWahlin: New release of Visual Studio Code now available (0.8.0)! Includes multiple themes, a debug console, linting &amp; more: http://t…"
+100,642078685898637313,Thu Sep 10 20:54:22 +0000 2015,0,0,Anybody else think that the #ios distribution mechanism is way too complicated? How many certs do I need!!! #confusing
+101,642077776531615744,Thu Sep 10 20:50:45 +0000 2015,4,0,RT @josepheames: Yesterday's @angularpodcast was on the current state of Angular 2. Look for the episode to come out next week I believe.
+102,641966395274735616,Thu Sep 10 13:28:10 +0000 2015,48,0,RT @JavaScriptDaily: NodeRedis 1.0 Release: A Node.js Redis Client - https://t.co/7BIC7eeKDD
+103,641960927059943425,Thu Sep 10 13:06:26 +0000 2015,17,2,Pretty sweet #typescript #nodejs https://t.co/Iix08Pgzo9
+104,641960823825539072,Thu Sep 10 13:06:02 +0000 2015,0,0,@swmcc @codeship @CodeshipSupport I've heard that from you before :P
+105,641948508526931968,Thu Sep 10 12:17:05 +0000 2015,0,0,@swmcc @codeship @CodeshipSupport Wouldn't have that problem if your dodgy ass code didn't keep breaking :P
+106,641917630631288832,Thu Sep 10 10:14:24 +0000 2015,18,0,"RT @rtfeldman: If you were wondering whether The Python Paradox (http://t.co/bYA5PcgnUr) is real, use @elmlang and watch your applicant poo…"
+107,641914475008888832,Thu Sep 10 10:01:51 +0000 2015,2,0,"RT @basarat: #TypeScript generics + currying to get generic constraints in arguments : http://t.co/FsaPVoO8Qy
+#JavaScript"
+108,641909233257181185,Thu Sep 10 09:41:01 +0000 2015,0,1,"Anyone else loving @nodejs 4.0.0? New #ES6 features, the merging of #nodejs  and #iojs, hugs all round!! #javascript"
+109,641893892430954496,Thu Sep 10 08:40:04 +0000 2015,9802,0,RT @old_sound: CSS can kill you http://t.co/LnJENp2fFS
+110,641893816753094656,Thu Sep 10 08:39:46 +0000 2015,15,0,RT @DanWahlin: The State of Front-End Tooling (survey results) http://t.co/9rQRNvxWxG
+111,641892726703804416,Thu Sep 10 08:35:26 +0000 2015,0,0,Is it just me or is #ES6 awesome? Loving generators and arrow functions especially #javascript
+112,641892455378456576,Thu Sep 10 08:34:21 +0000 2015,1,1,@swmcc you disturb me on many levels
+113,641891084881276928,Thu Sep 10 08:28:55 +0000 2015,0,0,@swmcc People have been killed for less...
+114,641866161299320832,Thu Sep 10 06:49:52 +0000 2015,0,0,"Very impressed with @googlechrome apps, been toying about with #angularjs and chrome apps, its so easy I feel like I've done something wrong"
+115,641865321352167425,Thu Sep 10 06:46:32 +0000 2015,8,0,"RT @marick: Teaching daughter #elmlang. edit/click-button/see-effect examples are v motivating http://t.co/7z1EPzjZ4X Thanks, @czaplic or w…"
+116,641669683058446336,Wed Sep 09 17:49:08 +0000 2015,0,0,Love this https://t.co/EcL8fd1dr3
+117,641669510169276416,Wed Sep 09 17:48:27 +0000 2015,37,0,RT @DanWahlin: Wow - Microsoft is on stage now at the Apple event. Hell has definitely frozen over.
+118,641505131092156416,Wed Sep 09 06:55:16 +0000 2015,0,0,"@nodejs 4.0 is here, finally, arrow functions!!!! #es6 #nodejs #iojs #javascript"
+119,641502791232528384,Wed Sep 09 06:45:58 +0000 2015,51,0,"RT @John_Papa: Node 4, now available. Yes, Node 4 ... https://t.co/mCzmVi7Q4Z"
+120,641363953675735040,Tue Sep 08 21:34:17 +0000 2015,0,0,Hallelujah!! #nodejs #iojs #javascript  https://t.co/MKQUUjDeoH
+121,641327683562012673,Tue Sep 08 19:10:09 +0000 2015,7,0,"RT @rwaldron: ""Stop pushing the web forward"" sponsored by modern.IE, Google &amp; Adobe TypeKit.
+
+I wonder if they know that. http://t.co/XKxk3…"
+122,641324535317438464,Tue Sep 08 18:57:39 +0000 2015,1,0,RT @cmaxw: .@simpulton from @angularpodcast will be talking about Animations. Don't miss out. Sign up now http://t.co/edJy2xIGpF
+123,641293115547078656,Tue Sep 08 16:52:48 +0000 2015,23,0,RT @DanWahlin: View Encapsulation in Angular 2 http://t.co/1OgHtpP3sg #angular
+124,641269257322528768,Tue Sep 08 15:17:59 +0000 2015,0,1,"Can't wait for @nodejs 4.0.0 to ship. #iojs and #nodejs back together, it's about damn time!"
+125,641265901568966656,Tue Sep 08 15:04:39 +0000 2015,80,0,"RT @fritzy: The NodeJS 4.0.0 release, and first merged release of io.js and NodeJS is imminent. New to io.js: arrow functions and typed arr…"
+126,641247312061333504,Tue Sep 08 13:50:47 +0000 2015,0,0,@swmcc nope...
+127,641247179219337216,Tue Sep 08 13:50:15 +0000 2015,3,0,"RT @raganwald: What good are Generators in JavaScript?
+
+Who knows? It’s early days!
+
+But FYI:
+
+http://t.co/w6ggTTtOct"
+128,641213765539745792,Tue Sep 08 11:37:29 +0000 2015,4,0,RT @Javascript_Top: JavaScript - not just the language of the web http://t.co/Xnnk31RYaZ via @ajfisher http://t.co/JxPXvsLTSO
+129,641161465383288832,Tue Sep 08 08:09:40 +0000 2015,35,0,"RT @harrywlove: console: (verb) comfort (someone) at a time of grief or disappointment, especially web developers."
+130,641161346575376384,Tue Sep 08 08:09:11 +0000 2015,0,0,"I've been thinking about UI components as pure functions, pretty interesting stuff... #javascript #functionalprogramming"
+131,640918058371051520,Mon Sep 07 16:02:27 +0000 2015,0,1,Great #Angular2 resources! https://t.co/jhWjiK94HR
+132,640917533487419393,Mon Sep 07 16:00:22 +0000 2015,0,1,Nice #Angular2 seed project here https://t.co/ZdtT1IAfBz by @mgechev very helpful
+133,640916233924280321,Mon Sep 07 15:55:12 +0000 2015,15,0,RT @JavaScriptDaily: Defusing Race Conditions when Using Promises: https://t.co/eSwbKorXmV
+134,640897620752343040,Mon Sep 07 14:41:14 +0000 2015,8,0,RT @simpulton: Pretty much the *BEST* Angular 2 content out there is from my boy @PascalPrecht via @thoughtram That is a seriously legit gr…
+135,640889449828732928,Mon Sep 07 14:08:46 +0000 2015,53,0,RT @bagder: HTTP/2 – 115 days with the RFC =&gt; http://t.co/sL9y0aWuJO #http2 usage and numbers update
+136,640889387455266816,Mon Sep 07 14:08:31 +0000 2015,10,0,"RT @EisenbergEffect: I'm going to adopt the term ""Portable JavaScript"" over ""Universal JavaScript"". That was an idea from some blog comment…"
+137,640622046423162880,Sun Sep 06 20:26:12 +0000 2015,2,0,RT @Javascript_Top: Rending ReactJS Components In AngularJS Using AngularJS Directives http://t.co/wjrR9s5n2L via @BenNadel
+138,640576257395191808,Sun Sep 06 17:24:15 +0000 2015,36,0,RT @eggheadio: Angular with Webpack - ES6 with BabelJS by @kentcdodds #pro #AngularJS http://t.co/5Ig6i7Wa8x
+139,640165456729505792,Sat Sep 05 14:11:53 +0000 2015,66,0,"RT @mhevery: Syntactic sugar coming to #Angular2 to make it even sweeter! (by @victorsavkin)
+https://t.co/nwe6UWoozU"
+140,640165117087367168,Sat Sep 05 14:10:32 +0000 2015,2,0,JSX in @typescriptlang ! Sign me up! #typescript #jsx  https://t.co/YP4tCPOXhh
+141,640122908862492676,Sat Sep 05 11:22:49 +0000 2015,0,0,It pains me to say it but @code looks very good. I may give it a go but you'll still need to pry #vim from my cold dead fingers...
+142,640122313023819776,Sat Sep 05 11:20:26 +0000 2015,3,0,"Wow, just awesome... #gamedev https://t.co/aT2uZUs2Gi"
+143,640121408190840832,Sat Sep 05 11:16:51 +0000 2015,1157,0,"RT @HistoryInPix: Xenophobia = Ignorance. We're all humans on a small, floating rock through an infinite galaxy, together. http://t.co/p1xe…"
+144,640121043236093952,Sat Sep 05 11:15:24 +0000 2015,3677,0,"RT @Carnage4Life: Every time a developer says ""temporary workaround"" I remember this list. http://t.co/OpI48BvJxo"
+145,640119146299170816,Sat Sep 05 11:07:51 +0000 2015,22,0,"RT @EisenbergEffect: Blogged ""Aurelia Early September Release Notes"" Cool stuff in this release! Check it out: http://t.co/zzfZkN38Bs"
+146,640092248961622016,Sat Sep 05 09:20:59 +0000 2015,0,0,Been recommending @nodeschool to a lot of my colleagues. What a great resource #javascript #nodejs
+147,640091758857199616,Sat Sep 05 09:19:02 +0000 2015,70,0,RT @JavaScriptDaily: Minigrid: Zero-Dependency 2KB Cascading Grid Layout - http://t.co/R1fsSVqTQk
+148,639783882749927426,Fri Sep 04 12:55:38 +0000 2015,0,0,"For any #django devs who use @postgresql , https://t.co/4xchA2pFUV has changed my life #webdev"
+149,639694828415139840,Fri Sep 04 07:01:46 +0000 2015,454,0,RT @bascule: The Android software update cycle http://t.co/lxeAdKDuQx
+150,639694397479755776,Fri Sep 04 07:00:03 +0000 2015,4,0,"RT @jdalton: Continuing to expose internal helpers, lodash is getting _.isArrayLike and _.toPath."
+151,639518070340501505,Thu Sep 03 19:19:24 +0000 2015,0,1,"I like the thought of WCs as small, scoped, atomic leaves in the higher level framework tree #javascript #reactjs https://t.co/h3kQ6hHJqP"
+152,639515468353679360,Thu Sep 03 19:09:03 +0000 2015,3,0,RT @js_dev: Lots of groups using Angular.  https://t.co/5T3HgNaDDp
+153,639418738933170176,Thu Sep 03 12:44:41 +0000 2015,3,0,RT @angularpodcast: New @angularpodcast Episode 58: D3 with Aysegul Yonet http://t.co/mmEMgF0QX3 cc/ @AysegulYonet
+154,639405068224217088,Thu Sep 03 11:50:22 +0000 2015,14,0,"RT @mfpiccolo: Functional vs OO programming:
+
+""In a fight between a bear and an alligator, the terrain determines the outcome.""
+
+http://t.c…"
+155,639405019259912192,Thu Sep 03 11:50:10 +0000 2015,137,0,"RT @martinfowler: ""There is no one single answer to agility at scale; principles are far more important that process."" 
+
+http://t.co/UKCVj0…"
+156,639181199118831616,Wed Sep 02 21:00:47 +0000 2015,1,0,RT @cmaxw: .@angularremote Conf tickets are on available now at http://t.co/edJy2xIGpF Get access to live sessions you can watch at home ab…
+157,639174572487610368,Wed Sep 02 20:34:28 +0000 2015,100,0,"RT @BrendanEich: Death Star Architect Speaks Out, Defends Design of Exhaust Port  http://t.co/UeLli8jMJ8 via @Core77"
+158,639170642408026112,Wed Sep 02 20:18:51 +0000 2015,2,0,Check out my latest blog post on decoupling your #javascript app from your framework of choice. http://t.co/c1ef0qBnWJ
+159,639144557473566721,Wed Sep 02 18:35:11 +0000 2015,352,0,"RT @SwiftOnSecurity: If your company is still buying computers with HDDs instead of SSDs or SSHDs, you're saving 30 bucks to make your mach…"
+160,639121478924017664,Wed Sep 02 17:03:29 +0000 2015,1,0,RT @swmcc: Apparently neither me or @modohash threaten @cScott_ - challenge accepted....
+161,639100189488345088,Wed Sep 02 15:38:53 +0000 2015,0,0,Are there any #angularjs devs in the #belfast area that would be interested in starting a #meetup ?
+162,639099847770046464,Wed Sep 02 15:37:32 +0000 2015,0,0,"Working on a new blog post about separating your JS app from you framework of choice, it's pretty interesting to think about #JavaScript"
+163,638967354681106432,Wed Sep 02 06:51:03 +0000 2015,1,0,"RT @rwaldron: Dude learned the word ""derogation"" a few days ago and now he uses it as often as possible, but always incorrectly."
+164,638966821790556164,Wed Sep 02 06:48:56 +0000 2015,100,0,RT @bradlygreen: Angular 2 survey results on the @angularjs blog thanks to @jeffwhelpley and @gdi2290! http://t.co/GeAHJhERRV http://t.co/r…
+165,638966239780577280,Wed Sep 02 06:46:37 +0000 2015,13,0,"RT @raganwald: Unimorphic Isoversal JavaScript. Dear God!
+
+http://t.co/HjQZh3LivG http://t.co/2SrQju6ozU"
+166,638706571044880384,Tue Sep 01 13:34:47 +0000 2015,20,0,RT @thejameskyle: Prediction: @BabelJS will overtake @CoffeeScript this week in daily @npmjs downloads for the first time. We're so close!
+167,638696663385829377,Tue Sep 01 12:55:25 +0000 2015,17,0,"RT @angularjs: Team meeting notes for August 31st: Call for contributors on Angular 2 docs, various progress reports on Angular 2. https://…"
+168,638026838158254081,Sun Aug 30 16:33:46 +0000 2015,4,0,RT @jdalton: Added support for ES6 Set/Map to _.clone/_.isEqual/_.toArray and iterator support to _.toArray.
+169,638026574546227200,Sun Aug 30 16:32:43 +0000 2015,46,0,RT @JavaScriptDaily: A Brief History of ES6 Tooling: http://t.co/BQyzvJ7pqj
+170,637568464543162368,Sat Aug 29 10:12:22 +0000 2015,92,0,RT @bradlygreen: Google Developers Blog:Angular 1 and Angular 2 integration: the path to seamless upgrade http://t.co/dm4JL2KBda
+171,637568265846398976,Sat Aug 29 10:11:34 +0000 2015,3,0,RT @dockernews: Running a Private Docker Registry on EC2 http://t.co/E8SRqm9nQV via @docker
+172,637285700765904896,Fri Aug 28 15:28:45 +0000 2015,53,0,"RT @raganwald: “Gay Teen Worried He Might Be Christian”
+
+Only @theonion dares.
+
+http://t.co/WYzypvZhO3"
+173,637284633936297985,Fri Aug 28 15:24:31 +0000 2015,10,0,RT @raganwald: How recursion got into programming: a comedy of errors https://t.co/Og3y4MSFW2
+174,637188335233011712,Fri Aug 28 09:01:52 +0000 2015,2,2,Mmmm me like... #ionic #angularjs https://t.co/SaKQ4A2E50
+175,637158829768187904,Fri Aug 28 07:04:37 +0000 2015,2,2,Substack is a boss #nodejs #JavaScript  https://t.co/Vcs4AWYVq5
+176,636086640889450496,Tue Aug 25 08:04:07 +0000 2015,1,0,RT @josepheames: More GraphQL goodness at @ReactRally with Nick Schrock talking about GraphQL servers http://t.co/FFfu8vxBmH
+177,635877606123008000,Mon Aug 24 18:13:29 +0000 2015,0,2,"If there are any iOS devs out there, this is how I feel when merging a storyboard... #iosdev https://t.co/f2NHBVC9TY"
+178,635877200332505088,Mon Aug 24 18:11:53 +0000 2015,0,1,@byte_me_games @EsotericSoft Like 30 mins to integrate 3 platforms! It's goddamn unheard of!!
+179,635875924148359168,Mon Aug 24 18:06:48 +0000 2015,3,1,"@EsotericSoft Just integrated spine with our project at @byte_me_games, was the easiest integration ever, thanks guys! #gamedev #indiedev"
+180,634705768776908800,Fri Aug 21 12:37:02 +0000 2015,6,0,RT @EisenbergEffect: Aurelia to represent at devintersection/anglebrackets in Vegas this October. Use code Eisenberg and save yourself some…
+181,634625036096245760,Fri Aug 21 07:16:14 +0000 2015,2,0,"Sweet, need to get a plan together to migrate my #angularjs projects to #angular2  https://t.co/hf5iZhNW1F"
+182,634623623731482624,Fri Aug 21 07:10:37 +0000 2015,76,0,RT @mhevery: We would love community help in Angular2. We have selected nice starter issues here: https://t.co/PrdfbnLb0h
+183,634622223278579712,Fri Aug 21 07:05:03 +0000 2015,3,0,RT @dockernews: Docker Toolbox Replaces Boot2Docker in Docker 1.8 - Container JournalCo... http://t.co/uLkGMN622p via @ContainerBlog http:/…
+184,634622028713185281,Fri Aug 21 07:04:17 +0000 2015,12,0,RT @AngularConnect: Check out the 50+ incredible speakers we have across both days at AngularConnect! http://t.co/DCgRwMIrbf http://t.co/Ai…
+185,634284389933928448,Thu Aug 20 08:42:37 +0000 2015,1184,0,RT @Dempster2000: Finally. Somewhere to barbecue my Princess Leia effigy. http://t.co/ydgBf7fVSN
+186,634284063566774272,Thu Aug 20 08:41:19 +0000 2015,1,0,RT @Javascript_Top: Here are the top 10 programming languages used on GitHub | VentureBeat... http://t.co/CaYlUpDb6t via @JasonVanHouten ht…
+187,633976846800044032,Wed Aug 19 12:20:33 +0000 2015,585,0,"RT @elkmovie: ""Your app keeps crashing on my Galaxy S4.""
+""Which one of the FIFTY THREE DIFFERENT MODELS OF GALAXY S4 is this?"" http://t.co/…"
+188,633669578028134400,Tue Aug 18 15:59:35 +0000 2015,2,1,"Quite true, it's a full-time job just keeping up to date with #javascript  https://t.co/vcTSZIrJgv"
+189,633669079962927104,Tue Aug 18 15:57:36 +0000 2015,2,0,"RT @rhodesjason: oh hey i talked about some @nodeschool stuff with the @JSJabber crew a few weeks ago, if you're into that: https://t.co/M3…"
+190,633639875481309184,Tue Aug 18 14:01:33 +0000 2015,41,0,"RT @fogus: That time when Alan Kay participated on Stack Overflow.
+http://t.co/YvZVUYedlu"
+191,633534310168035328,Tue Aug 18 07:02:04 +0000 2015,1,0,"RT @js_dev: when keep getting excuses instead of responses and results, and start giving #zeroshits"
+192,633352912417234947,Mon Aug 17 19:01:16 +0000 2015,2,0,Music to my ears... #meteorjs #AngularJS  https://t.co/JC1gFRPbx9
+193,633347151645548544,Mon Aug 17 18:38:22 +0000 2015,2,0,All hail #AngularJS! https://t.co/EzBAQIF1zh
+194,633338988347174913,Mon Aug 17 18:05:56 +0000 2015,1,0,"Yes, yes it is time... #gamedev #indiedev https://t.co/mZC0SE7kJX"
+195,633302436657123328,Mon Aug 17 15:40:41 +0000 2015,53,0,"RT @Ionicframework: Web developers will rule the world (so will Ionic devs, of course)! On our blog, @maxlynch explains why: http://t.co/Ss…"
+196,633250807513808896,Mon Aug 17 12:15:32 +0000 2015,1,0,RT @Javascript_Top: 18 Resources on ES6 for JavaScript Developers http://t.co/a9Bs2dzrAN via @formvalidation http://t.co/znBBnE0j4Q
+197,633250472237862912,Mon Aug 17 12:14:12 +0000 2015,4,1,"@meteorjs is awesome, I've been meaning to do something non-trivial in it for a while #nodejs #javascript #meteorjs  https://t.co/c0U4uQsYJe"
+198,633021213384773632,Sun Aug 16 21:03:12 +0000 2015,5,2,Just published the 2nd part of my modern #AngularJS series: http://t.co/bPqRjlv1Ek #es6 #javascript #babeljs #jspm

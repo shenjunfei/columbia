@@ -1,0 +1,211 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668936919720574980,Mon Nov 23 23:39:24 +0000 2015,0,0,@wagenet @rwjblue @trek call it amber.js
+1,668914074818895872,Mon Nov 23 22:08:37 +0000 2015,0,0,@stefanpenner can you follow me? Want to DM you something.
+2,668905949021753346,Mon Nov 23 21:36:20 +0000 2015,0,0,@stefanpenner what email is best for you?
+3,668905915857420288,Mon Nov 23 21:36:12 +0000 2015,0,0,@stefanpenner I unfort can't screen share but if you send me instructions I can.
+4,665779509518561280,Sun Nov 15 06:32:59 +0000 2015,0,0,"@rwjblue What's this ""new glimmer version"" in the core notes and PRs all about?"
+5,665583864044199936,Sat Nov 14 17:35:33 +0000 2015,0,0,@stefanpenner how come there aren't any updates on the ember blog about ember-cli? I'd have thought the latest release would be news worthy
+6,665257519015706624,Fri Nov 13 19:58:47 +0000 2015,0,0,@stefanpenner @nathanhammond @kiwiupover you should also be batching on the server for updates not just on the client.
+7,665001563765743616,Fri Nov 13 03:01:42 +0000 2015,0,1,@InfluxDB is there a version of telegraf 0.2.0 for windows?
+8,664990344874995716,Fri Nov 13 02:17:07 +0000 2015,0,1,@jbrukh I felt it coincides with correspondingly rising property prices.
+9,664907661780062208,Thu Nov 12 20:48:34 +0000 2015,0,0,@stefanpenner I am excite.
+10,664901448753352708,Thu Nov 12 20:23:53 +0000 2015,0,1,@stefanpenner this is at work :(
+11,664884250290823168,Thu Nov 12 19:15:32 +0000 2015,0,0,@stefanpenner 8 second cold and rebuild times on a new ember app on Windows. Any suggestions? Running as admin :( I suspect virus scanner.
+12,664272750039683072,Wed Nov 11 02:45:39 +0000 2015,0,0,@mr_manoonan @OctopusDeploy Done! just upgraded to 3.2.1 today from 2.6. Pretty painless except for some agents that were still 2.0!
+13,664264353986777088,Wed Nov 11 02:12:18 +0000 2015,0,0,@OctopusDeploy is it possible to scope team permissions to a project group?
+14,663811629205889024,Mon Nov 09 20:13:20 +0000 2015,0,0,@johnsheehan congratulations on your 10th user!
+15,663712744974262272,Mon Nov 09 13:40:24 +0000 2015,1,0,@danbarua daily sprints. Hourly standups. Now that's agile.
+16,663384656918654977,Sun Nov 08 15:56:41 +0000 2015,0,0,"@stefanpenner ""I reported the bug so it's your duty to fix it"""
+17,662260093946306560,Thu Nov 05 13:28:05 +0000 2015,0,0,@chrismckee not in the ref log? That thing saves lives.
+18,659525777524924416,Thu Oct 29 00:22:53 +0000 2015,0,0,@stefanpenner will do.
+19,659525504299606016,Thu Oct 29 00:21:48 +0000 2015,0,0,@stefanpenner 7.5s on a clean app with admin shell and an SSD. going to work with them to find a solution =(
+20,659525379758137344,Thu Oct 29 00:21:18 +0000 2015,0,0,@stefanpenner turns out nothing can help performance on my work machine what with our ridiculous anti virus running =(
+21,659411756687691776,Wed Oct 28 16:49:48 +0000 2015,0,0,@stefanpenner what's the best way to try with ember-cli?
+22,656182664249147393,Mon Oct 19 18:58:33 +0000 2015,0,0,@thomasABoyt the only one I'll miss is glasslands.
+23,651374367415341056,Tue Oct 06 12:32:05 +0000 2015,0,0,@danbarua yo dawg I heard you like exceptions.
+24,648468091404460032,Mon Sep 28 12:03:35 +0000 2015,0,0,@jbrukh revolution
+25,647523703610322948,Fri Sep 25 21:30:56 +0000 2015,0,0,@jbrukh Pope wins by knockout
+26,638759359951032320,Tue Sep 01 17:04:33 +0000 2015,0,0,@jen20 @darrencauthon @roysvork @stack72 I think that's how our ram drives worked :)
+27,638758825995202560,Tue Sep 01 17:02:26 +0000 2015,0,0,@darrencauthon @jen20 @roysvork @stack72 we were running single node with journal and write concerns so that was ok.
+28,638756138503307265,Tue Sep 01 16:51:45 +0000 2015,0,0,@darrencauthon @jen20 @roysvork @stack72 my biggest headache was maintenance. Maybe better now. Eg not reclaiming space on deletes etc...
+29,633618503241760768,Tue Aug 18 12:36:37 +0000 2015,0,0,@MissObdurate @trek the spoof is out there.
+30,633456950500589570,Tue Aug 18 01:54:40 +0000 2015,0,0,"@_mmun is there an easy way to view the dummy app in an ember addon, e.g. ember-collections?"
+31,632331126477090816,Fri Aug 14 23:21:03 +0000 2015,0,0,@_mmun once it's an addon I will give it a whirl and post a full trip report
+32,632330237452386304,Fri Aug 14 23:17:31 +0000 2015,0,0,@_mmun so there's no list view for 1.13 at all?
+33,632329125936689152,Fri Aug 14 23:13:06 +0000 2015,0,1,My favourite thing about selfie sticks is how they let the average tourist take up double the sidewalk.
+34,632324921721528320,Fri Aug 14 22:56:24 +0000 2015,0,0,@_mmun cool. Once it has been pushed as an addon I can gift wrap it and use to upgrade to 1.13 :)))
+35,632205016502243328,Fri Aug 14 14:59:56 +0000 2015,0,0,@_mmun is the plan for ember-collections to be a diff addon than ember-list-view?
+36,631810846126153728,Thu Aug 13 12:53:38 +0000 2015,0,0,Public transport rush hour group hug.
+37,631249818808111105,Tue Aug 11 23:44:19 +0000 2015,0,0,"@stefanpenner maybe i'll put together an example, will let you know."
+38,631247084121903104,Tue Aug 11 23:33:27 +0000 2015,0,0,"@stefanpenner data streams via ws, summary information updates, but doing it for each update is too costly, so you have to batch changes"
+39,631237227947798528,Tue Aug 11 22:54:17 +0000 2015,0,0,"@stefanpenner e.g. updating costly statistics when underlying data changes, say only do it after no changes for a few seconds."
+40,631237090378842112,Tue Aug 11 22:53:44 +0000 2015,0,0,"@stefanpenner i watched talk on observers, what do you do when you have a costly operation based on _something_ happening."
+41,631206290396696576,Tue Aug 11 20:51:21 +0000 2015,0,0,@tenderlove I have a dozen JavaScript frameworks I'm trying to get rid of you're welcome to take them.
+42,631201811626639362,Tue Aug 11 20:33:33 +0000 2015,15,0,"RT @chriseppstein: I’m trying to understand whether legal notices affect OSS contributions. Please answer these 3 short Qs and RT.
+
+http://…"
+43,631137022296621057,Tue Aug 11 16:16:06 +0000 2015,0,1,@stefanpenner @rwjblue I hope neither of you take the bus or play the lottery.
+44,630877979393064960,Mon Aug 10 23:06:46 +0000 2015,0,0,@TheDoriGray you have to buy it now sorry
+45,630875056575512577,Mon Aug 10 22:55:09 +0000 2015,0,0,@thomasABoyt @stefanpenner it's now 80% cowbell
+46,630874779965353985,Mon Aug 10 22:54:03 +0000 2015,0,0,@stefanpenner try using hype machine. I find it very good for that.
+47,630874434606383104,Mon Aug 10 22:52:40 +0000 2015,0,0,@trek @GFunk911 @robdel12 maybe it's fear that if you don't upgrade you stagnate and wake up one day and your app is written in cobol.
+48,630873664603488256,Mon Aug 10 22:49:37 +0000 2015,0,0,@stefanpenner you could always measure how complex your app was by size of routes.js and how many levels of indenting.
+49,630872928125648897,Mon Aug 10 22:46:41 +0000 2015,0,1,"@stefanpenner the old ""put all your app logic in one file"" days."
+50,630872615629004800,Mon Aug 10 22:45:27 +0000 2015,0,0,"@trek sometimes easier to always be ""upgrading"" than actually, you know, doing work."
+51,630795378695274497,Mon Aug 10 17:38:32 +0000 2015,2605,0,"RT @_tessr: how to remember tar flags 🎏
+
+tar -xzf 👈 eXtract Ze Files!
+tar -czf 👈 Compress Ze Files!"
+52,630376824904785920,Sun Aug 09 13:55:21 +0000 2015,0,0,"@EmberSherpa not super big, we're going to start a new project and slowly migrate pages over. we have the luxury of being able to do that."
+53,630109226803855360,Sat Aug 08 20:12:01 +0000 2015,0,1,@patio11 @steveklabnik Goldman doesn't have free lunches. Also you're not allowed to leave the office. Ever.
+54,630108553836134400,Sat Aug 08 20:09:20 +0000 2015,0,1,"@stefanpenner ""computers are just broken"" is the mantra of software developers."
+55,630107635082248192,Sat Aug 08 20:05:41 +0000 2015,1,1,@stefanpenner I just ordered my whole team new computer machines just for the SSDs. We are planning ember-cli migration.
+56,630106622212370432,Sat Aug 08 20:01:40 +0000 2015,0,0,@stefanpenner windows ergonomics = buy ssd 😑
+57,630047980872183808,Sat Aug 08 16:08:39 +0000 2015,4108,0,"RT @MinitelResearch: looking at copy of Amiga World from 1988, learning about ""going online"", and there is a guy, literally, ""#tweeting"" ht…"
+58,629674889524477952,Fri Aug 07 15:26:07 +0000 2015,0,0,@jbrukh does that mean you're rich now?
+59,629634581579341824,Fri Aug 07 12:45:56 +0000 2015,0,0,@OctopusDeploy does running multiple instances of octopus require multiple licenses?
+60,629628200251994112,Fri Aug 07 12:20:35 +0000 2015,0,1,@jbrukh what does that even _mean_
+61,628900650504593408,Wed Aug 05 12:09:34 +0000 2015,0,1,@jbrukh couple if statements here couple of loops there job done
+62,628552067129475077,Tue Aug 04 13:04:25 +0000 2015,0,0,@jennschiffer insert coin to continue
+63,627521158267695104,Sat Aug 01 16:47:57 +0000 2015,0,0,@raganwald that should be all the compile errors too. Also don't give them line numbers.
+64,627101210093461504,Fri Jul 31 12:59:14 +0000 2015,0,0,@machty @bcardarella secretly my code is full race conditions pls don't tell anyone
+65,627100950243733504,Fri Jul 31 12:58:12 +0000 2015,0,0,@machty @bcardarella I just avoid threading and mutable shared state as long as I can.
+66,627097836589568000,Fri Jul 31 12:45:49 +0000 2015,0,0,@bcardarella also not that fast
+67,626933827865309184,Fri Jul 31 01:54:07 +0000 2015,29661,0,"RT @clintasha: rt if you'd watch the black widow movie, im trying to prove a point to @marvel http://t.co/oK1dB9TwQt"
+68,626539142717923328,Wed Jul 29 23:45:46 +0000 2015,0,0,I keep a todo list just so I can look back at what I've done today and think I didn't waste _all_ my time.
+69,626483536187523074,Wed Jul 29 20:04:49 +0000 2015,0,0,@stevestreeting @Wario64 productivity up a billion percent.
+70,626344220094267392,Wed Jul 29 10:51:13 +0000 2015,0,1,@gregyoung @chrismckee @mikehadlow weird because it's basically the same job no?
+71,626056726425563137,Tue Jul 28 15:48:49 +0000 2015,0,1,@jbrukh you're such a Luddite
+72,626056533948932096,Tue Jul 28 15:48:03 +0000 2015,0,0,@aphyr sounds like a trap.
+73,625849953622065152,Tue Jul 28 02:07:11 +0000 2015,3319,0,"RT @TedMielczarek: THE YEAR IS 2025. JAVASCRIPT FRAMEWORKS OUTNUMBER HUMANS. SENTIENT TODO WEBAPPS SCOUR THE EARTH, HUNTING THE REMNANTS OF…"
+74,625833708927483904,Tue Jul 28 01:02:38 +0000 2015,0,0,"@DamianM @OctopusDeploy new website looks great, can't wait to upgrade to 3.0."
+75,625833505642127360,Tue Jul 28 01:01:49 +0000 2015,0,0,@OctopusDeploy Need to update those screenshots :D
+76,625785162362716165,Mon Jul 27 21:49:43 +0000 2015,0,0,@tomharman congrats on new btw :)
+77,625784849408872448,Mon Jul 27 21:48:29 +0000 2015,0,0,@tomharman you won't believe these 4 things he evaluated!
+78,624667473602854912,Fri Jul 24 19:48:26 +0000 2015,0,1,@SwiftOnSecurity also kills ants.
+79,624561579095379969,Fri Jul 24 12:47:38 +0000 2015,0,0,@mountain_ghosts also I imagine it was coined by a frustrated security consultant sick of seeing another client using md5 for passwords
+80,624560888817799168,Fri Jul 24 12:44:54 +0000 2015,0,0,@mountain_ghosts like go in there if you know what you're doing and prepared for consequences.
+81,624560607325519873,Fri Jul 24 12:43:47 +0000 2015,0,0,@mountain_ghosts its a huge domain and fraught with danger. I've taken that advice like warning sign before entering an abandoned mine
+82,624031128194781184,Thu Jul 23 01:39:49 +0000 2015,0,0,"@kunikos as in ""public string Foo(int i) =&gt; $""hello {i}"""
+83,624007727363325952,Thu Jul 23 00:06:50 +0000 2015,0,0,"@kunikos how do you feel about lambda style methods, they have been very divisive in my team."
+84,624006937110294528,Thu Jul 23 00:03:41 +0000 2015,0,0,@demisbellot we have very little use of null in our code base but I can imagine that would make a huge difference.
+85,624006640019341312,Thu Jul 23 00:02:31 +0000 2015,0,0,@kunikos @demisbellot im still bummed primary ctors didn't make it.
+86,624006528597671936,Thu Jul 23 00:02:04 +0000 2015,0,0,@kunikos @demisbellot not so much a reduction in the number of lines of code though. Certainly improvements though!
+87,624004072065134592,Wed Jul 22 23:52:18 +0000 2015,0,0,@demisbellot get only props and prop initialisers have been the biggest for me so far.
+88,624003965156478976,Wed Jul 22 23:51:53 +0000 2015,0,0,@demisbellot depends on existing coding conventions I suppose.
+89,624003201830912004,Wed Jul 22 23:48:51 +0000 2015,0,0,@demisbellot there's not as much line saving as you would imagine.
+90,623830814694969344,Wed Jul 22 12:23:51 +0000 2015,1,0,@stevestreeting this was why my iPhone stopped charging. Lint obstruction is a real social problem.
+91,623830127839985664,Wed Jul 22 12:21:07 +0000 2015,0,1,@mikehadlow default should have been caps comic sans
+92,623829809647472640,Wed Jul 22 12:19:51 +0000 2015,70,0,"RT @iwasleeg: The next version of Apple's watch tells you not only when to stand, but which way to turn to face Cupertino."
+93,623334331482816512,Tue Jul 21 03:31:00 +0000 2015,0,0,@PhatBoyG async/await was available in 2013 though.
+94,623280015493492736,Mon Jul 20 23:55:10 +0000 2015,0,0,@bcardarella ah I see. I suppose problem is even with lib docs those aren't surfaced unless you wrap and document supported api.
+95,623276088567963648,Mon Jul 20 23:39:34 +0000 2015,0,0,@bcardarella on a serious note. They are better than they were. Many times easier to just read the src.
+96,623275953519767553,Mon Jul 20 23:39:01 +0000 2015,0,0,@bcardarella PR pls :trollface:
+97,623114018744594432,Mon Jul 20 12:55:33 +0000 2015,0,0,@danbarua the dream
+98,622987193682915328,Mon Jul 20 04:31:36 +0000 2015,0,1,@OctopusDeploy congratulations!
+99,622967019424645120,Mon Jul 20 03:11:26 +0000 2015,0,0,@stefanpenner look how close ember is to being under 450kb. http://t.co/aym9mqEo5r
+100,622798188261548032,Sun Jul 19 16:00:33 +0000 2015,1,2,@stefanpenner big data can't be contained.
+101,622526272636329984,Sat Jul 18 22:00:04 +0000 2015,0,0,@chriseppstein @chancancode everyone is different. I wish I had more time for OSS as it's a great way to level up and be part of a community
+102,622521475250159616,Sat Jul 18 21:41:00 +0000 2015,0,0,@chancancode @chriseppstein open source helps to scratch my own itch and if it helps benefit others that's great (that's just me though).
+103,622477208586727424,Sat Jul 18 18:45:06 +0000 2015,0,0,@chancancode a big difference is that open source is usually done to benefit yourself not others.
+104,622475001686532096,Sat Jul 18 18:36:20 +0000 2015,1,1,@chancancode what about a lawyer doing pro bono work.
+105,621885018353352704,Fri Jul 17 03:31:57 +0000 2015,1,1,"@mykola @steveklabnik @EmberNYC is full of nice people, and ember is also pretty great too!"
+106,621842243603832832,Fri Jul 17 00:41:58 +0000 2015,0,0,"@paulstovell congrats!
+="
+107,620303360294563841,Sun Jul 12 18:47:00 +0000 2015,0,0,"@bcardarella that's called ""enterprise""."
+108,619685662963441664,Sat Jul 11 01:52:29 +0000 2015,0,1,@steveklabnik yes
+109,618855501191872512,Wed Jul 08 18:53:43 +0000 2015,0,0,@jbogard merge everything then refactor!!
+110,618587709502803968,Wed Jul 08 01:09:37 +0000 2015,0,0,@stefanpenner these ones? https://t.co/vaHCmLAoFy
+111,618576345468157952,Wed Jul 08 00:24:28 +0000 2015,0,0,@MiguelCamba @rwjblue @stefanpenner @mixonic @rlivsey what are kebab actions?
+112,618475450692698112,Tue Jul 07 17:43:32 +0000 2015,0,0,@tomdale next stop cheese cake factory in the Irvine spectrum.
+113,617512541451894785,Sun Jul 05 01:57:17 +0000 2015,0,0,@SaraJChipps yup!
+114,617509940266205184,Sun Jul 05 01:46:57 +0000 2015,0,0,@SaraJChipps http://t.co/3M7L8QIQDw
+115,617509488569008128,Sun Jul 05 01:45:09 +0000 2015,0,1,@SaraJChipps you must be in the apartment next to me!
+116,616303035153690626,Wed Jul 01 17:51:08 +0000 2015,0,0,@SoVeryBritish kenalog worked for me. One shot and you're good all year.
+117,614650333378256896,Sat Jun 27 04:23:53 +0000 2015,0,0,@krisselden will the list-view 2.0 branch be compatible with ember 1.13? or will it require an upgrade to ember 2.0 first.
+118,612998356370096132,Mon Jun 22 14:59:31 +0000 2015,0,0,@mroach I'll keep an eye out for them.
+119,612954311765721088,Mon Jun 22 12:04:30 +0000 2015,0,0,@mroach I got some for my Swedish coworkers.
+120,612944553222512640,Mon Jun 22 11:25:44 +0000 2015,0,0,@mroach are these any good? http://t.co/mSfXVO3BEE
+121,612707839283490816,Sun Jun 21 19:45:07 +0000 2015,659,0,RT @allisonkilkenny: I'm so mad. who did this http://t.co/5Es13s8Gfx
+122,612350171482058753,Sat Jun 20 20:03:52 +0000 2015,0,0,@ebryn just put all your data in mongo problem solved.
+123,611630258165563392,Thu Jun 18 20:23:11 +0000 2015,0,0,@trek I didn't make it passed the bit with the talking snake.
+124,611629686544838659,Thu Jun 18 20:20:55 +0000 2015,0,0,"@trek but those are hard questions, the other ones I can just get from an old book that gives me my opinions."
+125,611623028984782848,Thu Jun 18 19:54:28 +0000 2015,0,1,@SorchaRichardsn sweet!
+126,611622499038724097,Thu Jun 18 19:52:21 +0000 2015,0,0,@SorchaRichardsn are you still playing at rockwood tomorrow? If so what time do you go on?
+127,611558142363717633,Thu Jun 18 15:36:37 +0000 2015,0,0,@jbrukh how agile.
+128,611356021508976640,Thu Jun 18 02:13:28 +0000 2015,0,1,"@raganwald question, what do you like more javascript or coffee?"
+129,610436953725628416,Mon Jun 15 13:21:25 +0000 2015,0,0,"@onemedical your website isn't working, says the domain has expired."
+130,609025130069684224,Thu Jun 11 15:51:20 +0000 2015,0,0,@jbrukh can you ever know yourself?
+131,606610616535646208,Thu Jun 04 23:56:55 +0000 2015,0,0,@jbrukh @Kanja right now you know the whole roadmap. Remember when you worked for big corp and it was a mystery?
+132,606610427926179840,Thu Jun 04 23:56:10 +0000 2015,0,0,@jbrukh @Kanja that would not surprise me in the slightest.
+133,606602605431824384,Thu Jun 04 23:25:05 +0000 2015,0,0,@jbrukh @Kanja communication gets harder as organisations grow. I think that's a factor.
+134,604333970076102656,Fri May 29 17:10:21 +0000 2015,0,0,@tenderlove uncanny
+135,604298735645036545,Fri May 29 14:50:20 +0000 2015,0,0,@mroach no. But I like pointing out people's typos.
+136,604298144688574464,Fri May 29 14:47:59 +0000 2015,0,0,@mroach you're welcome
+137,604292194212663296,Fri May 29 14:24:20 +0000 2015,0,1,@tomharman best time to go to the dentist is at two thirty.
+138,603609173411110916,Wed May 27 17:10:16 +0000 2015,0,0,@jbrukh i don't know a huge amount about this stuff but I do know some big words.
+139,603609105324998657,Wed May 27 17:09:59 +0000 2015,0,0,@jbrukh I would think cryptographical identity suffers from centralization problems but that's true of anything requiring authority right?
+140,603608794959077376,Wed May 27 17:08:45 +0000 2015,0,0,@jbrukh and isn't identity handled by the usual cryptographic process of signing things with keys?
+141,603608525294673920,Wed May 27 17:07:41 +0000 2015,0,0,@jbrukh I see decentralization as orthogonal to this problem.
+142,603601722863394816,Wed May 27 16:40:39 +0000 2015,0,1,@jbrukh http://t.co/fHvEdMDtAg
+143,603598346431942656,Wed May 27 16:27:14 +0000 2015,0,0,@jbrukh what's CA??
+144,602912577346248705,Mon May 25 19:02:14 +0000 2015,0,0,@jbogard FYI link to jsonapi is incorrect in https://t.co/XbwHE3CIWH
+145,602494550964367360,Sun May 24 15:21:09 +0000 2015,0,0,@British_Airways wife and I booked flights to NYC on different tickets but given seats next to each other? On purpose or coincidence?
+146,599754903016349696,Sun May 17 01:54:46 +0000 2015,0,1,@ChrisMissal that's a pretty tall order
+147,599348090974371840,Fri May 15 22:58:14 +0000 2015,0,1,@ebryn btw surprised ember model has lasted as long as it has for us. Testament to good library design.
+148,599347287878475777,Fri May 15 22:55:03 +0000 2015,0,0,"@ebryn likely our fault, trying to preload store in initialisers which isn't the right place. Will investigate more."
+149,599345596453912576,Fri May 15 22:48:20 +0000 2015,0,0,@leohopes good. On my way to London rt now. Heading to jfk!
+150,599345458230624256,Fri May 15 22:47:47 +0000 2015,0,0,@ebryn I saw one that said you can't add computed properties while calling create. We are doing some weird things though. So probably us.
+151,599344648260292608,Fri May 15 22:44:34 +0000 2015,0,0,Does anyone have any tips for migrating to ember-data from ember-model? #EmberJS
+152,599344493834477569,Fri May 15 22:43:57 +0000 2015,0,0,@ebryn do you know anyone using ember-model on 1.12 yet? We are seeing some weirdness.
+153,598121025012891648,Tue May 12 13:42:19 +0000 2015,0,0,@raganwald her life story is quite interesting worth a read.
+154,598118392189624320,Tue May 12 13:31:51 +0000 2015,0,0,@raganwald she definitely ate quiche.
+155,598117800050335746,Tue May 12 13:29:30 +0000 2015,0,0,@raganwald I was expecting: http://t.co/VsQ46AV4PG
+156,597976750853861376,Tue May 12 04:09:01 +0000 2015,1,3,@Zibettoespresso here's one from last year. http://t.co/1l6PnWrOrC
+157,597937285619949568,Tue May 12 01:32:12 +0000 2015,0,0,@Zibettoespresso who runs your Twitter?
+158,597190017665077249,Sun May 10 00:02:50 +0000 2015,0,0,@homakov which neighborhood are you staying in while you're here?
+159,597187101491372032,Sat May 09 23:51:14 +0000 2015,0,1,@homakov your nearest good coffee: 'zibetto' https://t.co/DSAQo4a7yx
+160,596690521214623744,Fri May 08 14:58:00 +0000 2015,0,0,@nirvdrum @bcardarella there was also a time when client libraries were closed source and/or not available for your platform.
+161,596288685093584896,Thu May 07 12:21:15 +0000 2015,0,0,@mountain_ghosts so you're saying he's not a lizard?
+162,593966174410547200,Fri May 01 02:32:25 +0000 2015,0,1,@jbrukh oh shit I need these three things. Or this one thing and the visitor pattern. Or this one thing. Or nothing.
+163,592817328867409921,Mon Apr 27 22:27:19 +0000 2015,0,0,@jbrukh I demand chipotle dressing and extra bread.
+164,591582891873796096,Fri Apr 24 12:42:07 +0000 2015,0,0,@ThreesGame missed my subway stop again. All your fault.
+165,591023577727684608,Wed Apr 22 23:39:36 +0000 2015,0,1,@JamesNK I like emberjs personally. Try them all!
+166,589850505163177984,Sun Apr 19 17:58:13 +0000 2015,0,0,@bcardarella I'm a rails batman vs. superman.
+167,589538186705133568,Sat Apr 18 21:17:11 +0000 2015,8,0,RT @EmberSherpa: Post: Refactoring Away From arrayComputed by @dagda1 http://t.co/GyPBTPLk4L #EmberJS
+168,589476563269324800,Sat Apr 18 17:12:19 +0000 2015,0,0,@EmberSherpa WPF is a way to build windows gui apps. it has similar concepts to ember.
+169,589456594791964672,Sat Apr 18 15:52:58 +0000 2015,0,0,@lukemelia @EmberSherpa @krisselden action/event routing too.
+170,589456347160256512,Sat Apr 18 15:51:59 +0000 2015,0,0,@lukemelia @EmberSherpa @krisselden I just hope ember never ends up with attached or dependency properties.
+171,589456115114627073,Sat Apr 18 15:51:04 +0000 2015,0,0,@lukemelia @EmberSherpa @krisselden I've found devs with wpf grok ember really quickly. Not a coincidence imo.
+172,589455333938040833,Sat Apr 18 15:47:57 +0000 2015,0,0,@EmberSherpa @lukemelia wpf was your past life right?
+173,589454955418886144,Sat Apr 18 15:46:27 +0000 2015,0,1,@EmberSherpa wpf experience
+174,589151815838654465,Fri Apr 17 19:41:53 +0000 2015,0,0,@robconery it's a series of pipes.
+175,588123230386450432,Tue Apr 14 23:34:39 +0000 2015,1102,0,"RT @MittenDAmour: One for the money
+Two for the show
+Three to get ready
+Four for marketing
+Five for customer services
+Six to hear these opt…"
+176,587670301061832704,Mon Apr 13 17:34:52 +0000 2015,1,0,"RT @jbrukh: There are two kinds of people, those who generalize and those who qualify concepts in order to understand them. (As you see, I …"
+177,586665518909652992,Fri Apr 10 23:02:14 +0000 2015,0,0,@darrencauthon Windsor
+178,586655955405897730,Fri Apr 10 22:24:13 +0000 2015,0,1,@stefanpenner I wish we hadn't chosen coffeescript and even though ember-model was the right choice at the time now it's hurting.
+179,586655805862244352,Fri Apr 10 22:23:38 +0000 2015,0,1,@stefanpenner we will hopefully be on ember-cli by then.
+180,586653923634712576,Fri Apr 10 22:16:09 +0000 2015,0,0,@stefanpenner we have to. It's just quite a daunting task for us.
+181,586645423797960704,Fri Apr 10 21:42:23 +0000 2015,0,0,@stefanpenner we aren't on ember-cli yet :(( upgrading to 1.11.1 first. Will make a GH issue.
+182,586636017232384000,Fri Apr 10 21:05:00 +0000 2015,0,0,@stefanpenner trying to get the latest build of list-view. The development link on GitHub is broken :(
+183,586001907782656000,Thu Apr 09 03:05:16 +0000 2015,0,0,@kellabyte @SaraJChipps you'd be angry too if your wifi and graphics drivers never worked.
+184,585838519337295872,Wed Apr 08 16:16:02 +0000 2015,0,1,@Jiaaro @SwiftOnSecurity also it can't be melted by jet fuel.
+185,585577180161277952,Tue Apr 07 22:57:33 +0000 2015,0,0,@shanley I'm reading the Alan Turing biography. It's good.
+186,584537846666657792,Sun Apr 05 02:07:37 +0000 2015,1661,0,RT @richiepope: One of the hottest takes on the language of racism I've ever read. http://t.co/jmGNtNpYik
+187,584408355382419456,Sat Apr 04 17:33:04 +0000 2015,0,1,@jbrukh generics. You know what I mean!!!
+188,584408307936468993,Sat Apr 04 17:32:53 +0000 2015,0,1,@jbrukh even if it means copy and pasting code because there's no genetics #trollface.
+189,584174384979533824,Sat Apr 04 02:03:21 +0000 2015,0,1,@EmilyJGreene jagshemash to you too borat.
+190,583685732830736385,Thu Apr 02 17:41:37 +0000 2015,0,0,@jennschiffer achievement unlocked.
+191,582948447105486848,Tue Mar 31 16:51:55 +0000 2015,0,0,@jmandia syntax takes a while to get used to. Might be better served by one of the f# bdd libs.
+192,582896166599266304,Tue Mar 31 13:24:10 +0000 2015,0,0,@jmandia mspec with machine fakes.
+193,582526412759961601,Mon Mar 30 12:54:54 +0000 2015,0,0,@stevestreeting sounds like being backdoored
+194,580761107788382208,Wed Mar 25 16:00:12 +0000 2015,0,0,@haacked @davidfowl did you hear about those new corduroy pillows? They're making headlines.
+195,580760998124077057,Wed Mar 25 15:59:46 +0000 2015,0,0,@haacked @davidfowl did you hear the story about the magic tractor? It turned into a farm.
+196,580692087538061312,Wed Mar 25 11:25:57 +0000 2015,0,0,@stevestreeting or bad execution.
+197,580458053931266048,Tue Mar 24 19:55:59 +0000 2015,0,1,@maxthevirgo @EmberNYC @AppNexus @emberjs congrats!!!
+198,580427135145418752,Tue Mar 24 17:53:07 +0000 2015,0,0,@ChrisMissal @jbogard Von Neumann Architecture

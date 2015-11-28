@@ -1,0 +1,49 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,223847821244252160,Fri Jul 13 18:34:14 +0000 2012,1,0,Testing: Huzzah! http://t.co/ZUEgPaYW added a new community resource! http://t.co/T7ub7Npb #tekc
+1,223847528376958976,Fri Jul 13 18:33:04 +0000 2012,0,0,Testing: Yeah! http://t.co/ZUEgPaYW added a new community resource! http://t.co/8QSI16R3 #tekc
+2,222050217770491906,Sun Jul 08 19:31:12 +0000 2012,0,0,Testing: Huzzah! Microsoft added a new community resource! http://t.co/XAX8JzCt #tekc
+3,222010480825339904,Sun Jul 08 16:53:18 +0000 2012,0,0,Testing: Huzzah! Microsoft added a new community resource! http://t.co/DVPJvMQM #tekc
+4,221989886029336576,Sun Jul 08 15:31:27 +0000 2012,1,0,Testing: Yay! Company Microsoft added a new community resource! http://localhost:3000/launchpads/25 #tekc
+5,221817650341351424,Sun Jul 08 04:07:03 +0000 2012,0,0,"Testing tweets for http://t.co/manyUG5H, Company Microsoft added a new community resource! http://localhost:3000/launchpads/20 #tekc"
+6,221816706044149760,Sun Jul 08 04:03:18 +0000 2012,0,0,"Testing tweets for http://t.co/manyUG5H, Company Microsoft added a new community resource! /launchpads/19 #tekc"
+7,221813209877852160,Sun Jul 08 03:49:24 +0000 2012,0,0,"Testing tweets for http://t.co/manyUG5H, Company test added a new community resource!"
+8,221806711818825728,Sun Jul 08 03:23:35 +0000 2012,0,0,Testing automatic tweets for http://t.co/manyUG5H
+9,221801819196751873,Sun Jul 08 03:04:09 +0000 2012,0,0,Testing automatic tweets for http://t.co/oQGElPSW
+10,221801719284248576,Sun Jul 08 03:03:45 +0000 2012,0,0,test
+11,220914076468002816,Thu Jul 05 16:16:34 +0000 2012,0,0,Google reporting there is still 60k computers infected with DNSChanger. Don't get caught with this on July 9th. http://t.co/xAZOFPq3
+12,214804359404470276,Mon Jun 18 19:38:44 +0000 2012,1,0,"RT @FormZapper: Free Trial Accounts, Cool PDF Templates, and Forms that do Math! - http://eepurl.com/mSv8X"
+13,212000371336421377,Mon Jun 11 01:56:41 +0000 2012,0,0,Great weekly event - Kauffman Labs - A Million Cups - http://t.co/0JU94Zah
+14,210807054774972416,Thu Jun 07 18:54:53 +0000 2012,0,0,"Last.fm warns users to change their passwords http://t.co/BK2gYqFy , decent link from google about password security http://t.co/umxVJEZm"
+15,210535166798594048,Thu Jun 07 00:54:29 +0000 2012,0,0,"Large # of LinkedIn Passwords hacked, reset your password along with any other sites you share the same pwd with. http://t.co/VaojjG5F"
+16,210068345813340162,Tue Jun 05 17:59:31 +0000 2012,0,0,Watch out for some free FormZapper accounts next week! http://t.co/JkTcRaaM
+17,208608856413188097,Fri Jun 01 17:20:01 +0000 2012,0,0,Using MobileMe? check out this article before MobileMe goes dark! http://t.co/kneyMlwC
+18,197355334539542530,Tue May 01 16:02:33 +0000 2012,0,0,"wow, popular Firefox plugin ShowIP found leaking private information to third-party server! http://t.co/7n2C3Bcv"
+19,195635486163865600,Thu Apr 26 22:08:29 +0000 2012,0,0,Nice comparison of the cloud-storage competitors out there! http://t.co/2b3i8ZgM
+20,194845476540002305,Tue Apr 24 17:49:16 +0000 2012,0,0,"Another dropbox competitor, now from Google. http://t.co/47iJo48N"
+21,194539280545234946,Mon Apr 23 21:32:33 +0000 2012,0,0,"Seen Microsoft's cheaper dropbox solution? http://t.co/4gOKHZZN Pay by the year, full iOS, Mac, and Windows support"
+22,192348721659387905,Tue Apr 17 20:28:03 +0000 2012,4,0,Many know we create web applications for others. We have a new update on a web app of our own! - http://t.co/CkZYuMQS - http://t.co/JkThoKjW
+23,185377437985681414,Thu Mar 29 14:46:40 +0000 2012,1,0,http://t.co/O20HdPL9 Check out a local pediatrician's new blog! We just launched his site yesterday! @racb33 #kc
+24,177869181881032705,Thu Mar 08 21:31:32 +0000 2012,0,0,Apple releases a better configuration app to deploy multiple iOS devices in your organization. http://t.co/8dmwSoKH
+25,164050152255004672,Mon Jan 30 18:19:38 +0000 2012,0,0,"@davidvannoyjr Thanks! We are a full svc computer shop Different w/ free monitoring, discounted tech packages (backup,av,hosting,security)"
+26,162317941281529857,Wed Jan 25 23:36:27 +0000 2012,0,0,"Another PC Anywhere link, recommending to disable the software except for business critical purposes. http://t.co/4oMtW7cX"
+27,162310736855568384,Wed Jan 25 23:07:49 +0000 2012,3,0,Use PCAnywhere? Symantec suggests to disable it until they can release an update due to hacker theft of sourcecode. http://t.co/bToebPGC
+28,160608452983525378,Sat Jan 21 06:23:33 +0000 2012,0,0,"@emilyleldridge yes we are! We monitor, repair, and maintain remotely. Will save you $ and faster service"
+29,160044442047356928,Thu Jan 19 17:02:23 +0000 2012,0,0,Tips for choosing an online calendar... http://t.co/BhGHBZDf
+30,159664355993063424,Wed Jan 18 15:52:03 +0000 2012,0,0,Unlikely to be any technology news today that does not involve the SOPA blackout. #Google #Wikipedia #Reddit #Wired
+31,158970723300425728,Mon Jan 16 17:55:48 +0000 2012,0,0,Use Zappos? reset your pwd and reset anywhere else you use the same pwd. Read about Zappos being hacked -&gt; http://t.co/GfVq8pD0
+32,157173837228806145,Wed Jan 11 18:55:37 +0000 2012,0,0,Reddit going dark for a day to protest the upcoming Online Censorship Law  http://t.co/s1suaUVB
+33,156857249426444288,Tue Jan 10 21:57:37 +0000 2012,0,0,Turn all printers on your network into a wireless Airprinter! http://t.co/WVfsE7AD
+34,156753387650686976,Tue Jan 10 15:04:54 +0000 2012,0,0,@YourCitySampler Fabulous! How about you?
+35,156485127474647040,Mon Jan 09 21:18:56 +0000 2012,0,0,"@leanattorney Thanks, I saw that the other day. Pretty cool! Just signed up a local school on new student forms!"
+36,156116734946971648,Sun Jan 08 20:55:04 +0000 2012,1,0,RT @leanattorney: @SaberCo This is a few days old - http://t.co/32FluXML  See your name!
+37,155538324092764160,Sat Jan 07 06:36:40 +0000 2012,1,0,We hosted #Shoot-a-brew's website while they were on #JayLeno tonight. 60k web requests were made in the span of a minute All at commercial!
+38,155501073233215489,Sat Jan 07 04:08:39 +0000 2012,0,0,"#Shoot-a-brew A KC Firm, part of our startup network, will be featured on Jay Leno tonight! check out http://t.co/TawE0X6J"
+39,154991405142519808,Thu Jan 05 18:23:25 +0000 2012,0,0,News update from one of our software ventures! Easy Form Management - At the Grindstone http://t.co/JkThoKjW
+40,154771574686363650,Thu Jan 05 03:49:53 +0000 2012,0,0,Murdoch: The dangers of wishful tech thinking : http://t.co/l76JKZw5
+41,154594460452392962,Wed Jan 04 16:06:06 +0000 2012,0,0,Focusing on the computer user is more important than ever. http://t.co/Pgg53tgG
+42,154225552121790464,Tue Jan 03 15:40:11 +0000 2012,0,0,Is your wireless secure? Wireless routers with easy PIN setup are vulnerable to attack. http://t.co/IvmCkXrO
+43,153891916973473792,Mon Jan 02 17:34:26 +0000 2012,0,0,Happy New Year!  Hope 2012 brings you prosperity and happiness!
+44,152930534107000832,Sat Dec 31 01:54:15 +0000 2011,0,0,@QueenofPaws Thanks for the woof! Do you deliver or have a catalog?
+45,152819712525479936,Fri Dec 30 18:33:53 +0000 2011,0,0,Just under 100 FREE spots left on our computer monitoring service! Check out our service with priority help desk access http://t.co/2SlwyFcA
+46,152102637943263233,Wed Dec 28 19:04:29 +0000 2011,0,0,Tips and recommendations on a successful iPad initiative for your staff. http://t.co/5w34E363
+47,28518141051,Sat Oct 23 17:05:37 +0000 2010,0,0,Fall E-mail and Backup Special - http://kansascity.craigslist.org/cps/2021456944.html

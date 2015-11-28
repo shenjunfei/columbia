@@ -1,0 +1,67 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,636548006796480512,Wed Aug 26 14:37:25 +0000 2015,0,1,"@nmqanh @quangbuule new age, more repoes, more stars"
+1,625712615256264704,Mon Jul 27 17:01:27 +0000 2015,268,0,"RT @CompSciFact: 'Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.' -- Joh…"
+2,617354176993951744,Sat Jul 04 15:28:00 +0000 2015,8545,0,RT @HistoryInPics: I'm blown away by this woman. http://t.co/tLzx5G8zTh
+3,615347073441902600,Mon Jun 29 02:32:29 +0000 2015,33,0,RT @dan_abramov: Beautiful universal Redux example by @quangbuule with Immutable.js: https://t.co/J4H4UWmxOD http://t.co/z53dhNRDFp
+4,612872240334385152,Mon Jun 22 06:38:23 +0000 2015,19,0,RT @dustinsgoodman: @drunkdotjs Math.min() &gt; Math.max().... what?!??!?!? #WhyInfinityWhy
+5,610429761936994304,Mon Jun 15 12:52:51 +0000 2015,317,0,RT @wesbos: 🔥 You can now write gulpfiles in ES6/7 by naming it gulpfile.babel.js. Nice example: https://t.co/HtxY6Ofpi6 http://t.co/3Lwevc…
+6,603185569842135041,Tue May 26 13:07:01 +0000 2015,0,1,"@thangphamquang Ok, call me when you are free, my phone number: 0987750477"
+7,603178109437779968,Tue May 26 12:37:22 +0000 2015,0,1,"@thangphamquang I'm from HN too, where are you live now? I live in district 7."
+8,600314182165090305,Mon May 18 14:57:08 +0000 2015,20,0,"RT @HenrikJoreteg: ""...first refactor the program to make it easy to add the feature, then add the feature.""
+
+- Martin Fowler"
+9,598670772853346305,Thu May 14 02:06:49 +0000 2015,46,0,"RT @rob_dodson: If you work in engineering you should go read this article.
+
+http://t.co/XA49DogS50"
+10,598084533590695937,Tue May 12 11:17:19 +0000 2015,27,0,RT @anthonyshort: I wrote the story of how we built Deku as an alternative to React https://t.co/99ptlyYtXO
+11,597706687588401152,Mon May 11 10:15:53 +0000 2015,23,0,RT @dan_abramov: Learn from @rorykoehein how to record and replay bug reports using Flux: https://t.co/GROUW3IaW8 Demo: https://t.co/kfU1fA…
+12,597706607749779456,Mon May 11 10:15:34 +0000 2015,20,0,"RT @dan_abramov: React Router 1.0 will finally support record/replay. Just fire Flux actions, serialize them and replay them. https://t.co/…"
+13,596008654953795584,Wed May 06 17:48:31 +0000 2015,9,0,RT @dan_abramov: Reducey stores and time travel (?): https://t.co/2vqXJyxcKE @threepointone
+14,596007233739042817,Wed May 06 17:42:52 +0000 2015,9,0,RT @roman01la: Record and replay actions for the Flux Dispatcher https://t.co/xaOPkgTCmw #reactjs
+15,581413280238845952,Fri Mar 27 11:11:42 +0000 2015,18,0,RT @dan_abramov: Hint: you don't need to inherit React.Component if you don't use this.setState or this.forceUpdate. There's literally noth…
+16,581062302948069376,Thu Mar 26 11:57:03 +0000 2015,15,0,"RT @Sander_Spies: React Style 0.5.0 released with media query support.
+
+#reactjs"
+17,580769707713662978,Wed Mar 25 16:34:23 +0000 2015,0,0,Connect with me on Myspace. https://t.co/ujVGQg8Fi6
+18,573437388568932352,Thu Mar 05 10:58:22 +0000 2015,2,0,RT @dan_abramov: Using Babel in Mocha tests: http://t.co/YkpZerwEze
+19,573309276023742464,Thu Mar 05 02:29:17 +0000 2015,20,0,RT @sebastienlorber: Record @reactjs user session videos in JSON format !!! https://t.co/MqnadA1vGH thanks @swannodette for the initial ins…
+20,573309071568211970,Thu Mar 05 02:28:28 +0000 2015,36,0,"RT @_ianmcnally: I wrote about coming to @reactjs from @angularjs:
+
+http://t.co/NER8YhE3VF
+
+@StrideDev #javascript #reactjs #angularjs"
+21,573308855280525312,Thu Mar 05 02:27:37 +0000 2015,25,0,RT @sebastienlorber: #reactjs Immutability at work: undo/redo/replay in a production app: https://t.co/MqnadA1vGH
+22,572083252615241728,Sun Mar 01 17:17:30 +0000 2015,95,0,RT @simonsturmer: #ReactJS lifecycle chart: super helpful when learning advanced React concepts (like shouldComponentUpdate) http://t.co/g4…
+23,570597022681530368,Wed Feb 25 14:51:46 +0000 2015,48,0,"RT @standardista: Tutorials:
+Selectors http://t.co/rvE5GNcKYy
+Flexbox http://t.co/EiLkM9w73n
+Animation http://t.co/oNA0RVa8lh
+Gradients htt…"
+24,570596825754767361,Wed Feb 25 14:50:59 +0000 2015,15,0,"RT @sebslomski: react-stats, a javascript performance monitor written in @reactjs - https://t.co/8dIgjKywxU"
+25,568380740720726017,Thu Feb 19 12:05:03 +0000 2015,212,0,"RT @zenorocha: npm is taking over the web.
+
+The jQuery Plugin Registry is now in read-only mode and they recommend moving to npm ~ http://t…"
+26,568380026279698432,Thu Feb 19 12:02:12 +0000 2015,2,0,"RT @dan_abramov: Don't mix Flux with local state. It will invariably suck. If you want actions to be promises, you're doing it wrong."
+27,568375952259964928,Thu Feb 19 11:46:01 +0000 2015,11,0,RT @jergason: Really enjoyed https://t.co/lCpLmVPszG by @dan_abramov for it's comments on Flux as dogma vs Flux as a solution to technical …
+28,568375874493353984,Thu Feb 19 11:45:43 +0000 2015,3,0,RT @acdlite: @rickharrison @dan_abramov Flummox addresses server-side rendering by not using singletons (Disclaimer: I wrote it) https://t.…
+29,568374956280582144,Thu Feb 19 11:42:04 +0000 2015,24,0,"RT @bapjuseyo: React Canvas running as a fully native iOS app with Ejecta:
+https://t.co/1bFsZ2lStb
+
+/cc @floydophone @jordwalke"
+30,568374890232832000,Thu Feb 19 11:41:48 +0000 2015,4,0,"RT @dan_abramov: In case you missed it, yesterday I wrote about the real reasons for using Flux: https://t.co/YpaGToNlfF"
+31,567903651471101953,Wed Feb 18 04:29:16 +0000 2015,52,0,RT @geekgirlweb: Create the things you wish existed.
+32,488432115508191232,Sun Jul 13 21:17:45 +0000 2014,1561,0,RT @Squawka: Cracking photo of Mesut Özil and Lionel Messi battling for the ball. #GER #ARG http://t.co/sAAi3P2wFB
+33,484548987861471232,Thu Jul 03 04:07:35 +0000 2014,0,0,Beautiful song: http://t.co/GYAqVDnGe2
+34,481493872132890624,Tue Jun 24 17:47:39 +0000 2014,184,0,RT @PhantomGoal: Maradona has the Hand of God. Luis Suarez has the Teeth of God.
+35,465168112992538624,Sat May 10 16:34:55 +0000 2014,3,0,RT @AndroidMag_DE: Cheer Math Game http://t.co/VSDxgWyEoo
+36,465168021560913920,Sat May 10 16:34:33 +0000 2014,0,1,"@AndroidMag_DE Thanks, you can play here https://t.co/Hq2ir3SbWp"
+37,460285323293913088,Sun Apr 27 05:12:27 +0000 2014,0,0,Listen music from youtube endlessly. http://t.co/4PkvLMSiHy
+38,458922241074290688,Wed Apr 23 10:56:03 +0000 2014,0,0,@D3LTA_Y @TzutzialKamilio play android version here https://t.co/Hq2ir3SbWp :D
+39,458922098736365568,Wed Apr 23 10:55:29 +0000 2014,0,0,@D3LTA_Y Play android version here https://t.co/Hq2ir3SbWp
+40,458904580743393280,Wed Apr 23 09:45:52 +0000 2014,1,0,"If you have a truly big idea, the wrong technique won’t kill it. If you don’t have a big idea, the right technique won’t help you #marketing"
+41,457909255870238720,Sun Apr 20 15:50:48 +0000 2014,0,0,@D3LTA_Y @phienkaka @cheermathgame If better than me I think you are genius. Because I'm genius :)). Share score if you get high :D
+42,457908303536738304,Sun Apr 20 15:47:01 +0000 2014,0,1,@D3LTA_Y @cheermathgame @phienkaka What is your score? hehe. I think you can not good as me :v
+43,457901490468691968,Sun Apr 20 15:19:57 +0000 2014,0,0,"@D3LTA_Y @phienkaka @cheermathgame my best score is 75, hehe"
+44,457898075453800448,Sun Apr 20 15:06:23 +0000 2014,0,0,@D3LTA_Y @phienkaka @cheermathgame https://t.co/Hq2ir3SbWp You can play here
+45,457439020788613120,Sat Apr 19 08:42:16 +0000 2014,1,0,"RT @cheermathgame: Need a #game for #brain and #math.Play it with your #friends.Belive,you will fell stupid than a kid at @CheerMathGame ht…"
+46,448817936824664064,Wed Mar 26 13:45:09 +0000 2014,0,0,"You can lead a horse to the water but you can't make him drink...you can, however, make the water as sweet and refreshing as possible!"

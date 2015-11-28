@@ -1,0 +1,239 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668090260862189568,Sat Nov 21 15:35:05 +0000 2015,16,0,RT @Journal_IS: Our fall issue is here! https://t.co/GkyHFI2a20 feat. among others @fravel @Fiona_Cunning @sebastianrosato @DrDavidGill @eh…
+1,666682448537866240,Tue Nov 17 18:20:56 +0000 2015,3,0,RT @HarvardWCFIA: Political Science graduate students: Call for Papers | https://t.co/1p7DyMPYgr @ConnorDHuff @dustintingley
+2,666682409275023361,Tue Nov 17 18:20:47 +0000 2015,1,0,"RT @ConnorDHuff: Co-Organized with @cd_lucas, @shirokuriwaki, and Dominika Kruszewska!  https://t.co/bhrm6qgE7W"
+3,666660002770386946,Tue Nov 17 16:51:45 +0000 2015,7,0,RT @kinggary: New version of Coarsened Exact Matching (for causal inference) for SAS https://t.co/DJ7SwAWNFA
+4,666021359823290368,Sun Nov 15 22:34:00 +0000 2015,16,5,Apply to the Harvard Experimental PoliSci Grad Conf! Funding for travel! https://t.co/i0fEM3IOmN @shirokuriwaki @ConnorDHuff @dustintingley
+5,661295306177384448,Mon Nov 02 21:34:21 +0000 2015,1,0,RT @ConnorDHuff: New paper with @rjschub on the Inter-Temporal Tradeoff in Mobilizing Support for War. https://t.co/1HpXEljJNF
+6,659391375536975872,Wed Oct 28 15:28:49 +0000 2015,0,0,"English-language propaganda from @XHNews. Not quite schoolhouse rock. 
+
+https://t.co/epzFJp9uRL"
+7,659178497391382528,Wed Oct 28 01:22:55 +0000 2015,0,2,@ercowboy @ClaytonNall @briandavidearp @jblumenau That's the IARC report. I just want identification in 1 of 800 surveyed studies.
+8,659169229346840576,Wed Oct 28 00:46:05 +0000 2015,0,0,"Fair enough, but tons of unobserved confounders. I'm not discounting all the S.O.O. results, just surprised there are 0 quasi-experiments."
+9,659164446925922304,Wed Oct 28 00:27:05 +0000 2015,0,1,@jblumenau Same here. But it's hard to believe that the @WHO and @TheLancet would take such a confident stance without it though!
+10,659162559212298240,Wed Oct 28 00:19:35 +0000 2015,2,2,"Are there any estimates of the effect of meat on cancer risk that don't rely on selection on observables? If not, why so confident @WHO?"
+11,659014056418914304,Tue Oct 27 14:29:29 +0000 2015,15,0,RT @maya_sen: Now forthcoming in the American Political Science Review! -- w/@matt_blackwell https://t.co/rsvdTpqZVp
+12,653314802320846848,Sun Oct 11 21:02:41 +0000 2015,5,0,RT @raulpacheco: For quantitative political science I follow @AlbertsonB2 @sgadarian @RocioTitiunik @WilHMoo @cd_lucas @jkertzer #ScholarSu…
+13,648565428378316800,Mon Sep 28 18:30:22 +0000 2015,7,0,"RT @kinggary: CEM http://t.co/2LhBNEvKDV &amp; MatchingFrontier http://t.co/BgSnub8ZlA software now officially ""FDA Qualified"" for scientific u…"
+14,647493042413404160,Fri Sep 25 19:29:05 +0000 2015,0,2,@RyanDEnos This is amazing. Surely can be used as some sort of training data...
+15,646440097731244032,Tue Sep 22 21:45:04 +0000 2015,12,0,"RT @jkertzer: New in @Res_Pol from @ConnorDHuff and @dustintingley: Who are #MTurk users, anyway?  http://t.co/H9tfoYlrSU"
+16,646369613559803904,Tue Sep 22 17:04:59 +0000 2015,2,0,"RT @IQSS: Wednesday Applied Stats: Dean Knox &amp; @cd_lucas, ""A Model for Measuring Emotion in Political Speech w/Audio Data"" http://t.co/2rPW…"
+17,646026714536128512,Mon Sep 21 18:22:25 +0000 2015,2,0,RT @gov3009: 9/15 - 12pm - Dean Knox &amp; Chris Lucas (@cd_lucas)- A Model for Measuring Emotion in Political Speech with Audio Data http://t.…
+18,644985886388695041,Fri Sep 18 21:26:33 +0000 2015,0,2,Important paper from @amycatalinac w/ cool text analyses of Japanese election manifestos https://t.co/3hu808Ypv9
+19,644553262679650304,Thu Sep 17 16:47:27 +0000 2015,13,0,RT @mollyeroberts: intro to text analysis for comparative politics http://t.co/irFPYUzwVm @cd_lucas @dustintingley @b_m_stewart @alexstorer…
+20,644280624161755137,Wed Sep 16 22:44:05 +0000 2015,12,0,RT @dustintingley: My book available on Amazon today with @hvm1 #AmericanForeignPolicy #InternationalRelations http://t.co/OV3F2rCJfc http:…
+21,644280495291953152,Wed Sep 16 22:43:34 +0000 2015,0,1,@OUPAcademic post on article w Nielsen @mollyeroberts @b_m_stewart @alexstorer @dustintingley http://t.co/cSZ8kgYlGO http://t.co/XcI7223hhu
+22,636124335825096704,Tue Aug 25 10:33:54 +0000 2015,0,6,"Just added to my .emacs, automatically highlights contents of [], {}, ().
+
+(show-paren-mode t)
+(setq show-paren-style 'expression)
+
+#emacs"
+23,631283467049955328,Wed Aug 12 01:58:01 +0000 2015,2,0,RT @hughesthe1st: Real-world #rstats insights from video analytics with @IDOLOnDemand in #transcribeR at #HPBigData2015 w/ @cd_lucas http:/…
+24,628587926016888832,Tue Aug 04 15:26:54 +0000 2015,22,16,"W/ @dustintingley, new #rstats pkg transcribeR for speech recognition using @HP @IDOLOnDemand https://t.co/tTP5SXCakP http://t.co/hXPlmwr9M1"
+25,628555377655713792,Tue Aug 04 13:17:34 +0000 2015,3,0,RT @ConnorDHuff: Awesome new R package by @cd_lucas  https://t.co/YBdhzxTOUE
+26,628546204733939712,Tue Aug 04 12:41:07 +0000 2015,11,0,RT @sharon000: Turn audio into text with R pkg transcribeR &amp; HP IDOL API http://t.co/hF2DO3B2WQ #rstats by @cd_lucas h/t @hrbrmstr http://t…
+27,627851384776445952,Sun Aug 02 14:40:09 +0000 2015,5,0,RT @sbagen: This is a seriously moving feature -- Struggling for Gay Equality in the South - The New York Times http://t.co/bsk66Le2zm
+28,627521848675303425,Sat Aug 01 16:50:42 +0000 2015,3,0,RT @jkertzer: @RyanDEnos @cskovron @ConnorDHuff and @cd_lucas are also partaking in #CgisSaturday
+29,626424340528164864,Wed Jul 29 16:09:35 +0000 2015,12,7,Beautiful #dataviz of increasing polarization in the House by @urbanclio et al http://t.co/UUTn6ueJUG http://t.co/NdDbj4pChb
+30,624593456954867713,Fri Jul 24 14:54:19 +0000 2015,6,0,"RT @ConnorDHuff: New paper w Dominika Kruszewska on how the tactical choices of social movements affect public opinion:
+http://t.co/veXbMCv…"
+31,624216792940986368,Thu Jul 23 13:57:35 +0000 2015,2,5,"From @pamelamban, @fouirnaies, @andrewbhall, &amp; Snyder - a measure of political power from word frequencies http://t.co/SEGuDH5ME3 Very cool!"
+32,614816119719882753,Sat Jun 27 15:22:40 +0000 2015,4,0,"RT @raulpacheco: Computer-Assisted Text Analysis for Comparative Politics http://t.co/M42hOnS2hg by @cd_lucas Nielsen, Roberts, Stewart, St…"
+33,614449272310923264,Fri Jun 26 15:04:57 +0000 2015,504,0,RT @voxdotcom: One paragraph that explains why the Supreme Court ruled for same-sex marriage http://t.co/iguLwrrFsr http://t.co/y5WiVXhhIe
+34,611600158770511873,Thu Jun 18 18:23:35 +0000 2015,5559,0,"RT @jneuf: Accentuating the irrationality of the Charleston news, the paper puts an ad for a gun shop on the front page today. http://t.co/…"
+35,611361509546041344,Thu Jun 18 02:35:17 +0000 2015,2,0,RT @jkertzer: .@kinggary and @melissaleesands on the law and politics that human subjects training doesn't teach us:  http://t.co/ksgCXza9xV
+36,610520543096348673,Mon Jun 15 18:53:35 +0000 2015,27,0,"RT @thosjleeper: I wanted an interactive color chooser for #rstats, so I made one quick: https://t.co/uUgrOiPdpM #FiveMinuteRPackage http:/…"
+37,610107298300731393,Sun Jun 14 15:31:29 +0000 2015,3,0,RT @brian_jphillips: There Is No Such Thing as Bad Publicity: The Branding Boost From Becoming an Al Qaeda Affiliate. http://t.co/pCdHKW8waK
+38,608699057868034048,Wed Jun 10 18:15:39 +0000 2015,12,0,RT @thosjleeper: Beautiful example of #reproducibleresearch by @p_barbera @Jonathan_Nagler @JohnJost1 @j_a_tucker https://t.co/HZnZp0kVBz #…
+39,607315485147975681,Sat Jun 06 22:37:49 +0000 2015,0,3,"An amazing (and very sad) visualization of deaths during WWII from @neilhalloran. https://t.co/kLmehcOlQs
+
+#dataviz"
+40,606176005036908546,Wed Jun 03 19:09:56 +0000 2015,0,2,@vanmetermaid My brother went to UK - @EBeautifulPlace was his adviser. Hopefully we'll bump into each other at a conference!
+41,606168101160402944,Wed Jun 03 18:38:32 +0000 2015,0,1,@vanmetermaid I'm from Louisville! (but not a UofL fan) Woot for Kentuckians in political science.
+42,605380206837284865,Mon Jun 01 14:27:43 +0000 2015,33,0,"RT @thosjleeper: From @StatModeling: ""[researchers] expect novel discovery as a matter of routine"" http://t.co/bCtMIqUMlA http://t.co/fAEZZ…"
+43,603988592550088705,Thu May 28 18:17:56 +0000 2015,1,0,RT @cdsamii: Nice work by @alexinafrica and @bsmorse on violence &amp; altruism among Liberian hosts of CdI refugees http://t.co/D4m0aQ5Daj
+44,601580793950003201,Fri May 22 02:50:12 +0000 2015,67,0,"RT @kinggary: Don Green issues polisci's 1st retraction. Unfortunate for those involved,  but great for the discipline http://t.co/F6e6rNrv…"
+45,596759639896764417,Fri May 08 19:32:40 +0000 2015,4,0,RT @kinggary: Study: Social Security's in worse shape than you thought http://t.co/nkYOWg4pLU
+46,592699949571268610,Mon Apr 27 14:40:54 +0000 2015,0,2,@prisonrodeo @burtmonroe I had a great time! Thanks again for organizing!
+47,591299372022898688,Thu Apr 23 17:55:30 +0000 2015,14,0,"RT @polanalysis: New in PA Advance Access, ""The Statistics of Causal Inference"", by Luke Keele, http://t.co/tMNspvN50u"
+48,588510322656473088,Thu Apr 16 01:12:49 +0000 2015,14,0,RT @maya_sen: Amazing new paper by @IQSS's @jenjpan shows striking ideological divides in China http://t.co/7pnzQa4EsF  paper here http://t…
+49,587994858591236097,Tue Apr 14 15:04:33 +0000 2015,5,0,RT @polanalysis: Spring 2015 issue of PA is now available!  http://t.co/UqT8eLJb0P
+50,584792046591848448,Sun Apr 05 18:57:43 +0000 2015,2,0,RT @kinggary: Slides for Monday's #Gov2001 class (Matching for Causal Inference) posted at http://t.co/2Ve4HO85J0
+51,583615809471283200,Thu Apr 02 13:03:46 +0000 2015,2,0,"RT @jurpelai: .@nature publishes an important piece on #climatechange and #dragons
+http://t.co/yMEt0NQ4Zf"
+52,583338889575849985,Wed Apr 01 18:43:23 +0000 2015,2,0,"RT @maya_sen: Welcome, admitted students to Gov Dept &amp; @InequalityHKS PhD programs! Enjoy your visit, ask lots of questions, and come to @I…"
+53,583332051866251265,Wed Apr 01 18:16:13 +0000 2015,6,0,RT @kinggary: New version of CRAN - Package MatchingFrontier http://t.co/lsbqKqMSVi
+54,583289370632974336,Wed Apr 01 15:26:37 +0000 2015,1,2,"New version of MatchingFrontier and vignette (w/ @kinggary and Rich Nielsen) on CRAN. Comments welcome! #rstats 
+
+http://t.co/x82GxP38FK"
+55,582965050736021504,Tue Mar 31 17:57:53 +0000 2015,8,0,"RT @mollyeroberts: just finished stmBrowser new d3 viz for the structural topic model, feedback welcome! https://t.co/D83NVfq1y5 @mf_viz @d…"
+56,581650986587922432,Sat Mar 28 02:56:16 +0000 2015,2,0,RT @raulpacheco: Virtual Issue @polanalysis Innovative Methods in Online Research http://t.co/CSLvGRsIlu articles by @p_barbera @cd_lucas @…
+57,577541154935279616,Mon Mar 16 18:45:16 +0000 2015,23,0,"RT @kinggary: New paper, comments welcome: ""Why Propensity Scores Should Not Be Used for Matching"" http://t.co/R4fHXsHkRV"
+58,576061249982754816,Thu Mar 12 16:44:39 +0000 2015,2,0,RT @sgadarian: @RyanDEnos This interview makes me tired. I get up at 5:45 to work out. You are way more hardcore. http://t.co/rYBgKDmsQt
+59,574938770291687425,Mon Mar 09 14:24:19 +0000 2015,9,0,"RT @polanalysis: New PA virtual issue is available! Articles are available for free download for a limited time, http://t.co/Hf3kjf33mf"
+60,572892324155543553,Tue Mar 03 22:52:28 +0000 2015,0,1,New @polanalysis virtual issue: Innovative Methods in Online Research http://t.co/A7JFfoUfzc
+61,571779748264738816,Sat Feb 28 21:11:29 +0000 2015,5,0,"RT @kinggary: ""The Balance-Sample Size Frontier in Matching Methods for Causal Inference"" | new version http://t.co/XKlfQ4EnGN"
+62,571021173116563457,Thu Feb 26 18:57:11 +0000 2015,0,0,@leahstokes Of course! Glad we were able to catch up!
+63,570676687274426368,Wed Feb 25 20:08:19 +0000 2015,5,0,"RT @IQSS: Recent paper from IQSS affiliates @cd_lucas et al: ""Computer-Assisted Text Analysis for Comparative Politics"" http://t.co/e2A9ZfU…"
+64,567033948346519552,Sun Feb 15 18:53:22 +0000 2015,0,1,@tapandtrotter is #OpeninBOS
+65,563847970698067968,Fri Feb 06 23:53:26 +0000 2015,5,0,"RT @IQSS: From @cd_lucas &amp; several other IQSS affiliates ""Computer-Assisted Text Analysis for Comparative Politics"" http://t.co/WSdQ3ZA2SO"
+66,563757610986668032,Fri Feb 06 17:54:23 +0000 2015,14,0,"RT @kinggary: Looking forward to seeing everyone at Princeton Friday. My slides:""Simplifying Matching Methods for Causal Inference"" http://…"
+67,563390069244178432,Thu Feb 05 17:33:54 +0000 2015,10,8,"""Text Analysis for Comparative Politics"" @polanalysis (w/ Nielsen,@mollyeroberts,Stewart,@alexstorer,@dustintingley) http://t.co/3NRdoQN25G"
+68,562724036065894400,Tue Feb 03 21:27:19 +0000 2015,1,0,"RT @kinggary: Congratulations to Andy Hall, who we remember on this snowy day as he plans for his new Assistant Professor position at Stanf…"
+69,562724027647918081,Tue Feb 03 21:27:17 +0000 2015,4,0,"RT @kinggary: Congratulations to Brandon Stewart, the newest Assistant Professor in Princeton University's Sociology Department"
+70,562649343082389505,Tue Feb 03 16:30:31 +0000 2015,2,6,"""The Ties That Bind"" (w/ Volha Charnysh &amp; Prerna Singh) is the lead article in next month's issue of CPS http://t.co/VvvuZuQFwr"
+71,562646969630613504,Tue Feb 03 16:21:05 +0000 2015,1,0,RT @AndaleebR: @cd_lucas finds national identity leads to a greater transformation in the #behavior of low-status members in #India http://…
+72,559778093448323074,Mon Jan 26 18:21:12 +0000 2015,0,0,@JohnCluverius @UMassLowell Congrats! Welcome to New England!
+73,556211448415002624,Fri Jan 16 22:08:37 +0000 2015,0,0,Disturbing story of the arrest and imprisonment of a research assistant for Die Zeit http://t.co/Zu9YITcNQg @zeitonline #freemiao
+74,555437906178084864,Wed Jan 14 18:54:51 +0000 2015,0,0,@p_barbera Congrats! What a great job! And a great hire by @USCDornsife!
+75,555105540364595200,Tue Jan 13 20:54:08 +0000 2015,9,0,RT @matt_blackwell: Randomized trial of police body cameras shows large reductions in use of force and citizen complaints http://t.co/tKm97…
+76,552676749604298753,Wed Jan 07 04:03:00 +0000 2015,12,11,"Helpful discussion on theory, inference &amp; big data from @burtmonroe @jenjpan @mollyeroberts @maya_sen @BetsySinclair1 http://t.co/xfNzf2Qn8C"
+77,552125124766613504,Mon Jan 05 15:31:02 +0000 2015,12,0,RT @EduGlaze: This sums up the Econ meetings pretty well #ASSA2015 http://t.co/LNSZO18d4Q
+78,550862257077633024,Fri Jan 02 03:52:51 +0000 2015,1,3,"The “Wild West” of Academic Publishing: The troubled present and promising future of scholarly communication 
+http://t.co/kwGYGC6lAD"
+79,548523377405595649,Fri Dec 26 16:58:58 +0000 2014,3,2,"Topic Modelling for Short Text - ""initial results indicate that MM performs better on a short text corpus than LDA."" http://t.co/eQcxI6uwNB"
+80,545364237074198528,Wed Dec 17 23:45:41 +0000 2014,565,0,"RT @JamesFrancoTV: Nice op-Ed by Aaron Sorkin about the hackers and the press:
+http://t.co/2KFwLs7gw5"
+81,543128699428950017,Thu Dec 11 19:42:27 +0000 2014,3,1,"From @WIRED: ""Can an Algorithm Write a Better News Story Than a Human Reporter?"" http://t.co/5WI4X0p5xK"
+82,543051121594740736,Thu Dec 11 14:34:11 +0000 2014,18,0,RT @StatModeling: New post: The Fallacy of Placing Confidence in Confidence Intervals http://t.co/ePhmC5NxI2
+83,542395479154511872,Tue Dec 09 19:08:54 +0000 2014,1,2,"Really interesting series on tech in Boston from @Recode.
+
+http://t.co/G15A7Ku1fB"
+84,540995295279341568,Fri Dec 05 22:25:04 +0000 2014,1,1,"@rink_stats on 538: ""The 2014 Elections That Ended In A Tie""
+
+http://t.co/rtoJUSRREW"
+85,539424519350673408,Mon Dec 01 14:23:22 +0000 2014,0,0,"@CUP_PoliSci @ioanpetropoulos Great, thanks!"
+86,539128496610869248,Sun Nov 30 18:47:04 +0000 2014,1,1,"Tsur, Calacci, Lazer; Automatic Discovery of Partisan campaigns, Agenda Setting and Political Spin in Press releases http://t.co/x1UB42d2fp"
+87,538845613686026240,Sun Nov 30 00:03:00 +0000 2014,0,0,@CUP_PoliSci @PSRMJournal Link doesn't appear to be correct http://t.co/34EO0MDRPq
+88,537287322845212672,Tue Nov 25 16:50:54 +0000 2014,2,0,"""Tweeting Ferguson: how social media can (and cannot) facilitate protest"" from @j_a_tucker at @monkeycageblog http://t.co/LBH3uKDdGk"
+89,536893449115807745,Mon Nov 24 14:45:47 +0000 2014,83,0,RT @hadleywickham: rvest: easy web scraping with #rstats now on CRAN: http://t.co/nCjlAROUIq (this is my answer to beautiful soup)
+90,536658552547721216,Sun Nov 23 23:12:24 +0000 2014,0,0,"@Neuteufel Yup, especially for journals like APSR that explicitly require authors to make data and scripts available upon publication."
+91,536657738500440064,Sun Nov 23 23:09:10 +0000 2014,2,4,It is *still* disturbingly hard to find replication data for articles published in top political science journals.
+92,536549579496628226,Sun Nov 23 15:59:23 +0000 2014,3,0,RT @cdsamii: Superlative quote from Van Reybrouck's history of Congo http://t.co/jnG3YzjhY5
+93,536285110728138752,Sat Nov 22 22:28:28 +0000 2014,118,0,RT @nycsouthpaw: Low blow http://t.co/Da6UIsN8yM
+94,534357327437385728,Mon Nov 17 14:48:09 +0000 2014,7,0,"RT @maya_sen: Paper w/@PUPolitics's @owasow shows scholars how to use race in causal inference, now in press Ann Rev of Pol Science http://…"
+95,532225335773761536,Tue Nov 11 17:36:22 +0000 2014,0,0,"@raulpacheco @MPSAnet I know I've seen him somewhere before... :-) 
+
+Good catch!"
+96,532225146971750401,Tue Nov 11 17:35:38 +0000 2014,6,0,RT @MPSAnet: Considering a poster session for #MPSA2015? Deadline is 12/5! http://t.co/c6ZmsRbqq6 http://t.co/Z9m59lWTfw
+97,532225074200608768,Tue Nov 11 17:35:20 +0000 2014,0,2,@MPSAnet That fellow on the left looks familiar! :-)
+98,531658472111480832,Mon Nov 10 04:03:52 +0000 2014,1,0,"RT @stevenliaotw: ""The Most Detailed Maps You’ll See From the Midterm Senate Elections - http://t.co/v08cqUisBS"" http://t.co/Py464ycUNe"
+99,531121276535177218,Sat Nov 08 16:29:14 +0000 2014,4,0,"RT @kinggary: ""Racial &amp; Spatial Targeting: Segregation &amp; Subprime Lending"" another publication from terrific #Gov2001 students http://t.co/…"
+100,530366314817548288,Thu Nov 06 14:29:17 +0000 2014,1,1,@RyanDEnos Big hit. Congrats!
+101,530365677002309632,Thu Nov 06 14:26:45 +0000 2014,17,0,RT @RyanDEnos: Modern political campaigns have a fundamental problem according to my forthcoming paper with Eitan Hersh.  http://t.co/PmihN…
+102,527883982017658880,Thu Oct 30 18:05:23 +0000 2014,4,0,RT @ds_ldn: MatchingFrontier - an easy-to-use R Package for making optimal causal inferences from observational data #rstats http://t.co/gr…
+103,522410066855858176,Wed Oct 15 15:34:00 +0000 2014,2,2,"Harvard professors reading mean comments from student course evaluations. @sapinker @gregmankiwblog 
+
+https://t.co/VLm0km259m"
+104,521842317142274049,Tue Oct 14 01:57:58 +0000 2014,8,0,"Congressional staffers are going through NSF applications, reviewer comments, &amp; emails between PIs and NSF officers http://t.co/nJO6TkDQmX"
+105,521333950346985473,Sun Oct 12 16:17:54 +0000 2014,0,1,"@EdwardTufte published an article in AJPS comparing pocket calculators.
+Now I want an HP-55. http://t.co/hJXVNOxRdG @AJPS_Editor"
+106,520209587262459904,Thu Oct 09 13:50:05 +0000 2014,6,0,"RT @kinggary: ""There are only four types of cities"" http://t.co/btmzpFd4I8"
+107,516694202743554048,Mon Sep 29 21:01:12 +0000 2014,15,0,"RT @p_barbera: My @polanalysis article ""Bayesian Ideal Point Estimation Using Twitter Data"" now free access: http://t.co/6fG47UcfcC http://…"
+108,516628598997139456,Mon Sep 29 16:40:31 +0000 2014,1,0,RT @Asrudian: RT @SAGECQPolitics: The Ties That Bind - #free article on improving intergroup relations http://t.co/iBBU067OiS @cd_lucas #ra…
+109,516615297743474688,Mon Sep 29 15:47:39 +0000 2014,3,0,RT @SAGECQPolitics: The Ties That Bind - #free article on improving intergroup relations http://t.co/BsDwFl5kgQ @cd_lucas #race #ethnicity …
+110,514788871792758784,Wed Sep 24 14:50:06 +0000 2014,6,3,"Posts by a Markov chain trained on the KJV, SICP, and the poignant guide. Thy way is in the global environment.
+http://t.co/Bk6S3cUedy"
+111,513534925958828032,Sun Sep 21 03:47:22 +0000 2014,11,0,RT @kinggary: MatchingFrontier: R Package for Calculating the Balance-Sample Size Frontier | New #rstats Package http://t.co/r651UEiwlx
+112,512610200965365761,Thu Sep 18 14:32:50 +0000 2014,1,1,"""Scottish referendum explained for non-Brits"" - replete with wry British humour. http://t.co/ss6pSRNx3K"
+113,512451241193267200,Thu Sep 18 04:01:11 +0000 2014,9,0,"RT @kinggary: ""New study looks at anti-Americanism in Arabic Twitter universe"" http://t.co/Kfq777IwVr with @crimsonhexagon data"
+114,512240184306704384,Wed Sep 17 14:02:31 +0000 2014,3,0,"RT @thosjleeper: A good week for #polisci and #rstats. @kinggary, @cd_lucas, &amp; Richard Nielsen give us MatchingFrontier now on CRAN. http:/…"
+115,512009735936430082,Tue Sep 16 22:46:48 +0000 2014,3,1,"Seen @IQSS: 
+
+Question: What is Forrest Gump's RCE (Research Computing Environment) password?
+
+Answer: 1Forrest1"
+116,511932552203210753,Tue Sep 16 17:40:06 +0000 2014,0,0,Check it out - @FiveThirtyEight has some of its data on Github https://t.co/yaV5Uc7t1m …
+117,511585926368464896,Mon Sep 15 18:42:44 +0000 2014,10,0,RT @WileyPolitics: New study reveals people are attracted to the body odor of others with similar #political beliefs  http://t.co/hkIBl2K58…
+118,511585747183603712,Mon Sep 15 18:42:01 +0000 2014,8,0,"RT @mercecrosas: Insights from Dataverse project: keynote at ""ORCID and DataCite: Towards Holistic Open Research"" http://t.co/J2d0Tm6ziJ @O…"
+119,511584424434356224,Mon Sep 15 18:36:46 +0000 2014,0,0,"@Ideas4India great, thanks!"
+120,511568307393421313,Mon Sep 15 17:32:43 +0000 2014,1,0,"RT @BrendanNyhan: ""white Americans are more favorable toward aid when cued [with] foreign poor of African descent than...East European"" htt…"
+121,511543095310442496,Mon Sep 15 15:52:32 +0000 2014,0,0,"@Ideas4India Unless there's something wrong on my end, the Ideas for India website appears to be down."
+122,510462302823645185,Fri Sep 12 16:17:51 +0000 2014,1,0,Listening to a great talk by @CassSunstein in the Working Group on Political Psychology at Harvard.
+123,509382586784043009,Tue Sep 09 16:47:27 +0000 2014,0,0,Really cool app for visualizing the Google News aggregator. @therealnewsmap http://t.co/YM5nqi7dcJ
+124,509167210787794944,Tue Sep 09 02:31:37 +0000 2014,6,4,"I can't imagine getting IRB approval for this. ""Stephen Hawking: God particle could wipe out the universe"" http://t.co/6cRRxPZAUf"
+125,509073734058401792,Mon Sep 08 20:20:10 +0000 2014,0,0,"Ikea's new bookbook. http://t.co/aD93xtWZd2 Also, tremendous fodder for Apple haters. #Apple #ikea #bookbook"
+126,506176747059281920,Sun Aug 31 20:28:35 +0000 2014,9,0,RT @smotus: Do NOT get me started. #APSA2014 #APSAOnFire http://t.co/2SngABbWpf
+127,503891164723159040,Mon Aug 25 13:06:30 +0000 2014,4,0,RT @NateMJensen: AEA Minority recruitment program increases Ph.D. apps 40% and accounts for for a 1/5 of econ Ph.D.s to minorities.  http:/…
+128,503167628761112576,Sat Aug 23 13:11:25 +0000 2014,2,0,RT @CambUP_PoliSci: MT @kwcollins: First issue of Journal of Experimental Political Science is live: http://t.co/1Dam1lbW9D Woo! @APSAtweet…
+129,500444011648532480,Sat Aug 16 00:48:44 +0000 2014,5,0,RT @kinggary: MatchingFrontier: R Package for Calculating the Balance-Sample Size Frontier http://t.co/M5jxIAMoVe new #rstats package
+130,499030013652787200,Tue Aug 12 03:10:01 +0000 2014,4,0,RT @JosephKYoung: This map shows where Iraq's crisis stands today. A lot of contested areas  @SKalyvas http://t.co/wRwO37dIJG via @voxdotcom
+131,498322966640599040,Sun Aug 10 04:20:28 +0000 2014,0,0,@Neuteufel :-)
+132,498159447328702464,Sat Aug 09 17:30:42 +0000 2014,0,0,@Neuteufel Thanks!
+133,498158406843510785,Sat Aug 09 17:26:34 +0000 2014,0,3,"""The Ties That Bind"" available OnlineFirst at CPS w/ Volha Charnysh and Prerna Singh http://t.co/HhXJEwJM6k"
+134,494897701050667009,Thu Jul 31 17:29:41 +0000 2014,1,2,"@cjacuff Seriously, what are you talking about @mkmatthews? We do experiments all the time."
+135,492725124471480321,Fri Jul 25 17:36:38 +0000 2014,4,0,RT @lordsutch: Via @MargRev by way of Ken Shepsle: The Idea of Congressional Intent is Incoherent http://t.co/9hJl3H1Chc
+136,492717168296206336,Fri Jul 25 17:05:01 +0000 2014,8,0,RT @chronicle: A graduate student detained on suspicion of espionage has been released from a prison in Tajikistan: http://t.co/6Pno9gotbV
+137,491953622344011776,Wed Jul 23 14:30:58 +0000 2014,27,0,"RT @jstatsoft: JSS is looking for Python and Julia submissions. 
+
+http://t.co/bH8RDGeUFB http://t.co/0AZs2ckC4p"
+138,485461200940306432,Sat Jul 05 16:32:24 +0000 2014,5,0,RT @joshHuder: Incumbency worth $500k bump in fundraising. Sources of new cash: access-oriented groups. Great study by @andrewbhall: http:/…
+139,484200980511457281,Wed Jul 02 05:04:44 +0000 2014,0,0,@Neuteufel Sick. The ggplot2 is strong in you.
+140,484199847600619520,Wed Jul 02 05:00:14 +0000 2014,0,0,"@Neuteufel This is pretty sweet. Also, just realized you're a Louisville native! Me too! CAL 2005."
+141,482183473500008449,Thu Jun 26 15:27:53 +0000 2014,0,0,"Surely Ann Coulter is some sort of performance artist? ""...growing interest in soccer a sign of nation's moral decay"" http://t.co/cbW99VnaMR"
+142,481812081273208833,Wed Jun 25 14:52:06 +0000 2014,0,0,@MikaelPoul So I use both!
+143,481811905435402240,Wed Jun 25 14:51:24 +0000 2014,0,0,"@MikaelPoul Yeah, some software just won't run in Linux-land (iTunes!). But other software is *much* easier to install in Linux (pyLucene)."
+144,481810627477131264,Wed Jun 25 14:46:19 +0000 2014,0,0,"@MikaelPoul I use LaTeX/BibTeX almost exclusively. Once you're comfortable with it, it's very efficient."
+145,481644142947491840,Wed Jun 25 03:44:46 +0000 2014,0,0,@MikaelPoul It's fairly painless if you start with a novice-friendly distro like Ubuntu or Mint. Go for it! You can dual-boot at first.
+146,479090876845920257,Wed Jun 18 02:39:00 +0000 2014,0,1,@BAWinterhalter rockin it on WBUR http://t.co/DHNfSCVNyG Are Humanities Really In Decline In Higher Ed?
+147,478904576498995200,Tue Jun 17 14:18:43 +0000 2014,0,0,"Unicode update adds emoji for spiders, chili pepper, 'live long and prosper,' and more http://t.co/rt5de7VlEk"
+148,478589699347714048,Mon Jun 16 17:27:30 +0000 2014,42,0,"RT @randal_olson: Better #wine costs more, but there's steep diminishing returns.
+
+Source #dataviz: http://t.co/aXokYD1Mio http://t.co/v2PG…"
+149,478589221922680832,Mon Jun 16 17:25:36 +0000 2014,4,0,RT @matt_blackwell: Liptak at the NYT covers Adam Glynn and @maya_sen's research on the effect of judicial daughters: http://t.co/yk44U4wFqP
+150,476035490647638016,Mon Jun 09 16:17:59 +0000 2014,10,0,"RT @polanalysis: Congrats to M. Roberts, B. Stewart, @dustintingley, C. Lucas, J. Leder-Luis, @sgadarian, @AlbertsonB2, D. Rand.  2014 Gosn…"
+151,468737848863379456,Tue May 20 12:59:46 +0000 2014,0,0,"""Baidu Hires Coursera Founder Andrew Ng to Start Massive Research Lab"" http://t.co/kxlGpbyeJ7"
+152,465910616751112192,Mon May 12 17:45:21 +0000 2014,0,2,@matt_blackwell I am tempted to retake gov 2000!
+153,465910523134222336,Mon May 12 17:44:59 +0000 2014,2,0,RT @matt_blackwell: Very excited to announce that his Fall I’ll be joining the faculty of the Harvard Department of Government.
+154,465839888693092353,Mon May 12 13:04:19 +0000 2014,20,0,RT @kinggary: Why big data is in trouble: they forgot about applied statistics | Simply Statistics http://t.co/ZcNAlTglbg
+155,463881231067668480,Wed May 07 03:21:18 +0000 2014,2,0,"RT @kinggary: Congrats to Molly Roberts, newly minted Harvard PhD; Photo of Molly &amp; a tiny fraction of her friends: http://t.co/qxj1Dd0j9n"
+156,460828659277131776,Mon Apr 28 17:11:28 +0000 2014,1,0,Cool Map of Population Distribution by Ethnicity in the United States http://t.co/UBglD4oJzW
+157,460826107114426368,Mon Apr 28 17:01:20 +0000 2014,0,0,"@jkertzer @RyanDEnos Clearly you're ""conducting a pretty intense visual media study"" this summer."
+158,460221045539356672,Sun Apr 27 00:57:02 +0000 2014,3,0,"RT @raulpacheco: Computer assisted text analysis for comparative politics http://t.co/dXMB7p1hd1 by @cd_lucas et al. Great read, particular…"
+159,460181341284622336,Sat Apr 26 22:19:16 +0000 2014,3,0,RT @fghjorth: Comparativists take note: MT @richards1000 http://t.co/lrzqHSrzwm … @cd_lucas et al.: Computer assisted text analysis for com…
+160,460171723837833216,Sat Apr 26 21:41:03 +0000 2014,3,0,"RT @richards1000: http://t.co/xpmAnXxmm5 @cd_lucas et al.: Computer assisted text analysis for
+comp politics. Covers analysis of legal &amp; le…"
+161,458677206622171137,Tue Apr 22 18:42:22 +0000 2014,4,3,"""Structural Topic Models for Open-Ended Survey Responses"" available on AJPS Early View http://t.co/bSWb0WJEPi"
+162,457961867382910976,Sun Apr 20 19:19:52 +0000 2014,5,9,"Cool paper by Kieran Healy and James Moody on data viz in sociology, forthcoming in ARS http://t.co/b7oNVOlZBM"
+163,457165541757952000,Fri Apr 18 14:35:33 +0000 2014,14,0,RT @jkertzer: Our follow-up post to our finding-Ukraine-on-a-map piece on @monkeycageblog is now up: http://t.co/RuArhsv0Qs @zeitzoff @kyle…
+164,456105701266690049,Tue Apr 15 16:24:07 +0000 2014,8,0,"RT @alexhanna: What I've been working on for the past few: ""Developing a System for the Automated Coding of Protest Event Data"" http://t.co…"
+165,454661388557119489,Fri Apr 11 16:44:56 +0000 2014,0,1,The newest member of the Gov community http://t.co/2Yt2tNBmup
+166,454298059821039617,Thu Apr 10 16:41:12 +0000 2014,0,1,Colbert to replace Letterman on the Late Show. Mind blown. http://t.co/VaB6Afnj3f #ColbertReport #Letterman
+167,453148604841332736,Mon Apr 07 12:33:41 +0000 2014,0,0,"I thought I was finished with classes after generals, but for Sir Alex, I just might make an exception.  http://t.co/0vcgV0uO9M"
+168,452837453410619393,Sun Apr 06 15:57:16 +0000 2014,5,0,RT @cjacuff: The Semisovereign Tweeple. RT @prowag: @smotus @ipolisci Pretty sure Schattschneider said that democracy is impossible without…
+169,444186809954615296,Thu Mar 13 19:02:42 +0000 2014,9,0,RT @RyanDEnos: Reflections on Common Misconceptions About Randomized Field Experiments http://t.co/8qqlIcOsnP @dbroockman
+170,443878395219554304,Wed Mar 12 22:37:10 +0000 2014,1,1,"From @rink_stats - ""How The Long-Change OT Could Cut NHL Shootouts By A Third"" http://t.co/ifBNBzPFva #sportsanalytics"
+171,443429739995615232,Tue Mar 11 16:54:23 +0000 2014,0,0,@BarackObama's performance on Between Two Ferns is quite simply the most sublime thing I've seen. Ever. http://t.co/ha5xjGgNIG
+172,441702786452180992,Thu Mar 06 22:32:05 +0000 2014,0,1,"Ridiculous speed reading app ""Spritz"" makes reading 500 wpm comfortable. http://t.co/r11dqEjZi5"
+173,441227103669723136,Wed Mar 05 15:01:53 +0000 2014,2,0,"From Google, search for ""recursion"" to find a fun (and nerdy) easter egg"
+174,441215044022304768,Wed Mar 05 14:13:58 +0000 2014,0,1,Obama in Harvard Square today but no events open to the university/public. I'm only a little offended. http://t.co/JqpyZrIY7b
+175,440467419065516032,Mon Mar 03 12:43:10 +0000 2014,5503,0,"RT @ML_Hipster: A machine learning researcher, a crypto-currency expert, and an Erlang programmer walk into a bar. Facebook buys the bar fo…"
+176,438843712328978432,Thu Feb 27 01:11:09 +0000 2014,0,0,@andrewbhall @JonesZM I ended up getting some variant of this solution to work http://t.co/aVxOCrqbNQ Win for Linux package management...
+177,438837292716027904,Thu Feb 27 00:45:38 +0000 2014,0,0,@andrewbhall @JonesZM Much (MUCH) better solution.
+178,438836504035852288,Thu Feb 27 00:42:30 +0000 2014,0,0,"@JonesZM @andrewbhall If everyone used Linux, I wouldn't have to support Windows, and then my problems would be solved!!! :-)"
+179,438836193275691008,Thu Feb 27 00:41:16 +0000 2014,0,0,"@JonesZM @andrewbhall Python is preinstalled on Linux distros, same as OSX. I built a deprecated version from source for software testing."
+180,438830505233227776,Thu Feb 27 00:18:40 +0000 2014,0,0,"@andrewbhall Oh man, given the amount of time I've already spent on this, that might be the cheaper alternative."
+181,438829446200832000,Thu Feb 27 00:14:27 +0000 2014,0,0,Uninstalling a version of Python that was compiled from source is extremely annoying. Any tips? #Python #Linux #Unix
+182,438727735201267714,Wed Feb 26 17:30:17 +0000 2014,6,0,RT @blfraga: Great work by @RyanDEnos : @BostonGlobe Harvard study finds transit may be best lab for studying intergroup relations http://t…
+183,438336192623702017,Tue Feb 25 15:34:26 +0000 2014,1,0,Minimalist design applied to common products - rules to live by. The Nutella concept is especially cool http://t.co/j4zPSVCglz
+184,437960888646373376,Mon Feb 24 14:43:07 +0000 2014,24,0,RT @alexhanna: My advisor and I assess #GDELT by comparing it to a handcoded protest data set. The results are a bit worrisome http://t.co/…
+185,437761473834913792,Mon Feb 24 01:30:43 +0000 2014,32,0,RT @seanjtaylor: On Computational Social Science http://t.co/U5P39c4X4f (feedback welcome!) http://t.co/MPMrpFdGwh
+186,436871961705447424,Fri Feb 21 14:36:07 +0000 2014,0,0,@lukasneville @CBCNews Oh that's horrible...
+187,436522028519391232,Thu Feb 20 15:25:36 +0000 2014,1,1,Experiments are not [simple/easy/other trivializing adjective].
+188,436488078971387905,Thu Feb 20 13:10:42 +0000 2014,210,0,"RT @JustinWolfers: The concentration of GDP: As much GDP is made in the red bits as the blue.
+(http://t.co/UpuvdAcK4U) http://t.co/MVIK4bqx…"
+189,436310034835070977,Thu Feb 20 01:23:13 +0000 2014,480,0,"RT @BuzzFeedNews: WhatsApp Acquisition Details: 
+
+- $4b in cash
+- $12b in Facebook shares
+- $3b in restricted stock
+- Only 55 workers on st…"
+190,436308557034971136,Thu Feb 20 01:17:20 +0000 2014,78,0,RT @Slate: These photos from Kiev are unreal: http://t.co/wjuQVPt1rt http://t.co/RGm9oFoYbX
+191,436139583806251008,Wed Feb 19 14:05:54 +0000 2014,1,0,Just discovered slidify (http://t.co/9GzuWpvdPg). Great tool for embedding R output into a presentation.
+192,435588149017071616,Tue Feb 18 01:34:42 +0000 2014,0,1,"""The snake fight portion of your thesis defense"" http://t.co/FVX1NzEOSY"
+193,434000719986061312,Thu Feb 13 16:26:49 +0000 2014,12,0,"RT @graemedblair: Comparing &amp; Combining List &amp; Endorsement Exp w/ Afghan data. Just out at AJPS early view, w/ K. Imai &amp; @jaylyall_red5 htt…"
+194,431586805310164993,Fri Feb 07 00:34:47 +0000 2014,0,0,"""Based on the simulations, Canada has a 64% chance of repeating as champions."" @rink_stats in the WSJ http://t.co/GlQvQaQnUI #Sochi2014"
+195,431105256013824000,Wed Feb 05 16:41:17 +0000 2014,0,0,"The devtools package from @hadleywickham et al is tremendously useful for R development, especially if you're using github. #R #Github"
+196,430096019741609984,Sun Feb 02 21:50:56 +0000 2014,0,0,@raulpacheco Thanks! Good to know someone is listening! :-)
+197,429291292150222848,Fri Jan 31 16:33:14 +0000 2014,4,0,"RT @crimsonhexagon: Of Twitter conversation expressing opinion on #SOTU, most negative. Analysis by @pewresearch http://t.co/U4TFx9Plis htt…"

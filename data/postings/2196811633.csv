@@ -1,0 +1,394 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,666911406239973378,Wed Nov 18 09:30:44 +0000 2015,1,3,..@pragmatiqa is 2 today..preparations for our new office is in progress :)
+1,660488856781893632,Sat Oct 31 16:09:49 +0000 2015,0,1,"..#XOData Chrome App updated :
+https://t.co/0HV3RYI7KP"
+2,658657587492200448,Mon Oct 26 14:53:00 +0000 2015,0,1,"..changes to #OData Directory
+https://t.co/MKrcbJYaRu https://t.co/8GMjCzmAhg"
+3,657528891913936896,Fri Oct 23 12:07:58 +0000 2015,0,0,"..work started on clean-up &amp;control of #OData Directory 
+#XOData https://t.co/WqryjhaL81"
+4,653968309457682432,Tue Oct 13 16:19:29 +0000 2015,1,2,"..changed font on #XOData online to google Roboto
+..bit slow loading of font.
+http://t.co/nXSeXBl9dQ
+#OData http://t.co/v4yJBWGqz8"
+5,652582801594826752,Fri Oct 09 20:33:58 +0000 2015,1,0,"RT @rmtiwari: ..whytified scrollbars..why?!
+#XOData http://t.co/UaRRxfrbFV"
+6,651698802370441216,Wed Oct 07 10:01:17 +0000 2015,3,0,"RT @rmtiwari: ..slowification &amp; color-dullification of dropdown menus in #XOData
+#OData 
+http://t.co/5CJaGaainG http://t.co/uA7CdF1dNn"
+7,648837097051303936,Tue Sep 29 12:29:53 +0000 2015,1,2,"..XOData Chrome App Free Trial is now open for a week till 7th Oct 2015. 
+..Update to latest 1.1.2.
+ http://t.co/2upEP58TvD"
+8,648246173392879616,Sun Sep 27 21:21:46 +0000 2015,1,2,"#XOData update : Results Table Layout change to handle empty collections from #OData V4 results. 
+https://t.co/0HV3RYI7KP"
+9,647802882587262976,Sat Sep 26 16:00:17 +0000 2015,1,1,#XOData Update : #OData V4/JSON : regression issue due to changes for derivation of nav links in case of key based results.Reverted for now.
+10,647136325448155136,Thu Sep 24 19:51:37 +0000 2015,0,1,..link for #XOData Overview Document (pdf) added on http://t.co/L5ficYNvOV http://t.co/7s7tE5egx0
+11,646012477206044672,Mon Sep 21 17:25:51 +0000 2015,1,2,..example Function call for #OData V4 ( corrected in #XOData ) http://t.co/oMbERZDioN
+12,646011201873424384,Mon Sep 21 17:20:47 +0000 2015,1,2,"..Example Function call in #OData V3
+#XOData http://t.co/hC340ZYrnN"
+13,645995027018194944,Mon Sep 21 16:16:31 +0000 2015,1,0,"RT @rmtiwari: ..good one &gt;&gt; #OData V4 API in OData Directory from http://t.co/kANYkVvold
+http://t.co/FH6A50zbUQ
+#XOData http://t.co/Hb6vOtX…"
+14,644878654930059264,Fri Sep 18 14:20:27 +0000 2015,9,0,RT @rstropek: Just published my slides from yesterday's RESTful Web API Design workshop http://t.co/rnL6gbdMlw @SoftwArchSummit #rest
+15,644454254271447040,Thu Sep 17 10:14:02 +0000 2015,1,0,"RT @rmtiwari: ..Where do #XOData online users come from?
+..Top 10 Cities
+#OData http://t.co/7HB67IwGr9"
+16,644426191512936452,Thu Sep 17 08:22:31 +0000 2015,1,0,"RT @rmtiwari: ..good one from http://t.co/tJUnbk3olU
+ ..new #OData API in OData Directory 
+http://t.co/FH6A50zbUQ http://t.co/jzcDc1rkcG"
+17,644190966350524416,Wed Sep 16 16:47:49 +0000 2015,1,0,RT @SAsInSumit: Watching my friends @rmtiwari @pragmatiqa tools being used to explore #odata in #devZone #lightningconnect http://t.co/13yY…
+18,643868294680866822,Tue Sep 15 19:25:38 +0000 2015,1,3,"..300th #OData API in OData Directory :
+http://t.co/MKrcbJYaRu
+#XOData http://t.co/Df5Rv4xkQd"
+19,643129951068246017,Sun Sep 13 18:31:43 +0000 2015,1,0,RT @rmtiwari: ..should bifurcate these two permission groups as 2 seperate pop-ups( whatever) rather than scaring the hell out of app users…
+20,643129902129106944,Sun Sep 13 18:31:32 +0000 2015,1,0,"RT @rmtiwari: ..only if you can clarify who wants which permission?
+my app only needs email id so others by google?
+@ChromiumDev http://t.c…"
+21,643105512557518848,Sun Sep 13 16:54:37 +0000 2015,1,0,"RT @rmtiwari: #XOData chrome app asking *unnecessary* permission after update
+..issue raised w Chrome support
+""View your Chrome Web Store a…"
+22,642311526821568512,Fri Sep 11 12:19:36 +0000 2015,1,0,"RT @rmtiwari: XOData : OData API Explorer : 
+New Features ..well a couple of days old but now in HD on youtube 
+https://t.co/fdX2udSNy1"
+23,642093422044708864,Thu Sep 10 21:52:55 +0000 2015,1,0,"RT @rmtiwari: ..valid metadata files for #OData V4 but not actual endpoint 
+#XOData does not support metadata Schema *Flattening* http://t.…"
+24,641636706085695488,Wed Sep 09 15:38:06 +0000 2015,1,2,"A (com)Press Release : #XOData Chrome App
+ - Create Single Entity (part of CRUD support) 
+ - #OData API Log feature http://t.co/NDF3JLQdTn"
+25,641199850118320128,Tue Sep 08 10:42:11 +0000 2015,1,0,"RT @rmtiwari: ..wrote the disclaimer as a message : ""Not a Toy!"" #handleWithCare
+#XOData #OData #CRUD http://t.co/GPvOpfyGVY"
+26,640916825790902272,Mon Sep 07 15:57:33 +0000 2015,38,0,RT @umaar: Dev Tips: #DevTools - Support for jQuery event listeners and how to hide ancestor listeners: https://t.co/AGOBXaGF44 http://t.co…
+27,638801013546307587,Tue Sep 01 19:50:04 +0000 2015,1,0,"RT @rmtiwari: ..#OData API trend in OData Directory 
+..Version trend (past 6 months) http://t.co/wkzmg6y0aI"
+28,638446286069460992,Mon Aug 31 20:20:31 +0000 2015,1,0,"RT @rmtiwari: ..to drive an #OData API with hood open :
+#XOData http://t.co/NcBHhvgZmB"
+29,637361447476051968,Fri Aug 28 20:29:45 +0000 2015,1,0,"RT @rmtiwari: #OData URLs with () 
+reminds me of usability issue in #XOData :switch from key based access 
+https://t.co/LgehVjRhnS http://t…"
+30,635941981617831937,Mon Aug 24 22:29:18 +0000 2015,1,0,"RT @rmtiwari: ..adding a sliding whiteboard - for #OData HTTP request/response log
+#XOData http://t.co/rhf7fAF66g"
+31,635748219348254720,Mon Aug 24 09:39:21 +0000 2015,1,2,"..issue in #XOData online only 
+..space in #OData query part will now be encoded as %20 rather than + sign  #RFC3986 http://t.co/1Z9uGkO5KC"
+32,634834761337434112,Fri Aug 21 21:09:36 +0000 2015,1,2,..correction in online #XOData  &gt;&gt; issue with some of the filter options-due to #typeahead value-help inappropriate http://t.co/NywVClX0Ij
+33,633653517287358464,Tue Aug 18 14:55:45 +0000 2015,1,0,"RT @rmtiwari: ..first ever with a space in metadata url :) &gt;&gt; 
+#IBM cloud arrives in #OData Directory with cognos OData V4 #API http://t.co…"
+34,633405390026371072,Mon Aug 17 22:29:47 +0000 2015,1,2,"..#OData V4: Navigational Links will now be displayed : *Key* based access (JSON)
+#XOData http://t.co/nXSeXBl9dQ http://t.co/vvBYJHakSG"
+35,633063279649267712,Sun Aug 16 23:50:22 +0000 2015,1,0,"RT @rmtiwari: ..#OData V3 : JSON Payload : Write Allowed Demo API : Create Product
+#XOData #CRUD http://t.co/S1blxr1pse"
+36,632199350043721728,Fri Aug 14 14:37:25 +0000 2015,1,0,"RT @rmtiwari: ..resolved problem due to dataJS issue:
+http://t.co/Za65tO6dnk
+..time #OData #V2 in XML handled
+..Edm.Byte initial 0 http://t…"
+37,631857961632157696,Thu Aug 13 16:00:52 +0000 2015,1,0,"RT @rmtiwari: ..#SAP #Gateway RMTSAMPLEFLIGHT : Create a new TravelAgency
+#XOData #OData #CRUD http://t.co/YzxBqlScvf"
+38,631751605810003968,Thu Aug 13 08:58:14 +0000 2015,1,0,"RT @rmtiwari: #OData  $search ? :
+..if your #database layer is not a freaking search-engine then think what you're doing
+..blaming OData la…"
+39,630801786811629568,Mon Aug 10 18:04:00 +0000 2015,1,0,"RT @rmtiwari: Ads industry, #Free Apps and #OpenSource :
+..a developer's story of ""Exploiting Android Users for Fun and Profit""
+https://t.c…"
+40,629943516379107328,Sat Aug 08 09:13:32 +0000 2015,1,0,"RT @rmtiwari: Bascially, idiots with not even basic understanding of real databases, should not be allowed to develop #APIs -  #OData won't…"
+41,629397631572115456,Thu Aug 06 21:04:23 +0000 2015,1,0,"RT @rmtiwari: ..and just to add that #XOData is definitely not for testing SOAP/WSDL or 
+*non* #OData custom REST APIs..e.g. below http://t…"
+42,629371753572212736,Thu Aug 06 19:21:33 +0000 2015,1,0,"RT @rmtiwari: ..also, not to mention that online XOData is not for QA/Testing of #OData APIs - pls add your Final APIs only
+http://t.co/FH6…"
+43,629365388493635584,Thu Aug 06 18:56:16 +0000 2015,1,0,"RT @rmtiwari: ..link in response has internal system host (http://t.co/sc1jSaoxfQ)
+..auto unit testing might be all green
+#OData http://t.c…"
+44,629214433554866176,Thu Aug 06 08:56:25 +0000 2015,0,0,"..""Concurrency"" designated as nullable: false =&gt; practically, not very useful.
+ https://t.co/HwOfkfuXlc"
+45,628510593696276481,Tue Aug 04 10:19:37 +0000 2015,1,0,"RT @rmtiwari: ..latest #OData API from ""Ruin it equally for everyone""
+testing private #API then changing to sample on same endpoint http://…"
+46,627815880265760768,Sun Aug 02 12:19:04 +0000 2015,1,0,"RT @rmtiwari: hmm..looks like a bot from 204.14.239.18 calling all #OData APIs one by one in OData Directory
+http://t.co/FH6A50zbUQ http://…"
+47,627550912257654784,Sat Aug 01 18:46:11 +0000 2015,1,0,"RT @rmtiwari: ~200 good-actors &amp; 50 bad-actors.
+..stop bad-actors without causing inconvenience to good-actors
+#OData Directory http://t.co…"
+48,627466177745436672,Sat Aug 01 13:09:29 +0000 2015,1,0,RT @rmtiwari: &gt;&gt; The best way to do good with technology is to build good technology. https://t.co/CCss8AEQoO
+49,627452225116340224,Sat Aug 01 12:14:02 +0000 2015,1,0,"RT @rmtiwari: 250+ #OData APIs in OData Directory
+..cleanup/restrictions #TODO
+..Test/QA APIs:just to use #XOData for private test http://t…"
+50,626834355118305281,Thu Jul 30 19:18:50 +0000 2015,1,0,"RT @rmtiwari: ..generated #JSON payload
+#XOData #OData #CRUD http://t.co/6jWMeF6ea4"
+51,626834327003901953,Thu Jul 30 19:18:44 +0000 2015,1,0,"RT @rmtiwari: ..generated Form for deep-deep-deep complex types/collections 
+#XOData #OData #CRUD http://t.co/HUyyt4UFWM"
+52,626327534200864768,Wed Jul 29 09:44:55 +0000 2015,1,0,"RT @rmtiwari: ..some beautification &gt;&gt; #XOData : baby steps towards a generic UI based on #OData APIs
+ #CRUD + #Query http://t.co/WImlWKW2iz"
+53,625981942119460865,Tue Jul 28 10:51:39 +0000 2015,1,0,"RT @rmtiwari: ..collection of primitive type (e.g. emails in TripPin #OData V4)
+#XOData #CRUD http://t.co/qH1PTmKAB4"
+54,625981816260927488,Tue Jul 28 10:51:09 +0000 2015,1,0,RT @rmtiwari: ..Json-editor https://t.co/yGJjvyoGcS nearly integrated with #XOData to enable #CRUD for #OData
+55,624549603346653185,Fri Jul 24 12:00:03 +0000 2015,1,0,"RT @rmtiwari: ..alongside student access to #XOData App, thinking of providing access to early-stage struggling #startups - get in touch!"
+56,624499714201899008,Fri Jul 24 08:41:49 +0000 2015,2,0,"RT @rmtiwari: ..testing #OData APIs with preview #XOData is not allowed
+..polluting #OData Dir
+..but check ur metadata-remove ns http://t.c…"
+57,624278295564189696,Thu Jul 23 18:01:58 +0000 2015,1,0,"RT @rmtiwari: Documentation for people, generated by annotations - written by coders :) &gt;&gt; API Documentation Needs Love too
+http://t.co/ezX…"
+58,623801746519891968,Wed Jul 22 10:28:20 +0000 2015,1,0,"RT @rmtiwari: ..""Enter"" on value-help textbox will not close the condition on #OData Query Builder.
+#XOData
+http://t.co/5CJaGaainG http://t…"
+59,622866369848168448,Sun Jul 19 20:31:29 +0000 2015,1,0,"RT @rmtiwari: ..Json-editor : WIP
+#OData CRUD in #XOData http://t.co/hyz6n9PiYF"
+60,622743016239955968,Sun Jul 19 12:21:19 +0000 2015,1,0,RT @rmtiwari: ..to keep in mind &gt;&gt;Don't mix a standard #API Protocol documentation with your own API documentation- what's the point of fol…
+61,622321316985761792,Sat Jul 18 08:25:38 +0000 2015,1,0,"RT @rmtiwari: ..80% done in a few days, 20% will take another year ;) &gt;&gt; some progress on CRUD support for #OData APIs in #XOData http://t.…"
+62,622006289367871488,Fri Jul 17 11:33:50 +0000 2015,1,0,"RT @rmtiwari: ..funny, still don't know that #XOData needs #OData metadata URL
+if your cloud provider has eaten it, try feed url http://t.c…"
+63,621986344282120192,Fri Jul 17 10:14:35 +0000 2015,2,0,"RT @rmtiwari: ..made a hammer with twitter-typeahead, now using it everywhere:
+#XOData OData Query Builder http://t.co/bcwnxFK8Lb"
+64,621605490552897536,Thu Jul 16 09:01:12 +0000 2015,1,0,"RT @rmtiwari: ..thou shalt not wash their dirty linen in public places &gt;&gt; #OData Directory
+http://t.co/FH6A50zbUQ http://t.co/kVClMepjZL"
+65,621239808720027648,Wed Jul 15 08:48:07 +0000 2015,1,0,"RT @rmtiwari: ..to handle #BigData for UI: #XOData favourites selction now upgrades to twitter-typeahead on desktop-width
+#OData http://t.c…"
+66,620923470705225728,Tue Jul 14 11:51:06 +0000 2015,3,0,"RT @rmtiwari: ..nearly all Example V4 #OData queries from @odataorg ""Basic Tutorial"" added as #XOData favourites
+http://t.co/5CJaGaainG"
+67,620918511314071552,Tue Jul 14 11:31:23 +0000 2015,0,0,..But why #OData ? https://t.co/K6slET6xRj
+68,620516020168564737,Mon Jul 13 08:52:02 +0000 2015,1,0,"RT @rmtiwari: ..Adding #OData Queries from @odataorg ""Basic Tutorial"" as #XOData Favourites http://t.co/eBV1N6Jpsl"
+69,619929969293164545,Sat Jul 11 18:03:17 +0000 2015,2,0,"RT @rmtiwari: ..added support for hierarchical complex type in #XOData Query Builder
+..inherited from BaseType or nested 
+#OData http://t.c…"
+70,619905897154891776,Sat Jul 11 16:27:37 +0000 2015,3,0,"RT @rmtiwari: ..4 months : 225 #OData APIs in OData Directory : 
+http://t.co/FH6A50zbUQ
+#XOData http://t.co/qiUL4i5Ql9"
+71,619155285781950465,Thu Jul 09 14:44:58 +0000 2015,1,2,"..never publicized that much on How to buy #XOData Chrome App but for cancellation, oh boy! -It's also self-service http://t.co/J9iKM4Q9vu"
+72,619147986912808960,Thu Jul 09 14:15:57 +0000 2015,1,1,"..to cancel your subscription of #XOData Chrome App, pls follow the Google Chrome App Store Link-it's self-service  https://t.co/DTMKzQdCsm"
+73,619096268468551680,Thu Jul 09 10:50:27 +0000 2015,1,0,"RT @rmtiwari: ..Animal Form Management #OData API by connecterra cloud in #OData Directory
+http://t.co/FH6A50zbUQ #XOData"
+74,616548556892192768,Thu Jul 02 10:06:45 +0000 2015,2,0,"RT @rmtiwari: ..#SAP CRM OPPORTUNITY #OData API by sapfioritrial in OData Directory:
+http://t.co/FH6A50zbUQ http://t.co/JV2mu3NH30"
+75,616512081492340736,Thu Jul 02 07:41:49 +0000 2015,1,0,"RT @rmtiwari: ..new #OData API from Finland's environmental administration in OData Directory.
+http://t.co/FH6A50zbUQ http://t.co/H1pb9D8JG0"
+76,614552033710968833,Fri Jun 26 21:53:17 +0000 2015,1,2,"..#XOData Chrome App updated today:
+#OData Query Builder:
+..value-help
+..nested tab alignment 
+..Fn with Float Input http://t.co/knE4CLeepq"
+77,614068616145838081,Thu Jun 25 13:52:21 +0000 2015,1,0,"RT @rmtiwari: ..assigned Categories to some #OData APIs in Directory &gt;&gt;
+http://t.co/FH6A50zbUQ http://t.co/NEnctuwV0y"
+78,614008946773360640,Thu Jun 25 09:55:15 +0000 2015,1,0,"RT @rmtiwari: ""Never attribute to #OData that which is more easily explained by incompetence."" -- Unknown"
+79,612995492939739136,Mon Jun 22 14:48:09 +0000 2015,2,0,"RT @rmtiwari: ..adding a review/commenting system ( @Disqus ) to #OData Directory 
+..reached 200 APIs now :)
+http://t.co/FH6A50zbUQ http://…"
+80,611201055871864833,Wed Jun 17 15:57:41 +0000 2015,1,0,"RT @rmtiwari: ..#OData API for Airlines Data in Directory 
+#XOData Query Builder http://t.co/ivCiRyyUmE"
+81,611198437804142593,Wed Jun 17 15:47:17 +0000 2015,1,0,"RT @rmtiwari: ..not SFLIGHT..real one in #OData directory &gt;&gt; http://80.77.218.156/SkyLoadOData/$metadata
+http://t.co/FH6A50zbUQ http://t.co…"
+82,610144840714731522,Sun Jun 14 18:00:40 +0000 2015,1,2,"..Vanity Sunday Search suggests #XOData is one of the best online tools ;)
+  #OData
+..comment on http://t.co/EdkjIn1hBk"
+83,610133189512830976,Sun Jun 14 17:14:22 +0000 2015,0,2,"..also compressed display of nested table where possible:
+#XOData #OData Query Builder http://t.co/jYE45dh4u6"
+84,610130160344547329,Sun Jun 14 17:02:20 +0000 2015,1,1,"..after fix #XOData online :
+data-table header alignment when nested tables after #OData navigational link clicks http://t.co/DTvDVgbXie"
+85,610129571879481346,Sun Jun 14 17:00:00 +0000 2015,0,1,"..issue with data-table header alignment when nested/navigational table too-wide 
+..fix deployed in #XOData online http://t.co/aiABfPDlHq"
+86,609778103846576128,Sat Jun 13 17:43:23 +0000 2015,2,1,"issue corrected with *online* #XOData due to recent changes to proxy:
+URL encoding e.g. http://t.co/GapO2CpBwV
+#OData http://t.co/ITpX1cPTnM"
+87,609285057291911168,Fri Jun 12 09:04:12 +0000 2015,0,1,"..value-help / typeahed on complex-type properties : 
+#OData #XOData http://t.co/2zez1eHFDp"
+88,609283166927519744,Fri Jun 12 08:56:41 +0000 2015,1,1,"..value-help / typeahead preview is deployed on #XOData online: 
+http://t.co/nXSeXBl9dQ
+..except complex collections http://t.co/PYUVNB0ZBw"
+89,606804373537210368,Fri Jun 05 12:46:51 +0000 2015,1,0,"RT @rmtiwari: ...~18 months later : managed to setup a Customer-Page for #XOData
+http://t.co/U1bdosHqNB
+#startup"
+90,604569897293750272,Sat May 30 08:47:50 +0000 2015,1,0,"RT @rmtiwari: some software companies sabotaging the purpose of #OData Directory
+use it for internal #API testing then block later http://t…"
+91,604345961410879488,Fri May 29 17:58:00 +0000 2015,0,0,"...thousands of developers, hundreds of #OData APIs and we have not even build a platform yet - just #XOData :)
+http://t.co/MKrcbJYaRu"
+92,604339931754975233,Fri May 29 17:34:02 +0000 2015,4,0,"RT @Apigee: Need an #API dev-testing portal? ""#Apigee has created a one-stop API shop"" http://t.co/PnsID7hhtX  @MargiMurphy @techworldnews"
+93,604234648240197632,Fri May 29 10:35:40 +0000 2015,0,0,..however the issue is now raised with Chrome App Support Team. @peterbb
+94,604234285558697984,Fri May 29 10:34:14 +0000 2015,1,0,"RT @rmtiwari: u can get extended trial of XOData in return for feature discussion 
+but cancel paid App Subscription and..;) #crbug
+https://…"
+95,604046431696097281,Thu May 28 22:07:46 +0000 2015,2,0,"RT @rmtiwari: ..a #SharePoint OData API in #OData Directory &gt;&gt; that's a first!
+http://t.co/FH6A50zbUQ http://t.co/aV4hmZMpXt"
+96,603993934713524227,Thu May 28 18:39:10 +0000 2015,1,0,"RT @rmtiwari: ..finally managed to answer a review of XOData Chrome App - with some evidence from #OData directory :)
+https://t.co/6SbbMTur…"
+97,603297664818651136,Tue May 26 20:32:26 +0000 2015,2,1,"..Turtles Update deployed to #XOData Chrome App :
+#OData Query Builder: Support for Deep filtering, Deep Expand etc. http://t.co/TmVTPA6Ct6"
+98,601715013661917185,Fri May 22 11:43:33 +0000 2015,2,0,"RT @rmtiwari: kind of bigdata for UI ;)&gt;&gt; so #OData Directory is now filterable with category &amp; search-term
+http://t.co/FH6A50zbUQ http://t…"
+99,601714857503752192,Fri May 22 11:42:56 +0000 2015,2,0,"RT @jamiet: @pragmatiqa I just discovered XOData, for which I can only say.... THANK YOU!!!"
+100,601714724657623040,Fri May 22 11:42:24 +0000 2015,0,0,..thanks Jamie :) https://t.co/tiEYvHm923
+101,601451395254919168,Thu May 21 18:16:01 +0000 2015,1,0,"RT @rmtiwari: ..looks like 13 new #OData APIs were added to OData Directory in past 3 days :
+http://t.co/FH6A50QMMo http://t.co/0I9rYK2IY0"
+102,601072749877055488,Wed May 20 17:11:25 +0000 2015,1,0,"RT @rmtiwari: added [Count Only] in #XOData OData Query Builder
+V4 resource /$count only works w/o $filters 
+http://t.co/5CJaGaainG http://…"
+103,600679384719167489,Tue May 19 15:08:20 +0000 2015,5,0,"RT @rmtiwari: ..more than 150 #OData Services in OData Directory &gt;&gt;
+latest By: http://t.co/Vk4mrN1w1U
+http://t.co/FH6A50zbUQ http://t.co/iR…"
+104,599336293005402112,Fri May 15 22:11:22 +0000 2015,2,0,RT @LunchWithALens: Project Server 2013: OData gives a Data Model error in Excel with large datasets http://t.co/S7DU1yPQLO  @Project #ODat…
+105,599196256750182400,Fri May 15 12:54:54 +0000 2015,2,0,RT @rmtiwari: ..featuring #XOData :) &gt;&gt; https://t.co/65fdBTPQbe
+106,599193135286243329,Fri May 15 12:42:30 +0000 2015,0,2,..OData Query Builder correction ..class is kind of reserved identifier #XOData #JavaScript #Safari
+107,598945254931300354,Thu May 14 20:17:31 +0000 2015,1,1,"..where filtering on collections of (Complex Type or Primitive) for #OData V4 means :
+Trip Service Example
+#XOData http://t.co/gdlM8mnQwL"
+108,598857496682491906,Thu May 14 14:28:48 +0000 2015,1,1,"..where Deep Expand means:e.g. get Order &amp; Supplier details 
+through relation Order-&gt;OrderDetails-&gt;Product-&gt;Supplier http://t.co/roTz6C6VK9"
+109,598853453855727616,Thu May 14 14:12:44 +0000 2015,1,2,..where deep filtering means e.g. : category of products supplied by the suppliers from Berlin. http://t.co/C0LCPSAD6E
+110,598834490430062592,Thu May 14 12:57:22 +0000 2015,2,2,"..Turtles Updates deployed to #XOData online today :
+..New Features in #OData Query Builder 
+http://t.co/nXSeXBl9dQ http://t.co/U9l4WLAIgv"
+111,596589367826771968,Fri May 08 08:16:04 +0000 2015,1,0,"RT @rmtiwari: ..open data from the Latvian local governments in #OData Directory 
+http://t.co/FH6A50zbUQ
+#XOData"
+112,596410983897288704,Thu May 07 20:27:13 +0000 2015,1,0,"RT @rmtiwari: ..looks like Parliament of Switzerland is now in #OData Directory?
+http://t.co/FH6A50zbUQ
+#XOData http://t.co/4587QGmXvE"
+113,594058463535362048,Fri May 01 08:39:09 +0000 2015,2,0,"RT @rmtiwari: ..#OData sources added to Directory ( last month ):
+http://t.co/FH6A50zbUQ http://t.co/AxNd6gbSxo"
+114,593394678411689984,Wed Apr 29 12:41:30 +0000 2015,2,1,"..fixes deployed to #XOData Chrome App: 
+#OData Query Builder : Handle Long integer +L, double +m, decimal +d, single +f. datetimeoffset etc"
+115,590970796664889345,Wed Apr 22 20:09:52 +0000 2015,1,0,"RT @rmtiwari: ..OData V4 filtering on Collections was pending for some time &gt;&gt; 
+#XOData Query Builder http://t.co/DVXsMVMhkL"
+116,590147429099565056,Mon Apr 20 13:38:06 +0000 2015,0,0,..interesting story https://t.co/UoMnWSV3uJ
+117,589773743221780480,Sun Apr 19 12:53:12 +0000 2015,1,4,...current status of #OData APIs in OData Directory http://t.co/987KVvsNiH
+118,589772275471282176,Sun Apr 19 12:47:22 +0000 2015,1,2,"..current accessibility status of APIs in #OData Directory:auto-updated at regular intervals  
+http://t.co/MKrcbJYaRu http://t.co/oDtxNh2QOI"
+119,589472020510986240,Sat Apr 18 16:54:16 +0000 2015,0,0,"#OData Directory Status : Number of OData V4 APIs crossed V2
+http://t.co/MKrcbJYaRu http://t.co/ITkeRS2P6C"
+120,588998573133561856,Fri Apr 17 09:32:57 +0000 2015,1,1,"..we are officially at ""The rebellion of building something useful"" stage :)
+#XOData https://t.co/L6qjNe3Dkx"
+121,584788211332964352,Sun Apr 05 18:42:29 +0000 2015,200,0,RT @businessinsider: Gandhi to Adolf Hitler in 1940: Seek peace or someone will 'beat you with your own weapon' http://t.co/WWMdpxqQV7 http…
+122,583983924403109889,Fri Apr 03 13:26:32 +0000 2015,1,1,"..from the comment : 
+https://t.co/5Hk8HbgFU4
+#OData allows.. “API explorer” to be generated automatically.. #XOData
+http://t.co/nXSeXBl9dQ"
+123,583944581504438272,Fri Apr 03 10:50:12 +0000 2015,4,0,"RT @rmtiwari: @ravikanth also auto-added to OData Directory 
+http://t.co/FH6A50zbUQ
+visualize, build queries and explore 
+@Azure http://t.c…"
+124,583919235367317504,Fri Apr 03 09:09:29 +0000 2015,8,0,RT @ravikanth: Visualize your oData services with xoData! http://t.co/UzamtkdrFn try the @Azure VM Depot svc https://t.co/SEaZg8yNrS http:/…
+125,583708765922398208,Thu Apr 02 19:13:09 +0000 2015,3,2,"..#OData Directory Status : http://t.co/MKrcbJYaRu
+OData Version etc. updated . #XOData http://t.co/d7XZpEssOK"
+126,582840162482327552,Tue Mar 31 09:41:38 +0000 2015,1,0,"RT @opheliaLi: @rot_da  Browse the result : XOData, Postman, Fiddler and etc. Consume an odata service : http://t.co/3pXZy0JR0o"
+127,582486847974191104,Mon Mar 30 10:17:41 +0000 2015,5,2,"Save #OData Queries as Favourites : 
+..Now deployed in #XOData Chrome App
+..Free trial extended till 5th April 2015 http://t.co/gBspuFnDij"
+128,581965766066597890,Sat Mar 28 23:47:05 +0000 2015,1,2,"..new one in #OData Directory http://t.co/ANmbX0r1Aw
+Navigations not working. HTTPS but HTTP mentioned inside feed http://t.co/NjVfrV8gCi"
+129,581903299403755520,Sat Mar 28 19:38:52 +0000 2015,6,2,"...manage Test Cases/Reports as ""Favourite OData Queries"" in #XOData Chrome App - nearly there : http://t.co/CrcqNlupTw"
+130,580357959949090816,Tue Mar 24 13:18:14 +0000 2015,6,7,"..now 100 #OData Sources in OData Directory : http://t.co/MKrcbJYaRu
+#OpenData #XOData http://t.co/EtYq3jaTof"
+131,579243062204985344,Sat Mar 21 11:28:02 +0000 2015,2,0,"RT @rmtiwari: ..testing #XOData Favourites &gt;&gt;Save #OData Query as Test cases/Reports using ""favourites"" for one-click access later http://t…"
+132,574891291290517505,Mon Mar 09 11:15:39 +0000 2015,1,0,"RT @rmtiwari: ..new ones in #OData Directory
+Health (http://t.co/s9KEJuIRk9) and Tourism (http://t.co/sHlZaPrvJb)
+#XOData #OpenData http://…"
+133,574517288335970304,Sun Mar 08 10:29:30 +0000 2015,2,0,"RT @rmtiwari: ..a bit more automation needed &gt;&gt; Status of #OData Directory
+#XOData
+http://t.co/BZ2WT19JKD http://t.co/HmVzKfH7t0"
+134,574500138707783681,Sun Mar 08 09:21:21 +0000 2015,10,0,RT @zBeer: Putting the “Open” in Open Data: Creating a Global Standard http://t.co/2RTt2mCe9h by @DataGov #w3 #ogov #odata  #lod #egov #data
+135,573907444834959360,Fri Mar 06 18:06:12 +0000 2015,3,3,"..addition of new open #OData APIs to Directory is now automated with help of #XOData online.
+http://t.co/ANmbX0r1Aw http://t.co/IXRMl5Lvc5"
+136,573828275572703232,Fri Mar 06 12:51:36 +0000 2015,1,0,"RT @rmtiwari: ..added to #OData directory &gt;&gt; Courier Management OData API for Fiori by netlife.hu
+http://t.co/BZ2WT19JKD http://t.co/N1q8Hs…"
+137,573077423761313792,Wed Mar 04 11:07:59 +0000 2015,2,1,"Important announcement regarding #XOData online to set the scene for ""Open #OData Directory"":
+http://t.co/nXSeXBl9dQ http://t.co/5FgkNfpTXx"
+138,569634880637804544,Sun Feb 22 23:08:33 +0000 2015,2,0,"RT @programmableweb: Explore #OData #APIs visually with XOData from @pragmatiqa
+http://t.co/40eOu9imn7 http://t.co/5Sj1emPjSp"
+139,569087729293791232,Sat Feb 21 10:54:22 +0000 2015,2,0,RT @clemensreijnen: XOData Lets Developers Explore OData APIs Visually http://t.co/nLR45JIBEB
+140,568726338733023232,Fri Feb 20 10:58:20 +0000 2015,4,0,"RT @rmtiwari: ..Open #OData Directory is now online :) #wip
+http://t.co/FH6A50zbUQ
+#XOData http://t.co/XlGHzbmudk"
+141,564440079549337601,Sun Feb 08 15:06:16 +0000 2015,2,7,"..that's like a thousand developers/architects/analysts &gt;&gt; 
+#XOData Chrome App : #OData Explorer http://t.co/j8sseE5Q26"
+142,563667621481299968,Fri Feb 06 11:56:48 +0000 2015,1,0,"..#XOData Chrome App is now free for University Students and Researchers.
+https://t.co/0HV3RYI7KP cc : @odataorg #OData Explorer"
+143,563661211506835456,Fri Feb 06 11:31:19 +0000 2015,2,0,"RT @rmtiwari: ..on that note, #XOData Chrome App is now free for University Students and Researchers :)
+https://t.co/0ETedCEBxV http://t.co…"
+144,562298716561096704,Mon Feb 02 17:17:15 +0000 2015,4,0,"RT @rmtiwari: ..what happened in May-2006? &gt;&gt; looking at #OData Services from #Fiori Demo Cloud in #XOData
+https://t.co/HV2cCSnCcS http://t…"
+145,561919061341523969,Sun Feb 01 16:08:38 +0000 2015,2,0,RT @johnsheehan: Relay is intriguing but GraphQL sounds like the original OData. Maybe that's the right interface for this case. https://t.…
+146,561614918085255169,Sat Jan 31 20:00:05 +0000 2015,1,1,"Changes deployed to online #XOData
+..Default Axis ordering 
+..Scrollbar &amp; other usability..for data-tables 
+#OData http://t.co/gwURT4zcb3"
+147,560447250422583296,Wed Jan 28 14:40:11 +0000 2015,1,0,RT @cgerold: Useful #oData validation tool http://t.co/zzHtU02Ms6 #pragmatiqa.com
+148,560447044834574336,Wed Jan 28 14:39:22 +0000 2015,1,0,"RT @rmtiwari: ..stuck on escalator myself ;) &gt;&gt;select-box scroll-bar not visible when long entity names: use *drag* 
+http://t.co/alIGjSK9a7…"
+149,558617875649662976,Fri Jan 23 13:30:54 +0000 2015,0,0,@peterbb Thanks Peter :)
+150,558617461810278400,Fri Jan 23 13:29:16 +0000 2015,1,0,RT @peterbb: @vladvino please buy @pragmatiqa and use #xodata to build support into #apim !!!!!
+151,558617398128181248,Fri Jan 23 13:29:00 +0000 2015,2,0,RT @peterbb: Just found #xodata from @pragmatiqa and it's freakin awesome! Builds better docs for #odata endpoints than anything I've seen
+152,557941245650411524,Wed Jan 21 16:42:13 +0000 2015,1,0,RT @rmtiwari: ..minor change in #XOData : Timeout is increased as slow #OData APIs are unable to return the results for [All Data- in batch…
+153,557836910354501632,Wed Jan 21 09:47:38 +0000 2015,3,0,"RT @rmtiwari: #copyright violation aside, +1 for how @USDOTFRA using #XOData's #OData Query Builder tho ;)
+http://t.co/w9yWeLy6sb http://t.…"
+154,544512148014387200,Mon Dec 15 15:19:47 +0000 2014,0,1,"..Happy holidays to all :) 
+..setting #OOO"
+155,543807676099362816,Sat Dec 13 16:40:28 +0000 2014,2,0,"RT @rmtiwari: ..added support for *in* condition #OData query on integer columns too &gt;&gt;
+#XOData http://t.co/mTrhBfLtNP"
+156,543807569878581249,Sat Dec 13 16:40:02 +0000 2014,2,0,"#XOData Chrome App : Free Trial Extended till 17th Jan 2015, due to holidays.
+..All changes are deployed to both #XOData online &amp; Chrome App"
+157,543009404787113984,Thu Dec 11 11:48:25 +0000 2014,0,0,"...Chart Ranking changes deployed to online #XOData
+#OData"
+158,543009073659383808,Thu Dec 11 11:47:06 +0000 2014,3,0,"RT @rmtiwari: Rank auto-calculated-selected [Top10 + V. High to V. Low ]-always show a Chart &amp; with reasonable data-points
+#XOData http://t…"
+159,541956471278538752,Mon Dec 08 14:04:26 +0000 2014,1,0,RT @rmtiwari: ..How to Explore Azure Marketplace #OData Datasets using #XOData: http://t.co/wC1PqLZAYJ
+160,540649946911764480,Thu Dec 04 23:32:46 +0000 2014,2,1,"...added ""Getting Started"" &amp; ""Demo and Tutorials"" sections on #XOData Product page: http://t.co/hV5gDYYY18 http://t.co/KQIDIvQvpk"
+161,539764712310071296,Tue Dec 02 12:55:10 +0000 2014,0,2,"#XOData nearly approved as a #NoDeveloper ( Not only Developer ) App 
+&gt;&gt; http://t.co/U1dty1OGis  #OData
+[..But if you are a non-developer..]"
+162,539038544753602560,Sun Nov 30 12:49:38 +0000 2014,2,1,..reasonably sure that it has crossed 600 now &gt;&gt; #XOData Chrome App http://t.co/Ejj8PCm6oR
+163,538743901239390209,Sat Nov 29 17:18:50 +0000 2014,1,1,"..How to Access and Explore SAP Gateway #OData APIs with #XOData Chrome App: 
+https://t.co/4YQ514HdLu"
+164,536542027551625216,Sun Nov 23 15:29:22 +0000 2014,3,0,RT @tpowlas: Using XOData with SAP Lumira to Analyze Fiori Applications by @tpowlas http://t.co/AshpzYECjk #scn via @SAPCommNet
+165,536534951010009090,Sun Nov 23 15:01:15 +0000 2014,0,0,"@tpowlas ..suggest to use [get all data] button.Also, apart from export to CSV, in data-mode CNTRL+A, CNTRL+C, would copy data to clipboard."
+166,536532948418564097,Sun Nov 23 14:53:17 +0000 2014,0,0,@tpowlas Thanks Tammy :) ..if user/password is not needed for #OData service and it's on internet then online version will work too...
+167,536532310641090561,Sun Nov 23 14:50:45 +0000 2014,1,0,RT @tpowlas: Trying out @pragmatiqa as a data source to #SAPLumira this morning http://t.co/GbaRzAOveg
+168,535368820538765312,Thu Nov 20 09:47:28 +0000 2014,4,4,"..was quick from 400 to 500...@openSAP effect? :)
+#XOData Chrome App http://t.co/yCXwmBY7Rc"
+169,534845100938240001,Tue Nov 18 23:06:23 +0000 2014,3,3,"Thanks @ruinogueira  &amp; @openSAP team for trying #XOData and your kind words :) 
+#HCP ""Extending SAP Cloud Products: Exploring OData APIs"""
+170,534722986906234880,Tue Nov 18 15:01:09 +0000 2014,2,0,"RT @fredverheul: “@rmtiwari: ..Happy B'day @pragmatiqa :)
+#XOData http://t.co/ZsmT7UOvLY” HB &amp; Congrats for being recommended in @opensap #…"
+171,534719175697387520,Tue Nov 18 14:46:00 +0000 2014,0,0,"..xodatabeta is now live on http://t.co/uMQmMvnY5n
+..old version is accessible at http://t.co/ChZvUDdYvu http://t.co/NsrhxKmYIv"
+172,533185564905066496,Fri Nov 14 09:11:59 +0000 2014,1,0,..crossing 400  #LittleWins #XOData #OData http://t.co/3dYAugQL6a
+173,530372930874912769,Thu Nov 06 14:55:35 +0000 2014,1,1,"..New XOData : Business Analytics with OData (Beta) : is deployed as Chrome App
+https://t.co/SkZhPpLyVq
+Free Trial extended till end of 2014"
+174,527020491178266624,Tue Oct 28 08:54:11 +0000 2014,1,0,RT @christophdanger: Very handy! RT @ADefWebserver: Use #LightSwitch for your #OData back-end and you can use #XOData for data mining https…
+175,526766930615894016,Mon Oct 27 16:06:37 +0000 2014,3,1,"..A quick Enterprise style guide[ PDF ] :) &gt;&gt;
+What's new in #XOData : Self-Service Analytics based on #OData APIs :)
+http://t.co/Pb3CiXoiyI"
+176,526510420459552768,Sun Oct 26 23:07:21 +0000 2014,3,0,"RT @rmtiwari: ..standard ""Print to PDF"" from Chrome of #XOData generated diagrams : http://t.co/GNrbWNtHJS"
+177,524653448101646337,Tue Oct 21 20:08:24 +0000 2014,1,0,"RT @rmtiwari: ..better than PPTs &gt;&gt; A Tweet-Story about XOData : Business Analytics based on OData APIs . Thanks @Storify 
+https://t.co/d0g…"
+178,524133450279047168,Mon Oct 20 09:42:07 +0000 2014,7,1,"...Preview of new XOData : What's new in XOData : http://t.co/wGjk9lu74I
+..spell-check done this time :) http://t.co/ZKZMVzgcyf"
+179,515076377339777024,Thu Sep 25 09:52:32 +0000 2014,2,0,RT @rmtiwari: ..simple Bar Chart &amp; summary using  TerritorySalesDrilldown entity : #XOData &amp; #OData Service http://t.co/qdZkRe1HWG http://t…
+180,511565512271462400,Mon Sep 15 17:21:37 +0000 2014,1,1,"Exploring OData Endpoints:
+http://t.co/6xIgqaqBgp"
+181,507623956929466369,Thu Sep 04 20:19:17 +0000 2014,1,0,"RT @DataDirect_News: Instant #OData for IBM #DB2 on z/OS, iSeries, and LUW http://t.co/wbwCCw9vRw via @SAsinSumit"
+182,505277997134667776,Fri Aug 29 08:57:16 +0000 2014,1,0,"RT @rmtiwari: ..very grateful to Peter @peterjlawrence . A few months back, he helped me a lot during initial testing of #XOData with OData…"
+183,502375201003565057,Thu Aug 21 08:42:36 +0000 2014,2,0,"RT @rmtiwari: Subscribed Azure #OData/sets will be available in service dropdown after login using Account Key.
+#XOData Chrome App http://t…"
+184,498579614328168448,Sun Aug 10 21:20:17 +0000 2014,3,0,"..significant changes to #XOData today:
+- Annotations are now displayed 
+- Function/Actions added on diagram
+#OData http://t.co/GcYzSbDPZF"
+185,495142653609385985,Fri Aug 01 09:43:02 +0000 2014,2,0,..pie/donut chart is now available in #XOData online OData Explorer http://t.co/QQP1tu80zU http://t.co/jRRPLIDj7p
+186,493383721589157889,Sun Jul 27 13:13:40 +0000 2014,1,2,"..#XOData Chrome App: 150+
+..Online Preview 1000+ visitors/month
+..Enterprise Edition Sales pipeline - 2
+#LittleWins http://t.co/DYYCS7EZwI"
+187,492577196901687296,Fri Jul 25 07:48:50 +0000 2014,1,0,"...one page brochure (PDF) for #XOData : OData Explorer :
+http://t.co/rsnfZav8RR"
+188,492573875822399488,Fri Jul 25 07:35:38 +0000 2014,0,1,...one page brochure for #XOData &gt;&gt; http://t.co/ZDPNWYpca6
+189,492257704082407425,Thu Jul 24 10:39:17 +0000 2014,1,0,...*Make* it till you make it :)  #StartUpLearning
+190,489053972507148288,Tue Jul 15 14:28:47 +0000 2014,1,0,"RT @rmtiwari: ..#XOData evolved further but basic idea still relevant : 
+How will it help in API Development Process?
+https://t.co/7eGw6VN6…"
+191,488607579011305472,Mon Jul 14 08:54:59 +0000 2014,1,0,..XOData®  :) #LittleWins
+192,487988402730860545,Sat Jul 12 15:54:36 +0000 2014,3,2,"..an eye on little milestones :) &gt;&gt; 
+#XOData Chrome App crossed 100+ downloads yesterday. http://t.co/mj3DOgys96"
+193,486544203615592448,Tue Jul 08 16:15:52 +0000 2014,1,0,...quick overview of #XOData Chrome App &gt;&gt; MT @timecockpit #OData shines with @pragmatiqa XOData and #timecockpit http://t.co/J4wtkL9SSo …
+194,485821240029233153,Sun Jul 06 16:23:04 +0000 2014,2,0,RT @rmtiwari: ..here is a good one : Permanent Employment in the UK ( Men vs. Women )  #XOData #OECD #OpenData http://t.co/jqbv0ypNL6
+195,483886464967933952,Tue Jul 01 08:14:58 +0000 2014,3,0,RT @datosgob: Nueva versión de Online XOData para explorar las APIs #opendata: http://t.co/B8g2Z9zEC9 vía @pragmatiqa
+196,483505977002819584,Mon Jun 30 07:03:02 +0000 2014,2,1,"..as promised online #XOData, to explore publicly accessible #OData services, is now upgraded
+http://t.co/36JlsukDK0 http://t.co/BAYEeJ6rXM"
+197,483224370274263040,Sun Jun 29 12:24:02 +0000 2014,4,0,RT @rhirsch: RT @Techinasia: Why India must fix its obsession with software services &amp; pivot to products http://t.co/bgjKB0zkmj &gt;&gt; re: @vsi…
+198,482457714204082176,Fri Jun 27 09:37:37 +0000 2014,3,2,"#XOData Chrome App is now updated with new features - available in Web Store. https://t.co/ok9F6GFAGG
+#OData #Charts http://t.co/1MvGLyz6HS"
+199,480990842359119872,Mon Jun 23 08:28:47 +0000 2014,0,0,"...along with quick Data-Graph option :
+http://t.co/DWlkPsGPf6  #XOData #OData"

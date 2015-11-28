@@ -1,0 +1,230 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669082802068062208,Tue Nov 24 09:19:05 +0000 2015,0,2,The Architecture of #OpenSource Applications: #Nginx https://t.co/cfWCtqj5ip
+1,668948256387387392,Tue Nov 24 00:24:27 +0000 2015,19,0,"RT @olasitarska: Django Girls Tutorial now available in 11 languages, with Italian, Hungarian and Chinese published last week! https://t.co…"
+2,668946635364409344,Tue Nov 24 00:18:00 +0000 2015,9,0,RT @pycon: We would like to thank Docker for becoming a Silver sponsor of PyCon 2016! @docker https://t.co/8gS8sp0nWO
+3,668945662134919168,Tue Nov 24 00:14:08 +0000 2015,63,0,"RT @raymondh: #python pop quiz:  What does this print?
+&gt;&gt;&gt; x = 10
+&gt;&gt;&gt; s = [x**2 for x in range(5)]
+&gt;&gt;&gt; print(x)"
+4,668945537643782145,Tue Nov 24 00:13:39 +0000 2015,8,0,"RT @marcel_dmg: Python for Quants: Quantitative Finance, Risk Management, Modelling, Algorithms, and Algo Trading #Python #Trading 
+https:/…"
+5,668929430862041088,Mon Nov 23 23:09:39 +0000 2015,5,2,How to setup a #datascience environment in minutes using #Docker and #Jupyter https://t.co/OTlnMLvBMC via @dataquestio
+6,668851811999203328,Mon Nov 23 18:01:13 +0000 2015,0,1,"Flappy bird clone for a speed-programming video, made in 72 minutes. #game #Python https://t.co/pYgYwb9jxU"
+7,668803801202167808,Mon Nov 23 14:50:26 +0000 2015,1,5,Analyzing GitPython and Pandas With GitPandas https://t.co/D4irhw8mhx via @willmcginnis #Python #Pandas
+8,668719788034793472,Mon Nov 23 09:16:36 +0000 2015,3,5,Convert #XLSX to #PDF with #Python and #xtopdf https://t.co/7t4j9vQ7cT by @vasudevram
+9,668579796104912897,Mon Nov 23 00:00:19 +0000 2015,59,0,RT @sanityinc: Programming tip: many of those arrays and hashes in your code should actually be sets. Match data structures to data constra…
+10,668579188761317380,Sun Nov 22 23:57:54 +0000 2015,95,0,"RT @SciPyTip: When I first looked at Python, I didn't see what the big deal was. It looked so plain. Then I realized that WAS the big deal."
+11,668579111485513728,Sun Nov 22 23:57:36 +0000 2015,20,0,RT @opensourceway: Linux and Python education for students in Israel: https://t.co/RhfNceq8wu
+12,668578686661193729,Sun Nov 22 23:55:55 +0000 2015,94,0,"RT @raymondh: #python tip:  When your intended variable name is a keyword, PEP 8 recommends affixing an underscore:
+
+   lambda_ = 0.2
+   cl…"
+13,668574466608398336,Sun Nov 22 23:39:09 +0000 2015,1,2,"Source code from the talk #Python tips, tricks and dark magic @pycones 2015/11/21 https://t.co/0oUQxsxSjt"
+14,668518483349606400,Sun Nov 22 19:56:41 +0000 2015,0,5,#Nginx #proxying to nginx: getting gzip compression to work https://t.co/H5GaxGGIhC by @reinoutvanrees
+15,668441610645020672,Sun Nov 22 14:51:13 +0000 2015,5,2,"Getting started with #Docker, #Compose and #Django https://t.co/MGn9izDdse via @howchoo"
+16,668411403640971264,Sun Nov 22 12:51:11 +0000 2015,2,4,Write NES #games in #Python https://t.co/2FY4NfnWMx
+17,668228602547314689,Sun Nov 22 00:44:48 +0000 2015,9198,0,"RT @bhalp1: Sometimes when I'm writing Javascript I want to throw up my hands and say ""this is bullshit!"" but I can never remember what ""th…"
+18,668225777570328576,Sun Nov 22 00:33:35 +0000 2015,1,0,A #python tutorial on #bayesian modeling techniques (PyMC3) https://t.co/a45wYaQUL4
+19,668143098841690112,Sat Nov 21 19:05:02 +0000 2015,1,0,Transducers in #Python https://t.co/KbvKM18iEJ
+20,668095809053990912,Sat Nov 21 15:57:08 +0000 2015,4,3,#Python's Hidden Regular Expression Gems https://t.co/KgmDIEkYie
+21,668023905966272512,Sat Nov 21 11:11:25 +0000 2015,4,10,"How To Create Installable, Reusable #Django Packages https://t.co/mYKtAiMoEw via @pydanny"
+22,667870754806079489,Sat Nov 21 01:02:51 +0000 2015,8,0,RT @mattkohl: Great post by @mkennedy on the benefits of using PyCharm https://t.co/jPQYfsvlar
+23,667870730042896386,Sat Nov 21 01:02:45 +0000 2015,134,0,"RT @fbOpenSource: Releasing mention-bot, a handy tool for projects to quickly notify potential PR reviewers. https://t.co/HQAmg34CQg https:…"
+24,667842619599421440,Fri Nov 20 23:11:03 +0000 2015,0,0,Use #Python to access your #Bluemix Object #Storage https://t.co/JX7G4pYYPT via @IBMdw
+25,667839730386649088,Fri Nov 20 22:59:34 +0000 2015,1,0,RT @prasad_h: Really good stuff #python https://t.co/MNxlPEq6VD
+26,667731331560955904,Fri Nov 20 15:48:49 +0000 2015,2,4,15 Essential #Python #Interview Questions | Codementor https://t.co/LY7MwyyGtu via @CodementorIO
+27,667514932485865472,Fri Nov 20 01:28:56 +0000 2015,9,0,"RT @opbeat: cookiecutter-django by @pydanny now supports Opbeat! 
+Thanks @burhan for the PR 👏 https://t.co/n8teAAjAW5 #django https://t.co/…"
+28,667473287333740545,Thu Nov 19 22:43:27 +0000 2015,1,0,Deploying Anything with Dropship https://t.co/8woZIHWPcA via @TopherMcK
+29,667440434726223874,Thu Nov 19 20:32:54 +0000 2015,2,3,#Python Knowledge Base https://t.co/79GpLbn8uM via @quantifiedcode
+30,667398684410314754,Thu Nov 19 17:47:00 +0000 2015,3,1,Uploading With #Django and #AmazonS3 https://t.co/rs2UCLc2iD
+31,667310244746268673,Thu Nov 19 11:55:35 +0000 2015,4,4,Plotly: the browser-based #graphing library for #python https://t.co/c9n9iio0j2
+32,667135147309953024,Thu Nov 19 00:19:48 +0000 2015,21,0,RT @newsycombinator: Spinnaker – open source multi-cloud Continuous Delivery platform by Netflix https://t.co/ceZGsWmiml
+33,667135101843697664,Thu Nov 19 00:19:37 +0000 2015,69,0,"RT @tdhopper: OH: We need a Venn diagram for data science that combines impostor syndrome, regular expressions, and storytelling."
+34,667125863343923200,Wed Nov 18 23:42:55 +0000 2015,4,1,Tutorial: How to reverse unknown #protocols using #Netzob https://t.co/7F2RA8S7Dc via @Amossys #Python #reverseEngineering
+35,667085193216401408,Wed Nov 18 21:01:18 +0000 2015,1,0,#Python's on the Rise... While #PHP Falls - Dice Insights - https://t.co/xUU0BotYsA via @dicedotcom
+36,667047438365138949,Wed Nov 18 18:31:17 +0000 2015,2,5,A Proven Framework for Exporting Your Medium Followers https://t.co/2L9VVwdUCM via @CodementorIO #Python
+37,666998723025747969,Wed Nov 18 15:17:42 +0000 2015,2,4,Pythex: A #Python regular expression editor https://t.co/0LhJFsjQqL
+38,666908821474947072,Wed Nov 18 09:20:28 +0000 2015,3,1,#Python Pickle #Security Problems and Solutions https://t.co/72GE8TPpNZ via @SmartFile
+39,666793743928958976,Wed Nov 18 01:43:11 +0000 2015,8,0,RT @SecNewsBot: Hacker News - OS X El Capitan breaks python package manager pip https://t.co/xkf30tjq51
+40,666787565303930880,Wed Nov 18 01:18:38 +0000 2015,3,3,Implementing a Braintree Payment #API Integration with #Python and #Django https://t.co/vbiYIV9oe5 via @mpetyx
+41,666743074962452484,Tue Nov 17 22:21:51 +0000 2015,3,0,Software performance in an ASM.js world https://t.co/ptoLnRAVg6 by @sonicrocketman #Python #PyPy #JS
+42,666693149608275968,Tue Nov 17 19:03:28 +0000 2015,1,1,"Python C API, PyPy and the road into the future https://t.co/g9su0dJJav"
+43,666612699309154304,Tue Nov 17 13:43:47 +0000 2015,143,0,"RT @honest_update: Between containers, cluster managers and virtual machines we've lost track of where our code even is. #inception"
+44,666585737823961088,Tue Nov 17 11:56:39 +0000 2015,5,4,Profiling #Python using #cProfile: a concrete case https://t.co/uS1sqCWW61 by @juldanjou
+45,666556817745584128,Tue Nov 17 10:01:44 +0000 2015,0,1,Is there time for coffee? Your execution time is ticking in #Python! https://t.co/8n0Pss1Nx5
+46,666423426509373440,Tue Nov 17 01:11:41 +0000 2015,111,0,"RT @randal_olson: Introducing TPOT, the #DataScience Assistant. Automates #MachineLearning in #Python.
+
+https://t.co/tXGK1KEIk5 https://t.c…"
+47,666422967644082176,Tue Nov 17 01:09:51 +0000 2015,0,1,#Python #Multithreading Quiz To Test Your Skills https://t.co/9qQo1JWZHP via @techbeamers
+48,666370119858307072,Mon Nov 16 21:39:51 +0000 2015,2,1,@pyletter: Pythran: A claimless #Python to #Cpp converter https://t.co/7ILUlkTDbU
+49,666318334372265984,Mon Nov 16 18:14:05 +0000 2015,4,1,Setting Up a #BDD Stack on a #Django Application https://t.co/e533X1CbKM via @semaphoreci
+50,666277568656576513,Mon Nov 16 15:32:05 +0000 2015,4,0,Debugging Dockerized #Python ( #Django ) App With #PyCharm https://t.co/BS0CIPr3Pz by @netczuk
+51,666169901141372929,Mon Nov 16 08:24:15 +0000 2015,5,3,#DataVisualization in #Python : Advanced Functionality in Seaborn https://t.co/LgHKklqwDy via @InsightDataLabs
+52,666025593838968832,Sun Nov 15 22:50:50 +0000 2015,1,0,#DataMining Code Templates &amp; Tutorials https://t.co/qLr6BRoXym
+53,665937120704466946,Sun Nov 15 16:59:16 +0000 2015,1,2,"APIs with #Python , #Flask , #Firebase and Pubnub https://t.co/wjsz9cYt3W via @mpetyx"
+54,665841080647200768,Sun Nov 15 10:37:39 +0000 2015,1,3,"Controlling Business State Transitions with Zato, #Python and #REST https://t.co/blPJ8awKfM"
+55,665688667588042752,Sun Nov 15 00:32:00 +0000 2015,3,7,The Best of the Best Practices (BOBP) Guide for #Python https://t.co/V21rfJvUsD
+56,665605529121775617,Sat Nov 14 19:01:39 +0000 2015,1,0,RT @worldcyclist: Count on @pyletter for the most awesome Python news.
+57,665605378550444032,Sat Nov 14 19:01:03 +0000 2015,0,1,Jobtastic: Make your #Celery jobs more awesome https://t.co/ClVHr6rzFk
+58,665488971619811328,Sat Nov 14 11:18:29 +0000 2015,1,2,#Python 's #web framework benchmarks https://t.co/8HprvCkfAE #Django #Flask #Pyramid #Tornado
+59,665407258818383873,Sat Nov 14 05:53:47 +0000 2015,57,0,"RT @mraleph: ""Measuring Polymorphism in Python Programs"" interesting paper from DLS
+https://t.co/AeyJnXaNQf https://t.co/sPPn3yXCpB"
+60,665392867129561088,Sat Nov 14 04:56:36 +0000 2015,5,1,Your text editor is malware https://t.co/k4Dj0f7WNN via @glyph
+61,665293012507959296,Fri Nov 13 22:19:49 +0000 2015,1,2,Using #Ansible with #Docker Machine to Bootstrap Host Nodes https://t.co/86sYvvwxnM by @upthecyberpunks
+62,665162428301357057,Fri Nov 13 13:40:55 +0000 2015,0,3,A few things about #Redis #security https://t.co/SipLugtLaf via @antirezdotcom
+63,665139265496621056,Fri Nov 13 12:08:53 +0000 2015,2,4,Lessons I learnt in quest of writing beautiful #python code https://t.co/gctkR6rRb3
+64,665124095135227904,Fri Nov 13 11:08:36 +0000 2015,0,0,#C is for #Python https://t.co/xB2WxrIwaB via @OpenDNSLabs
+65,664989264803926016,Fri Nov 13 02:12:50 +0000 2015,0,0,Building Interactive Dashboards with #Jupyter https://t.co/XqUYh60Z8z via @DominoDataLab #Python
+66,664848815783047168,Thu Nov 12 16:54:44 +0000 2015,1,5,Getting Started with #Django #REST Framework (DRF) and #AngularJS (Part 1) https://t.co/tvHgWIh2n5
+67,664761305799200768,Thu Nov 12 11:07:00 +0000 2015,1,1,#Security Alerts for #Java &amp; #Python https://t.co/I9j00BTD1i by @RobertReiz
+68,664626623258435584,Thu Nov 12 02:11:49 +0000 2015,1,1,Almost Flask: A #Flask near-implementation in less than 10 lines. https://t.co/0jwnZv10Ha #Python3 #webdev
+69,664625010082979841,Thu Nov 12 02:05:25 +0000 2015,1,1,Legofy: a #python program that takes an image and makes it so that it looks as if it was built out of LEGO https://t.co/avclYLGDyq
+70,664507332429266944,Wed Nov 11 18:17:48 +0000 2015,1,1,Playing Pacman with gestures: #Python + #OpenCV https://t.co/4eDX0FT5LD by @Vipul_sharma
+71,664401681808015360,Wed Nov 11 11:17:59 +0000 2015,0,2,Counting Things in #Python: A History - Trey Hunner https://t.co/vp2GloyuqN via @treyhunner
+72,664264648737296384,Wed Nov 11 02:13:28 +0000 2015,5,0,Initial Data in #Django https://t.co/m1poixo9Gz via @CaktusGroup
+73,664263469546520576,Wed Nov 11 02:08:47 +0000 2015,4,0,RT @RealPython: The Best Machine Learning Libraries in Python https://t.co/PS0OcWGdJ1
+74,664178320246968325,Tue Nov 10 20:30:26 +0000 2015,0,3,Github Trends: A recurrent #neuralnetwork for generating little stories about images https://t.co/BG5mzWH5Vk #Python
+75,664136111070027776,Tue Nov 10 17:42:42 +0000 2015,1,3,#Ionic app with a RESTful backend: Part 2 - The Ionic app https://t.co/9v4vGLAnAv #Django #REST
+76,664034056053653504,Tue Nov 10 10:57:10 +0000 2015,1,3,Customizing the #Flask Response Class https://t.co/1tQtbixLty via @miguelgrinberg #Python #webdev
+77,663897018641874944,Tue Nov 10 01:52:38 +0000 2015,54,0,RT @docker: It's here! Upgraded Autobuild System on #DockerHub: https://t.co/8nP3ZfkvGO post by @mattsoldo #Docker @Docker https://t.co/Gva…
+78,663896325780541442,Tue Nov 10 01:49:53 +0000 2015,109,0,"RT @ch402: My team at Google just open sourced TensorFlow, our library for training large-scale neural networks. https://t.co/8WwPa54zCg"
+79,663896140237160453,Tue Nov 10 01:49:09 +0000 2015,415,0,RT @DrapsTV: New to #python and getting stuck with errors? Follow this infographic! #programming https://t.co/Ooes0En9el
+80,663893765355081728,Tue Nov 10 01:39:42 +0000 2015,0,1,#Django under the hood: twisted and django https://t.co/X3JsPKeOzV by @reinoutvanrees
+81,663793859323953152,Mon Nov 09 19:02:43 +0000 2015,0,0,Peak detection in the #Python world https://t.co/t9HCfiuP9I
+82,663369195174936576,Sun Nov 08 14:55:15 +0000 2015,2,3,Morepath: Super Powered #Python Web #Framework https://t.co/eqjT6I8zpe
+83,662044857716899840,Wed Nov 04 23:12:48 +0000 2015,0,1,CountDownLatch in #Python using Condition Objects https://t.co/MB4hq0iCEc
+84,661983789590167553,Wed Nov 04 19:10:09 +0000 2015,2,1,How to Get the Best out of #Python and RapidMiner https://t.co/9JNFtjJpcG by @mSchmitz_  #DataAnalytics
+85,661906593525706752,Wed Nov 04 14:03:24 +0000 2015,2,0,#PyMongo 3.1 Works Around A Funny Performance Flaw In #Python 2 | #MongoDB https://t.co/EhnaE4Zk0H by @jessejiryudavis
+86,661721063215206400,Wed Nov 04 01:46:10 +0000 2015,9,0,RT @arnicas: https://t.co/x3Pd7yF8km is a thing - python for processing https://t.co/VYObGCHvlB
+87,661720471197638658,Wed Nov 04 01:43:49 +0000 2015,12,0,"RT @crtr0: curl -X POST https://t.co/eEI7Log8bC \
+-d team=API+Tools \
+-d skills=Go+Python+Java+PHP \
+-d location=SF \
+-d interests=develope…"
+88,661688145071767554,Tue Nov 03 23:35:22 +0000 2015,2,2,Improving your code readability with namedtuples https://t.co/dB8xUWpPBa via @pythoncourses #Python
+89,661642830947962880,Tue Nov 03 20:35:18 +0000 2015,8,6,#VIM and #Python - a Match Made in Heaven https://t.co/kl7T4so58u via @RealPython
+90,661616883330899968,Tue Nov 03 18:52:11 +0000 2015,2,1,Let’s Build A Simple #Interpreter . Part 6. https://t.co/77ML7hftkK by @alienoid
+91,661330025422176256,Mon Nov 02 23:52:19 +0000 2015,4,8,Building your own URL shortening service with #python and #flask https://t.co/DbvANDuszS
+92,660789844642283520,Sun Nov 01 12:05:50 +0000 2015,2,5,Growing your #Flask App - Blueprints https://t.co/7ktYzUbY2b by @arthbarros #python #webdev
+93,660604043593654272,Sat Oct 31 23:47:32 +0000 2015,2,1,#Python Mistakes That Most People May Have Made At One Point Or Another https://t.co/mEOlsQCvcJ
+94,660562944527331328,Sat Oct 31 21:04:13 +0000 2015,12,8,Object-relational mappers ( #ORMs ) https://t.co/FlIFwc35QO via @fullstackpython #Python
+95,660426973995507712,Sat Oct 31 12:03:55 +0000 2015,2,2,#Testing &amp; Packaging https://t.co/dygdWSuHr5 by @hynek #Python
+96,660258745587470340,Sat Oct 31 00:55:26 +0000 2015,3,0,RT @dihaynes: My tribute to #tbth is to post about basics. This article is great for introducing #newbies to database jargon. https://t.co/…
+97,660153458536947712,Fri Oct 30 17:57:04 +0000 2015,2,1,How to Install #PySpark and Integrate with #IPython Notebook https://t.co/UqJ8cBUAd3 via @dataquestio #Python #Spark
+98,660037213082812418,Fri Oct 30 10:15:09 +0000 2015,2,3,Intro to ROM/RAM hacking: Building an SMS powered #Game Genie with #Lua and #Python  https://t.co/pOBdQRzJPw via @twilio
+99,659889173151817732,Fri Oct 30 00:26:53 +0000 2015,40,0,RT @awscloud: Now you can write AWS Lambda functions in Python. How to: https://t.co/cnANGhNJBe https://t.co/Hkcc5Y6W0H
+100,659889040490143744,Fri Oct 30 00:26:22 +0000 2015,4,0,RT @HNTweets: Portus – Docker Registry Web UI: https://t.co/9Yi2tx1faI Comments: https://t.co/7hFCyIi6LC
+101,659886255451172864,Fri Oct 30 00:15:18 +0000 2015,1,1,Using #Python to generate word clouds from online reviews. https://t.co/aUzGsrEVDm
+102,659673278127194112,Thu Oct 29 10:09:00 +0000 2015,1,1,Debugging a Debugger https://t.co/fqSIoRfQ0p by @idrisraja #Python #debug #objectiveC
+103,659473469613154304,Wed Oct 28 20:55:02 +0000 2015,10,5,Simple VirtualHost configuration for #Python #Flask https://t.co/niw5ce7Yu5 by @arthbarros
+104,659083866926415872,Tue Oct 27 19:06:53 +0000 2015,1,0,Gryffin: a large scale #web #security scanning platform https://t.co/zP3mJJxUAb by @Yahoo
+105,658960571417645056,Tue Oct 27 10:56:57 +0000 2015,1,2,TweetLake: Command-line interface to Twitter Streaming Data https://t.co/zy7JHfXPgg
+106,658937932821221376,Tue Oct 27 09:27:00 +0000 2015,2,3,Simple application that demonstrates how to integrate #Flask to #Facebook https://t.co/ykf6F9GF0j
+107,658776904523227137,Mon Oct 26 22:47:08 +0000 2015,10,0,RT @djangogirls: Meet the wonderful @MichelleGlauser in today's Django Story 😊https://t.co/Drbs1Fo3k2
+108,658776781420417025,Mon Oct 26 22:46:38 +0000 2015,17,0,"RT @djangoproject: The websites should be restored again. Sorry we were down.
+
+And many thanks (again) to @readthedocs for the fallback doc…"
+109,658776366154911745,Mon Oct 26 22:44:59 +0000 2015,4,0,RT @RealPython: What Python project can one do in 2 weeks? https://t.co/lrIC2l6NER #python
+110,658775493995569152,Mon Oct 26 22:41:31 +0000 2015,60,0,"RT @djangoproject: We're investigating an unplanned downtime of the Django website, including the documentation. Fallback docs: https://t.c…"
+111,658584091449806848,Mon Oct 26 10:00:57 +0000 2015,2,3,What #PostgreSQL has over other open source #SQL databases: Part II https://t.co/qUd7I4fN6J via @composeio
+112,658417242003087360,Sun Oct 25 22:57:57 +0000 2015,1,0,Pyjokes: One line jokes for programmers (jokes as a service) https://t.co/C3C7g3MAYf
+113,658223519818493952,Sun Oct 25 10:08:10 +0000 2015,1,0,#Github Trends: Chromote - Simple wrapper to drive Google #Chrome from #Python https://t.co/zVeRcd235D
+114,658071860727402498,Sun Oct 25 00:05:32 +0000 2015,9,0,RT @ThinkJavaScript: Amazing things happen when we allow developers to innovate: https://t.co/AV5Yx6Uru7 #nodejs #php #javascript #html5 #d…
+115,658057360510996480,Sat Oct 24 23:07:55 +0000 2015,1,3,Creating interactive crime maps with #Folium https://t.co/EUi1YmNlqW via @dominodatalab #python #datascience
+116,657852488931016704,Sat Oct 24 09:33:50 +0000 2015,6,3,A Minimal Development Server with #nginx and #Docker https://t.co/qhgAVrYmft
+117,657711686024040449,Sat Oct 24 00:14:20 +0000 2015,44,0,RT @YhatHQ: The Zen of Python by Tim Peters | https://t.co/BchLjepwFZ | What is love? https://t.co/reSIzyJr7i
+118,657707641624489984,Fri Oct 23 23:58:16 +0000 2015,1,1,More concurrency: Improved locking in #PostgreSQL https://t.co/3z0wqTzFwc via @highscal #scalability
+119,657661298096869378,Fri Oct 23 20:54:06 +0000 2015,2,1,#Python #TDD with #Mamba example https://t.co/80ReGu7MK0
+120,657630109034221568,Fri Oct 23 18:50:10 +0000 2015,1,2,Deploying a #Django App with No Downtime https://t.co/WZdtLn8K4P by @healthchecks_io
+121,657608448721448962,Fri Oct 23 17:24:06 +0000 2015,6,3,"A Few Easy Steps: #Python , Build a multi-device ping tool https://t.co/fy76li7vFV by @joshobrien77"
+122,657481384555073536,Fri Oct 23 08:59:12 +0000 2015,3,4,Create a Simple #Python Web Scraper to Get Pricing Data https://t.co/n5Kz1msB1e via @rdempsey
+123,657329493481254912,Thu Oct 22 22:55:38 +0000 2015,12,4,How to write a spelling corrector in #Python | #NLP https://t.co/Z2U2XpZVYG
+124,657327498481520641,Thu Oct 22 22:47:42 +0000 2015,15,0,"RT @robsmallshire: A purely-functional dict merge in Python 3.5:
+
+&gt;&gt;&gt; a = dict(p=1, q=2, r=3)
+&gt;&gt;&gt; b = dict(q=3, r=4, s=5)
+&gt;&gt;&gt; c = {**a, **b…"
+125,657326782463549442,Thu Oct 22 22:44:52 +0000 2015,6,0,RT @bhosmer: First flask and now click: https://t.co/5GpzGMw1PC easy command-line argument parsing in #python
+126,657326163258429440,Thu Oct 22 22:42:24 +0000 2015,2,0,RT @RealPython: Superhot $1 billion startup Docker is solving a big challenge with a new acquisition - Business Insider https://t.co/i8gBSP…
+127,657324539479740416,Thu Oct 22 22:35:57 +0000 2015,4,0,RT @fullstackpython: Taking some pain out of #Python logging https://t.co/OklmfaJNaZ
+128,656867792935899136,Wed Oct 21 16:21:00 +0000 2015,9,12,Great guide for learning #Flask https://t.co/Q5TlFzHvlk by @RealPython
+129,656779177761357824,Wed Oct 21 10:28:53 +0000 2015,7,7,Creating a web browser with #Python and #PyQt https://t.co/aZOZBSRVR7
+130,656597154904068097,Tue Oct 20 22:25:35 +0000 2015,4,0,RT @djangogirls: ⚡️ICYMI⚡️: Check out the blog post about @DjangoGirlsCov! https://t.co/XOoQuwSkB7
+131,656593196940722176,Tue Oct 20 22:09:51 +0000 2015,0,2,Automating your workflow with #Python https://t.co/dn9d66ex7X
+132,656551439523827712,Tue Oct 20 19:23:55 +0000 2015,2,2,"A look at the world wine market using #Python, #Pandas, and #Seaborn https://t.co/P2WR6kD1RH by @ja_dianes"
+133,656528243630219265,Tue Oct 20 17:51:45 +0000 2015,3,0,MockupDB: Testing the #MongoDB #C driver with #Python https://t.co/OorTcHSSji by @jessejiryudavis
+134,656504885819650049,Tue Oct 20 16:18:56 +0000 2015,9,1,What #Python can learn from #Erlang https://t.co/OXjxBOfsOa by @benoitc
+135,656504279289745408,Tue Oct 20 16:16:32 +0000 2015,7,0,"RT @covertress: #Python vs #JAVA
+h/t @pyletter https://t.co/9tDkOiF9u5"
+136,656429531394351104,Tue Oct 20 11:19:30 +0000 2015,11,5,#Microcontrollers : why we are betting on #Python https://t.co/WGy4A8XmFt
+137,656237439179202561,Mon Oct 19 22:36:12 +0000 2015,8,0,"RT @pydanny: Cookiecutter 1.2.1 (Zimtsterne) is out, complete with working YAML support for Windows users on Python 3.5: https://t.co/hUXiz…"
+138,656236280745955328,Mon Oct 19 22:31:36 +0000 2015,8,0,"RT @joshobrien77: Just updated:  Setting up Python on OSX.
+You can find it here:  http://t.co/rPkok5qJoA #staticnat"
+139,656236079348121600,Mon Oct 19 22:30:48 +0000 2015,3,0,RT @newsyc20: The problem with packaging in Python http://t.co/hxjxYEORdf (http://t.co/O7HtM8ouYk)
+140,656201295318110208,Mon Oct 19 20:12:35 +0000 2015,1,0,Comparing Python Implementations https://t.co/AYWMGBp9PC #Python #PyPy #IronPython #Jython #RubyPython #RPython via @toptalllc
+141,656125497252950016,Mon Oct 19 15:11:23 +0000 2015,2,1,Answers to #Django #Security Questions http://t.co/SlHaGJm6Xo by @kevin_london
+142,656090661586882561,Mon Oct 19 12:52:57 +0000 2015,2,4,#Python's objects and classes — a visual guide http://t.co/7rOLZX1U20 via @reuvenmlerner
+143,656034974173417472,Mon Oct 19 09:11:41 +0000 2015,15,6,Five trivial things every #python programmer should work with http://t.co/HWuVsI1ydV
+144,655888126095826944,Sun Oct 18 23:28:09 +0000 2015,36,0,"RT @fluentpython: How to fix anonymous functions in #Python
+
+(source: Function Programming HOWTO https://t.co/CRBrntgKNo) http://t.co/RSQxx…"
+145,655884755154653184,Sun Oct 18 23:14:46 +0000 2015,0,1,(Semi-)Automatic Character Network Tool http://t.co/6muROEFhrY #python
+146,655765121906667520,Sun Oct 18 15:19:23 +0000 2015,3,0,Directed #graph traversal orderings and applications to data-flow analysis http://t.co/ze0eeeR2rI by @elibendersky #python #trees #DFS
+147,655668118187061248,Sun Oct 18 08:53:55 +0000 2015,1,2,Giving it a REST http://t.co/CRYlz6lAJZ
+148,655534023473778688,Sun Oct 18 00:01:05 +0000 2015,0,1,Generate Your Tests http://t.co/OmjRJcbU2V via @kevinastone #Python #testing
+149,655419670875480064,Sat Oct 17 16:26:41 +0000 2015,1,2,Easy #Django deployments with #Ansible http://t.co/U2ehOxNBQ0 by @technivore
+150,655356746714714112,Sat Oct 17 12:16:39 +0000 2015,1,0,trivago Techblog: Writing a Fuzzy Receipt #Parser in #Python  http://t.co/klPQgSpIWm via @trivago
+151,655161021666078721,Fri Oct 16 23:18:54 +0000 2015,2,1,What’s been happening with #PyStan and #PyMC http://t.co/yryWVpDSiC #Python
+152,655094255204061185,Fri Oct 16 18:53:36 +0000 2015,13,10,"Creating a graph application with #Python , #Neo4j , #Gephi  https://t.co/JA7mZ7ibBQ via @PacktPub"
+153,655054173222907904,Fri Oct 16 16:14:19 +0000 2015,1,2,How to manage beta #testers in #Django http://t.co/SfQnRHtXde via @WildfishLondon
+154,654952804147183616,Fri Oct 16 09:31:31 +0000 2015,4,3,Django-CMS and custom template tags http://t.co/hxCiH7jaqA by @JaakkoTulkki #Python #Django #djangocms
+155,654782102391554048,Thu Oct 15 22:13:13 +0000 2015,3,0,RT @importpython: Announcing PyCharm 5 EAP 143.165: Docker Integration http://t.co/2Umjx2U9xX #docker #pycharm
+156,654781964206018560,Thu Oct 15 22:12:40 +0000 2015,5,0,RT @jhonjairoroa87: Everything ready to start the speech: microservice-oriented architecture with #python #DevFestCo @colombia_dev. http://…
+157,654780202917097472,Thu Oct 15 22:05:40 +0000 2015,71,0,"RT @docker: Save the date: @DockerCon 2016 will be in Seattle, WA on June 20-21! More info on #DockerCon 2016 here: http://t.co/T0S5dHqpv7 …"
+158,654780033517490176,Thu Oct 15 22:04:59 +0000 2015,8,0,RT @TalkPython: Come learn how @docker is being used at the Large Hadron Collider at @CERN (seriously!) on this week's @TalkPython: http://…
+159,654778984081715201,Thu Oct 15 22:00:49 +0000 2015,1,4,"Google Launches #Cloud Datalab, An Interactive Tool For Exploring And Visualizing #Data http://t.co/gBU0udHlba via @techcrunch #Python"
+160,654767983504461825,Thu Oct 15 21:17:06 +0000 2015,2,0,Let's build a simple #interpreter - part 5 http://t.co/oQ6Ger32wH by @alienoid #Python
+161,654584909072347136,Thu Oct 15 09:09:38 +0000 2015,4,3,How to Upload a Photo To #Django Using #iOS and Django Rest Framework http://t.co/qO1lViTcYY by @josephmisiti
+162,654443446871191553,Wed Oct 14 23:47:31 +0000 2015,4,0,RT @pyconcz: Check out our talks: https://t.co/ksiTtt0axr 🎤 💬 🐍 @dybacompl: with modern_peripherals: #Python and #Flask
+163,654436868201795584,Wed Oct 14 23:21:22 +0000 2015,13,1,Testing #PyMongo as a Black Pipe http://t.co/jwtjNsu6gW by @jessejiryudavis #Python #MongoDB
+164,654395064953782273,Wed Oct 14 20:35:16 +0000 2015,2,1,Bye Bye #MySQL &amp; #MongoDB . Guten Tag #PostgreSQL https://t.co/CYwzd8o1Ha #livechat via @userlike
+165,654083961388449792,Tue Oct 13 23:59:03 +0000 2015,11,4,Graphene: a #Python library for building #GraphQL schemas/types fast and easily. https://t.co/aXYQg19hBA
+166,653933037739225088,Tue Oct 13 13:59:20 +0000 2015,69,0,RT @TalkPython: You'll love this episode: #29 Python at the Large Hadron Collider and @CERN http://t.co/NUqxsipCf8 with @KyleCranmer http:/…
+167,653861780561756160,Tue Oct 13 09:16:11 +0000 2015,1,1,#CI and deployment of a #Django application from #Github to #Heroku with Semaphore https://t.co/IRzyazSKir via @semaphoreci
+168,653713641091526656,Mon Oct 12 23:27:32 +0000 2015,1,0,Allison Lacker: How I learned #Django while working at Eventbrite http://t.co/myKiZ89HoH
+169,653626690858520576,Mon Oct 12 17:42:01 +0000 2015,2,1,"How to build a #Facebook ""Hello World"" web app in #Python http://t.co/l9O4JKBjae via @programmableweb"
+170,653568180284190720,Mon Oct 12 13:49:31 +0000 2015,1,3,27 languages to improve your #Python http://t.co/y0zXkpSLke
+171,653495095602364416,Mon Oct 12 08:59:06 +0000 2015,1,0,Thumbs up for #Anaconda http://t.co/PWIfkdh50W via @WinVectorLLC #Python
+172,653367902666641408,Mon Oct 12 00:33:41 +0000 2015,5754,0,"RT @harribellthomas: ""Your password contains invalid characters."" No, your startup contains incompetent engineers."
+173,653367485312421888,Mon Oct 12 00:32:02 +0000 2015,11,0,RT @RealPython: Check out my repo of Python scripts. Just updated! https://t.co/19GyJfjRJC #python
+174,653362711196233728,Mon Oct 12 00:13:03 +0000 2015,10,0,RT @juanshishido: Woot! pandas 0.17 is out http://t.co/IuOqKPV9ax #PyData #Python
+175,653345633160577024,Sun Oct 11 23:05:12 +0000 2015,0,0,Building a self-contained #Python3 application using #PyPy http://t.co/c0x2Jp0aWf
+176,653262424645181444,Sun Oct 11 17:34:33 +0000 2015,2,1,Introduction to #Django – Part 3 http://t.co/RAv1eILhYI via @waqas80
+177,653202785824079872,Sun Oct 11 13:37:34 +0000 2015,0,0,#Scipy Lecture Notes http://t.co/Ekhuin7vqS #Python
+178,653135395396431872,Sun Oct 11 09:09:47 +0000 2015,5,3,Why #Python is a great #server side platform for apps consuming APIs http://t.co/sxy1OZGkmL via @programmableweb
+179,653009778822791168,Sun Oct 11 00:50:38 +0000 2015,1,1,Twittor - Backdoor Using Twitter For Command &amp; Control http://t.co/7UvkZDlWOn via @THEdarknet #Python #Twitter
+180,652898093600534529,Sat Oct 10 17:26:50 +0000 2015,0,2,Using Gabbi and Hypothesis to #Test #Django APIs http://t.co/oc9ynrUPSM via @WildfishLondon
+181,652841445955665920,Sat Oct 10 13:41:44 +0000 2015,0,0,Getting started to the @cloudera  #Kudu storage engine in #Python http://t.co/Jvh8ZR2rlH by @peterhoffmann #pydata #spark
+182,652779870389465088,Sat Oct 10 09:37:03 +0000 2015,0,1,"Recurrent #NeuralNetworks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients - http://t.co/OfJUR7pWnq by @dennybritz"
+183,652607605286813696,Fri Oct 09 22:12:32 +0000 2015,7,0,RT @HarriSrivastav: Use of PHP serializer in #Python: http://t.co/OZ3ImeJEdY #javascript #Django #DataScience #html5 #BigData
+184,652605594759786496,Fri Oct 09 22:04:33 +0000 2015,42,0,RT @hackaday: The OpenMV project is a #Python-powered machine vision module on #HackadayIO. http://t.co/6d4WHWfUkQ http://t.co/jwSvX4qaDe
+185,652605270162546688,Fri Oct 09 22:03:15 +0000 2015,14,0,RT @pydanny: django-rest-framework recommends using Cookiecutter for creating third-party packages. http://t.co/VXUnH0mDMX
+186,652604578077233152,Fri Oct 09 22:00:30 +0000 2015,19,0,RT @syrusakbary: Just opensourced Graphene: #GraphQL in #Python made simple http://t.co/zpeGG1lTvh #reactjs #relayjs / cc @reactjs
+187,652604550562607104,Fri Oct 09 22:00:24 +0000 2015,4,0,"RT @HNTweets: AWS Lambda Supports Python, Versioning, Scheduled Jobs, and 5 Minute Functions: https://t.co/SoopWMP3aY Comments: https://t.c…"
+188,652549114127908864,Fri Oct 09 18:20:07 +0000 2015,6,2,Instant-Music-Downloader https://t.co/wqdEkoMOR2 by @yask123 #python #opensource
+189,652393957842939904,Fri Oct 09 08:03:35 +0000 2015,16,15,Distributed language processing with #Pyspark and NLTK http://t.co/Sb9VsVJGuX via @ContinuumIO #Python #Spark
+190,652254135467810816,Thu Oct 08 22:47:58 +0000 2015,0,2,Brand new on @Kickstarter: High Performance #Django Videos by @ipmb + @LincolnLoop http://t.co/DisjJVf7HR
+191,652217272606552064,Thu Oct 08 20:21:30 +0000 2015,15,5,10 features of #Python you can't use because you refuse to upgrade to #Python3 https://t.co/uY7CmQgPai
+192,652184857280389121,Thu Oct 08 18:12:41 +0000 2015,0,0,#Django dynamic tables and filters for similar models http://t.co/q5nFdJnA4q
+193,651896827726442496,Wed Oct 07 23:08:10 +0000 2015,23,0,"RT @carltongibson: If you plan to use Bootstrap 4 with Django Crispy Forms please help test compatibility. 
+
+https://t.co/JTUbETYjpq 
+
+(RT …"
+194,651896750693851136,Wed Oct 07 23:07:51 +0000 2015,3,0,RT @PythonDaily: Another blog report on #pyconindia - http://t.co/o3VfT7xh5V @pyconindia #python
+195,651896548935266304,Wed Oct 07 23:07:03 +0000 2015,1,0,RT @PythonDaily: Cambridge -&gt; London Intro to Apache #Spark Workshop by @databricks http://t.co/oQooV0HaEc #java #python #scala expectation…
+196,651894150045040640,Wed Oct 07 22:57:31 +0000 2015,0,0,PyPy memory and warmup improvements (2) - Sharing of Guards http://t.co/ZrAeQihOx2 #pypy #python
+197,651834925814009856,Wed Oct 07 19:02:11 +0000 2015,0,0,"Recurrent #NeuralNetworks Tutorial, Part 2 – Implementing a RNN with #Python, #Numpy and #Theano - http://t.co/ZO37vW9hEv by @dennybritz"
+198,651756630045016064,Wed Oct 07 13:51:04 +0000 2015,5,0,"RT @jessejiryudavis: ""How Do Python Coroutines Work?"" live-coding demo from @osbridge 2015 http://t.co/Q9hhflbBHy This one's even better th…"
+199,651722552730099713,Wed Oct 07 11:35:39 +0000 2015,1,0,#ScienceCluster Meets #Spark http://t.co/P7gqBGF52x via @YhatHQ

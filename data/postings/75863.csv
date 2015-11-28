@@ -1,0 +1,287 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669034761759932416,Tue Nov 24 06:08:11 +0000 2015,88,0,"RT @rblakejohnson: Whoa, new @wordpress is 100% node.js and React.
+
+ https://t.co/xBTnncAn1O
+
+""100% API-powered."""
+1,668852939239383040,Mon Nov 23 18:05:42 +0000 2015,93,0,"RT @existentialcoms: Gottfried Leibniz and the Quest for the Holy Grail -
+https://t.co/H8m2ZgSfQF https://t.co/CJ6pJx7FAi"
+2,668368925642633216,Sun Nov 22 10:02:24 +0000 2015,12,0,"RT @chadfowler: From the list of phrases I hope to never read again: ""Please insert disk 2""."
+3,668194955572199424,Sat Nov 21 22:31:06 +0000 2015,38,0,"RT @williamngan: Introducing Pt, a code experiment on the ideas of Point, Form, and Space. http://t.co/u6UTN8Rfs5 #pt #code http://t.co/YXO…"
+4,668132192065822720,Sat Nov 21 18:21:42 +0000 2015,834,0,RT @stillinbeta: Docker is bringing about the Year of the Small Linux Inside Larger Linux Inside Virtualbox inside Mac OS X On The Desktop
+5,667977978282958848,Sat Nov 21 08:08:55 +0000 2015,109,0,RT @baconmeteor: Randall Munroe is so awesome. Both theories of relativity explained without any of the usual analogies: https://t.co/DMVWf…
+6,667291294608175104,Thu Nov 19 10:40:16 +0000 2015,4,0,RT @mattk7: Plotly.js Open-Source Announcement  https://t.co/ob5YXxZ82S
+7,667108338434514944,Wed Nov 18 22:33:16 +0000 2015,20,0,"RT @_davideast: The one more thing is Layout mode. WYSIWYG for Dev Tools
+
+Controls to change the elements visually #chromedevsummit https:/…"
+8,665985546272022528,Sun Nov 15 20:11:42 +0000 2015,0,1,"@thomasfuchs very much so, the screenwriter based Biff on Trump: https://t.co/CRkSy60ynb"
+9,664862052838735872,Thu Nov 12 17:47:20 +0000 2015,321,0,RT @mfeathers: OO makes code understandable by encapsulating moving parts.  FP makes code understandable by minimizing moving parts.
+10,664847692527509504,Thu Nov 12 16:50:16 +0000 2015,9,0,"RT @nguarracino: ""It runs as a plug-in within the Eclipse IDE"" https://t.co/N4jUOzVvDi"
+11,664700381642022912,Thu Nov 12 07:04:55 +0000 2015,103,0,"RT @dailyzen: The Empty Boat, by Chuang Tzu: https://t.co/KVQEtXHFYo https://t.co/Y9HJWHamkm"
+12,664698433463152641,Thu Nov 12 06:57:10 +0000 2015,14,0,RT @awbjs: In the 90's developer most often became misinformed about objects via C++. Apparently today it is via Java. cc/ @wycats
+13,664698239770304512,Thu Nov 12 06:56:24 +0000 2015,30,0,"RT @richgel999: Visualization of file contents using LZ compression:
+https://t.co/jwkng9mvce https://t.co/BYGxq0IGtB"
+14,664174889037897729,Tue Nov 10 20:16:47 +0000 2015,390,0,"RT @leighalexander: The new intimacy economy, and how pretending at closeness is the only way to make money on the internet https://t.co/MR…"
+15,663962733818286080,Tue Nov 10 06:13:46 +0000 2015,151,0,"RT @codinghorror: Smartphone app ecosystem harsh, unforgiving. It's almost like people only use ten apps https://t.co/kYDE584yvA"
+16,663794611836571648,Mon Nov 09 19:05:42 +0000 2015,2,0,"RT @dalmaer: ""Devcards aims to provide a visual REPL experience for ClojureScript."" https://t.co/WpYJxwyIaZ"
+17,663672514657296384,Mon Nov 09 11:00:32 +0000 2015,3,0,RT @JavaScriptKicks: Containers Are Dead. Long Live Observable Combinators by @milankinen https://t.co/EwX3yVJPy9 #requirejs #cyclejs via @…
+18,663403612211716100,Sun Nov 08 17:12:01 +0000 2015,12,0,RT @johnpolacek: This is a amazing. Algorithms + Art = https://t.co/SqMSdtIEeo https://t.co/TnlembmA5h
+19,662707633493815296,Fri Nov 06 19:06:26 +0000 2015,1,0,"RT @oredev: I just uploaded ""INTRODUCTION TO GRAPHQL"" to @Vimeo: https://t.co/yHLc1vbJx1"
+20,662707605010325504,Fri Nov 06 19:06:20 +0000 2015,2,0,"RT @oredev: I just uploaded ""TURNING THE DATABASE INSIDE OUT WITH APACHE SAMZA"" to @Vimeo: https://t.co/NsjF6UEEwk"
+21,662699151088623616,Fri Nov 06 18:32:44 +0000 2015,25,0,"RT @oredev: I just uploaded ""THE AI REVOLUTION: THE ROAD TO SUPERINTELLIGENCE"" to @Vimeo: https://t.co/cX2PVFZKBh"
+22,662509668967841792,Fri Nov 06 05:59:48 +0000 2015,2,0,"RT @oredev: I just uploaded ""USING IMMUTABLE.JS WITH REACT"" to @Vimeo: https://t.co/TR8XNLYAbQ"
+23,662412532481703937,Thu Nov 05 23:33:49 +0000 2015,3,0,"RT @UstunOzgur: Tonight's keynote on AI by Tim Urban of ""Wait but Why?"" fame was amazing and intimidating. Even Elon Musk is afraid of AI. …"
+24,661621344417783809,Tue Nov 03 19:09:55 +0000 2015,31,0,RT @VilleImmonen: Victory brings the power of D3 to easy to use React components for visualizations. Looks fantastic! https://t.co/l4wNp42T…
+25,661103169955618816,Mon Nov 02 08:50:53 +0000 2015,67,0,"RT @dhh: No, son, you can't play outside until we've beat all the levels of Mario 3. We talked about how important this is for your future!"
+26,660924181538873344,Sun Nov 01 20:59:38 +0000 2015,6,0,"RT @leeb: I'm excited to be speaking at #oredev  this week! I'll be talking about GraphQL, Immutable data structures, and React! Can't wait!"
+27,660448013421277184,Sat Oct 31 13:27:31 +0000 2015,18,0,RT @TheNextWeb: How to find a job while living with autism https://t.co/UoB5VaLk0i https://t.co/BkSBOM0jHm
+28,660423444258029568,Sat Oct 31 11:49:53 +0000 2015,0,0,"Best feature of the new Apple TV so far? It turns the TV on and off, and controls volume."
+29,660379685558296576,Sat Oct 31 08:56:00 +0000 2015,12,0,"RT @__mattias__: And kids, please remember that it's ""Trick XOR Treat""! #halloween"
+30,660168410366615553,Fri Oct 30 18:56:29 +0000 2015,17,0,RT @_ericelliott: Want to make simple HTML5 games? Check out PlayGround.js https://t.co/kB35ZV0YiU #gamedev #JavaScript
+31,660064800689532928,Fri Oct 30 12:04:46 +0000 2015,2702,0,RT @innocent: Horror in the modern age - less than 10% phone battery. https://t.co/GFAfugwiA2
+32,658935082724519936,Tue Oct 27 09:15:40 +0000 2015,3,0,"RT @mislav: On November 2015, Skynet became selfie-aware. https://t.co/0V35ARDkrc"
+33,657976314713022464,Sat Oct 24 17:45:52 +0000 2015,10,0,RT @marick: US vs. Denmark in 17 charts https://t.co/ApdbGVl5HW
+34,657856604763721728,Sat Oct 24 09:50:11 +0000 2015,34,0,"RT @OCombe: If you're wondering what that ""RxJS"" thing is that people keep telling you about then watch this video from @BenLesh https://t.…"
+35,657639464458657796,Fri Oct 23 19:27:21 +0000 2015,56,0,"RT @shanselman: This is unreal. ""Autocomplete for Hand-drawn Animations."" #video https://t.co/GHUTtPHxgL /cc @veronicamarche"
+36,657477002363084800,Fri Oct 23 08:41:47 +0000 2015,0,0,"@owickstrom seems like the JavaScript community is slowly learning Lisp, one framework at a time :)"
+37,656850732998656000,Wed Oct 21 15:13:13 +0000 2015,102,0,"RT @codecartoons: “Wait, Redux isn’t Flux?” Yes and no.
+
+The next code cartoon explains the differences
+
+https://t.co/ygmXlDyHUY"
+38,656827794639441920,Wed Oct 21 13:42:04 +0000 2015,1,1,"Flux, Redux and friends feel like intermediate steps towards 'state as data flows' in reactive streams, e.g. RxJS, with no explicit Store."
+39,656565030264131584,Tue Oct 20 20:17:56 +0000 2015,450,0,RT @petecheslock: Finally got my emacs setup just right. http://t.co/ViXpnxG6h0
+40,655339130637950976,Sat Oct 17 11:06:39 +0000 2015,816,0,RT @gnuaesthetic: It's a common misconception. Unicode was the inventor; the name of the character encoding is Unicode's monster.
+41,655000038712717312,Fri Oct 16 12:39:13 +0000 2015,472,0,"RT @CasualEffects: I just released Markdeep http://t.co/Iqk5YDMaQd. It is like Markdown on steroids, with client-side viewing. http://t.co/…"
+42,654285505551540224,Wed Oct 14 13:19:55 +0000 2015,10,0,"RT @_ericelliott: Impressive JavaScript gfx demo:
+http://t.co/IFdlx4KmFd
+#graphics #JavaScript"
+43,653934671911387136,Tue Oct 13 14:05:49 +0000 2015,10186,0,"RT @JustHadOneJob: If video games have taught me anything, this cat has a side quest to offer me. http://t.co/HFxUk7rcyS"
+44,653927250614702080,Tue Oct 13 13:36:20 +0000 2015,1,0,"#Spotify Discover Weekly is where I find new music these days, squirreling away most tracks onto my own playlists. Mondays are nicer now."
+45,653812042625908736,Tue Oct 13 05:58:32 +0000 2015,226,0,"RT @ThePatanoiac: Schrödinger, Escher, and Heinlein walk into a bar. The bartender both is and isn't all three watching themselves become b…"
+46,653653504628781057,Mon Oct 12 19:28:34 +0000 2015,60,0,RT @Shapiro: Twitter just made a React animation plugin that uses Velocity. It's brilliant. Get the details here: https://t.co/rdWdovsref
+47,653460532893216768,Mon Oct 12 06:41:46 +0000 2015,43,0,"RT @ComedyCentralUK: SOMEONE PROGRAMMED THEIR BOOKCASE TO PLAY SNAKE, THE FUTURE IS AMAZING https://t.co/x15i9SXTKe"
+48,652855698808811520,Sat Oct 10 14:38:22 +0000 2015,12,0,RT @threestory: Don't assume all is new. Radial convergence in 13th century. @mslima #visualized http://t.co/P2zSfOEroB
+49,652741731486707712,Sat Oct 10 07:05:30 +0000 2015,22,0,RT @GraphQL: Really excellent explainer and real world walk through of GraphQL by @playlist https://t.co/dYOUGWLHL7
+50,652739573412401152,Sat Oct 10 06:56:56 +0000 2015,18,0,RT @williampietri: They see the perfect kanban board. I see so many process and culture problems I'd run screaming. http://t.co/DtvD4UMWpQ
+51,652623503745810432,Fri Oct 09 23:15:43 +0000 2015,4,0,"RT @iHiD: Really interesting article: ""Field Research at Uber: Observing what people would never think to tell us"" https://t.co/HrC4CDv4KT"
+52,652385290749935616,Fri Oct 09 07:29:08 +0000 2015,10,0,RT @StackDevJobs: Jayway (@jayway) is hiring http://t.co/L0XB2IqE1S #android #ios
+53,652363318385090560,Fri Oct 09 06:01:50 +0000 2015,52,0,"RT @_ericelliott: BIG: React 0.14 supports pure, functional components, class-free:
+http://t.co/uYMO3LbcmJ
+#reactjs #JavaScript"
+54,652216217231605760,Thu Oct 08 20:17:18 +0000 2015,58,0,"RT @dalmaer: ""So let's cut the bullshit.
+
+Reactive programming is programming with asynchronous data streams.""
+
+https://t.co/JkrODyp6m0"
+55,652179755832360961,Thu Oct 08 17:52:25 +0000 2015,10,0,"RT @_danilo: I love Twitter the medium so fucking much
+
+Twitter the company is asleep at the wheel
+
+Twitter the product is a sloppy mess"
+56,651630684092690432,Wed Oct 07 05:30:36 +0000 2015,8,0,"RT @_ericelliott: Insanely good 3D portrait with WebGL: http://t.co/5q5HZEe6ea
+#gfx #HTMl5"
+57,651630577607700480,Wed Oct 07 05:30:11 +0000 2015,274,0,RT @reactjs: React is now the 5th most popular JavaScript project on GitHub. Thank you everyone for your support! 🎈https://t.co/LpHLOuMF4r
+58,651414064392970241,Tue Oct 06 15:09:50 +0000 2015,9,0,RT @mfeathers: I hope the counter-hype to microservice hype fosters a healthy equilibrium.
+59,651106610954289152,Mon Oct 05 18:48:07 +0000 2015,22,0,RT @BoingBoing: This 'guide to ambiguous grammar' is unexpectedly disturbing http://t.co/OJfHY87z0w http://t.co/A38e4rI02w
+60,651090748050395136,Mon Oct 05 17:45:05 +0000 2015,303,0,RT @ScottAdamsSays: Robots Read News about self-driving cars. http://t.co/D9JqKdN9dr
+61,650938549194371072,Mon Oct 05 07:40:18 +0000 2015,3,0,"RT @oredev: ""Building a React.js Backend""
+
+http://t.co/d52hohzrUy
+
+#reactjs #javascript #webdevelopment http://t.co/zbVwBCB5DK"
+62,650631331546824704,Sun Oct 04 11:19:32 +0000 2015,20,0,"RT @davidhoang: The people you ride public transit with could ultimately be your zombie apocalypse team, so be nice to them."
+63,647883852288032768,Sat Sep 26 21:22:02 +0000 2015,8,0,RT @sarah_edo: This is amazing. Gannon shows us how fluid and gorgeous SVG can be. https://t.co/3DRW5CDORR
+64,647882470814257154,Sat Sep 26 21:16:32 +0000 2015,23,0,RT @sarahmei: Less-talked-about aspect of this story: a software bug almost literally destroyed the world. https://t.co/WzJjrxg1aN https://…
+65,647755126099329024,Sat Sep 26 12:50:31 +0000 2015,752,0,"RT @beep: Now boarding
+
+First Class
+Ultra Diamond Class
+Crystalline Beings of Light and Joy
+Taupe Warriors
+Premium Economy
+Some dead birds
+…"
+66,647009388406939648,Thu Sep 24 11:27:13 +0000 2015,19,0,"RT @dalager: Fiasko-årsager = konkurrerende dødsårsager v crashede it-projekter. (Søren Lauesen, ITU.dk) http://t.co/g1QJqvYibP"
+67,646927354690949120,Thu Sep 24 06:01:15 +0000 2015,346,0,"RT @SwiftOnSecurity: Apple: Controls source code and end product
+Google: Controls source code
+Samsung: How do I set up Eclipse help"
+68,646731059577626624,Wed Sep 23 17:01:14 +0000 2015,2,0,RT @hiro_asari: Not going to Saudi Arabia any time soon. http://t.co/rP2ga9dkTc
+69,646717241757696000,Wed Sep 23 16:06:20 +0000 2015,3,0,RT @codemonkeyism: I like Liquidprompt so far https://t.co/frNbKPA6d2
+70,646686514353696769,Wed Sep 23 14:04:14 +0000 2015,1,0,RT @tirsen: An experience report of React Native: http://t.co/tJvC6yYRd9
+71,646607810139156480,Wed Sep 23 08:51:29 +0000 2015,0,2,Spotify Discover Weekly never fails to present exciting bands I'd never heard of. This week: Midlake. Last week: Foxygen. #spotify #ftw
+72,646370376398802945,Tue Sep 22 17:08:01 +0000 2015,85,0,"RT @BoingBoing: Classic Japanese woodblock art, animated. http://t.co/dma8DsOTou http://t.co/e2Cd7xm6xx"
+73,645326601597661185,Sat Sep 19 20:00:26 +0000 2015,9,0,RT @andrzejkrzywda: Ruby is the crossfit of programming
+74,644515755732635648,Thu Sep 17 14:18:25 +0000 2015,146,0,RT @JavascRRipt: How to choose the right JavaScript framework http://t.co/dkwEFFbMh4 http://t.co/01lq6Wnwmx
+75,644175621577408512,Wed Sep 16 15:46:51 +0000 2015,224,0,"RT @raganwald: Here’s some SciFi:
+
+Imagine Steve Jobs today, and the word gets out that his birth father is from Syria. And we catch him ph…"
+76,643707360154906624,Tue Sep 15 08:46:08 +0000 2015,1,0,RT @larskjensen: Everyone working with or interested in #data should read this article on how the people at Spotify are using it: http://t.…
+77,643134859213455360,Sun Sep 13 18:51:13 +0000 2015,838,0,RT @ntakayama: The hardest problem in computer science is not being an opinionated jerk about everything.
+78,642817440750149632,Sat Sep 12 21:49:55 +0000 2015,1,0,RT @willhamill: Attention website designers: that thing where you detect my mouse moving to the top right and pop up some desperation conte…
+79,642416466315345920,Fri Sep 11 19:16:35 +0000 2015,59,0,RT @jonathoda: CSCI 2100: Unlearning Object-Oriented Programming http://t.co/Kl7sn7ywPs
+80,642199779217424384,Fri Sep 11 04:55:33 +0000 2015,527,0,RT @NicoleHemsoth: Brilliant. All AWS services named by what they probably should have been named in the first place https://t.co/fwvckat1OR
+81,641924460233256960,Thu Sep 10 10:41:32 +0000 2015,20,0,RT @userfocus: Fascinating collection of map designs -- the original paper interfaces. http://t.co/7JUaG1zJHb
+82,640750802215260160,Mon Sep 07 04:57:50 +0000 2015,178,0,"RT @richardadalton: Welcome to Mastermind, what is your chosen specialist subject?
+
+""Javascript frameworks, 
+June 1st 2014 to June 3rd 2014"""
+83,640094431094382592,Sat Sep 05 09:29:39 +0000 2015,1,0,"RT @gustaf_nk: Idea: if it's easy for you to build a universal web app, you prob didn't need client-side rendering in the first place (for …"
+84,639727367074787328,Fri Sep 04 09:11:04 +0000 2015,26,0,RT @newsycombinator: Happy Birthday Monkey Island http://t.co/BGU77tRC9w
+85,639719048050286592,Fri Sep 04 08:38:01 +0000 2015,229,0,"RT @tabatkins: What the hell, computer science http://t.co/LvtRpomH8E
+
+Automatically synthesizing pictures from shitty hand-drawn sketches."
+86,638735108946677760,Tue Sep 01 15:28:11 +0000 2015,62,0,RT @swannodette: This @reactjs developer seems to agree whole heartedly with some of the things I claimed about 20 months now :) http://t.c…
+87,638663240218734592,Tue Sep 01 10:42:36 +0000 2015,105,0,RT @vpieters: If you love space you’re going to like this collection of wallpapers. http://t.co/gCzNiDp3qq http://t.co/OZnSVS589X
+88,637239506983383040,Fri Aug 28 12:25:12 +0000 2015,37,0,RT @KriegeskorteLab: artificial art: a neural net that separates and recombines visual style and content http://t.co/ZM2eRsYeJV http://t.co…
+89,636522593944793088,Wed Aug 26 12:56:27 +0000 2015,0,1,"Bose QuietComfort 25s are made of pure magic. Goodbye noise, hello focus."
+90,636424891806449664,Wed Aug 26 06:28:13 +0000 2015,6,0,"RT @oredev: Last day to sign up for Øredev Early Bird. 
+
+http://t.co/WQx566la3H
+
+#earlybird #oredev #developer http://t.co/8kLU8P0Vx5"
+91,635370101013913600,Sun Aug 23 08:36:51 +0000 2015,610,0,RT @keithfrankish: Ask a man his philosophy and he'll be annoying for an hour; teach a man to do philosophy and he'll be annoying for life.
+92,635369707252633600,Sun Aug 23 08:35:17 +0000 2015,19,0,"RT @BoingBoing: Autism has always been with us, and those with it have shaped our shared history http://t.co/zzXsSmT12t http://t.co/Aa1ehNm…"
+93,634250786621530112,Thu Aug 20 06:29:05 +0000 2015,15,0,RT @LaughingSquid: How 'Oldschool' Computer and Video Game Graphics Worked in the 1980s http://t.co/OQKRmRLGk8 http://t.co/2FuffCfhnE
+94,633918310682374144,Wed Aug 19 08:27:57 +0000 2015,1221,0,RT @GillTwistRec: Ha ha #javascript http://t.co/yFg3Vy4wP5
+95,633356877410254848,Mon Aug 17 19:17:01 +0000 2015,1,0,RT @isnotfollowing: A JavaScript library for efficient data fetching ... by @netflix http://t.co/7M6G5aJIkP
+96,632661856214216704,Sat Aug 15 21:15:15 +0000 2015,8,0,"RT @garybernhardt: Reshuffle the grammar, swap in a few bits of semantics from the early 70s, and you have the next new language that fixes…"
+97,631349378196852737,Wed Aug 12 06:19:56 +0000 2015,115,0,"RT @garybernhardt: When confronted with a trash fire, a programmer will instinctively throw more trash on it. Programmers only add things."
+98,631349351596597248,Wed Aug 12 06:19:49 +0000 2015,148,0,"RT @garybernhardt: Stop adding things to JavaScript. Stop it! You don't have to add things constantly! You're making a C++, but this time w…"
+99,631202492748025856,Tue Aug 11 20:36:16 +0000 2015,317,0,"RT @fbOpenSource: It's out now! The technical preview of Relay, a JS framework for building data-driven @reactjs apps http://t.co/HSdkQOmekb"
+100,630114379216855041,Sat Aug 08 20:32:29 +0000 2015,167,0,RT @SwiftOnSecurity: The first rule of interviewing is you show them who's in charge. https://t.co/AevO0rD1bU
+101,628918826873307136,Wed Aug 05 13:21:47 +0000 2015,81,0,"RT @mgaertne: I believe inside every 100 person project, there is a 10 person project trying to get out. @chethendrickson @RonJeffries #agi…"
+102,628918238001373184,Wed Aug 05 13:19:27 +0000 2015,2,0,"RT @jaw6: Look, I ❤️ that Netflix leave policy, but... this is pretty standard for most of the rest of western civilization at this point."
+103,628892902408757248,Wed Aug 05 11:38:46 +0000 2015,5,0,"RT @simonraess: Great summary: ""Why SCRUM Sprints slow you down"" - http://t.co/Ttm23pdmeo /via @__tosh @blossom"
+104,627713396201398272,Sun Aug 02 05:31:50 +0000 2015,4321,0,"RT @mikehall314: Me: New Android vulnerability impacts 95% of devices
+Wife: I'm surprised you can get anything to run on 95% of Android dev…"
+105,627566911035961344,Sat Aug 01 19:49:45 +0000 2015,12,0,RT @nrrrdcore: Be the dog you want to see in the world
+106,626855949878341632,Thu Jul 30 20:44:39 +0000 2015,17,0,"RT @mulegirl: You can assess the overall quality of any interactive design solely on its ""Forgot password"" flow."
+107,626143745289940992,Tue Jul 28 21:34:36 +0000 2015,9,0,RT @mattgemmell: Interesting. Chrome extension that prevents sites identifying you based on how you type: https://t.co/GPuVHWwr4e
+108,626038120690139137,Tue Jul 28 14:34:53 +0000 2015,33,0,RT @marick: Tom DeMarco is a mensch. Here he admits he was mistaken about metrics. http://t.co/VerfXNIm4N (via @CarloPescio @philip_schwarz)
+109,624932792334479360,Sat Jul 25 13:22:43 +0000 2015,9,0,RT @kellan: Been in Scandinavia a little over a week and we are already leaving the baby outside to sleep http://t.co/pnRT9ntbiN
+110,624564846303027200,Fri Jul 24 13:00:37 +0000 2015,539,0,"RT @jaffathecake: G+ found their ""download our app"" interstitial caused 69% of users to abandon, rather than dl app or continue on site htt…"
+111,624513958351892480,Fri Jul 24 09:38:25 +0000 2015,28,0,"RT @Elijah_Meeks: Using Louvain modularity to improve #d3js network data visualization with a network mini-map.
+http://t.co/G53bQ37XGv http…"
+112,624469420451172352,Fri Jul 24 06:41:26 +0000 2015,1,0,RT @jshemenski: Creative form &amp; input field #design examples https://t.co/glN5RtSFLF via @Saijo_George @medium #webdesign http://t.co/lc4Pb…
+113,623789465094504448,Wed Jul 22 09:39:32 +0000 2015,1,0,RT @jacobandresen: årrh hvad:P  http://t.co/binZ8lY7hn
+114,623773739008815104,Wed Jul 22 08:37:03 +0000 2015,2706,0,"RT @markleggett: Feeling strange, Mr. Bond? That's because I laced your martini with a measles vaccine. You're autistic now."
+115,623597479922135041,Tue Jul 21 20:56:39 +0000 2015,0,0,@slehmann thanks to @SpotifyCares for fixing the issue.
+116,623425898897899520,Tue Jul 21 09:34:51 +0000 2015,0,1,Can't add my wife to my Spotify family subscription without canceling and re-subscribing. Will have to give Apple Music a try after all…
+117,621937533719572480,Fri Jul 17 07:00:37 +0000 2015,1,0,RT @podviaznikov: Ludwig Wittgenstein had interesting works about languages https://t.co/xzDkDKEdlz
+118,621914319295512576,Fri Jul 17 05:28:22 +0000 2015,2,0,RT @AysegulYonet: Explained Visually http://t.co/cBzOHSFVlm via @setosaio
+119,621253105359917056,Wed Jul 15 09:40:57 +0000 2015,4,0,RT @josephwilk: Managed to push the frame-rate of my emacs animations through regex based transitions with parallel steps. Send help http:/…
+120,621242055675748353,Wed Jul 15 08:57:02 +0000 2015,1,0,"RT @flowchainsensei: MT @davidgurteen “A PRIVATE VIEW OF QUANTUM REALITY"" http://t.co/EsNyNjOOvl /this idea will blow your mind"
+121,620988745471381504,Tue Jul 14 16:10:28 +0000 2015,123,0,"RT @swannodette: Game: every time your code base exceeds 20,000 lines you are forced to pick a better language, abstraction, architecture."
+122,619965825777319936,Sat Jul 11 20:25:45 +0000 2015,14,0,RT @_ericelliott: The React community is confused about whether it's classical or functional. `class` is a really bad fit for reactive prog…
+123,619965776813027328,Sat Jul 11 20:25:34 +0000 2015,40,0,RT @_ericelliott: Functional UI and Components as Higher Order Functions: http://t.co/hPD0rPUfKw #js #JavaScript
+124,619612398727622657,Fri Jul 10 21:01:22 +0000 2015,33,0,RT @timoreilly: Brilliant! So important to remember this! https://t.co/eTms6C947s
+125,619229964068589568,Thu Jul 09 19:41:42 +0000 2015,1,0,RT @Rasums: Champagne Driven Development #jayway http://t.co/FlA5FfV4qB
+126,619085694401646592,Thu Jul 09 10:08:26 +0000 2015,17,0,RT @peteratmsr: A killer app for quantum computing? Matthias Troyer and @MSFTResearch show how quantum-designed fertiizers could end world …
+127,618703941203849216,Wed Jul 08 08:51:29 +0000 2015,19,0,RT @_ericelliott: What's all the hype about immutability and functional programming? https://t.co/hSgR9axvZw #JavaScript
+128,618478610358341632,Tue Jul 07 17:56:06 +0000 2015,30,0,RT @petrbela: I rewrote my #reacteurope talk into a blog post and it's now available at https://t.co/CTqH1yR0Ep #reactjs
+129,618445218145259521,Tue Jul 07 15:43:24 +0000 2015,4,0,"RT @hiro_asari: Constantly reminded that I don't know a thing about other people's struggles, and that I should be kinder to other people."
+130,618368839118639104,Tue Jul 07 10:39:54 +0000 2015,56,0,RT @TheNextWeb: BBC Micro:bit final design: Raspberry Pi rival revealed http://t.co/Y39dkKEYz9 http://t.co/0APM1Qi78z
+131,617682500245135360,Sun Jul 05 13:12:38 +0000 2015,81,0,"RT @sbaroncohen: Some parents seek a diagnosis of autism when their child is diagnosed, and suddenly understand themselves http://t.co/Q8K7…"
+132,617682251166445569,Sun Jul 05 13:11:39 +0000 2015,14,0,"RT @timothypratley: You should be using Figwheel/Reagent. Here's why:
+http://t.co/hVu65B3enW http://t.co/iyEJ2qIsbb"
+133,617682096505651201,Sun Jul 05 13:11:02 +0000 2015,94,0,RT @spolsky: This parrot drone has disobeyed all three laws of robotics in its short five minute lifespan
+134,617439141488406528,Sat Jul 04 21:05:37 +0000 2015,29,0,"RT @jlongster: Web Components is still trying to figure out how to import a component. Meanwhile, React users are now solving complex data …"
+135,616204481911517184,Wed Jul 01 11:19:31 +0000 2015,0,0,"@z oh noes, now you are obliged to eat leverpostej!"
+136,615938019862966272,Tue Jun 30 17:40:42 +0000 2015,3,0,RT @chadaustin: I posit the main reason functional languages haven't taken off like gangbusters is the lack of human touch in their design.
+137,615763353344983040,Tue Jun 30 06:06:38 +0000 2015,90,0,"RT @dailyzen: Before enlightenment – chop wood, carry water. After enlightenment – chop wood, carry water."
+138,615570148158763008,Mon Jun 29 17:18:54 +0000 2015,14,0,"RT @andrzejkrzywda: ""If you want to learn React.js from zero you came into right place.""
+
+Check out our React.js koans!
+
+https://t.co/L2LYz…"
+139,615233598589935616,Sun Jun 28 19:01:35 +0000 2015,114,0,RT @BenedictEvans: Apple Pay with a phone is still just taking something out of your pocket. Not transformative. With a watch it's amazing.…
+140,615233581850472448,Sun Jun 28 19:01:31 +0000 2015,175,0,RT @BenedictEvans: A lot of mobile today is about removing small pieces of friction that have little impact in theory but make a huge real …
+141,615178466842017792,Sun Jun 28 15:22:30 +0000 2015,25,0,"RT @kanbanery: Which estimate would you prefer? ""8 story points"" or ""95% of similar features recently completed took between 2 and 5 days."""
+142,614010684620341248,Thu Jun 25 10:02:09 +0000 2015,222,0,RT @_tessr: men! here is a simple way to help women in tech: if you're talking to a lady &amp; a dude and he is basically ignoring her...ask 4 …
+143,613635631571406849,Wed Jun 24 09:11:50 +0000 2015,9,0,"RT @alinajaf: It's basically impossible to find a PM type that hasn't been brain-slapped with agile, means we're going to have to train one…"
+144,613414715969130496,Tue Jun 23 18:33:59 +0000 2015,4,0,"RT @qrush: ""I just need to get into cryosleep. Now.""
+""Going to Mars?""
+""No, I want to wait just one containerization program and JS framewor…"
+145,613394481027653632,Tue Jun 23 17:13:35 +0000 2015,174,0,"RT @fbOpenSource: It's here! Releasing Nuclide: a unified dev experience for iOS, @reactjs, @reactnative, @flowtype and @HackLang. https://…"
+146,613079881631539200,Mon Jun 22 20:23:28 +0000 2015,27,0,"RT @distilledhype: It's worth it to read through the AirBnB JavaScript Style Guide again. It has been ES6ified. Learned a thing or 2.
+
+http…"
+147,613069902547677184,Mon Jun 22 19:43:49 +0000 2015,17,0,"RT @Bo_Shehu: Love this quote ""...really taking the time to hear and learn is the greatest luxury of becoming older."" By @pbennett101"
+148,612975460310470656,Mon Jun 22 13:28:32 +0000 2015,67,0,"RT @_ericelliott: Angular, SPAs lose their grip. ES6 &amp; React exploding, and universal (aka isomorphic) JS is primed to go: https://t.co/VZF…"
+149,612936561739603968,Mon Jun 22 10:53:58 +0000 2015,34,0,"RT @smashingmag: Have you looked into React.js already? Keep reading: “Qualities Of Good Facebook’s React and Flux Implementations”. 
+
+http…"
+150,612933549025566720,Mon Jun 22 10:42:00 +0000 2015,3,0,RT @b33rdy: “Why SCRUM Sprints slow you down” by @__tosh https://t.co/Fxtm66Gkmd
+151,612897250541441025,Mon Jun 22 08:17:46 +0000 2015,399,0,"RT @existentialcoms: Stoics: don't cry over spilt milk.
+Buddhists: all milk is fleeting.
+Nietzsche: fuck you and fuck your milk."
+152,612870306223534080,Mon Jun 22 06:30:42 +0000 2015,25,0,RT @KobenhavnPoliti: Sikke en herlig storby vi bor i. Ingen alvorlige sager henover weekenden der kræver større efterforskningsmæssig indsa…
+153,612161264257789952,Sat Jun 20 07:33:13 +0000 2015,1011,0,"RT @KentBeck: the *craft* of programming begins with empathy, not formatting or languages or tools or algorithms or data structures"
+154,611757662695460864,Fri Jun 19 04:49:27 +0000 2015,44,0,RT @figgled: Your homework for today is to shut up and listen to people who are different to you
+155,611064085447315457,Wed Jun 17 06:53:25 +0000 2015,26,0,"RT @_ericelliott: Curious about Relay and GraphQL? Watch ""Data Fetching for React"" here: https://t.co/CoilnyXm8t @reactjs #JavaScript"
+156,610776582211399680,Tue Jun 16 11:50:59 +0000 2015,0,0,@mountain_ghosts check for lint in the charging port. Fixed all my issues with supposed cable failures.
+157,610674122474024960,Tue Jun 16 05:03:51 +0000 2015,5,0,RT @auchenberg: Urban Explorer Finds Lonely Remains Of The Soviet Space Shuttle Program. http://t.co/7niIMfUE6n
+158,610027409535049728,Sun Jun 14 10:14:02 +0000 2015,36,0,"RT @verpixelt: Ways Men In Tech Are Unintentionally Sexist
+(and things you can start changing now!)
+http://t.co/pB8aSwQWZY http://t.co/ae2A…"
+159,609733322659504128,Sat Jun 13 14:45:27 +0000 2015,48,0,RT @TheNextWeb: Why some companies are more innovative than others http://t.co/JfTvyufASb http://t.co/ETJO7bXWrL
+160,609606829291794434,Sat Jun 13 06:22:48 +0000 2015,57,0,RT @SamHarrisSays: Imagine a future in which millions of our descendants murder each other over rival interpretations of Star Wars or Windo…
+161,609479869332869120,Fri Jun 12 21:58:19 +0000 2015,17,0,"RT @saikofish: How to program: (1) Do nothing for a while (2) think about doing something, repeat #1 (3) solution comes to you suddenly (4)…"
+162,609466202990211072,Fri Jun 12 21:04:00 +0000 2015,3,0,RT @stilkov: So great: https://t.co/kD5dvgTOKT
+163,609435580234113024,Fri Jun 12 19:02:19 +0000 2015,10,0,RT @sarah_edo: Does anyone know of an online three.js tutorial that doesn't feel like: http://t.co/wkJabNEXn3
+164,609297499556331520,Fri Jun 12 09:53:38 +0000 2015,8,0,"RT @debasishg: ""Apache Kafka: A Platform for Real-Time Data Streams – Part 1"" http://t.co/tjov76AUhm"
+165,609211371834744832,Fri Jun 12 04:11:24 +0000 2015,9,0,RT @codepo8: WebGL Physics and Collision Detection Using Babylon.js and Oimo.js http://t.co/2xIW3JrcNX
+166,609019581026439168,Thu Jun 11 15:29:17 +0000 2015,10,0,"RT @BoingBoing: Genetic links between creativity, schizophrenia, and autism. http://t.co/gxkNGUX8q3 http://t.co/ntd6NK34UB"
+167,607904807299465216,Mon Jun 08 13:39:35 +0000 2015,21,0,"RT @oredev: THE ØREDEV 2015 PROGRAM IS NOW ONLINE. 
+Check it out! http://t.co/i1FxwvFOo3"
+168,607773860453351424,Mon Jun 08 04:59:14 +0000 2015,47,0,"RT @dailyzen: “When an ordinary man attains knowledge, he is a sage; when a sage attains understanding, he is an ordinary man.”
+
+– Zen Prov…"
+169,607622293326557184,Sun Jun 07 18:56:58 +0000 2015,18,0,RT @React_Rocks: React-RxJS by @_cmdv_: RxJS as a replacement to flux- uses Rx.Subject http://t.co/Dzg3juUxCM #reactjs
+170,607467289357746176,Sun Jun 07 08:41:02 +0000 2015,4461,0,RT @UltraLinx: Every project ever. http://t.co/RStzFMrYH3
+171,607227929626558464,Sat Jun 06 16:49:54 +0000 2015,1,0,RT @auchenberg: The IoT data radio network SIGFOX is coming to Denmark. http://t.co/urHWeFIkNE
+172,606700191631187968,Fri Jun 05 05:52:52 +0000 2015,147,0,"RT @zararah: The opposite of schadenfreude = mudita, sanskrit word for delighting in others’ well-being or joy https://t.co/g8xMOc83DX ht @…"
+173,604267538470555650,Fri May 29 12:46:22 +0000 2015,81,0,RT @LitaZahn: U.S. and Israel lead the world in income inequality; U.S. lags in upward mobility http://t.co/5bJFXZjSDE http://t.co/S8A7SYmn…
+174,603821001667944449,Thu May 28 07:11:59 +0000 2015,18730,0,"RT @fordm: BRUCE WAYNE: How can I rid this city of crime
+
+ALFRED: Mental health care access, economic development, gun reg—
+
+BRUCE: Bring m…"
+175,602817745231736833,Mon May 25 12:45:24 +0000 2015,1,0,"RT @AtTheFrontend: Important Workshop information
+
+The workshops are not hosted at DGI-Byen tomorrow. Instead you should go to
+Jayway
+Sjæle…"
+176,602754290088857601,Mon May 25 08:33:16 +0000 2015,218,0,"RT @dailyzen: ""If you run into an asshole in the morning, you ran into an asshole. If you run into assholes all day, you're the asshole."" -…"
+177,602754210132791296,Mon May 25 08:32:56 +0000 2015,30,0,RT @dhh: Android really still is for the DYI crowd. People who enjoy having tech throw them a mystery to solve. Things not working = challe…
+178,602752223748202496,Mon May 25 08:25:03 +0000 2015,17,0,"RT @dailyzen: Alan Watts wisdom, animated by South Park creators Trey Parker &amp; Matt Stone: http://t.co/UEidBqnBgS"
+179,602747927816249345,Mon May 25 08:07:59 +0000 2015,2,0,"RT @gustaf_nk: API strategies – LSUDs (large sets of unknown developers) vs SSKDs (small sets of known developers), http://t.co/Cx4tV3YJ46"
+180,602533594968522752,Sun May 24 17:56:18 +0000 2015,4,0,RT @squarism: And you wouldn't get sued for hosting copyrighted content because Mongo would lose it all by the time you received a lawyer l…
+181,602176466835615744,Sat May 23 18:17:12 +0000 2015,43,0,"RT @rasbt: Really cool: SVMs, Random Forests, and Neural Networks implemented in JS to play with in the browser via @karpathy http://t.co/4…"
+182,602063801459019776,Sat May 23 10:49:30 +0000 2015,2,0,"RT @aallan: Never saw this when it went by back in February, http://t.co/R88qLNhHGP. But vividly illustrates why the #IoT isn’t ready for m…"
+183,601077863429906432,Wed May 20 17:31:44 +0000 2015,17,0,"RT @AtTheFrontend: Premium Dev Conference in Copenhagen. May 26-27. Copenhagen. 3 Tracks, 21 speakers. Web, Javascript, UX, Security
+ https…"
+184,600910646948036608,Wed May 20 06:27:17 +0000 2015,86,0,RT @brainpicker: D.T. Suzuki on what freedom really means and how Zen can help us cultivate our character http://t.co/jnKiUdcKt6 http://t.c…
+185,600735504842289152,Tue May 19 18:51:20 +0000 2015,2,0,"RT @tqbf: Last year I’d have said “any place with interesting HTML is Rails”, too, but now there’s React and server templates are totally i…"
+186,600713222522576897,Tue May 19 17:22:47 +0000 2015,293,0,"RT @worrydream: Gallery of Concept Visualization:  http://t.co/CvtTeutbsz
+Explorable Explanations Hub:  http://t.co/czmNyt0AY7 http://t.co/…"
+187,600712696741376000,Tue May 19 17:20:42 +0000 2015,8,0,"RT @oredev: Hard at work, creating the program for #oredev 2015. Now is the time to send bribes if you're planning on speaking http://t.co/…"
+188,600364595354673153,Mon May 18 18:17:28 +0000 2015,17,0,"RT @anatudor: oh, wow, this is brilliant!!! http://t.co/UcOROMgwzn - an amazing physics demo from @ge1doot"
+189,600010227312910336,Sun May 17 18:49:20 +0000 2015,83,0,RT @monteiro: My cab driver is have a FaceTime call with his dog and I just decided driverless cars might be ok.
+190,599550559776038913,Sat May 16 12:22:47 +0000 2015,5,0,RT @justxxjennifer: Real interfaces in the future surely won't be all black right? UI Reel for Avengers: Age of Ultron: http://t.co/tW9j3wn…
+191,599473395923845120,Sat May 16 07:16:09 +0000 2015,119,0,"RT @ppk: Tools don’t solve the web’s problem, they ARE the problem
+
+http://t.co/sT8jlLdIVR"
+192,599472374086504448,Sat May 16 07:12:06 +0000 2015,1,0,"RT @AnjaHoffmann: #IoT is poised to transform virtually every major market sector, growing to more than 5.4 billion connections by 2020 htt…"
+193,599190787927203840,Fri May 15 12:33:10 +0000 2015,32,0,"RT @oredev: We're looking for a security speaker to one of our conferences. Target group experiences developers. Flight and hotel paid
+#sec…"
+194,598866184226869249,Thu May 14 15:03:19 +0000 2015,48,0,RT @Monodraw: We're very happy to announce that Monodraw v1 has finally shipped! Thank you for all your feedback and support &lt;3 http://t.co…
+195,598382302046072832,Wed May 13 07:00:32 +0000 2015,14,0,RT @timbaldridge: Always seemed that there was a smaller core hiding under all the OOP stuff in React: https://t.co/ZVBXEi0O0Y
+196,598368248166481920,Wed May 13 06:04:42 +0000 2015,2,0,"RT @risager: Oi! Om 14 dage er der frontend-konference i Kbh: @AtTheFrontend 
+http://t.co/jCmrlkT3WB (er desv selv på #devarmeøer)"
+197,598196399117836288,Tue May 12 18:41:50 +0000 2015,83,0,RT @tpope: There are only two hard things in computer science: cache invalidation and dying alone.
+198,598176518360150016,Tue May 12 17:22:50 +0000 2015,0,1,"BUILD FAILED
+&lt;&lt; adds logging &gt;&gt;
+BUILD SUCCESSFUL"
+199,597709707952922624,Mon May 11 10:27:53 +0000 2015,23,0,"RT @floydophone: Any sufficiently complicated web app contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of …"

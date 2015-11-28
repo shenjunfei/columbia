@@ -1,0 +1,221 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669055798048391172,Tue Nov 24 07:31:47 +0000 2015,4,0,RT @asp_net: Wait. What? https://t.co/0l89IFUoSP
+1,666929026775257088,Wed Nov 18 10:40:45 +0000 2015,0,0,@janekf @carstenk_dev @scullman Dann kann ich ja aufhören zu suchen
+2,666927538216804352,Wed Nov 18 10:34:50 +0000 2015,0,0,@janekf locken doch die neuen C# 6 Syntax Candies?
+3,663275642226610176,Sun Nov 08 08:43:30 +0000 2015,0,0,"@janekf @pro_cessor musste unbedingt sein, starker Anfang, aber auch viele Längen/Schwächen"
+4,663060230889058304,Sat Nov 07 18:27:32 +0000 2015,0,0,@janekf bin gerade raus
+5,662537550918246400,Fri Nov 06 07:50:36 +0000 2015,160,0,"RT @BILDblog: Wie @janfleischhauer, @KaiGniffke und Boris #Palmer ein falsches Bild von Flüchtlingen zeichnen: https://t.co/y8nIZ2XX8Q"
+6,662338974145503232,Thu Nov 05 18:41:31 +0000 2015,20,0,RT @PaketManager: Wow. We reached 300k downloads! Big thanks to the &gt; 5k commits of all the 114 contributors. #fsharp #csharp #nuget
+7,625711472665063424,Mon Jul 27 16:56:54 +0000 2015,37,0,"RT @Nick_Craver: Good question: ""Does this affect applications targeting .NET 4.5 that are running on servers with .NET 4.6 installed?"" 
+Ye…"
+8,619864578948730880,Sat Jul 11 13:43:26 +0000 2015,0,0,"Keine Disketten mehr, es geht voran http://t.co/8Stksr0WdO"
+9,617696465364893696,Sun Jul 05 14:08:08 +0000 2015,0,0,"@cnurse Yes, but not just because it is fluent. POCOs classes can now be put into contract project without referencing dnn."
+10,616494192848560128,Thu Jul 02 06:30:44 +0000 2015,0,0,"@SchelianHP Und jetzt ärgere ich mich gerade, dass meine Email, die ich gerade beantworte, nicht über einen Wisch erreichbar ist."
+11,616493442814898176,Thu Jul 02 06:27:45 +0000 2015,0,0,"@schelianhp Ich hab mir nur überlegt, was bei Outlook anders ist. Word, Excel &amp; Powerpoint machen nicht dauernd neue Fenster auf."
+12,616491824895664128,Thu Jul 02 06:21:19 +0000 2015,0,0,"@schelianhp Macht Vollbild Sinn, wenn    immer wieder neue Fenster zum lesen und schreiben aufgemacht werden? Denke, es ist schon richtig so"
+13,616491005727121408,Thu Jul 02 06:18:04 +0000 2015,0,0,The email account that you tried to reach is over quota. #support #oneplus
+14,615792368415956992,Tue Jun 30 08:01:56 +0000 2015,0,0,@CarstenK_Dev @janekf ja
+15,615789998726512640,Tue Jun 30 07:52:31 +0000 2015,0,0,@janekf sieht gut aus.
+16,615579746429222913,Mon Jun 29 17:57:03 +0000 2015,0,0,@schelianhp @janekf  +1
+17,615579149634244608,Mon Jun 29 17:54:40 +0000 2015,0,0,@schelianhp @janekf Ich mag den aggregierten Posteingang über alle Postfächer. Fehlen tuen mir nur noch die OneDrive f.B. Attachments.
+18,612260509761576961,Sat Jun 20 14:07:35 +0000 2015,208,0,RT @netzpolitik: Wir wünschen allen Freunden der Freiheit in der SPD heute viel Erfolg und eine Mehrheit auf dem Parteikonvent. http://t.co…
+19,611948971527925762,Fri Jun 19 17:29:38 +0000 2015,14,0,RT @sethjuarez: Web UI Testing with F# and Canopy starring @amirrajan direct from @dotnetfringe on @ch9: http://t.co/LgATB6lzih - cool stuf…
+20,608221851555397633,Tue Jun 09 10:39:24 +0000 2015,0,0,RTL Antenne  #Ichbinsoalt
+21,607176394322407424,Sat Jun 06 13:25:07 +0000 2015,0,0,"@SchelianHP danke, ich fang mal ganz langsam an http://t.co/JkLCSszZhX"
+22,607169653505454080,Sat Jun 06 12:58:20 +0000 2015,4,0,"RT @dnnConnect: Blogged: ""DNN Connect 2015 – it’s a wrap"" http://t.co/kQcxBzfsUW #dnnconnect2015"
+23,549884819694682112,Tue Dec 30 11:08:52 +0000 2014,0,0,"#code2014 C#, JavaScript, F#, VisualBasic, Haskell"
+24,530432424464117760,Thu Nov 06 18:51:59 +0000 2014,0,0,"@markxa @ytechie Thanks, missed that. Stupid question: how does OneDrive validates somebody as a Office 365 customer?"
+25,530416075822092288,Thu Nov 06 17:47:01 +0000 2014,0,0,@MarkXA Imho @ytechie mixes OneDrive which has the cool features with OneDrive for Business which has the unlimited storage.
+26,530043493251833856,Wed Nov 05 17:06:31 +0000 2014,0,0,"@MarkXA @functionalKats Enjoy, I am looking forward to attend these presentations at #nbug 2 weeks later (http://t.co/AjN1AUL4dm)"
+27,529319169561726976,Mon Nov 03 17:08:18 +0000 2014,0,1,Looks like after the last updates all #osx and #ios apps for #OneDrive and #OneNote can't authenticate anymore using #ADFS #Office365
+28,528187760180731905,Fri Oct 31 14:12:29 +0000 2014,0,1,@robinsedlaczek Thx for your #SignalR presentation at  #nbug.
+29,528161023287513089,Fri Oct 31 12:26:15 +0000 2014,1,0,RT @RobinSedlaczek: Slides from my talk about SignalR http://t.co/YgDqvbBSUS
+30,527919452546138112,Thu Oct 30 20:26:20 +0000 2014,0,0,"Erste Schritte mit #Paket, und schon stehe ich da und komm nicht weiter: custom nodes for Microsoft.AspNet.SignalR.SelfHost ==&gt; skipping"
+31,527774527426945025,Thu Oct 30 10:50:27 +0000 2014,0,0,"@tailcallingdev Ich weiss, verweise auch auf dein Projekt im readme :-)"
+32,527771814194610176,Thu Oct 30 10:39:40 +0000 2014,2,3,Erste Schritte in #fsharp und #EventSourcing : Umsetzung vom @janekf's  Workshop beim #devspace  https://t.co/4DNb3o3ff6
+33,523525117251698689,Sat Oct 18 17:24:49 +0000 2014,2,0,RT @tweetpride: Lasst uns stürmen... #devspace http://t.co/3Qd9qvaCk9
+34,523525013736288257,Sat Oct 18 17:24:24 +0000 2014,1,0,RT @YellowBrickC: Eventstorming = brainstorming mit Domain-Experten via Events und nicht  durch Begriffe. Super Idee #devspace
+35,523522338466570240,Sat Oct 18 17:13:46 +0000 2014,11,0,RT @robert0muehsig: Very clever ideas behind #Paket. Awesome work done by @sforkmann @agross
+36,513342875632156672,Sat Sep 20 15:04:13 +0000 2014,2159,0,RT @SciencePorn: http://t.co/Eebr8K51Z9
+37,512573167517597696,Thu Sep 18 12:05:40 +0000 2014,0,0,"@anrichter @janekf @devopenspace Beinahe Buchung vergessen, da in ich auch dabei, bis nächsten Monat! #devspace #eventSourcing"
+38,506454272377364481,Mon Sep 01 14:51:22 +0000 2014,1,0,RT @weggetor: Having a holiday home for rental ? Try the new #bbbooking #dnncms module. Avaliable now at https://t.co/C9f5JqevIZ http://t.c…
+39,485479141463314432,Sat Jul 05 17:43:41 +0000 2014,0,0,@SciencePorn
+40,485126003312709633,Fri Jul 04 18:20:27 +0000 2014,0,2,"I just ordered my free #xamarin #sharpshirt and you can, too! http://t.co/GITS5tUc43"
+41,481095789813706752,Mon Jun 23 15:25:49 +0000 2014,1,0,"RT @MarkXA: OK, it would now take over a year to fill my cloud storage at current bandwidth ... http://t.co/gb3rSvmKPV"
+42,479954258142695424,Fri Jun 20 11:49:46 +0000 2014,321,0,RT @JefClaes: Rules of abstraction. Love it. #dddx http://t.co/ui0cYBhMS4
+43,477868758560956416,Sat Jun 14 17:42:45 +0000 2014,11,0,RT @christoc: DNNCMS 7.3 upgrade problems? Check out my blog post to resolve a few http://t.co/ElwmEHvUly
+44,477868207815262208,Sat Jun 14 17:40:33 +0000 2014,992,0,"RT @arialdomartini: Seriously, we need #NoSQL http://t.co/ONRiBUPAuW"
+45,474962379563077632,Fri Jun 06 17:13:50 +0000 2014,0,0,"@janekf was für eine Verschwendung, bei diesem schönen WE jetzt schon ans auschlafen zu denken. Erstmal auf zum Pokern und 'ne gute Zigarre"
+46,456816466864529409,Thu Apr 17 15:28:27 +0000 2014,3,0,"RT @superska: Released: #dnnfnl new version, fix for #dnn 7.2.2: https://t.co/Ve0fmqcgKI"
+47,447826159804628993,Sun Mar 23 20:04:11 +0000 2014,5,0,RT @Spartakiade_org: Erschöpft und zufrieden. Vielen Dank an alle Teilnehmer und Trainer der #Spartakiade14. Es war super mit euch.
+48,446615661138440192,Thu Mar 20 11:54:06 +0000 2014,8,0,"RT @Kaczenski: Büros sind ja irgendwie seltsam. Kaum biste da, kommste zu nix."
+49,442916213245902848,Mon Mar 10 06:53:48 +0000 2014,140,0,"RT @natpryce: Refactoring process for legacy code: 
+1. Find a comment
+2. Clarify code to make the comment redundant
+3. Delete the comment
+4…"
+50,441978881315463168,Fri Mar 07 16:49:11 +0000 2014,0,0,@cbpsc Still only 60% of the price here in Germany
+51,438941869738057728,Thu Feb 27 07:41:11 +0000 2014,0,0,"@schelianhp in Berlin gibt es dann um 11:11 Berliner, äh Pfannkuchen. Dann ist wieder vorbei :-)"
+52,438930531284439040,Thu Feb 27 06:56:08 +0000 2014,0,0,@schelianhp das Radio bereitet dich doch nur für den Tag vor ….
+53,435765959664877568,Tue Feb 18 13:21:15 +0000 2014,4,0,"RT @pdonker: Blogged: Contributing to the DNN Platform using Git and Github
+http://t.co/EnzOwkwUrR"
+54,404205071514472448,Sat Nov 23 11:09:33 +0000 2013,0,0,@SchelianHP als hier kamen gestern die Schokoriegel für das nexus10 an
+55,401438060883484672,Fri Nov 15 19:54:26 +0000 2013,1,0,RT @iantruslove: Bootstrap without all the debt #protip https://t.co/2viKQ1gEeD via @coderwall
+56,392314923931271168,Mon Oct 21 15:42:21 +0000 2013,1,0,@altnetberlin Pacman in js http://t.co/NPjpjh85zi
+57,392223061828583425,Mon Oct 21 09:37:19 +0000 2013,0,0,1)Login to trello with Google Account. 2) logout from trello =&gt; browser is still logged into google. #Oauth :-(
+58,391622538704728064,Sat Oct 19 17:51:03 +0000 2013,0,0,Danke! @writeline: #büchermarkt #devspace http://t.co/2wPd6r7Svb
+59,391090471826894848,Fri Oct 18 06:36:49 +0000 2013,0,0,"#devspace die 3 fährt vom Augustusplatz, eine Stadion nach""Links"" vom Hbf"
+60,389312080270327808,Sun Oct 13 08:50:07 +0000 2013,5,0,"RT @SchelianHP: SchippeDieSchipp “@usmanm: This is a ship-shipping ship, shipping shipping ships. http://t.co/D0M4aXe9ow”"
+61,388440086192599040,Thu Oct 10 23:05:08 +0000 2013,1,0,RT @writeline: #büchermarkt #devspace http://t.co/61356598bR
+62,385058518992035843,Tue Oct 01 15:07:59 +0000 2013,0,0,@sforkmann Ich bin dabei - freue mich auf den funktionalen Tag #fsharp #devspace
+63,363386163220201472,Fri Aug 02 19:49:47 +0000 2013,1,0,"RT @ernst_peter: Very good advice!
+How To Stop DotNetNuke 7.x Edit Mode Hover Fading http://t.co/7gdMMECtMr"
+64,350584709023145985,Fri Jun 28 12:01:22 +0000 2013,0,0,@TimoBreumelhof That's called page templates #dotnetnuke #modules #export
+65,327707510402326528,Fri Apr 26 08:55:33 +0000 2013,0,0,"Boarding for #DNNEU2013 to BCN. No red T-shirt, no yellow scarf, no German flag…"
+66,320191048221593601,Fri Apr 05 15:07:49 +0000 2013,1,0,RT @TimoBreumelhof: I must say #Trello is really good! Top usability.. http://t.co/VqI6WqvjGn
+67,319938510675132417,Thu Apr 04 22:24:19 +0000 2013,1,0,RT @superska: Had a nice talk with @SCullman to plan our joined session at @DNNEurope in #Banyoles. We need jokes about our first names  ...
+68,312582428256514049,Fri Mar 15 15:13:53 +0000 2013,755,0,RT @RachelAppel: Most brilliant SQL injection attack ever! http://t.co/MMbnWDmvcU
+69,281861271048044544,Thu Dec 20 20:38:58 +0000 2012,4,0,"RT @schotman: Using DAL 2 in a real world module - http://t.co/9NzDD5mC - dotnetnuke blog, modules &amp; more http://t.co/NeTujj2t --- g ..."
+70,280802877197410304,Mon Dec 17 22:33:17 +0000 2012,2,0,RT @oakinger: RT @MarkNijhof: Wow very cool! “@rbates: Take a 5 minute break and watch this awesome sleight-of-hand magic. http://t.co/J ...
+71,279322024797671424,Thu Dec 13 20:28:54 +0000 2012,1,0,RT @rkqiku: Use power of #free #sharepoint components to get enterprise features: Sharepoint Foundation &amp; MS Search Server Express h ...
+72,279321470251986946,Thu Dec 13 20:26:43 +0000 2012,0,0,Slope ends in a vertical rainbow http://t.co/EXj32dbh
+73,276382063563776000,Wed Dec 05 17:46:33 +0000 2012,0,0,Tell them zu Upgrade :D “@pdonker: There we go. I upped the dependency of DMX to DNN 6 and the first request for a DNN 5 version is in.”
+74,275026598015668225,Sun Dec 02 00:00:25 +0000 2012,3,0,RT @ellenberg: An alle Social Media Berater da draußen: https://t.co/YbaW2ETp! (via @kathl_stuggi)
+75,273790801761406976,Wed Nov 28 14:09:48 +0000 2012,1,0,"RT @oliverhine: I'm curious about Active Directory for DNN7 EE, is it just a supported version of http://t.co/9bNHFM9D or an completely  ..."
+76,273452397207097344,Tue Nov 27 15:45:06 +0000 2012,0,0,"New Silverlight Client for a DMS runs fine in Chrome, but fails regullary in IE9."
+77,272297555038203904,Sat Nov 24 11:16:10 +0000 2012,3,0,RT @liffeyd: Not a lot to disagree with here http://t.co/VxuP3e1z
+78,270427461374840832,Mon Nov 19 07:25:05 +0000 2012,28,0,"RT @modius: Q: “How much does an app cost?” A: “About as much as a car.” http://t.co/XPUwtzD9 &lt;- nice little non-tech article, accura ..."
+79,265735247126212608,Tue Nov 06 08:39:54 +0000 2012,0,0,Endlich Outlook 2013  http://t.co/oxeYMORH
+80,265030617597616128,Sun Nov 04 09:59:57 +0000 2012,2,0,RT @helferleincom: I just got a #free #fsharp e-book from @Syncfusion! Get yours too! http://t.co/ah72qtfw
+81,264265969671737344,Fri Nov 02 07:21:31 +0000 2012,3,0,"RT @tha_watcha: “@YAFNET: YAFNET honors tha_watcha with the Trophy of ""Support King"" on the support forum! You are a huge asset to the Y ..."
+82,264265842731139072,Fri Nov 02 07:21:01 +0000 2012,10215,0,"RT @FactHive: Price of 1 gigabyte of storage over time:
+1981 $300,000
+1987 $50,000
+1990 $10,000
+1994 $1,000
+1997 $100
+2000 $10
+2004 $1
+2 ..."
+83,263933121920114688,Thu Nov 01 09:18:54 +0000 2012,1,0,RT @Ventrian: Analyzing #DotNetNuke Performance with the SQL Profiler http://t.co/uOdPi8kb
+84,261779313609809921,Fri Oct 26 10:40:26 +0000 2012,0,0,@DTraub Hatte keine Probleme (und keine Warnungen) beim Upgrade mit #VS2010 SP1 von W7 nach #windows8
+85,261568147587477504,Thu Oct 25 20:41:20 +0000 2012,1,0,"RT @superska: Released: @40Fingers Windows 8 Pin Module for DotNetNuke, free, open source, on codeplex: http://t.co/TYKxU2dp"
+86,261516909500059648,Thu Oct 25 17:17:44 +0000 2012,18,0,RT @veeam: New on the Veeam blog: WOW! Veeam Backup &amp; Replication v 6.5 now available http://t.co/G6yIKkgN
+87,260489561329786880,Mon Oct 22 21:15:25 +0000 2012,13,0,"RT @bradwilson: When you accept DRM, you try to use companies that you think you can trust. Can you trust Amazon any more? Maybe not. ht ..."
+88,259535244703694848,Sat Oct 20 06:03:18 +0000 2012,2,0,RT @janekf: +1 RT @devopenspace: Guten Morgen. #devspace
+89,258344054276894720,Tue Oct 16 23:09:56 +0000 2012,0,0,"@oliverhine one #dnnMVP is not in the picture: @tha_watcha ( congratulation, Ingo!"
+90,258342372247752704,Tue Oct 16 23:03:15 +0000 2012,1,0,RT @oliverhine: The #DNNMVP's @briandukes @BrandonHaynes @CBPSC @ernst_peter @mitchelsellers @pdonker @SCullman @vmasanas @sleuka http:/ ...
+91,258114621486018560,Tue Oct 16 07:58:15 +0000 2012,0,0,+1 RT @sforkmann @devopenspace nix bekommen.
+92,256902430233608194,Fri Oct 12 23:41:27 +0000 2012,2,0,"Goodbye #dnnworld, already boarding for flight back to Germany. One important question still remains open: who is @DNNBorat?"
+93,256832755164389376,Fri Oct 12 19:04:35 +0000 2012,0,0,@vmasanas http://t.co/B1KFmqVD
+94,256514222089969664,Thu Oct 11 21:58:51 +0000 2012,0,0,"Many #FnL #formandlist users here at #DNNworld, thank you for all the encouragement"
+95,256139257868070912,Wed Oct 10 21:08:52 +0000 2012,2,0,http://t.co/4e9JkdYE #DNNWorld - Welcome Reception looks promising
+96,256060448091303936,Wed Oct 10 15:55:42 +0000 2012,1,0,"Adding first Maschine.Specifications to #FnL, it is never to late to start with testing #DNNWorld"
+97,256031555833692162,Wed Oct 10 14:00:54 +0000 2012,0,0,"Finally able to purchase my #Resharper update, with a little help from @JetBrainsSales, thanks"
+98,256015896437465089,Wed Oct 10 12:58:40 +0000 2012,1,0,"Developer training is full, them let's implement Social #DNNWorld"
+99,255701247091433472,Tue Oct 09 16:08:22 +0000 2012,0,0,“@TorstenWeber: RT @devopenspace: Party? Intel sponsert! http://t.co/PjXiynfU #devspace #IntelDZ” - also diesmal kein Microsoft Sternburger
+100,255662584416591872,Tue Oct 09 13:34:44 +0000 2012,0,1,"@Judy_Arukor It is about 6 miles, neat to Seaworld, I am not aware of #dnn bus. Maybe we can take all the 111 lynx bus and create one"
+101,255651039078932481,Tue Oct 09 12:48:52 +0000 2012,0,0,Anyone going from #dnnworld buena vista palace to #odug?
+102,255480527610585088,Tue Oct 09 01:31:19 +0000 2012,0,0,"@gorohoroh @resharper @JetBrainsSales yes, shopping cart remains empty"
+103,255266138555027456,Mon Oct 08 11:19:24 +0000 2012,0,0,Boarding starts in 2 minutes http://t.co/jIxAV83W
+104,255017374791651329,Sun Oct 07 18:50:54 +0000 2012,0,0,"Purchase of #resharper 7 upgrade fails, shopping cart remains always empty."
+105,254560059122651137,Sat Oct 06 12:33:42 +0000 2012,2,0,RT @rkqiku: #dotnetnuke Form and List User Guide has been completely moved to #FnL Documentation page on #Codeplex http://t.co/gL3O2qLC  ...
+106,253427174663651328,Wed Oct 03 09:32:01 +0000 2012,0,0,@nokiko it is not a general fnl issue - I just tested with a set of templates all without errors. Please send me a copy of your template
+107,252772308823973889,Mon Oct 01 14:09:49 +0000 2012,2,0,RT @Cayas_Software: Richtig geiler Vortrag vom @christianweyer zum Thema Web APIs. Klasse. #VSE2012
+108,252749235458551809,Mon Oct 01 12:38:08 +0000 2012,2,0,"RT @eagleworx: Suche für einen Bekannten Job im MS Umf., Win Server, SP, Lync, Exchange, DNN, SQL, MCTS SharePoint 2010 Conf. vorhanden  ..."
+109,252132082917191680,Sat Sep 29 19:45:48 +0000 2012,0,0,All in http://t.co/6uSWwZGW
+110,248032450301800448,Tue Sep 18 12:15:19 +0000 2012,0,0,Open Source. Open Space. #devspace - ich bin dabei
+111,246249525306609664,Thu Sep 13 14:10:36 +0000 2012,0,0,"@cnurse I was just about to ask how object qualifiers and company table prefixes are handled in DAL2 , thanks #dnn7"
+112,246247979701383168,Thu Sep 13 14:04:28 +0000 2012,2,0,"RT @cnurse: Blogged: DAL 2 - Caching, Scoping and Custom Mappings http://t.co/BqsNM3Wt http://t.co/a6mjhulb #dnn7"
+113,241553295620075520,Fri Aug 31 15:09:28 +0000 2012,10,0,"RT @jensbest: @evabraham @caschy @nerotunes Spotify-/Telekom-Deal - Leider nicht so cool, wie er auf den ersten Blick aussieht: http://t ..."
+114,240808259894775808,Wed Aug 29 13:48:57 +0000 2012,0,0,@ernst_peter Congratulations!
+115,240467232034000896,Tue Aug 28 15:13:50 +0000 2012,0,0,"@rkqiku It filters only on object key, everything might be a possible enhancement"
+116,240334924299763712,Tue Aug 28 06:28:05 +0000 2012,0,0,"@rkqiku yes, eg „mid:[querystring:udt_123_param_xyz]“. But the result would be empty as FnL doesn’t generate activities (yet)"
+117,240200481077612545,Mon Aug 27 21:33:52 +0000 2012,0,0,@rkqiku Fnl is always filtered by moduleId.
+118,240045692930895872,Mon Aug 27 11:18:47 +0000 2012,0,0,The #DotNetNuke Journal - ObjectKey Filter module changed into a provider extending the original journal module https://t.co/SaX6dpzm
+119,238970061673603072,Fri Aug 24 12:04:37 +0000 2012,1,0,Published a modified Journal module https://t.co/SaX6dpzm #DotNetNuke. The core Journal remains untouched!
+120,238678223381229569,Thu Aug 23 16:44:57 +0000 2012,0,0,"Sigh, fighting with two different versions of jquery.fileupload on one page."
+121,238276352921440256,Wed Aug 22 14:08:04 +0000 2012,0,0,You cannot search within a book #Kindle #Windows8 #app #fail
+122,238185974071455745,Wed Aug 22 08:08:56 +0000 2012,0,0,"http://t.co/4OMPqbzD Microsoft account - reset password #fail ""The password contains characters that aren't allowed."" I tried an Umlaut ÄÖÜ"
+123,235774931646967809,Wed Aug 15 16:28:18 +0000 2012,0,0,"Not for me, only preview RT @MarkXA Yes. RT @nmerrigan: is Win8 on MSDN yet?"
+124,235757925723934721,Wed Aug 15 15:20:44 +0000 2012,0,0,#ms12-060 #Patch  ( http://t.co/qB58CsG1 ) removes also events from treeview and listview in #Microsoft #Access #fail
+125,235728868118523904,Wed Aug 15 13:25:16 +0000 2012,0,0,"MS Patch Dayevents from Windows Common Controls in legacy #Access app are gone, no more click, mouse down, OLEDragDrop... #fail"
+126,235389723084988417,Tue Aug 14 14:57:37 +0000 2012,0,0,".../login.aspx?ReturnUrl=%252fdefault.aspx&amp;popUp=true  -&gt; 500 Internal Server Error, HTTP-Filter Any idea? #DotNetNuke"
+127,235025389083308032,Mon Aug 13 14:49:53 +0000 2012,3,1,"If your DNN sites are going wrong today: Google switched the hosted jquery version to 1.8.0, Going back to 1.7.2 saved my day  #DotNetNuke"
+128,233823950600273920,Fri Aug 10 07:15:48 +0000 2012,1,0,"RT @thoehler: @Marco_Rasp alles Gute zum Geburtstag, lass Dich feiern"
+129,233237833433886720,Wed Aug 08 16:26:47 +0000 2012,1,0,RT @garbaczd: Why have I not been using the Form and List modules more?! #DotNetNuke
+130,231354858031161344,Fri Aug 03 11:44:31 +0000 2012,2,0,RT @weggetor: One new project on codeplex for you #DNN folks http://t.co/AxiNtjsf
+131,231311531198009344,Fri Aug 03 08:52:21 +0000 2012,0,0,Von hinten durch die Brust ins Auge - Erste ernste Versuche mit Content Localization in DNN
+132,230973800362151936,Thu Aug 02 10:30:19 +0000 2012,3,0,"Form and List 6.0.3 released (as beta), fixes an issue with Thumbnails in .Net 4 #DotNetNuke #FnL http://t.co/hvthPIJz"
+133,230595686025027584,Wed Aug 01 09:27:50 +0000 2012,0,0,"@nokiko I use a cleanup file  http://t.co/B3dcZ2GJ , e.g. &lt;component type=""Cleanup"" version=""06.00.01"" fileName=""Cleanup_06.00.01.txt"" /&gt;"
+134,230591871955636225,Wed Aug 01 09:12:41 +0000 2012,0,0,@nokiko just stop with a \
+135,230590963859480577,Wed Aug 01 09:09:04 +0000 2012,0,0,"@nokiko sure. btw, it doesn't depend on the package type."
+136,229562932621615104,Sun Jul 29 13:04:02 +0000 2012,0,0,What about mobile forms? default.css which defines even min-width is evil RT @jbrinkman Not mobile editing/configuration.
+137,225285714282164224,Tue Jul 17 17:47:54 +0000 2012,9,0,"RT @CBPSC: @DNNCorp I think @WillStrohl &amp; @christoc should bike across America, speaking at UG's along the way to #DNNWorld. Retweet ..."
+138,222726287511392257,Tue Jul 10 16:17:39 +0000 2012,0,0,You can use any extension type for this RT @nokiko #DotNetNuke can I (ab)use a skin isntaller to ...? ?
+139,221968949481455617,Sun Jul 08 14:08:16 +0000 2012,2,0,RT @rkqiku: 10 things you didn't know JavaScript could do | .net http://t.co/xvCv2fgW
+140,221274498031304707,Fri Jul 06 16:08:46 +0000 2012,0,0,@nokiko just don't use [label-for:...] but your own html
+141,221137844201205760,Fri Jul 06 07:05:45 +0000 2012,0,0,"@WillStrohl that blog post is so wrong, why should we feed that troll?"
+142,220951343324610560,Thu Jul 05 18:44:39 +0000 2012,0,0,@TimoBreumelhof Only by host-&gt; extensions
+143,220871907111743490,Thu Jul 05 13:29:00 +0000 2012,2,1,Form and List – Is it slow? - DotNetNuke http://t.co/wNY7Z4kV
+144,220807957649174529,Thu Jul 05 09:14:54 +0000 2012,0,0,@nokiko what's the usecase? Registering javascripts?
+145,220797347028926464,Thu Jul 05 08:32:44 +0000 2012,1,0,RT @nokiko: After checking a saved #DotNetNuke F&amp;L template really impressed with it even the xsl is in there to be saved to externa ...
+146,220797191386701824,Thu Jul 05 08:32:07 +0000 2012,0,0,@nokiko You can also check the XML to get an example
+147,220797049673744384,Thu Jul 05 08:31:33 +0000 2012,0,0,@nokiko The Token2XSL editor has all Context Tokens in a dropdown. Does this help?
+148,219549761668263937,Sun Jul 01 21:55:16 +0000 2012,2,0,RT @rkqiku: Blogged: Using Dotnetnuke FNL Module to create random quotes http://t.co/RtlL7Gbj #dotnetnuke #dnn #fnl
+149,219548902372814848,Sun Jul 01 21:51:52 +0000 2012,1,0,"RT @pdonker: Maybe they can't hack it in football, but Italians are still better cooks."
+150,218035481202532354,Wed Jun 27 17:38:04 +0000 2012,1,0,"#FnL : tokens -&gt; xslt -&gt;html output, but xslt -&gt; tokens -&gt; usercontrol for input"
+151,218010575572185090,Wed Jun 27 15:59:06 +0000 2012,0,0,"Thanks. What would fit as xml source? field &amp; context table? RT @woodandcanvas  xsl choose : when test user = admin, ... Else This ..."
+152,217972004530294787,Wed Jun 27 13:25:50 +0000 2012,0,0,"@woodandcanvas Sure, but that would increase complexity. I would like to see a use case, or even better a prototype of such an XSL script"
+153,217960649966370817,Wed Jun 27 12:40:43 +0000 2012,13,0,RT @robert0muehsig: Kreative Bewerbung - beweisst zumindest Humor und hat Eier: http://t.co/P27cJ52T
+154,217948070715990016,Wed Jun 27 11:50:43 +0000 2012,0,0,"@woodandcanvas I don't know, that's why I ask my users. Do you want xsl for #fnl form templates? Are tokens good enough? What do you need?"
+155,217686944287694849,Tue Jun 26 18:33:06 +0000 2012,2,0,RT @adammer: Woot! Greytness just became the Best Selling #DNN skin (Units - All Time) in the http://t.co/0qtVYCRl. #DotNetNuke http://t ...
+156,217686544918659072,Tue Jun 26 18:31:31 +0000 2012,0,0,Anyone would like to test form templates for #DotNetNuke #FnL? I would love to get some feedback http://t.co/TFu358bT
+157,217650801680715776,Tue Jun 26 16:09:29 +0000 2012,0,0,Can anyone still post into the DotNetNuke forums?
+158,217571888447238144,Tue Jun 26 10:55:55 +0000 2012,1,0,"#fnl form template (for one field), following #DotNetNuke form pattern: &lt;div class=""dnnFormItem""&gt;[label-for:field][editor-for:field]&lt;/div&gt;"
+159,217359453471776768,Mon Jun 25 20:51:46 +0000 2012,0,0,"Finally installed Form and List on Azure, there had been still a few issues with SQL script"
+160,217333653427068931,Mon Jun 25 19:09:15 +0000 2012,0,0,"Deploying 'DotNetNuke® Community Edition' to site '.....' , my first steps with Azure"
+161,217228282897235971,Mon Jun 25 12:10:33 +0000 2012,3770,0,"RT @Jon2T2: 2+2=fish
+3+3=eight
+7+7=triangle
+
+If you get it, pass it on
+
+If you don't, look at it a bit longer...
+
+...very few RTs, it's ..."
+162,216572911501312000,Sat Jun 23 16:46:20 +0000 2012,1,0,Performance tests with Form and List (2)  http://t.co/zZ2Ch0Wn #FnL
+163,216572544256446465,Sat Jun 23 16:44:52 +0000 2012,1,0,Performance tests with Form and List (1):   http://t.co/BcFv2v73  #FnL
+164,216512256400306177,Sat Jun 23 12:45:19 +0000 2012,0,0,+1 RT @ernst_peter @TimoBreumelhof C'est très bon monsieur! Félicitations!
+165,216512165031579648,Sat Jun 23 12:44:57 +0000 2012,1,0,RT @ernst_peter: @TimoBreumelhof C'est très bon monsieur! Félicitations!
+166,216216632052289537,Fri Jun 22 17:10:36 +0000 2012,2,0,#DotNetNuke Form and List 6.0.1 released http://t.co/y20ctLMG #FnL
+167,216182997555220482,Fri Jun 22 14:56:57 +0000 2012,6,0,RT @pdonker: Document Exchange 06.00.04 Released http://t.co/tnyMsBxg #DotNetNuke #DMX
+168,215395210266546176,Wed Jun 20 10:46:34 +0000 2012,0,0,@rkqiku Can you please add it as work item: http://t.co/gclcegkJ #dnn #fnl
+169,215205994815422465,Tue Jun 19 22:14:42 +0000 2012,0,0,"Rechner (nicht meiner) mit #BkaTrojaner infiziert, kurze Zeit später meldet sich #SecurityEssentials und alles wieder wunderbar #misstrauen"
+170,215109397335113728,Tue Jun 19 15:50:51 +0000 2012,0,0,"UI mit #knockout läuft, aber OData filter wird ignoriert :-( #webapi @lennybacon code samples #Spartakiade"
+171,214707871605194752,Mon Jun 18 13:15:20 +0000 2012,1,0,"Installiere nun WebApi zum weiterspielen, danke  RT @lennybacon Code Samples von der #Spartakiade http://t.co/lAkDlHkb"
+172,213222431903596545,Thu Jun 14 10:52:43 +0000 2012,0,0,@nokiko Maybe I  should add that extension object ( http://t.co/9PvLl3ID ) also to #DotNetNuke #FormAndList
+173,213221218898296832,Thu Jun 14 10:47:54 +0000 2012,1,0,RT @nokiko: #DotNetNuke Forms &amp; List some Javascript magic and a cleraner nicer version of @mandeepsdnn live content video :) http:/ ...
+174,213221140578045952,Thu Jun 14 10:47:36 +0000 2012,0,0,RT @nokiko mm #DotNetNuke FnL would be cooler with option to define css and js files -&gt;  xml + fnl data source http://t.co/9PvLl3ID
+175,212946028364709888,Wed Jun 13 16:34:24 +0000 2012,1,0,My deep respect to Niels Hartvig from Umbraco for retreating from V5 and the way it is explained and communicated to their community!
+176,212944689328959488,Wed Jun 13 16:29:04 +0000 2012,46,0,RT @umbraco: Watch our reasons for discontinuing v5 - CodeGarden '12 keynote is finally online: http://t.co/i9rIXOtr #cg12
+177,212651280051613696,Tue Jun 12 21:03:10 +0000 2012,0,0,@pdonker congrats!
+178,210992997255483392,Fri Jun 08 07:13:45 +0000 2012,0,0,"Enjoying garden in the morning, but now I must leave for work  http://t.co/cjfvHuqR"
+179,210834638967537664,Thu Jun 07 20:44:29 +0000 2012,0,0,"Und Tschüss Last.Fm, Account ist gelöscht"
+180,210326934519939073,Wed Jun 06 11:07:03 +0000 2012,0,0,@SchelianHP @weggetor @janekf @Marco_Rasp Vielen Dank
+181,209985128083111936,Tue Jun 05 12:28:50 +0000 2012,0,0,@irobinson @rkqiku Best would be an updated urlcontrol which falls back to User File Manager + FileUpload for ordinary users.
+182,209984726063267843,Tue Jun 05 12:27:14 +0000 2012,0,0,@irobinson I am already playing with jquery.fileupload and DotNetNuke service api in a custom project.
+183,209984175959310337,Tue Jun 05 12:25:03 +0000 2012,0,0,"@nokiko RadioButtonList.RepeatLayout=UnorderedList requires http://t.co/6VIt99oU 4, otherwise I would have used it in FnL for multivalues"
+184,209982652579717120,Tue Jun 05 12:19:00 +0000 2012,0,0,@irobinson @rkqiku I am glad if I was wrong. Maybe I mixed it with FileUpload which is part of journal
+185,209975165440901121,Tue Jun 05 11:49:15 +0000 2012,0,0,"@rkqiku User File Manager is located within a module, and IMHO not part of #DotNetNuke core, even if included and installed in distribution."
+186,209974849404276736,Tue Jun 05 11:47:59 +0000 2012,0,0,"@rkqiku Not yet. User file manger is new in #DotNetNuke6.2, I am not sure whether third party modules should target UFM."
+187,208832275822030848,Sat Jun 02 08:07:49 +0000 2012,5,1,"I am happy to announce the final release of #DotNetNuke Form And List 6.0.0. Grap it here: http://t.co/iXN8oITo to Charlotte, enjoy  #DoDNN"
+188,208574871129698305,Fri Jun 01 15:04:59 +0000 2012,0,0,"@nokiko Yes, the idea is to have a fully templateable form for Form and List 6.1 #DotNetNuke"
+189,208148461990854656,Thu May 31 10:50:35 +0000 2012,0,0,Team member told me this morning that new module depends now on #DotNetNuke 6.2. to simplify development. #KnockOut.js #serviceapi
+190,206006111717953536,Fri May 25 12:57:39 +0000 2012,5,0,RT @nokiko: #DotNetNuke we realy need much cleaner default.css etc only style admin styles controlpanel etc no link unordered list heade ...
+191,206003640945745920,Fri May 25 12:47:50 +0000 2012,0,0,"Can't reproduce issue, sorry RT @nokiko DotNetNuke just love the  Forms and list module  - just logged issue http://t.co/mIeXhtDg"
+192,200986964168687619,Fri May 11 16:33:21 +0000 2012,0,0,+1 RT @TimoBreumelhof #Dotnetnuke url control #page selection drop down is terrible. It drives me crazy with more then 100 pages! #usability
+193,200714271498321921,Thu May 10 22:29:46 +0000 2012,0,0,@GreatWebs Which module is the source of the rss feed? FnL injects bullets for separation
+194,200289129181872130,Wed May 09 18:20:24 +0000 2012,0,0,@ernst_peter I thought the Dell Ultrabook has no support for docking stations. Or do you use a generic USB docking station?
+195,199515486483001345,Mon May 07 15:06:13 +0000 2012,3,0,"RT @RobrechtSiera: #Dotnetnuke ""CE is [..] perfect for the hobbyist and small business"" and ideal for Governmental and Enterprise websit ..."
+196,199196588042764290,Sun May 06 17:59:02 +0000 2012,0,0,"Gar nichts. Oder sind Piraten schon im Bundestag RT @asp_net In der Berliner Runde sitzt eine Linke, aber kein Pirat.Was ist da kaputt? #zdf"

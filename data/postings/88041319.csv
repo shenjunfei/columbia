@@ -1,0 +1,231 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669385533290881024,Wed Nov 25 05:22:02 +0000 2015,17,0,"RT @_ericelliott: Use more pure functions:
+Given the same input, always produce the same output &amp;
+Produce no side-effects.
+#JavaScript"
+1,669158753539915776,Tue Nov 24 14:20:53 +0000 2015,0,0,Really not impressed with @costcocanada service at the tire centres in Brampton and Mississauga. Wait for ages and don’t even get anywhere.
+2,668621636782784512,Mon Nov 23 02:46:35 +0000 2015,0,1,The Most Overlooked Aspect Of UX Design Could Be The Most Important https://t.co/YvWZPoBhpL via @techcrunch
+3,667913576577957888,Sat Nov 21 03:53:00 +0000 2015,0,1,@speckproducts and unfortunately for my budget a new phone! I still can’t believe Apple is selling a 16GB phone and calling it a flagship.
+4,667815063244247041,Fri Nov 20 21:21:33 +0000 2015,0,1,All is well when the work is tough but the provided coffee is good. Thank you @rangleio! :)
+5,667807162236669952,Fri Nov 20 20:50:09 +0000 2015,185,0,RT @espn: How the @warriors' mentality is changing the way the NBA thinks about the regular season: https://t.co/4TinsGnv2i https://t.co/cw…
+6,667735967378329600,Fri Nov 20 16:07:15 +0000 2015,0,0,"Another @WebStormIDE pro-tip, or more like, requirement - have a _beefy_ machine. At least a quad-core with 16GB of DDR3@1600MHz memory."
+7,667718848943153152,Fri Nov 20 14:59:13 +0000 2015,0,0,".@WebStormIDE PRO TIP: set the terminal tool window to a reasonable keymap, put it in floating mode, maximize, and code away!"
+8,667587783507210240,Fri Nov 20 06:18:25 +0000 2015,0,0,"If anyone’s wondering, I had no idea what I was doing and would just jack up threes with Chauncey or get layups with ‘sheed and Ben Wallace."
+9,667587335169576961,Fri Nov 20 06:16:38 +0000 2015,0,0,The @warriors/ @LAClippers are playing like I played with Chauncey Billups and the pistons in NBA Live ‘06.
+10,667544878121922560,Fri Nov 20 03:27:55 +0000 2015,0,0,"@speckproducts you guys are probably aware, but just in case: the candyshell case wears down after a while (I noticed it after ~1 year)."
+11,667543700160045056,Fri Nov 20 03:23:15 +0000 2015,0,0,"So my 5S has finally given in and the screen’s cracked. been a great 2+ y with @speckproducts’ candyshell, but this seems inevitable. #sad"
+12,666774080385748993,Wed Nov 18 00:25:03 +0000 2015,0,1,People that brake for no reason on the 401/Gardner/etc: how do you feel about being part of the problem crippling #Toronto?
+13,666773715485462528,Wed Nov 18 00:23:36 +0000 2015,684,0,RT @BoredElonMusk: LinkedIn: Pokemon for adults.
+14,664115384287522818,Tue Nov 10 16:20:20 +0000 2015,0,0,And I’m annoyed that @Outlook swallowed @sunrise and @salesforce swallowed @tempoai.
+15,664114785819238400,Tue Nov 10 16:17:58 +0000 2015,0,0,Does anyone else have the schedule-everything-coming-up-in-a-short-window syndrome? I find myself doing this all the time.
+16,663816797171380228,Mon Nov 09 20:33:52 +0000 2015,48,0,RT @twentykhz: Inside the song machine: How today's hits are manufactured https://t.co/AetRaJ5RkG https://t.co/zO3mo77hnq
+17,663216153972617216,Sun Nov 08 04:47:07 +0000 2015,0,0,I just earned the '32 bit Grouper' badge on @coderbits! https://t.co/hpenQoZWAt
+18,662657816159645696,Fri Nov 06 15:48:29 +0000 2015,50,0,RT @pierce: The Pebble Time Round might be my favorite smartwatch idea yet https://t.co/1jtBNEsLHg https://t.co/vOvyDbRdSv
+19,662419888267509761,Fri Nov 06 00:03:03 +0000 2015,0,0,@typescriptlang see https://t.co/yhhRQBqsw4
+20,662418120590680064,Thu Nov 05 23:56:01 +0000 2015,0,0,@typescriptlang any idea why node typings might not included by default with v1.6.2?
+21,661709089567850496,Wed Nov 04 00:58:35 +0000 2015,0,0,Summary of today: from the frying pan of scary monolithic project to the fire of webpack + typescript.
+22,661601773711396865,Tue Nov 03 17:52:09 +0000 2015,0,0,Here’s $10 for you to spend on ordering coffee/lunch with Ritual. https://t.co/tUcELptFvc https://t.co/tUcELptFvc
+23,661330730111254528,Mon Nov 02 23:55:07 +0000 2015,0,0,Missing the train/bus by a few minutes never gets old. /sarcasm
+24,660574370172022784,Sat Oct 31 21:49:37 +0000 2015,0,0,"2/2 Those of you on the inside, at least share the source code. You know who you are."
+25,660573382816063488,Sat Oct 31 21:45:41 +0000 2015,0,1,"1/2 I don't like the feeling I get w/ some of the ""teaching"" of new technologies is just a cash grab and not just a place to share knowledge"
+26,659473981813166085,Wed Oct 28 20:57:04 +0000 2015,22,0,"RT @_ericelliott: Do yourself and your team a favor: Optimize your code for future flexibility.
+#code #JavaScript"
+27,658356956051185665,Sun Oct 25 18:58:24 +0000 2015,29,0,RT @globeandmail: Expanded CSIS mandate under C-51 raises accountability concerns https://t.co/rBZ5O6mWB2 https://t.co/5A2pcWMliY
+28,658220127788204033,Sun Oct 25 09:54:42 +0000 2015,0,0,@waze though I will admit that reporting events on the other side of the road isn’t always effective because I might forget to change sides
+29,658218876749127680,Sun Oct 25 09:49:43 +0000 2015,2022,0,RT @PhilipCotan: Technical debt in one image technicaldebt http://t.co/eoIpYNbHU0
+30,658218486699851776,Sun Oct 25 09:48:10 +0000 2015,39,0,"RT @mgsiegler: For anyone who thinks @Medium is ""just a blog"", I present an insanely detailed post on the stack by @dpup  https://t.co/7LK5…"
+31,658214853677596673,Sun Oct 25 09:33:44 +0000 2015,0,0,@waze but these aren’t new suggestions - they’re regressions because of the redesign.
+32,657273248158121984,Thu Oct 22 19:12:08 +0000 2015,0,0,@waze I’m also missing the ability to report things that are going the other way!
+33,656264655472611328,Tue Oct 20 00:24:21 +0000 2015,0,0,"@waze that being said, the colour scheme at night with low brightness makes things really hard to see."
+34,655913954959495168,Mon Oct 19 01:10:47 +0000 2015,0,0,"""Anyone who stops learning is old."" —Henry Ford via @momentumdash"
+35,655880057584414720,Sun Oct 18 22:56:06 +0000 2015,0,0,Love the @waze redesign. Here’s to #incarUX!
+36,655616185740865536,Sun Oct 18 05:27:34 +0000 2015,37,0,"RT @ZDNet: OS X 10.11 El Capitan: Bugs, bugs, and more bugs http://t.co/nRCC489otG via @ZDNet &amp; @the_pc_doc http://t.co/g2B1taIrQt"
+37,655276387423657984,Sat Oct 17 06:57:19 +0000 2015,0,0,"As it turns out, the nature of #ElCapitan’s stabilizing update is to completely destabilize my Macbook Air. Several kernel panics recently."
+38,655093755544899584,Fri Oct 16 18:51:37 +0000 2015,7,0,RT @spblat: Apple's #CarPlay is terrific. Demand for @Waze support is overwhelming. @Tim_Cook please extend the API to enable this. RT if y…
+39,654843326127034368,Fri Oct 16 02:16:30 +0000 2015,6,0,"RT @hfiguiere: Adobe confirms major Flash vulnerability, and the only way to protect yourself is to uninstall Flash http://t.co/ug4WkZainw"
+40,654806034104496131,Thu Oct 15 23:48:18 +0000 2015,27978,0,RT @kobebryant: #justpray http://t.co/anLldzod6I
+41,654763242640637956,Thu Oct 15 20:58:16 +0000 2015,0,0,I've been using @Trello since my 2014 resolution to up productivity. Here's to more years of motivation! http://t.co/OffPrkA0NF #Trello10m
+42,654738052934299648,Thu Oct 15 19:18:10 +0000 2015,9,0,"RT @_ericelliott: Version &amp; Release management is broken. How to do it right: https://t.co/oTAnuKw6JL
+#writecleancode #code"
+43,654546655300030464,Thu Oct 15 06:37:38 +0000 2015,0,0,"I don't really care about the #Jays, but this guy's great. http://t.co/PNMB3KAIsG"
+44,653795980194676736,Tue Oct 13 04:54:43 +0000 2015,0,0,Learning CSS... http://t.co/84OuauHpCf via @9GAG
+45,652604800513605632,Fri Oct 09 22:01:23 +0000 2015,0,0,@waze getting a lot of errors connecting to the routing server
+46,651817380885200896,Wed Oct 07 17:52:28 +0000 2015,35568,0,"RT @JeremyClarkson: With a skeleton crew, filming for Amazon Prime's new motoring programme has begun. http://t.co/8PaYvke5il"
+47,651157524826095617,Mon Oct 05 22:10:26 +0000 2015,0,0,Op-Ed: Requiring the impossible—how pride brought VW to its knees http://t.co/VEJGDRoY2v
+48,650924451844853760,Mon Oct 05 06:44:17 +0000 2015,22,0,RT @smashingmag: Considerations on designing for the 10-foot UI experience—on prototyping custom interactions for Apple TV. https://t.co/Ah…
+49,650039552464191488,Fri Oct 02 20:08:01 +0000 2015,0,0,@M_Audio_ Will you be updating the drivers for the M-Audio Fast Track Ultra to work on OS X El Capitan? Would really love to see that soon!
+50,648961569792131072,Tue Sep 29 20:44:30 +0000 2015,15,0,"RT @joemccann: Free upgrade tools &amp; a step-by-step guide for upgrading to Node.js v4 from @nodesource 
+
+http://t.co/EEI3hNmCTI http://t.co/…"
+51,648931974812295168,Tue Sep 29 18:46:54 +0000 2015,0,0,Sitting here reading the massive OS X 10.11 El Capitan: The Ars Technica Review http://t.co/Np0dV8oe35 because I can't wait for tomorrow.
+52,648130617213853696,Sun Sep 27 13:42:35 +0000 2015,0,1,"For those at #Fluxible2015 that just looked up http://t.co/WcuTp0fYrt, it’s actually: http://t.co/LZnaJO13nX"
+53,648130056376684544,Sun Sep 27 13:40:21 +0000 2015,69,0,RT @Entrepreneur: Billionaire Mark Cuban on Raising Kids: 'I Don't Want Them to Be Entitled Jerks' by @LaShandrow http://t.co/UcNXMbfRvN
+54,647970187099131904,Sun Sep 27 03:05:05 +0000 2015,43,0,RT @newsycombinator: Twitter's Tips for Making Software Engineers More Efficient http://t.co/VhDahnFM7Q
+55,647801682168967170,Sat Sep 26 15:55:31 +0000 2015,0,0,"Shia Labeouf's 'Just Do It,' Remixed Into Daft Punk's 'Harder, Better, Faster, Stronger' Is Peak Internet http://t.co/TZTfvNB3pN"
+56,647796918358278144,Sat Sep 26 15:36:35 +0000 2015,0,0,Half of day 1 at #Fluxible2015. Really loving the interspersing of music. http://t.co/6ynag6nQ2a
+57,647473927833284608,Fri Sep 25 18:13:08 +0000 2015,0,0,Sweet live jazz at #Fluxible2015. Hot damn.
+58,647436843760373760,Fri Sep 25 15:45:47 +0000 2015,0,1,North America is out of IPv4 addresses—for really real this time http://t.co/lGdgOurHSH
+59,646759308995244032,Wed Sep 23 18:53:30 +0000 2015,0,0,"""It always seems impossible until it's done."" —@NelsonMandela via @momentumdash"
+60,646508823532957696,Wed Sep 23 02:18:09 +0000 2015,0,0,Waiting on https://t.co/narOvAaVHv https://t.co/nVhr0jhGLH
+61,646054378844106752,Mon Sep 21 20:12:21 +0000 2015,107,0,RT @edutopia: 7 ways to get students to motivate themselves: http://t.co/KqiVMaeBL7. #MotivationMonday http://t.co/avaUUcpH1f
+62,646053716659970049,Mon Sep 21 20:09:43 +0000 2015,99,0,RT @TechCrunch: Pavel Durov on why WhatsApp sucks the most #TCDisrupt  http://t.co/Hc55czk6oc
+63,645790974518665217,Mon Sep 21 02:45:41 +0000 2015,0,0,https://t.co/RUGTzYx5TU
+64,644741481060810752,Fri Sep 18 05:15:22 +0000 2015,0,0,Dropbox - Campus Cup http://t.co/9UUmNLN1dW
+65,644741295487844352,Fri Sep 18 05:14:38 +0000 2015,0,0,I’m participating in the 2015 Campus Cup! Join me for a chance to earn free space https://t.co/cHivKyjiYL @uwaterloo
+66,644689074645827584,Fri Sep 18 01:47:07 +0000 2015,146,0,RT @nodejs: ICYMI: New version of Node.js (v4.0.0) combines the best of io.js and node.js. More details here https://t.co/ZdapQGwZv0
+67,644670025870151680,Fri Sep 18 00:31:26 +0000 2015,0,0,People confess hilarious food stories. I would totally do 19. http://t.co/ZcedJJXvJZ via @9GAG
+68,644523919207174145,Thu Sep 17 14:50:51 +0000 2015,188,0,RT @Manz: Javascript... http://t.co/CyVlMIIQR4
+69,644163545593081856,Wed Sep 16 14:58:51 +0000 2015,2,0,RT @HNTweets: 5 Attributes of the Engineer I Want to Hire: http://t.co/kBmMd2qA2w Comments: https://t.co/YxUtTZPeFw
+70,644149545094483969,Wed Sep 16 14:03:13 +0000 2015,0,0,#nowplaying The Reckoning - @NEEDTOBREATHE  https://t.co/nkVPt6euNP
+71,643896801263665152,Tue Sep 15 21:18:55 +0000 2015,0,0,http://t.co/DeOA82XqhX
+72,643143310450761728,Sun Sep 13 19:24:48 +0000 2015,24,0,RT @GoogleforWork: .@TwitterEng recaps how they made communication better between offices around the world: http://t.co/yx7YuLzL7w http://t…
+73,642900111312424960,Sun Sep 13 03:18:25 +0000 2015,0,0,Dad joke Jackpot http://t.co/9QK9Qf8RNa via @9GAG
+74,642529139229085696,Sat Sep 12 02:44:19 +0000 2015,0,0,@autoTRADER_ca advanced search shud be able to exclude and/or select multiple fields. And there are definitely better pagination strategies
+75,642359387906969600,Fri Sep 11 15:29:47 +0000 2015,0,0,Unfollowing @mashable on Facebook for the instant crapware redirects on iPhone.
+76,642345238799912960,Fri Sep 11 14:33:33 +0000 2015,0,0,@autoTRADER_ca I really wish I was able select multiple makes of car with the advanced search! and p ...(Cont http://t.co/J1zN4YIluR)
+77,642205982873944064,Fri Sep 11 05:20:12 +0000 2015,7,0,RT @metmaven: I want @JustGetFlux for my whole house.
+78,642172381713186816,Fri Sep 11 03:06:41 +0000 2015,60,0,"RT @newsycombinator: Computer Sciences Courses That Don't Exist, but Should http://t.co/Sy01wq9lM4"
+79,642063641777278976,Thu Sep 10 19:54:35 +0000 2015,2,0,RT @coderwall: Git always rebase on git pull #git #protip http://t.co/4jeeHqLTZx via @coderwall
+80,642049911907819521,Thu Sep 10 19:00:02 +0000 2015,0,0,Don't be fooled: The iPhone 6S really starts at $299 http://t.co/es7yE52IiH via @mashable
+81,642047706924453890,Thu Sep 10 18:51:16 +0000 2015,5,0,RT @HNTweets: Learning a new codebase? Static Code Analysis is your friend: https://t.co/HEeGG1QVph Comments: https://t.co/sIm4AV610I
+82,642026000000413696,Thu Sep 10 17:25:01 +0000 2015,26,0,RT @victorsavkin: New blog post: Mindful Programmer http://t.co/nnNsZ1x7iO
+83,641960241052164098,Thu Sep 10 13:03:43 +0000 2015,34,0,RT @edutopia: The Power of Self-Evaluation: http://t.co/gVeuRvbvRH. http://t.co/XWpDzZoRpc
+84,641613973180186624,Wed Sep 09 14:07:46 +0000 2015,0,0,The Macbook Air Giveaway | TNW Deals https://t.co/1bn4Xzbd2d via @tnwdeals
+85,641602295608676352,Wed Sep 09 13:21:22 +0000 2015,145,0,"RT @TheIllegit: ""The Christian faith really boils down to be nice, don't offend anyone. That's what's behind the crucifixion of God and all…"
+86,641250620993744896,Tue Sep 08 14:03:56 +0000 2015,0,0,Check out Waze - a free traffic &amp; navigation app that I use all the time http://t.co/s1wmFXs92z
+87,640847082329403392,Mon Sep 07 11:20:25 +0000 2015,13,0,RT @globeandmail: How a Canadian’s mistake 70 years ago almost botched Japan’s surrender document http://t.co/ocVjZSq50V http://t.co/TAUqr0…
+88,640342957820805120,Sun Sep 06 01:57:12 +0000 2015,35,0,"RT @djsmith42: Q: How did the developer from Prague switch branches?
+
+A: git czechout"
+89,640205642632949760,Sat Sep 05 16:51:34 +0000 2015,3,0,RT @detalistka: Are you experiencing technical drift? via @codeclimate http://t.co/V8n5aKGPQ4
+90,640205430090665994,Sat Sep 05 16:50:43 +0000 2015,6,0,RT @HNTweets: Serious bug causes “quite a few” HTTPS sites to reveal their private keys: http://t.co/oPJNqT5NNZ Comments: https://t.co/0Cez…
+91,640195573082116096,Sat Sep 05 16:11:33 +0000 2015,21,0,RT @LeeStrobel: Over 100 reviews on Amazon with a 5-star average: The Case for Grace is apologetics for the heart -- http://t.co/FRvjyHWo6F
+92,639980373217267712,Sat Sep 05 01:56:25 +0000 2015,0,0,"For any of my friends visiting Asia, please cross the street carefully and in groups. Please. https://t.co/9lLyGQDUzo"
+93,639695075778412544,Fri Sep 04 07:02:45 +0000 2015,165,0,RT @SavedYouAClick: yo we're good on think pieces about the new google logo so please don't
+94,639065821218762753,Wed Sep 02 13:22:19 +0000 2015,1,0,RT @HNTweets: How to Crush Unit Test Procrastination: http://t.co/X6VV0ZCT4D Comments: https://t.co/6Ae5jMCRZz
+95,639065456914137088,Wed Sep 02 13:20:52 +0000 2015,33,0,RT @jamespearce: Considering a new engineering job? Wouldn't it be cool if you check the quality of their production code before you decide?
+96,638743412032831488,Tue Sep 01 16:01:11 +0000 2015,0,0,@KarlsruheJS @PascalPrecht will you guys be streaming / recording this talk?
+97,638734829878702080,Tue Sep 01 15:27:05 +0000 2015,0,1,How to escape education's death valley http://t.co/ovuRcYlEUB @kaizenahq @khanacademy etc
+98,638706108471869440,Tue Sep 01 13:32:57 +0000 2015,1,0,"RT @louroboros: When someone on @GitHub links to /blob/master/foo, GH should offer to automatically change it to /blob/&lt;latest-master-commi…"
+99,638705905098465280,Tue Sep 01 13:32:09 +0000 2015,0,0,@katiecerar good luck!
+100,638661419513217024,Tue Sep 01 10:35:22 +0000 2015,0,0,How it feels when white people shame your culture’s food — then make it trendy http://t.co/p8u1J75uMO
+101,638643984370241537,Tue Sep 01 09:26:05 +0000 2015,0,0,Being a developer really means being a professional S/O searcher/interpreter and in desperate times copy/paster. #SOreadytohelp #IWantAShirt
+102,638492789030805504,Mon Aug 31 23:25:18 +0000 2015,0,0,@JBlashill thought you'd enjoy this. https://t.co/NZWR6YdJ76
+103,636914667584008193,Thu Aug 27 14:54:24 +0000 2015,13,0,RT @thoughtbot: Blurred Lines: Great software design teams blur the lines between their roles and responsibilities. https://t.co/on8zffGFhg
+104,636638845254127617,Wed Aug 26 20:38:23 +0000 2015,557,0,RT @AmznMovieRevws: Space Jam. http://t.co/EXtNoL9q3n
+105,634860435922120704,Fri Aug 21 22:51:37 +0000 2015,28,0,RT @Satoshi_N_: Passionate public disagreement isn't a bug of open source development.  It's a feature.
+106,634858545763233793,Fri Aug 21 22:44:07 +0000 2015,0,0,"#nowplaying One For The Pain - @lifehouse 
+
+Nice to have you guys back!"
+107,634807425724469248,Fri Aug 21 19:20:59 +0000 2015,6,0,"RT @getify: any button that says ""continue to enter site"" is… say it with me, class:
+
+BROKEN… BY… DESIGN."
+108,634697376461139969,Fri Aug 21 12:03:41 +0000 2015,189,0,RT @MindShiftKQED: The Funniest Back-To-School Pep Talk You May Have Missed http://t.co/v7gNGJdB3g #edchat #funny #motivation http://t.co/r…
+109,634567586030612480,Fri Aug 21 03:27:56 +0000 2015,69,0,RT @engadget: The agonizingly slow decline of Adobe Flash Player http://t.co/0ZfWMn7GIr http://t.co/hK5L4s8sHm
+110,634409903319220224,Thu Aug 20 17:01:22 +0000 2015,115,0,"RT @design: Great article by @scotthurff about fixing a bad UI by thinking about the UI Stack
+
+http://t.co/YnopQR1Hjd http://t.co/0ctwvIz4QO"
+111,634044962070511616,Wed Aug 19 16:51:13 +0000 2015,6,0,RT @nodenpm: eslint-plugin-mongodb (0.0.1): https://t.co/pcdjPKcKZq Lint your MongoDB queries.
+112,633898336601309185,Wed Aug 19 07:08:35 +0000 2015,0,0,Whoa. https://t.co/hWKqGgaBM2
+113,633889826748559360,Wed Aug 19 06:34:46 +0000 2015,0,0,"Use my invite code, jasonk3758ue, and get a free ride up to CA$20. Redeem it at https://t.co/2MXKgnfnEj"
+114,633888516779347968,Wed Aug 19 06:29:34 +0000 2015,6,0,"RT @UWvelocity: Why @Kik went with $50M in new investment, in their own words: https://t.co/l72TaLu1hx Congratulations, Kik! #startups"
+115,633760417530183680,Tue Aug 18 22:00:32 +0000 2015,2,0,RT @emilymacintosh: Feedback for impact: How @kaizenahq is changing the culture of classrooms #edtech http://t.co/3QL4BI85Pp http://t.co/RE…
+116,633760211908579328,Tue Aug 18 21:59:43 +0000 2015,0,0,@BenNadel you’ll feel so badass you might purposely misorder commits from now on… Try to resist the temptation ;)
+117,633666182135066624,Tue Aug 18 15:46:05 +0000 2015,1221,0,RT @GillTwistRec: Ha ha #javascript http://t.co/yFg3Vy4wP5
+118,633664935977811969,Tue Aug 18 15:41:08 +0000 2015,8,0,"RT @macworld: To fix iTunes, Apple should revisit iSync, an app that actually worked. http://t.co/FAwtAGDK4s http://t.co/Ys9vEg8faW"
+119,633005539073634308,Sun Aug 16 20:00:55 +0000 2015,0,1,"Seriously a lifesaver: Check out this app for tracking flights and airports:
+
+http://t.co/VqV9S8rDn4
+
+App in the Air http://t.co/ECzlFXgfZK"
+120,633003789889343488,Sun Aug 16 19:53:58 +0000 2015,0,2,"Deep conversations with #uber drivers. Thanks for the hospitality, Dallas! Off to SFO,  next."
+121,632517872774873089,Sat Aug 15 11:43:07 +0000 2015,0,0,http://t.co/udeJVh2w49
+122,632447884508565504,Sat Aug 15 07:05:00 +0000 2015,138,0,"RT @codinghorror: Thank You, Management http://t.co/fUSWouBP8N http://t.co/6bSFgEJTUE"
+123,631570715167334400,Wed Aug 12 20:59:27 +0000 2015,0,0,https://t.co/jFTe9CANbu
+124,631219530623090688,Tue Aug 11 21:43:58 +0000 2015,0,0,@nodesource I'd like one! But you'd have to follow me to let me DM you.
+125,631204185904652288,Tue Aug 11 20:42:59 +0000 2015,1,0,RT @normativedesign: One cost that engineers and product managers don't consider http://t.co/FpaDmmSPUB
+126,631130564905537536,Tue Aug 11 15:50:27 +0000 2015,0,0,Spoiled Kid Tries To Get New Ferrari By Setting Fire To Old One http://t.co/oN5E15H6tf
+127,630209127290114048,Sun Aug 09 02:48:59 +0000 2015,6,0,"RT @stefanpenner: Monthly PSA: JSON.stringify is not stable, and should not be used as a cache key"
+128,630150508678918145,Sat Aug 08 22:56:03 +0000 2015,3,0,RT @brentlintner: fs-lint #nodejs https://t.co/TBN6HRHXY3
+129,629044139326369792,Wed Aug 05 21:39:44 +0000 2015,0,0,Thank you for saying it right! https://t.co/DvVRatRuMH
+130,628820378945761280,Wed Aug 05 06:50:35 +0000 2015,31,0,"RT @YoungEnt: If you're saying, """"That’s not the way we do things here,"" you're killing intrapreneurship http://t.co/NrTZv62bli"
+131,628702261905072128,Tue Aug 04 23:01:14 +0000 2015,3,0,"RT @respondux: ""Adapt or die""
+
+How to Build a High Velocity Development Team
+
+https://t.co/DNAHdf489s
+
+#javascript #developers #startups"
+132,627652983598133248,Sun Aug 02 01:31:47 +0000 2015,0,2,Travel on Airbnb and get $25 in travel credit! @airbnb https://t.co/f1T5CqymTg
+133,627548022520586240,Sat Aug 01 18:34:42 +0000 2015,0,0,#nowplaying Dare You To Move - @switchfoot (The Best Yet) - love all the recording details
+134,627317733219287040,Sat Aug 01 03:19:37 +0000 2015,0,0,#nowplaying Keep Your Eyes Open - @NEEDTOBREATHE
+135,627230556447621120,Fri Jul 31 21:33:12 +0000 2015,0,0,"Ah, storytime: http://t.co/lQAo3daunM"
+136,627159828738220032,Fri Jul 31 16:52:09 +0000 2015,5,0,RT @normativedesign: The Post-Mac Interface http://t.co/ySychj1vIO
+137,626487262453198850,Wed Jul 29 20:19:37 +0000 2015,0,0,@tapbots @tweetbot why does the Faves link open favstar instead of listing the users who favorited the tweet? They should list like RTers
+138,626398689116839936,Wed Jul 29 14:27:40 +0000 2015,16,0,RT @jwfell: The Benefits of Learning as a Team http://t.co/3tgTkDLUZe by @PaulJun_ via @helpscout http://t.co/6EXHpseo47
+139,626079097634983937,Tue Jul 28 17:17:43 +0000 2015,0,0,"@SlackHQ How do I strikethrough text? In Markdown it’s ~~edited out~~, may I please request that? Very handy for edited messages."
+140,626078113496109056,Tue Jul 28 17:13:48 +0000 2015,0,0,@SlackHQ you guys are aware of the checkboxes flickering in the OS X preferences window right?
+141,626065495276457985,Tue Jul 28 16:23:40 +0000 2015,1,0,RT @Andrew_Paradi: “Police should understand [their] safety can’t always come first. That’s why it’s service. That’s why it’s sacrifice… ht…
+142,626060053762609152,Tue Jul 28 16:02:03 +0000 2015,1,0,RT @ChurchMag: Busyness: The Death of Your Heart http://t.co/M26M36HSm1 http://t.co/OktZ13ikYl
+143,625755434968707072,Mon Jul 27 19:51:36 +0000 2015,312,0,RT @worrydream: http://t.co/Kxj1cHhOOL http://t.co/ZUeT03OdqK
+144,625402951931195392,Sun Jul 26 20:30:57 +0000 2015,0,0,Why Time Flies http://t.co/4wB6YsUUOB
+145,625380329268903936,Sun Jul 26 19:01:04 +0000 2015,3318,0,"RT @TedMielczarek: THE YEAR IS 2025. JAVASCRIPT FRAMEWORKS OUTNUMBER HUMANS. SENTIENT TODO WEBAPPS SCOUR THE EARTH, HUNTING THE REMNANTS OF…"
+146,624740321436545024,Sat Jul 25 00:37:54 +0000 2015,3,0,RT @Alltop: Bottle caps reveals when the milk’s gone sour http://t.co/WPWR3Fmgqa http://t.co/4o6QJ2Atun
+147,624001034235482112,Wed Jul 22 23:40:14 +0000 2015,49,0,"RT @Sean_McDowell: ""Let your speech always be gracious, seasoned with salt, so you may know how to answer each person."" Colossians 4:6"
+148,623998172721905664,Wed Jul 22 23:28:52 +0000 2015,0,0,@chrisdias @code I agree. Trying to get the steps down ATM.
+149,623952763152535552,Wed Jul 22 20:28:25 +0000 2015,0,0,@tapbot @tweetbot could you please add the option to clear Tweetbot’s cache in Settings? My 16GB iPhone thanks you.
+150,623901321612017664,Wed Jul 22 17:04:01 +0000 2015,0,0,@chrisdias Awesome! What I really love (and is a great differentiator) is how easily @code attaches  ...(Cont http://t.co/4BTnqTfHYS)
+151,623865747245301760,Wed Jul 22 14:42:39 +0000 2015,6,0,RT @angularjs_io: Overcoming JavaScript Framework Fatigue http://t.co/mxUB1v8Axn
+152,623691381484204032,Wed Jul 22 03:09:47 +0000 2015,9085,0,RT @Loh: Always wanted to travel back in time to try fighting a younger version of yourself? Software development is the career for you!
+153,623625570614513664,Tue Jul 21 22:48:17 +0000 2015,0,0,"Wow. @Sunrise introduces Meet, the fastest way to schedule a 1-to-1. http://t.co/9TAlfhw7k0"
+154,623556110054752257,Tue Jul 21 18:12:16 +0000 2015,1,0,RT @coderwall: Git alias for checking out last branch #git #protip http://t.co/LRNOzfqWui via @coderwall
+155,623532560954462208,Tue Jul 21 16:38:41 +0000 2015,0,1,"@chrisdias @code also, code-folding please. I do love how light it feels - kudos to the team for avoiding the heavyweightness of VS!"
+156,623335477001748480,Tue Jul 21 03:35:33 +0000 2015,0,0,"@chrisdias @code auto-indent on paste would be a nice place to start! &amp; http://t.co/3LfsaewlO2 support, so I can not worry for my teammates"
+157,623325965842796544,Tue Jul 21 02:57:45 +0000 2015,0,0,Every time. Which is why my `checkout master` is always checkout &amp;&amp; pull.  https://t.co/FpJGarLdHV
+158,623321238191017984,Tue Jul 21 02:38:58 +0000 2015,1173,0,"RT @espn: ""If only you were as good at free throws as you are talking smack!"" - Scottie Pippen to Shaq: http://t.co/CxsmROi7ei http://t.co/…"
+159,623284536885907456,Tue Jul 21 00:13:08 +0000 2015,0,0,"@AmandaMBast haha that’s just what we both do. It’s okay though, I know you’ll never look down on me :)"
+160,623264206926671872,Mon Jul 20 22:52:21 +0000 2015,0,3,"I’m about to say something crazy: @code by @microsoft @visualstudio is not bad, even pretty good."
+161,623262869061107712,Mon Jul 20 22:47:02 +0000 2015,0,0,@AmandaMBast it’s less than a new phone/screen. #duh
+162,623228726185226240,Mon Jul 20 20:31:22 +0000 2015,0,0,@AmandaMBast I always recommend the Speck Candyshell. Really solid without the cumbersomeness of otter box.
+163,623212073145769984,Mon Jul 20 19:25:11 +0000 2015,0,0,@tweetbot could you please add the option to clear Tweetbot’s cache in Settings? My 16GB iPhone thanks you.
+164,623209006761410562,Mon Jul 20 19:13:00 +0000 2015,16,0,"RT @getify: Code clarity, not brevity or cleverness, is the most important trait, so that code is effective communication:
+
+http://t.co/ocG…"
+165,623045330288951296,Mon Jul 20 08:22:37 +0000 2015,0,0,I just earned the '16 bit Bitbucket Altruist' badge on @coderbits! https://t.co/mNF9CUgr4z
+166,621547913601253376,Thu Jul 16 05:12:25 +0000 2015,0,0,@NotBillWalton This is what's wrong with the world http://t.co/MTjHGgbWN1 via @9GAG
+167,621367258053517312,Wed Jul 15 17:14:33 +0000 2015,2,0,RT @coderwall: Bookmarklet : get my JavaScript custom globals #javascript #protip http://t.co/ORvjDhDk1k via @coderwall
+168,621331474747232256,Wed Jul 15 14:52:22 +0000 2015,0,1,"For everyone involved in the new hype of ""everyone needs to learn to code"", please learn/teach it properly.  https://t.co/oLclGpmY0m"
+169,620744877953843200,Tue Jul 14 00:01:26 +0000 2015,0,0,https://t.co/pP4M0UojkL
+170,620693899988766720,Mon Jul 13 20:38:52 +0000 2015,29,0,RT @TheNextWeb: Don't fall into the trap of having a 'good' startup idea http://t.co/TwecdKsXdB http://t.co/czwXsgvEFR
+171,620467597041995776,Mon Jul 13 05:39:37 +0000 2015,1,0,"RT @louroboros: Idea:
+
+Easily save local edits to a site's/page/app's style made in Chrome devtools. Like greasemonkey but as easy as bookm…"
+172,620467378007117824,Mon Jul 13 05:38:45 +0000 2015,67512,0,"RT @PlayStation: Thank you for everything, Mr. Iwata."
+173,620048183071272960,Sun Jul 12 01:53:01 +0000 2015,23,0,RT @koenbok: Pixar’s 22 Rules of Storytelling – http://t.co/kwchE0V52S http://t.co/6LYwr0Z5zi
+174,619945690257596417,Sat Jul 11 19:05:45 +0000 2015,405,0,"RT @EssentialLewis: ""I don’t believe that good work is ever done in a hurry."" #CSLewis
+
+Letter to Arthur Greeves 7/11/1916"
+175,619692250306580481,Sat Jul 11 02:18:40 +0000 2015,2,0,RT @kentcdodds: #perfmatters 😩
+176,619397291271680000,Fri Jul 10 06:46:36 +0000 2015,0,0,"#nowplaying Citizen Way - ""Should've Been Me"" http://t.co/qVrMtZNoUG"
+177,619235497861361664,Thu Jul 09 20:03:42 +0000 2015,320,0,"RT @horse_js: Problem: Grunt
+Solution: Gulp
+Problem: Gulp"
+178,619197799310196737,Thu Jul 09 17:33:54 +0000 2015,15,0,RT @sindresorhus: Unix is not an acceptable Unix http://t.co/zTPtfVYQPk
+179,619025131742982144,Thu Jul 09 06:07:46 +0000 2015,28,0,RT @_ericelliott: Blowing up localStorage: http://t.co/bHyLsOHTWP #html5 #JavaScript
+180,618645959610925056,Wed Jul 08 05:01:05 +0000 2015,0,0,@scott_sword @briantford is not a function
+181,618561468150214656,Tue Jul 07 23:25:20 +0000 2015,452,0,RT @espn: David Lee's leaving the Bay Area. So Steph Curry sent him off with a tasteful trolling tweet: http://t.co/gGUD2xWRp5 http://t.co/…
+182,617889015430123520,Mon Jul 06 02:53:15 +0000 2015,0,2,Saturday Morning Breakfast Cereal #smbc #hiveworks http://t.co/yB2Ct3wRWG
+183,617071212145963008,Fri Jul 03 20:43:36 +0000 2015,0,1,Eliminate JavaScript Code Smells http://t.co/WXhtFwtWy5 via @elijahmanor
+184,616843510327681024,Fri Jul 03 05:38:47 +0000 2015,205,0,"RT @RaviZacharias: America may not be a Christian nation per se, but only Judeo-Christian worldview could have framed its ideas &amp; values ht…"
+185,616310938942205952,Wed Jul 01 18:22:33 +0000 2015,65,0,RT @sindresorhus: AMA - Why small focused modules https://t.co/kEpMRXMRS5
+186,616309204572180480,Wed Jul 01 18:15:39 +0000 2015,0,0,"@SlackHQ it would be amazing if I could reference GitHub issues/PRs with the GitHub shorthand in messages, e.g. JaKXz/my-repo#42"
+187,615963298329001984,Tue Jun 30 19:21:09 +0000 2015,0,0,@AbelVThomas @AppleMusic nope :(
+188,615958274651881476,Tue Jun 30 19:01:11 +0000 2015,0,0,Seriously @AppleMusic - bring back the shuffle button in 8.4.1
+189,615957965145800704,Tue Jun 30 18:59:57 +0000 2015,0,0,"I don't want #AppleMusic, I just want to shuffle my songs. Shouldn't have updated..."
+190,615934500581806080,Tue Jun 30 17:26:43 +0000 2015,30,0,RT @davidwalshblog: At first I thought it was a harsh statement but I can’t disagree. https://t.co/4EHw7EKoAk
+191,615331959108145152,Mon Jun 29 01:32:26 +0000 2015,0,1,"Hon. Chris Alexander, PC, MP: Canadian Government: Stop Bill C-24! Don't turn millions of us into ... https://t.co/BrIaT83dsK via @CdnChange"
+192,615319898185728000,Mon Jun 29 00:44:30 +0000 2015,56840,0,RT @JeremyClarkson: Many many thanks for all your support and encouragement over the years. So sad and sorry it's ended like this
+193,615165536062844928,Sun Jun 28 14:31:07 +0000 2015,5,0,"RT @KaizenaHQ: ""The video game trusts your kid to save the world. In real life, we don't even trust them to use the bathroom."" - @TechedUpT…"
+194,614108030796460034,Thu Jun 25 16:28:58 +0000 2015,0,0,LOL.  https://t.co/YB6Kmj4cyZ
+195,613472548190322688,Tue Jun 23 22:23:47 +0000 2015,0,1,"@waffleio @grlwithcomputer after our conversation a couple weeks ago, it'd be nice if I could move entire milestones around (w/ issues)"
+196,613342776999157760,Tue Jun 23 13:48:08 +0000 2015,1,0,RT @_ericelliott: Want to contribute to OSS? cuid needs an update: https://t.co/7vFurPBR0D #JavaScript

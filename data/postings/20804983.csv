@@ -1,0 +1,220 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669256514184548353,Tue Nov 24 20:49:21 +0000 2015,1,0,My @Quora answer to Why don't pure functional programming languages provide a loop construct? https://t.co/Nb48JvR2IN
+1,667507634422087681,Fri Nov 20 00:59:56 +0000 2015,2,0,"RT @jmugz3: @luijar after your talk in the meetup yesterday, now I see functions everywhere."
+2,667050258241855488,Wed Nov 18 18:42:29 +0000 2015,1,0,RT @paulburakov: Luis Atencio @luijar gave an insightful talk about functional programming in JS. Highly recommend his upcoming book: https…
+3,666036202995216385,Sun Nov 15 23:32:59 +0000 2015,3,0,Functional Programming in #JavaScript by Luis Atencio https://t.co/MQ9uwY7Ckp via @amazon
+4,665179115662766080,Fri Nov 13 14:47:14 +0000 2015,1,0,"RT @daniellmb: @_victormejia I'm partial to functional programming, so I enjoyed it very much. I also reviewed a FP book by @luijar it's ex…"
+5,665179105709658112,Fri Nov 13 14:47:11 +0000 2015,0,0,@daniellmb @_victormejia thanks Daniel!
+6,664861236845244417,Thu Nov 12 17:44:06 +0000 2015,0,0,"My @Quora answer to What is a ""function"" in the context of functional programming? https://t.co/On8T2ID7dJ"
+7,664840002032021504,Thu Nov 12 16:19:43 +0000 2015,0,0,"@adamculp #PHP 5.6.9. Here's the error: ""exception 'ErrorException' with message 'simplexml_load_file(): I/O warning : failed to load ..."""
+8,664838872807903236,Thu Nov 12 16:15:14 +0000 2015,0,1,"@adamculp hacking away at some PHP code. A call to simplexml_load_file can throw this  exception, a more concrete type would've been better"
+9,664837792883728384,Thu Nov 12 16:10:56 +0000 2015,0,0,"@adamculp Hey @adam just thought it was funny, an ErrorException by name does not provide enough info as to what happened ;-)"
+10,664821028602912768,Thu Nov 12 15:04:19 +0000 2015,0,0,What the heck is a PHP ErrorException? about as informative as an ExceptionException? or an ErrorError? @SunShinePHP @PHP_RR
+11,663182543479549952,Sun Nov 08 02:33:34 +0000 2015,0,0,I liked a @YouTube video https://t.co/FoSYFK4ViS Ronaldinho Humiliating Great Players
+12,661303165879357440,Mon Nov 02 22:05:35 +0000 2015,1,1,Miami Node.js -&gt; Functional Programming in #javascript Check it out and RSVP! https://t.co/DBLhYATGba
+13,661279118609227779,Mon Nov 02 20:30:02 +0000 2015,1,2,&lt;Code&gt; for Fort Lauderdale Meetup about Functional Programming #FP in #javascript. Check it out and RSVP! https://t.co/fSj6jqFUX1
+14,660901464181723137,Sun Nov 01 19:29:22 +0000 2015,7,0,"RT @SunShinePHP: Added a couple more speakers. This line-up ROCKS! #ssphp16 
+
+https://t.co/0o4gqQ6UnW"
+15,660809410181259268,Sun Nov 01 13:23:35 +0000 2015,20,0,"RT @ManningBooks: Deal of the Day Oct 31: A Halloween treat for you, half off everything!  Use code dotd103115tw at https://t.co/OdkWpxceCQ"
+16,659435280517177344,Wed Oct 28 18:23:17 +0000 2015,2,1,October 29 deal: 50% Secrets of a #javascript Ninja . Use code dotd102915au @ManningBooks  Get it tomorrow!
+17,659434723907891200,Wed Oct 28 18:21:04 +0000 2015,3,1,October 29 deal: 50% Functional Programming in #javascript . Use code dotd102915au https://t.co/3YUOTGudDp @BocaJavaScript @ManningBooks
+18,659210350571749376,Wed Oct 28 03:29:29 +0000 2015,0,2,Category theory for programmers: https://t.co/maJ5gR53DD #FP
+19,658434863930851329,Mon Oct 26 00:07:59 +0000 2015,3,0,RT @TPuski: '#FunctionalProgramming in #JavaScript' by @luijar :) https://t.co/9awXBSk6uL
+20,658302396620259332,Sun Oct 25 15:21:36 +0000 2015,4,0,RT @nodenow: Optimizing your #JavaScript with functional programming https://t.co/8H1aEEXDgv #programming #grobyk _yuburn
+21,657733310907568128,Sat Oct 24 01:40:16 +0000 2015,1,0,Speaking at @UXDEVSUMMIT Hope to see you all there! @BocaJavaScript #javascript @JavaScriptDaily
+22,657722488936239104,Sat Oct 24 00:57:15 +0000 2015,4,5,"CH 6 of Functional Programming  in #javascript  is out: ""Bulletproof your code!"" @JavaScriptDaily @ManningBooks https://t.co/ruxfHgMcUq"
+23,656651463792414720,Wed Oct 21 02:01:23 +0000 2015,5,10,“Building cathedrals on the pillars of #JavaScript and #functionalProgramming” https://t.co/2mSBDBm6aW @JavaScriptDaily @javascriptd
+24,656650655873028096,Wed Oct 21 01:58:10 +0000 2015,9,0,RT @InfoQ: JavaScript Functors Explained http://t.co/fHcmMJdtW2 from Functional Programming in JavaScript Via @Manningbooks
+25,656650552118517760,Wed Oct 21 01:57:46 +0000 2015,3,0,"RT @ManningBooks: ""The best guide to modern JavaScript development using FP you will ever find."" http://t.co/SjlNdPFrRG @javascriptd"
+26,656619627498315776,Tue Oct 20 23:54:53 +0000 2015,3,0,I just published “Building cathedrals on the pillars of JavaScript and Functional Programming” https://t.co/jURKaKR0gJ
+27,655840184035078144,Sun Oct 18 20:17:39 +0000 2015,0,0,My @Quora answer to Is there a difference in how functional paradigm enhances parallel and concurrent programming? … http://t.co/2RC6LOv3on
+28,655769498646134784,Sun Oct 18 15:36:46 +0000 2015,0,0,My @Quora answer to What are the most used programming languages today in the web area? http://t.co/EV0WJEBiBf
+29,655767205313945600,Sun Oct 18 15:27:39 +0000 2015,0,0,My @Quora answer to What are monads and why are they useful? http://t.co/FH9YeZH0tw
+30,655763709743230976,Sun Oct 18 15:13:46 +0000 2015,0,0,My @Quora answer to What are type lenses? http://t.co/nYex8rBTxo
+31,655737146771427328,Sun Oct 18 13:28:13 +0000 2015,0,0,My @Quora answer to What are good books on functional programming for a person coming from an OOP background? http://t.co/dYNz4YlcWN
+32,655733519105269760,Sun Oct 18 13:13:48 +0000 2015,2,2,"speakers.io, a new app for connecting conference speakers with conferences http://t.co/2ytGlc2WS5"
+33,654865586107871232,Fri Oct 16 03:44:57 +0000 2015,2,9,"@_ericelliott My favorite is Martin Fowler's patterns of enterprise application architecture, highly recommend it."
+34,654745522469670920,Thu Oct 15 19:47:51 +0000 2015,2,1,CH6 of #FP in #javascript next week Learn about the inherent testability of functional code @lambda_js @functionaljs http://t.co/ruxfHgMcUq
+35,654705835759636481,Thu Oct 15 17:10:09 +0000 2015,46,0,"RT @headinthebox: Lambdas are forever. Treat yourself this fall with the knowledge of functional programming 
+https://t.co/UcvVAvrgDI 
+#FP1…"
+36,654704063452344320,Thu Oct 15 17:03:07 +0000 2015,42,0,"RT @headinthebox: Don't forget to sign up for #FP101x if you want to learn functional programming!
+https://t.co/UcvVAvIS2i"
+37,654133359900164096,Wed Oct 14 03:15:20 +0000 2015,0,2,Check it out! https://t.co/qAsXkOeClD @DZone #php #functionalprogramming @phpc @PHPWomen @php
+38,654132861855903744,Wed Oct 14 03:13:22 +0000 2015,0,0,Check it out! https://t.co/wd5ikApvx8 @DZone #javascript #programming #functionalprogramming
+39,653594229520920576,Mon Oct 12 15:33:02 +0000 2015,0,0,Tomorrow's Deal! October 13: Half off my book Functional Programming in #javascript . Use code dotd101315au at https://t.co/rLsoQ3aJDf
+40,653586360205488128,Mon Oct 12 15:01:45 +0000 2015,2,0,RT @ManningBooks: Dissecting the structure of arrow functions http://t.co/SjlNdPFrRG @luijar  #javascript http://t.co/owX7EtE5UT
+41,653568089490092032,Mon Oct 12 13:49:09 +0000 2015,1,0,RT @mikeluckey: JavaScript through the Lenses of Functional Programming http://t.co/GheuUK7Y1B
+42,653567600903987204,Mon Oct 12 13:47:13 +0000 2015,1,0,RT @ManningBooks: Functional Programming in JavaScript: The Functional Paradigm in a Familiar Language http://t.co/oP17Ei7bgj
+43,653565026876395520,Mon Oct 12 13:36:59 +0000 2015,1,0,Concise tour of #functionalprogramming in #javascript all in a single DZone card: https://t.co/wd5ikAH6VI @DZone
+44,652615746250522624,Fri Oct 09 22:44:53 +0000 2015,0,0,I liked a @YouTube video http://t.co/aw6S1gdph1 La Historia Completa de LIONEL MESSI
+45,652105971238612993,Thu Oct 08 12:59:13 +0000 2015,0,1,JavaScript Functors Explained https://t.co/Eb5UdlBB45 via @DZone @ManningBooks @luijar #FP in #JavaScript
+46,651872271045230592,Wed Oct 07 21:30:35 +0000 2015,2,0,RT @AnyGzlez: @luijar @BocaJavaScript #javascript #programming #code #awesome_presentation #programmers http://t.co/E6feYcWT6X
+47,651757043423035394,Wed Oct 07 13:52:42 +0000 2015,0,1,"My @Quora answer to What are the advantage and disadvantage between functional or procedural programming, which sty… http://t.co/5w1nqfS1jx"
+48,651748088751751168,Wed Oct 07 13:17:07 +0000 2015,0,3,Thanks all for attending last night!! FP in JavaScript talk by @luijar http://t.co/vC8vb8YCby #fp #javascript @BocaJavaScript
+49,651450150674636800,Tue Oct 06 17:33:13 +0000 2015,2,2,Javascript Functors Explained http://t.co/88rqIkaL1j
+50,651174343204933632,Mon Oct 05 23:17:16 +0000 2015,2,0,"RT @BocaJavaScript: If you are coming to our meetup on October 6, our presenter @luijar wants you to look at this https://t.co/CRmQsUL6iQ #…"
+51,651009912147976192,Mon Oct 05 12:23:52 +0000 2015,31,0,RT @DZone: New Refcard: Functional Programming in #JavaScript by @luijar http://t.co/rcdilYS4Ao http://t.co/dU7MMYQxvp
+52,650879437576241152,Mon Oct 05 03:45:25 +0000 2015,1,0,"RT @yariv_reznik: JS functional programming. Amazing book: https://t.co/y4DP8oZ3Gy @luijar, waiting for the last chapters.."
+53,648671105637568512,Tue Sep 29 01:30:17 +0000 2015,3,0,RT @ManningBooks: Dynamic traversal of prototype chain for property and method lookup http://t.co/SjlNdPFrRG @luijar http://t.co/9Hicr8Pp2B
+54,647974707074048000,Sun Sep 27 03:23:03 +0000 2015,1,1,http://t.co/VolWuUkUzW: JavaScript through the Lenses of Functional Progra... http://t.co/cBi6Jpau1C
+55,647150479604973568,Thu Sep 24 20:47:52 +0000 2015,0,0,You should join me at this Meetup. Check it out and RSVP! http://t.co/XMtpdDeIOS
+56,647086522609500160,Thu Sep 24 16:33:43 +0000 2015,0,0,I liked a @YouTube video http://t.co/YO1fmqdCK8 Fight Series Trailer - First Quantum Films
+57,646034287180021760,Mon Sep 21 18:52:31 +0000 2015,0,0,"@thedamon @secoif If you enjoy that, you'll enjoy #FP in #JavaScript http://t.co/ruxfHguC2S It covers lots of JS FP topics in great detail"
+58,646033759670771712,Mon Sep 21 18:50:25 +0000 2015,0,0,"@nybblr Indeed, referential transparency == predictability. This is talked about a lot in #FP in #JavaScript http://t.co/ruxfHguC2S"
+59,644174653028724736,Wed Sep 16 15:43:00 +0000 2015,5,0,"RT @ManningMEAP: Ch 5 ""Design patterns against complexity"" is new to Functional Programming in #JavaScript 
+https://t.co/y3BFyUcXpW @Mannin…"
+60,643074704262209537,Sun Sep 13 14:52:11 +0000 2015,0,0,"@derickbailey CH3 of #FP in #JavaScript  shows an example of processing collections in SQL-like, declarative manner http://t.co/ruxfHguC2S"
+61,642064085190844416,Thu Sep 10 19:56:21 +0000 2015,0,0,@captbaritone You should also consider reading this new release #FP in #javascript -&gt; http://t.co/ruxfHguC2S CH01 is free!
+62,642063872908787713,Thu Sep 10 19:55:30 +0000 2015,0,0,@nordisk_ This is a central FP theme and explained in lots of detail in http://t.co/ruxfHguC2S #FP in #javascript
+63,642063573594865664,Thu Sep 10 19:54:19 +0000 2015,0,0,"@Mr_JavaScript FP promotes converting methods into standalone fns, not just for readability, also for composition http://t.co/ruxfHguC2S"
+64,642062116657176576,Thu Sep 10 19:48:32 +0000 2015,2,0,RT @kev_nz: I've been reading Functional Programming in JavaScript https://t.co/Xn9bfd99UC it's certainly the best book I've read on the su…
+65,641100919271202820,Tue Sep 08 04:09:04 +0000 2015,1,2,CH5 out! FP in JavaScript -&gt; Chaining and composing monads to create robust side-effect free code http://t.co/ruxfHguC2S  #fp #javascript
+66,640322111882559488,Sun Sep 06 00:34:22 +0000 2015,1,2,#FP is the interplay between decomposition (breaking programs into small pieces) and composition (joining pieces to make programs)
+67,640319604452126720,Sun Sep 06 00:24:24 +0000 2015,0,1,Coding with pure functions provides the level of reliability found in mathematics #FP #javascript from -&gt; http://t.co/ruxfHguC2S
+68,639825618348085249,Fri Sep 04 15:41:29 +0000 2015,6,0,"RT @phparch: Learn how to Think Functionally. @luijar looks at JavaScript programming techniques. #php #javascript
+http://t.co/wyj8bUIuDW"
+69,639779801591627776,Fri Sep 04 12:39:25 +0000 2015,5,0,RT @phparch: Our September authors @awnage @dstockto @EliW @joedevon @leafnode @luijar @niklongstone@settermjd #FollowFriday #FF
+70,639133419834863616,Wed Sep 02 17:50:56 +0000 2015,0,0,@belongbot For #FP I recommend reading #FP in #JavaScript -&gt; http://t.co/ruxfHguC2S CH01 is free to read
+71,639132581775167488,Wed Sep 02 17:47:36 +0000 2015,0,0,"@ToddFincannon Ramda is awesome, used it in #FP in #JavaScript a lot for currying and composition -&gt; http://t.co/ruxfHguC2S"
+72,639132028710076417,Wed Sep 02 17:45:24 +0000 2015,0,1,"@tfmoliveira @mozhacks Map, reduce, and filter are covered in lots of detail in #FP in #JavaScript  http://t.co/ruxfHguC2S. Hope you like it"
+73,639131881808789504,Wed Sep 02 17:44:49 +0000 2015,0,1,@RyanDeBeasi You can give this resource a try http://t.co/ruxfHguC2S . Hope you find it interesting! #fp #JavaScript
+74,638520091156611072,Tue Sep 01 01:13:47 +0000 2015,0,0,My @Quora answer to How do functional programs manage to deliver the impressive performance (memory management as we… http://t.co/Hcf1SoRNXr
+75,638518640833359872,Tue Sep 01 01:08:01 +0000 2015,0,0,My @Quora answer to Why do software engineers like functional programming? http://t.co/VUjOux98fO
+76,638141505547436033,Mon Aug 31 00:09:25 +0000 2015,1,1,My @Quora answer to What are the advantages of Functional Programming over Object-Oriented Programming? http://t.co/DknH69hNnR
+77,637061994332336128,Fri Aug 28 00:39:50 +0000 2015,0,0,Want to take your JavaScript to the next level? Explore #Functional #Programming in #JavaScript -&gt; http://t.co/ruxfHgMcUq
+78,636691156202557440,Thu Aug 27 00:06:15 +0000 2015,0,0,@cm_stead lol didn't follow the link. Indeed very nice!
+79,636595249125675008,Wed Aug 26 17:45:09 +0000 2015,2,2,@cm_stead Functors are explained in detail in chapter 5 of Functional Programming in JavaScript http://t.co/ruxfHguC2S #fp #javascript
+80,636594618998607872,Wed Aug 26 17:42:39 +0000 2015,1,4,Much needed new website @ManningBooks  looks great!
+81,635898063756726272,Mon Aug 24 19:34:47 +0000 2015,0,1,"@glengineered Chapter 6 of #FP in #Javascript covers property-based testing w/ JSCheck, ideal for functional programs http://t.co/ruxfHgMcUq"
+82,635897605889896448,Mon Aug 24 19:32:58 +0000 2015,0,0,@natac1311 FP is awesome! I am writing a book that covers #fp in #javascript at a really good pace and detail http://t.co/ruxfHguC2S
+83,635897353359200256,Mon Aug 24 19:31:58 +0000 2015,0,0,@piotlr These design patterns are  covered in detail in Chapter 5 of FP in JS http://t.co/ruxfHguC2S. Coming out this month. #fp #js
+84,635897074769371137,Mon Aug 24 19:30:51 +0000 2015,0,0,@trainingstack Chapter 3 of FP in JS http://t.co/ruxfHguC2S does a good treatment on these high-order functions. Check it out!
+85,635896717326467072,Mon Aug 24 19:29:26 +0000 2015,0,0,@benmvp @evbeng This is great! I also recommend getting a copy of FP in JS http://t.co/ruxfHgMcUq It's a lot more detailed at a good pace :)
+86,635513763198803968,Sun Aug 23 18:07:43 +0000 2015,0,0,Deal of the Day August 25: Half off my book Functional Programming in JavaScript. Use code dotd082515au at http://t.co/D9XzGf7Z7R
+87,633630805965848576,Tue Aug 18 13:25:31 +0000 2015,0,0,@s2tephen_ebooks I can recommend a good book that covers lots of FP in JS topics! http://t.co/ruxfHguC2S ;-)
+88,633630329702621184,Tue Aug 18 13:23:37 +0000 2015,0,0,@salvianoo Great framework especially due to its support for curried functions! Chapter 4 of http://t.co/ruxfHguC2S makes good use of Ramda!
+89,631845129083600896,Thu Aug 13 15:09:52 +0000 2015,0,0,#JavaScript and #fp going strong! Chapter 5 Functional Design Patterns w/ Monads coming soon! http://t.co/UehZDlHbGi http://t.co/foKbZFpk7y
+90,626809643017310208,Thu Jul 30 17:40:39 +0000 2015,3,3,"Functional Programming in JS CH04 is available! Creating modular and reusable code applying FP! http://t.co/UehZDlHbGi
+#fp #javascript"
+91,624234358304571394,Thu Jul 23 15:07:23 +0000 2015,0,0,Excellent guide by Dr. B (https://t.co/HBhFKOIk7m)! https://t.co/Ouv9koDR50 #fp #JavaScript
+92,624230770379476992,Thu Jul 23 14:53:07 +0000 2015,0,2,Functional Programmning in JavaScript CH4 this week: modularity and reusability in FP ! http://t.co/UehZDlHbGi #JavaScript #fp #Manning
+93,618100328081293312,Mon Jul 06 16:52:56 +0000 2015,1,1,Deal of the Day July 7: Half off Functional Programming in JavaScript!!!. Use code dotd070715au at http://t.co/D9XzGf7Z7R
+94,616965223669329920,Fri Jul 03 13:42:26 +0000 2015,1,0,RT @deanriverson: Editing chapter 4 of @luijar's Functional JavaScript on the flight home from Paris. Going to be a great book.
+95,616963037073793024,Fri Jul 03 13:33:45 +0000 2015,0,1,"Beginning chapter 5... sensing Functors and Monads ahead.. stay tuned
+#JavaScript 50% with code mlatenciotw http://t.co/D9XzGeQnJh  #fp"
+96,616746430028496896,Thu Jul 02 23:13:02 +0000 2015,0,0,JavaScript is functional and object-oriented and was created in 10 days. Java has been around since 95 and it's just recently catching up
+97,616661955454046208,Thu Jul 02 17:37:21 +0000 2015,1,2,New book release: Functional Programming in JavaScript. Free chapter one!  http://t.co/fW1MTO4zSf  Read it now! 50% of code:fjslaunch50
+98,616660765668413440,Thu Jul 02 17:32:38 +0000 2015,6,0,RT @ManningBooks: New MEAP! Save 50% on Functional Programming in #JavaScript with code mlatenciotw http://t.co/S72QzBOQE2 @luijar #fp http…
+99,616630301381513217,Thu Jul 02 15:31:34 +0000 2015,4,2,"@ManningBooks Just Wrapped up Chapter 4 (editing pending), it's action-packed with partial application, currying, and functional composition"
+100,616252360982155264,Wed Jul 01 14:29:46 +0000 2015,0,0,"New Post!: 
+http://t.co/13bEtH3Nrc"
+101,616000843855331328,Tue Jun 30 21:50:20 +0000 2015,0,2,"New MEAP!!! http://t.co/UehZDlHbGi
+Check it out and buy for 50% OFF! discount code: mlatencio
+#functionalprogramming #javascript #manning"
+102,606577268660576256,Thu Jun 04 21:44:25 +0000 2015,0,1,@mfeathers Love this tweet
+103,594255674047070208,Fri May 01 21:42:48 +0000 2015,0,0,http://t.co/owTffSFX3t
+104,572940721738551296,Wed Mar 04 02:04:47 +0000 2015,0,0,Latest blog post: http://t.co/afjhv9HAAx
+105,567820234679197697,Tue Feb 17 22:57:48 +0000 2015,1,0,Java script Techniques Part I by @luijar #javascript #js http://t.co/Yq86j0eGzE via @SlideShare
+106,552646098788315136,Wed Jan 07 02:01:12 +0000 2015,0,0,"Latest Post: 
+
+http://t.co/Pdw8eYfgUl"
+107,540977656008028160,Fri Dec 05 21:14:58 +0000 2014,0,0,http://t.co/D2EHacz9NW
+108,538429093910294528,Fri Nov 28 20:27:54 +0000 2014,0,0,http://t.co/qSrugUVY18
+109,538428945859747840,Fri Nov 28 20:27:18 +0000 2014,0,0,http://t.co/G83eGcotvZ
+110,527587171067514880,Wed Oct 29 22:25:58 +0000 2014,0,0,Check it my new blog: http://t.co/Mr9ShbXFsn
+111,511346273707118592,Mon Sep 15 02:50:26 +0000 2014,0,0,http://t.co/nRK2RtjjyE
+112,499550782245847040,Wed Aug 13 13:39:22 +0000 2014,0,0,http://t.co/CAMZcyVLDM
+113,479961565945274370,Fri Jun 20 12:18:49 +0000 2014,1,0,Thoughts on Python https://t.co/BCmnM3HAXD
+114,464154966824079360,Wed May 07 21:29:02 +0000 2014,0,0,"Assess, Design, and Deploy XenDesktop with Project Accelerator. Check us out in booth 32 of the Citrix Pavilion
+
+#CitrixSynergy"
+115,460117813886480385,Sat Apr 26 18:06:50 +0000 2014,0,0,"I liked a @YouTube video http://t.co/d4uTXvyGJK Nike Soccer: Winner Stays. ft. Ronaldo, Neymar Jr., Rooney, Ibrahimović, Iniesta &amp;"
+116,432940791326343168,Mon Feb 10 18:15:02 +0000 2014,0,0,"I liked a @YouTube video http://t.co/zphepAOBjB The Citrix Story - 25 Years of Imagination, Innovation and Growth"
+117,432926761521643520,Mon Feb 10 17:19:18 +0000 2014,0,0,"The Citrix Story - 25 Years of Imagination, Innovation and Growth http://t.co/6XWJesbytj"
+118,410598110050516993,Wed Dec 11 02:33:12 +0000 2013,1,0,I liked a @YouTube video http://t.co/AUAF10AC3d Four Letter Words with Jason Mraz in Studio Q
+119,391394929496555520,Sat Oct 19 02:46:37 +0000 2013,0,0,"Love it!!!
+(@YouTube http://t.co/mJbchoSQVK)"
+120,391393682584518656,Sat Oct 19 02:41:40 +0000 2013,0,0,I liked a @YouTube video http://t.co/mJbchoSQVK Marta Guerra - baby shower video
+121,357676700567482368,Thu Jul 18 01:42:25 +0000 2013,0,0,Miami Google Apps Engine: http://t.co/ercbx2pd7f via @youtube
+122,357676373525012480,Thu Jul 18 01:41:07 +0000 2013,0,0,Miami Google Apps Engine http://t.co/VwDEDkwUWS
+123,355139942323716097,Thu Jul 11 01:42:15 +0000 2013,0,0,By yours truly... http://t.co/4aUQqyNDYA
+124,348206587204235264,Fri Jun 21 22:31:34 +0000 2013,0,0,I liked a @YouTube video http://t.co/rtgFsFFHbG CHINA 2013 (Part 3)
+125,336693733762416642,Tue May 21 04:03:36 +0000 2013,0,0,I liked a @YouTube video http://t.co/T84GOeYaWm PABLO ALBORÁN - SOLAMENTE TÚ (en mi casa)
+126,333803418877587456,Mon May 13 04:38:31 +0000 2013,0,0,I liked a @YouTube video http://t.co/TmIRlfNyvc Hitler uses git
+127,326354385707864065,Mon Apr 22 15:18:43 +0000 2013,0,0,http://t.co/VolWuU3jbm: Notes on Continuous Delivery - Implementing a Test... http://t.co/E9V7k2ykYG
+128,326156056323567616,Mon Apr 22 02:10:38 +0000 2013,0,0,"Natasha, Richard &amp; Luis: http://t.co/MKmjnWBaLt via @YouTube"
+129,326153776773865472,Mon Apr 22 02:01:34 +0000 2013,0,0,"Natasha, Richard &amp; Luis: http://t.co/DhIRq5KK3q via @YouTube"
+130,326138169059848192,Mon Apr 22 00:59:33 +0000 2013,0,0,Cover Your Ears [Foo Fighters] Cover: http://t.co/NWKdbCvlyR via @YouTube
+131,326137342945525760,Mon Apr 22 00:56:16 +0000 2013,0,0,Cover Your Ears [Sublime-Santeria] cover: http://t.co/itYjmAVoty via @YouTube
+132,324493762556461056,Wed Apr 17 12:05:16 +0000 2013,0,0,I liked a @YouTube video http://t.co/Gd96AMSJ9J FRAUDE ELECCIONES VENEZUELA 2013
+133,324366966171258881,Wed Apr 17 03:41:25 +0000 2013,0,0,I liked a @YouTube video http://t.co/swLUkLskbA FRAUDE EN VENEZUELA 14 DE ABRIL
+134,321419414740275200,Tue Apr 09 00:28:54 +0000 2013,0,0,I liked a @YouTube video http://t.co/1qdT35mqrQ El Mundo Que Soñe - Cancion Por La Paz De Venezuela
+135,317993324537577473,Sat Mar 30 13:34:51 +0000 2013,0,0,I liked a @YouTube video http://t.co/89FHeoBr3A Polémico discurso de Liliana Hernández
+136,313157502286036992,Sun Mar 17 05:19:01 +0000 2013,0,0,"I liked a @YouTube video http://t.co/brTXgmKzR6 My heart is broken (Cover Song) - Oriana Rosales ""Oreo"""
+137,313155278197620736,Sun Mar 17 05:10:11 +0000 2013,0,0,"I liked a @YouTube video http://t.co/wQX973OTY9 ""Somebody that I used to know"" by Oriana Rosales"
+138,311313969287675904,Tue Mar 12 03:13:28 +0000 2013,1,0,I liked a @YouTube video http://t.co/2pL4kqXmPq DeAndre Jordan Monster-Alley Oop Over Brandon Knight (Mar 10 2013)
+139,310443892493389824,Sat Mar 09 17:36:06 +0000 2013,0,0,I liked a @YouTube video http://t.co/dPUKBXAbpY Muay Thai Kicking Techniques [Human Weapon] - Power Angle Kick
+140,309874459207155712,Fri Mar 08 03:53:22 +0000 2013,0,0,Luis atencio on_git http://t.co/qfWPiADyoP
+141,307329886224265217,Fri Mar 01 03:22:09 +0000 2013,1,0,I liked a @YouTube video from @women_enough http://t.co/86K3nMC1sY Igniting creativity to transform corporate culture: Catherine
+142,302259376905924608,Fri Feb 15 03:33:45 +0000 2013,0,0,I liked a @YouTube video http://t.co/FIICu6Ij The Internship: Official Trailer
+143,298618510584721409,Tue Feb 05 02:26:15 +0000 2013,0,0,http://t.co/51760YFp
+144,298128972443709440,Sun Feb 03 18:01:00 +0000 2013,0,0,http://t.co/m5NrC9AU: Continuos Delivery - An overview http://t.co/GHBCFeKp
+145,297543252612112385,Sat Feb 02 03:13:34 +0000 2013,0,0,I liked a @YouTube video http://t.co/DsavazQt Génesis Rodríguez Does A Telenovela Scene With Conan - CONAN on TBS
+146,294804252327563265,Fri Jan 25 13:49:45 +0000 2013,0,0,Fluent Object Creation http://t.co/47WnZfq7
+147,292394921896341504,Fri Jan 18 22:15:56 +0000 2013,1,0,http://t.co/e9rJvePW: Fluent Object Creation http://t.co/6Zj2cd4R
+148,281776565875007488,Thu Dec 20 15:02:23 +0000 2012,0,0,I liked a @YouTube video http://t.co/gurJ7aH1 Alexander the Great and the Situation ... the Great? Crash Course World History #8
+149,277503466585333761,Sat Dec 08 20:02:36 +0000 2012,0,0,I liked a @YouTube video http://t.co/R427SmcF The Agricultural Revolution: Crash Course World History #1
+150,270944434110214144,Tue Nov 20 17:39:21 +0000 2012,1,0,"I liked a @YouTube video http://t.co/1UtuiuxE Cassadee Pope: ""Over You"" - The Voice"
+151,270303600633339908,Sun Nov 18 23:12:55 +0000 2012,0,0,I liked a @YouTube video http://t.co/x2AoQVVQ Daughtry - What About Now(Live).avi
+152,267819347060330497,Mon Nov 12 02:41:22 +0000 2012,0,0,"I liked a @YouTube video http://t.co/g7iq9ob9 Crackovia Cristiano Ronaldo,Guti y el espejo magico HD"
+153,266738413691080705,Fri Nov 09 03:06:08 +0000 2012,0,0,I liked a @YouTube video http://t.co/0ZkeDSCo SAR: XD-M 9mm Review pt 3
+154,266735202372562944,Fri Nov 09 02:53:22 +0000 2012,0,0,I liked a @YouTube video http://t.co/9ob78VbJ SAR: XD-M 9mm Review pt 2
+155,255004705959337984,Sun Oct 07 18:00:34 +0000 2012,0,0,los aplausos eran para los buses repletos de gente!! capriles estamos contigo!! arriba vzla! (@YouTube http://t.co/eTTzcf9U)
+156,255000858356498432,Sun Oct 07 17:45:16 +0000 2012,0,0,I liked a @YouTube video http://t.co/eTTzcf9U El himno de Venezuela en New Orleans. Espectacular
+157,246982463371501568,Sat Sep 15 14:43:02 +0000 2012,0,0,http://t.co/e9rJvePW: Streamline project creation with Maven Archetypes http://t.co/n4TLScBX
+158,232195667089580032,Sun Aug 05 19:25:35 +0000 2012,0,0,"I liked a @YouTube video http://t.co/2L4Q4Cef Jason Mraz ""I Won't Give Up"" 08/01/12 - CONAN on TBS"
+159,215831243986698242,Thu Jun 21 15:39:13 +0000 2012,0,0,@origenweb yo sigo a @fenderlatino
+160,211175695236337664,Fri Jun 08 19:19:43 +0000 2012,0,0,I liked a @YouTube video http://t.co/rawqpfgz Comercial Adidas exclusivo para la vinotinto.mp4
+161,206501958348058625,Sat May 26 21:47:58 +0000 2012,0,0,I liked a @YouTube video http://t.co/O2RniM3l Isaac's Live Lip-Dub Proposal
+162,195867514612367361,Fri Apr 27 13:30:29 +0000 2012,0,0,I liked a @YouTube video http://t.co/KGzCZnZ7 Jimmy Fallon - Slow Jam The News with Barack Obama: Late Night
+163,182652792878546944,Thu Mar 22 02:19:54 +0000 2012,0,0,"Bro, esta bestial! Reconoci a mili en el telefono, ejje.  (@YouTube http://t.co/5381ShGC)"
+164,154996555475193858,Thu Jan 05 18:43:53 +0000 2012,0,0,Check this video out -- TIM HOWARD AMAZING GOAL!!!!! HD http://t.co/LgXmwO7v via @youtube
+165,154996528614875136,Thu Jan 05 18:43:46 +0000 2012,0,0,I liked a @YouTube video http://t.co/hybHESa0 TIM HOWARD AMAZING GOAL!!!!! HD
+166,150625378405330944,Sat Dec 24 17:14:23 +0000 2011,0,0,Check out this site: http://t.co/Y86pWV8E
+167,148596941700341760,Mon Dec 19 02:54:06 +0000 2011,0,0,Check this video out -- Gols da Partida FC BARCELONA VS SANTOS (4-0) All Goals & Highlights - FI... http://t.co/uAsUHSBe via @youtube
+168,148596926823145473,Mon Dec 19 02:54:02 +0000 2011,0,0,I liked a @YouTube video http://t.co/Gp8SxuGs Gols da Partida FC BARCELONA VS SANTOS (4-0) All Goals & Highli
+169,147345906990198784,Thu Dec 15 16:02:56 +0000 2011,0,0,I just joined Miami Python Meetup Group http://t.co/0bpBPOef
+170,142390917494603776,Thu Dec 01 23:53:34 +0000 2011,0,0,http://t.co/6ptvLD18
+171,128674079275368448,Tue Oct 25 03:27:45 +0000 2011,0,0,"As the JVM continues to port more dynamic languages and Perl continues to glue the internet, the spread of hybrid languages is imminent"
+172,128673898786062338,Tue Oct 25 03:27:02 +0000 2011,0,0,"As the JVM continues to port more dynamic languages and Perl continues to glue the internet, the spread of hybrid languages is immitent"
+173,119982196416188417,Sat Oct 01 03:49:19 +0000 2011,0,0,I liked a @YouTube video http://t.co/6gSHBVrs Neymar super football skills  Brasil - Argentina
+174,115482181173919744,Sun Sep 18 17:47:52 +0000 2011,0,0,Check this video out -- Ronaldinho Amazing Panna vs Ghana 05/09/2011 http://t.co/QDMOdpDQ via @youtube
+175,115482178242084864,Sun Sep 18 17:47:51 +0000 2011,0,0,I liked a @YouTube video http://t.co/C1CNI6lC Ronaldinho Amazing Panna vs Ghana 05/09/2011
+176,113622900338200576,Tue Sep 13 14:39:45 +0000 2011,0,0,I liked a @YouTube video http://t.co/0KRpxG0 Ronaldinho Avai 3 - 2 Flamengo 31/8/2011 || Goals.
+177,112479720163131392,Sat Sep 10 10:57:09 +0000 2011,0,0,I liked a @YouTube video http://t.co/uZEHDVg Saint Seiya 3D Official Trailer- Movie 2011
+178,112479719261351936,Sat Sep 10 10:57:09 +0000 2011,1,0,Check this video out -- Saint Seiya 3D Official Trailer- Movie 2011 http://t.co/CyvWLiV via @youtube
+179,112478915934683136,Sat Sep 10 10:53:57 +0000 2011,0,0,Check this video out -- Saint Seiya: Sanctuary Battle PS3 gameplay video Pegasus Seiya http://t.co/Am4XnRS via @youtube
+180,112478891200880640,Sat Sep 10 10:53:52 +0000 2011,0,0,I liked a @YouTube video http://t.co/REYeKXG Saint Seiya: Sanctuary Battle PS3 gameplay video Pegasus Seiya
+181,111384777747214336,Wed Sep 07 10:26:15 +0000 2011,0,0,I liked a @YouTube video http://t.co/0KRpxG0 Ronaldinho Avai 3 - 2 Flamengo 31/8/2011 || Goals.
+182,111384775377436672,Wed Sep 07 10:26:14 +0000 2011,0,0,Check this video out -- Ronaldinho Avai 3 - 2 Flamengo 31/8/2011 || Goals. http://t.co/1IB6BA3 via @youtube
+183,109887090371723265,Sat Sep 03 07:14:58 +0000 2011,0,0,I liked a @YouTube video http://t.co/KCnK1kC Yohandry Orozco PeruSub20 1-1 VenezuelaSub20
+184,109648584848326656,Fri Sep 02 15:27:14 +0000 2011,0,0,Check this video out -- Yohandry Orozco PeruSub20 1-1 VenezuelaSub20 http://t.co/zY6INhy via @youtube
+185,109648577873199104,Fri Sep 02 15:27:12 +0000 2011,0,0,I liked a @YouTube video http://t.co/KCnK1kC Yohandry Orozco PeruSub20 1-1 VenezuelaSub20
+186,99271520488140802,Fri Aug 05 00:12:29 +0000 2011,0,0,I liked a @YouTube video http://youtu.be/G77OCcKu83A?a Golazo de Marco Fabian Chivas vs. Barcelona 4-1 2011 World Foot
+187,74294622746198016,Sat May 28 02:03:13 +0000 2011,0,0,I'm going to a Meetup with South Florida Android Developers http://meetu.ps/1s6hL
+188,68352779093151744,Wed May 11 16:32:27 +0000 2011,0,0,Google IO second keynote!
+189,55487205082275840,Wed Apr 06 04:29:15 +0000 2011,0,0,I'm going to a Meetup with South Florida Android Developers http://meetu.ps/Q8vC
+190,48596630433312769,Fri Mar 18 04:08:34 +0000 2011,0,0,Check this video out -- El mejor caño de la historia http://t.co/4v6UlNu via @youtube
+191,48596477139881984,Fri Mar 18 04:07:57 +0000 2011,0,0,I liked a YouTube video -- El mejor caño de la historia http://youtu.be/5tUHELnyzdg?a
+192,42380805670060032,Tue Mar 01 00:29:06 +0000 2011,0,0,"Check this video out -- Gol de Ronaldinho, Flamengo 1x0 Boavista - Final Taça Guanabara 2011 http://t.co/SbrX6mO via @youtube"
+193,39806634037346304,Mon Feb 21 22:00:15 +0000 2011,0,0,Using the State pattern in a Domain Driven Design http://t.co/L6PiMqp via @AddThis
+194,38473128350842880,Fri Feb 18 05:41:23 +0000 2011,0,0,I'm going to a Meetup with South Florida Android Developers http://meetu.ps/CWdN
+195,35088702375989248,Tue Feb 08 21:32:53 +0000 2011,0,0,I'm going to a Meetup with South Florida Android Developers http://meetu.ps/yGdp
+196,34665844889882624,Mon Feb 07 17:32:36 +0000 2011,0,0,Google IO site's down??
+197,34030443569352706,Sat Feb 05 23:27:44 +0000 2011,0,0,Crazy Ronaldinho skill in Flamengo training: The behind-the-goal goal http://t.co/wsJJ90h
+198,30449556143476737,Thu Jan 27 02:18:34 +0000 2011,0,0,I'm going to a Meetup with South Florida PHP Users Group! http://meetu.ps/5PZD
+199,27585300716855296,Wed Jan 19 04:37:02 +0000 2011,1,0,"My blog: 
+http://www.reflectivethought.net/  
+If you are interested in programming, become a follower!"

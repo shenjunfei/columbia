@@ -1,0 +1,186 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668503382441660416,Sun Nov 22 18:56:41 +0000 2015,3,0,RT @CenturyLinkLabs: The State of the Cloud 2015: A Review of Industry Milestones and Future Predictions By @adrianco https://t.co/oy3E7Ls7…
+1,668493280133312514,Sun Nov 22 18:16:32 +0000 2015,0,0,"The theme is auto-parallelization.
+The theme is auto-parallelization.
+... https://t.co/rqDa6rk5s7"
+2,668489411902877696,Sun Nov 22 18:01:10 +0000 2015,160,0,"RT @wesmckinn: New post: ""The problem with the data science language wars"" https://t.co/brSM1OZAqS #python #rstats"
+3,667499713428484096,Fri Nov 20 00:28:27 +0000 2015,2,0,"RT @Comverge: ""Many in the demand response community feel this is a transformative time for DR as we've known it."" https://t.co/ltg9mXsxWd"
+4,667498161502449665,Fri Nov 20 00:22:17 +0000 2015,6,0,RT @PythonWeekly: Scalable Machine Learning using Spark and Python https://t.co/siLrcgyf4p #python #spark
+5,666340573419208704,Mon Nov 16 19:42:27 +0000 2015,0,0,Why a British Utility Is Buying a Sensor Startup for $60 million via @FortuneMagazine https://t.co/S0iuFQAu1F
+6,664176812742733824,Tue Nov 10 20:24:26 +0000 2015,9,0,"RT @malev: My talk about ""Reproducibility of your development environment"" https://t.co/7eJnvBoUd8 #PyDataNYC @ContinuumIO"
+7,660576662573084672,Sat Oct 31 21:58:43 +0000 2015,3,0,RT @ERCOT_ISO: Don’t forget to fall back and set your clocks back one hour this evening. Daylight saving time ends at 2 a.m. tomorrow.
+8,659132520156389376,Tue Oct 27 22:20:13 +0000 2015,0,1,Investigating Platform as a Service (PaaS) offerings? Here's a comprehensive overview of at least 70 vendors: https://t.co/dGpo0RC7NQ
+9,657623941272477696,Fri Oct 23 18:25:40 +0000 2015,4,0,RT @omarthinkgreen: .@jeffsaintjohn presents #DRAM: The Details Behind California’s Demand Response Auction Mechanism  https://t.co/N4mr8Hv…
+10,654478275020877825,Thu Oct 15 02:05:55 +0000 2015,0,0,Supreme Court hears demand response-related arguments concerning jurisdiction of FERC:  http://t.co/EmKzJGlvcp
+11,654382062191808512,Wed Oct 14 19:43:36 +0000 2015,130,0,RT @developerWorks: IBM Announces Open Source Projects to Fuel Cloud Developer Innovations #IBM #oscon http://t.co/UlPplRsmaz http://t.co/2…
+12,642113406867103744,Thu Sep 10 23:12:20 +0000 2015,0,0,An Industry First: Distributed Energy Storage System Dispatches Electricity to California Grid http://t.co/CstNsYCyRU
+13,641755762604118017,Wed Sep 09 23:31:11 +0000 2015,1,0,RT @ChaiEnergy: Diagnosing 'Sick' Buildings to Save Energy - DrexelNow http://t.co/6pu4npzfN2 #energy http://t.co/IWdu5FSUfA
+14,640950470966575104,Mon Sep 07 18:11:15 +0000 2015,2,0,RT @NTS_SmartGrid: The Coming of Age of IoT Networks http://t.co/MyZPa8NuSm
+15,638868281202311169,Wed Sep 02 00:17:22 +0000 2015,0,0,Residential demand response news from PJM. https://t.co/9cJJdPDRhz
+16,638039967399215104,Sun Aug 30 17:25:57 +0000 2015,7,0,"RT @AndrewMulherkar: A diverse ecosystem of companies is transforming the way we generate, manage &amp; use energy: http://t.co/WEy1VZQBRv http…"
+17,636733242545061888,Thu Aug 27 02:53:29 +0000 2015,2394,0,RT @PieCalculus: Example Time Scale of System Latencies. http://t.co/3o31b5J85b
+18,635799962371010560,Mon Aug 24 13:04:58 +0000 2015,59,0,RT @gjreda: [new post] I wrote a little bit about cohort analysis and how to build one with #python and pandas. http://t.co/nlOhbqEGrZ
+19,631098973919559680,Tue Aug 11 13:44:55 +0000 2015,2,0,RT @IntelUtil: The #electric skinny on #irrigation: @NobleREMC gets DR on the farm table. http://t.co/S1gN1EoACZ @ElsterSolutions http://t.…
+20,624937156868460544,Sat Jul 25 13:40:03 +0000 2015,0,1,Superscalar Smart Cities http://t.co/0mpsUrOmg1 via @Ubiquity_ACM
+21,624913512817688576,Sat Jul 25 12:06:06 +0000 2015,0,0,Choosing R or Python for data analysis? An infographic http://t.co/OfXCFr6oeb
+22,616189205115486209,Wed Jul 01 10:18:49 +0000 2015,0,0,An excellent explanation by Markus Kuhn of the advantages of the international time standard notation of ISO 8601 http://t.co/4ajgXvvLjV
+23,614902097239232512,Sat Jun 27 21:04:18 +0000 2015,0,0,Ride-sharing forces automakers to rethink how they sell cars (and transforms cars economics for  riders and owners) http://t.co/5scmiQY6Az
+24,602576122551922689,Sun May 24 20:45:17 +0000 2015,0,0,@roboticwrestler Wind in the Willows frog!
+25,602574517312069633,Sun May 24 20:38:54 +0000 2015,0,1,@roboticwrestler It must be the Mountain View Pub Library! That strangely placed mound near the bench and shady tree gives it away.
+26,593473304683491329,Wed Apr 29 17:53:56 +0000 2015,0,2,"Wire, the communications app backed by Skype’s co-Founder, uses WebRTC http://t.co/oTmT8WSPIj via @techcrunch"
+27,590355492767039488,Tue Apr 21 03:24:52 +0000 2015,14,0,RT @gnutransfer: See Bandwidth Usage Per Process With Nethogs Tool - http://t.co/9x19awekRi
+28,573931585566703616,Fri Mar 06 19:42:07 +0000 2015,273,0,"RT @AnalyticsChap: FACT: There are only 2 types of people in this world, those who can extrapolate from incomplete data"
+29,570042142329937921,Tue Feb 24 02:06:52 +0000 2015,0,0,"ARM and IBM announce an IoT starter kit for the smart home, smart city and other IoT prototyping: http://t.co/az8X3Sq1dk"
+30,568818309111480320,Fri Feb 20 17:03:47 +0000 2015,1,0,RT @TakeNoat: Learning ØMQ with pyzmq - great documentation by Ashish Vidyarthi. http://t.co/krz6zxAmfu
+31,563964058156535808,Sat Feb 07 07:34:44 +0000 2015,0,0,"The Seaborn statistical dataviz library is a great tool. Just like pandas lib, it handles categorical data too. http://t.co/n8TbdeDmBO"
+32,555536643893911554,Thu Jan 15 01:27:11 +0000 2015,0,0,"IPython Notebooks may soon speak all your languages, under the nom (French for family name) de (of) Jupyter: https://t.co/AdWKKdcnvp"
+33,551228669671534592,Sat Jan 03 04:08:50 +0000 2015,1,0,"RT @amontalenti: ""It's hard enough already not to become the prisoner of your own expertise, but it'll only get harder, because change is a…"
+34,549281171029643264,Sun Dec 28 19:10:10 +0000 2014,0,1,"It was in the 50's yesterday, warm enough for a leisurely bike ride through a section of Delaware and Raritan Canal towpath."
+35,548980193424310274,Sat Dec 27 23:14:12 +0000 2014,0,0,As many eBooks for $5 as you want from the prolific Packt Publishing! #packt5dollar https://t.co/QlLYr52WKd
+36,533992083883704320,Sun Nov 16 14:36:48 +0000 2014,0,1,"Facebook’s Newest Data Center Is Now Online In Altoona, Iowa http://t.co/2D6jD2n6wG via @techcrunch"
+37,532967382935810048,Thu Nov 13 18:45:00 +0000 2014,0,0,"What do concurrency and parallelism mean, assuming they are not the same? http://t.co/j1PM2vo7d9"
+38,532239338088574976,Tue Nov 11 18:32:01 +0000 2014,0,0,Internet Weather Report: Cloudy with a Strong Chance of Latency http://t.co/gBybQoddYm via @silverpeak
+39,532238374338187265,Tue Nov 11 18:28:11 +0000 2014,0,1,Google's New Open Source Privacy Effort Looks Back to the '60s http://t.co/gQ1cXQVMIS
+40,517188199718727680,Wed Oct 01 05:44:10 +0000 2014,1,0,"Raiders of the Lost Ark, reincarnated: Steven Soderbergh has made it a silent, in B&amp;W. Reznor &amp; Ross in the score: http://t.co/hUVXoNTYdy"
+41,509358625429549057,Tue Sep 09 15:12:14 +0000 2014,0,0,"According to Nielsen, adults 50 to 64 spend an average of 6 hours and 12 minutes a day watching television."
+42,506112326269812736,Sun Aug 31 16:12:36 +0000 2014,0,1,"Could Breaking Bad have upped its attitude? Taking cues from Dunkin' Donuts and 80's breakdancing movies, it's even badder: ""Breakin' Bad!"""
+43,502661959242616832,Fri Aug 22 03:42:04 +0000 2014,0,0,Findings on people's daily rhythms of productivity: http://t.co/8FLBcyYY2z
+44,495582777970941952,Sat Aug 02 14:51:56 +0000 2014,0,0,"A Summer's Tale, from '96, just released, is a bit like Before Sunrise/Sunset/Midnight series, but with less warmth, more flawed characters."
+45,488743722553602048,Mon Jul 14 17:55:58 +0000 2014,0,0,"Cook faster: award-winning #cooking pan uses rocket engine science for 40% less gas use, without actual rockets. http://t.co/ueTmHg1ven"
+46,485495721848623104,Sat Jul 05 18:49:34 +0000 2014,0,0,"Made it to Snowpiercer with 1 minute of previews left. It beat Iron Man 3 and Transformers 4 at box office in S. Korea. Go, Bong Joon-ho!"
+47,483796033327996928,Tue Jul 01 02:15:37 +0000 2014,0,0,"Sidewalk plein de l'eau
+Up uphill a trail nouveau
+Sun sinks gold below https://t.co/8znIVPJkWr"
+48,480785368862576640,Sun Jun 22 18:52:19 +0000 2014,0,0,"Maine justice... ""if the gators don't get you, the North Atlantic trout will!"" https://t.co/zZvhsO4Oo1"
+49,477886388172374016,Sat Jun 14 18:52:48 +0000 2014,2,2,"Evolution of a software engineer. Or, ""re-refactoring"", illustrated: https://t.co/qRUAQX3mON"
+50,467913644089421824,Sun May 18 06:24:40 +0000 2014,0,0,"The BASIC computer language was born 50 years ago. http://t.co/518HYPsMUP Oh, for the days of time-sharing... http://t.co/7FVmqiMrPR"
+51,447232223725383680,Sat Mar 22 04:44:05 +0000 2014,0,0,"Yesterday was indeed the International Day of Happiness, so have a #HappyDay http://t.co/qhboGoyEbE"
+52,445208798433513472,Sun Mar 16 14:43:43 +0000 2014,0,0,"What happened to the human actors from the last movie? It's *suspicious*, given the huge cast! http://t.co/9OkTeqV4as #MuppetsMostWanted"
+53,437607199104196608,Sun Feb 23 15:17:41 +0000 2014,0,0,Dave Barry on Lost Manliness - http://t.co/Jk0NM44y1O
+54,432626133704519680,Sun Feb 09 21:24:42 +0000 2014,0,0,Say goodbye to plain black and white: Sublime Text http://t.co/zfzxQsHr9b even syntax-highlights Markdown (.md) docs http://t.co/yW6Nkrgsyt!
+55,429642153640218624,Sat Feb 01 15:47:26 +0000 2014,0,0,"It used to be there were no in-ear headphones. Sound travelled from the speakers sitting on the ear, through the nice pillowy foam pads!"
+56,429374939213230081,Fri Jan 31 22:05:37 +0000 2014,0,0,I cancelled my Netflix account so I will not be tempted to waste time.
+57,427131887153197056,Sat Jan 25 17:32:32 +0000 2014,0,0,"Surely you are aware of the complete book of knowledge, That Is All? Let's meet in the Celebrity Cameo Room. http://t.co/4MmBmOPVlQ"
+58,425801280460554241,Wed Jan 22 01:25:10 +0000 2014,0,0,"This may be from March of 2013, but Python data tools were just keeping on getting better. http://t.co/rgPSF6gHBS"
+59,165881555091337216,Sat Feb 04 19:36:59 +0000 2012,0,0,"Finished book, Googled, by Ken Auletta. I didn't realize I had been just three thumb swipes from the end except for refs, for three months."
+60,161857701444468736,Tue Jan 24 17:07:37 +0000 2012,0,0,Managed to get definite chocolate notes out of Peruvian coffee. Just dumb luck.
+61,154070681091444736,Tue Jan 03 05:24:47 +0000 2012,0,0,Coursekit Raises $5 Million to Reinvent the Classroom http://t.co/piwwO6z
+62,138833525410500609,Tue Nov 22 04:17:46 +0000 2011,0,0,Tintin book The Castafiore Emerald was a self-imposed challenge by author Herge to see if he could write an entertainment without adventure.
+63,137059328682242049,Thu Nov 17 06:47:45 +0000 2011,0,0,"NYT runners get an education (on video) in ""100-up"" running perfection from Chris McDougall. The Lost Secret of Running: http://t.co/tUgJNCM"
+64,137056936871997440,Thu Nov 17 06:38:14 +0000 2011,0,0,Someone from the 1800's describes THE way to run. Sound like a John Hodgman fable? The Once and Future Way to Run: http://t.co/xgaTtRr
+65,136239442175340545,Tue Nov 15 00:29:48 +0000 2011,0,0,"Dusk at 4:28 PM. Ready for winter to be over, I remain."
+66,135112770709491713,Fri Nov 11 21:52:49 +0000 2011,0,0,11 11s on 11-11-11 http://t.co/1IJ9bXI Gallery can't wait until the 12th (midnight) hour (when Wilson Pickett's love comes tumbalin' down).
+67,134409376227274752,Wed Nov 09 23:17:47 +0000 2011,0,0,"It's twilight at 3:15. Ready for winter to be over, I am."
+68,134137390351654912,Wed Nov 09 05:17:00 +0000 2011,0,0,Jingle Bells short and sweet. Ha-ha! Watching Saturday Night Live: Dana Carvey and Tom Hanks As Dennis Millers @hulu: http://t.co/ZTnmEyJ
+69,133273792867876864,Sun Nov 06 20:05:22 +0000 2011,0,0,"I sneezed and a little girl behind me in the parking lot with her dad said ""Bless you!"" cheerily."
+70,133260448563867649,Sun Nov 06 19:12:21 +0000 2011,0,0,"Jumbo idea. I hesitate to call him a shrimp-head, but... Simple Innovation Is Often the Most Successful - Prototype: http://t.co/2RjMwhK"
+71,131771486238289920,Wed Nov 02 16:35:45 +0000 2011,0,0,"Style and finesse times two in Marketplace-Business Daily, APM-BBC joint podcast on Euro troubles' global effects. Rowlatt and Ryssdal."
+72,129077887998504960,Wed Oct 26 06:12:21 +0000 2011,0,0,"John McCarthy, Pioneer in Artificial Intelligence, Dies at 84 http://t.co/qcuD5w0 Dealings with Minsky, Nash and Jobs!"
+73,128266599730917376,Mon Oct 24 00:28:35 +0000 2011,0,0,"Listening to Shatner concept album Seeking Major Tom after hearing interview on Studio 360. Takes off with Bowie, then U2, more covers."
+74,127892217581932544,Sat Oct 22 23:40:55 +0000 2011,0,0,"Looking in on (and have set the laptop down in) Summit, a cafe in the Mission whose owners fund start-ups. http://t.co/3GT3N7f"
+75,127122525581873152,Thu Oct 20 20:42:26 +0000 2011,0,0,"@MIT_ISTnews Whatever the outcome, Watson will feel no shame, no pride. These would only reduce his computational brawniness. WTSN4VR"
+76,126335193756872704,Tue Oct 18 16:33:52 +0000 2011,0,0,Lululemon workout: 2-mile time trial at around 13:30 to :40 for me and then ten minutes core. End... scene.
+77,124572788139892737,Thu Oct 13 19:50:41 +0000 2011,0,0,"Pan Am the TV show makes The Love Boat seem subversive. What Starship Troopers made into satire, Pan Am makes into corn mush. Mash-up please"
+78,124345321751973888,Thu Oct 13 04:46:49 +0000 2011,0,0,YT's Spacelab vid at http://t.co/lK3I37o has music with nearly identical DNA to that in Werner Herzog's Encounters at the End of the World
+79,124342477074345984,Thu Oct 13 04:35:31 +0000 2011,0,0,See product placement recycled 22 years later (or 4 years BEFORE the first placement) at http://t.co/D9vmU1d. SNL's Bill Hader adds zing.
+80,120282679429181440,Sat Oct 01 23:43:20 +0000 2011,0,1,"@roboticwrestler But what is there in your past you would want to mend?  OHHH, right, it&#39;s your pants. No time travel, then."
+81,120271794690203648,Sat Oct 01 23:00:05 +0000 2011,0,0,"It finally feels fall-ish. A bit of wind is rising, so is hunger. Time to give linear algebra a break and have a 4 o&#39;clock lunch."
+82,118871943041650688,Wed Sep 28 02:17:34 +0000 2011,0,1,@roboticwrestler Do not get bionic hand that is a reference to the dehumanization of your father who is building a Death Star. Keep it real.
+83,118194076112785408,Mon Sep 26 05:23:58 +0000 2011,0,0,"Futht bee thting awn ma tongue. It wanted ma thandwich. I can actually talk fine, just a bit sore."
+84,117277614732877824,Fri Sep 23 16:42:16 +0000 2011,0,1,@roboticwrestler Get sleep. And don't let Leonardo di Caprio enter your dreams.
+85,115802984637673474,Mon Sep 19 15:02:37 +0000 2011,0,1,"@roboticwrestler naturalized alien, naturalized alien in space."
+86,112646942324047872,Sat Sep 10 22:01:38 +0000 2011,0,1,"Ran the Palo Alto Moonlight 10K yesterday evening. Had my flashlight, but there was plenty of lightning too, and some rain in the last mile."
+87,111981383605424128,Fri Sep 09 01:56:57 +0000 2011,0,1,I had some good bike rides to and from LCG today. 2.1 miles each way.
+88,111980355430526976,Fri Sep 09 01:52:51 +0000 2011,0,0,"San Diego Gas & Electric lost power around 4 PM today, Thursday. No ETA to restore. Hospitals and critical functions are running on backup."
+89,105387513681674240,Sun Aug 21 21:15:15 +0000 2011,0,0,OK Go. The Muppets. Epic collaboration premiering Aug. 23rd. http://t.co/HxDTU82
+90,105374969013354496,Sun Aug 21 20:25:25 +0000 2011,0,0,"After this video shoot, the DJ goes to his next gig, a yoga class. http://t.co/B1Bzg0x"
+91,102857170915303425,Sun Aug 14 21:40:35 +0000 2011,0,0,"For a consensus view (of critics) of the best albums from a given year, search for ""pazz and jop"" and the year."
+92,102030841747738624,Fri Aug 12 14:57:02 +0000 2011,0,0,Dreamed that I tried to get a tennis court in my town. Was told that Jay-Z and Google had reserved that block of courts over there.
+93,99366871043813376,Fri Aug 05 06:31:22 +0000 2011,0,0,List o' Books featured on Radiolab: http://t.co/uFR16DM
+94,99135930782326786,Thu Aug 04 15:13:42 +0000 2011,0,0,"Good piece by Roger Ebert on media, and why we are always one step behind the newest kind available. http://t.co/VT5y09g"
+95,98762413343641600,Wed Aug 03 14:29:28 +0000 2011,0,0,"He has his hand on his head in an angsty way on 1,2,3,4(!) of his albums. If you guessed it's the legal alien, the Englishman in New York..."
+96,90099410305949696,Sun Jul 10 16:45:48 +0000 2011,0,1,"Got lost, 7 mile run is 12 miles now."
+97,89453409052262400,Fri Jul 08 21:58:49 +0000 2011,0,1,"Linear algebra like it's 1999. I picked up the 3rd edition of Strang's textbook that was in use then (thx OCW) at Bookbuyers, Mountain View."
+98,5141117411,Sun Oct 25 05:29:09 +0000 2009,0,1,Each pair of shorts has a specialty: navy w/ white stripe will be assigned half marathons. Gray w/ yellow stripe has 10k's and 5k's.
+99,5126864765,Sat Oct 24 17:21:22 +0000 2009,0,0,The flu virus for production of vaccine is being grown in chicken eggs. I wonder how many doses per egg.
+100,5071437282,Thu Oct 22 15:18:18 +0000 2009,0,0,"Want a word? Wiktionary.org says ""janky"" means ""of poor quality; untrustworthy"". Bugs on GOOG's chromium browser dev page have label ""Jank""."
+101,4870116666,Wed Oct 14 19:54:13 +0000 2009,0,0,Leonard Maltin gave 2.5 stars to My Dinner with Andre (directed by Louis Malle) and Laserblast (the only movie ever directed by Michael Rae)
+102,4424168249,Sun Sep 27 19:52:57 +0000 2009,0,0,"Registering for Oct. races: Stanford Run for Your Life 10K (benefit for emergency services, not like Pamplona), Silicon Valley 1/2 marathon."
+103,3774357056,Sat Sep 05 05:48:45 +0000 2009,0,0,The snow leopard on the box for Mac OS X Snow Leopard actually has snow on it. Did the leopard get it on itself in the wild? Is it digital?
+104,3661569882,Mon Aug 31 07:22:51 +0000 2009,0,0,"The physics of tennis great Roger Federer's footwork is broken down to its essentials (including the ""kinetic chain""): http://bit.ly/11Pm9b"
+105,3575110979,Thu Aug 27 07:35:26 +0000 2009,0,0,"Jim Marshall took iconic pictures of legendary musicians from the late 60's. I met him briefly, ignorantly. marshallphoto.com/collection"
+106,3492508958,Sun Aug 23 14:46:40 +0000 2009,0,0,"I'm going for a run before 8 AM. According to the weather forecast online, the UV index is 0. A key says: ""a hat is sufficient protection""!"
+107,3477409611,Sat Aug 22 19:31:31 +0000 2009,0,0,Looking forward to a 2-hour run this afternoon on a trail called Old Haul Road. It's a 33-mile drive south. What was it they hauled?  Logs.
+108,3407486249,Wed Aug 19 16:02:31 +0000 2009,0,0,"If every day's coffee prep were as exciting as this Chemex how-to video, I'd never stop brewing! Music Mucca Pazza: http://vimeo.com/6161817"
+109,3401388778,Wed Aug 19 07:52:34 +0000 2009,0,0,San Diego State U. compared muscle activity induced by various ab exercises with that of crunches: http://bit.ly/Ab_Study
+110,3333159203,Sat Aug 15 20:19:57 +0000 2009,0,0,"It's all in how you say it: ""What does your boyfriend do?"" ""Actually, he's now my husband."" ""Oh, I'm sorry."""
+111,3332455044,Sat Aug 15 19:25:42 +0000 2009,0,0,"In the mood for a fiddlin', strummin' good tune? Though it comes from a band called Dervish, it's 100% Irish: http://bit.ly/John_Blessings"
+112,3300236927,Fri Aug 14 03:08:01 +0000 2009,0,0,"Les Paul passed away today. His and Mary Ford's catchy, spare ""How High the Moon"" from '51: http://tinysong.com/6IdH"
+113,3150219103,Wed Aug 05 18:31:16 +0000 2009,0,0,"Seabiscuit, Laura Hillenbrand's best-selling non-fiction gem, was developed concurrently w/ daily embassy protests outside her DC apartment."
+114,2838811731,Sat Jul 25 16:01:26 +0000 2009,0,0,"There used to be a flashy thing that would appear on Internet Explorer icons. That's what delights ""E"" here.  Watch: http://bit.ly/90Chw"
+115,2727975784,Sun Jul 19 21:52:38 +0000 2009,0,0,"I'm about to rehearse the 2nd Half Marathon of the SF Marathon, next weekend. My sun block is on, with luck I won't get lost in GG Park."
+116,2727950463,Sun Jul 19 21:50:40 +0000 2009,0,0,"Vampire Weekend is hardly new, but it's a great hybrid of African party music with ecstatic classical flourishes and globe-striding lyrics."
+117,2707381463,Sat Jul 18 15:33:25 +0000 2009,0,0,"Time's Up, Living Colour's second album, was issued in LP format in clear, golden yellow vinyl. It rocked just sitting on the record player."
+118,2602604871,Sun Jul 12 19:48:45 +0000 2009,0,0,"At Nike Run Club @ Palo Alto, you can get a free pair of $100 Nikes if you win the monthly raffle. Or you can scarf free blue-/strawberries."
+119,2602530697,Sun Jul 12 19:42:49 +0000 2009,0,0,"Buckle up (doh!), drive right... from NYC &gt; SF in re-created Maxwell Model DA to honor first X-country drive by a woman. http://bit.ly/PdusK"
+120,2432832607,Thu Jul 02 05:28:57 +0000 2009,0,0,"CompuServe's original online service is ceasing (a newer version lives). With any luck, 10-cent/min. usage charges had come down since '91."
+121,2374792215,Sun Jun 28 18:56:43 +0000 2009,0,0,"I signed the ""CSC Issues National Appeal for �Common-Sense Reform� to Title IX"" petition! http://petol.org/csc2008 #petol"
+122,2259172554,Sun Jun 21 00:08:08 +0000 2009,0,0,Created a profile on dailymile: for athletes of any kind who cover distance and want to track progress and socialize about their goals.
+123,2259148068,Sun Jun 21 00:05:40 +0000 2009,0,0,"I learned that Mt. Whitney is already booked for August, as all of the permits were already issued. Zut! The early masochists get to hike."
+124,2233920404,Fri Jun 19 05:07:13 +0000 2009,0,0,Nothing's keeping my weekend-anticipation from surging into supernova territory! I had lunch next to a canal! People are out in the warm!
+125,2219208498,Thu Jun 18 07:01:51 +0000 2009,0,0,"It's Spinal Tap, on The Tonight Show. Nigel: ""Even if you don't like music, you can have hours of fun with the diorama."" http://bit.ly/QVqMa"
+126,2203830014,Wed Jun 17 07:38:16 +0000 2009,0,0,"What I Talk About When I Talk About Running is novelist Haruki Murakami's non-fiction book. He used to run along the Charles, liked it."
+127,2173335290,Mon Jun 15 03:32:57 +0000 2009,0,0,Near traffic-maelstrom of Stanford grad day: saw film Departures. Cellist accidentally becomes encoffinist. Great performances. Good story.
+128,2173228762,Mon Jun 15 03:22:52 +0000 2009,0,0,"Oldest CA state park, Big Basin. Hiked solo to 65-foot Berry Creek falls, 11.5 miles in 4h40m (marathon time). Chicken kebab sleepy Saratoga"
+129,2156284141,Sat Jun 13 18:32:34 +0000 2009,0,0,iBaby Photo Pro - coo coo ca choo! Get baby to become more photogenic than they already are. http://bit.ly/17Zsly
+130,2133557121,Fri Jun 12 16:53:18 +0000 2009,0,0,"Firefox three dot oh dot eleven (3.0.11) is out now, replacing dot ten. It's one Firefoxyer."
+131,2099270297,Wed Jun 10 04:09:12 +0000 2009,0,0,"Talking computers, a follow-up to previous tweet: Output Mac speech to a file: http://bit.ly/VTyvR  Windows details: http://bit.ly/HuuN"
+132,2099251821,Wed Jun 10 04:07:26 +0000 2009,0,0,Make your computer TALK. In Windows: Control Panel&gt;Speech and launch Narrator. Mac: System Preferences&gt;Speech. Paste text into a text editor
+133,2064480500,Sun Jun 07 13:23:04 +0000 2009,0,0,"I powered up Mission Peak, near 2000 feet in forty minutes, &gt;1 ft/2 sec. I passed about 20 people, and lots of cows eating dinner-grass."
+134,2027437144,Thu Jun 04 08:48:02 +0000 2009,0,0,"in union square, 4 singers of sf cons'y of music, one being sister of Anita (A. leaving  stanford). dinner w/ Anita, mom+bro+sis+aunts+uncs"
+135,2013081960,Wed Jun 03 04:52:52 +0000 2009,0,0,Make up your own lyrics to Doors songs. Why listen to whatever Jim Morose-in' says? It's not Riders On the Storm. It's Minders of the Corn!
+136,1978155576,Sun May 31 05:34:51 +0000 2009,0,0,"Went on a hike to the Alamere Falls, waterfalls that fall directly on the beach, flowing to the ocean. Had dinner at Barefoot Cafe, Fairfax."
+137,1978116069,Sun May 31 05:29:04 +0000 2009,0,0,Ran into a friend of a friend in Borders. She was giving husband a break by taking their son out of the house. Son was jumping like dry ice!
+138,1943598381,Thu May 28 04:08:08 +0000 2009,0,0,"Ran in Hillsborough, a richly appointed community. In a backyard, a group of over 20 serious singers singing non-English lyrics. Liturgical?"
+139,1936729797,Wed May 27 15:33:51 +0000 2009,0,0,"After radio story about China as observed by Chinese writers, NPR uses transition music taken from movie Lost in Translation, set in Japan!"
+140,1900216407,Sun May 24 05:07:22 +0000 2009,0,0,"3 day a week marathon: http://bit.ly/pPEzi
+ via @addthis"
+141,1898375979,Sun May 24 01:02:22 +0000 2009,0,0,"Is the irony of characters in the Vatican thriller Angels and Demons saying ""Oh, God!"" or ""Oh my God!"" intentional? Or lazy screenwriting?"
+142,1890558800,Sat May 23 04:25:43 +0000 2009,0,0,"EarthCam Times Square Cam 3 12:18 AM: groups of people socializing at little red tables on red chairs. A great place, time to stretch out :)"
+143,1868443520,Thu May 21 06:05:45 +0000 2009,0,0,Had unagi (eel) sushi from local Japanese mini-market. I've never had lunch from it until today. Drank iconic Pocari Sweat - like Gatorade.
+144,1844326098,Tue May 19 05:09:44 +0000 2009,0,0,"@roboticwrestler I saw Stewart once in ""P""(rinceton U.)-rade. He was Stage Manager in Wilder's Our Town world premiere at McCarter Theater."
+145,1843844604,Tue May 19 04:04:42 +0000 2009,0,0,"When I run, sweat on the front of my shirt looks like a Valentine's heart or Mickey Mouse. Valentine origin:http://www.slate.com/id/2159800/"
+146,1819787974,Sat May 16 20:47:46 +0000 2009,0,0,"Watching Before Sunset, as I clean aptmnt. It follows a single conversation in Paris in real time. Bookstore Shakespeare & Co is in opening."
+147,1803807596,Fri May 15 06:57:05 +0000 2009,0,0,"@roboticwrestler The little pooch pic's perfect. So dignified and steadfast, yet he is like a model for some animated superhero character!"
+148,1803720423,Fri May 15 06:40:14 +0000 2009,0,0,"Who is the next unattractive movie star? WC Fields' Cuthbert J. Twillie's last wish was to ""see Paris before I die... Philadelphia will do."""
+149,1772183571,Tue May 12 10:21:08 +0000 2009,0,0,"Put some Javascript together to avoid copying, pasting, filtering text in spreadsheets. As much as I love spreadsheets ;), it had to be done"
+150,1752574420,Sun May 10 05:18:35 +0000 2009,0,0,"Benefit performance for organization assisting victims of domestic abuse in Nor-Cal (Maitri), by Rupa and the Fishes. Foot-tappin' good."
+151,1745049336,Sat May 09 08:39:17 +0000 2009,0,0,"Bettye Lavette @ Independent SF - BL's career began at 16 in '62, she takes the stage looking like Rocky ascending the steps above Philly."
+152,1735158163,Fri May 08 05:55:16 +0000 2009,0,0,"Ran at Marc's Lagoon (Marc who?), caught up to the group briskly. The path winds past people's apartments. Quite a serene place to run."
+153,1735118084,Fri May 08 05:47:57 +0000 2009,0,0,"Driving in Foster City is like driving in Venice - the difference is in Venice, you aren't lost, and there are gondolas."
+154,1714614677,Wed May 06 06:59:47 +0000 2009,0,0,"Saw screening of Lost World (1925), adaption of Sir Arthur Conan Doyle's non-Holmes-y dinosaur expedition yarn. Dengue Fever provided music!"
+155,1687245418,Sun May 03 15:10:27 +0000 2009,0,0,"Went to Friday Night Waltz in Palo Alto Friday, took class on basic rotary, followed by Congress of Vienna, a choreographed waltz. Danced."
+156,1687122237,Sun May 03 14:49:54 +0000 2009,0,0,Ran from Red's below the Bay Bridge to Halleck St. in Presidio. Halleck headed the Military Department of the Pacific in SF after Civil War
+157,1649700861,Wed Apr 29 15:26:06 +0000 2009,0,0,"7:30 run on Alameda de Las Pulgas: 1 dog-walker, 1 pedestrian with rolling suitcase, and lots of cars a-commuting (a- from 12 days of Xmas)."
+158,1636974284,Tue Apr 28 06:47:17 +0000 2009,0,0,"It is after tax day, after record-setting temperature in SF two weekends ago, and yet San Mateo's evening wind is out of Wuthering Heights."
+159,1623052765,Sun Apr 26 20:29:22 +0000 2009,0,0,Did a scavenger hunt around Stanford and Palo Alto - the will to find a movie ticket stub in the trash was not in my team. We were 3rd of 4.
+160,1620829747,Sun Apr 26 15:01:30 +0000 2009,0,0,"I misspelled artisanal. Woe is me, and artisans everywhere as they did not deserve this and did not ask for it."
+161,1620792044,Sun Apr 26 14:55:05 +0000 2009,0,0,"Chased the tacos with lime sorbet from artisinal ice cream next to the BART in Fruitvale, then did an espresso-fueled run in Berkeley."
+162,1620780144,Sun Apr 26 14:52:59 +0000 2009,0,0,"Met a jolly group in Kefa Coffee in Oakland, then hiked Sibley Volcanic Regional Preserve, then had honest-to-goodness tacos in Richmond."
+163,1592395612,Thu Apr 23 07:21:51 +0000 2009,0,0,"Patrick Smith of PatrickSmithPhotography takes landscape shots with emphasis on detail and lighting, using prolonged exposure."
+164,1585744493,Wed Apr 22 16:01:07 +0000 2009,0,0,"Made it to a track workout, followed by a protein berry workout shake with whey protein. No curds, just the whey."
+165,1551545987,Sat Apr 18 16:20:28 +0000 2009,0,0,@roboticwrestler Was it the NYT article about Twitter being a trap?
+166,1542984153,Fri Apr 17 15:45:36 +0000 2009,0,0,"Heard from my vet science buddy from college who's been in Bristol, UK around 5 yrs. He's thinking of staying rather than return to NJ."
+167,1542969413,Fri Apr 17 15:43:47 +0000 2009,0,0,"I got in a run this morning, weather's pretty good and the winds have died down. Slow and steady, emphasis on the slow."
+168,1542920965,Fri Apr 17 15:37:50 +0000 2009,0,0,"@roboticwrestler Wow, you're tweeting by txt, that means SMS I guess - that rhymed: S, guess! I don't know how replies are received or look."
+169,1459108425,Sun Apr 05 21:48:39 +0000 2009,0,0,"ran through golden gate park on kennedy, closed to cars. turned back at ocean highway. saw swarm of people at academy of sciences entrance"
+170,1457291587,Sun Apr 05 15:25:43 +0000 2009,0,0,"part of lincoln's mystique was his self-education. ""anyone can learn if he wants"" examples undermine pushes for nat'l educational standards"
+171,1453016112,Sat Apr 04 19:28:09 +0000 2009,0,0,"ran with mid peninsula running club and had breakfast at whispers in belmont, biked back, getting lost in belmont hills and the great views"
+172,1451535936,Sat Apr 04 14:07:26 +0000 2009,0,0,installed a notification program snarl then installed pidgin snarl to use snarl with pidgin and irc
+173,1418181853,Mon Mar 30 15:03:32 +0000 2009,0,0,"the adage tragedy+time=comedy applies even to the stock market. in 1932, movie star harold lloyd lampooned the rich man's frantic ""sell  ..."
+174,1415840722,Mon Mar 30 03:43:31 +0000 2009,0,0,"""hello. nice to meet you. eating mango? and you? what fruit did you have? smells good. I'll hang with you. i look like lassie, minus stress"""
+175,1415809968,Mon Mar 30 03:36:30 +0000 2009,0,0,"a substitute for a meal: one scoop of lucuma ice cream, another of pear sorbet.  a substitute yes, but at least i ate it walking bernal hill"
+176,1409991513,Sun Mar 29 01:28:33 +0000 2009,0,0,"do i have a headache because I didn't have coffee today? coffee is even supposed to help athletic performance, as long as it's below 9 mg/kg"
+177,1409715143,Sun Mar 29 00:27:24 +0000 2009,0,0,"i learned this about saturn's and venus' moons: one of them has thirty-one, and the other has nada. that's NO small steps for venutians!"
+178,1408475172,Sat Mar 28 19:49:24 +0000 2009,0,0,"tried to find dolphin south end group in golden gate park but never found traverse/kennedy - need gps! ran in presidio, great sunny run day"
+179,967056930,Mon Oct 20 05:23:17 +0000 2008,0,0,hoping that videos of the tesla dealership on el camino taken with a cell phone are actually viewable after I send them via e-mail

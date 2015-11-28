@@ -1,0 +1,215 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,662179301916319745,Thu Nov 05 08:07:02 +0000 2015,0,1,@erik_wahlstrom Det går bra nu! Grattis!
+1,657522229790511104,Fri Oct 23 11:41:30 +0000 2015,1,4,"Finally a nice NodeJS library :)
+https://t.co/OpG0AzYMQ2
+#pkcs11"
+2,646204890679779328,Tue Sep 22 06:10:26 +0000 2015,22,0,"RT @sweis: Neflix releases open source ""Lemur"" TLS certificate manager: https://t.co/h1JbYuFe5i via @chanjbs"
+3,612722453454917634,Sun Jun 21 20:43:11 +0000 2015,0,0,"Google chrome downloads blackbox listener
+http://t.co/cpOi917Ycc"
+4,612526672110338048,Sun Jun 21 07:45:13 +0000 2015,11,0,"RT @_ericelliott: Not sure what wasm is? Check out the recap near the bottom of my article:
+https://t.co/rpPuBFwuW4 #wasm #JavaScript"
+5,612521954264920064,Sun Jun 21 07:26:28 +0000 2015,124,0,RT @_ericelliott: JavaScript is a rocketship. That won't change with wasm. Other langs compile to JS now.  https://t.co/rpPuBFwuW4 #js http…
+6,600986160819765249,Wed May 20 11:27:21 +0000 2015,9,0,RT @ve7jtb: Its official #JOSE and #JWT are published as RFC7515-RFC7520 and OAuth assertions as RFC7521-RFC7523 @selfissued @_nat_en
+7,600004424191311874,Sun May 17 18:26:16 +0000 2015,0,0,Verifying myself: I am andersg on Keybase.io. 7j0PfTdTWQEWBS5H3jdJgq6wNCE89lPkN1tA / https://t.co/iM60jngFNs
+8,575046623757213696,Mon Mar 09 21:32:53 +0000 2015,0,0,Congrats: New doc w/@shingou @erik_wahlstrom @serdtman: Authn &amp; Authz for Constrained Environs w/ #OAuth &amp; @UMAWG http://t.co/pbxwh3euCx
+9,571755037615112192,Sat Feb 28 19:33:18 +0000 2015,2,0,RT @PandaSecurityUS: A few photos of your finger can now be used to copy every tiniest detail of your #fingerprint and impersonate you! htt…
+10,571364432191856641,Fri Feb 27 17:41:10 +0000 2015,41,0,"RT @CompSciFact: Rivest, Shamir, and Adleman published the RSA public key cryptography algorithm in 1978."
+11,571028667238903808,Thu Feb 26 19:26:58 +0000 2015,0,0,@MagnusHoflin blev det finmiddag innan showen?
+12,556402695251443713,Sat Jan 17 10:48:34 +0000 2015,3,0,RT @travisspencer: JWT &amp; JOSE are now approved for publication as IETF standards: http://t.co/pKwmRxeZpy
+13,550627327663955968,Thu Jan 01 12:19:19 +0000 2015,4250,0,RT @CompSciFact: 2015 is a palindrome in binary: 11111011111
+14,548553579477602304,Fri Dec 26 18:58:59 +0000 2014,633,0,"RT @SwiftOnSecurity: Please stop calling DDoS attacks, ""hacker attacks.""
+That's like calling taking a dump, ""biological terrorism."""
+15,542258176897593344,Tue Dec 09 10:03:18 +0000 2014,0,0,Is #poodle reborn? http://t.co/MISBLl6WDD
+16,532820347671027712,Thu Nov 13 09:00:44 +0000 2014,0,0,Microsoft on #github: https://t.co/IrQayKt3vd
+17,532122141484122113,Tue Nov 11 10:46:19 +0000 2014,0,0,FireFox goes Tor and starts using the DuckDuckGo search engine
+18,529197414344048641,Mon Nov 03 09:04:30 +0000 2014,11,0,RT @svtnyheter: Myndighetshus sårbara för hackerattack – lätt manipulera allt från ventilation till larm i 100-tals fastigheter http://t.co…
+19,522277561376985088,Wed Oct 15 06:47:28 +0000 2014,0,0,#poodle and #rootpipe in one day…
+20,516986635209433089,Tue Sep 30 16:23:13 +0000 2014,0,0,A bit curious on the #TOTP hack: https://t.co/WrFEcXFauh
+21,464001742804221952,Wed May 07 11:20:10 +0000 2014,0,0,"#TLS working group deprecates #RSA key transport: 
+http://t.co/jCbLNzIf2d"
+22,458972209395302400,Wed Apr 23 14:14:36 +0000 2014,1,0,"RT @Cryptoki: Oh, a wee OSX SSL bug rant http://t.co/HH9zBwb0aX"
+23,445870495326830592,Tue Mar 18 10:33:04 +0000 2014,2,0,"RT @munkei_software: Yet another command line argument parser for Java? Yeah, but this one's better (if you like annotations): https://t.co…"
+24,442388620574728193,Sat Mar 08 19:57:21 +0000 2014,837,0,"RT @Mark_Levengood: Hemskt att tänka att om Linus Svenning och Ace Wilder fick ett barn skulle stackaren heta Anus Swider.  
+
+#mello2014"
+25,434397712772239360,Fri Feb 14 18:44:20 +0000 2014,0,0,“@MagnusHoflin: Alla träningar är inställda för att det är sportlov. Hmm... Borde vara tvärt om. #sportlov” #oxymoron
+26,427153737036353536,Sat Jan 25 18:59:21 +0000 2014,3183,0,RT @petdance: Sometimes open source software isn't the #1 priority in our lives. https://t.co/c6p187YOBN
+27,402706352532750336,Tue Nov 19 07:54:11 +0000 2013,0,0,The second #OS on a smartphone: http://t.co/UZAXUIS4zJ
+28,354136041009065984,Mon Jul 08 07:13:06 +0000 2013,0,0,Interoperable identity neXus blog: http://t.co/08DrbvFf4l by @erik_wahlstrom #scim #cisnapa
+29,351957404533002240,Tue Jul 02 06:55:58 +0000 2013,0,0,@hagero välkommen!
+30,344883558499905536,Wed Jun 12 18:27:02 +0000 2013,0,1,#Meteor sounds cool creating RIA applications talking JSON over websockets to speed things up and avoid heavy HTTP - http://t.co/vnkdZKt3UZ
+31,342907728571817984,Fri Jun 07 07:35:48 +0000 2013,0,0,new #ocsp #rfc out - http://t.co/99NncMkhaU
+32,339985919744540672,Thu May 30 06:05:34 +0000 2013,3,0,RT @TechnologyNexus: Nexus Symposium Day to day at Hotel Rival. So many speakers and information. Not least our Nexus Hybrid Gateway.
+33,337620351569764352,Thu May 23 17:25:39 +0000 2013,0,0,asm.js a low-level subset for js - http://t.co/B6lK5mCdpd
+34,334961061906223104,Thu May 16 09:18:35 +0000 2013,0,0,Välkommen på Stora Säkerhetsdagen 2013 - http://t.co/dlBEUvDtqj
+35,327360418601369600,Thu Apr 25 09:56:20 +0000 2013,0,0,Dutch DigiD e-signature system under DDoS attack #eid #ddos - http://t.co/kdgu1KRuv4
+36,320086873194262528,Fri Apr 05 08:13:52 +0000 2013,55,0,RT @mikko: Adam Caudill (@adamcaudill) stumbles upon ftp server containing latest AMI UEFI firmware AND the private signing key: http:// ...
+37,320073738236334080,Fri Apr 05 07:21:40 +0000 2013,0,0,@leBoef but Beavis is pretty rude so that's not a problem ;)
+38,320072902047305728,Fri Apr 05 07:18:21 +0000 2013,0,0,@leBoef pictures please!
+39,314672076285964288,Thu Mar 21 09:37:23 +0000 2013,1,0,RT @TechnologyNexus: Seminarium om vårt Common Access Card välbesökt och innehållsrikt. http://t.co/77G6hOL0ex
+40,314455134719598592,Wed Mar 20 19:15:21 +0000 2013,0,0,"RT @mikko Hey man, how come all Windows computers have to have a MAC address? Apple has way, way too much power..."
+41,309935100559249409,Fri Mar 08 07:54:20 +0000 2013,4,0,RT @hagero: Great to wake up as a CTO of a Gartner Magic Quadrant Leader. #iam #gartner #sucess
+42,307487332699881473,Fri Mar 01 13:47:47 +0000 2013,0,0,Shackturneringen är i full gång #nucce13 http://t.co/FDbGy6AF93
+43,303763373269585921,Tue Feb 19 07:10:06 +0000 2013,3,0,RT @TechnologyNexus: We have now made PortWise 4.11 available and its another great release with a lot of good SAML features for you.... ...
+44,301232444386988032,Tue Feb 12 07:33:06 +0000 2013,3,0,RT @Ungaakademin: Vår ledamot Erik Ingelsson deltar just nu i 'Innovation utopia' på Dramaten i Stockholm. http://t.co/zORAtO8t
+45,301221982748434433,Tue Feb 12 06:51:31 +0000 2013,7,0,RT @Cryptoki: Another #SSL visualization of CA hierarchies  http://t.co/4e7GgWXb
+46,299869138988433410,Fri Feb 08 13:15:48 +0000 2013,1,0,RT @serdtman: Internet Explorer causation http://t.co/SEqjzPOo
+47,299069109709176833,Wed Feb 06 08:16:46 +0000 2013,0,0,A #SCIM article in Dark Reading - http://t.co/ddEReBLi
+48,295284600278769664,Sat Jan 26 21:38:29 +0000 2013,0,0,@qocken du får gå tidigt;)
+49,294487484904132608,Thu Jan 24 16:51:02 +0000 2013,0,0,Maybe it's time to start doing something about this: T - 25 Years: http://t.co/JzLLoUGs
+50,293826237971963904,Tue Jan 22 21:03:28 +0000 2013,0,0,@erik_wahlstrom I'd prefer some nice Travolta authentication. #authchat
+51,293661502123171840,Tue Jan 22 10:08:52 +0000 2013,0,0,"#Selenium - Less Testing, More Coding - http://t.co/BjTNQEdF"
+52,292715114388393985,Sat Jan 19 19:28:16 +0000 2013,0,0,Tummen ner för Microsofts antivirus - Computer Sweden - http://t.co/zkO3og6b
+53,291810722776748032,Thu Jan 17 07:34:32 +0000 2013,0,0,The CloudBrowser Web Application Framework #mvc - http://t.co/UuR2P2RH
+54,291086566229696512,Tue Jan 15 07:37:00 +0000 2013,0,0,Svensk webbläsare för spårlösa surfare - #traceerase - http://t.co/uZWMLD8D
+55,289000641441964032,Wed Jan 09 13:28:16 +0000 2013,0,0,TIOBE Software: C is back on top - http://t.co/xwi4wxO7
+56,288994572317634561,Wed Jan 09 13:04:09 +0000 2013,15,0,RT @sleevi_: New version of the W3C Web Crypto API out - http://t.co/rCVxpjnm . Diff between drafts at http://t.co/jF8ljv7K
+57,288905684785958912,Wed Jan 09 07:10:57 +0000 2013,0,0,Oracle skrotar support för Java 6 - http://t.co/yvWYlsdZ
+58,288899829512413184,Wed Jan 09 06:47:41 +0000 2013,0,0,Ubuntu Phone OS Demonstration by Mark Shuttleworth at CES 2013 - http://t.co/1u4rKxgd
+59,282122764729593858,Fri Dec 21 13:58:03 +0000 2012,0,0,#TPM Toolkit for win8 - http://t.co/Y14UKtbe
+60,282122575402913793,Fri Dec 21 13:57:18 +0000 2012,0,0,#Kinect in IE using javascript - http://t.co/d9NrseBB
+61,279616600674553856,Fri Dec 14 15:59:27 +0000 2012,0,0,"Firefox fixes private browsing, chrome style - http://t.co/IsAJ6rRC"
+62,274185966653161473,Thu Nov 29 16:20:03 +0000 2012,0,0,RT @poptonten Åkesson säger ofta att det är lätt att raljera över SD. Så helt ute och cyklar är han ju inte.
+63,265466617729802241,Mon Nov 05 14:52:28 +0000 2012,0,0,"@sErdtman ""let ME play"" is enough for me"
+64,262947815922233346,Mon Oct 29 16:03:39 +0000 2012,3,0,RT @geekdotcom: Let them eat cake! Mozilla sends Microsoft a cake for shipping IE10: http://t.co/QTlWzGwq
+65,258881151769395200,Thu Oct 18 10:44:11 +0000 2012,0,0,Kaspersky utvecklar säkert operativsystem - http://t.co/IiMZ1mxc
+66,258073442258132992,Tue Oct 16 05:14:38 +0000 2012,0,0,Project Manager and/or Scrum Master - http://t.co/ffuDWhSX
+67,256339503457923073,Thu Oct 11 10:24:34 +0000 2012,0,0,Strulig utrullning av Firefox 16 - http://t.co/3Qv9M13f
+68,246645300612177921,Fri Sep 14 16:23:16 +0000 2012,0,0,@DagensHast Brabant finns även som tuja
+69,241533569133064192,Fri Aug 31 13:51:05 +0000 2012,9,0,RT @Netcraft: Governments and banks still using weak MD5-signed SSL certificates http://t.co/vo7DxBSi
+70,240409603937034240,Tue Aug 28 11:24:50 +0000 2012,0,0,@erik_wahlstrom I think you have to post some pictures!
+71,240042744414871552,Mon Aug 27 11:07:04 +0000 2012,4,0,RT @IT24se: Nexus köper PAS Card http://t.co/DlWn0CQ3 #IT24
+72,237869833402859522,Tue Aug 21 11:12:42 +0000 2012,0,0,"This is BIG: @erik_wahlstrom: ""@AndersPanders just started our 100th #sprint. That probably needs some kind of celebrations :)"""
+73,237838964847943680,Tue Aug 21 09:10:02 +0000 2012,0,1,Zach Holman shares insight on how they work on #GitHub - http://t.co/5QrLrpFA
+74,236148066242158592,Thu Aug 16 17:11:01 +0000 2012,0,0,RT @cmort SCIM 1.1 IETF Draft Posted:  http://t.co/DwrJuZa1
+75,236111190697324544,Thu Aug 16 14:44:29 +0000 2012,0,0,"Nintendo 64 emulator. In Javascript. http://t.co/fYc2TUaO"""
+76,236100219119480832,Thu Aug 16 14:00:53 +0000 2012,0,0,Microsoft Visual Studio 2012 now available for developers #msdev2012 - http://t.co/VJSn97wx
+77,235640136417804290,Wed Aug 15 07:32:41 +0000 2012,0,0,Adobe stops developing flash for android - http://t.co/Kzh0cE7v
+78,235638763282395136,Wed Aug 15 07:27:13 +0000 2012,0,0,#Netflix To Launch In Sweden In Late 2012 -  http://t.co/lUEgcnp3
+79,235293352629772288,Tue Aug 14 08:34:41 +0000 2012,0,0,Padding Oracle Attack description - http://t.co/ELnUGQWm
+80,235275054240382976,Tue Aug 14 07:21:58 +0000 2012,0,0,Some scary stuff from BlackHat 2012 | http://t.co/QZ8sIMRy
+81,235261601538785283,Tue Aug 14 06:28:31 +0000 2012,0,0,Javascript With No Letters or Numbers: Joey Tyson NoVa Hackers Oct 2010 - http://t.co/UxCD0TXA
+82,234916440048824320,Mon Aug 13 07:36:58 +0000 2012,18,0,"RT @dave_au: Using a wireless router to see through walls. http://t.co/jtMHiDk3
+I honestly didn't see this one coming."
+83,220809418760134656,Thu Jul 05 09:20:42 +0000 2012,0,0,MS vs Apple 1984-2012 - http://t.co/lide40fN
+84,220504068391571456,Wed Jul 04 13:07:21 +0000 2012,0,0,The Future Is Layered - http://t.co/lMuOViVE
+85,220456680402599937,Wed Jul 04 09:59:03 +0000 2012,0,0,What’s to love about C? - http://t.co/sJuNQH3r
+86,215085548270923777,Tue Jun 19 14:16:05 +0000 2012,10,0,"RT @travisspencer: OASIS is planning a ""major cleanup of the SAML 2.0 standard"" which will become v. 2.1 of the spec: https://t.co/QCQ2b3HE"
+87,214739431314292737,Mon Jun 18 15:20:44 +0000 2012,0,0,"Windows 8 secure boot cleared for Linux OS, $99 for #UEFI key -  http://t.co/SpbuPLAS"
+88,214738865557221378,Mon Jun 18 15:18:29 +0000 2012,0,0,#Dropbox skrotar publika mappar - http://t.co/yfsXuTMC
+89,213530611405688833,Fri Jun 15 07:17:19 +0000 2012,2,0,"RT @ltejas: Now i can transact online on my ICICI Bank account without mobile signal - from basements, while abroad. Steps here http://t ..."
+90,212813147009064960,Wed Jun 13 07:46:22 +0000 2012,0,0,"@DoktorBerg Lite tips, fokusera på musiken, skit i resten, då blir allt bra"
+91,212792085567385601,Wed Jun 13 06:22:41 +0000 2012,7,0,RT @johnwilander: This guy: daniel.rudolph@genion.de apparently thinks a publicly available email address means it's OK to send spam. We ...
+92,212496817542279168,Tue Jun 12 10:49:23 +0000 2012,0,0,Apparently #Flame is Lame -  http://t.co/ntPhM85B
+93,211089946411417600,Fri Jun 08 13:38:59 +0000 2012,0,0,Last FM tells users to change passwords after suspected hack - http://t.co/mLG6NLSx
+94,210984513935912961,Fri Jun 08 06:40:02 +0000 2012,0,0,En ny art som kallas blingon har upptäckts i Bohuslän. Den kännetecknas av läderartade blad och små plastdiamanter på stammen #fb
+95,209994935569612800,Tue Jun 05 13:07:48 +0000 2012,67,0,RT @mikko: Flame used a cryptographic collision in combination with the Terminal Server certificates to sign code as Microsoft: http://t ...
+96,209650637485514752,Mon Jun 04 14:19:41 +0000 2012,0,0,"Scrumodoro, hybrid agile technique - http://t.co/kGVfFQJU"
+97,209612610889457664,Mon Jun 04 11:48:35 +0000 2012,0,0,Höjd terrornivå för försvaret - http://t.co/oZzezJhS
+98,208560900951650306,Fri Jun 01 14:09:28 +0000 2012,0,0,RFC 6613 - #RADIUS over TCP - http://t.co/HIqrLZj5
+99,208559232017121280,Fri Jun 01 14:02:50 +0000 2012,0,0,#moonlight gives up - http://t.co/y7IRoVBT
+100,207740074815782912,Wed May 30 07:47:48 +0000 2012,0,0,Iphone secured with #biometrics (swe) - http://t.co/fN4rVbPp
+101,206476805249572864,Sat May 26 20:08:01 +0000 2012,0,0,"Kul att ""oh mama"" fick dammas av igen, denna gången var det norge, förra eric saade. #enkelspårigalåtskrivare #esc12"
+102,206461503824596992,Sat May 26 19:07:13 +0000 2012,0,0,Då var det dags för #esc12... Det kan rekommenderas att följa den på twitter. #fb
+103,205974680035786753,Fri May 25 10:52:45 +0000 2012,0,0,Lots of #TACK discussions - http://t.co/hcI3HWZb
+104,205741580416585729,Thu May 24 19:26:29 +0000 2012,0,0,Kul att följa #esc12 just nu.
+105,205593767254822912,Thu May 24 09:39:08 +0000 2012,0,0,RSA SecureID software token update - http://t.co/7s5SSjHB
+106,205576984032587776,Thu May 24 08:32:27 +0000 2012,0,0,SSL fix flags forged certificates before they’re accepted by browsers - http://t.co/CBJSkR5d
+107,205212796152066048,Wed May 23 08:25:17 +0000 2012,0,0,"Idag går det att spela på google doodle moog
+
+http://t.co/ubTPNDAg"
+108,204867749745405952,Tue May 22 09:34:12 +0000 2012,0,0,The Social Search experiment from Microsoft Research FUSE Labs - http://t.co/0U4jlJyX
+109,204595710295932929,Mon May 21 15:33:13 +0000 2012,0,0,Chrome more common than IE - http://t.co/vgKEVBcZ
+110,200895883833905154,Fri May 11 10:31:25 +0000 2012,0,0,Nu kan du hyra Macen i molnet #macinthecloud http://t.co/7NfdejK9
+111,200466455421124608,Thu May 10 06:05:02 +0000 2012,0,0,Intressant att experterna tycker att #obama tar en politisk risk när han visar medmänsklighet. #fb #svpol
+112,199760288252305409,Tue May 08 07:18:58 +0000 2012,10,0,RT @svtnyheter: Polarpriset går i år till Paul Simon och den kinesisk-amerikanska cellisten Yo-Yo Ma. #SVT
+113,199749757474840576,Tue May 08 06:37:08 +0000 2012,0,0,Chrome beats IE for a weekend  - http://t.co/vkslRk5w
+114,199491738748989441,Mon May 07 13:31:51 +0000 2012,0,0,Phishers mimic OpenID to steal credentials - http://t.co/LMisMoHA
+115,198339822681726976,Fri May 04 09:14:33 +0000 2012,0,0,Identity Protection That Really Clicks #ABBA- http://t.co/3wM7kfl6
+116,198329765869002752,Fri May 04 08:34:35 +0000 2012,0,0,Smart stay in Samsung Galaxy S III seems nice - http://t.co/44dozVJO
+117,198325765035663360,Fri May 04 08:18:41 +0000 2012,0,0,MI6 Codebreaker Attended U.S. Security Conference Before His Death - http://t.co/gFT2pcCu
+118,198091365329014785,Thu May 03 16:47:16 +0000 2012,0,0,Some pretty impressive #webgl - http://t.co/PKvOObvE
+119,197941253906763776,Thu May 03 06:50:47 +0000 2012,0,0,"How quantum cryptography works: And by the way, it's breakable | TechRepublic - http://t.co/fMl8YIZw"
+120,197643441813987330,Wed May 02 11:07:23 +0000 2012,1,0,RT @Rehnskan: Vem vill åka med detta bussbolag (från Ukraina)?  @ Lejonbacken http://t.co/YyGyGkvn
+121,197567286377332736,Wed May 02 06:04:46 +0000 2012,0,0,Det luktar sommar ute. #lycka #fb
+122,197566486938787840,Wed May 02 06:01:35 +0000 2012,0,0,"@sErdtman @erik_wahlstrom Ok, good luck then #gnuNotUnix ;-)"
+123,197562985194070018,Wed May 02 05:47:40 +0000 2012,0,0,@sErdtman @erik_wahlstrom so I assume it went well?
+124,197555949106499584,Wed May 02 05:19:43 +0000 2012,0,0,@erik_wahlstrom good luck
+125,196919846691274752,Mon Apr 30 11:12:04 +0000 2012,0,0,Firefox beta will support #SPDY by default - http://t.co/IYoSTn7o
+126,196850224856182784,Mon Apr 30 06:35:25 +0000 2012,23,0,"RT @t: ""no one uses the X in AJAX, XML, everyone uses JSON, but AJAJ doesn't roll off the tongue..."" - http://t.co/cP3UvvwS (ttk.me t4He3)"
+127,196843369845108736,Mon Apr 30 06:08:11 +0000 2012,0,0,"OK,@erik_wahlstrom, @sErdtman and @LOLarsson. I expect som serious tweeting. So keep us informed! Some nice hashtags to follow would be nice"
+128,195227423053332482,Wed Apr 25 19:06:59 +0000 2012,0,0,@hagero @alexanderlindho @sErdtman den sitter på väggen bredvid köket
+129,195165048837115906,Wed Apr 25 14:59:08 +0000 2012,0,0,@drsundstrom ser inte dumt ut alls!
+130,195129221893459969,Wed Apr 25 12:36:46 +0000 2012,0,0,@AlexanderLindho @sErdtman @hagero Tjusigt!
+131,195060396938362881,Wed Apr 25 08:03:17 +0000 2012,0,0,"RT @mikko ""Reverse"" SQL Injection Using HTTP Headers: http://t.co/hwmsRp1P 
+/via @LogRhythmLabs 
+#LittleBobbyTables"
+132,194453953696645120,Mon Apr 23 15:53:29 +0000 2012,0,0,"Playing with #browserid, managed to verify my first login..."
+133,193771083160231937,Sat Apr 21 18:40:00 +0000 2012,0,0,@1QVDala och floppy #twistadeletta
+134,193770973261070336,Sat Apr 21 18:39:34 +0000 2012,0,0,"@1QVDala nej, micke hälsar att den bara finns på minidisc #twistadeletta"
+135,193757655913869312,Sat Apr 21 17:46:39 +0000 2012,0,0,Micke Gidhagen undrar hur konvenancen egentligen går till. #twistadeletta
+136,193752433137156096,Sat Apr 21 17:25:54 +0000 2012,0,0,bäska! #twistadeletta
+137,192677571891179522,Wed Apr 18 18:14:47 +0000 2012,0,0,@erik_wahlstrom FYI: Lots of #scim talk at #eic12
+138,192491695475134465,Wed Apr 18 05:56:11 +0000 2012,153,0,RT @w3edge: It's out! Add SPDY support to your Apache server with mod_spdy http://t.co/yqw62w83
+139,190789617883168769,Fri Apr 13 13:12:44 +0000 2012,0,0,#HTML5 Security Resources Repository - http://t.co/cJzhO47j
+140,190449724006989824,Thu Apr 12 14:42:07 +0000 2012,0,0,@EricaAlinder Välkommen till twitter får man väl säga!
+141,189664501526835200,Tue Apr 10 10:41:55 +0000 2012,0,0,@sErdtman sounds fabulous
+142,187884710301663232,Thu Apr 05 12:49:40 +0000 2012,0,0,"Mac Flashback Trojan: Find Out If You're One of the 600,000 Infected - http://t.co/Lre2Lj5Q"
+143,187468107412025344,Wed Apr 04 09:14:14 +0000 2012,0,0,"""Apple har nyckeln till dina filer på iCloud"" - http://t.co/UCPtdeGa"
+144,187456832414023680,Wed Apr 04 08:29:26 +0000 2012,0,0,Citrix abandons OpenStack in favour of CloudStack - http://t.co/4s5HMkM8
+145,187424276620656641,Wed Apr 04 06:20:04 +0000 2012,0,0,Instagram for Android: http://t.co/nxH1pGGr
+146,187414464134529024,Wed Apr 04 05:41:04 +0000 2012,0,0,Where is the osx java update?!: http://t.co/qsf9Q6Rh
+147,187137352664231936,Tue Apr 03 11:19:56 +0000 2012,0,0,OAuth 2.0 Playground: new features -http://googledevelopers.blogspot.com/2012/03/oauth-20-playground-new-features.html
+148,186002800705155072,Sat Mar 31 08:11:38 +0000 2012,0,0,"China closes websites on coup rumors: 
+ Rumors of an impending coup in China led to the closure of sixteen sites... http://t.co/K6ijddzz"
+149,185682463320846337,Fri Mar 30 10:58:43 +0000 2012,0,0,Identity behaviour vs. identity authentication | http://t.co/p1aFIVJ7
+150,184888995698835457,Wed Mar 28 06:25:46 +0000 2012,0,0,"@sErdtman Ah, nice, shö mapell Anders"
+151,184880911114960896,Wed Mar 28 05:53:38 +0000 2012,0,0,"@sErdtman Please, share a pic will you?"
+152,184611125885800449,Tue Mar 27 12:01:36 +0000 2012,5,0,RT @erik_wahlstrom: The #SCIM interop will be held tomorrow in the conference room Corot at the Concorde La Fayette. #IETF83 @Technology ...
+153,184303295983136771,Mon Mar 26 15:38:24 +0000 2012,0,0,"RT @pernillarydmark Comparison of Open Source Licenses: http://t.co/SaCdsRUh 
+
+Just gotta love licensing"
+154,184279278647652352,Mon Mar 26 14:02:58 +0000 2012,0,0,skypeopensource - https://t.co/mRYLpKrl
+155,184168044107530240,Mon Mar 26 06:40:58 +0000 2012,0,0,Speed and Mobility: An Approach for HTTP 2.0 to Make Mobile Apps and the Web Faster - http://t.co/RBw9GIs8
+156,183112904659312640,Fri Mar 23 08:48:13 +0000 2012,0,0,Libreoffice Online kommer i april -http://cloud.idg.se/2.16150/1.439757/libreoffice-online-kommer-i-april
+157,182005694826946560,Tue Mar 20 07:28:33 +0000 2012,0,0,Fillös trojan upptäckt - http://t.co/Q633LCnS
+158,177305873520144384,Wed Mar 07 08:13:09 +0000 2012,1729,0,RT @alexqgb: The #Romney family misspells its own name in the world's most epic Freudian slip. http://t.co/a2K7xDYC
+159,176927813520195584,Tue Mar 06 07:10:52 +0000 2012,0,0,Useful Lesser Known Java Classes - http://t.co/jEVwV5ac
+160,176609260334088192,Mon Mar 05 10:05:03 +0000 2012,0,0,Mercurial vs Git: Why Mercurial? | Atlassian Blogs - http://t.co/QBjiF3P2
+161,170058809606291456,Thu Feb 16 08:15:54 +0000 2012,0,0,"Lots of duplicated RSA public keys, good #RNG is a must - http://t.co/ShHi1d3N"
+162,167593096119463936,Thu Feb 09 12:58:02 +0000 2012,0,0,Google Wallet PIN security cracked in seconds #NFC #fail - http://t.co/H9QPvQO4
+163,167244539663355905,Wed Feb 08 13:53:00 +0000 2012,256,0,RT @Jonas_Gardell: Reinfeldt förespråkar att vi byter karriär ”mitt i livet”. Förslag på yrken för våra äldre. A) Krocktestdockor. B) Mö ...
+164,166898203118149632,Tue Feb 07 14:56:47 +0000 2012,4,0,RT @PhysicalDrive0: Google Service - ClickJacking Vulnerability: http://t.co/hPCBD7MG
+165,166813643839778817,Tue Feb 07 09:20:46 +0000 2012,0,0,@sErdtman Guess we need to start a new IETF work group then...
+166,166792994186473472,Tue Feb 07 07:58:43 +0000 2012,0,0,#Mobile #HTML5 - http://t.co/owlEdhcT
+167,166779446454530048,Tue Feb 07 07:04:53 +0000 2012,0,0,Lots of #RPKI RFC's lately: http://t.co/wkS7MqOU
+168,165007620757929984,Thu Feb 02 09:44:17 +0000 2012,0,0,Mark Zuckerberg’s Letter to Investors: ‘The Hacker Way’ - http://t.co/ioMk2RId
+169,165006301372481536,Thu Feb 02 09:39:02 +0000 2012,0,0,RFC:6528: Defending against Sequence Number Attacks #tcp: http://t.co/QrPvTtml
+170,164640508029833217,Wed Feb 01 09:25:30 +0000 2012,2,0,"RT @johnwilander: Firefox's new developer tools looking awesome. Direct links to MDN, filter list of requests, search CSS, JS scratchpad ..."
+171,164351592815009792,Tue Jan 31 14:17:27 +0000 2012,0,0,Paris Metro brings a bit of style to NFC - http://t.co/cDd67j9o
+172,164247614248849409,Tue Jan 31 07:24:17 +0000 2012,0,0,Firefox 10 - http://t.co/EFCdlsgT
+173,164247070469931008,Tue Jan 31 07:22:07 +0000 2012,0,0,Office 365 öppnar för appar - http://t.co/y0SghItb
+174,163239240266817536,Sat Jan 28 12:37:22 +0000 2012,0,0,Only four more years to go until EU Copyright expires for 'Happy Birthday to You' and then we can all sing it for free! http://t.co/e6GHXNdi
+175,162834146375385088,Fri Jan 27 09:47:40 +0000 2012,0,0,@Rehnskan Grattis
+176,162532553729916928,Thu Jan 26 13:49:15 +0000 2012,0,0,Trojan with keylogger capturing PIN for #smartcards - http://t.co/njvZHSFR
+177,162453276829302786,Thu Jan 26 08:34:14 +0000 2012,0,0,new CMC profile RFC: http://t.co/YmP9JOmr
+178,162452927414403072,Thu Jan 26 08:32:50 +0000 2012,0,0,Firefox Javascript Engine Becomes Single Threaded -http://me.lt/51NBE
+179,162449965594058753,Thu Jan 26 08:21:04 +0000 2012,0,0,"Mozilla releases Rust 0.1, the language that will eventually usurp Firefox’s C++ | ExtremeTech - http://t.co/uYrnpMtJ"
+180,161708610643181568,Tue Jan 24 07:15:11 +0000 2012,0,0,Let's make TCP faster - http://t.co/bSSQa98B
+181,161460747786924032,Mon Jan 23 14:50:16 +0000 2012,0,0,"Simplicity, The Way of the Unusual Architect - http://t.co/hW2NoBkY"
+182,161415237378129920,Mon Jan 23 11:49:26 +0000 2012,0,0,More on bio authentication (swedish) - http://t.co/5ejz9GbY
+183,159667490048315392,Wed Jan 18 16:04:30 +0000 2012,0,0,Libreoffice Online -  http://t.co/Ur5t2KRi
+184,159173321991270401,Tue Jan 17 07:20:51 +0000 2012,0,0,Mac Malware Summary 2011 (Q2/Q3/Q4) - F-Secure Weblog : News from the Lab - http://t.co/u0d9hC2j
+185,159171299938279424,Tue Jan 17 07:12:49 +0000 2012,0,0,Google Account Authentication Using Your Phone - http://t.co/raoim1SW
+186,157791636221476864,Fri Jan 13 11:50:32 +0000 2012,0,0,Chinese 'attack US DoD smart cards' with Sykipot malware - http://t.co/C6cpdvWc
+187,157748445099212800,Fri Jan 13 08:58:54 +0000 2012,0,0,Revealing Project Naughtiness with Tattletale checking #jar dependencies - http://t.co/vqNrA833
+188,157739038055469057,Fri Jan 13 08:21:31 +0000 2012,0,0,Design exceptional Android apps - http://t.co/08tlxE7x
+189,157482253818150912,Thu Jan 12 15:21:09 +0000 2012,0,0,Apple Invents an Ingenious Security System for the iWallet Era - Patently Apple - http://t.co/kJf8QC15
+190,157468139867746306,Thu Jan 12 14:25:04 +0000 2012,0,0,"Jackson's Identity Management & Active Directory Reality Tour Travelblog: SCIM, PEX and what the par... - http://t.co/RfCpdx6b"
+191,157370332381057024,Thu Jan 12 07:56:25 +0000 2012,0,0,The New Windows 8 First Touch: - http://t.co/WnpCz5WZ
+192,156998879869538304,Wed Jan 11 07:20:24 +0000 2012,0,0,Kinect For Windows Releasing On February 1 - #musarm - http://t.co/bVMVIZtM
+193,156992823877566464,Wed Jan 11 06:56:20 +0000 2012,0,0,"Mozilla planerar släppa företagsversion av Firefox - 
+ http://t.co/MgpeFEvB"
+194,156706298384228352,Tue Jan 10 11:57:47 +0000 2012,0,0,Vita kränkta män – när humor skriver sig själv - http://t.co/POE1RcEw
+195,156671629848621057,Tue Jan 10 09:40:02 +0000 2012,0,0,BrowserID introduction - http://t.co/6fiF7iDy
+196,156279986662293504,Mon Jan 09 07:43:47 +0000 2012,0,0,"RT @jasontimbuktu Barnuppfostran är så 2011, 2012 kallar vi det brand management!"

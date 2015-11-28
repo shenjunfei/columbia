@@ -1,0 +1,313 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,667026348477652992,Wed Nov 18 17:07:28 +0000 2015,0,0,@ShopifyDevs Are the Shopify-specific Liquid filter/tag Ruby sources available anywhere? Stuff like the `money` filter etc.
+1,664069000842846208,Tue Nov 10 13:16:02 +0000 2015,0,0,"@JonthanFielding Turned out to be a DNS issue, I input the same DNS IPs that were in my phone on my Mac and now it's fine :)"
+2,663718053662875648,Mon Nov 09 14:01:29 +0000 2015,0,0,"@wesbos Loved it, you're teaching style is great, 3/4 of the way through I found myself writing a lot of code without the vid, thanks again!"
+3,663670454054465536,Mon Nov 09 10:52:21 +0000 2015,0,3,"Finished the React for Beginners video course - so good. After a lot of reading this helped a lot of things click, thanks again @wesbos!"
+4,656849801322110976,Wed Oct 21 15:09:30 +0000 2015,0,0,"@GarethJWood Hmm, not off the top of my head, I could put some feelers out though, what are you looking for exactly?"
+5,656812514303475712,Wed Oct 21 12:41:21 +0000 2015,0,0,"@GarethJWood Hey Gareth, unfortunately not, I'm fully booking up at the moment; I should really update my availability, sorry man."
+6,654247158250651648,Wed Oct 14 10:47:32 +0000 2015,0,0,@steve228uk I'm still on Yosemite dude.
+7,654246240834715648,Wed Oct 14 10:43:53 +0000 2015,0,1,"Macbook Air wifi painfully slow but all other devices connected (iPhones/iPad) are fine, anyone experienced this before?"
+8,649551005802037248,Thu Oct 01 11:46:42 +0000 2015,0,2,It turns out @Browsersync + WP dev is an absolute dream!
+9,644596556902043648,Thu Sep 17 19:39:29 +0000 2015,0,0,"@bret4dev @beatport Ah, thank you so much dude ✌️"
+10,644518542939947008,Thu Sep 17 14:29:29 +0000 2015,0,0,Anyone have any idea what product/service this icon represents? All I know is that it's a music purchase platform. http://t.co/7js3NTn1am
+11,640902590612525056,Mon Sep 07 15:00:59 +0000 2015,1,0,⭐️  Front-end developer? Have WordPress chops? Get in touch with → @DavidZinyama
+12,633247088004960256,Mon Aug 17 12:00:45 +0000 2015,0,0,"@tescomobilecare Tried that - says I need to top up, I'm abroad (permanently), I'm not topping up just to cancel my sim."
+13,633241451892207616,Mon Aug 17 11:38:21 +0000 2015,0,0,"@tescomobilecare No Cancellation option in the Nature of enquiry field, I select ""Other"" - it tells me to tweet you... again. Awesome work 👍"
+14,633233314762129408,Mon Aug 17 11:06:01 +0000 2015,0,0,"@tescomobilecare Hi guys, I need to cancel my 30 day contract sim, how do I go about this? App/website is useless when it comes to this..."
+15,629790361909612544,Fri Aug 07 23:04:57 +0000 2015,0,0,@TheEvilFrog 😀 ✌️
+16,626696034996064256,Thu Jul 30 10:09:12 +0000 2015,0,3,Front-end/WordPress devs: A client of mine (@DJ_BL3ND) needs a few simple changes to a WP theme. Anyone got the time to take this on?
+17,625969844345786368,Tue Jul 28 10:03:35 +0000 2015,0,0,@HugoGiraudel opacity: 50% ?
+18,625645318500184064,Mon Jul 27 12:34:02 +0000 2015,19,0,RT @csswizardry: ‘Web Design – The First 100 Years’ is an absolutely phenomenal read: http://t.co/KNoK8T7PNs h/t @mrmrs_
+19,623142989171453952,Mon Jul 20 14:50:40 +0000 2015,0,0,"@chriscoyier @alajarvela Ah yeah, all good now :)"
+20,623141710688878592,Mon Jul 20 14:45:35 +0000 2015,0,0,"@chriscoyier ""Error establishing a database connection"" ?"
+21,620939325065330688,Tue Jul 14 12:54:06 +0000 2015,0,1,"Thoroughly recommend this if you don't really ""get"" React:
+
+http://t.co/Et6LzXyDPK"
+22,612642276578177024,Sun Jun 21 15:24:35 +0000 2015,0,0,@_dte Document flow. Back in the day I used to absolutely position _every_ element on screen due to lack of understanding.
+23,611818961295044608,Fri Jun 19 08:53:02 +0000 2015,1,0,RT @freakdesign: The forum reminded me about this. @ShopifyDevs - we really need a replace_last filter. Current method is crazy. http://t.c…
+24,611632073221218305,Thu Jun 18 20:30:24 +0000 2015,0,0,"@MrQwest The awesome @csswizardry did something like this here, like that?
+
+http://t.co/YBltEyzvUd"
+25,607999658867191809,Mon Jun 08 19:56:29 +0000 2015,0,0,"Yep.
+
+Against CSS in JS:
+http://t.co/vPyOLm717k"
+26,607941707603263488,Mon Jun 08 16:06:12 +0000 2015,0,1,"Stoked to see this go live, all front-end and WP done by moi, design by the super talented @ayse_studio. https://t.co/Rg6FSXjB6z"
+27,606589932006735872,Thu Jun 04 22:34:44 +0000 2015,0,0,"@derekjohnson Rad! I've done something like that in the past too, handled it just like that and it worked a treat. :)"
+28,606564101876125699,Thu Jun 04 20:52:05 +0000 2015,1,0,"@derekjohnson :) The only thing it doesn't do which timthumb did is enlarge images, it can only make images smaller than the size set."
+29,606550374963507200,Thu Jun 04 19:57:33 +0000 2015,1,0,"@derekjohnson `add_image_size( $name, $width, $height, $crop );`?"
+30,606146496069836800,Wed Jun 03 17:12:40 +0000 2015,12,48,"@wesbos Nice, I like this approach too:
+
+&amp; + &amp; {
+  border-left: 1px solid;
+}"
+31,605411844069703681,Mon Jun 01 16:33:26 +0000 2015,0,0,"@elliotcondon and rely on local JSON to load them in - I won't need to edit the field settings again, I just need them loaded in. [2/2]"
+32,605411783550074881,Mon Jun 01 16:33:11 +0000 2015,0,0,"@elliotcondon Hey Elliot, ACF question: Once I've finished creating fields, can I delete them in the field group settings section [1/2]"
+33,605408411971424256,Mon Jun 01 16:19:48 +0000 2015,2972,0,RT @LoyaltyIsFirst: Muslims of the Arizona mosque invited the armed anti-Islam protestors to the mosque. This is what two protestors said h…
+34,605367466886344705,Mon Jun 01 13:37:05 +0000 2015,0,0,"@dbushell Heads up, this post doesn't show on your blog archive page (/blog/), Metalsmith issue maybe?"
+35,603642804854792192,Wed May 27 19:23:54 +0000 2015,1,0,"RT @ayse_studio: AYSE DESIGNZ is now @ayse_studio.
+
+New website launching in a couple of weeks. http://t.co/hv3yORjvGk"
+36,598876556304453632,Thu May 14 15:44:32 +0000 2015,0,0,"@TheEvilFrog Haha, honestly don't worry about it! Timing is a strange beast :)"
+37,592757796556374017,Mon Apr 27 18:30:46 +0000 2015,0,1,"Best post on WP Transients I've read, great stuff:
+
+https://t.co/KoHFSxaxdv"
+38,590894158874816512,Wed Apr 22 15:05:20 +0000 2015,0,0,"@tescomobilecare I'm not too sure about that one, isn't there a way one could be sent in the post?"
+39,590876021269856256,Wed Apr 22 13:53:16 +0000 2015,0,0,@tescomobilecare No I out right bought the device from somewhere else but I am on a sim only deal with you guys
+40,590866471317798912,Wed Apr 22 13:15:19 +0000 2015,0,0,"@tescomobilecare Hey guys, I currently have a micro SIM, need a nano now due to a phone upgrade, how do I go about this exactly? Cheers!"
+41,587613397191098368,Mon Apr 13 13:48:45 +0000 2015,0,0,"@JamesSLock Sorry to bug, any news on this?"
+42,586568474270560257,Fri Apr 10 16:36:36 +0000 2015,0,0,"@Keithamus Just read your npm as a build tool post, awesome stuff man! Any idea how I'd go about using assemble (https://t.co/4WKMZDeCmR)?"
+43,586505738677313536,Fri Apr 10 12:27:19 +0000 2015,0,0,"@_acthomas Yep, thought it was just me, getting a ""pop3: unable to fetch mail"" message sometimes too."
+44,585775828346265600,Wed Apr 08 12:06:55 +0000 2015,0,0,@gh0stparties cc/ @_martinwolf @tom_hirst @imgiseverything @paulund @PaulAdamDavis
+45,585774899836411904,Wed Apr 08 12:03:13 +0000 2015,1,0,"★ I have an Umbraco to WordPress theme project I'm too busy to take on, any WordPress devs keen? Get in touch with @gh0stparties"
+46,581457131121057792,Fri Mar 27 14:05:57 +0000 2015,0,1,"@Krogsgard I always make sure to whack it into this from Illustrator:
+
+https://t.co/jBmooyHlxL"
+47,580389850756620289,Tue Mar 24 15:24:58 +0000 2015,0,0,SVG + `currentColor` 😍
+48,575745988880691200,Wed Mar 11 19:51:55 +0000 2015,0,1,"@JamesSLock Email sent, thanks a lot dude!"
+49,575661174861139969,Wed Mar 11 14:14:54 +0000 2015,0,0,"@JamesSLock Just checking, did you ever see this?"
+50,573127086178734080,Wed Mar 04 14:25:20 +0000 2015,0,1,"@ifloydphotos Nah, doesn't look like that API is exposed anywhere :("
+51,572848303265734656,Tue Mar 03 19:57:33 +0000 2015,0,0,"@ifloydphotos Ahh right, I'm not sure about that, sorry I can't help!"
+52,572831050000416768,Tue Mar 03 18:48:59 +0000 2015,0,0,@ifloydphotos What do you mean by a future date?
+53,572715693478678528,Tue Mar 03 11:10:36 +0000 2015,0,0,"@ifloydphotos I did not. I can't actually remember what I wanted to know now, what are you trying to do with it?"
+54,570630010891046912,Wed Feb 25 17:02:51 +0000 2015,0,0,"@MissRachilli I always paste content which will be going into a RTE into sublime first, then copy/paste from sublime into the RTE :)"
+55,570227494391046145,Tue Feb 24 14:23:23 +0000 2015,49,0,"RT @joewalnes: URL animations!
+
+(Wish I'd thought of that)
+
+http://t.co/sOLh3slK7e"
+56,569905584629100544,Mon Feb 23 17:04:14 +0000 2015,0,0,"Ever struggled to explain to a designer that `&lt;select&gt;` elements can't match their design 100%? Check this article:
+
+http://t.co/ps330pDwg5"
+57,569556703072669696,Sun Feb 22 17:57:54 +0000 2015,0,0,"@NigelGreenway Dude it's awesome, scroll on one device and all other devices sync scroll position, too cool."
+58,569548484388491264,Sun Feb 22 17:25:15 +0000 2015,0,0,"@JamesSLock Hey man, I'm planning a move to Prague and if you've got a minute I'd like to ask a few questions (via email), is that okay?"
+59,569541475240947713,Sun Feb 22 16:57:23 +0000 2015,0,0,Why have I only just discovered @BrowserSync? My front-end Grunt workflow just got 10x better.
+60,568791003991314434,Fri Feb 20 15:15:17 +0000 2015,0,3,"The new @DJ_BL3ND store is live! My first Big Cartel theming dev project, was a fun one (design by @aysedesignz):
+
+http://t.co/zocdtbp0jO"
+61,567365314829385728,Mon Feb 16 16:50:06 +0000 2015,0,0,@TheEvilFrog Afraid not Liv! Still in the world of the web (and loving it) :)
+62,566621056241520640,Sat Feb 14 15:32:41 +0000 2015,0,0,"My new favourite WP function: `wp_list_pluck()`, saves a ton of time.
+
+http://t.co/jexJDBQiu4"
+63,566579275139018752,Sat Feb 14 12:46:40 +0000 2015,0,0,@_JayGeorge Haha yeah :) static widths on buttons is something satan himself invented!
+64,566558110576562176,Sat Feb 14 11:22:34 +0000 2015,0,0,@_JayGeorge What about `width: 100%`?
+65,564835556832837632,Mon Feb 09 17:17:45 +0000 2015,1,1,"Bookmarked, nice to have all this info in one place:
+
+""Responsible Social Share Links"" - https://t.co/MEdn5pXoEx"
+66,564522813089136640,Sun Feb 08 20:35:01 +0000 2015,0,0,"@Cawaza Haha yessss, this! Andy Samberg is the man"
+67,563776553696628736,Fri Feb 06 19:09:39 +0000 2015,0,0,@scott_riley Nailed. It.
+68,563397272956710913,Thu Feb 05 18:02:31 +0000 2015,0,0,"@HugoGiraudel Hi Hugo, I'm planning a move to Prague. If you've got a minute or two I'd like to ask a few questions (via email), that okay?"
+69,562983230148997121,Wed Feb 04 14:37:16 +0000 2015,0,0,@marcelosomers Utility/helper classes?
+70,562974638553464833,Wed Feb 04 14:03:08 +0000 2015,0,0,@dbushell Nicely put!
+71,562974538670276610,Wed Feb 04 14:02:44 +0000 2015,30,0,"RT @dbushell: ★ Blogged: “I don’t do Angular, is that OK?” http://t.co/DhMwji40QX"
+72,561253745536036864,Fri Jan 30 20:04:55 +0000 2015,0,2,"It's crazy how accurate this is (for me anyways):
+
+The JavaScript Learning Ladder
+
+http://t.co/RLJ0egjPxB"
+73,561223354615889920,Fri Jan 30 18:04:09 +0000 2015,0,0,"@amberweinberg @JBasoo @droob Each to their own :) whatever works best for your workflow, that's the most important thing"
+74,561214965072535553,Fri Jan 30 17:30:49 +0000 2015,0,0,"@JBasoo Yeah true, but only when experimenting. This kind of stuff should never make it to production. Checking the output CSS isn't hard"
+75,561213277343322113,Fri Jan 30 17:24:06 +0000 2015,0,1,"@amberweinberg @droob This is what happens when a shitty dev discovers a pre-processor; blame the author, not the tool."
+76,561194381194301440,Fri Jan 30 16:09:01 +0000 2015,1,2,"I'm a big fan of CSS only modals using the `:target` selector:
+
+Good write up from @SaraSoueidan:
+
+http://t.co/CY7oLV2KAX"
+77,560481719405793282,Wed Jan 28 16:57:09 +0000 2015,0,0,@PaulAdamDavis Good stuff! Could be made a little DRY-er by by setting the `img` width/height to 100% no?
+78,560480838010540032,Wed Jan 28 16:53:39 +0000 2015,0,0,"@PaulAdamDavis To make sure the image can still be right clicked &amp; saved etc, hide the `&lt;img/&gt;` with just opacity: http://t.co/OWrlDlSvj7 :)"
+79,560246929456893952,Wed Jan 28 01:24:11 +0000 2015,0,0,@ArleyM Ha! That's amazing.
+80,560242013145411584,Wed Jan 28 01:04:39 +0000 2015,0,0,"@ArleyM I've come across quite a few inconsistencies between Chrome and iOS Chrome in the past, usually stuff to do with fixed positioning"
+81,560204411000344576,Tue Jan 27 22:35:14 +0000 2015,0,0,"@ArleyM Isn't that the same question as asking if there's a point to testing responsiveness on desktop Chrome, Firefox etc?"
+82,559771035097001984,Mon Jan 26 17:53:09 +0000 2015,0,0,@charlespeters All the classes! Makes it so much more manageable
+83,559770064757743616,Mon Jan 26 17:49:18 +0000 2015,0,0,"@charlespeters It bugs me so much, you can't write CSS based off a coincidental HTML structure!"
+84,559766985794674689,Mon Jan 26 17:37:04 +0000 2015,0,0,"Large sites where the global header is styled via `header {}`, say bye to using the `header` element again. Devs: Classes are your friend!"
+85,559746476885438465,Mon Jan 26 16:15:34 +0000 2015,0,0,"@jdlich Ha, yup! 221 characters long, I wanna know what was going through the devs mind as that was being typed"
+86,558987854542827522,Sat Jan 24 14:01:04 +0000 2015,1,0,"Really interesting stuff:
+
+""The 2014 CSS Report: Examining how CSS is being used in the wild""
+
+http://t.co/CFmDoWXU1m"
+87,557637232266596352,Tue Jan 20 20:34:11 +0000 2015,0,0,"@TheEvilFrog Ah forgot about the support bit, but yeah true, making $5mil for a WordPress theme! Wonder how much ThemeForest saw from that"
+88,557634510700167168,Tue Jan 20 20:23:22 +0000 2015,0,0,"@TheEvilFrog Jheez! Thats absolute madness. I've never gave it much thought, mainly due to the competition (amount of multi-purpose themes)"
+89,557625158849273858,Tue Jan 20 19:46:12 +0000 2015,2,1,"Feeling overwhelmed? Watch this:
+
+Gigapixels of Andromeda [4K]
+
+https://t.co/5o58wVVkIk"
+90,557540809873305601,Tue Jan 20 14:11:02 +0000 2015,0,0,"@tom_hirst Brill, cheers for that bud!"
+91,557537590996643840,Tue Jan 20 13:58:14 +0000 2015,0,0,@tom_hirst I've availability if you need someone with WP chops to pass it onto? :)
+92,557321008718557187,Mon Jan 19 23:37:37 +0000 2015,0,0,@derekbender @Dropbox I don't think it ever was available for whole folders?
+93,557318960488906753,Mon Jan 19 23:29:29 +0000 2015,0,0,"@derekbender @Dropbox Try right clicking on the file in Finder and clicking ""View Previous Versions"""
+94,557172312341241857,Mon Jan 19 13:46:45 +0000 2015,0,0,"@0100 Hey Mark, shoot me an email and let me know what you need: yo@tomblanchard.co.uk"
+95,556441022772019200,Sat Jan 17 13:20:52 +0000 2015,0,1,@JamesSLock @simpleasmilk Yep yep yep
+96,555105079045664768,Tue Jan 13 20:52:18 +0000 2015,2,0,RT @LukesBeard: Read @ShaunKing's tweets right now.
+97,554996500699561984,Tue Jan 13 13:40:51 +0000 2015,0,0,"Ridiculously cool:
+
+Gotham 7.5K A Rare High Altitude Night Flight Above NYC
+
+https://t.co/1253iLkAYf"
+98,554788754771431424,Mon Jan 12 23:55:21 +0000 2015,0,1,"@jdlich Ooo, did not think of that, thank you squire!"
+99,554639346272583682,Mon Jan 12 14:01:39 +0000 2015,0,1,"@HugoGiraudel Hey Hugo, having an issue with Sass escaping unicode stuff, any idea how it can work? http://t.co/sE9kJlwmIQ"
+100,554371924118495233,Sun Jan 11 20:19:01 +0000 2015,0,0,"Shopify's template include parameters are so limited, it'd be cool if they handled it the same way Jekyll does: {% include file param="""" %}"
+101,553180671494340608,Thu Jan 08 13:25:24 +0000 2015,0,0,"@TransferWise Doesnt help for USD to GBP ""We only offer the specific amount feature for transfers from EUR, GBP, RON, TRY, HUF, CZK, and GEL"
+102,553170359865077760,Thu Jan 08 12:44:25 +0000 2015,0,0,"@TransferWise ...Could you elaborate on that? It makes me a bit cautious, isn't the whole point of TW to know what fees will be charged?"
+103,553169849149816833,Thu Jan 08 12:42:24 +0000 2015,0,0,"@TransferWise Hi again, ""TransferWise cannot make payments where a specific amount reaches the recipient, when making transfers from USD""..."
+104,552977090711416832,Wed Jan 07 23:56:26 +0000 2015,0,0,@TransferWise Rad! Thanks for getting back to me so fast
+105,552974073308151809,Wed Jan 07 23:44:27 +0000 2015,0,0,"@TransferWise Hi guys, is there a minimum payment amount when sending funds from US to UK? Sure it used to be $1000 min. Has this changed?"
+106,552865461071667201,Wed Jan 07 16:32:52 +0000 2015,1,0,"Sass Guidelines, a styleguide for writing sane, maintainable and scalable Sass by @HugoGiraudel —  http://t.co/0s6HtXrOS1"
+107,552850022833078272,Wed Jan 07 15:31:31 +0000 2015,0,0,"Really enjoying writing cleaner JS, pretty proud of this JS I'm writing for my #Shopify theme starting point:
+
+https://t.co/auEQU3Om7q"
+108,552485919887204353,Tue Jan 06 15:24:42 +0000 2015,0,0,"JS people: Trying to up my JS game, wanna help me out with a problem I'm having?
+
+http://t.co/GFCZVFZuP7"
+109,552472488471707648,Tue Jan 06 14:31:20 +0000 2015,329,0,"RT @HugoGiraudel: Game on, folks! @SassCSS guidelines, just for you: http://t.co/8ybeXdBOFY."
+110,552193294743396352,Mon Jan 05 20:01:55 +0000 2015,0,0,"@chadtomkiss Aha, was that the Return To Energiser tour? They played my hometown! It was awesome"
+111,552191115206881280,Mon Jan 05 19:53:15 +0000 2015,0,0,@chadtomkiss This just made me realise that I first saw them in 2009! That's insane
+112,551398725109964800,Sat Jan 03 15:24:35 +0000 2015,0,1,"Been working on a solid Shopify theme starting point lately, complete with a simple product quick-view abstraction:
+
+https://t.co/YcFAY3lNqU"
+113,547535288537743360,Tue Dec 23 23:32:40 +0000 2014,0,0,And staying away from anonymous functions.
+114,547535107184406528,Tue Dec 23 23:31:56 +0000 2014,0,2,The key to good Javascript: Break everything into as many functions and variables as possible.
+115,547039887338516481,Mon Dec 22 14:44:07 +0000 2014,0,0,"@tomblanchardCSS I hate seeing mobile-first CSS which only has min-width media queries, it's okay to use max-width too when it makes sense!"
+116,547039480201613312,Mon Dec 22 14:42:30 +0000 2014,0,0,"I've been wanting to write about this for a while, but looks like someone beat me to it, hit the nail on the head:
+
+http://t.co/7uFsyZGlLU"
+117,546739816067768320,Sun Dec 21 18:51:44 +0000 2014,0,1,"If you're using grunt-contrib-sass and `sourcemap: 'none'` isn't working, try `'sourcemap=none': true` instead."
+118,546379735652401152,Sat Dec 20 19:00:54 +0000 2014,0,1,"The potential shift of writing CSS when it comes to Web Components, really interesting stuff:
+
+http://t.co/oYpRQ2RaHe"
+119,546365192729526273,Sat Dec 20 18:03:07 +0000 2014,0,0,"This helped a lot with getting my head around Flexbox and its confusing syntax, thanks to @cwrightdesign:
+
+http://t.co/UtYTCShdj9"
+120,545950579504480257,Fri Dec 19 14:35:36 +0000 2014,0,0,Is there an SVG workflow when you're building a site from JPG/PSD design files provided?
+121,545691061482700800,Thu Dec 18 21:24:22 +0000 2014,0,1,"Just finished the hefty Ruby on Rails Tutorial book. The learning curve is pretty big but Rails is so nice:
+
+https://t.co/CGzpnc4GX0"
+122,543072966871760896,Thu Dec 11 16:00:59 +0000 2014,0,0,"This Shopify theme workflow looks pretty cool, using Git and setting it to deploy on every commit / push:
+
+http://t.co/Yax8fqyeNG"
+123,542416913502973952,Tue Dec 09 20:34:04 +0000 2014,0,0,"Learning Rails, so many security checks when it comes to back-end dev!"
+124,542382308871794688,Tue Dec 09 18:16:34 +0000 2014,0,0,"TIL: In Terminal, typing `!!` runs the last command again"
+125,542330491731705858,Tue Dec 09 14:50:39 +0000 2014,0,0,"@welovetheweb December availability over here my friend, give me a shout at yo@tomblanchard.co.uk :)"
+126,542027612399607808,Mon Dec 08 18:47:07 +0000 2014,0,0,@shopifycustom Just shot you guys an email :)
+127,541596626784370688,Sun Dec 07 14:14:32 +0000 2014,0,0,"Quick Instagram feed (jQuery-dependent):
+
+https://t.co/d7ZIcjWCov"
+128,540977002157973506,Fri Dec 05 21:12:22 +0000 2014,0,0,"@amberweinberg ...the `single-artist.php` ""videos"" section it displays all the videos attached to the artist."
+129,540976963054469120,Fri Dec 05 21:12:13 +0000 2014,0,0,"@amberweinberg ...acted as an artist ""profile"" page which had a ""videos"" section, I needed to be able to attach videos to artists. So on..."
+130,540976910667628544,Fri Dec 05 21:12:01 +0000 2014,0,0,"@amberweinberg Ive used the Relationship field on a site before where there were two post types ""Artist"" and ""Video"", `single-artist.php`..."
+131,540971941327556610,Fri Dec 05 20:52:16 +0000 2014,0,0,"@amberweinberg I think the difference is that Post Object only allows you to relate one post to another post, Relationship is one to many"
+132,540971424148905986,Fri Dec 05 20:50:12 +0000 2014,0,0,"@jesseinman Hey Jesse, Front-ender here with an empty work schedule from tomorrow onwards, what do you need? :)"
+133,540961599100833792,Fri Dec 05 20:11:10 +0000 2014,0,0,@charlespeters All the side projects!
+134,540959891176054785,Fri Dec 05 20:04:23 +0000 2014,0,0,"@charlespeters Ah man, sucks, congrats on the new job though!"
+135,540959441362092032,Fri Dec 05 20:02:36 +0000 2014,0,0,@charlespeters How come you're stopping?
+136,540944317490401280,Fri Dec 05 19:02:30 +0000 2014,0,0,"@amberweinberg Oo, thank you muchly :)"
+137,540266964225384450,Wed Dec 03 22:10:56 +0000 2014,0,0,"@StuRobson Great find! I was thinking about writing my own custom walker for this earlier too, awesome"
+138,540207913206571008,Wed Dec 03 18:16:17 +0000 2014,0,0,"@amberweinberg I've pretty much got the whole of December free, so if you know of anyone needing stuff done now I'm happy to help :)"
+139,536152911194365952,Sat Nov 22 13:43:09 +0000 2014,0,0,"Why have I only just learnt about the WP Transients API? Makes external API JSON request caching so easy!
+
+http://t.co/wjpX5wkosh"
+140,535834097567162368,Fri Nov 21 16:36:18 +0000 2014,0,0,"If you have no idea what to charge as you're day rate, is using something like this silly?
+
+http://t.co/9diVaXBlFc"
+141,535570768823066624,Thu Nov 20 23:09:56 +0000 2014,0,0,"@BurningPoint I've availability starting next week so I could help out, ping me at: yo@tomblanchard.co.uk :)"
+142,534802865462984704,Tue Nov 18 20:18:33 +0000 2014,1,1,"I blogged earlier today, check it:
+
+""Using cropped (1:1 - square) product images in Shopify themes""
+
+http://t.co/imB1KggzlN"
+143,534693093346660352,Tue Nov 18 13:02:22 +0000 2014,0,0,"★ I blogged about an undocumented feature I discovered whilst working on a Shopify theme project:
+
+http://t.co/imB1KggzlN"
+144,534358972963520512,Mon Nov 17 14:54:41 +0000 2014,0,0,"@csswizardry Yes! Thanks a bunch Harry, you rock!"
+145,534347128441958400,Mon Nov 17 14:07:37 +0000 2014,0,0,"@csswizardry Makes sense, thanks! Just updated it to hide the img with 0 opacity so the image can still be saved etc http://t.co/IhZN1gVO3S"
+146,534340550355587072,Mon Nov 17 13:41:29 +0000 2014,0,0,"@csswizardry Hey Harry, was just wondering what your opinion on doing something like this is? Is it accessible etc? http://t.co/IhZN1gVO3S"
+147,534327170639069184,Mon Nov 17 12:48:19 +0000 2014,0,0,"@braunshizzle Hey Braunson, I've got availability starting next week so I could help out, shoot me an email: yo@tomblanchard.co.uk :)"
+148,533940596528787456,Sun Nov 16 11:12:13 +0000 2014,0,1,"Is the public Shopify JSON API documented anywhere, eg http://t.co/yaRsquEhOr ? // @Shopify @ShopifySupport @ShopifyDevs @ShopifyPartners"
+149,533700448612388864,Sat Nov 15 19:17:57 +0000 2014,0,0,"This produces:
+
+.el.el {
+  //
+}"
+150,533700312344035329,Sat Nov 15 19:17:24 +0000 2014,0,1,"Great Sassy way to easily double up selector specificity without repeating selectors:
+
+.el {
+  @at-root #{&amp;}#{&amp;} {
+    //
+  }
+}"
+151,532305691533668354,Tue Nov 11 22:55:41 +0000 2014,0,0,"@ShopifyDevs Is the public JSON API documented anywhere, eg http://t.co/wjTnAbjluX ?"
+152,531916661130285057,Mon Nov 10 21:09:49 +0000 2014,0,0,@amberweinberg Are the border styles on the actual `&lt;img&gt;` elements? If so try wrapping them with `&lt;div&gt;`s and setting the styles on those
+153,530784060218826752,Fri Nov 07 18:09:16 +0000 2014,0,0,"@wez Depending on what type of partnership you mean, I could maybe help out if you're looking for freelance developers?"
+154,530728225685925888,Fri Nov 07 14:27:24 +0000 2014,3,6,Looking for new front-end dev and / or WordPress / Shopify theming projects to work on over the next month. RTs appreciated :)
+155,527216892944322561,Tue Oct 28 21:54:37 +0000 2014,0,0,@tzvister @Lostmynamebook Perhaps I could lend a helping hand? :)
+156,527205701610123264,Tue Oct 28 21:10:08 +0000 2014,1,0,"Just read @toddmotto's 10,000 word @angularjs guide, web app dev looks like something I need to get into, fun!
+
+http://t.co/NQO9MFUZaE"
+157,523807056286191617,Sun Oct 19 12:05:08 +0000 2014,0,0,@smilinmonki666 That's what documentation is for :) https://t.co/coHs8WCBLO
+158,523586203447480320,Sat Oct 18 21:27:33 +0000 2014,0,1,...Helps a lot when dealing with full screen modals which need their own isolated scroll without affecting the original viewport scroll pos
+159,523585982768369664,Sat Oct 18 21:26:40 +0000 2014,0,1,"TIL: As well as removing scroll, `overflow: hidden` on `body` causes the page to scroll to the top. Setting it on `html` instead does not"
+160,523544133785616385,Sat Oct 18 18:40:23 +0000 2014,0,1,Cheers to @lmartins for this: https://t.co/Lmt1zF6psA :)
+161,523543938624671744,Sat Oct 18 18:39:36 +0000 2014,0,0,"Sass mixin aliases are the one, typing `@include mq(...) {}` instead of `@include media-query(...) {}` makes things so much nicer!"
+162,522832370466975744,Thu Oct 16 19:32:05 +0000 2014,0,0,"@HugoGiraudel Nevermind, answered my own question :)
+
+@if str-index( 'string', 'stufff' ) { }"
+163,522818606011514881,Thu Oct 16 18:37:23 +0000 2014,0,0,"@HugoGiraudel Hey Hugo, any idea if it's possible with Sass to check if a string contains another string?
+
+@if 'string' contains 'stuff' { }"
+164,518477884273721346,Sat Oct 04 19:08:55 +0000 2014,0,0,"Finally using the `counter-reset` &amp; `counter-increment` CSS properties in a real-life project, fun!"
+165,518370747627372544,Sat Oct 04 12:03:11 +0000 2014,0,0,"@nenadjelovac @goschevski @csswizardry Ah nice catch, not a huge deal if you're being very modular though"
+166,518082364078317568,Fri Oct 03 16:57:15 +0000 2014,0,0,"Nice little marketing site site I did the front-end dev on launched earlier, design by @derekbender:
+
+http://t.co/LNcihxedKD"
+167,517754566583271424,Thu Oct 02 19:14:42 +0000 2014,0,1,"@csswizardry Hey Harry, hope you're good. Any idea how stable it is to remove `inline-block` whitespace like this:  http://t.co/wMjD7AyBvQ ?"
+168,517751391331549185,Thu Oct 02 19:02:05 +0000 2014,0,1,"Just had to implement a favicon that works on every device imaginable for the first time, http://t.co/4Bjnjrrozp made it a breeze!"
+169,516899627459969025,Tue Sep 30 10:37:29 +0000 2014,0,0,@RobSterlini Sure :) http://t.co/4FxqXHi8AG
+170,516889917340008448,Tue Sep 30 09:58:54 +0000 2014,0,0,@RobSterlini I'm on Mac too dude. OS X 10.9.5 Chrome latest
+171,516711274865246209,Mon Sep 29 22:09:02 +0000 2014,0,0,"@charlespeters Ah right I see the confusion, but any valid CSS selector (including comma separated selectors) is a valid JQ selector :)"
+172,516710655307821056,Mon Sep 29 22:06:34 +0000 2014,0,0,"@charlespeters $( '.one, .two, .three' ) ?"
+173,516656112817680384,Mon Sep 29 18:29:51 +0000 2014,3,0,RT @estellevw: http://t.co/6RMpzQ1gWT  The specificity of selector doesn't matter when it comes to animations.
+174,516654367710380032,Mon Sep 29 18:22:54 +0000 2014,0,0,@RobSterlini Really nice dude! Can I ask why you've gone for `overflow: scroll` instead of auto on the nav? The scrollbar always shows atm
+175,516636622369333248,Mon Sep 29 17:12:24 +0000 2014,0,0,@JamesSLock Yeah that'd be cool to see how you've gone about it. The way I've done it doesn't like the form inputs being focussed on in iOS
+176,516634184111374337,Mon Sep 29 17:02:42 +0000 2014,0,0,"@JamesSLock ...isolated overflow/scrolling, easy on desktop, horrible to get working on mobile, keeping the original page scroll pos etc."
+177,516634155191656448,Mon Sep 29 17:02:35 +0000 2014,0,0,"@JamesSLock ...full screen fixed modal containing a form (few text inputs, textarea and submit) the modal needs to have it's own isolated..."
+178,516634123071668225,Mon Sep 29 17:02:28 +0000 2014,0,0,"@JamesSLock Something that has recently stumped me: Single page site (lots of sections, lots of scrolling), has a button which opens a..."
+179,515871733363277825,Sat Sep 27 14:33:00 +0000 2014,0,0,"@zomigi I pretty much learnt everything I know from @chriscoyier and @csswizardry, thanks again fellas!"
+180,515579169229787136,Fri Sep 26 19:10:27 +0000 2014,0,1,"@scott_riley You into the new stuff (Suspension of Consciousness)? I'm not digging the new vocalist, Scatter The Ashes is gold tho"
+181,515278496290328576,Thu Sep 25 23:15:41 +0000 2014,0,0,@SaraSoueidan Awesome :) looks like an interesting bug
+182,515238669742272513,Thu Sep 25 20:37:26 +0000 2014,0,0,"@SaraSoueidan Hmm, it's just that both versions are inline SVG, one just uses the `&lt;symbol&gt;`/`&lt;use/&gt;` method. That's what's throwing me off."
+183,515171872976424960,Thu Sep 25 16:12:00 +0000 2014,0,0,"@DavidDarnes @chriscoyier @SaraSoueidan Really no idea, why would that cause this effect though?"
+184,515158868230668288,Thu Sep 25 15:20:20 +0000 2014,0,0,@tomblanchardCSS // @chriscoyier @SaraSoueidan
+185,515158765025656833,Thu Sep 25 15:19:55 +0000 2014,1,0,"SVG people, does anyone know why this happens?
+
+http://t.co/gmiTTNWWYi"
+186,515141055499730944,Thu Sep 25 14:09:33 +0000 2014,1,0,Best way to handle a custom full-screen modal window which needs vertical scrolling without interrupting the actual window scroll?
+187,514362453611012096,Tue Sep 23 10:35:39 +0000 2014,0,0,@aysedesignz Rad!
+188,514362376452587520,Tue Sep 23 10:35:21 +0000 2014,1,0,RT @aysedesignz: New photography work for wonderworkerdenimlab. Visit http://t.co/DHGlMEd591 to view the full… http://t.co/kvb6ZT9qyT
+189,514110177004773376,Mon Sep 22 17:53:12 +0000 2014,0,1,"First time properly using and implementing SVG, I love it so much!"
+190,512345019366531072,Wed Sep 17 20:59:06 +0000 2014,0,0,@derekbender Congrats man!
+191,511932964813688834,Tue Sep 16 17:41:44 +0000 2014,0,0,"@_JayGeorge I recently had to do this, as a child element was triggering an effect on the parent, still felt filthy though."
+192,511225248017309696,Sun Sep 14 18:49:31 +0000 2014,0,0,"@scott_riley Mmm, pls"
+193,511224289207787520,Sun Sep 14 18:45:43 +0000 2014,0,1,"@scott_riley Yes! The acoustic stuff too, dudes got a voice of an angel man"
+194,511186780801224704,Sun Sep 14 16:16:40 +0000 2014,0,0,"My favourite:
+
+.wrapper {
+  width: 90%;
+  max-width: 1200px; // Arbitrary no
+  margin-left: auto;
+  margin-right: auto;
+}"
+195,510427307962798080,Fri Sep 12 13:58:48 +0000 2014,0,0,"Also, no more having to deal with custom control classes for simple things like a textarea input, awesome!"
+196,510426493684830208,Fri Sep 12 13:55:34 +0000 2014,0,1,"Updated my WP theme boilerplate sample customizer with the new 4.0 stuff, the `add_panel` API is cool:
+
+https://t.co/Ei7UO5djLi"
+197,510190187176275968,Thu Sep 11 22:16:34 +0000 2014,0,0,"Late to the party but WP 4.0 includes some awesome updates to the customizer:
+
+http://t.co/hrLO5Z1lzp"
+198,510119145447620608,Thu Sep 11 17:34:16 +0000 2014,0,0,"Something I've never thought of, but such an interesting idea:
+
+http://t.co/c3cSh812rT"
+199,509667286433939456,Wed Sep 10 11:38:44 +0000 2014,0,0,"A little WP theme project I worked on (front-end / WP dev) for @dkennedyphoto's new blog (design by Dan):
+
+http://t.co/hhhDA0duxz"

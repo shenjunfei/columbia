@@ -1,0 +1,263 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668901573406363648,Mon Nov 23 21:18:57 +0000 2015,0,0,"My impression: #JavaFX gained ground:
+When to use JavaFX instead of HTML https://t.co/MK8VZlMrjN via @dlemmermann"
+1,668888866582093825,Mon Nov 23 20:28:27 +0000 2015,0,0,Should Oracle Spring Clean JavaFX? https://t.co/NvxQzRlkue via @DZone
+2,668095840049889280,Sat Nov 21 15:57:15 +0000 2015,146,0,"RT @RichRogersHDS: ""Programmers spend the first 5 years of their career mastering complexity, and the rest of their lives learning simplici…"
+3,667818891536523264,Fri Nov 20 21:36:45 +0000 2015,88,0,"RT @ActionComplete: The most dangerous risk of all - the risk of spending your life not doing what you...
+#quotes #motivation #action https…"
+4,666504371132305408,Tue Nov 17 06:33:19 +0000 2015,4,0,RT @jmugan: You know it's a bad day when it ends with a post to StackOverflow and a cheap glass of wine.
+5,665598126024220672,Sat Nov 14 18:32:14 +0000 2015,0,0,10 Things to Do After Installing Linux Mint 17.2 | https://t.co/IZoFzqTOv7 https://t.co/KlDA0zHzCE
+6,665287603315449856,Fri Nov 13 21:58:19 +0000 2015,1,1,Coole Sache! https://t.co/Lhj6obTV15
+7,664192078465933312,Tue Nov 10 21:25:06 +0000 2015,11,0,RT @cpurdy: Java is no longer even in the top 10 .. https://t.co/r5SxI0cjY6 .. and that's a good thing!
+8,664131897036001280,Tue Nov 10 17:25:57 +0000 2015,1,1,Frankfurter Sonnenuntergang. https://t.co/l1P9FMgwRt
+9,663616945548369920,Mon Nov 09 07:19:43 +0000 2015,186,0,RT @abt_programming: Isolation https://t.co/77f06Hwdxx https://t.co/iGWptZWhZP
+10,663451007347740672,Sun Nov 08 20:20:21 +0000 2015,0,0,In #NetBeans 8.1 #Jboss EAP 6.4 is not working. My suggestion: setup a local #Wildfly 8 instance. Easy to port and fantastic support!
+11,663185131054739456,Sun Nov 08 02:43:51 +0000 2015,77,0,"RT @glaforge: #groovylang passed @TheASF incubator vote for graduation!
+https://t.co/CNJyeB5WAu
+Next, @TheASF board for the final decision."
+12,662728425266802688,Fri Nov 06 20:29:04 +0000 2015,23,0,"RT @brjavaman: How to improve your developer career? ""Keep learning. It is easier if you are having fun."" James Gosling at #JavaDayKiev"
+13,662728302742761472,Fri Nov 06 20:28:34 +0000 2015,18,0,"RT @brjavaman: ""It has to be fun. If you are working on something that is boring and tedious, stop. Do something at night!"" James Gosling a…"
+14,661983650083393536,Wed Nov 04 19:09:35 +0000 2015,0,0,Downloaded RC 2 already yesterday. Works like a charm. Excellent Job!  https://t.co/Hr2jjGrHEJ
+15,661672879042502656,Tue Nov 03 22:34:42 +0000 2015,0,0,Installed #netbeans 8.1 rc2. Works like a charm!
+16,661671353121120257,Tue Nov 03 22:28:38 +0000 2015,5,0,RT @monacotoni: NetBeans Platform Daily News is out! https://t.co/x4UzJHBW7N
+17,660877295998124033,Sun Nov 01 17:53:20 +0000 2015,27,0,RT @NathanTippy: Time spent thinking about code to be written is much more important than time spent writing code. #Programming
+18,660503598770573312,Sat Oct 31 17:08:24 +0000 2015,0,1,Verenas schöne Welt: Happy Halloween und ein Rezept für schaurig schöne... https://t.co/CrC2DFGLCH
+19,658721420118269953,Mon Oct 26 19:06:39 +0000 2015,20,0,"RT @GeertjanW: I think today was the best NetBeans Day ever. Lots of speakers, enthusiasm, full rooms, discussions, and James Gosling was s…"
+20,658720876888784896,Mon Oct 26 19:04:30 +0000 2015,3,0,"RT @NathanTippy: // #Java signature to take any Enum
+public static &lt;T extends Enum&lt;T&gt;&gt; void useSomeEnum(T myEnum) {
+        int x = myEnum.…"
+21,658397476018352128,Sun Oct 25 21:39:25 +0000 2015,0,0,Challenge accepted. Fun stuff!  https://t.co/K9y3p8Y9Ws
+22,657943860950257665,Sat Oct 24 15:36:55 +0000 2015,440,0,RT @jessiecliu: How to Write Good Code: #programmersproblem http://t.co/EdchS4vubF
+23,657506807825461248,Fri Oct 23 10:40:13 +0000 2015,19,0,"RT @joonaslehtinen: A user interface is like a joke. If you have to explain it, it's not that good."
+24,657505829294350336,Fri Oct 23 10:36:20 +0000 2015,3,0,RT @jbossdeveloper: #JBoss #Teiid 8.11.5 Released https://t.co/LoE28qS8Qk
+25,657251145732235264,Thu Oct 22 17:44:18 +0000 2015,0,0,Tutorial: starting a project with Vaadin NetBeans plugin https://t.co/NUBmzn9a6W via @YouTube
+26,656431158532710400,Tue Oct 20 11:25:58 +0000 2015,0,1,Sonnenaufgang #söllhuben #riedering #rosenheim https://t.co/zcBhb5VYe1
+27,656165408291078145,Mon Oct 19 17:49:58 +0000 2015,3,0,"RT @thjanssen123: Java Weekly 43/15: JDK9 Modules, Reusability and Lambdas
+
+http://t.co/arT8xlqoQa
+
+#Java #JavaEE http://t.co/OHx7LgIKkV"
+28,656159964344504320,Mon Oct 19 17:28:21 +0000 2015,33,0,RT @BruceEckel: Are Java 8 lambdas closures? http://t.co/mw4Ah8jKK0
+29,655390692013903872,Sat Oct 17 14:31:32 +0000 2015,0,0,#söllhuben #riedering #rosenheim http://t.co/PNOyZLdrwA
+30,654388032968216576,Wed Oct 14 20:07:19 +0000 2015,1,0,RT @AmrFaissal: Walking on water and developing software from a specification are easy if both are frozen. #SoftwareDevelopment #programming
+31,654381464281333760,Wed Oct 14 19:41:13 +0000 2015,8,0,RT @petrikainulaine: The broken promise of re-use: https://t.co/lzlAgD0mcA - excellent blog post
+32,654030699503222784,Tue Oct 13 20:27:24 +0000 2015,0,0,Where is the beef? https://t.co/33jKd6hNdg
+33,654020902875697152,Tue Oct 13 19:48:29 +0000 2015,0,0,Excellent taste! https://t.co/6c0fPJGlf0
+34,653844475115106304,Tue Oct 13 08:07:25 +0000 2015,0,0,Wonder no more: #Java 8 adoption rate higher than expected https://t.co/JyWIuYgwt5
+35,653840738405498880,Tue Oct 13 07:52:34 +0000 2015,1,0,"Wondering how well Lambdas and Streams got adopted in the java community?
+#java"
+36,653211693212925952,Sun Oct 11 14:12:58 +0000 2015,2,0,RT @GeertjanW: Software programming is really all about the parties. Looking forward to @jaxlondon!
+37,652944913903013888,Sat Oct 10 20:32:53 +0000 2015,27,0,"RT @agoncal: [3/4] Article ""Java EE: Understanding Contexts and Dependency Injection (CDI)"" in @Oraclejavamag about @cdispec http://t.co/3r…"
+38,652833161714499585,Sat Oct 10 13:08:49 +0000 2015,3,0,RT @David_CBInsight: Big growth for #communitybanks in small loans @BankingExchange http://t.co/bHzvY9S01e #Banks
+39,652755369605885952,Sat Oct 10 07:59:42 +0000 2015,3,0,RT @JoeIngeno: How to Learn a New Programming Language While Maintaining Your Day Job/Still Being There for Your Family http://t.co/qiCgnuZ…
+40,652752806609334272,Sat Oct 10 07:49:31 +0000 2015,1,0,Ertappt!  https://t.co/rh6GlM5EWs
+41,652751344013590529,Sat Oct 10 07:43:42 +0000 2015,21,0,"RT @IgorMaznitsa: version 1.1.0 of the NetBeans MindMap plugin has been published in the NetBeans plugins portal update center.
+http://t.co…"
+42,651803297716785152,Wed Oct 07 16:56:30 +0000 2015,10,0,RT @netbeans: Open source wins again! Read about the @everlaw open sourcing of @typescriptlang plugin for NetBeans IDE: http://t.co/MOJ8qo7…
+43,651505723881451520,Tue Oct 06 21:14:03 +0000 2015,49,0,"RT @netbeans: The release candidate of NetBeans IDE 8.1 is available, with many bug fixes! https://t.co/0qv40K5vfO"
+44,651504542622814208,Tue Oct 06 21:09:21 +0000 2015,0,0,@omniprof Clever Students - no one tweeted to you ;-) What would you have done if one did?
+45,651232460022394880,Tue Oct 06 03:08:12 +0000 2015,41,0,RT @Oraclejavamag: The new issue of Java Magazine is now available! Get your FREE subscription here http://t.co/AQXTwSo6rr http://t.co/YhQL…
+46,651084447522156544,Mon Oct 05 17:20:03 +0000 2015,6,0,"RT @apuntesdejava: ""After 20 years, Java is still hot.""
+
+@AdamBien  https://t.co/KNqKydpJWq"
+47,650917113083875328,Mon Oct 05 06:15:07 +0000 2015,822,0,"RT @lukew: My life in 3 panels:
+http://t.co/eut4cn9Tg3
+
+ht/ @bokardo"
+48,650767649610334208,Sun Oct 04 20:21:13 +0000 2015,0,1,"Nice article on code, coding and programmers.
+http://t.co/NNPAMEgl1E"
+49,650759384298094592,Sun Oct 04 19:48:22 +0000 2015,0,0,"I think of it as ""our current civilization is built on these languages"", well, if COBOL would have been included. https://t.co/zEwUVN8s8G"
+50,650730340995178497,Sun Oct 04 17:52:57 +0000 2015,24,0,"RT @ManagersDiary: ""A year from now you may wish you had started today."" ~Karen Lamb #management #business #leadership"
+51,650664461980798976,Sun Oct 04 13:31:11 +0000 2015,0,1,@sascha242 Das waren noch Zeiten!
+52,650661899563069440,Sun Oct 04 13:21:00 +0000 2015,3,0,RT @jbossdeveloper: Trends in Middleware http://t.co/Ntg9aifPV3 by @mpiech #JBoss
+53,650630561183203328,Sun Oct 04 11:16:28 +0000 2015,0,0,Rechner aus! Es gibt Essen! https://t.co/OEKWxFggC7
+54,650556351412834304,Sun Oct 04 06:21:35 +0000 2015,17,0,RT @mojavelinux: My favorite pull requests are corrections to the documentation. That's because documentation corrections save so much time…
+55,650354118528233472,Sat Oct 03 16:57:59 +0000 2015,3957,0,RT @andygrunwald: In case of fire ... #Git #Commit http://t.co/uasZWQ8R8A
+56,650331566628077568,Sat Oct 03 15:28:22 +0000 2015,0,0,"Groovy for Batch Processing, Systems Integration and Data Migration.
+ http://t.co/PjnKHDcMSl
+#groovylang #sapsybase #sapase"
+57,650217932769902592,Sat Oct 03 07:56:50 +0000 2015,1,0,RT @fnharms: Been using both JBoss Cache &amp; Infinispan as 2LC for several years and this is a big improvement! https://t.co/FsXS3OteKa
+58,650194741280276480,Sat Oct 03 06:24:41 +0000 2015,446,0,RT @icecrime: Solid programming advice. http://t.co/wKEQ3GEJHc
+59,650065574685507584,Fri Oct 02 21:51:25 +0000 2015,0,0,"Unfinished train of thoughts, unused code, missused patterns, missleading variable names, spelling errors - not much fun reviewing code..."
+60,649833858129657856,Fri Oct 02 06:30:39 +0000 2015,0,0,"10 Tipps fürs entspannte Berufsleben:
+http://t.co/Dj5LHJKrEB"
+61,649461704137551872,Thu Oct 01 05:51:51 +0000 2015,18,0,RT @warework_info: Top 3 JPA productivity boosters for #Java EE developers – DeltaSpike Data http://t.co/9DCFiXqMNV
+62,649460172268675072,Thu Oct 01 05:45:46 +0000 2015,4,0,RT @net0pyr: JavaFX Daily is out! http://t.co/2PgSxupPsd Stories via @jcversan
+63,648801981977522176,Tue Sep 29 10:10:21 +0000 2015,8,0,"RT @ThoHeller: the biggest #risks of #bigdata
+http://t.co/viR1QfBc3X http://t.co/CDGHxAEIxv"
+64,648357156400549888,Mon Sep 28 04:42:46 +0000 2015,12,0,RT @dixus: The Web Just Became More Secure: Google Drops Support for Java http://t.co/XT3BcDmrnc #Java #Developer #Google #Support
+65,647862560142794752,Sat Sep 26 19:57:25 +0000 2015,838,0,"RT @jamesiry: Everybody interviews for algorithm skills but where I see developers fail far more often is in writing clean, modular, mainta…"
+66,647712204435943424,Sat Sep 26 09:59:58 +0000 2015,0,1,"How to install Oracle JDK on linux mint - works also for JDK 8
+http://t.co/0GzqLu9Fk9
+#linux #java"
+67,647683425005105152,Sat Sep 26 08:05:36 +0000 2015,0,1,"Install rpm packages on linux mint.
+http://t.co/vNk9NQlJvE
+#linux"
+68,647658900947382272,Sat Sep 26 06:28:09 +0000 2015,3,0,"Aha,,,
+A Developer’s Journey into Linux Containers
+https://t.co/2dl3cXQ3kj
+#virtualmachine #containers #java"
+69,647656649889587200,Sat Sep 26 06:19:12 +0000 2015,43,0,"RT @shipilev: New Project in OpenJDK: ""Mobile: JDK Ports to Modern Mobile Platforms""
+http://t.co/RHhQDCDMi9"
+70,647477824455098371,Fri Sep 25 18:28:37 +0000 2015,13,0,"RT @zeitonline: Familie und Beruf lassen sich vereinbaren, wenn man nicht bis Mitte 40 schon Karriere gemacht haben muss. (tgr) http://t.co…"
+71,647477792569970688,Fri Sep 25 18:28:29 +0000 2015,4,0,RT @PaaSDev: Hashmap Performance Improvements in Java 8 - DZone Performance http://t.co/q94dioULwB
+72,647329446664531968,Fri Sep 25 08:39:01 +0000 2015,1,0,RT @vbeautifulworld: #dänemark {Teil 2} und der klitzekleine Wunsch manchmal zaubern zu können...#danmark #vorupor #sommer http://t.co/pVSx…
+73,646767287920365568,Wed Sep 23 19:25:12 +0000 2015,2,0,RT @dixus: Pro JavaScript Concepts for Enterprise Developers http://t.co/Ks433fy6jz #Developer #Enterprise #JavaScript #ECMAScript
+74,646426488548511744,Tue Sep 22 20:50:59 +0000 2015,11,0,RT @zeitonline: Mathefreaks aufgepasst: In kaum einem Beruf werden Fachkräfte so sehr gesucht wie Datenanalysten. #Karriere (tgr) http://t.…
+75,646426165125758976,Tue Sep 22 20:49:42 +0000 2015,13,0,RT @netbeans: Very busy couple of weeks coming up for the NetBeans community! Check it out in the latest weekly newsletter: https://t.co/FB…
+76,645700516337487873,Sun Sep 20 20:46:14 +0000 2015,2,0,"RT @fnharms: ""Don't tell what to do"" http://t.co/199J4gHIkW #architecture #design"
+77,645698839681196033,Sun Sep 20 20:39:34 +0000 2015,0,0,So much cool stuff to program but at the end of the day we have to  handle boring declining relational database performance....
+78,645695097753866240,Sun Sep 20 20:24:42 +0000 2015,14,0,"RT @MkHeck: If you aren't yet using Spring Boot, you need to use Spring Boot. Unbelievably great! https://t.co/0beaEe8aDJ"
+79,645628566806372352,Sun Sep 20 16:00:20 +0000 2015,590,0,RT @RachelAppel: Life of the software developer... (http://t.co/MKRRSlTVzq) http://t.co/vZoJyHCjOW
+80,645287708663922688,Sat Sep 19 17:25:53 +0000 2015,1,0,Very true! Better go for a generated approach... https://t.co/qjPEZKyrnr
+81,645286237071351809,Sat Sep 19 17:20:02 +0000 2015,0,1,@arungupta I wish you all the best! Red Hat is loosing an awesome evangelist.
+82,645283787149049856,Sat Sep 19 17:10:18 +0000 2015,14,0,"RT @ManagersDiary: How to make sure you are listening to critics, not listening to negative cynics - http://t.co/i1JRcj74Kw"
+83,634087801865306112,Wed Aug 19 19:41:27 +0000 2015,9,0,RT @zeitonline: Berlin zieht Gründer aus aller Welt an. Ein neues Netzwerk will etablierte Firmen und Startups zusammenbringen. (tgr) http:…
+84,633718311373701120,Tue Aug 18 19:13:14 +0000 2015,24,0,"RT @netbeans: Now available! 4 hours of Adam Bien's ""Effective Java EE Workshop"" on-line: http://t.co/dTG0sbBQZF"
+85,633614325375176704,Tue Aug 18 12:20:01 +0000 2015,0,0,„Scala VS Groovy : Functional Programming Showdown“ von @OwenRubel auf @LinkedIn https://t.co/EVSkgpP4so
+86,630482896818716676,Sun Aug 09 20:56:51 +0000 2015,1,0,RT @bennetelli: Bist du zwischen 12 und 18 Jahren und hast Interesse am Programmieren? Die Anmeldung für Jugend hackt ist eröffnet -http://…
+87,630431268958814208,Sun Aug 09 17:31:42 +0000 2015,0,0,"Wellig heute...
+#vorupør #denmark http://t.co/btZqN1Z8jr"
+88,630426931964571648,Sun Aug 09 17:14:28 +0000 2015,0,0,So true!  https://t.co/i3Nq5KjMyt
+89,629295701487448064,Thu Aug 06 14:19:21 +0000 2015,49,0,RT @netbeans: Using Node.js? Express? Gulp? Grunt? Mocha? Selenium? AngularJS? KnockoutJS? Try NetBeans IDE 8.1 Beta (for free): https://t.…
+90,628683092643983360,Tue Aug 04 21:45:04 +0000 2015,2,0,RT @vbeautifulworld: Love these fishing boats #vorupør #Denmark read more on my blog...http://t.co/s0rOUDBMf7 http://t.co/7KDnalZPwo
+91,627102345156014080,Fri Jul 31 13:03:44 +0000 2015,0,0,Looks like Windows 10 is available - time to upgrade to #Fedora Workstation 22 ;-)
+92,626840835372531712,Thu Jul 30 19:44:35 +0000 2015,0,0,Soon on our way to denmark. Kids are excited.
+93,626473445212200960,Wed Jul 29 19:24:43 +0000 2015,1,0,RT @vbeautifulworld: Unterwegs mit meiner Crew zum #schlossvollrads #querfloetenweg #rheingau #verenasschoenewelt… https://t.co/LV02zb0ITJ
+94,626387142424567808,Wed Jul 29 13:41:47 +0000 2015,0,0,RESTful Considered Harmful https://t.co/YFWSRkoDix via @DZone
+95,624339898384957441,Thu Jul 23 22:06:46 +0000 2015,0,1,Spent the last couple of days setting up Jasper BI Server. Well equiped with an extensive Rest API and JavaScript Integration.
+96,624102072108077056,Thu Jul 23 06:21:43 +0000 2015,0,0,"@omniprof Tweeting from Côte-Saint-Luc sounds like you are on holidays. :-) 
+Sounds like tweeting from Côte d’Azur :-)))"
+97,624097650409910272,Thu Jul 23 06:04:09 +0000 2015,46,0,"RT @NathanTippy: The fastest code is the code that is never executed.  
+Find something to delete today!
+#Programming"
+98,624097621301415937,Thu Jul 23 06:04:02 +0000 2015,1674,0,"RT @rikschennink: For now, let's just focus on fixing it quickly...
+
+6 months later... http://t.co/06nxj2sMqj"
+99,622825072382902273,Sun Jul 19 17:47:23 +0000 2015,38,0,"RT @ManagersDiary: ""A good plan violently executed now is better than a perfect plan executed next week."" ~George Patton #business #leaders…"
+100,621030884880306176,Tue Jul 14 18:57:55 +0000 2015,4,0,"RT @mcarmenjones: #Life is a tragedy when seen in close-up, but a comedy in long-shot. – Charlie Chaplin #quotes"
+101,620473392647565312,Mon Jul 13 06:02:39 +0000 2015,39,0,RT @InfoQ: Oracle Confirms G1 as Default Garbage Collector for Java 9 http://t.co/N4HwlkASRB
+102,619962303707017216,Sat Jul 11 20:11:46 +0000 2015,268,0,RT @CommitStrip: Coders still needed? http://t.co/TJsrAOSqPM http://t.co/d0lQgQLisB
+103,618139734267809792,Mon Jul 06 19:29:31 +0000 2015,16,0,RT @qz: US students might soon be able to use federal aid to attend coding bootcamps http://t.co/1xdmvAyznT
+104,617302683322580992,Sat Jul 04 12:03:23 +0000 2015,0,0,Heute morgen eine Kiste @ProviantBerlin Limonade gekauft. Einige Flaschen ins Tiefkühlfach gelegt. Damit kann ich die Hitze aushalten!
+105,617074564359655425,Fri Jul 03 20:56:55 +0000 2015,2,0,RT @jimensell: The positives and negatives of Microservices #Agile #DevOps http://t.co/5n1BxExiTT
+106,617031115581296640,Fri Jul 03 18:04:16 +0000 2015,98,0,RT @ValaAfshar: The link between diversity in people’s Twitter networks and quality of their ideas http://t.co/RwnXvN7RV2 http://t.co/FZOta…
+107,616274369543827456,Wed Jul 01 15:57:14 +0000 2015,8,0,"RT @KnowledgeBishop: Before you respond to an insult, count to ten  thousand. #quote"
+108,616272216431439872,Wed Jul 01 15:48:40 +0000 2015,0,0,Leider ist diese Art Kommentar eher die Regel. https://t.co/1NAgMfNE6U
+109,616225890977095681,Wed Jul 01 12:44:35 +0000 2015,3,0,RT @alejandro_du: Concerned about the future of #Vaadin as a viable technology? What does this tell you? https://t.co/h9vQKYfpZh
+110,616224103394082817,Wed Jul 01 12:37:29 +0000 2015,3268,0,"RT @shanselman: Just said ""OK Google"" to my browser AND IT ASKED PERMISSION TO USE MY MIC. 
+
+But how did it know I said OK Google? http://t…"
+111,615587782560497665,Mon Jun 29 18:28:59 +0000 2015,2,0,RT @meincoach: #Alzheimer's: #therapy breakthrough using #ultrasound. http://t.co/KxbQKvs3da
+112,614046650227666944,Thu Jun 25 12:25:04 +0000 2015,1,0,"Five Database Design Mistakes:
+http://t.co/MQayBVEyqZ 
+via @logicalread #datamodelling #databasedesign"
+113,613930555453906944,Thu Jun 25 04:43:45 +0000 2015,0,0,"Using #mindmaps to tackle complex business requirements.
+http://t.co/JKtQTPvTdD
+Design comes after I gained an understanding of the business"
+114,613797384632598528,Wed Jun 24 19:54:34 +0000 2015,8,0,RT @RAJeTweets: Linux 4.1 Release Has Record Developer Participation http://t.co/C0CdMqcdpG #Linux #KernelDev #DeveloperNews #FreeSoftware
+115,613767559331094528,Wed Jun 24 17:56:04 +0000 2015,37,0,"RT @netbeans: Provide early feedback on JDK 9: start playing with with it, today! Register &amp; use JDK 9 in a special NetBeans build: http://…"
+116,613290501912064000,Tue Jun 23 10:20:24 +0000 2015,1122,0,RT @kaltfront: Warum Daten in der Cloud nicht sicher sind: http://t.co/T6kdkZdYwf
+117,613233920834969600,Tue Jun 23 06:35:34 +0000 2015,5,0,"RT @itsEJT: ""Disturb us to dare more boldly...to push into the future in strength, courage, hope and #love"" #Drake #theotherDrake http://t.…"
+118,613233128799399936,Tue Jun 23 06:32:25 +0000 2015,5,0,"RT @rafabene: ""Redhat is the first and only open source company to hit $1 billion ... and is now firmly marching toward $2 billion” http://…"
+119,613030815069552641,Mon Jun 22 17:08:30 +0000 2015,8,0,RT @Payara_Fish: Payara is hiring! We're looking for Senior Java Developers to join us and help build Payara http://t.co/sHv01a8zFu #JavaEE…
+120,612864786443988992,Mon Jun 22 06:08:46 +0000 2015,2,0,RT @meincoach: #EQ-#Psychologe verrät #Erfolgsgeheimnis. Eigentlich ganz einfach... http://t.co/hKEn8Ht8XW
+121,612492435055374337,Sun Jun 21 05:29:10 +0000 2015,0,1,“What is WebAssembly? The Dawn of a New Era” by @_ericelliott https://t.co/TuvL0ZLNF6
+122,612219014102781952,Sat Jun 20 11:22:42 +0000 2015,23,0,"RT @ManagersDiary: ""There are only 3 colors, 10 digits, &amp; 7 notes; its what we do with them that's important."" ~Jim Rohn #business #leaders…"
+123,612207546431078400,Sat Jun 20 10:37:07 +0000 2015,0,0,"Am Wochenende Zeitung lesen - altmodisch aber unheimlich entspannend mit der @zeitonline. 
+#chillen"
+124,612205638693847040,Sat Jun 20 10:29:33 +0000 2015,0,0,"Wow, this is cool. Curios how they integrated their legacy swing apps as they have a huge app base? https://t.co/9h3cYI9Dkw"
+125,612202627632394241,Sat Jun 20 10:17:35 +0000 2015,16,0,"RT @joonaslehtinen: Google, Microsoft, Mozilla, WebKit team up for WebAssembly - A binary format for JS. Great news for #Vaadin &amp; #GWT http…"
+126,612132393655382016,Sat Jun 20 05:38:30 +0000 2015,0,0,#codereview: Names are seldom well chosen. Their quality correlate w/ the software engineers Level of understanding of the business Domain.
+127,611980903343091713,Fri Jun 19 19:36:32 +0000 2015,0,0,"#codereview: Names, names, names. From my point of view, if the names are good, the review is already half way through.
+#craftsmanship"
+128,611266446740561920,Wed Jun 17 20:17:32 +0000 2015,2,0,RT @RBaumier: The Art of Command Line http://t.co/HBs1kYpspd
+129,611265571385122816,Wed Jun 17 20:14:03 +0000 2015,7,0,RT @zeitonline: Uber bekommt auch in den USA rechtliche Probleme. (nd) http://t.co/IGctjL2wqB
+130,611244956544552960,Wed Jun 17 18:52:08 +0000 2015,95,0,RT @takipid: New Post: 5 Features in Java 9 that WILL Change How You Develop Software (and 2 That Won’t) http://t.co/VLDfroUcgt http://t.co…
+131,610420548515065856,Mon Jun 15 12:16:14 +0000 2015,380,0,"RT @abt_programming: ""Any fool can write code that a computer can understand. Good programmers write code that humans can understand"" - Mar…"
+132,608495490049654784,Wed Jun 10 04:46:44 +0000 2015,19,0,"RT @arungupta: .@jbosstools 4.3 beta1 is available: http://t.co/GDYHsRoNqW visual editor for #JavaEE7 batch config, and lot more http://t.c…"
+133,607279900031107073,Sat Jun 06 20:16:25 +0000 2015,3,2,Touché!  https://t.co/zXgjo2J09o
+134,607277546330329088,Sat Jun 06 20:07:04 +0000 2015,10,0,"RT @zeitonline: Statt die Gewinne zu steigern, reduzieren Manager lieber die Kosten, so eine Studie. Das ist ein Manko. (tgr) http://t.co/6…"
+135,605472538836246529,Mon Jun 01 20:34:37 +0000 2015,2,0,RT @dixus: Microsoft is buying Wunderlist! 200 mio http://t.co/UCELu9oKz3 via @verge #msft #app
+136,605004855065882624,Sun May 31 13:36:12 +0000 2015,0,1,"True, but it somehow does the trick. ... https://t.co/THnEOEPo18"
+137,604998307572776960,Sun May 31 13:10:11 +0000 2015,0,1,@sascha242 solange es nicht Ikea ist...
+138,604712351489781760,Sat May 30 18:13:54 +0000 2015,3,0,RT @GAccelerator: This journey called Life. A 40 year old looking back on his life. Awesome weekend read. http://t.co/h4dyGsKu7C
+139,604710684119736320,Sat May 30 18:07:16 +0000 2015,9,0,RT @funny_together: I Know an Engineer When I See One http://t.co/kXwGlQvgUq
+140,604708927377391616,Sat May 30 18:00:17 +0000 2015,1225,0,RT @adtomwood: Always worrying when @easyJet are duct taping the plane together :-s #finaldestination http://t.co/daYKgR9ssp
+141,604569064200146944,Sat May 30 08:44:31 +0000 2015,2,0,RT @JavaPDF: 13 things you missed if you were not at #NetBeans Day UK  https://t.co/w5Ebur6ZJP #Java https://t.co/i88zGwWQSO
+142,604405177957945344,Fri May 29 21:53:18 +0000 2015,3,0,RT @ctrucza: Doing pair programming wrong :) #coderetreat #sibiu http://t.co/0zlcKrj2qN
+143,604034228452462592,Thu May 28 21:19:17 +0000 2015,8,0,"RT @takipid: The Ultimate JSON Benchmark: Parsing Large files? Jackson by @fasterxml
+is your best option http://t.co/WJEi2fBbbe"
+144,603793664268214272,Thu May 28 05:23:22 +0000 2015,3,0,RT @ooseNews: Welche Diagrammart für den Systemkontext nehmen? http://t.co/AOLRXQT0M1
+145,603600684299190272,Wed May 27 16:36:32 +0000 2015,0,1,Because of #android development... https://t.co/EtSgGRMnGD
+146,603302532266463233,Tue May 26 20:51:47 +0000 2015,0,5,"@DIEZEIT @krudzio @MRohwetter @ClausHecking 
+Sehr schön!
+Frankfurt kann da aber gut mithalten.
+Hier vom Westen Tower: http://t.co/JvTVIqyNh3"
+147,602519030088499201,Sun May 24 16:58:25 +0000 2015,3,0,"RT @shaihoffmann: Sonntag = Lesetag, interessanter Artikel in @DIEZEIT über @google Gründer #LarryPage und seine ""unheimliche Mission"" http…"
+148,602514654590558208,Sun May 24 16:41:02 +0000 2015,11,0,RT @zeitonline: Bunte Gruppe oder kuschelige Gleichsamkeit – wie muss ein gutes Team zusammengesetzt sein? (sg) http://t.co/9GV4v1JTyZ
+149,602514391913889792,Sun May 24 16:39:59 +0000 2015,1,0,RT @vbeautifulworld: Delicious Lavender Cupcakes http://t.co/qOmhh0WTVy
+150,602511277051740161,Sun May 24 16:27:37 +0000 2015,0,0,Any experiences with jrebel and NetBeans? Thoughts?
+151,600708488789102592,Tue May 19 17:03:59 +0000 2015,143,0,RT @rgransberger: The sad truth about process improvement. http://t.co/UVOUlEPXjR If you see a @werderbremen_en player stumbling over his f…
+152,600340361370836993,Mon May 18 16:41:10 +0000 2015,661,0,"RT @FredericJacobs: Maintaining Open Source in one image.
+http://t.co/CtbXNMAYeY"
+153,600339525282484224,Mon May 18 16:37:51 +0000 2015,190,0,"RT @Reuters: Interactive photos of Berlin during WWII, and now:  http://t.co/tUXKVyOWue http://t.co/h5guSbBOU8"
+154,599667857052565504,Sat May 16 20:08:53 +0000 2015,18,0,"RT @stbaasch: Organize a Winning Team!
+http://t.co/BaFtDfhBgg cc: @founding http://t.co/PlsjTR2IQH"
+155,599589315572867072,Sat May 16 14:56:47 +0000 2015,4,0,"RT @musevg: ""#PHP ist das neue #COBOL"" #OH"
+156,599306954163511298,Fri May 15 20:14:47 +0000 2015,4,0,"RT @ShanaTingLipton: ""Passwords"" are the new ""phone numbers"" :)  https://t.co/ALLrrF7NsT"
+157,599188603827257345,Fri May 15 12:24:30 +0000 2015,2,0,"JPA Result Set Mapping: Complex Mappings http://t.co/UyFsld68T2 via @thjanssen123
+#jpa #java #jee"
+158,598916270306807809,Thu May 14 18:22:20 +0000 2015,29,0,RT @joonaslehtinen: Evolution of the mobile phone http://t.co/nKJIcYJfpH
+159,598912241354842113,Thu May 14 18:06:20 +0000 2015,1,0,RT @micahspruill: “An expert is a man who has made all the mistakes which can be made in a very narrow field” –Niels Bohr
+160,596910247031263232,Sat May 09 05:31:07 +0000 2015,0,1,"Today: Lunch with the Gang at  http://t.co/Zyft5RX2z2
+#gibtnichtsbesseres"
+161,596788696214589440,Fri May 08 21:28:07 +0000 2015,9,0,RT @KnowledgeBishop: You'll never regret responding kindly. #quote
+162,596695782113280000,Fri May 08 15:18:55 +0000 2015,0,0,"Bewerbungspanne: ""Übrigens, wir ziehen die Jobzusage zurück"" http://t.co/eOGA7SX6WI via @SPIEGELONLINE"
+163,596676212975640576,Fri May 08 14:01:09 +0000 2015,6,0,RT @JavaPDF: We have updated our free NetBeans PDF viewer plugin with the ability to display the #NetBeans documentation http://t.co/dCjBP7…
+164,596368428853796864,Thu May 07 17:38:08 +0000 2015,3,0,RT @Java_RR: Oracle announces Java 7 end of life - JAXenter http://t.co/dcCF6Ugcgb
+165,595645523824091136,Tue May 05 17:45:34 +0000 2015,2,0,RT @mcarmenjones: A man isn't poor if he can still #laugh. – Winston Churchill #quotes #inspiration
+166,595643988104843264,Tue May 05 17:39:27 +0000 2015,4,0,"RT @dkreuz: Ein Software-Craftsman, der nur Java kann, ist wie ein Zimmerer, der nur sägen kann."
+167,595643121196802048,Tue May 05 17:36:01 +0000 2015,2,0,RT @takipid: RT @mreinhold: Proposed schedule for JDK 9: http://t.co/GWQKOR00JL  #java #openjdk #jdk9
+168,595576518224523265,Tue May 05 13:11:21 +0000 2015,3,0,"RT @arungupta: @AdamBien same here, NetBeans is still my preferred IDE :) WildFly is IDE-agnostic! // @myfear"
+169,594950268783034368,Sun May 03 19:42:52 +0000 2015,4,0,"RT @greachconf: [Video] ""Groovy on the Shell"" by @saschaklein 
+http://t.co/XNR1gU6WuL
+#greach #groovylang #shellscript"
+170,594429836543791104,Sat May 02 09:14:51 +0000 2015,10,0,"RT @arungupta: Blogged: WildFly 9.0 CR1 is Released – HTTP/2, Intelligent Load Balancing, Graceful shutdown, Offline CLI, mor... http://t.c…"
+171,594429700849664000,Sat May 02 09:14:19 +0000 2015,53,0,"RT @WildFlyAS: #WildFly 9.0.0.CR1 was just released, grab it while it is hot http://t.co/e6LwOYtSZs"
+172,594402232738705408,Sat May 02 07:25:10 +0000 2015,0,0,How to Stop Worrying and Get Productive | Javalobby: http://t.co/7tQNlxDxtp
+173,593846567007825922,Thu Apr 30 18:37:09 +0000 2015,1526,0,"RT @NachoSoto: Software Development. And why I never trust the ""we'll fix it later"" mentality. http://t.co/lL7FoKxLat"
+174,593662469832372225,Thu Apr 30 06:25:37 +0000 2015,0,1,Surfen auf dem Weg zur Arbeit mit meinem neuen Samsung Note 4 - Klasse!
+175,593661417192083456,Thu Apr 30 06:21:26 +0000 2015,3,0,"RT @vaadin: In #Vaadin #Newsletter today - Vaadin #Spring, Vaadin #Tutorial, Vaadin #Directory, Vaadin Online Summer School https://t.co/wA…"
+176,593639459222073345,Thu Apr 30 04:54:11 +0000 2015,623,0,"RT @SwiftOnSecurity: NOTE: Java 7 is END OF LIFE.
+
+As of Thursday. This Thursday. In 2 days. You have 2 days."
+177,593639036163596288,Thu Apr 30 04:52:30 +0000 2015,12,0,RT @netbeans: Fully automated support for Node.js and Express.js in NetBeans IDE -- http://t.co/Jh8AeMIDh0
+178,593531979695398915,Wed Apr 29 21:47:05 +0000 2015,1,0,RT @calibanatspace: Die Hölle gefriert zu! Visual Studio für Linux???! http://t.co/47JG5SjRh0
+179,592407631945424897,Sun Apr 26 19:19:20 +0000 2015,5,0,RT @JavaFact: The effects of programming with #Java 8 Streams on algorithm #performance http://t.co/1X23kNugpY
+180,592303145205764096,Sun Apr 26 12:24:08 +0000 2015,0,1,"@AdamBien Yes, quite popular! How much JavaFx development do you do in your professional work compared to, let's say HTML 5 or JSF now?"
+181,592056305961021441,Sat Apr 25 20:03:17 +0000 2015,0,0,@vasouv @netbeans Thanks! Glad you like it!
+182,591987757079252992,Sat Apr 25 15:30:54 +0000 2015,5,7,"Quickstart #NetBeans Editor Shortcuts and Code Templates
+http://t.co/QcuoeSYLlK"
+183,591952530143338496,Sat Apr 25 13:10:55 +0000 2015,0,1,"Meisterburger: Salat, Tomate, Gouda, Meerrettich, Mayonaise. http://t.co/DDz6WK5qgk"
+184,591855073581490176,Sat Apr 25 06:43:40 +0000 2015,11,0,"RT @isa_mue: Äh, ja. 🚗👆⚠️ http://t.co/rRwqOWg1LM"
+185,591468799985000448,Fri Apr 24 05:08:45 +0000 2015,131,0,RT @coreyford: Twitter launched 9 years ago today with one ugly homepage.  #justlaunchit http://t.co/D85P3eSOFk
+186,591382237087735809,Thu Apr 23 23:24:47 +0000 2015,7,0,RT @MattiTahvonen: Excellent introduction to #Vaadin http://t.co/Ol5Z8V1ndA
+187,591379431404503040,Thu Apr 23 23:13:38 +0000 2015,5,0,RT @vaadin: In the blog: #Maven essentials for the impatient developer http://t.co/AnzcyhAKjZ
+188,591299510040719361,Thu Apr 23 17:56:03 +0000 2015,0,0,@_31415 ich verstehe leider Japanisch nicht.
+189,591112836090298368,Thu Apr 23 05:34:17 +0000 2015,0,0,@ltearno performance improvements (compiler) and bindings to most major js libraries.
+190,590947840496693248,Wed Apr 22 18:38:39 +0000 2015,4,1,"#JEE7, Reactive Programming, #JavaFx, #GWT, #Vaadin, Columnar Databases... Spent 3 great days at #jaxcon. Now heading homewards."
+191,590892738561847296,Wed Apr 22 14:59:41 +0000 2015,3,1,"""GWT loves JavaScript""
+Excellent ""Next Generation GWT"" Presentation!
+#jaxcon #gwt @dankurka"
+192,590771380637016064,Wed Apr 22 06:57:27 +0000 2015,26,13,"""Wir haben eine zwiebelartige Architektur: wenn man hineinschneidet, kommen einem die Tränen."" Michael Johann 
+#jaxcon"
+193,590590638384644097,Tue Apr 21 18:59:15 +0000 2015,4,0,"RT @leandersabel: Brian Goetz: ""If you don't know the right thing to do, at least don't do the wrong thing."" #jaxcon #java"
+194,590590559485583362,Tue Apr 21 18:58:56 +0000 2015,48,0,"RT @ManagersDiary: ""People who enjoy meetings should not be in charge of anything."" ~Thomas Sowell #business #leadership"
+195,590589725964115969,Tue Apr 21 18:55:37 +0000 2015,0,0,@calibanatspace ja - aber schon auf dem Heimweg. Mittwoch bin ich auch auf der Jax.
+196,590500056920420352,Tue Apr 21 12:59:19 +0000 2015,0,0,#jaxcon http://t.co/r4kSth92yI
+197,590449538273542144,Tue Apr 21 09:38:34 +0000 2015,0,2,"#gameduell Maskottchen
+#jaxcon 
+...meine Jüngste wird sich freuen http://t.co/FwpLWvLamc"
+198,590439918326980609,Tue Apr 21 09:00:21 +0000 2015,9,0,RT @MikeHannover: Wir alle sind  Generation Java. #jaxcon
+199,590424444969099264,Tue Apr 21 07:58:51 +0000 2015,1,2,"...wenn's für 300 Anwender ist, kann's auch auf einem iPhone gehostet werden. @AdamBien #jaxcon #microservices"

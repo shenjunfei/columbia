@@ -1,0 +1,205 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668838261205409792,Mon Nov 23 17:07:22 +0000 2015,2,0,"""Silicon Photonic Foundry Processes and Traveling-Wave Mach-Zehnder Modulators"" article by #RSoft staff #SNPS https://t.co/63QWGkD3Z9 -  Syn"
+1,667475440148312065,Thu Nov 19 22:52:00 +0000 2015,3,0,#MIPI #CSI2 Verification: Divide and Conquer https://t.co/LtpP8HkZjl #CPHY #DPHY #SemiEDA #SemIP #Debug #semiwiki #SystemVerilog #UVM #snps
+2,667403279513554944,Thu Nov 19 18:05:16 +0000 2015,1,0,Implementing photonic integration event at MIT Dec 6. “Photonic Design Automation” short courses https://t.co/xVvXA5SZ0Y #AIMPhotonics #SNPS
+3,664889744309035011,Thu Nov 12 19:37:22 +0000 2015,2,0,Webinar Holistic Verification Synopsys VIP for ARM AMBA Cache Coherent Interconnects https://t.co/xCM8YANodz #SemiEDA #SemIP #semiwiki #snps
+4,664887754329874432,Thu Nov 12 19:29:28 +0000 2015,1,1,Synopsys #AMBA 5 #AHB5 Verification IP https://t.co/rGN2y5rKLW #SemiEDA #SemIP #semiwiki #ARMTechcon #snps - @shemmady
+5,664669230504288256,Thu Nov 12 05:01:08 +0000 2015,4,1,"Learn today how #SNPS, @SamsungSemiUS enable #ARM-based network computing design at the #ARMTechcon session https://t.co/YN00jRZgKO"
+6,664506730773131265,Wed Nov 11 18:15:25 +0000 2015,2,0,Gain insight into IoT edge device security reqs -  12/3 #snps webinar: Securing Your IoT Processor Based System. https://t.co/vGWRwXXMfU -
+7,664111592729092096,Tue Nov 10 16:05:16 +0000 2015,2,1,An FPGA prototype of an ARM-based design in under 2 weeks? Learn how at the Synopsys session at ARM TechCon https://t.co/YN00jRZgKO
+8,664097855498526720,Tue Nov 10 15:10:41 +0000 2015,1,1,Scared about IoT security? Get a free lunch from Synopsys and learn how to protect your products at ARM TechCon https://t.co/YN00jRZgKO
+9,664003392675684353,Tue Nov 10 08:55:20 +0000 2015,0,1,Vote for #Synopsys #HAPS HAPS-80 for ARM Innovation Award best ARM-based system: https://t.co/VnvyHwym75 https://t.co/DIDCbzh1e0
+10,663749834051072000,Mon Nov 09 16:07:46 +0000 2015,2,3,HiSilicon shares their Cortex-A72 and Cortex-A57 implementation experience using #SNPS at #ARMTechCon https://t.co/YN00jRZgKO
+11,663722205709225984,Mon Nov 09 14:17:59 +0000 2015,0,0,"Come hear our customers sharing their experiences implementing ARM Cortex-A72, Cortex-A57 at ARM TechCon https://t.co/YN00jRZgKO"
+12,662689770796109825,Fri Nov 06 17:55:28 +0000 2015,2,0,"#ARMTechCon Optimize SoC Performance: Synopsys #Verification IP, #Verdi Unified Debug https://t.co/s9PXBIvoyb #snps https://t.co/2zwBGkVQdc"
+13,661779119785517056,Wed Nov 04 05:36:52 +0000 2015,1,1,5 reasons for students to stay in #IEEE after graduation https://t.co/BjZswyAxHy #snps #semieda #tencon - @karenbartleson
+14,661778725210574848,Wed Nov 04 05:35:18 +0000 2015,0,0,I presented the #snps industry/university cooperation model #semieda https://t.co/osn1VwmteS - @karenbartleson
+15,661775394853535744,Wed Nov 04 05:22:03 +0000 2015,0,1,Join this webinar from #Synopsys Software is eating the World: End-to-End Prototyping to the Rescue https://t.co/FRjT1gCW4L #prototyping
+16,661088568748736512,Mon Nov 02 07:52:51 +0000 2015,1,0,"Don’t miss #SNPS AMS SIG dinner on Wednesday @DoubleTree Austin, TX for great food, great info, and great prizes! https://t.co/M8EyOaM75d"
+17,660951809394122752,Sun Nov 01 22:49:25 +0000 2015,1,0,#semieda #snps https://t.co/CWxW5OvYP9 - @karenbartleson
+18,660507884460077056,Sat Oct 31 17:25:25 +0000 2015,1,0,Learn all the tricks in #LightTools. Training starts on Nov. 9. #SNPS https://t.co/r70UXF1YCN - @SynopsysOptical
+19,659984529537564672,Fri Oct 30 06:45:48 +0000 2015,2,1,Vote for #SNPS HAPS-80 FPGA-Based Prototyping System for best ARM-based product!#HAPS  https://t.co/8CyX1Kzrsn https://t.co/Mtr39xsrDl
+20,659916452418478080,Fri Oct 30 02:15:17 +0000 2015,0,0,FPGA-based proto team chuffed; HAPS-80 nominated 4 best system https://t.co/iRz9oidLvM #ARMTechCon Innovation Challenge - @PhilDworsky
+21,659163727212761088,Wed Oct 28 00:24:13 +0000 2015,3,0,"What's new with 
+USB Type-C &amp; 
+10G USB 3.1? They're everywhere! Read more in Eric's blog #snps 
+https://t.co/gUVvp19X3k - @DesignWare_IP"
+22,659131398889033728,Tue Oct 27 22:15:46 +0000 2015,1,0,"#PCIe Gen4 VIP/IP Solution with Protocol-Aware Debug, Source Code TestSuites https://t.co/yQbcTqgCno #SemiEDA #SemiIP #semiwiki #SemIP #snps"
+23,659022277007286272,Tue Oct 27 15:02:09 +0000 2015,1,1,"New DesignWare DDR4/3 PHY IP: 3200 Mbps &amp; industry’s first embedded calibration processor #snps 
+https://t.co/yyJeJgTQHt -  DesignWare_IP"
+24,658702832812576769,Mon Oct 26 17:52:48 +0000 2015,2,0,Register for the 10/27 #snps webinar: Automatically Generate an SDK for Your In-House Processor Using an ASIP Tool https://t.co/4A4dvupPX6 -
+25,657636479905222656,Fri Oct 23 19:15:29 +0000 2015,1,0,"#SNPS staff demonstrated #optics at the Wonders of Light event last month  #IYL2015 Like us on FB, see the photo https://t.co/nSFloIgLef -"
+26,657253950954033152,Thu Oct 22 17:55:27 +0000 2015,2,0,Synopsys NVMe VIP Architecture: The Host Protocol Layers https://t.co/cVzPk0CC74 #SemiEDA #SemIP #PCIe #semiwiki #PHY #SystemVerilog #snps -
+27,657070062688477184,Thu Oct 22 05:44:45 +0000 2015,1,1,Watch video  &amp; learn how to reduce your UFS Host IP prototyping and integration effort.  #snps @DesignWare_IP https://t.co/pz0xgpI2jT
+28,656862068868579328,Wed Oct 21 15:58:15 +0000 2015,2,0,Quick introduction to #opticaldesign https://t.co/PsvwDivkmk #SNPS - @SynopsysOptical
+29,656849641556852736,Wed Oct 21 15:08:52 +0000 2015,0,0,"@EDA_CAFE interview w/Yervant Zorian on mem, auto test at #itctestweek https://t.co/NSQFhmCX2P #snps https://t.co/a6llHZ8SPR -  DesignWare_I"
+30,654887933225357312,Fri Oct 16 05:13:45 +0000 2015,1,1,You guys honor me #snps #semieda I'm humbled  https://t.co/XgGOjIxGte - @karenbartleson
+31,654368655455703041,Wed Oct 14 18:50:19 +0000 2015,2,0,Industry pushes to retract SHA-1 ASAP http://t.co/kJiMzsGYHa --It's time for SHA-2 &amp; SHA-3 http://t.co/Bero5BDJIt #SNPS - @DesignWare_IP
+32,654195769868730368,Wed Oct 14 07:23:20 +0000 2015,1,0,"Register today and listen to experts discuss SpyGlass, the leader in static and formal technology for SoC design. http://t.co/VwfBvMvgRs"
+33,653990817284136960,Tue Oct 13 17:48:56 +0000 2015,4,0,"#MIPI #UniPro Major Differentiating Features Benefits, Verification Challenges http://t.co/1BvqpzrZoM #SemiEDA #SemIP #semiwiki #MPHY #snps"
+34,652604544371789828,Fri Oct 09 22:00:22 +0000 2015,8,7,"Congratulations new #IEEE President-Elect @karenbartleson. 2017 IEEE President for all 400,000+ members! #Global Wow! #snps #womenintech -"
+35,652565545036959744,Fri Oct 09 19:25:24 +0000 2015,0,1,Thanks to everyone who voted in the #IEEE election. I  look forward to serving as President. #snps #semieda - @karenbartleson
+36,652391620059492352,Fri Oct 09 07:54:17 +0000 2015,3,0,"Accelerate your IoT design with comprehensive IP portfolio, watch video #snps @DesignWare_IP http://t.co/KzJeorXKAk http://t.co/zVZnFob9Fq"
+37,651488838137868289,Tue Oct 06 20:06:57 +0000 2015,2,1,Get Ready for #IoT with Synopsys #PCIe Verification IP Workshop near you http://t.co/htPEtIVouw #SemiEDA #SemiIP #semiwiki #SemIP #snps -  s
+38,651431800712077312,Tue Oct 06 16:20:18 +0000 2015,0,0,How do you choose the right #photonic design software? Read our white paper http://t.co/8oCroMwiWO #SNPS http://t.co/k4dMPVw0lv -  SynopsysO
+39,651276439199813632,Tue Oct 06 06:02:57 +0000 2015,1,0,"Attending ICCAD in Austin? Don’t miss the #SNPS AMS SIG dinner on Nov 4 for great food, great info, and great prizes!http://t.co/M8EyOaM75d"
+40,651015958706921472,Mon Oct 05 12:47:54 +0000 2015,0,0,Start 2015 NMI FPGA Usage Survey to help drive the future direction of NMI’s FPGA Network in the UK and Ireland. http://t.co/PkTNunuSuS
+41,650941652773785600,Mon Oct 05 07:52:38 +0000 2015,2,0,Attend a webinar and find out “How Flexible Floating Point IP Can Be Used to Control QoR”. http://t.co/0diqs9w9D9 #snps #DesignWare_IP
+42,650917419440062465,Mon Oct 05 06:16:20 +0000 2015,3,1,"Register today and listen to experts discuss SpyGlass, the leader in static and formal technology for SoC design. http://t.co/VwfBvMvgRs"
+43,648982311816531968,Tue Sep 29 22:06:55 +0000 2015,2,0,Protocol #Debug for Complex #SoCs http://t.co/OaWZMXr8rG #SemiEDA #SemIP #semiwiki #JEDEC #DDR #USB #PCIe #UVM #Verification #AMBA #snps -
+44,648866348949504000,Tue Sep 29 14:26:07 +0000 2015,1,0,Synopsys Announces First Security IP Solutions for New SHA-3 Cryptographic Hash Standard http://t.co/jgR7AqEHhC #SNPS - @DesignWare_IP
+45,647895416508444672,Sat Sep 26 22:07:59 +0000 2015,2,0,Am I nervous about the IEEE elections? Um. Yes. http://t.co/uxnoVeZeH4 #SemiEDA #SNPS - @karenbartleson
+46,647872967154778112,Sat Sep 26 20:38:46 +0000 2015,6,5,Putting a smile on Caroline Davis Intermediate School w/Synopsys employees &amp; families. #snps @synopsysshares http://t.co/V9WmgsaUAM -  yvett
+47,647378772358926336,Fri Sep 25 11:55:01 +0000 2015,2,1,#snps #SemiEDA One week to go until close of entries for the NMI Electronic Systems Awards. Submit your entry now. http://t.co/s3t4g5GuqW
+48,647171024899952644,Thu Sep 24 22:09:30 +0000 2015,3,1,Have you voted yet in #IEEE elections? @karenbartleson #snps will make a great President as she did with #IEEESA. #womenintech - @ytrivedi
+49,646787045575147520,Wed Sep 23 20:43:43 +0000 2015,1,0,Maximize Productivity w/ Advanced Signoff-driven ECO Technology SNUG #Japan recap  http://t.co/8pqkbiru8I http://t.co/D0ruYa3heo -  PrimeTim
+50,646570465452912640,Wed Sep 23 06:23:06 +0000 2015,1,2,#snps #SemiEDA See how inductance impacts high-frequency design performance. http://t.co/ADlz1AkbWg http://t.co/n8rfiYuaxA
+51,646567131123855360,Wed Sep 23 06:09:51 +0000 2015,1,2,#snps #SemiEDA Learn how to find low power issues during verification using Formality. http://t.co/iL7wu39wM6 http://t.co/5wTAHiOhiL
+52,644615982519074816,Thu Sep 17 20:56:41 +0000 2015,2,0,Learn how to deploy the fastest and most reliable high-performance ASIC and SoC prototype with Synopsys HAPS-80. http://t.co/sd57X1gyZF
+53,644537348840161280,Thu Sep 17 15:44:13 +0000 2015,0,1,The Synopsys #NVMe Verification IP: A High Level View http://t.co/RWFHjOX7KH #SemiEDA #SemIP #PCIe #semiwiki #PHY #UVM #SystemVerilog #snps
+54,644191762286776321,Wed Sep 16 16:50:59 +0000 2015,4,2,"Things are about to change – Synopsys introduces HAPS-80, the industry’s first fully-integrated prototyping solution.http://t.co/FBcqs6pqfp"
+55,643875604778102784,Tue Sep 15 19:54:41 +0000 2015,3,0,We're at @ConnectSecuritW in France talking about #MobileDeviceSecurity and Secure Virtualization on Day 3: http://t.co/dTSOXwhVRW #snps -
+56,643661637279354880,Tue Sep 15 05:44:27 +0000 2015,2,3,"Register now for Test SIG Event at ITC 2015 in Anaheim, CA!  http://t.co/zMbEfLhgPb #snps #semiEDA http://t.co/0iNzKaETk3"
+57,642206505668902912,Fri Sep 11 05:22:17 +0000 2015,4,0,#India is well positioned to drive #verification #innovation. Excellent speech by Manoj. #snps #dvconindia #accellera http://t.co/fz9UQNSt4u
+58,642203915048611840,Fri Sep 11 05:11:59 +0000 2015,4,0,#fpga based emulation is the future for #verification. #snps making big investment. #verificationCompiler #dvconindia http://t.co/waW94Ap4ln
+59,642202566349205504,Fri Sep 11 05:06:38 +0000 2015,1,0,Need to manage time spent in debug. More than 50% time spent by #verification #engineers. #snps #dvconindia http://t.co/9xdF9kymzV -  ytrive
+60,642201418699534336,Fri Sep 11 05:02:04 +0000 2015,1,0,Tremendous progress in #verification technology in last 25 yrs. #snps won with #SystemVerilog #dvconindia #accellera http://t.co/7SLC2HWfP9
+61,642199568843730945,Fri Sep 11 04:54:43 +0000 2015,3,0,"Safety, security and privacy are newer challenges beyond quality for #verification engineers. #snps #dvconindia #iot http://t.co/Rr790K3VAV"
+62,642197208486531072,Fri Sep 11 04:45:20 +0000 2015,4,1,Manoj Gandhi expects #dvconindia to become the largest in #verification space. #bangalore is the capital of engineers. #snps. #Accellera. -
+63,642196241225486336,Fri Sep 11 04:41:29 +0000 2015,1,0,"Manoj Gandhi delivering keynote ""Propelling the Next Gen of Verification Innovation"" at #dvconindia #accellera #snps http://t.co/fjgCfbmv14"
+64,642194689169469441,Fri Sep 11 04:35:19 +0000 2015,1,0,Keynote speech by Manoj Gandhi coming up. 600+ attendees at #dvconindia. Real Advances in Verification. #accellera #snps. - @ytrivedi
+65,642151891246428160,Fri Sep 11 01:45:16 +0000 2015,2,1,Verifying and Debugging Designs with Storage Protocols: #SATA http://t.co/eSy1cz2z9q #SemiEDA #SemIP #semiwiki #SystemVerilog #UVM #snps -
+66,641962310593028097,Thu Sep 10 13:11:56 +0000 2015,3,1,"Harish Mysore, Head of #ieee India presenting upcoming #uvm #standard activity to #dvconindia. #accellera #snps http://t.co/B0QWrASNwW -  yt"
+67,641962015486025729,Thu Sep 10 13:10:46 +0000 2015,0,0,"Harish Mysore, Director of #IEEE-India on the institute at a glance at #dvcon-India #snps #semiEDA #semiwiki #semiip http://t.co/Xwy6VD6D6G"
+68,641959073106251776,Thu Sep 10 12:59:04 +0000 2015,7,1,Celebrating a decade of #Accellera standard #SystemVerilog @ytrivedi #semiEDA #semiip #snps #DVCon-India http://t.co/7iZ0RjwDAu - @shemmady
+69,641908677344141312,Thu Sep 10 09:38:49 +0000 2015,7,1,Amit and Adiel from #snps presenting comprehensive #UVM ecosystem @DVConIndia #accellera http://t.co/hOMmdY82HM - @ytrivedi
+70,641870989865930752,Thu Sep 10 07:09:04 +0000 2015,4,6,#iot brings even more #verification  challenges. Think system of systems. #accellera #dvconindia #snps #semiEDA http://t.co/cc3C9MF83v -  yt
+71,641869536262754304,Thu Sep 10 07:03:17 +0000 2015,2,0,"#IoT Validation: ultra low power, need Power-aware VIPs says Mukesh Bhartiya of #Intel #semiEDA #semiIP #snps - @shemmady"
+72,641868495404290048,Thu Sep 10 06:59:09 +0000 2015,5,0,Power remains a challenge in #iot #verification. Mukesh Bhartiya @intel on panel @DVConIndia #accellera #snps http://t.co/K1Q6ErdeHA -  ytri
+73,641867749216681984,Thu Sep 10 06:56:11 +0000 2015,4,1,Ramachandran @nvidia explains #iot #verification challenges and approaches @DVConIndia #accellera #snps http://t.co/MaUzOC8dEL - @ytrivedi
+74,641866608974163968,Thu Sep 10 06:51:39 +0000 2015,1,1,Srikanth Jadcherla on #iot #verification panel @DVConIndia #accellera #snps http://t.co/ZWT42ILDZB - @ytrivedi
+75,641864710455959552,Thu Sep 10 06:44:06 +0000 2015,4,2,The #IoT Panel at #DVCon-India takes us from Cubbon Park to Jurassic Park #semieda #snps #semiIP http://t.co/Zq2YT12qQu - @shemmady
+76,641831333686308864,Thu Sep 10 04:31:29 +0000 2015,4,1,#DVCon-India kicked off Leela Palace traditional lamp lighting ceremony record 600 engineers #semiwiki #semiip #snps http://t.co/RkDRoTwEJX
+77,641659884451270656,Wed Sep 09 17:10:12 +0000 2015,0,0,ICYMI: Students from @UofA @OpticalSciences @UofR win the #SNPS student optical design competition http://t.co/JWEdP1DQ8O - @SynopsysOptical
+78,641265627152449536,Tue Sep 08 15:03:34 +0000 2015,1,0,"We're holding a #SNPS Networking Reception at SPIE OSD starting at 19:00. Open to all OSD attendees, see you there! http://t.co/wpMQpbkfLK -"
+79,640828259207409664,Mon Sep 07 10:05:37 +0000 2015,2,2,"#SNPS &amp; Light Tec are at SPIE OSD. See booth 105 for optical design software, and come to our networking reception http://t.co/qIDZtet9Qb -"
+80,639740964106469376,Fri Sep 04 10:05:06 +0000 2015,3,0,UK Technology Open days 2015 Register Now! http://t.co/6mAAOxIw7G    #snps #SemiEDA
+81,639499264381595649,Thu Sep 03 18:04:40 +0000 2015,5,0,#DDR Verification IP: skip initialization  http://t.co/B5Sw8hbQyQ #LPDDR #SemiEDA #SemIP #JEDEC #semiwiki #SystemVerilog #UVM #snps -  shemm
+82,639483962663006213,Thu Sep 03 17:03:52 +0000 2015,1,1,"Why certified HDMI IP? Read “Anatomy of The HDMI Certification Flow’ white paper. #snps, @DesignWare_IP,  http://t.co/JURMzI6ob8"
+83,639159372254457856,Wed Sep 02 19:34:04 +0000 2015,0,0,Integrating #MIPI #Soundwire #TestSuite http://t.co/VRlXAtg879 #SemiEDA #SemIP #Debug #semiwiki #SystemVerilog #UVM #snps - @shemmady
+84,638941295654912001,Wed Sep 02 05:07:30 +0000 2015,1,2,"Make your travel plans now! Don’t miss the #SNPS AMS SIG dinner event at ICCAD Nov. 4, DoubleTree Austin, TX. http://t.co/M8EyOaM75d"
+85,638512137812475905,Tue Sep 01 00:42:11 +0000 2015,1,1,I love talking to young professional technologists http://t.co/eBYV2Ue0xJ #SemiEDA #snps - @karenbartleson
+86,637838001855447040,Sun Aug 30 04:03:24 +0000 2015,1,2,Propelling the Next Generation of Verification Innovation. Keynote speech @DVConIndia by Manoj Gandhi . Must attend. - @ytrivedi
+87,637334157580967936,Fri Aug 28 18:41:18 +0000 2015,1,0,#dvcon-india keynote speech by Manoj Gandhi . Latest in verification technology from THE industry leader. http://t.co/HL1mrL53Yu - @ytrivedi
+88,636778323188805633,Thu Aug 27 05:52:37 +0000 2015,1,2,4K resolution displays for mobile SoCs; watch Tech Talk video #snps @DesignWare_IP  @MIPI_Alliance http://t.co/gWuxPXhTtb
+89,636237669316599808,Tue Aug 25 18:04:15 +0000 2015,2,3,#DDR #Verification IP: seamless fast initialization http://t.co/6YVmwI7trK #LPDDR #SemiEDA #SemIP #JEDEC #semiwiki #SystemVerilog #UVM #snps
+90,635953704798134272,Mon Aug 24 23:15:53 +0000 2015,0,1,Come join us at #DVCon-India Sep 10-11 http://t.co/l24Z9twUKC #verification #SemiEDA #SemiIP #semiwiki #UVM #snps - @shemmady
+91,635574738040061952,Sun Aug 23 22:10:00 +0000 2015,1,1,"ARC Processor Summit Silicon Valley - 9/15 @ Hyatt Regency, Santa Clara. Your Embedded Edge Starts Here: http://t.co/Uok0LWcgzn #snps -  Des"
+92,634614167362736128,Fri Aug 21 06:33:02 +0000 2015,1,0,"Higher performance, low power, supporting SD, SDIO and eMMC in a single IP, #snps @DesignWare_IP SD/eMMC IP http://t.co/RU5DQHVatm"
+93,634259712372961280,Thu Aug 20 07:04:34 +0000 2015,1,0,View the #TSMC/#Synopsys CustomSim 16nm FinFET Design Success webinar for tips on addressing FinFET simulation needs.http://t.co/CKhDs9bN5V
+94,633394894069977088,Mon Aug 17 21:48:05 +0000 2015,2,0,Today the IEEE election begins! Access your ballot here http://t.co/BeyzRLpQBp or watch your postal mailbox. Please vote! #SemiEDA #SNPS -
+95,633325161773694977,Mon Aug 17 17:10:59 +0000 2015,2,0,Congratulations to our four winners of the #SNPS student optical design competition http://t.co/ofk6QA8GrM @UofA @OpticalSciences @UofR - @S
+96,631948086487724032,Thu Aug 13 21:58:59 +0000 2015,1,1,"Join us on 9/15 for the ARC Processor Summit Silicon Valley at the Hyatt Regency, Santa Clara. Register today! http://t.co/Uok0LWcgzn #snps"
+97,631823997957730304,Thu Aug 13 13:45:54 +0000 2015,0,0,"Last day of #SPIE #OpticsPhotonics – Which #opticaldesign software is right for you? See us at #SNPS, booth 117. http://t.co/9PjZ747978   @S"
+98,631191219108978689,Tue Aug 11 19:51:28 +0000 2015,0,0,Webinar: Accelerating Verification Closure with #PCIe Gen4 VIP http://t.co/2tku1nHGgo #SemiEDA #SemiIP #semiwiki #SemIP #UVM #Verdi #snps -
+99,630049875548327936,Sat Aug 08 16:16:10 +0000 2015,2,0,"#SPIE #OpticsPhotonics starts tomorrow. Check out our products, services, sponsored events, and #SNPS presentations http://t.co/SfFptayfcQ -"
+100,629015681137274880,Wed Aug 05 19:46:39 +0000 2015,0,0,I am running for President of the #IEEE. #ILookLikeAnEngineer #snps #SemiEDA http://t.co/VdEcxwHxbP - @karenbartleson
+101,628618279171530752,Tue Aug 04 17:27:31 +0000 2015,0,0,Synopsys Verification IP for #PCIe Gen4 http://t.co/ORlq3K6DuW #SemiEDA #SemiIP #MPCIe #semiwiki #SemIP #SystemVerilog #Verdi #PCISIG #snps
+102,628489508531470337,Tue Aug 04 08:55:50 +0000 2015,1,1,Need more storage capabilities in your mobile SoCs? Attend #fms2015 panel 303-F 8/13 3:10pm. #snps @DesignWare_IP http://t.co/IH0ZQ9x1c1
+103,628324745650548736,Mon Aug 03 22:01:07 +0000 2015,0,0,Wish CODE V a Happy 40th Anniversary – Please retweet #CODEVis40 #opticaldesign #software #SNPS #SemiEDA http://t.co/nq7Rg2nd9d   @SynopsysO
+104,628216624168968192,Mon Aug 03 14:51:29 +0000 2015,2,2,Industry 1st USB 3.1 Interop - ASMedia &amp; #snps: http://t.co/YClK4IzURI Video: http://t.co/JDhkTr6v7n http://t.co/que8bqaJam -  DesignWare_IP
+105,627209831963725824,Fri Jul 31 20:10:51 +0000 2015,0,1,Two Yaks raise $ for charity in Mongol Rally. We wish them safe travels on their 10K mi trek! http://t.co/nvPGFVhrjy http://t.co/WE34i6K6pb
+106,626156688140316672,Tue Jul 28 22:26:02 +0000 2015,0,0,Increase Productivity with Synopsys Memory VIP http://t.co/8HwYpw9pU0 #DDR #LPDDR #eMMC #ONFi #HBM #SemiEDA #SemIP #JEDEC #semiwiki #snps -
+107,626050986252087296,Tue Jul 28 15:26:01 +0000 2015,1,0,"Synopsys Announces Industry's First USB Type-C IP Solutions (USB 3.1, 3.0, 2.0) #snps http://t.co/R8LiSJMot3 - @DesignWare_IP"
+108,624268868312256512,Thu Jul 23 17:24:31 +0000 2015,1,0,STMicroelectronics reduces noise violations by 95% with PrimeTime ECO  #semiEDA https://t.co/uZ4CORAIC3 - @PrimeTimeSIG
+109,623553537495187456,Tue Jul 21 18:02:03 +0000 2015,0,0,Watch our video to learn about the new Advanced Design Module in #LightTools version 8.3 https://t.co/pL5Jxd4tYk #SNPS - @SynopsysOptical
+110,623542791054954496,Tue Jul 21 17:19:20 +0000 2015,1,0,#52DAC Verification Panel http://t.co/DFv2rLVphk #SemiEDA #semiwiki #SemIP #AMD #Altera #ARM #Cavium #Freescale #snps http://t.co/1VgW28vENf
+111,623200997679230978,Mon Jul 20 18:41:11 +0000 2015,1,0,Which Synopsys optical design solution is right for you? http://t.co/mAg8lMnQwv #opticaldesign #SNPS #SemiEDA - @SynopsysOptical
+112,623149382830063617,Mon Jul 20 15:16:05 +0000 2015,1,1,Webinar: Using Foundation IP in Low-Power 40nm IoT Designs. Register Now! #snps http://t.co/nzQu4LsweK - @DesignWare_IP
+113,619289986521821184,Thu Jul 09 23:40:13 +0000 2015,0,0,Hands-on Memory VIP Workshops http://t.co/YiTEXsigEi Free: Register now #DDR #LPDDR #eMMC #ONFi #HBM #SemiEDA #SemIP #JEDEC #semiwiki #snps
+114,618185638836224000,Mon Jul 06 22:31:56 +0000 2015,0,0,"Missed the #SNPS DAC Custom Design lunch? Watch Samsung, Socionext and Synopsys IP event videos now.http://t.co/B8sm6IPTxL"
+115,618159946782371840,Mon Jul 06 20:49:50 +0000 2015,1,3,I lost a longtime friend. http://t.co/CrwvR9S14d Prayers to Lori Kate and Casey. #SemiEDA #snps - @karenbartleson
+116,616751427604611072,Thu Jul 02 23:32:53 +0000 2015,0,0,#PCIe 4.0 and Enterprise Computing: the Next Frontier http://t.co/D0iiSjKr0u #SemiEDA #SemiIP #Verification #semiwiki #SemIP #Debug #snps -
+117,616647099720052736,Thu Jul 02 16:38:19 +0000 2015,1,2,The PrimeTime SIG event during @52ndDAC video is now available for viewing. #semiEDA  http://t.co/W5sK1agoLO - @PrimeTimeSIG
+118,616583468760236032,Thu Jul 02 12:25:29 +0000 2015,1,0,What is the next big thing in #LEDs? Article via @ecnonline http://t.co/6cKfLfTGnD @onsemi @element14 @CreeLEDs @plesseysemicon #SNPS -  Syn
+119,616284038266007553,Wed Jul 01 16:35:39 +0000 2015,0,0,#DVCon-India July News http://t.co/QPeYuNkEXH #SemiEDA #SemIP #semiwiki #Verification #Debug #snps - @shemmady
+120,615565349124239361,Mon Jun 29 16:59:50 +0000 2015,4,4,Benefits of Native UVM Verification IP #VIP http://t.co/VWfv1wNDpH #SemiEDA #SemiIP #EDA #Semiwiki #Debug #SystemC #Specman #VHDL #OVM #snps
+121,614509623706578944,Fri Jun 26 19:04:45 +0000 2015,3,3,"#SNPS Grp R&amp;D Director Bernie DeLay on value of SystemVerilog, UVM-based VIP: http://t.co/nJjQWdXdx2 @edacafe #SemiEDA #SemiIP - @ mgulizia"
+122,613851998383964160,Wed Jun 24 23:31:35 +0000 2015,1,1,Verifying #MIPI interfaces in #SoCs http://t.co/CJG9G2rB8I #SemiEDA #SemIP #Debug #semiwiki #CPHY #CSI2 #DPHY #DSI #JEDEC #Unipro #snps -  s
+123,613685339127959553,Wed Jun 24 12:29:21 +0000 2015,2,0,#DVCon-India: Now is the best time to submit your Abstract http://t.co/4yTw5ZgCXQ #Semiwiki #semiEDA #semiip #snps - @shemmady
+124,612996815760326656,Mon Jun 22 14:53:24 +0000 2015,0,0,"There are #standards for everything, even voting machines. http://t.co/WLx7d7kDcN #snps #SemiEDA - @karenbartleson"
+125,611953313697894402,Fri Jun 19 17:46:54 +0000 2015,2,1,"""Confidence is the new verification"" says #SNPS LP Architect Srikanth Jadcherla: http://t.co/bs0bceK5cM #SemiEDA @SemiEngineering -  smguliz"
+126,611617351184838656,Thu Jun 18 19:31:54 +0000 2015,0,0,Learn what's new with Synopsys #RSoft Products version 2015.06 - http://t.co/NQwzdCTwAl #SNPS #SemiEDA http://t.co/TIjztD2LVr -  SynopsysOpt
+127,611615750726512640,Thu Jun 18 19:25:32 +0000 2015,0,0,"#RSoft 2015.06 Release Streamlines Design of Photonic Devices, Photonic Circuits and Fiber Optic Systems http://t.co/KAWQfIUQO9 #SNPS -  Syn"
+128,611012505981349888,Wed Jun 17 03:28:28 +0000 2015,0,2,Hands-on Memory Verification IP Workshops #DDR #LPDDR #eMMC #ONFi #HBM  http://t.co/f7QWZAo19S #SemiEDA #SemIP #JEDEC #semiwiki #snps -  she
+129,610597300507934722,Mon Jun 15 23:58:35 +0000 2015,2,1,Want to learn about #DDR VIP? http://t.co/rWugRkYghK #SemiEDA #SemIP #JEDEC #semiwiki #LPDDR #eMMC #ONFi #HBM #Debug #verification #snps -
+130,610504710106271745,Mon Jun 15 17:50:40 +0000 2015,2,1,See our software solutions for your optical system design challenges. Stop by B2.309 at LASER World of Photonics #LWoP15 #SNPS #SemiEDA -  S
+131,608764059983466497,Wed Jun 10 22:33:56 +0000 2015,0,0,"#52dac New Directions in Static, Formal Verification at 4:30pm Moscone 105 http://t.co/wN14AuMDw1 #semiwiki #snps #semieda #semiip -  shemma"
+132,608723145873309696,Wed Jun 10 19:51:22 +0000 2015,0,1,#52dac who's serving the best coffee? #snps http://t.co/gJ3CuViqlm - @shemmady
+133,608716649278132224,Wed Jun 10 19:25:33 +0000 2015,1,0,"""Manufacturing, design and EDA, that's a trio that's done some incredible things in the world."" Aart of #snps at #52DAC - @yvettehuygen"
+134,608713923089547264,Wed Jun 10 19:14:43 +0000 2015,1,0,Aart de Geus #52DAC Next Big Thing?  Revolutionary Technology rolled out in Evolutionary fashion. Waves of Abstraction. Lego Blocks #snps -
+135,608712442949046274,Wed Jun 10 19:08:50 +0000 2015,0,0,Aart de Geus #52DAC hardware-software continuum. Leading into the Age of IoT. Making SmartEverything possible from Silicon to Systems #snps
+136,608712279857729536,Wed Jun 10 19:08:11 +0000 2015,0,0,"Thanks @dennisbrophy! Ballot is Aug 17-Oct 1. All IEEE members, grad student and above, can vote. #52DAC #snps https://t.co/N4PnKbZAQt -  ka"
+137,608712153307164673,Wed Jun 10 19:07:41 +0000 2015,0,0,"Aart de Geus #snps at #52DAC: ""Change is driven by stress or by courage...the great companies have courage."" - @yvettehuygen"
+138,608711582193975296,Wed Jun 10 19:05:25 +0000 2015,0,0,Aart de Geus #52DAC consolidations are discontinuities: Systems companies focusing on their strengths. Great companies have courage #snps -
+139,608710672386564096,Wed Jun 10 19:01:48 +0000 2015,0,0,"Aart de Geus #52DAC From scale complexity to systemic complexity: collaborations, acquisitions #snps - @shemmady"
+140,608709856879611906,Wed Jun 10 18:58:33 +0000 2015,0,0,"Aart de Geus #52DAC consolidation in EDA, semiconductors to balance technology and economics #snps - @shemmady"
+141,608709346634133504,Wed Jun 10 18:56:32 +0000 2015,0,0,Aart de Geus #52DAC #Analog unlikely to take over from digital: since digital brings speed.  FINFETs bringing them closer #snps - @shemmady
+142,608708992362233856,Wed Jun 10 18:55:07 +0000 2015,0,0,Aart de Geus #52DAC Dick Tracy is no fiction now! Technology continues to rapidly make it happen #snps - @shemmady
+143,608708941212725248,Wed Jun 10 18:54:55 +0000 2015,0,0,"""The first thing you learn in security is that it's never secure."" Aart de Geus at #52DAC #snps http://t.co/YVrHSPTKUf - @yvettehuygen"
+144,608708156584288258,Wed Jun 10 18:51:48 +0000 2015,0,0,Aart de Geus #52DAC #MooresLaw as the exponential ambition of mankind is incredibly alive: software apps IoT hardware #snps - @shemmady
+145,608707278448029696,Wed Jun 10 18:48:19 +0000 2015,0,0,"Aart de Geus #52DAC Synopsys invests over a third in RnD technology leadership, 70-80 acquisitions: research portfolio approach #snps -  she"
+146,608706423426547712,Wed Jun 10 18:44:55 +0000 2015,0,0,Aart de Geus #52DAC #security an interesting adjacency in EDA and IP #snps - @shemmady
+147,608705564152098816,Wed Jun 10 18:41:30 +0000 2015,0,0,"Aart de Geus at #52DAC on security:  ""IoT is like putting kitchen windows in the bank."" #snps - @yvettehuygen"
+148,608705497655595008,Wed Jun 10 18:41:14 +0000 2015,0,0,Aart de Geus #52DAC #security with #IoT massively moving target #snps http://t.co/NXxurVRoOE - @shemmady
+149,608704353185226752,Wed Jun 10 18:36:41 +0000 2015,0,0,"Aart de Geus #52DAC apps first, hardware optimized for app: like amazon for buying patterns, Facebook for social media #snps - @shemmady"
+150,608703182982799360,Wed Jun 10 18:32:02 +0000 2015,2,3,#52DAC fireside chat with Aart De Geus has just begun. Join us now. #snps http://t.co/pLTG4kdvvz - @shemmady
+151,608509673013174272,Wed Jun 10 05:43:06 +0000 2015,0,0,Join us Fireside Chat with Aart de Geus #52DAC Pavilion Booth 311 at 10:30am on Wed http://t.co/uH22wNo3cX #SemiEDA #SemiIP #Semiwiki #snps
+152,608365705701015552,Tue Jun 09 20:11:01 +0000 2015,1,1,#Freescale Oshana #SDN Ref Software faster than #MooresLaw #ZeBu fastest #emulation HW-SW Debug #52DAC #snps http://t.co/TbsXtuG5S8 -  shemm
+153,608362118472167424,Tue Jun 09 19:56:46 +0000 2015,2,0,#AMD #Synopsys #ARM complexity methodology: virtual machine #ZeBu #emulation #Verdi VIP HW-SW Debug #52DAC #snps http://t.co/wSaR54qryr -  s
+154,608358559395528704,Tue Jun 09 19:42:37 +0000 2015,3,0,#Cavium #ARM #Synopsys shift-left virtualization reuse IP VIP verif flow #VCS #UVM #Certitude VC Formal #52DAC #snps http://t.co/iJo7C5tpxD
+155,608354493684695040,Tue Jun 09 19:26:28 +0000 2015,3,1,"#ARM Alan Hunter shift-left 17 years with Synopsys: statistical, IP focused System Verif Debug low power #snps #52DAC http://t.co/OS54r4LImL"
+156,608346177986265089,Tue Jun 09 18:53:26 +0000 2015,1,1,Accelerate automotive SoC development with #snps silicon-proven IP http://t.co/FZEUwbWjD6 http://t.co/9RO3f6KcJu - @DesignWare_IP
+157,608237133040611328,Tue Jun 09 11:40:07 +0000 2015,0,0,#OSA Freeform Optics Conference this week. #SNPS engineer Dr. Kevin Rolland-Thompson co-chairing the event. http://t.co/6bsNUQYbZF -  Synops
+158,608173654497759232,Tue Jun 09 07:27:53 +0000 2015,0,0,#52DAC Must-See Verification Sessions at DAC 2015 San Francisco http://t.co/5Urv5qg9Dt #SemiEDA #SemiIP #EDA #Semiwiki #Debug #snps -  shemm
+159,607584688950145024,Sun Jun 07 16:27:32 +0000 2015,1,2,Going to #52DAC? Learn how #Synopsys can serve you http://t.co/g2oTOal7Ff #SemiEDA #SemiIP #EDA #Semiwiki #snps - @shemmady
+160,607188794484232192,Sat Jun 06 14:14:24 +0000 2015,3,2,Gain insight on how @Imagination Tech &amp; #SNPS collaborate to enable support for early prototyping of the largest GPUs.http://t.co/9MePj6SFjO
+161,606588305359183873,Thu Jun 04 22:28:16 +0000 2015,0,2,Hands-on Synopsys Memory Verification IP workshop http://t.co/YiTEXsigEi #SemiEDA #SemIP #JEDEC #semiwiki #DDR #LPDDR #eMMC #ONFi #HBM #snps
+162,606555725347692544,Thu Jun 04 20:18:48 +0000 2015,0,1,Performance Advantages of Synopsys VIP http://t.co/8A9G6Xa5TY #SemiEDA #SemIP #Debug #JEDEC #semiwiki #DDR #AMBA #MIPI #PCIe #Ethernet #snps
+163,606552545159290880,Thu Jun 04 20:06:10 +0000 2015,0,0,Join us #52DAC Luncheon SoC Leaders Verify with Synopsys on Tue June 9 at Park Central Hotel in San Francisco http://t.co/Shg2nEGmem #snps -
+164,606097010219827201,Wed Jun 03 13:56:02 +0000 2015,0,0,Register now to attend the #SNPS DAC Custom Design lunch Tuesday June 9 at the Park Central Hotel in San Francisco.http://t.co/B8sm6IPTxL
+165,605861061917409281,Tue Jun 02 22:18:28 +0000 2015,0,0,"DAC 2015 #SNPS Circuit Simulation Luncheon: Altera, ST, TSMC and Xilinx on #SNPS Industry Best Performance. http://t.co/A6IPKgO3AZ"
+166,605817925778341888,Tue Jun 02 19:27:03 +0000 2015,1,0,"Hear AMD, ARM, MediaTek &amp; Samsung at the #SNPS DAC IC Compiler II lunch June 8 Park Central Hotel San Francisco. http://t.co/p17x69BpE7"
+167,605804401119264769,Tue Jun 02 18:33:19 +0000 2015,1,1,Benefits of #MIPI #Soundwire http://t.co/0geSPW4sbM #SemiEDA #SemIP #Debug #DigitalAudio #semiwiki #Verification #PDM #PCM #snps - @shemmady
+168,605718781768273920,Tue Jun 02 12:53:05 +0000 2015,1,0,Register to attend the #SNPS DAC Circuit Simulation lunch Monday June 8 at the Park Central Hotel in San Francisco.http://t.co/a8NrR6NcdU
+169,604344864826900480,Fri May 29 17:53:38 +0000 2015,0,1,Configuring Memory #Verification IP http://t.co/m7kLLYhMl1 #SemiEDA #SemIP #Debug #JEDEC #semiwiki #Debug #DDR #LPDDR #eMMC #ONFi #HBM #snps
+170,603613823182987265,Wed May 27 17:28:44 +0000 2015,1,1,Memory VIP Challenges http://t.co/reAjHl6YTm #SemiEDA #SemIP #Debug #JEDEC #semiwiki #Verification #Debug #DDR #LPDDR #eMMC #ONFi #HBM #snps
+171,603306831289708544,Tue May 26 21:08:52 +0000 2015,1,0,"SIG events are where we meet.  Will you, #semiconductor be there?@52ndDAC http://t.co/W5sK1agoLO - @PrimeTimeSIG"
+172,601851852012036096,Fri May 22 20:47:18 +0000 2015,2,2,"Highlighting a nice article about the Big 3 EDA companies' standards people, with @dennisbrophy http://t.co/AsxgY6k2V3 #snps #semieda -  kar"
+173,601830146744520705,Fri May 22 19:21:03 +0000 2015,3,1,Learn about benefits of industry’s lowest power PCIe 3.1 IP solution? See #snps @DesignWare_IP http://t.co/bopqFRh0Kv http://t.co/Os1ekSGiMX
+174,601804449653334016,Fri May 22 17:38:56 +0000 2015,0,0,"Do you want to hear from Broadcom, GLOBALFOUNDRIES &amp; STMicroelectronics at the PrimeTime SIG? @52ndDAC http://t.co/W5sK1agoLO -  PrimeTimeSI"
+175,601471389930037248,Thu May 21 19:35:28 +0000 2015,1,1,"#HDCP Locality Check, #SKE, Authentication with Repeaters http://t.co/TfhpOlbTAI #HDMI #SemiEDA #SemiIP #Debug #semiwiki #RSA #AKE #snps -"
+176,601126090296467456,Wed May 20 20:43:22 +0000 2015,0,0,Fiscal 2Q earnings results very strong -- solidify outlook. Revenue: $557.2M; Non-GAAP EPS: $0.68 #SNPS #semieda http://t.co/W0G2ltNiaC -  y
+177,601041378295029761,Wed May 20 15:06:46 +0000 2015,1,0,"Students, less than a month left to enter the #SNPS student optical design contest. For info about prizes and details http://t.co/piKid1Frr4"
+178,600711428958486529,Tue May 19 17:15:39 +0000 2015,1,2,Webinar: Verification Challenges of Evolving #Ethernet 25/40/50/100G/beyond http://t.co/sDUYfEJGjL #SemiEDA #SemiIP #Debug #semiwiki #snps -
+179,600710539480793090,Tue May 19 17:12:07 +0000 2015,2,1,"#MIPI #Soundwire Digital Audio Streams, Channels http://t.co/8XvXS6FWAP #SemiEDA #SemIP #Debug #DigitalAudio #semiwiki #Verification #snps -"
+180,598883343959220224,Thu May 14 16:11:30 +0000 2015,1,1,#HDCP 2.2: Authentication and Key Exchange (#AKE) http://t.co/kuol55dC5c #HDMI #SemiEDA #SemiIP #Debug #semiwiki #Verification #RSA #snps -
+181,598545826051452929,Wed May 13 17:50:20 +0000 2015,2,4,"Synopsys' #VerificationIP #DDR4 #3DS Enables #DRAM High Density Performance Low Power http://t.co/qxebKQMsLc #UDIMM, #RDIMM, #LRDIMM #snps -"
+182,598545236248375296,Wed May 13 17:47:59 +0000 2015,3,2,Synopsys' Verification IP DDR4 3DS for DRAM High Density Performance Low Power http://t.co/qxebKQMsLc #SemiEDA #SemIP #JEDEC #semiwiki #snps
+183,598146729989578752,Tue May 12 15:24:28 +0000 2015,1,3,#AMBA System Monitor #Scoreboarding http://t.co/t4mql5w6tV #SemiEDA #SemIP #Debug #JEDEC #semiwiki # #Debug #AXI4 #AHB #APB #SemiIP #snps -
+184,597910072157720576,Mon May 11 23:44:04 +0000 2015,1,2,Webinar: Addressing Verification Challenges of Evolving #Ethernet 25/40/50/100G http://t.co/sDUYfEJGjL  #SemiEDA #SemiIP  #semiwiki #snps -
+185,596432301011120128,Thu May 07 21:51:56 +0000 2015,0,1,"@Synopsys CAE director Sanjana Nair discusses her career path, gives advice to engineering grads #snps  https://t.co/bdmv3Abojc - @smgulizia"
+186,596387113635061760,Thu May 07 18:52:22 +0000 2015,0,1,#MIPI #Soundwire: Pulse Density Modulation (#PDM)  http://t.co/Vsn23UOqjf #SemiEDA #SemIP #Debug #JEDEC #semiwiki #Verification #Debug #snps
+187,595988733360480257,Wed May 06 16:29:21 +0000 2015,0,1,Busy show @lightfair in NYC! See #SNPS at booth #112 for #LightTools for illumination design.  #LFI2015 http://t.co/Jzd1d0hyv7 -  SynopsysOp
+188,595642377928318976,Tue May 05 17:33:04 +0000 2015,0,0,#HDCP 2.2 Authentication: #RSA #Cryptography  http://t.co/xv8Y6OYQnu  #HDMI #SemiEDA #SemiIP #Debug #semiwiki #Verification #JEDEC #snps -
+189,595304797198221313,Mon May 04 19:11:38 +0000 2015,1,0,"We are @lightfair #LFI2015 in NYC. See #SNPS at booth #112 for #LightTools for illumination design. Or, check out http://t.co/R3HFJlbWwa -"
+190,594178708291907584,Fri May 01 16:36:58 +0000 2015,0,0,Will you be there  PrimeTime SIG dinner during #52ndDAC on June 8th? http://t.co/W5sK1agoLO - @PrimeTimeSIG
+191,593905696086880256,Thu Apr 30 22:32:06 +0000 2015,1,0,#DVCon Europe CFP now open until 5/11 http://t.co/81XNtppdnl #SemiEDA #SemiIP #Verification #semiwiki #SemIP #snps https://t.co/ydYHFQRNHP -
+192,593830463548084225,Thu Apr 30 17:33:10 +0000 2015,2,2,#PCIe VIP: Monitors and Test Suites http://t.co/vEW0LFGXVK #SemiEDA #SemiIP #Verification #JEDEC #semiwiki #MPCIe #SemIP #Debug #snps -  she
+193,593505274628976642,Wed Apr 29 20:00:58 +0000 2015,0,0,"Follow @CLEOConf for updates on #CLEO15, and check out Booth 1723 for #RSoft software solutions from #SNPS  http://t.co/wa6nUV1WVd -  Synops"
+194,593479973794684930,Wed Apr 29 18:20:26 +0000 2015,0,0,Video: Hybrid IP Proto Kits combine virtual &amp; FPGA-based prototyping to speed IP SW dev #ARM #snps http://t.co/yv0O7VIk2L - @D signWare_IP
+195,593462079971053570,Wed Apr 29 17:09:20 +0000 2015,0,0,Synopsys launches Hybrid IP Prototyping Kits for 64-bit ARM-based designs #snps http://t.co/s7jwIyQp11 - @DesignWare_IP
+196,593118745066876928,Tue Apr 28 18:25:03 +0000 2015,0,0,#MIPI #Soundwire: Pulse Code Modulation (#PCM)  http://t.co/3fKxXX9M55 #SemiEDA #SemIP #Debug #JEDEC #semiwiki #Verification #Debug #snps -
+197,593083528461611008,Tue Apr 28 16:05:06 +0000 2015,1,0,"@Synopsys Aart de Geus tells McKinsey about change management, the reality of growth: http://t.co/QOqieGEpZd #SNPS #SemiEDA - @smgulizia"
+198,593078871043506176,Tue Apr 28 15:46:36 +0000 2015,0,1,Heading to @lightfair #LFI2015 next week in NYC. See #SNPS at booth #112 for #LightTools for illumination design http://t.co/ju2eiS09R5 -  S
+199,591367736711892992,Thu Apr 23 22:27:10 +0000 2015,2,0,Free #SNPS workshop (with lunch) on 5/11: Embedded Vision Processors for Video Surveillance and Object Detection. http://t.co/3RcKDBMWAo -

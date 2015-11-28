@@ -1,0 +1,105 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,658746575896866817,Mon Oct 26 20:46:37 +0000 2015,10,0,RT @shervin: The real Robo-cop. cc @elonmusk https://t.co/06okuyoHD5
+1,657555637736493056,Fri Oct 23 13:54:15 +0000 2015,112,0,RT @toddmotto: Everyone remembers their first Angular app. https://t.co/PwQ4RQzgQU
+2,653274547827961856,Sun Oct 11 18:22:44 +0000 2015,2504,0,RT @elonmusk: Some exciting news this week: Tesla Version 7 software with Autopilot goes to wide release on Thursday!
+3,646230232345800704,Tue Sep 22 07:51:08 +0000 2015,704,0,RT @addyosmani: We just added support for *rearranging* @ChromeDevTools tabs using drag-and-drop. Coming to a Canary near you soon! http://…
+4,644778096139345920,Fri Sep 18 07:40:52 +0000 2015,1625,0,RT @dalecruse: If engineers were treated like designers. http://t.co/yy4WxGGgTR
+5,644777930036543488,Fri Sep 18 07:40:12 +0000 2015,14,0,RT @teropa: git stash pop http://t.co/EiOY5AzBUF
+6,640148848250351616,Sat Sep 05 13:05:53 +0000 2015,23,0,RT @Heilemann: http://t.co/7elfERqzJs
+7,627896400576180224,Sun Aug 02 17:39:02 +0000 2015,42,0,"RT @bcrypt: 2 rules for running a tech company:
+1. the org chart should be a directed acyclic graph
+2. don't write bugs"
+8,620545408528461824,Mon Jul 13 10:48:49 +0000 2015,12646,0,"RT @jonathansampson: git commit -m ""Fixed interface issues."" http://t.co/fRQaFLt2fZ"
+9,607251549233004544,Sat Jun 06 18:23:46 +0000 2015,514,0,"RT @shanselman: Seriously, browse the web with the developer tools console open logging errors and be truly amazed that the internet ever w…"
+10,606118648382672896,Wed Jun 03 15:22:01 +0000 2015,154,0,RT @codepo8: Can I use for terminal looks great! good job @sgentle https://t.co/Usq4WSGodc http://t.co/1UI0WfWZiH
+11,590542561279930370,Tue Apr 21 15:48:13 +0000 2015,587,0,"RT @garybernhardt: Programmer's motto: ""We'll cross that bridge when it's burning underneath us."""
+12,588763299380121602,Thu Apr 16 17:58:03 +0000 2015,50,0,"RT @cowboy: Git Pro Tip: Make a initial empty commit (git commit --allow-empty -m ""Initial (empty) commit.""). It'll make rebasing master so…"
+13,588737404305076224,Thu Apr 16 16:15:10 +0000 2015,20,0,"RT @toddmotto: What to expect from Angular's new router (versus ui-router), backported from v2.0 for v1.4: https://t.co/ELJLX5Gvfj"
+14,588737404296683520,Thu Apr 16 16:15:10 +0000 2015,245,0,RT @sandromancuso: I believe software design should be taught before TDD. TDD can’t lead to good design if we don’t know what good design l…
+15,588153107198173184,Wed Apr 15 01:33:22 +0000 2015,40,0,"RT @pewpewarrows: Bravo, Apple
+
+http://t.co/p1JnXozNIa"
+16,588152691945299968,Wed Apr 15 01:31:43 +0000 2015,31,0,RT @willmanduffy: Every time I see a Ruby dev go “lol php” I think to myself “lol ruby” and then “lol javascript” and then “lol programming…
+17,588152139047919616,Wed Apr 15 01:29:31 +0000 2015,1871,0,RT @tveastman: This slide needs to be tattooed on people. @nnja #PyCon2015 #pycon http://t.co/WUvelj7eHY
+18,588151896868835328,Wed Apr 15 01:28:34 +0000 2015,37,0,RT @varjs: Dear Open Web friends. I wrote a free book on HTML5 &amp; CSS3. Used a lot of analogies. I'd also let my mother read it. http://t.co…
+19,587387342723403776,Sun Apr 12 22:50:30 +0000 2015,3409,0,RT @jfuerth: Now I don't have to worry if someone steals my potatoes: they're hashed and salted. http://t.co/BMNxRK7c0H
+20,575214897623080960,Tue Mar 10 08:41:33 +0000 2015,3,0,RT @jpsaraceno: If you know FP then iterate lists is easy and simple. But if you don't it almost always takes a *while* to get it done #ner…
+21,567368055957643265,Mon Feb 16 17:01:00 +0000 2015,80,0,"RT @igrigorik: git-stats: GitHub-like contributions calendar, but in your console! awesome stuff: http://t.co/G71pxfuWxL"
+22,567367681306034176,Mon Feb 16 16:59:31 +0000 2015,5,0,RT @michalbe: 21 GIFs That Explain Mathematical Concepts http://t.co/qAlBbX8dFE
+23,554355978876231680,Sun Jan 11 19:15:39 +0000 2015,9,0,RT @MMiszy: Pamiętajcie dziś o @fundacjawosp i tweecie z tagiem #MasterCardGraZWOSP (za każdy Orkiestra dostaje 5zł).
+24,551456504218673154,Sat Jan 03 19:14:10 +0000 2015,56,0,"RT @pluralsight: ""Education isn't something you can finish."" - #IsaacAsimov http://t.co/cxWDeK0fSJ"
+25,549142381426380800,Sun Dec 28 09:58:40 +0000 2014,655,0,RT @h_carver: @SwiftOnSecurity I already have a yolo command https://t.co/oiXAsfW47C
+26,549141427339661312,Sun Dec 28 09:54:53 +0000 2014,2506,0,RT @brunoborges: Learn #HTTP status codes in one image... :-) // via @abt_programming // http://t.co/9eB7JLqBxR
+27,547473058626564098,Tue Dec 23 19:25:23 +0000 2014,1087,0,RT @nixcraft: LOL. Unix uses will understand this. Via http://t.co/s5Jfef6158 #funny #security #IT #Linux #BSD #JamesBond http://t.co/NHttw…
+28,545999172965769216,Fri Dec 19 17:48:41 +0000 2014,12,0,"RT @seldo: npm is looking for interns in summer of 2015: http://t.co/2qAufrb4oI
+Work on open source software, and get paid!"
+29,542283570560401408,Tue Dec 09 11:44:13 +0000 2014,23,0,RT @codepo8: 'use strict'; let it = 'snow';
+30,538643201058668545,Sat Nov 29 10:38:41 +0000 2014,5,0,RT @getbaselab: Polymer Polytechnic in full swing at @getbaselab! #itshackademic #gdgkrk http://t.co/8X5VSwL3cm
+31,513793882359087105,Sun Sep 21 20:56:22 +0000 2014,356,0,"RT @FIVBVolleyball: And after 40 years of waiting, #TeamPoland is once again #FIVBMensWCH champions http://t.co/diG7C3TF54 http://t.co/ghbG…"
+32,492965638798073857,Sat Jul 26 09:32:21 +0000 2014,543,0,RT @MKBHD: http://t.co/yVOXJz0nuH
+33,478778868963500032,Tue Jun 17 05:59:12 +0000 2014,6,0,"RT @michalbe: Nie czytasz JSNews w pracy bo boisz się podejrzenia o prokrastynację? Już nie musisz, jest JSNews w linii komend! https://t.c…"
+34,476691419005218817,Wed Jun 11 11:44:25 +0000 2014,4803,0,"RT @mgoldst: FINAL.psd
+FINAL_02.psd
+FINAL_02_v1.psd
+FINAL_MAYBE.psd
+SERIOUSLY_FINAL.psd
+NO_REALLY_FINAL.psd
+NOREALLYIMEANITTHISTIMEFINAL.ps…"
+35,457087633047683072,Fri Apr 18 09:25:58 +0000 2014,244,0,"RT @garybernhardt: The video of ""The Birth &amp; Death of JavaScript"", a history from 1995 until 2035, is up. So many hours of my life! https:/…"
+36,457087509961670656,Fri Apr 18 09:25:29 +0000 2014,22,0,RT @codepo8: The Magic of CSS: http://t.co/EXndjBAVJU - online book and code examples
+37,455740598054842368,Mon Apr 14 16:13:20 +0000 2014,8,0,RT @varjs: Gdybyście przegapili – napisałem darmową książkę o HTML5 i CSS3 dla początkujących – http://t.co/FtQx8gMpRi
+38,453243381511380992,Mon Apr 07 18:50:17 +0000 2014,314,0,RT @ChromiumDev: We're happy to contribute to the &lt;picture&gt; element implementation campaign: https://t.co/WBg35ktZJW Responsive images on t…
+39,448863588997169152,Wed Mar 26 16:46:33 +0000 2014,170,0,"RT @WebStormIDE: Welcome WebStorm 8: @angularjs support, spy-js, multiple cursors, Grunt integration, and more: http://t.co/BD0EAGCOxb"
+40,446595223653994496,Thu Mar 20 10:32:53 +0000 2014,3117,0,RT @dam: The most crucial step to any tutorial: http://t.co/wSaj7gNSQ8
+41,426461925032357890,Thu Jan 23 21:10:20 +0000 2014,39,0,"RT @MKBHD: New lineup of Audio Technica headphones w/ detachable cables, featuring ATH-M50x: http://t.co/WXLUYn6eDl"
+42,423850710175055872,Thu Jan 16 16:14:18 +0000 2014,188,0,RT @iamdevloper: I bet King Joffrey writes Java.
+43,422343567550734336,Sun Jan 12 12:25:27 +0000 2014,50,0,RT @socialmemos: Za każdego tweeta z tagiem #MasterCardGraZWOSP MasterCard przeznaczy dziś 5 zł na @fundacjawosp :) Tweetować!
+44,421625505801334784,Fri Jan 10 12:52:08 +0000 2014,0,0,Yesterday I started using f.lux for adjusting my computer screen at night and it's great!
+45,421621560857071616,Fri Jan 10 12:36:28 +0000 2014,2,0,RT @njet: OS X / iOS workshops at AGH in #omgkrk: http://t.co/hpdBxJqpBB
+46,420988492005801984,Wed Jan 08 18:40:52 +0000 2014,0,0,Właśnie pobieram za darmo książkę #apple OS X Poradniki dla początkujących od @njet #applezadarmo » http://t.co/SvAhqgCp7G
+47,415616196038242305,Tue Dec 24 22:53:17 +0000 2013,258,0,"RT @chriscoyier: what did you get for christmas??
+
+i got a function but i think i’m going to return it;"
+48,391622746104664064,Sat Oct 19 17:51:53 +0000 2013,3,0,"RT @mostruszka: .@varjs is giving his ""a day of frontend progranmer"" talk. Lots of laugh :) #meetjs"
+49,378402584975142912,Fri Sep 13 06:19:41 +0000 2013,3,0,"RT @konieczny: No i mamy polskiego Skype'a... I to z Krakowa! :) 
+Brawa Jakub Krzych! http://t.co/aeNp28b6xx"
+50,299999096473788416,Fri Feb 08 21:52:12 +0000 2013,187,0,"RT @elonmusk: SpaceX software engineering is doing an AMA on Reddit   
+http://t.co/hwkUwM5v"
+51,266958874018476034,Fri Nov 09 17:42:10 +0000 2012,0,0,http://t.co/Da0dKoNR really cool
+52,224941708977258496,Mon Jul 16 19:00:57 +0000 2012,0,0,"TrendBook2012 zawiera analize pieciu najwazniejszych trendow w 2012 roku. Kraza one, podobnie jak w ubieglym roku, w... http://t.co/2rXhRLwN"
+53,137290691356266496,Thu Nov 17 22:07:06 +0000 2011,1,0,RT @warstwydotcom: Landscape Photography http://t.co/unBFeYmk
+54,125919863486152704,Mon Oct 17 13:03:29 +0000 2011,5,0,RT @paweltkaczyk: W hołdzie Steve'owi Jobsowi: piosenka samplowana z… dźwięków produktów Apple :) http://t.co/1gqJOfFW #apple #stevejobs
+55,114129186104426496,Thu Sep 15 00:11:33 +0000 2011,164,0,"RT @smashingmag: Wow, that's useful: Huge Collection of Code Snippets: .htaccess, PHP, WordPress, jQuery, HTML, CSS - http://t.co/80BGphC"
+56,104103371522314240,Thu Aug 18 08:12:32 +0000 2011,0,0,Interesting tool http://t.co/5DUsxTu
+57,101621534166228992,Thu Aug 11 11:50:36 +0000 2011,1,0,RT @warstwydotcom: Brilliant and Useful HTML5 Tutorials You Must See http://t.co/yfadwNh via @colaja
+58,100661365873721344,Mon Aug 08 20:15:14 +0000 2011,0,0,Save Time Using Photoshop Smart Objects http://t.co/7kBFPRX via @freewebdesignaz
+59,98725969438842880,Wed Aug 03 12:04:40 +0000 2011,0,0,The future of CSS layouts | .net http://t.co/OHxlM83
+60,98455233725874176,Tue Aug 02 18:08:51 +0000 2011,117,0,RT @Paulseys: Best 404 page ever! http://t.co/t4FFpv8 /via @wildonion
+61,97636670656094208,Sun Jul 31 11:56:10 +0000 2011,0,0,The UX of Learning: http://t.co/Oqu6Jcv
+62,97633936112492544,Sun Jul 31 11:45:18 +0000 2011,1,0,RT @warstwydotcom: High-Quality and Free Design Resource Websites | Design Informer http://t.co/MK9uq6k via @designinformer
+63,97633834769723392,Sun Jul 31 11:44:54 +0000 2011,1,0,RT @warstwydotcom: 50 Superb & Free PSD Files From Dribbble To Learn From The Best http://t.co/3Lq3oNE via @1stwebdesigner
+64,97213722342342656,Sat Jul 30 07:55:32 +0000 2011,2,0,13 przekleństw związanych z nocą zarwaną na pracę http://bit.ly/nBgsCd
+65,97212791445925888,Sat Jul 30 07:51:50 +0000 2011,0,0,"50 Useful Coding Techniques (CSS Layouts, Visual Effects and Forms) http://t.co/WcSWzHd via @smashingmag"
+66,96245598218498049,Wed Jul 27 15:48:33 +0000 2011,4,0,RT @acrisdesign: 25 Free And High Quality Fonts http://tinyurl.com/4ykakrs
+67,96245186019078144,Wed Jul 27 15:46:55 +0000 2011,2,0,RT @topdesignmag: Unbelievable Houses Designs : http://t.co/PCZjLLT
+68,95942340627275776,Tue Jul 26 19:43:31 +0000 2011,5,0,RT @WebDesignMagz: Avoiding common HTML5 mistakes | HTML5 Doctor http://bit.ly/mZcTK4 #webdesign
+69,95942204878626816,Tue Jul 26 19:42:58 +0000 2011,47,0,RT @smashingmag: The Little Manual of API Design (PDF) - http://bit.ly/Vaymk #useful
+70,95940941524893696,Tue Jul 26 19:37:57 +0000 2011,1,0,RT @warstwydotcom: Logo Design Inspiration: 50+ Latest Examples | Inspiration | instantShift http://t.co/sI4BPgc via @instantshift
+71,95940871685550081,Tue Jul 26 19:37:40 +0000 2011,134,0,RT @TheNextWeb: Nerd Fitness: From 60 pounds overweight to 6-pack abs http://tnw.to/1A8pI on @TNWlifehacks
+72,95940823362965505,Tue Jul 26 19:37:29 +0000 2011,1,0,RT @creativeofblog: 5 Tips to Boost Your Productivity by a Mile http://bit.ly/nt8HXm
+73,95940808594821120,Tue Jul 26 19:37:25 +0000 2011,2,0,"RT @WebDesignMagz: 40 Useful CSS Tutorials, Techniques And Resources | New Design Blog http://bit.ly/qAlgG1 #jQuery"
+74,95460660779036672,Mon Jul 25 11:49:29 +0000 2011,1,0,RT @warstwydotcom: 100+ Photoshop Backgrounds and Patterns in Shades of Blue http://t.co/KVapokn via @dzinepress
+75,95460648984649729,Mon Jul 25 11:49:26 +0000 2011,1,0,RT @warstwydotcom: Niche Designing: Designing With a Target in Mind http://t.co/HARBGSz via @machoarts
+76,94723611075678208,Sat Jul 23 11:00:43 +0000 2011,2,0,RT @warstwydotcom: RT @smashinghub 25 Powerful Examples of Masonry jQuery Web Design http://bit.ly/or4fAl
+77,94140467037483009,Thu Jul 21 20:23:31 +0000 2011,0,0,Reading 'Lessons Learned: Productivity Tips For Running A Web Design Business' (via @smashingmag) http://t.co/Bb927Gt
+78,93645984336326656,Wed Jul 20 11:38:37 +0000 2011,0,0,Awesome Giveaway: Win A 15” MacBook Pro! | Top Design Magazine - Web Design and Digital Content http://t.co/4OEvZA8 via @topdesignmag
+79,90967588284280832,Wed Jul 13 02:15:37 +0000 2011,2,0,RT @paweltkaczyk: 15 użytecznych aplikacji dla projektantów. Niektóre (jak generator polityki prywatności) chciałbym zobaczyć po polsku… ...
+80,90148540491378688,Sun Jul 10 20:01:01 +0000 2011,0,0,20 things that drive web developers crazy | .net http://t.co/NwoiF6S
+81,89664117312462849,Sat Jul 09 11:56:06 +0000 2011,0,0,30 The Most Useful Google Products You Should Consider Using Daily http://t.co/XoWEZsm via @1stwebdesigner
+82,89408181121466368,Fri Jul 08 18:59:06 +0000 2011,0,0,10 Ways to Overcome Mental Blocks & Boost Creativity http://bit.ly/cf4P4g
+83,88637825108541440,Wed Jul 06 15:57:58 +0000 2011,0,0,BgPatterns — Background Patterns Maker: http://t.co/zvurLp7 via @AddThis
+84,88377379961049088,Tue Jul 05 22:43:04 +0000 2011,0,0,Reading 'Free WordPress Themes: 2011 Edition' (via @smashingmag) http://t.co/Va6end2
+85,88376292721963008,Tue Jul 05 22:38:44 +0000 2011,0,0,Web Design Resources list : http://t.co/7fsJ984
+86,88374343800860672,Tue Jul 05 22:31:00 +0000 2011,1,0,RT @warstwydotcom: 70+ Inspirational Examples of Websites Designed With HTML5 | Inspiration | instantShift http://t.co/MBOUfmH via @inst ...
+87,86773788812910592,Fri Jul 01 12:30:58 +0000 2011,9,0,RT @boagworld: You have to love @rem's jQuery for Designers (http://jqueryfordesigners.com/). I would be lost without that site.
+88,79127224141365248,Fri Jun 10 10:06:15 +0000 2011,0,0,Designers' List - Great resources and websites for designers.: http://t.co/TUvo8K4 @designers_list

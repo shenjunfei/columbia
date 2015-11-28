@@ -1,0 +1,68 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,667120452549124097,Wed Nov 18 23:21:25 +0000 2015,0,1,@nemshilov you are in Australia in the perfect season for camping. I particularly like going canoe camping near Wollongong.
+1,667068184235786240,Wed Nov 18 19:53:43 +0000 2015,0,0,"TIL:
+console.time(“stuff”);
+doStuff();
+console.timeEnd(“stuff”);"
+2,665227069903626240,Fri Nov 13 17:57:47 +0000 2015,0,1,"@sarah_edo @dudleystorey 
+
+Seeded randoms are also great for reproducing results.
+
+https://t.co/TZDd1cUuQl"
+3,661678235273420800,Tue Nov 03 22:55:59 +0000 2015,0,1,"@gregmcintyre ooh, an iTunes major release. “We noticed you finally got used to the last UI… so we changed it."""
+4,661317400751710209,Mon Nov 02 23:02:09 +0000 2015,0,1,@nemshilov people might complain that it isn’t realistic enough.  Unless of course you made the CG horses die too.
+5,657002886497353728,Thu Oct 22 01:17:49 +0000 2015,0,0,@julio_ody not to be confused with RedTube.
+6,633744498334412800,Tue Aug 18 20:57:17 +0000 2015,1,0,"@aircanada, Congrats, you win the award for worst airline ever. Last week you snapped our stroller in half.  Today you lost our luggage."
+7,629848166406303744,Sat Aug 08 02:54:39 +0000 2015,0,0,"@shaunsymm not quite.  Seattle, but close enough ;)"
+8,629554973949308928,Fri Aug 07 07:29:37 +0000 2015,0,1,And then it got real... http://t.co/GSGx6Qmv0Z
+9,618685054244401152,Wed Jul 08 07:36:26 +0000 2015,0,1,Conversion Tracking Pixels + JS Driven Apps = Hell
+10,616474743206748165,Thu Jul 02 05:13:26 +0000 2015,0,0,@nemshilov  I might also mention that since implementing the hook nobody has used !important.  Mission accomplished ;)
+11,616473907697176576,Thu Jul 02 05:10:07 +0000 2015,0,0,@nemshilov we have a git pre-commit hook that looks for !important in our CSS and shames the committer on slack if found.
+12,613968945662590979,Thu Jun 25 07:16:18 +0000 2015,4,0,RT @raurir: Airtasker are looking for a Senior Javascript Engineer. Great place + you get to work with me! http://t.co/CKOn2qt9ae
+13,613561736004632576,Wed Jun 24 04:18:11 +0000 2015,0,0,@brentsnook @johnbarton no doubt it will be about as effective as its rabbit-proof predecessor.
+14,613249539068133376,Tue Jun 23 07:37:38 +0000 2015,0,0,@julio_ody fortunately pieces such as this http://t.co/aeHabuCWu1 offer an alternative perspective
+15,613160135733571584,Tue Jun 23 01:42:22 +0000 2015,1,1,@_ericelliott the best engineers I have every worked with are never afraid to ask what seem like simple questions. Working without ego ;)
+16,612959787811102722,Mon Jun 22 12:26:16 +0000 2015,2,0,"RT @teeerevor: Awesome, some good news for a change. http://t.co/ik9KZP3Wct"
+17,610655764403781633,Tue Jun 16 03:50:54 +0000 2015,0,0,"@dsturnbull excellent idea.  I can finally take advantage of my VBScript knowledge from yr10 to write macros.
+
+Dim foo
+foo = ""FML"""
+18,610623854851944448,Tue Jun 16 01:44:06 +0000 2015,0,0,The tech doc JSON examples are cells in a spreadsheet… FML
+19,610622438087397377,Tue Jun 16 01:38:28 +0000 2015,0,0,"Just received tech docs spread across 6 PDF, DOC, XLS files. Do you even internets?"
+20,608776436506189825,Wed Jun 10 23:23:07 +0000 2015,0,2,@mxcl @nkbtnk next time request one of those whiteboards that can spin around.  It makes the inversion quite trivial.
+21,608055408100581376,Mon Jun 08 23:38:01 +0000 2015,0,0,Proposals for the #auspol theme song?  I’ll go first https://t.co/AjTlJSBmV8
+22,606628678202757120,Fri Jun 05 01:08:42 +0000 2015,0,1,@julio_ody also like a Facebook group in that the admins can boot you if they decide they no longer like you.
+23,605543997566644224,Tue Jun 02 01:18:34 +0000 2015,0,1,"@gregmcintyre not true, an hour spent spent smoking crack will more efficiently reduce life expectancy."
+24,603017425064439808,Tue May 26 01:58:52 +0000 2015,0,0,"@gregmcintyre well, since you asked… I was c-section ;)"
+25,602604739541491712,Sun May 24 22:39:00 +0000 2015,0,1,"@julio_ody Well, renderToString is like steel, it is strong. And then render is like fire, it melts the steel and reforges it in a new form."
+26,602602673549012992,Sun May 24 22:30:47 +0000 2015,0,0,"@julio_ody not true, it does TWO things.
+
+render, renderToString
+
+;)"
+27,601614641236684800,Fri May 22 05:04:42 +0000 2015,2,0,RT @raurir: What’s your favourite es5 promises library/tool? #javascript #developers
+28,600105192923598850,Mon May 18 01:06:42 +0000 2015,0,1,@gregmcintyre @tankstreamvc
+29,598374601391910912,Wed May 13 06:29:56 +0000 2015,0,0,@nemshilov Have fun making it work for multi-line text ;)
+30,593583673682698240,Thu Apr 30 01:12:30 +0000 2015,0,0,http://t.co/80fHWwZtPd MS Edge: Draw monkeys on search inputs.  No support for fetch(). What’s the sound of no hands clapping?
+31,590385314348142592,Tue Apr 21 05:23:22 +0000 2015,0,0,Downloaded the latest JS lib from @OAuth_io but it is still using FB Graph API v1.  9 days to go... What gives?
+32,577264914328240128,Mon Mar 16 00:27:35 +0000 2015,0,0,@iinet congrats on joining @plntxtoffenders
+33,575436713771712513,Tue Mar 10 23:22:58 +0000 2015,0,0,"@Shadertoy @raurir 
+Is the viewer moving in circles or not? My head wasn’t made for this."
+34,573728317192318976,Fri Mar 06 06:14:24 +0000 2015,1,0,RT @raurir: type mardigras on http://t.co/W8SpzPyGfe #MardiGras2015
+35,572602715219443712,Tue Mar 03 03:41:40 +0000 2015,0,0,Having a fish tank on my desk at work is awesome. http://t.co/5hub4af527
+36,568191217898369024,Wed Feb 18 23:31:57 +0000 2015,1,1,"@gregmcintyre, perhaps we should ask everybody in Australia whether they support the census or not. We could ask them with a..."
+37,567465189134462977,Mon Feb 16 23:26:58 +0000 2015,0,0,Now that #filezilla comes with #malware can anybody recommend a free FTP client that works on windows and OSX? Needed for teaching a class.
+38,564998161144754177,Tue Feb 10 04:03:53 +0000 2015,0,1,"@lightningdb I should put some serious money on Tones.  If he wins, then I will at least be able to drown my sorrows in style."
+39,562518919559122944,Tue Feb 03 07:52:16 +0000 2015,0,0,Production deploys over a tethered iPhone 4 with 3G.  Such agile.
+40,555616170221400065,Thu Jan 15 06:43:12 +0000 2015,0,0,TIL “gib physics”.  I guess I will be sticking to veggies for a while.
+41,547260124172005376,Tue Dec 23 05:19:15 +0000 2014,0,0,"Merry Christmas from Airtasker https://t.co/iwfb7GORo4
+
+Coded up by @raurir"
+42,546838240670400512,Mon Dec 22 01:22:50 +0000 2014,0,0,@julio_ody or webpack it.  You’ll be gladder.
+43,542616400943005696,Wed Dec 10 09:46:45 +0000 2014,1,0,"@tankstreamvc @airtasker yeah, it is my version of blue steel."
+44,542616137821736960,Wed Dec 10 09:45:43 +0000 2014,0,1,@johnbarton thnx John.  I wasn't sure whether a topic so close to the front line would resonate. Seems at least a few people enjoyed it tho.
+45,524310082431889408,Mon Oct 20 21:23:59 +0000 2014,0,0,"#webpack, reminds me of SWFs and my good ol' days as a flash coder"
+46,517478526337818624,Thu Oct 02 00:57:49 +0000 2014,0,0,"""frameworks"" -&gt; making easy things really hard in exchange for hard things becoming easier*
+
+*maybe"
+47,498632820374257665,Mon Aug 11 00:51:43 +0000 2014,0,1,@gregmcintyre I was recently looking at http://t.co/uNiJCX1LAp.  They use nice quality tshirt stock.  Not sure about the printing tho.

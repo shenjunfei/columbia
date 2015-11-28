@@ -1,0 +1,232 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669216672922935296,Tue Nov 24 18:11:02 +0000 2015,0,0,"Wow, elements with angled bottom edge could be done with a single CSS property: https://t.co/XJkXtQn9CG https://t.co/MXFnKzvms7"
+1,669213236869398528,Tue Nov 24 17:57:23 +0000 2015,83,0,RT @CodepointsNet: Why exactly is “U+” used as prefix to denote a Unicode codepoint? Jukka Korpela’s surprising answer: http://t.co/Kw3I5go…
+2,669212430728355840,Tue Nov 24 17:54:11 +0000 2015,82,0,RT @simevidas: Managing an URL’s search parameters (spec: https://t.co/JMIvDEGlqs; available in Firefox and soon in Chrome) https://t.co/EM…
+3,669211814585098240,Tue Nov 24 17:51:44 +0000 2015,0,0,John Resig tells how to develop side projects every day: https://t.co/GWpZeQYpA6 https://t.co/mlmV6FlWhi
+4,669161378423394304,Tue Nov 24 14:31:19 +0000 2015,0,0,How to avoid duplicated media queries in CSS and JavaScript: https://t.co/ECMqcaX06H https://t.co/glBrIk49Ss
+5,669151666416021505,Tue Nov 24 13:52:44 +0000 2015,0,0,The rendering in the Edge is a victory (the white bar at the right is the scrollbar): https://t.co/w9FQpdz1UY
+6,669151039195582465,Tue Nov 24 13:50:14 +0000 2015,0,0,Google has made a new easter egg (open in Chrome): https://t.co/SiZrYYAmYq https://t.co/1fXZKQDB4j
+7,669121445998497792,Tue Nov 24 11:52:39 +0000 2015,472,0,RT @toddmotto: This is what it's actually like writing flexbox. https://t.co/HMs3TuAQIA
+8,669066160911032322,Tue Nov 24 08:12:58 +0000 2015,1,0,"RT @iamsapegin: I highly recommend the Redux video course by @dan_abramov on @eggheadio. Redux, React, ES6, etc. And it’s free. https://t.c…"
+9,669058975544029185,Tue Nov 24 07:44:24 +0000 2015,1,0,"Just in case you missed, the new WordPress administration tools will be powered by Node.js: https://t.co/YvopJmXC7c"
+10,668845934835580928,Mon Nov 23 17:37:52 +0000 2015,39,0,RT @bodil: Soooo... the only browser with decently complete native ES6 support today is... Microsoft Edge? https://t.co/OTHwOyZFsc How did …
+11,668790831193702400,Mon Nov 23 13:58:54 +0000 2015,0,0,`Object.entries()` and `Object.values()` have reached the Stage 3 (release candidate): https://t.co/2pVwRp4ARX
+12,668783914031386624,Mon Nov 23 13:31:25 +0000 2015,3,0,RT @iamsapegin: How (and why) to maintain a good change log: https://t.co/4oB1opncEr
+13,668783041108643840,Mon Nov 23 13:27:57 +0000 2015,650,0,"RT @ChrisBAshton: 1. Go to https://t.co/6XJPaM6kzv.
+2. Uncheck ""Show annotations and in-video notifications"".
+3. Hit ""Save"".
+
+You're welcom…"
+14,668768667547648000,Mon Nov 23 12:30:50 +0000 2015,293,0,"RT @igrigorik: did you know that you can visualize fetch dependencies in DevTools? shift + hover.. green = parent, red = child! https://t.c…"
+15,668767531864358912,Mon Nov 23 12:26:19 +0000 2015,0,0,How to animate box-shadow more smoothly without extra repaints: https://t.co/ZNs17esnov https://t.co/5wVbwMULBV
+16,668485422532665344,Sun Nov 22 17:45:19 +0000 2015,0,1,Status: finishing a lecture for junior web developers about web loading performance. Took several full days. https://t.co/hdM33lGhIp
+17,667648300108136448,Fri Nov 20 10:18:53 +0000 2015,0,1,Great @mwichary article about the kinds of spaces and their use cases: https://t.co/0CYKa2YNL4 https://t.co/wWsaoCCGBx
+18,667632512852746240,Fri Nov 20 09:16:09 +0000 2015,0,0,Rachel Smith tells how to make an animation more pleasant with linear interpolation: https://t.co/mLaD8ushCH https://t.co/VdJw9lV2ut
+19,667624217094045696,Fri Nov 20 08:43:11 +0000 2015,1,0,RT @RReverser: Did you think *you* had technical problems during presentation? Watch this masterclass :D https://t.co/ZGfhaxF6n8
+20,667623671637401600,Fri Nov 20 08:41:01 +0000 2015,12,0,RT @_ericelliott: Designers know that they need a portfolio to earn jobs. Developers should know that they need code samples: https://t.co/…
+21,667316028679061504,Thu Nov 19 12:18:34 +0000 2015,0,0,How to test visual design changes with PhantomCSS: https://t.co/veWqI3KTqh https://t.co/PzDwEQopnb
+22,667266354978910209,Thu Nov 19 09:01:10 +0000 2015,199,0,RT @andrestaltz: Small tip: how to show migration guides with GitHub Markdown https://t.co/DK9ekK02Kc https://t.co/PP7SNr8csJ
+23,667264985345691648,Thu Nov 19 08:55:44 +0000 2015,199,0,RT @reactjs: React v0.14.3 is out! https://t.co/dQVftnOmAG
+24,666985975701196801,Wed Nov 18 14:27:03 +0000 2015,0,0,"And yeah, Edge (on the left) is MUCH slower. https://t.co/buxwAc32Oh"
+25,666985037628354561,Wed Nov 18 14:23:19 +0000 2015,0,0,"Big wow. I knew that DocumentFragment is fast, but have never thought it’s SO fast: https://t.co/hB3GfLmEfJ https://t.co/4vqmtAFAVk"
+26,666686413715464194,Tue Nov 17 18:36:42 +0000 2015,55,0,"RT @raymondcamden: ""62% of mobile connections are 2G."" Have you tested your site at that speed? #chromedevsummit"
+27,666686367536148480,Tue Nov 17 18:36:31 +0000 2015,9,0,RT @sw12: #chromedevsummit 25% increase in form submission with autofill enabled https://t.co/mjr4dfitep
+28,666668357312225280,Tue Nov 17 17:24:57 +0000 2015,0,0,@somebody32 Thanks!
+29,666664560749842432,Tue Nov 17 17:09:51 +0000 2015,0,0,@somebody32 Could you please explain what gave the most performance improvement?
+30,666626653242695680,Tue Nov 17 14:39:14 +0000 2015,0,0,LinkedStateMixin helps to build two-way binding in React: https://t.co/tMaAnFHGC5 https://t.co/PPRjqOyf0X
+31,666592717812736000,Tue Nov 17 12:24:23 +0000 2015,0,1,Amazing React.js cheatsheet: https://t.co/RTnCp3V9z5 https://t.co/Qvnb2FZRk8
+32,666581130347454464,Tue Nov 17 11:38:20 +0000 2015,7,0,"RT @_ericelliott: Confused about inheritance in JS?
+1. https://t.co/fSmGCM4Rwy
+2. https://t.co/CsQEsFJwy0
+#JavaScript"
+33,666580160745967616,Tue Nov 17 11:34:29 +0000 2015,5,0,"RT @bterlson: Would anyone else love to see Unicode categories and blocks in ECMAScript regexps?
+
+""1 + 1"".test(/\d+ \p{Math_Symbol} \d+/) =…"
+34,666260313713549312,Mon Nov 16 14:23:31 +0000 2015,0,0,Some happiness into your Twitter ↓ https://t.co/JxJRDEipzJ
+35,666252159491657728,Mon Nov 16 13:51:07 +0000 2015,7,0,RT @retallicka: More reason for afternoon walks https://t.co/sYkWfOvcYr
+36,666250672673832960,Mon Nov 16 13:45:13 +0000 2015,0,0,Answered why `npm` cannot require globally installed modules: https://t.co/SeYk0tzaMc https://t.co/oE9WiQlgoG
+37,666214353402728448,Mon Nov 16 11:20:54 +0000 2015,0,0,New Memory Tools in Firefox 44: https://t.co/tb4dxuO9sQ https://t.co/t8KPges27C
+38,666176957428690945,Mon Nov 16 08:52:18 +0000 2015,0,0,@sebmck Seems interesting. Thanks!
+39,666176173634924544,Mon Nov 16 08:49:11 +0000 2015,0,0,@sebmck What could you recommend to try instead of GitHub?
+40,666171606562185216,Mon Nov 16 08:31:02 +0000 2015,4,0,RT @sapegin: What are the growth stages of a programmer? https://t.co/wxa1yhBCkX
+41,666170765306372096,Mon Nov 16 08:27:41 +0000 2015,0,0,"@Vitalliumm Ah, nevermind, `setTimeout` trick doesn’t work inside AJAX callbacks :–( @shuvalov_anton"
+42,666170218000044032,Mon Nov 16 08:25:31 +0000 2015,0,0,@Vitalliumm Do you know why browsers allow links to be opened from `setTimeout`? @shuvalov_anton
+43,666169831725600769,Mon Nov 16 08:23:59 +0000 2015,0,0,"@Vitalliumm Hm, really, it seems that the trick doesn’t work with AJAX requests without `setTimeout`. @shuvalov_anton"
+44,666163643130736640,Mon Nov 16 07:59:23 +0000 2015,0,0,@Vitalliumm @shuvalov_anton Probably a browser could set an internal [[JsInitiated]] flag and track event source that way
+45,665943216009699328,Sun Nov 15 17:23:29 +0000 2015,0,0,@shuvalov_anton I have no ideas why browsers don't block it ¯\_(ツ)_/¯ Have also thought they should.
+46,665941342778953728,Sun Nov 15 17:16:03 +0000 2015,0,0,"@shuvalov_anton `click()` is definitely standard (https://t.co/TSYxqZX1N5), don’t know about popup blocking policy"
+47,665939431627628545,Sun Nov 15 17:08:27 +0000 2015,0,0,"@shuvalov_anton `document.body.appendChild(link);` is a necessity: without this line, a link opens in Chrome only"
+48,665939100608892929,Sun Nov 15 17:07:08 +0000 2015,1,0,"@shuvalov_anton This seem to work in Chrome, Firefox and Edge without issuing popup blockers: https://t.co/9wcJuatVZj"
+49,665932572510330880,Sun Nov 15 16:41:12 +0000 2015,0,0,"@shuvalov_anton Don’t forget it’s deprecated, and Mozilla is really going to remove it in several years."
+50,665927623596498945,Sun Nov 15 16:21:32 +0000 2015,47,0,"RT @2ality: What’s in ECMAScript 2016 (ES7)?
+https://t.co/UcPy8QP2aO"
+51,665906792203964421,Sun Nov 15 14:58:45 +0000 2015,0,0,*Parsing. Scripts block parsing. https://t.co/wzhhfiamfF
+52,665893337107456000,Sun Nov 15 14:05:17 +0000 2015,0,0,Here’s why: https://t.co/iGd0KFk1w8
+53,665893022530453504,Sun Nov 15 14:04:02 +0000 2015,0,0,A note: a browser stops all resource downloads while running scripts: https://t.co/HOhM6Ig3C5 https://t.co/ABezYmM2FR
+54,665489570767704064,Sat Nov 14 11:20:52 +0000 2015,0,0,A list of ways to download an external resource from HTML: https://t.co/tNb7hWMvn6 https://t.co/qtdeVI3pYy
+55,665471167273279493,Sat Nov 14 10:07:44 +0000 2015,0,0,The most short and clean explanation of why scripts block rendering: https://t.co/nEgmtrEvNg https://t.co/Ujk4WL69ZB
+56,665086388287774721,Fri Nov 13 08:38:46 +0000 2015,0,0,This just made my day. https://t.co/9rHOQUUXg4
+57,664861401412976641,Thu Nov 12 17:44:45 +0000 2015,7,0,"RT @sapegin: Please, don’t commit commented out code: https://t.co/FDrnDEyPaa"
+58,664857120278466560,Thu Nov 12 17:27:44 +0000 2015,0,0,A collection of helper functions for working with random numbers: https://t.co/CMfnX1Fwrw https://t.co/VtRhiehHKu
+59,664797171833769986,Thu Nov 12 13:29:31 +0000 2015,0,0,@satyadeep2009 It’s already reported: https://t.co/pCGeRjfQMX
+60,664770350643847168,Thu Nov 12 11:42:57 +0000 2015,1,0,"Therefore, one can’t simply write `line-height: calc(1.5em - 2px)`. This would work in Chrome and IE, but fail in Firefox."
+61,664769936275939328,Thu Nov 12 11:41:18 +0000 2015,1,0,Pretty interesting. Firefox does not support calc expressions with units in line-height. The bug was opened in 2010: https://t.co/VB63MgCaDU
+62,664425151367266304,Wed Nov 11 12:51:15 +0000 2015,1,0,TIL about `isolation` CSS property which explicitly creates a new stacking context: https://t.co/aiqze9klfd https://t.co/ZOZhORlcTR
+63,663762902168510464,Mon Nov 09 16:59:42 +0000 2015,1,1,The most amazing JavaScript console: https://t.co/WmKt3PnRWC https://t.co/fWFFgrGVCI
+64,663048726450036736,Sat Nov 07 17:41:49 +0000 2015,1,6,Have finally tried PostCSS. cssnext and postcss-autoreset are ❤️
+65,662697008193544196,Fri Nov 06 18:24:13 +0000 2015,45,0,RT @meyerweb: https://t.co/cHmJ3o9Jhy just changed to RESOLVED: FIXED.  CSS Grid layout is about to be enabled in non-release builds of Fir…
+66,662686876416024576,Fri Nov 06 17:43:58 +0000 2015,0,0,Got a first gold on StackOverflow! https://t.co/RNZHtq3Ozj
+67,662616597442465793,Fri Nov 06 13:04:42 +0000 2015,0,0,Interesting: you could animate `content` CSS property in Chrome: https://t.co/JtDHgycz96
+68,662575453622902784,Fri Nov 06 10:21:12 +0000 2015,0,0,"JavaScript quiz, ES2015 edition: https://t.co/btyxuwfNS4. Try it, it’s really challenging. https://t.co/oixY3WCRwV"
+69,661861351057412096,Wed Nov 04 11:03:37 +0000 2015,0,0,Recording of the first Reactive 2015 conference day: https://t.co/8BttXsFVy7
+70,661819432440852480,Wed Nov 04 08:17:03 +0000 2015,3,2,TIL you could use `steps()` transition function to create an animation based on  sprites: https://t.co/5W0eNDGP5V https://t.co/Kt3AHKpIq5
+71,661794786471342080,Wed Nov 04 06:39:07 +0000 2015,880,0,"RT @addyosmani: CSS Variables (custom properties) have landed in Chrome! 
+
+https://t.co/3hJRatQsMi
+https://t.co/z3eNPXBOSJ https://t.co/31F…"
+72,661794322174595073,Wed Nov 04 06:37:16 +0000 2015,22,0,"RT @izs: 42% of @nodejs users use Windows as their desktop env. More than any single *nix. If you want devs using your code, this matters."
+73,661793765452095491,Wed Nov 04 06:35:03 +0000 2015,18,0,RT @sebmck: ugh please help @samccone @contrahacks https://t.co/CxLOlKVtE1
+74,661793164865372160,Wed Nov 04 06:32:40 +0000 2015,0,0,Guide on upgrading from Babel 5 to Babel 6: https://t.co/RbmEOQAut2
+75,661792844127055872,Wed Nov 04 06:31:24 +0000 2015,33,0,RT @mjackson: I made something: https://t.co/UU7858EKUL Try out https://t.co/J5dikCdoIy with URL = /package@version/path/to/file
+76,661580230729994240,Tue Nov 03 16:26:33 +0000 2015,30,0,RT @Real_CSS_Tricks: Animating the `content` Property by @robinrendle :: https://t.co/1twnwqIZV3
+77,661475537051783168,Tue Nov 03 09:30:32 +0000 2015,35,0,RT @pinkhairedcyn: Linux: please work for free and then maybe a very angry man will publicly humiliate you. https://t.co/6gLg6ibKa3
+78,661202581033771008,Mon Nov 02 15:25:54 +0000 2015,0,0,The experiment itself: https://t.co/KYZJatcjvX
+79,661201787525943296,Mon Nov 02 15:22:45 +0000 2015,0,0,"(Except iOS, you still have to specify “-apple-system” and “Helvetica Neue” fonts there: https://t.co/5rxFUMLNRr)"
+80,661201355890106368,Mon Nov 02 15:21:02 +0000 2015,0,0,Remember that recent @medium experiment with system fonts in UI? Turns out `font-family: caption` will do the same: https://t.co/wU8eVRbekx
+81,661191306853552128,Mon Nov 02 14:41:06 +0000 2015,104,0,"RT @ryanflorence: For most of us, we get to do what we do for fun, but for salaries most people only dream of. Chill out about your coworke…"
+82,661191299597516800,Mon Nov 02 14:41:04 +0000 2015,134,0,RT @ryanflorence: Reminder to be positive. I meet a lot of developers and feel bad for the ones who only seem to complain about stuff. PROG…
+83,661188426578939904,Mon Nov 02 14:29:39 +0000 2015,8,0,"RT @fox: Doing a lot of hacks and pushing CSS to its limits *is* great, but once you start working on bigger systems it’s a collaboration k…"
+84,660158754126622720,Fri Oct 30 18:18:06 +0000 2015,8,0,RT @__DavidFlanagan: This is cool! https://t.co/yZo1jaTAKM
+85,660113757771710465,Fri Oct 30 15:19:18 +0000 2015,5,0,RT @win10fan: @GabeAul @MSEdgeDev @MicrosoftEdge The latest version of Edge in build 10576 ruined my favorite game: Crash Edge
+86,660103886829690880,Fri Oct 30 14:40:05 +0000 2015,0,0,@varya_en What tool?
+87,660101876919087105,Fri Oct 30 14:32:06 +0000 2015,8,0,RT @_ericelliott: Imperative vs declarative 2/2 https://t.co/GUguQx7ggM
+88,660101863857983488,Fri Oct 30 14:32:03 +0000 2015,8,0,RT @_ericelliott: Imperative vs declarative 1/2 https://t.co/iZJwh0pztC
+89,660091850993233920,Fri Oct 30 13:52:15 +0000 2015,7,0,"RT @SamirTalwar: This whole thread should be a blog post and you, dear software industry person, should read it. https://t.co/nFJfNQ2TTf"
+90,659650270499102720,Thu Oct 29 08:37:34 +0000 2015,1,4,"Just received that power bank from npm, and it’s great. https://t.co/qT3RjGH1MM https://t.co/KsboQnUhTL"
+91,659424221983059968,Wed Oct 28 17:39:20 +0000 2015,6,0,"RT @codepo8: Using Chrome DevTools to profile the jsconf.eu site https://t.co/EMhim3avUJ ""once we cloned the internet…"" - love @aerotwist's…"
+92,658659318011678720,Mon Oct 26 14:59:53 +0000 2015,0,0,(Move the mouse over the bottom border)
+93,658658672873222144,Mon Oct 26 14:57:19 +0000 2015,0,0,@sebmck Thanks!
+94,658656842323763200,Mon Oct 26 14:50:03 +0000 2015,0,0,Fallen in love with the Chrome bug: https://t.co/9qfMVuuG4z https://t.co/CtBue63HOo
+95,658620251391840256,Mon Oct 26 12:24:39 +0000 2015,0,0,So. Much. Pain. https://t.co/jp9KqHgy1j
+96,658619161187385344,Mon Oct 26 12:20:19 +0000 2015,0,0,@sebmck Don’t you remember the section?
+97,658606542585995264,Mon Oct 26 11:30:10 +0000 2015,24,0,RT @sebmck: Spec compliant ES2015 derived class constructor return semantics. Coming to @babeljs 6. https://t.co/DAnhpP93No
+98,658606272212815873,Mon Oct 26 11:29:06 +0000 2015,0,0,@sebmck @babeljs Where could I read more about this `return` behavior? Quick googling didn’t help.
+99,658604612488986624,Mon Oct 26 11:22:30 +0000 2015,87,0,RT @christianhern: The cost of a developer by location from @AngelList https://t.co/LCccJQqf7M http://t.co/0NjDkLvzA7
+100,658602966274961408,Mon Oct 26 11:15:58 +0000 2015,26,0,RT @stefanjudis: I wrote `credits` - it shows you who’s developing your dependencies. Maybe wanna say “Thank you”. #javascript https://t.co…
+101,658598705394786305,Mon Oct 26 10:59:02 +0000 2015,0,0,And here’s a nice article about responsive images workflow: https://t.co/VAFC53i35H https://t.co/NXfsYOGSME
+102,657908679287709697,Sat Oct 24 13:17:07 +0000 2015,0,0,Amazingly useful if you know the concept but aren’t very familiar with the syntax.
+103,657908315209515008,Sat Oct 24 13:15:40 +0000 2015,0,1,A nice tutorial into responsive images (&lt;img srcset&gt; and &lt;picture&gt;) by A List Apart: https://t.co/ZcT9sMQE6D https://t.co/dLYVgTaiNc
+104,657482108257095681,Fri Oct 23 09:02:04 +0000 2015,0,0,Windows 10 search is just incredible. https://t.co/ip2kZILiHT
+105,657464158967963648,Fri Oct 23 07:50:45 +0000 2015,457,0,RT @jaffathecake: https://t.co/kcg1BeHXia has a custom offline page using ServiceWorker! Great work by @OliverJAsh https://t.co/M2a0vG5TQm
+106,657463916503633922,Fri Oct 23 07:49:47 +0000 2015,0,0,Turns out CSS WG has full of pain list of historical CSS mistakes: https://t.co/WC0JZodZwX
+107,657455779474219009,Fri Oct 23 07:17:27 +0000 2015,0,0,This is how `this` actually works in arrow functions: https://t.co/uQjV5f9bYt
+108,657455419028328448,Fri Oct 23 07:16:01 +0000 2015,145,0,RT @lukew: There are no winners here. https://t.co/1JkRHXjnx4
+109,657454768047202304,Fri Oct 23 07:13:26 +0000 2015,18,0,"RT @StockTwits: This is incredible.
+
+The huge moves just keep coming.
+
+Look at Microsoft. It's now at FRESH 15-year highs: https://t.co/dB8…"
+110,657454557803511808,Fri Oct 23 07:12:36 +0000 2015,129,0,"RT @_ericelliott: `var`, `let`, or `const`? I use `const` for almost everything. Rarely, I'll use `let`. Never `var`. #es6 #JavaScript"
+111,657454546747310080,Fri Oct 23 07:12:33 +0000 2015,25,0,RT @sindresorhus: This is my favorite by far. https://t.co/1yEONE5G9N https://t.co/ONlX3dkTtT
+112,656856963742044162,Wed Oct 21 15:37:58 +0000 2015,32,0,RT @daniel_bilar: MS releases Win32 port of OpenSSH 7.1 https://t.co/ryG8Iui1UL [code https://t.co/TTwjkcTi2E ]
+113,656855341385318400,Wed Oct 21 15:31:31 +0000 2015,13,0,"RT @lukew: Always find this extremely comforting: https://t.co/q5b47sqXP5
+We are significant, every one of us."
+114,656855158681423872,Wed Oct 21 15:30:48 +0000 2015,4,0,RT @fhemberger: @rauschma Use `npm t`- even shorter ;)
+115,656519711597838336,Tue Oct 20 17:17:51 +0000 2015,1,0,Awesome: the JSConf EU 2015 opening performance https://t.co/UilFKdmppF
+116,656498850434158592,Tue Oct 20 15:54:57 +0000 2015,0,0,@wiktar What exactly about them?
+117,656495913972580352,Tue Oct 20 15:43:17 +0000 2015,57,0,RT @StevenLevy: We aren't talking about age diversity in Silicon Valley.  And we must. https://t.co/6uKQVOfW2J
+118,656495084750307328,Tue Oct 20 15:39:59 +0000 2015,26,0,"RT @domenic: Look at what you've done, web developers. Look, and despair. https://t.co/vvTgXztfv3"
+119,656161268647243776,Mon Oct 19 17:33:31 +0000 2015,0,0,A quick introduction into JS unit testing tools: http://t.co/2cU6zBgKjq. http://t.co/bdGwi6kZse
+120,655006338553131008,Fri Oct 16 13:04:15 +0000 2015,0,0,"Chrome has broken (and fixed) Date behav-r, and that’s not a bug: https://t.co/d0buEu2BAQ. Check if everything’s OK http://t.co/BAumTUp3PO"
+121,654673524137656326,Thu Oct 15 15:01:46 +0000 2015,10,0,"RT @subzey: Every service, even a microservice, deserves its very own favicon http://t.co/XtqRaVmuKQ"
+122,654537897819901952,Thu Oct 15 06:02:50 +0000 2015,0,0,KSS is JSDoc for CSS: http://t.co/2rO8A81cNa. Amazing thing. http://t.co/oHhgjHlapc
+123,653492148730490880,Mon Oct 12 08:47:24 +0000 2015,0,0,Wow. ES2015 introduces Proxies – a way to define custom behavior for fundament. operations: http://t.co/i6G5gI0XbJ http://t.co/KzElUpses8
+124,653488911369568256,Mon Oct 12 08:34:32 +0000 2015,1,0,Cool URIs are URIs that don’t change: http://t.co/uSy0SoyLdL.
+125,652910101892829184,Sat Oct 10 18:14:33 +0000 2015,0,0,@jamesakwuh Thanks :–)
+126,651842429474185216,Wed Oct 07 19:32:00 +0000 2015,1,0,"Now splitted to React and ReactDOM, featuring functional way of creating components and breaking DOM node refs. https://t.co/QWxXr3FNl6"
+127,651840977729134598,Wed Oct 07 19:26:14 +0000 2015,36,0,RT @elijahmanor: React v0.14 Released! https://t.co/nfqvGL9G6V
+128,651744531940016128,Wed Oct 07 13:02:59 +0000 2015,1266,0,"RT @rechelon: TIL: There are real-life people named ""Null"" who have serious problems signing up to various websites. https://t.co/83tYGc7sa4"
+129,651717940358873089,Wed Oct 07 11:17:19 +0000 2015,0,0,Just amazing: https://t.co/Y5aveABmRM
+130,651434869952761856,Tue Oct 06 16:32:30 +0000 2015,396,0,"RT @lukew: designers, welcome to your new canvas. http://t.co/9nF0RYszA6"
+131,651402662806732801,Tue Oct 06 14:24:31 +0000 2015,0,0,@iamstarkov Good luck then!
+132,651402449153073152,Tue Oct 06 14:23:41 +0000 2015,0,0,@iamstarkov Have you received the bounty?
+133,651331474122240000,Tue Oct 06 09:41:39 +0000 2015,2,0,"RT @domenic: @mikemaccana Sorry, PESCNCSS."
+134,651331462365597696,Tue Oct 06 09:41:36 +0000 2015,49,0,"RT @mikemaccana: Hottest new CSS convention is ""put entire styling in class name"":
+
+&lt;div class=""---background-color--red---font-size--16pt-…"
+135,651329347568144384,Tue Oct 06 09:33:12 +0000 2015,0,4,"Reported a login issue to npm team and got this. Absolutely unexpected. @npmjs, thanks! http://t.co/UZCA5kwkFU"
+136,651069404151709696,Mon Oct 05 16:20:16 +0000 2015,3,0,RT @bebraw: There's likely a #npm module that does exactly what you need. Good luck finding it.
+137,650999759470231552,Mon Oct 05 11:43:32 +0000 2015,0,0,"And some things, like XMLHttpRequest, don’t have any good documentation at all."
+138,650999546118569984,Mon Oct 05 11:42:41 +0000 2015,0,0,"I’ve started reading specifications instead of MDN and articles lately. Often, it is more accurate, detailed and not more complex than docs."
+139,649522959858671616,Thu Oct 01 09:55:15 +0000 2015,0,0,@WebReflection @RReverser Zero-width spaces are amazing http://t.co/ICeAhmLjd4
+140,649497817006874624,Thu Oct 01 08:15:21 +0000 2015,1,0,Remember this? TIL there’s also document.execCommand() method which lets you format a doc: https://t.co/tbyKTZhpBF https://t.co/HorSUjjoFG
+141,648895914308988929,Tue Sep 29 16:23:36 +0000 2015,30,0,RT @jcreamer898: jQuery 3.0 Alpha released! http://t.co/G1ZQyQK0ck
+142,648218520552099844,Sun Sep 27 19:31:53 +0000 2015,0,0,"Cool, W3C works on an API for working with custom fonts: https://t.co/cIpERPPajx http://t.co/xFwszHRUtH"
+143,647872780957040640,Sat Sep 26 20:38:02 +0000 2015,236,0,"RT @sigridellis: Happy Stanislav Petrov Day, everyone. You are alive today, along with all of the world, because he did not launch the miss…"
+144,647395516851077122,Fri Sep 25 13:01:33 +0000 2015,0,0,window.matchMedia is cool: https://t.co/xArIsqsC3k http://t.co/c9bVYNcK1x
+145,647372086038675456,Fri Sep 25 11:28:27 +0000 2015,12,0,"RT @rauschma: Drawing by a refugee child from Syria, arriving in Germany.
+https://t.co/v5WVfj4s3D"
+146,646637993298653184,Wed Sep 23 10:51:26 +0000 2015,179,0,RT @lukew: So it's not Web VS. mobile apps. It's Web AND mobile apps. Just use each for what it does well.
+147,646637978106859520,Wed Sep 23 10:51:22 +0000 2015,315,0,"RT @lukew: [3/3] in other words. 
+Web is for audience REACH.
+Native apps are for RICH experiences.
+Both are strategic. http://t.co/d6wzMq34…"
+148,646637970385190912,Wed Sep 23 10:51:20 +0000 2015,128,0,"RT @lukew: [2/3] mobile audience growth is driven by mobile web properties, which are actually bigger/growing faster than apps… http://t.co…"
+149,646637963733016576,Wed Sep 23 10:51:19 +0000 2015,89,0,RT @lukew: [1/3]: Apps dominate mobile web in time spent. but… http://t.co/OxKjbOcedj
+150,646635704060129280,Wed Sep 23 10:42:20 +0000 2015,1138,0,"RT @SIGTIM: What if 42 wasn't the answer, but was just the errno the machine returned when it gave up?"
+151,646348917806903296,Tue Sep 22 15:42:45 +0000 2015,1,0,Learned about writing-mode property. It allows to lay a text out horisontally and vertically: https://t.co/gFiqTX6L84 (thanks to @SelenIT2)
+152,646341401551110145,Tue Sep 22 15:12:53 +0000 2015,184,0,RT @RReverser: Your daily reminder that you should always use Array.from(str) instead of str.split(''). /cc @codepo8 http://t.co/KCy9YulDaj
+153,646339965220089858,Tue Sep 22 15:07:10 +0000 2015,55,0,RT @kgisdahl: .@opera new logo &amp; brand identity is out. We tell you WHY we rebranded: http://t.co/iNftFifWol #marketing #brand http://t.co/…
+154,646297566271791104,Tue Sep 22 12:18:42 +0000 2015,0,0,Good (really good) article on evaluating ideas’ worthiness by @alistapart: http://t.co/vM8YKYbdLN http://t.co/iOsNlW52hr
+155,646241336362991616,Tue Sep 22 08:35:15 +0000 2015,33,0,RT @codepo8: Anticipated traffic numbers define the method of transport. That's why there is a highway to hell and a stairway to heaven.
+156,646212556864942080,Tue Sep 22 06:40:54 +0000 2015,1,0,"Oh my, have just learned about &lt;datalist&gt; element – a native input field with autocomplete! https://t.co/eqpmIvRGEo http://t.co/0jb01aiiMV"
+157,646210252703166464,Tue Sep 22 06:31:44 +0000 2015,0,0,@mdo That XP-like close button is probably the worst
+158,646209880643211264,Tue Sep 22 06:30:16 +0000 2015,107,0,"RT @wesbos: If you have dropped IE8 / IE9 quirks mode, you can stop worrying about that trailing comma. http://t.co/8ZmSUdh4g1"
+159,646017447494053890,Mon Sep 21 17:45:36 +0000 2015,15,0,RT @jonathoda: Slack's secret of success: bright colors and sassy messages. Software is a fashion industry. https://t.co/1PUGDDaeNU
+160,645980235595390976,Mon Sep 21 15:17:44 +0000 2015,1,0,"BTW, there’s also useful `-webkit-background-clip: text` value: https://t.co/QByTsTiO52"
+161,645979944401694720,Mon Sep 21 15:16:35 +0000 2015,1,0,TIL about background-clip: https://t.co/VaSALIDHiA. It’s a shame I didn’t know of it earlier. http://t.co/nIvDF3owxk
+162,645964731803635712,Mon Sep 21 14:16:08 +0000 2015,3,0,RT @g33konaut: This is by far the most entertaining way to demonstrate a browser bug: https://t.co/Bjgv4waJFc
+163,645914816444538880,Mon Sep 21 10:57:47 +0000 2015,0,0,"Knew that JSON isn’t a subset of JS, but learned why only today: http://t.co/ZCd1BiaJsf"
+164,645651514254585856,Sun Sep 20 17:31:31 +0000 2015,0,0,One of my most favorite XKCD jokes: http://t.co/tMkXI1uNqe http://t.co/kPacgavWNt
+165,645619052782714880,Sun Sep 20 15:22:31 +0000 2015,68,0,RT @mraleph: it's amazing that people care if JavaScript is pronounced dʒɑːvəScript jɑːvəScript but don't care that 1 * null is 0
+166,645517350851223552,Sun Sep 20 08:38:24 +0000 2015,0,1,@rauschma Zero-width spaces FTW. Always use them in Skype to prevent it from converting code to smileys
+167,645498546083508224,Sun Sep 20 07:23:40 +0000 2015,0,0,How to pronounce __proto__: http://t.co/6VyLUcyRGw
+168,644565433434116096,Thu Sep 17 17:35:49 +0000 2015,0,0,Interestingly: label clicks bubble up even when `event.stopPropagation()` is called. Found and described the reason: http://t.co/C45Vdm69VX
+169,644090672484622336,Wed Sep 16 10:09:17 +0000 2015,0,0,"From one domain, browser can download only 4–6 resources simultaneously: http://t.co/UAftZWmYPq http://t.co/6Y9bCpjYUq"
+170,644077663246811136,Wed Sep 16 09:17:35 +0000 2015,4,0,"RT @estellevw: how to be a funny asshole:
+a {transition: 0s 2s;}"
+171,644077652341559296,Wed Sep 16 09:17:33 +0000 2015,8,0,"RT @estellevw: How to be an asshole:
+a:focus { outline: none;}"
+172,643328080057012224,Mon Sep 14 07:39:01 +0000 2015,1,1,TIL about Content-Security-Policy header: https://t.co/aM2YbF4Up0 http://t.co/4JEN4H0t4b
+173,641984719106781184,Thu Sep 10 14:40:59 +0000 2015,2,0,TIL about document.designMode: https://t.co/aeZdV26EVg http://t.co/nNekmmxSFr
+174,641910408224329728,Thu Sep 10 09:45:42 +0000 2015,937,0,"RT @SammyK: My new favorite way to write commit messages:
+
+$ git commit -m ""$(curl -s http://t.co/0jn4kF7m9c)"""
+175,641564122715398144,Wed Sep 09 10:49:41 +0000 2015,1,0,"TIL that querySelector(""#my-el div div"") and querySelector(""#my-el"").querySelector(""div div"") work differently: https://t.co/kmt5aeItob."
+176,641538533644218368,Wed Sep 09 09:08:00 +0000 2015,20,0,RT @horse_js: turns out OOP actually has its place who knew
+177,641277297664860160,Tue Sep 08 15:49:56 +0000 2015,95,0,"RT @lukew: On mobile, if it's not in your core flow it's not there: http://t.co/JPkR9MavuU http://t.co/TWrSreSfFP"
+178,641178893177778176,Tue Sep 08 09:18:55 +0000 2015,0,0,"Someone has just tried to log into my Google account. Thanks to 2-step verification, the attempt failed. Seems it’s time to update passwords"
+179,641147672909451264,Tue Sep 08 07:14:51 +0000 2015,1,0,RT @edjafarov: @RReverser I got it!!! Write a transpiller!!!!
+180,641147663908478976,Tue Sep 08 07:14:49 +0000 2015,1,0,RT @RReverser: How do I learn to stop writing === in C code?
+181,641147063250624512,Tue Sep 08 07:12:26 +0000 2015,2,0,"RT @SelenIT2: @gxoptg @gxoptg_ IMHO width works also with fallback workarounds for non-flexbox browsers. Also, don't they have fixed width …"
+182,641146935748001792,Tue Sep 08 07:11:56 +0000 2015,0,0,@SelenIT2 Thanks!
+183,641146889317023744,Tue Sep 08 07:11:45 +0000 2015,0,0,"@SelenIT2 Sounds reasonable, will use width. And nope, by default, flex item can shrink (https://t.co/7EkdNbjZul), which is sth I don’t want"
+184,641138255447126016,Tue Sep 08 06:37:26 +0000 2015,1,0,Or does it even matter?
+185,641137555996602368,Tue Sep 08 06:34:39 +0000 2015,1,0,What’s the best practice to give flex element a fixed width? `flex: none; width: 100px;` or `flex: 0 0 100px;`?
+186,641124449387986944,Tue Sep 08 05:42:34 +0000 2015,389,0,RT @t_crayford: Good job http://t.co/hY1Ag80r5C
+187,641123899078537216,Tue Sep 08 05:40:23 +0000 2015,3,0,RT @sapegin: Staying relevant as a programmer: https://t.co/RDsc4KyTKB by @mpjme
+188,640538185932648448,Sun Sep 06 14:52:58 +0000 2015,1,0,JSNice can deobfuscate your code by guessing variable names and types. Just amazing: http://t.co/CfMpqQnUZv
+189,640527927222910976,Sun Sep 06 14:12:12 +0000 2015,0,0,"Both help to refresh, stay in shape and not forget things you might need in the future."
+190,640527212635115520,Sun Sep 06 14:09:22 +0000 2015,0,0,"Actually, I think, periodic refreshing your math knowledge is as useful as going to interviews from time to time. https://t.co/8TAt2ckY3q"
+191,640525982999429120,Sun Sep 06 14:04:29 +0000 2015,0,0,Have unexpectedly understood that I want to solve a couple of exercises in Further Mathematics.
+192,640164651322507264,Sat Sep 05 14:08:41 +0000 2015,0,0,@RReverser It’s just crazy. I’m interested why people don’t leave that company after a couple of months working for it.
+193,640161211166945280,Sat Sep 05 13:55:01 +0000 2015,1,0,One of the best articles on front-end performance I’ve ever met: http://t.co/AtDhE6VHoT
+194,639397467977609216,Thu Sep 03 11:20:10 +0000 2015,0,3,CSS Grid Layout is wonderful. Especially the `grid-template-areas` property. https://t.co/Ctq38ATTc9 http://t.co/X6jCDIJ6mT
+195,639126143862448128,Wed Sep 02 17:22:01 +0000 2015,86,0,"RT @mpjme: Angular isn't something you do on weekends, it seems: http://t.co/h8x58k3WxH"
+196,639073637820076032,Wed Sep 02 13:53:23 +0000 2015,11,0,"RT @horse_js: God, @emberjs turns into something"
+197,639073624889159680,Wed Sep 02 13:53:20 +0000 2015,16,0,"RT @_bravely: God, @emberjs turns into something magical once you really feel comfortable in it. The amount I can accomplish in an hour is …"
+198,638989612065669120,Wed Sep 02 08:19:30 +0000 2015,9,0,"RT @RReverser: Enjoy Google search! - ""not for public release filetype:pdf""
+https://t.co/EjIEauRE4l"
+199,638735868887474176,Tue Sep 01 15:31:12 +0000 2015,8,0,"RT @Hagenburger: Some #bookshelfporn:
+http://t.co/6GiobGcIMB
+https://t.co/NoW5N5BF8y"

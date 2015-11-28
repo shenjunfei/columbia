@@ -1,0 +1,235 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,667605414251380737,Fri Nov 20 07:28:28 +0000 2015,5,0,RT @ReactJS_News: Math.random() is broken in V8/Chrome/Node https://t.co/kpMj6f1Am7 #JavaScript
+1,661570507414749184,Tue Nov 03 15:47:55 +0000 2015,83,0,RT @addyosmani: @addyosmani currently pondering what % of our lives are spent installing dependencies for JavaScript projects.
+2,654899359293681664,Fri Oct 16 05:59:09 +0000 2015,25,0,RT @newsycombinator: Node.js: Some quick optimization advice https://t.co/jRprFFGMUN
+3,654898148465180672,Fri Oct 16 05:54:20 +0000 2015,46,0,"RT @umaar: Dev Tips: Debug Node.js code with #DevTools. Set breakpoints, live-edit JavaScript &amp; more: https://t.co/ZzBUAOwzYU http://t.co/H…"
+4,654897706423353344,Fri Oct 16 05:52:35 +0000 2015,15,0,RT @DaniStefanovic: Scaling A/B Testing on http://t.co/eRKpQQvB49 with Node.js https://t.co/eVtYGG25HI
+5,654897543277510657,Fri Oct 16 05:51:56 +0000 2015,83,0,RT @JavaScriptDaily: Rune.js: SVG-based JavaScript Drawing Library - http://t.co/3dGbQ5dHaw (For both browser or under Node.js.) http://t.c…
+6,654528487340961792,Thu Oct 15 05:25:26 +0000 2015,76,0,RT @rvagg: Node v4's new memory profile causing you problems (e.g. with quotas on Heroku)? Read this: https://t.co/HZRpHv7Ebq
+7,654525855998210048,Thu Oct 15 05:14:59 +0000 2015,34,0,"RT @_ericelliott: Why composition is immune to the fragile base class problem: https://t.co/SaM8ynYh00
+#code #JavaScript"
+8,654312634485837824,Wed Oct 14 15:07:43 +0000 2015,1928,0,RT @calcsam: 10x Engineer: a developer who incurs technical debt so fast he appears more productive than the 10 developers tasked w/ cleani…
+9,654152573570539520,Wed Oct 14 04:31:41 +0000 2015,0,3,Use this #nodeJS #security checklist before releasing your #app &amp; get session mgt right. #javascript  http://t.co/CSPORcCoOF
+10,654150771814961152,Wed Oct 14 04:24:32 +0000 2015,0,1,"#NodeJS v4.2.0 ""Argon""is the first release covered under the new Long Term Support plan. #javascript https://t.co/FcaJ5xIxbu"
+11,654016945247752192,Tue Oct 13 19:32:45 +0000 2015,30,0,RT @eggheadio: Asynchronous Programming: The End of The Loop by @jhusain #series #JavaScript http://t.co/FutwSdS3AD
+12,653949214414602240,Tue Oct 13 15:03:37 +0000 2015,13,0,"RT @smashingmag: (Oh, I’m not applauding the bashing of jQuery plugins, but the move towards vanilla JavaScript implementations)."
+13,653945968904134657,Tue Oct 13 14:50:43 +0000 2015,263,0,"RT @iamdevloper: If Bruce Jenner is brave enough to be Caitlyn Jenner, then you’re brave enough to learn JavaScript properly."
+14,653945185936605185,Tue Oct 13 14:47:36 +0000 2015,89,0,RT @JavaScriptDaily: Async/Await: The Hero JavaScript Deserved - https://t.co/kZmvnO8Dqk http://t.co/7cyjBFE7KV
+15,653782505137377280,Tue Oct 13 04:01:10 +0000 2015,8,0,"RT @_davideast: Sane, scalable Angular apps are tricky, but not impossible. Lessons learned from PayPal
+
+A ton of good lessons here
+
+https:…"
+16,653781060388454400,Tue Oct 13 03:55:26 +0000 2015,59,0,RT @nodejs: Good source for security and vulnerability updates if you use #nodejs - https://t.co/I3xXynXjuK
+17,653778838095179776,Tue Oct 13 03:46:36 +0000 2015,16,0,"RT @nodesource: Part 2 - After Dockerizing your Node.js Application, Dockerize your Node.js Infrastructure. From @wjblankenship https://t.c…"
+18,653778528907821056,Tue Oct 13 03:45:22 +0000 2015,18,0,RT @joemccann: Dockerizing your Node.js Infrastructure  https://t.co/LOPEK5qfaE
+19,653778011771179008,Tue Oct 13 03:43:19 +0000 2015,398,0,RT @nodejs: We released Node.js v4.2.0 “Argon.” It is the first release covered under the new Long Term Support plan - https://t.co/JG4iI8m…
+20,653595071716069376,Mon Oct 12 15:36:22 +0000 2015,3,0,RT @tommarchi: Exploring #angular 2 http://t.co/3VTVVeU7cI
+21,653594763157856256,Mon Oct 12 15:35:09 +0000 2015,13,0,RT @teropa: Angular component refactoring catalog WIP. Talking about this at @angular_berlin on Wednesday. http://t.co/KzhpAZXtWu
+22,653594713119809536,Mon Oct 12 15:34:57 +0000 2015,10,0,RT @thoughtram: Angular 2 DI syntax will change with the next release and our articles are already up to date. See the changes here: https:…
+23,653587669344096256,Mon Oct 12 15:06:58 +0000 2015,64,0,RT @madewithangular: Apple uses @AngularJS for search on their Developer site. Thanks @Sritmak for the tip! http://t.co/Lmds9u8sJK http://t…
+24,652655554242850817,Sat Oct 10 01:23:04 +0000 2015,2,0,RT @josepheames: excellent article on writing scalable angular apps. https://t.co/Mht13seP6l
+25,652654760265302016,Sat Oct 10 01:19:55 +0000 2015,0,1,ICYMI **Critical security update for #NodeJS https://t.co/BpLZkFPmdC #javascript
+26,652652282345951232,Sat Oct 10 01:10:04 +0000 2015,112,0,RT @JavaScriptDaily: Node.js and ES6 Instead of Java – A War Story: http://t.co/h7GG7Bj3vb
+27,652651726722363392,Sat Oct 10 01:07:51 +0000 2015,66,0,RT @nodejs: Because it’s Friday and you need a good Node.js experience in GIF form - http://t.co/qyvvVVpY9j
+28,652649318642413570,Sat Oct 10 00:58:17 +0000 2015,343,0,"RT @TechCrunch: For the first time, more Google searches were completed on mobile devices than desktop computers http://t.co/jK8Or1Rwli"
+29,652563731235274752,Fri Oct 09 19:18:12 +0000 2015,86,0,RT @pamelafox: Our frontend team put together a React.js style guide:  https://t.co/7fGs9Y6jZe
+30,652563231576186880,Fri Oct 09 19:16:13 +0000 2015,54,0,RT @Firebase: Find out how to use our new client-side fan-out feature for data consistency https://t.co/xAtMmwj78l http://t.co/mYAj12YwCk
+31,652563130971611136,Fri Oct 09 19:15:49 +0000 2015,2,0,"RT @ReactJS_News: Facebook Launches React 0.14 and Other JavaScript News: In fact, this new React.js core architecture ... http://t.co/EPR7…"
+32,651970913299120128,Thu Oct 08 04:02:33 +0000 2015,2,0,"RT @plainJavaScript: Using Closure Space to Create Real Private Members in JavaScript.
+
+http://t.co/BOAbZJW7s7"
+33,651956320443084800,Thu Oct 08 03:04:34 +0000 2015,100,0,RT @bradlygreen: Angular 2 survey results on the @angularjs blog thanks to @jeffwhelpley and @gdi2290! http://t.co/GeAHJhERRV http://t.co/r…
+34,651647524516704257,Wed Oct 07 06:37:31 +0000 2015,677,0,"RT @holman: Remote-first companies are going to win. Sorry not sorry.
+
+https://t.co/qi35rmrjXB"
+35,651635092528336896,Wed Oct 07 05:48:07 +0000 2015,66,0,"RT @mhevery: Syntactic sugar coming to #Angular2 to make it even sweeter! (by @victorsavkin)
+https://t.co/nwe6UWoozU"
+36,651477406172123136,Tue Oct 06 19:21:32 +0000 2015,37,0,"RT @LinkedIn: Why @WarbyParker banished ""update"" meetings: http://t.co/frtxLIqM0G #ProductivityHack http://t.co/hrlAG58LCx"
+37,651250175994818560,Tue Oct 06 04:18:36 +0000 2015,0,1,Staggering stats on Google #development cycle: 50% of #code changes evry month #coding #dev RT @mikelehen @jezhumble http://t.co/cBZqBDpN8u
+38,651193928092282881,Tue Oct 06 00:35:05 +0000 2015,1,0,RT @luiscameroon: Debugging Asynchronous #JavaScript with Chrome #DevTools http://t.co/lBMInnXzcR
+39,651193552056115206,Tue Oct 06 00:33:36 +0000 2015,59,0,RT @JavaScriptDaily: ESLint: A Tour of the Next-Generation JavaScript Linter - http://t.co/Zvi00jC5b4
+40,651053722357751808,Mon Oct 05 15:17:58 +0000 2015,3,0,"RT @Garin: ""The longer we dwell on our misfortunes, the greater is their power to harm us."" ~Voltaire"
+41,650851750870585344,Mon Oct 05 01:55:24 +0000 2015,16,0,RT @JavaScriptKicks: awesome-promises - A curated list of useful resources for JavaScript Promises by @wbinnssmith https://t.co/yzgN6yO2Ub …
+42,650847083373596672,Mon Oct 05 01:36:51 +0000 2015,11,0,RT @ReactJS_News: Useful JavaScript debugging tips http://t.co/5KatutcOJS #JavaScript
+43,650846973180841984,Mon Oct 05 01:36:25 +0000 2015,56,0,RT @_ericelliott: Secure your Node apps against the OWASP top 10 security risks: http://t.co/WHFmMwBCeb #nodejs #JavaScript
+44,650605022430912512,Sun Oct 04 09:34:59 +0000 2015,5,0,"RT @_davideast: Deprecated, but not forgotten. http://t.co/zp3Ck1O2ZV"
+45,650604660508590080,Sun Oct 04 09:33:33 +0000 2015,146,0,RT @Ionicframework: BIG update to Ionic Platform: Removed dependency on Angular and a new web client! Check it 👉https://t.co/W54qRtmGvU htt…
+46,650486628415180801,Sun Oct 04 01:44:32 +0000 2015,4,0,"RT @andytrice: iOS 9, Safari &amp; the Web: 3D Touch, new Responsive Web Design, Native integration &amp; HTML5 APIs http://t.co/Htup6nfJn0"
+47,650427632790732800,Sat Oct 03 21:50:06 +0000 2015,0,1,#ECMAScript 2015 Language Specification – #ECMA-262 6th Edition http://t.co/Ml3oxyWfMw #JavaScript
+48,650414902251667456,Sat Oct 03 20:59:31 +0000 2015,43,0,RT @maxlynch: Apple iOS 9 GM reminder! Ionic users should test + use an Angular patch for UIWebView issues http://t.co/26IKrvw9yb http://t.…
+49,650405325808406528,Sat Oct 03 20:21:28 +0000 2015,32,0,"RT @bradlygreen: Cooking along on Angular 2 API docs with 26% merged in GitHub!
+We're also simplifying as we go with 8.1% removed. http://t…"
+50,650403497251241984,Sat Oct 03 20:14:12 +0000 2015,229,0,"RT @adamdbradley: Angular v2 doesn't seem like a ""framework"", but more like a library that sits on top of the web standards. And this my fr…"
+51,650139169377746944,Sat Oct 03 02:43:51 +0000 2015,0,1,Today is the last day of Google as you know it http://t.co/myfuHcP6fL via @mashable
+52,649964202321285120,Fri Oct 02 15:08:36 +0000 2015,91,0,"RT @Firebase: [Tutorial] Send email notifications with Firebase, Android Studio, and Google App Engine https://t.co/Z9VoiXuTXv https://t.co…"
+53,649831227634003968,Fri Oct 02 06:20:12 +0000 2015,0,0,Must see discussion w/ @addyosmani about new #javascript #ES6 #Babel #transpilers &amp; #gulp stuff. #JS representin yo! https://t.co/j4FLf5U9fn
+54,649823337460338688,Fri Oct 02 05:48:51 +0000 2015,0,1,Excited to see so many developers embracing the awesomeness that is @Firebase. I knew we could do it! #community https://t.co/rUbgpRKyhP
+55,649460340623720448,Thu Oct 01 05:46:26 +0000 2015,11,0,"RT @_davideast: How to use Chrome DevTools like a Pro.
+
+20 quick tips all accompanied with GIFs. 
+
+https://t.co/RGEOBTOifu http://t.co/0I12…"
+56,649458035899789312,Thu Oct 01 05:37:16 +0000 2015,0,1,The improved exception handling in @ChromeDevTools will make life way easier! #javascript #devtools https://t.co/iz1rkIs64d
+57,648400979973419008,Mon Sep 28 07:36:54 +0000 2015,0,1,Dropping wisdom! Kathy Sierra quote: #JSConfEU http://t.co/Utiwlh8NFv
+58,648398928593817600,Mon Sep 28 07:28:45 +0000 2015,351,0,RT @paul_irish: Gave `git diff` a wardrobe change. Some dotfiles hacking for highlighting and a simpler look. https://t.co/G5WDpuvLic http:…
+59,648014019010301952,Sun Sep 27 05:59:16 +0000 2015,193,0,RT @bterlson: ECMAScript's first GitHub release is out &amp; the spec is moving to HTML/Ecmarkup! https://t.co/jnC4K14Vdp
+60,648012838049415168,Sun Sep 27 05:54:34 +0000 2015,1,0,RT @addyosmani: @actualgabe public vs. private repo differences are another reason these activity graphs should be private. @chriseppstein …
+61,637289862698242048,Fri Aug 28 15:45:18 +0000 2015,0,0,#Google #Chrome will block auto-playing #Flash #ads from Sept 1 | Ars Technica #tech #internet http://t.co/eUShcQuYyX
+62,635542439386677249,Sun Aug 23 20:01:40 +0000 2015,24,0,"RT @angularjs: Angular team meeting notes for Aug 17th.  Teasers: Browser support proposal for Angular 2, upcoming design docs
+https://t.co…"
+63,574389863144820736,Sun Mar 08 02:03:09 +0000 2015,3,2,Great talk on Building an API in Node w/ HapiJS by Loc Nguyen @locn today at #SoCalCodeCamp http://t.co/1UhDpf3lkE http://t.co/2L7Lm734nV
+64,574295810751377409,Sat Mar 07 19:49:25 +0000 2015,2,0,Enjoying the Anatomy Of A Web Request talk by @rob_rich at #SoCalCodeCamp with the #OCApplicationDevelopers Meetup https://t.co/WJLPN1Kmb5
+65,556343980296642561,Sat Jan 17 06:55:15 +0000 2015,0,0,Pho Saigon Pearl on #Yelp: Special Combination Fried Rice http://t.co/KDp43GAJrM
+66,556342856588091392,Sat Jan 17 06:50:48 +0000 2015,0,0,Enjoying some traditional Pho at Saigon Pearl. (@ Pho Saigon Pearl) on #Yelp http://t.co/obkFBRdAHE
+67,555296047375724544,Wed Jan 14 09:31:09 +0000 2015,0,1,"Props to @SRobTweets for the pun about @heroku. App server puns frequently go unappreciated, but don’t worry, I *git* it. #seewhatididthere"
+68,555279282079940609,Wed Jan 14 08:24:32 +0000 2015,6,0,"RT @JamesTamplin: ""This is what the iPhone did to the mobile business &amp; the consumer tech industry...the whole market reset to zero"" http:/…"
+69,554228635087822848,Sun Jan 11 10:49:38 +0000 2015,3,0,RT @JamesTamplin: I enjoy spending time with people who realize how harsh the world can be but choose to be happy regardless.
+70,554226782522449920,Sun Jan 11 10:42:16 +0000 2015,380,0,RT @igrigorik: Network timeline in Chrome Canary will now show you where the network time was spent: http://t.co/eRjYzcRcHB - woot! http://…
+71,554225688895422464,Sun Jan 11 10:37:55 +0000 2015,3,0,RT @Firebase: Just posted! Watch this talk on the history and evolution of web apps by our Developer Advocate @_davideast  http://t.co/ZZoz…
+72,553784566503075841,Sat Jan 10 05:25:04 +0000 2015,0,0,Celebrating tonight at Guppy House! (@ Guppy House) on #Yelp http://t.co/L1YyEw1ecj
+73,550146223902953473,Wed Dec 31 04:27:35 +0000 2014,0,0,Bottega Louie on #Yelp: Whoa! A Christmas Tree made of French Macaroons! http://t.co/5mmsdjSChy
+74,550145591083155456,Wed Dec 31 04:25:04 +0000 2014,0,0,Having a great night with friends at Bottega Louie! (@ Bottega Louie) on #Yelp http://t.co/aEiWViv26U
+75,547432768138117120,Tue Dec 23 16:45:17 +0000 2014,1,1,#Algorithm &amp; #Cryptography heads: Mathematicians Make a Major Discovery About Prime Numbers http://t.co/Ppo6L9ZZmw
+76,546970828928073728,Mon Dec 22 10:09:42 +0000 2014,76,0,RT @VentureBeat: Two keys to code quality: Pair programming and mentorship http://t.co/P6UTcRpUY1 by @ed_roman http://t.co/GCO5WiZpiu
+77,546964828972007424,Mon Dec 22 09:45:51 +0000 2014,9,0,"RT @calendee: I’m not sure I’ll ever touch another project that doesn’t use Firebase.  CORS, XHR, caching.  What a mess.  Firebase solves a…"
+78,546963806719459328,Mon Dec 22 09:41:48 +0000 2014,4,0,RT @StackJS: Netflix JavaScript Talks - ES7: The Evolution of JavaScript http://t.co/8JdVR0z8Cy #JavaScript
+79,542166019083468800,Tue Dec 09 03:57:06 +0000 2014,81,0,"RT @SaraJChipps: Hey y'all, the president wrote JavaScript today I think we can count it as a win. Great job."
+80,542166003052863488,Tue Dec 09 03:57:02 +0000 2014,593,0,RT @addyosmani: DevTools now highlights DOM updates. Visualise what parts of a node have changed with ease: http://t.co/mNbZkEoEl2
+81,541768564043051008,Mon Dec 08 01:37:45 +0000 2014,5,0,RT @ossamaalami: I was interviewed by @jnconkle for a podcast on developer relations and how we've done it at @Firebase. Check it out: http…
+82,541768340671193088,Mon Dec 08 01:36:52 +0000 2014,10,0,"RT @Firebase: Today we're open sourcing a new cross platform demo, Inetech Office Mover 5000! https://t.co/Kh9Qg1L0Qt"
+83,541761683060834304,Mon Dec 08 01:10:25 +0000 2014,5,0,RT @StackJS: A Primer on ES7 Async Functions http://t.co/5McMLjuQFb #JavaScript
+84,541761207649058816,Mon Dec 08 01:08:31 +0000 2014,9,0,"RT @gpph: To join the emergency humanitarian assistance to the Philippines, please donate here: http://t.co/0EZrgvJmKq #Hagupit"
+85,539647673662312448,Tue Dec 02 05:10:06 +0000 2014,138,0,RT @dailyzen: “Be yourself. The world worships the original.” -Jean Cocteau
+86,535882951183974400,Fri Nov 21 19:50:26 +0000 2014,54,0,RT @mental_floss: 21 Rhetorical Devices Explained — http://t.co/HrJswns8Qc http://t.co/GoJIr1efsm
+87,535877541014171648,Fri Nov 21 19:28:56 +0000 2014,8,0,"RT @Firebase: .@PDXShelter is using Firebase to help the homeless find meals, beds and local shelters. Check it out here: https://t.co/2F2t…"
+88,535717516044021761,Fri Nov 21 08:53:03 +0000 2014,2,0,RT @AngularJSOC: Thx for attending tonight! Props to speaker @demisx1 and sponsors @PeopleSpaceOC and @barracuda @signnow! What a great com…
+89,534830816619405312,Tue Nov 18 22:09:38 +0000 2014,3,2,VIDEO: Watch Part 1 of my talk on @angularjs &amp; @Firebase at #socalcodecamp  Check it out: http://t.co/arSRqMRb9g #Firebase rocks!
+90,534463527751139328,Mon Nov 17 21:50:09 +0000 2014,1,1,"Download slides &amp; code from my talk, Building Real-Time Apps with #AngularJS and #Firebase at #socalcodecamp via http://t.co/WlX4n1y19a"
+91,534125576110346240,Sun Nov 16 23:27:15 +0000 2014,0,0,@JamesTamplin I don't have either but I would wear a @Firebase shirt w/ pride and put the hot sauce in my AM coffee. Yes plz! @SRobTweets
+92,534055578708873216,Sun Nov 16 18:49:06 +0000 2014,0,5,Just finished my talk on @angularjs &amp; @Firebase at #socalcodecamp @USC.  Links to files coming soon. #firebase http://t.co/tLzikVJnaC
+93,532943581066297344,Thu Nov 13 17:10:25 +0000 2014,1,2,9 GIFs That Explain #Responsive #Design Brilliantly - http://t.co/i2jeQENXCz #UX #UI #mobilefirst
+94,532566420560048128,Wed Nov 12 16:11:43 +0000 2014,18506,0,RT @ESA_Rosetta: TOUCHDOWN for @Philae2014! #CometLanding http://t.co/ZMBeB8ng3h
+95,532566071199686656,Wed Nov 12 16:10:20 +0000 2014,0,0,“@Philae2014: Touchdown! My new address: 67P! #CometLanding” Message from @esa craft landing on comet. So cool!
+96,531464746919550976,Sun Nov 09 15:14:04 +0000 2014,1,2,Know it! Live it! VIDEO: #CSSconf EU 2014 | Addy Osmani: #CSS Performance Tooling http://t.co/cZXQraD7F5 #css3 #UX #UI
+97,531190063657672704,Sat Nov 08 21:02:34 +0000 2014,0,0,VIDEO: Wrap it up... I'll take it! New Invention - Hoverbike (2014): http://t.co/OfPDXStSE5 #drone
+98,531188614081024000,Sat Nov 08 20:56:49 +0000 2014,2,1,This could be big! Make It #Wearable Finalists | Meet Team ProGlove: http://t.co/y1HVUceSAZ #tech #mobile
+99,531177409694171136,Sat Nov 08 20:12:17 +0000 2014,60,0,RT @arstechnica: Why was the first compiler written before the first interpreter? http://t.co/9CzxOC79be
+100,531153647116513280,Sat Nov 08 18:37:52 +0000 2014,9,0,RT @StackJS: Common patterns when handling promises http://t.co/xt8V3w6pZO #JavaScript
+101,531153436705030144,Sat Nov 08 18:37:02 +0000 2014,1,0,"RT @_AndyBryant: #GRAMMAR - verbing--using nouns (or occasionally other parts of speech) as verbs. ex. Access was a noun, now you can do it…"
+102,530464997822844928,Thu Nov 06 21:01:25 +0000 2014,0,2,VIDEO: Yes! Yesterday's #Google #Cloud Platform Live Keynote rocked! I love the @Firebase stuff at 1:15:23 http://t.co/e1HKcUUjDe
+103,529189446672211968,Mon Nov 03 08:32:50 +0000 2014,2318,0,"RT @jmspool: Another take on Minimal Viable Products:
+
+http://t.co/pMPYYcUgHS"
+104,529188539062562816,Mon Nov 03 08:29:14 +0000 2014,0,3,How Snapchat Onboards New Users: teardown of their signup #UX - https://t.co/ME5J7mNrDz
+105,529186367067418624,Mon Nov 03 08:20:36 +0000 2014,0,1,The 10 Algorithms That Dominate Our World - http://t.co/pbOzFv6kQ2 #Algorithm #Programming
+106,513304788700643328,Sat Sep 20 12:32:53 +0000 2014,2,2,I just finished the 3rd and final course in the #JavaScript RoadTrip series @CodeSchool https://t.co/DhRaKcvlRk Great coverage of closures!
+107,513298233062211585,Sat Sep 20 12:06:50 +0000 2014,2,1,"I completed the final level, 'Plains of Prototypes', on #Javascript Road Trip 3 (Advanced) course. https://t.co/UeCM3d5Dvk via @codeschool"
+108,512191887365505024,Wed Sep 17 10:50:36 +0000 2014,2,3,I completed 'Ocean of Objects' on #Javascript Road Trip 3 https://t.co/Jr9iUnaXNc via @codeschool
+109,511017670901129216,Sun Sep 14 05:04:41 +0000 2014,2,2,I completed '#Hoisting Hills' on #Javascript Road Trip 3 (Advanced) Course https://t.co/5Z7aIbbudc via @codeschool
+110,509954385065947136,Thu Sep 11 06:39:34 +0000 2014,2,1,I completed 'Cold #Closures Cove' on #Javascript Road Trip 3 (Advanced) Course https://t.co/aEmwAxxPiu via @codeschool
+111,503734459695243264,Mon Aug 25 02:43:48 +0000 2014,1,1,I completed 'Forest of Function Expressions' on #JavaScript Road Trip 3 https://t.co/qBkGUMTm0H via @codeschool
+112,498512888106336256,Sun Aug 10 16:55:09 +0000 2014,133,0,RT @wfong_sf: Great slide to close on @pahlkadot  #codeforamerica #AccelaEngage #accelaengage2014 http://t.co/UM593eQ7pg
+113,496234110013415425,Mon Aug 04 10:00:06 +0000 2014,41,0,RT @dailydot: This algorithm can predict what the Supreme Court is going to do: http://t.co/7EtjB6fr79
+114,495976905318096896,Sun Aug 03 16:58:03 +0000 2014,395,0,"RT @ViKu1111: ... thinking about my Dad on his birthday, wondering where he is in this universe - ?on earth again, age 15? Hmm ... http://t…"
+115,495976314772660224,Sun Aug 03 16:55:42 +0000 2014,31,0,RT @FastCoDesign: CUNY is building a Center for Digital Scholarship and Data Visualization: http://t.co/kRejjgcrX9 http://t.co/0VMVkjVnOi
+116,495976171612700673,Sun Aug 03 16:55:08 +0000 2014,4364,0,"RT @startupvitamins: A user interface is like a joke. If you have to explain it, it’s not that good. http://t.co/lRUYS5oubm"
+117,494519866104512512,Wed Jul 30 16:28:18 +0000 2014,2,0,"RT @olov: Sick ng-annotate download stats yo
+
+&lt;3"
+118,493948484022992897,Tue Jul 29 02:37:50 +0000 2014,6,0,RT @Dmitri145: How AngularJS Embraced Traditional Design Patterns by @ranm8 #angularjs #codeoasis http://t.co/3mfQcGdehF via @SlideShare
+119,493642987818467329,Mon Jul 28 06:23:54 +0000 2014,111,0,RT @dailyzen: “The ego is a monkey catapulting through the jungle: fascinated by the realm of the senses it swings from one desire to the n…
+120,493638589767774208,Mon Jul 28 06:06:25 +0000 2014,1888,0,RT @UberFacts: New Yorkers bite 10 times more people than sharks do worldwide.
+121,493635973012807680,Mon Jul 28 05:56:01 +0000 2014,1,2,"A #JavaScript Constructor Problem, and Three Solutions http://t.co/4JjhbI1t6s"
+122,493629569132683264,Mon Jul 28 05:30:35 +0000 2014,1,0,RT @Tech_Newz: Yahoo!: Watch an AlphaDog robot venture into (simulated) battle for the first time http://t.co/OSFrXSaM1I
+123,489618852490137600,Thu Jul 17 03:53:25 +0000 2014,0,0,Great BBQ Pork here at Sam Woo's! (@ Sam Woo Restaurant &amp; BBQ Express) on #Yelp http://t.co/x03OOTKzZ0
+124,488863369706090496,Tue Jul 15 01:51:24 +0000 2014,28,0,RT @arrington: How the CIA Partnered With Amazon and Changed Intelligence | @DefenseOne http://t.co/xUiWwmZ41j
+125,488403173707902976,Sun Jul 13 19:22:45 +0000 2014,11,0,RT @VentureBeat: The history of Rap Genius: from rap lyrics blog to annotation powerhouse http://t.co/FDtATR5bxb by @harrisonweber http://t…
+126,488101308214566912,Sat Jul 12 23:23:15 +0000 2014,5,1,Installing #JavaScript web #apps natively for #mobile and desktop: great post by @2ality http://t.co/IflIa9d5kF
+127,488096169072291840,Sat Jul 12 23:02:49 +0000 2014,471,0,"RT @addyosmani: Targeting mobile?
+✓ Define a viewport
+✓ Fit content to screen
+✓ Increase touch target size
+✓ Dont disable zoom
+✓ Have legib…"
+128,487894047848407040,Sat Jul 12 09:39:40 +0000 2014,1,0,"RT @toddwfisk: Google Maps for AngularJS ""AngularJS directives to integrate Google Maps into your applications."" http://t.co/TbFkocGC9n"
+129,487893381931364352,Sat Jul 12 09:37:01 +0000 2014,6,0,"RT @SoftArchConf: ""AngularJS: the one framework to rule them all"" : #programming #web session with @ironshay at #SA2014 http://t.co/t9oP8qu…"
+130,487891477885100032,Sat Jul 12 09:29:27 +0000 2014,6,0,RT @at_rakesh: @Jaspersoft released Visualize.js .. #javascript #visualization library : http://t.co/tjy3337qN9  /  #analytics #HTML5 #API …
+131,487647654948909056,Fri Jul 11 17:20:35 +0000 2014,1,0,RT @12interesting: Building the Right Team: The Role of the Information Designer in #Data #Visualization http://t.co/oRHqXpH91W
+132,487645785648291841,Fri Jul 11 17:13:09 +0000 2014,46,0,RT @QuentinSmelzer: The world economy creates 2.5 exabytes of data/day (80% unstructured). http://t.co/f56eVcbDjM #BigData #IBM http://t.co…
+133,487643708121427969,Fri Jul 11 17:04:54 +0000 2014,3,0,RT @dfernandeza: Seven #JavaScript Quirks I Wish I’d Known About - http://t.co/O3ihgOUYly
+134,487475594725453824,Fri Jul 11 05:56:53 +0000 2014,34,0,RT @briantford: documentation should live in the repo beside the code. not in a wiki. not in a comment system.
+135,487475185181016064,Fri Jul 11 05:55:15 +0000 2014,18,0,"RT @monkchips: Google code running in the Microsoft cloud. We have come long a long way, baby. Open source is the industrial production mod…"
+136,487474887230259200,Fri Jul 11 05:54:04 +0000 2014,2,0,"RT @peterpeerdeman: ""Best Practices for Building Angular.js Apps — Medium"" good read, by @dickyxxx http://t.co/YEd9qrBaYI"
+137,487466103170289665,Fri Jul 11 05:19:10 +0000 2014,2,0,"RT @changepondonweb: Why AngularJS for Web Apps? Why Now?
+http://t.co/hSALaaxeAW"
+138,487465562260656128,Fri Jul 11 05:17:01 +0000 2014,1,0,RT @confiz: #Ruby on #Rails gets patches for #SQL injection vulnerabilities. http://t.co/3xQLRWBQPN #ror #webdevelopemnt #portalapplications
+139,487464308792909824,Fri Jul 11 05:12:02 +0000 2014,2,0,"RT @_manoloruiz_: What Every Frontend Developer Should Know About Webpage Rendering — Frontend Babel http://t.co/dWhRynjjll
+#WebDevelopment…"
+140,487318395273363456,Thu Jul 10 19:32:14 +0000 2014,3,0,"RT @linclark: Writing article on why you might want to expose JSON vs XML in your APIs. I'm sure you all have all-caps OPINIONS that topic,…"
+141,486714512226410496,Wed Jul 09 03:32:37 +0000 2014,25,0,"RT @MongoDB: HumongouS: ""The MongoDB Admin interface for Humans"" http://t.co/Oe5XX9CkSR"
+142,486689514027761664,Wed Jul 09 01:53:17 +0000 2014,32,0,"RT @mhevery: ""10 Reasons Why You Should Use AngularJS"" http://t.co/myavbQIMyp via @sitepointdotcom"
+143,486686590220374016,Wed Jul 09 01:41:39 +0000 2014,79,0,RT @bradlygreen: AngularJS directives for busy indicator http://t.co/rNat8AxS1J http://t.co/U8lQydSNOd
+144,486686103442030593,Wed Jul 09 01:39:43 +0000 2014,90,0,RT @ng_directives: Google Maps | AngularJS directives for the Google Maps Javascript API - http://t.co/WzfDvtNgAb http://t.co/y9Gqaa0vTh
+145,486669968264925185,Wed Jul 09 00:35:37 +0000 2014,150,0,"RT @dailyzen: “The obstacle is the path”
+—  Zen saying"
+146,486668569036730368,Wed Jul 09 00:30:03 +0000 2014,148,0,"RT @lifehacker: If you're struggling to focus, the fix may not be bigger screens, it might be *more* screens: http://t.co/75VOQRnEk6 http:/…"
+147,486586815315714048,Tue Jul 08 19:05:11 +0000 2014,13,0,RT @VentureBeat: EMC buys data-to-the-cloud storage startup TwinStrata http://t.co/39SfqUBE4z by @jordannovet
+148,486584472704651264,Tue Jul 08 18:55:53 +0000 2014,78,0,RT @addyosmani: ES6 arrow functions giving us shorter expression syntax in @FirefoxNightly https://t.co/q3ZSO8COk3 http://t.co/jzU4KPlxrQ
+149,486582669057474560,Tue Jul 08 18:48:43 +0000 2014,335,0,"RT @lifehacker: The top programming languages, ranked by job demand, popularity, and more: http://t.co/rUcQeaXpW9 http://t.co/sDXoiL0Rxz"
+150,486582454137126912,Tue Jul 08 18:47:52 +0000 2014,27,0,"RT @arstechnica: “Weaponized” exploit can steal user cookies on eBay, Tumblr, other sites http://t.co/wOdhKD2Uaq by @dangoodin001"
+151,486580065929789440,Tue Jul 08 18:38:22 +0000 2014,10,0,"RT @VentureBeat: Quick shot of the ""Hacker's Lounge"" at #MobileBeat, where devs interact with companies who are building cool apps. http://…"
+152,486579835045957632,Tue Jul 08 18:37:27 +0000 2014,38,0,RT @Slate: These shots of Typhoon Neoguri from space are gorgeous and terrifying--PHOTOS: http://t.co/9QEYe7joxv http://t.co/QQjB3sfIbr
+153,486540644283084800,Tue Jul 08 16:01:43 +0000 2014,0,0,"#UI, #UX: Who Does What | Co.Design  http://t.co/icHPa9ietW"
+154,486389097540620288,Tue Jul 08 05:59:32 +0000 2014,53,0,"RT @damon: jira: place to log broken stuff
+new relic: place to see broken stuff
+campfire: place to talk broken stuff
+github: place to fix b…"
+155,486328538925371392,Tue Jul 08 01:58:53 +0000 2014,597,0,RT @GoogleFacts: Britney Spears’ music is used by the British Navy to scare off Somali pirates.
+156,486323082647576576,Tue Jul 08 01:37:13 +0000 2014,836,0,RT @Wu_Tang_Finance: INSTEAD OF THE WAR ON DRUGS START A WAR ON PPL DAT CONSTANTLY SPEW VAGUE/UNSUBSTANTIATED OPINIONS ABOUT COMPLEX SYSTEM…
+157,486322226460123136,Tue Jul 08 01:33:48 +0000 2014,0,0,permanent #ThousandYardStare plastered on my face after 6 hours of #coding... brain possibly fried :/
+158,485302868678041600,Sat Jul 05 06:03:15 +0000 2014,0,0,Fireworks filmed with a drone: Happy 4th... God bless the United States of America http://t.co/UQlsuezGAM
+159,484766115424665600,Thu Jul 03 18:30:23 +0000 2014,0,0,"Not All Passports Are Created Equal, As This Map Will Tell You (INFOGRAPHIC) #travel http://t.co/XjuU6KUa8D"
+160,483746253096751104,Mon Jun 30 22:57:48 +0000 2014,0,0,99 Ranch Market on #Yelp: Durian doesn't smell at all when it's frozen. Who knew? http://t.co/oVF9DCeyaN
+161,483744562330877952,Mon Jun 30 22:51:05 +0000 2014,0,0,I checked in at 99 Ranch Market on #Yelp http://t.co/g1iOuA5TwT
+162,483442930867138560,Mon Jun 30 02:52:31 +0000 2014,1,1,I just completed the Shaping Up With #AngularJS course on @codeschool (sponsored by @Google) It totally rocked! #JavaScript #UI
+163,483433504764489728,Mon Jun 30 02:15:03 +0000 2014,1,0,I just earned the Services badge by completing Level 5 of Shaping Up With #AngularJS on @codeschool https://t.co/6MC89MErUe #JavaScript #UI
+164,483420270800015360,Mon Jun 30 01:22:28 +0000 2014,1,3,I earned the Custom Directives badge by completing Level 4 of Shaping Up With #AngularJS on @codeschool https://t.co/6MC89MErUe #JavaScript
+165,483387591136256002,Sun Jun 29 23:12:37 +0000 2014,1,0,I just earned the Forms badge by completing Level 3 of Shaping Up With #AngularJS on @codeschool https://t.co/6MC89MErUe #JavaScript #UI
+166,483100932524081152,Sun Jun 29 04:13:32 +0000 2014,1,0,I just earned the Built-in Directives badge on Level 2 of Shaping Up With #AngularJS on @codeschool https://t.co/6MC89MErUe #JavaScript #UI
+167,483045096518983680,Sun Jun 29 00:31:40 +0000 2014,0,0,4 Habits Of The Most Resilient People http://t.co/sP1m3I6EEC
+168,483024532039798784,Sat Jun 28 23:09:57 +0000 2014,1,2,"I just completed Level 1 of Shaping Up With Angular.js on @codeschool - Modules, Controllers, &amp; Directives #AngularJS #JavaScript"
+169,483017466885726208,Sat Jun 28 22:41:52 +0000 2014,41,0,RT @TechCrunch: Yo! Hackathon Attempts To Show How Yo Can Grow http://t.co/muW3QqSHLE by @jshieber
+170,482258163321036802,Thu Jun 26 20:24:40 +0000 2014,1,0,"rt @joemccann “By 2017, #JavaScript will be the most in-demand language skill in application development (AD).” — Forrester Research 2014"
+171,481172615642771456,Mon Jun 23 20:31:06 +0000 2014,261,0,"RT @paul_irish: While debugging, get the value of any expression by selecting the text and hovering. No need to paste into console! http://…"
+172,475504217780912128,Sun Jun 08 05:06:54 +0000 2014,0,0,Lollicup is rockin tonight! #uci #hipsters #peoplewatching http://t.co/mCBHyLHnHr
+173,472938370000117762,Sun Jun 01 03:11:08 +0000 2014,0,0,At my favorite Asian grocery (@ 99 Ranch Market) on #Yelp http://t.co/g1iOuA5TwT
+174,472609070818418688,Sat May 31 05:22:37 +0000 2014,1,2,I earned the Completed Anatomy of #BackboneJS badge on @codeschool https://t.co/FxCYwJNRMj #JavaScript #UI #UX #FrontEnd
+175,472584006328803328,Sat May 31 03:43:01 +0000 2014,1,0,"I've mastered 'Collection Views' on Anatomy of #BackboneJS http://t.co/H55eUZzAI9 via @codeschool
+#JavaScript"
+176,472555835755737088,Sat May 31 01:51:05 +0000 2014,1,0,"I've mastered #Collections on Anatomy of #BackboneJS http://t.co/H55eUZzAI9 via @codeschool
+ #JavaScript"
+177,472261405106659329,Fri May 30 06:21:07 +0000 2014,0,0,Lollicup with My Sunshine (@ Lollicup) on #Yelp http://t.co/iI7C2P2rXR
+178,471967098206298113,Thu May 29 10:51:39 +0000 2014,0,2,I've mastered 'Models &amp; Views' on Anatomy of #BackboneJS http://t.co/H55eUZzAI9 via @codeschool #JavaScript #UnderscoreJS #UI
+179,471571677562675200,Wed May 28 08:40:23 +0000 2014,1,2,I've mastered 'Views' on Anatomy of #BackboneJS http://t.co/H55eUZzAI9 via @codeschool #UnderscoreJS #JavaScript #jQuery
+180,471463811254194176,Wed May 28 01:31:46 +0000 2014,0,1,"I've mastered 'Models' on Anatomy of Backbone JS http://t.co/H55eUZzAI9 via @codeschool
+#JavaScript #BackboneJS #JSON"
+181,471454390201503744,Wed May 28 00:54:20 +0000 2014,0,0,I've mastered 'Introduction' on Anatomy of Backbone JS http://t.co/H55eUZzAI9 via @codeschool
+182,471213150641979392,Tue May 27 08:55:44 +0000 2014,0,1,I earned the Completed #jQuery: The Return Flight badge on @codeschool https://t.co/6209rFKQc2 #JSON #Ajax #Promises #JavaScript
+183,471211784905306112,Tue May 27 08:50:18 +0000 2014,0,0,I successfully landed the #jQuery: Return Flight badge by completing #Ajax #Promises! http://t.co/r3uIz3WlKz via @codeschool
+184,471190086315286528,Tue May 27 07:24:05 +0000 2014,0,0,I landed the #jQuery: Return Flight badge by completing jQuery Plugins &amp; Advanced Events! http://t.co/J3GYHrfGMj via @codeschool
+185,471113822233583616,Tue May 27 02:21:02 +0000 2014,0,0,I successfully landed the #jQuery: Return Flight badge by completing Utility Methods #JSON #Ajax http://t.co/rm2tvucAE8 via @codeschool
+186,471088477002424321,Tue May 27 00:40:19 +0000 2014,0,0,I successfully landed the #jQuery: Return Flight badge by completing #Ajax With Forms! http://t.co/Emg5VkUnTS via @codeschool
+187,470754285844586496,Mon May 26 02:32:22 +0000 2014,1,2,I successfully landed the jQuery: Return Flight badge by completing #JavaScript and #jQuery! http://t.co/9YyvTeyLTx via @codeschool
+188,470405724061696000,Sun May 25 03:27:18 +0000 2014,0,0,I successfully landed the jQuery: Return Flight badge by completing Ajax Basics! http://t.co/SNq5SiFNUz via @codeschool
+189,470079789878243328,Sat May 24 05:52:10 +0000 2014,0,0,Enjoying Korean Soon Tofu (@ BCD Tofu House) on #Yelp http://t.co/JVTqOMsjSr
+190,470062449140330496,Sat May 24 04:43:15 +0000 2014,0,0,Late night coffee with my Sunshine (@ Coffeebar Byul) on #Yelp http://t.co/Tr7YJEZgPD
+191,467525219465183232,Sat May 17 04:41:13 +0000 2014,1,3,I earned the Completed #JavaScript Road Trip Part 2 badge on @codeschool https://t.co/ArHHj120gZ
+192,466246758751035393,Tue May 13 16:01:04 +0000 2014,0,2,3 lessons in #database design from the team behind Twitter’s Manhattan - http://t.co/qdFJymBU9S #NoSQL #Development #UX
+193,466059495299227648,Tue May 13 03:36:57 +0000 2014,0,0,Sparkling lights #sunset #LagunaBeach #Montage http://t.co/7jBa2wh5nN
+194,463541200017182721,Tue May 06 04:50:08 +0000 2014,0,2,"A Rare Peek At #Google #UI Guidelines: Pair Of ""Visual Assets"" Shared By Sr. Designer http://t.co/fteAOECRNW #UX #FrontEnd"
+195,463391498982404096,Mon May 05 18:55:17 +0000 2014,0,0,"The Future of Fashion Is #Code, Not Couture, Says Designer http://t.co/Lgk69Hlazm #algorithms"
+196,463346189627555840,Mon May 05 15:55:14 +0000 2014,0,0,7 Of The Biggest Lies In Graphic #Design http://t.co/E85430vWza #UI #UX #FrontEnd
+197,462786255181590528,Sun May 04 02:50:16 +0000 2014,0,1,"#Chrome #web #browser cements its lead over Firefox, IE11 market share passes IE10 and IE9 combined http://t.co/bSK2N1fZSz #UI #UX"
+198,459721078857031680,Fri Apr 25 15:50:21 +0000 2014,0,0,Here's How Much Money Big #Tech Companies Make In Just One Second  http://t.co/IvrsdS6po5 #Google #Apple #Samsung
+199,458279196624961536,Mon Apr 21 16:20:49 +0000 2014,0,2,The Dawn Of #Cloud 2.0 And Why #Google Started A Price War http://t.co/KyZ2nVTc7o #BigQuery #SaaS #PaaS #Iaas #AWS

@@ -1,0 +1,204 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669102926703423488,Tue Nov 24 10:39:03 +0000 2015,0,0,"Saw an article ""What Happens When An Aeroplane Hits A Bird"". First thing that came to my mind - Fried Chicken!"
+1,669101497079099392,Tue Nov 24 10:33:22 +0000 2015,0,0,Have you built a mobile app using the Salesforce Mobile SDK? You don't want to miss this #salesforcedevs - https://t.co/2rguW6pqKI
+2,669100432300486657,Tue Nov 24 10:29:09 +0000 2015,0,0,I'm #thankful for MavensMate #salesforcedevs
+3,669092523906695168,Tue Nov 24 09:57:43 +0000 2015,0,0,@MrJarrodHunt Which one do you prefer to be called? Mark Reed or Paul Fenech?
+4,669091129376157697,Tue Nov 24 09:52:11 +0000 2015,0,0,"@mindinmotionmkd Абе шо се замараш со политики, оди куцни некоја линија, посречен че си"
+5,669090661669310464,Tue Nov 24 09:50:19 +0000 2015,0,0,"@MrJarrodHunt There you go mate, just because housos"
+6,668985854145114112,Tue Nov 24 02:53:51 +0000 2015,0,1,"@oksman @metadaddy @adamse Thumbs up for storing the related records (retrieved via ""__r."" ) as separate nested JSON objects!"
+7,668952128270893056,Tue Nov 24 00:39:50 +0000 2015,0,0,"""leaked"" is such a lame word to be used in the article's title"
+8,668947156858867713,Tue Nov 24 00:20:05 +0000 2015,0,0,"I'll take the ""no corded"" one https://t.co/fP4JZXnY9k"
+9,668936785095868416,Mon Nov 23 23:38:52 +0000 2015,0,0,@simongascoigne @Mikey007Mike @peterjchalmers @salesforce to point to Google's - 8.8.8.8 and 4.4.4.4 (primary/secondary)
+10,668936714975510528,Mon Nov 23 23:38:35 +0000 2015,0,0,@simongascoigne @Mikey007Mike @peterjchalmers @salesforce Looks like it's a DNS issue. You can change your DNS settings on your machine
+11,668935540389994497,Mon Nov 23 23:33:55 +0000 2015,0,0,@simongascoigne @peterjchalmers @Mikey007Mike @salesforce You can perform a sanity check here - https://t.co/oIdOUyEERW
+12,668927011444801536,Mon Nov 23 23:00:02 +0000 2015,0,0,"@kunalchitalia My apologies, I thought it was win.js. It's - ""Salesforce"" is undefined in ""https://t.co/i19uu1WsKh .core.js"""
+13,668926568383705088,Mon Nov 23 22:58:16 +0000 2015,0,0,"Thanks @kunalchitalia, I haven't seen this repo before :). Let me give it a go!"
+14,668926326707871744,Mon Nov 23 22:57:18 +0000 2015,0,0,"@oksman I get ""Salesforce"" is undefined in ""https://t.co/i19uu1WsKh.core.js"" (build from the unstable branch)"
+15,668926172613349376,Mon Nov 23 22:56:42 +0000 2015,0,0,@oksman Yeah I got it from there. By the way the documentation links reference to the master branch :).
+16,668923593099640834,Mon Nov 23 22:46:27 +0000 2015,0,0,@oksman Yes that's correct
+17,668922899957346304,Mon Nov 23 22:43:41 +0000 2015,0,0,@oksman Do you have a working example for a hybrid JS Windows 10 app? I've got it building from the repo but Win.js is throwing errors...
+18,668909756426248192,Mon Nov 23 21:51:28 +0000 2015,0,0,@metadaddy @oksman @adamse Appreciate the prompt action guys!
+19,668759654088871937,Mon Nov 23 11:55:01 +0000 2015,0,0,"@simongascoigne @oz_andy_c That's interesting, I haven't come across this article...."
+20,668757574804619264,Mon Nov 23 11:46:45 +0000 2015,0,0,"Now I know what @simongascoigne meant when he said ""Animal Style"" back at #DF15 - https://t.co/KgjliyRxZS"
+21,668750713703370753,Mon Nov 23 11:19:29 +0000 2015,0,0,"Has anyone booked flights through one of the following websites https://t.co/NpC10ynGwF, https://t.co/Ukw1Hpx9dq or https://t.co/mUvlYkRsLf?"
+22,668672438859792384,Mon Nov 23 06:08:27 +0000 2015,1,1,Knockout.js is weird
+23,668664615274876928,Mon Nov 23 05:37:22 +0000 2015,4217,0,"RT @foofighters: #SaintCecilia Download for free, now available at https://t.co/KFBHOcbZO9 https://t.co/WScNfQpW7K"
+24,668660782284976128,Mon Nov 23 05:22:08 +0000 2015,0,0,@jodiem @LaceySnr or at least trying to! :)
+25,668656468833341440,Mon Nov 23 05:04:59 +0000 2015,0,0,Who works on the mobile SDKs? SmartStore in particular. @adamse @metadaddy https://t.co/u3fUSexQEY
+26,668642879456194562,Mon Nov 23 04:10:59 +0000 2015,0,0,"""Adele - Hello"" - Leo does it better, always! https://t.co/7nEjz8yvcc"
+27,668610037317697537,Mon Nov 23 02:00:29 +0000 2015,0,0,"https://t.co/lymZodS49l Yeah, because they locked up the real criminals. Ah, and there is plenty of room in the prisons..."
+28,668390748320960514,Sun Nov 22 11:29:07 +0000 2015,0,0,"""Australia joins Eurovision"" - Why? I thought It's Euro.... Whatever"
+29,668369480083333121,Sun Nov 22 10:04:36 +0000 2015,0,0,@minimoog77 Too many Volkswagens...
+30,668368768423194624,Sun Nov 22 10:01:46 +0000 2015,0,1,@jodiem Thanks! This was day 1 https://t.co/bew3sZ3cMU
+31,668368376863940608,Sun Nov 22 10:00:13 +0000 2015,0,0,@SalesFixAU Exactly. We're about to test it tomorrow :)
+32,668368285830807554,Sun Nov 22 09:59:51 +0000 2015,0,0,@jodiem Made it from scratch. Took 2 full days
+33,668366143715864576,Sun Nov 22 09:51:20 +0000 2015,0,3,Project complete! https://t.co/ySpUaGVZC5
+34,668302013185130496,Sun Nov 22 05:36:31 +0000 2015,0,1,"Fresh beans, new blend, pretty good https://t.co/TEqQrj4qjz"
+35,667841842466021376,Fri Nov 20 23:07:57 +0000 2015,0,0,@Autobat @LaceySnr Cold pizza leftovers for me
+36,667538640701030400,Fri Nov 20 03:03:08 +0000 2015,0,1,Note to self - undefined == null // true
+37,667531488867446784,Fri Nov 20 02:34:43 +0000 2015,208,0,RT @Benioff: Im excited to announce @salesforce will deliver first $8 Billion+ year in FY17.  We're still the fastest growing software comp…
+38,667462941541707776,Thu Nov 19 22:02:20 +0000 2015,82,0,RT @Travis_Longmore: While you were sleeping @Melbourne was doing this last night! https://t.co/XeAYXxqmcl
+39,667123856260263936,Wed Nov 18 23:34:56 +0000 2015,2,0,"RT @LaceySnr: Great piece on the benefits of @ProxInsight  #clienteling and @marketingcloud #customerjourneys from @BillyLoizou:
+
+https://t…"
+40,667110946511261697,Wed Nov 18 22:43:38 +0000 2015,0,0,Who cares? https://t.co/pX85eyBvcQ
+41,667094168498376704,Wed Nov 18 21:36:58 +0000 2015,0,1,"Melbourne, it's too early for these temperatures"
+42,667093317352423425,Wed Nov 18 21:33:35 +0000 2015,0,0,@aelst at 5 o'clock we'll take them to the gallows pole
+43,667093158757466112,Wed Nov 18 21:32:57 +0000 2015,0,0,If only people didn't merge or change lanes AT THE LIGHTS. If only people stepped on it when taking shortcuts. If only
+44,666940017655324672,Wed Nov 18 11:24:26 +0000 2015,0,0,"What do we do with ""Salesforce training in chennai"" spammers?"
+45,666869071707635712,Wed Nov 18 06:42:31 +0000 2015,1,0,"RT @LaceySnr: Nothing beats Sunny Bakery on Smith St. for a $5 lunch, but only if you're happy to play Russian roulette with chilli."
+46,666555968851865601,Tue Nov 17 09:58:21 +0000 2015,0,0,ATO's business portal is a piece of crap!
+47,666552068585328640,Tue Nov 17 09:42:51 +0000 2015,0,0,Java 8 Update 65 - LOL
+48,666543460627800064,Tue Nov 17 09:08:39 +0000 2015,0,1,It turns out that the only thing that doesn't cause cancer is Oxygen. Wondering how long before I read an article on that too
+49,666076934225326080,Mon Nov 16 02:14:50 +0000 2015,0,0,Yep - https://t.co/73xp6dwZen
+50,666011511844810752,Sun Nov 15 21:54:52 +0000 2015,0,1,The downside of having a commercial coffee machine is the warm up time in the morning
+51,665791503311241216,Sun Nov 15 07:20:38 +0000 2015,0,0,I just earned the 'Artisan' badge on @untappd! https://t.co/d0wYsaSNRJ
+52,665789160041639936,Sun Nov 15 07:11:20 +0000 2015,0,0,I just earned the 'Lager Jack (Level 6)' badge on @untappd! https://t.co/yai1XMOucD
+53,665428340149501952,Sat Nov 14 07:17:34 +0000 2015,26,0,RT @zarkoh: similar attacks were planned in macedonia by bunch of kosovars few months ago. police took care of them. west didn't see them a…
+54,665428218166566912,Sat Nov 14 07:17:04 +0000 2015,701,0,RT @riseagainst: Paris❤️
+55,665107859198205952,Fri Nov 13 10:04:05 +0000 2015,0,0,"Note to self: When error.message == 'not an error', it means the field isn't indexed. #SmartStore #ErrorHandling"
+56,665040642205048832,Fri Nov 13 05:36:59 +0000 2015,0,0,@jodiem You're not driving properly then
+57,664745946450821120,Thu Nov 12 10:05:58 +0000 2015,0,0,@duggan @sherod But everyone loves it!
+58,664730743847849984,Thu Nov 12 09:05:34 +0000 2015,0,0,"@azder @GizmodoAU They're getting better, can't troll as much anymore :)"
+59,664617401141473280,Thu Nov 12 01:35:11 +0000 2015,0,0,@krish_vamsi @ANZ_AU I feel your pain
+60,664614654165938176,Thu Nov 12 01:24:16 +0000 2015,0,0,"@krish_vamsi @ANZ_AU ""Can you please tell me again what the issue is?"" :)"
+61,664614466248536065,Thu Nov 12 01:23:31 +0000 2015,0,1,Just like they guessed you age https://t.co/2ozPjv46Ae
+62,664552969229103104,Wed Nov 11 21:19:09 +0000 2015,0,1,"One of those mornings when you catch every  red light, all the school zones and compose a tweet in the search box. Just missed the train too"
+63,664247583364116480,Wed Nov 11 01:05:39 +0000 2015,0,0,"@VicGovAu ""https://t.co/9oDidI8eQH"" goes straight to SPAM. Might want to look into that?"
+64,664189870529613824,Tue Nov 10 21:16:19 +0000 2015,0,0,"@AAMI Exact same circumstances with all providers, your one was through the roof. Thanks, but no thanks!"
+65,664029562938916864,Tue Nov 10 10:39:19 +0000 2015,0,0,"The ""winner"" is @AAMI, quoting DOUBLE than their competitors!"
+66,664029391102414848,Tue Nov 10 10:38:38 +0000 2015,0,0,It's car insurance shopping time... These forms are killing me
+67,664025959738150912,Tue Nov 10 10:25:00 +0000 2015,0,0,"@CityWhittlesea I hereby volunteer to build ""Email Receipt"" functionality for your online payment system. It's 2015 and we're printing?"
+68,663940887492169728,Tue Nov 10 04:46:57 +0000 2015,2,0,RT @servantofchaos: RT @derektweets: Behind the $272 billion Salesforce ecosystem opportunity https://t.co/Y1rBXdfzIb https://t.co/GuM5hEoU…
+69,663915042501324800,Tue Nov 10 03:04:15 +0000 2015,2,0,RT @imperialstout: It's Matt Freaking Lacey people talking the joys of Trailhead @ Crown Melbourne https://t.co/LdvaCDQlJc
+70,663903471251255296,Tue Nov 10 02:18:16 +0000 2015,0,0,@ptv_official Also introduce limited express services and skip not-so-busy stations in peak hour
+71,663903134100525056,Tue Nov 10 02:16:56 +0000 2015,0,0,@ptv_official Enable for people to be able to pay for myki on the spot (not just fines). Also upgrade the myki readers outside the CBD
+72,663876611830185984,Tue Nov 10 00:31:33 +0000 2015,2610,0,RT @Grimecraft: Fallout 4 platform comparison https://t.co/2C4FkKfmEj
+73,663874801245683714,Tue Nov 10 00:24:21 +0000 2015,0,1,Build a desktop PC or DSLR lens?
+74,663866483534004224,Mon Nov 09 23:51:18 +0000 2015,0,2,"Oh switch statements, how I missed you!"
+75,663865198378258432,Mon Nov 09 23:46:11 +0000 2015,0,3,Achievement Unlocked - Taught wife how to make good espresso!
+76,663687541707530241,Mon Nov 09 12:00:15 +0000 2015,0,0,"@LaceySnr @marcelleau @simongascoigne @peterjchalmers @MrJarrodHunt @imperialstout I was kinda expecting that, typical you! :)"
+77,663683439481061377,Mon Nov 09 11:43:57 +0000 2015,0,1,@marcelleau @simongascoigne @peterjchalmers @LaceySnr @MrJarrodHunt @imperialstout's bogan burger was the most dangerous thing tonight
+78,663675420890435585,Mon Nov 09 11:12:05 +0000 2015,0,0,"December, you're going to be awesome. @riseagainst, @acdc, @lagwagon, @themisfits, The Exploited. 5 gigs in 10 days"
+79,663648340383371264,Mon Nov 09 09:24:28 +0000 2015,0,2,Only 50% of the Aussie MVPs  https://t.co/ykHqkrMDwN
+80,663607584922841089,Mon Nov 09 06:42:32 +0000 2015,0,0,@krish_vamsi lucky* that is
+81,663607518040489984,Mon Nov 09 06:42:16 +0000 2015,0,0,"@krish_vamsi There aren't luck numbers, only 1s and 0s :)"
+82,663559999394725888,Mon Nov 09 03:33:26 +0000 2015,0,0,I don't accept any more votes https://t.co/fvvZXaEdfK
+83,663511183404601344,Mon Nov 09 00:19:28 +0000 2015,10,3,9% thinking + 90% swearing + 1% writing code = Programming!
+84,663497155554902017,Sun Nov 08 23:23:43 +0000 2015,3,0,RT @MrJarrodHunt: Working from the @SPKeasey/@ProxInsight Melbourne office. Good to be back with the old team @bachovski @LaceySnr! Miss yo…
+85,663474522457141249,Sun Nov 08 21:53:47 +0000 2015,0,0,"OH: ""Can you teach me how to skate?"" - A girl asking a stranger on the train"
+86,662899699049824256,Sat Nov 07 07:49:38 +0000 2015,0,0,Today's project https://t.co/4ZqTyut5P4
+87,662758666966315008,Fri Nov 06 22:29:14 +0000 2015,0,0,Some people need to be banned from touching music instruments
+88,662510417562857472,Fri Nov 06 06:02:47 +0000 2015,0,0,@jodiem That's the new hipster name :)
+89,662505844634873856,Fri Nov 06 05:44:36 +0000 2015,0,2,"Sailsfurs peeps in Melbourne, you should get some brekkie before the event on Tuesday - https://t.co/bCqVPdWH08"
+90,662505256434069504,Fri Nov 06 05:42:16 +0000 2015,0,0,Gulp is taking an additional second every day in order to scaffold all my things. Wondering how long it's going to take before go-live
+91,662503534118572032,Fri Nov 06 05:35:25 +0000 2015,1,0,RT @eat8Bit: Email pete@eat8bit.com.au https://t.co/fVOGATkOU6
+92,662486882924630016,Fri Nov 06 04:29:15 +0000 2015,0,1,It's not that hard to pass in the tracking number into the URL and stick it to the box. Why do I have to copy-paste?
+93,662397766430097408,Thu Nov 05 22:35:08 +0000 2015,0,0,@simongascoigne Did you buy the special? 500 for $10?
+94,662247064886054913,Thu Nov 05 12:36:18 +0000 2015,0,0,@aelst From what I saw in the movie I think it's a bit too much. I'd read the book though
+95,662220593425592320,Thu Nov 05 10:51:07 +0000 2015,0,0,Accidentally I took a glimpse of Sin City the movie - I'm glad I haven't watched the whole thing
+96,662215818717958144,Thu Nov 05 10:32:09 +0000 2015,0,0,@Optus thumbs up for your online chat! Managed to upgrade 2 phones in my family within 20 mins #CustomerCompany
+97,662160221607886848,Thu Nov 05 06:51:13 +0000 2015,1,8,Seriously do you think anyone cares how you did on Twitter this week?
+98,662089714824941568,Thu Nov 05 02:11:03 +0000 2015,0,0,@MelbPTUser It's bad implementation of the system. You can pay a fine on the spot but you can't buy a myki card on the spot? #Fail
+99,662044907247288322,Wed Nov 04 23:13:00 +0000 2015,0,0,"@MelbPTUser Too many people, too little time, not my problem"
+100,662016281420296192,Wed Nov 04 21:19:15 +0000 2015,0,0,"@ptv_official reader blocked at Reservoir station. I didn't touch on, are you going to fine me again? #Fail https://t.co/YE7OIPufbO"
+101,662014041175384065,Wed Nov 04 21:10:21 +0000 2015,0,0,"Twitter changes ""favourite"" to ""like""?"
+102,661904703739981824,Wed Nov 04 13:55:53 +0000 2015,0,1,"@aelst The one that says ""bug fixes"" since v0.1 aplha and never changes :)"
+103,661846264326197248,Wed Nov 04 10:03:40 +0000 2015,0,1,Absolutely hate it when there is an app update but no/same changelog
+104,660965027260710912,Sun Nov 01 23:41:57 +0000 2015,1,0,"status: ""FAILED"", message is not necessary, you figure it out on your own"
+105,660725799813783554,Sun Nov 01 07:51:21 +0000 2015,0,0,@peterjchalmers @LaceySnr I've reached for my seatbelt a couple of times
+106,659984647779020800,Fri Oct 30 06:46:16 +0000 2015,0,1,Shit is undefined. Maybe save the file first? #NoteToSelf
+107,659865991908691968,Thu Oct 29 22:54:46 +0000 2015,0,1,Running short of ideas for a Halloween costume? Here's one - https://t.co/XULRbrmEUk
+108,659845078530179073,Thu Oct 29 21:31:40 +0000 2015,1,0,RT @brianmfear: #Salesforce Let's get our null coalesce operator: https://t.co/aBf4a63ecU I'm tired of waiting.
+109,659662836780503040,Thu Oct 29 09:27:30 +0000 2015,0,0,@Westpac Appreciate that but I've never used one
+110,659658742682812416,Thu Oct 29 09:11:14 +0000 2015,0,0,@Westpac why did I receive a chequebook in my mail?
+111,659161794829615104,Wed Oct 28 00:16:33 +0000 2015,3336,0,RT @TheColonial: I'd like to add you to my professional network on Linked In. https://t.co/WEISMU5Mzz
+112,658912651674677248,Tue Oct 27 07:46:32 +0000 2015,7,11,@donmac23 talking about Continuous Integration for @salesforce at the Melbourne @SalesforceDevs user group https://t.co/AnfLQXTZer
+113,658592249459027968,Mon Oct 26 10:33:22 +0000 2015,0,0,@struct Owned! :)
+114,658396718313050112,Sun Oct 25 21:36:24 +0000 2015,5,0,"RT @zarkovski: Коментарот #прајслес :)
+п.с. мене на @ONEmk ping-от ми е подобар :P https://t.co/bc86DjMdt7"
+115,658167261446934528,Sun Oct 25 06:24:37 +0000 2015,0,0,I just earned the 'Pale as the Moon (Level 7)' badge on @untappd! https://t.co/XFPjgCtcLZ
+116,658135796759683072,Sun Oct 25 04:19:36 +0000 2015,0,0,"@EvilN8 What are the results? My tests failed, the bits didn't shift enough. Back to ICE"
+117,657768490921623556,Sat Oct 24 04:00:03 +0000 2015,0,1,@EvilN8 @peterjchalmers The unicorn was mating with a dropbear
+118,657763131419066370,Sat Oct 24 03:38:45 +0000 2015,0,0,"Oh no, I can't see anything https://t.co/NhxabiksW4"
+119,657676696930291712,Fri Oct 23 21:55:18 +0000 2015,2,0,"RT @andyboettcher: &lt;rant&gt; If you use something that is unsupported, don't be mad when @SalesforceDevs changes something so your hack stops …"
+120,657463422079008768,Fri Oct 23 07:47:49 +0000 2015,0,0,Oh nice https://t.co/hyWvY4duNn
+121,657379306063183872,Fri Oct 23 02:13:34 +0000 2015,1,0,I just earned the 'Untappd 5th Anniversary' badge on @untappd! https://t.co/4wTr7f9ndE #ut5th
+122,657024416228884480,Thu Oct 22 02:43:22 +0000 2015,0,0,@jodiem Better than almost ranting a couple of websites about their payment gateway :)
+123,657021112987971584,Thu Oct 22 02:30:14 +0000 2015,0,0,@Westpac @jodiem They blocked all my credit cards without a notification or a reason yesterday...
+124,657001258042028032,Thu Oct 22 01:11:21 +0000 2015,0,4,Earn any #trailhead badge today &amp; get a #BadgetotheFuture to celebrate #BacktotheFutureDay https://t.co/WFaul5yVNS
+125,656759712155762689,Wed Oct 21 09:11:32 +0000 2015,0,0,@jodiem @untappd Good luck! https://t.co/dWi47JLQfn
+126,656752121358888960,Wed Oct 21 08:41:22 +0000 2015,0,0,@jodiem @untappd Have another one and I'll give you a badge :)
+127,656745379925504000,Wed Oct 21 08:14:34 +0000 2015,0,0,I just earned the 'Down Under (Level 8)' badge on @untappd! https://t.co/IywPh2uzlE
+128,656409012829728769,Tue Oct 20 09:57:58 +0000 2015,0,0,"Does anybody know where I can find 10x14"" photo frame for a reasonable price?"
+129,656345264937013248,Tue Oct 20 05:44:40 +0000 2015,0,1,What doesn't kill you makes you case sensitive
+130,656326049156890624,Tue Oct 20 04:28:18 +0000 2015,1,0,"RT @struct: Forget 'Steve Jobs', get ready for 'Michael Dell'. https://t.co/jGYxc9EoPg"
+131,656067470768234496,Mon Oct 19 11:20:48 +0000 2015,0,0,Ми се б'љват од македонскиве вести!
+132,656066345591664641,Mon Oct 19 11:16:20 +0000 2015,0,1,@aelst As long as there is enough of them for bbq!
+133,656065974098006016,Mon Oct 19 11:14:51 +0000 2015,0,0,@aelst It's like we're out of civilization :)
+134,656064201648046080,Mon Oct 19 11:07:49 +0000 2015,0,0,"Amazon - Items (2):  AUD 32.71, Shipping &amp; handling:  AUD 75.67. #MaybeNot"
+135,655851330586546176,Sun Oct 18 21:01:56 +0000 2015,0,1,Breaking news - There's network coverage throughout the city loop. @metrotrains about time
+136,655288675555651585,Sat Oct 17 07:46:09 +0000 2015,0,1,I keep going @LaceySnr @MoysieK. http://t.co/Ot3639wu6l
+137,655149054066737152,Fri Oct 16 22:31:21 +0000 2015,0,0,No thanks http://t.co/kt2fySgXWk
+138,654888501280772096,Fri Oct 16 05:16:00 +0000 2015,0,0,"@MoysieK @LaceySnr That's a double ""no, apologies"""
+139,654880084659040256,Fri Oct 16 04:42:33 +0000 2015,0,0,"@MoysieK @LaceySnr Dan is here and I think Brad is hiding at the back, not too sure"
+140,654871935893897216,Fri Oct 16 04:10:11 +0000 2015,0,0,NBN Rollout plan is crap
+141,654853746610999296,Fri Oct 16 02:57:54 +0000 2015,0,0,@MoysieK @LaceySnr Nah just with the family :) Can do another one later :P
+142,654850806550626304,Fri Oct 16 02:46:13 +0000 2015,0,4,Just leaving this here @LaceySnr @MoysieK http://t.co/UeQQWNGbc9
+143,654812010022961152,Fri Oct 16 00:12:03 +0000 2015,0,0,Viking Metal Friday!
+144,654761937079681025,Thu Oct 15 20:53:05 +0000 2015,0,1,@krish_vamsi @untappd I'm trying to keep a balance. Only if #Trailhead had beer prizes...
+145,654533876895748096,Thu Oct 15 05:46:51 +0000 2015,0,0,@azder error === 'not an error' // true :)
+146,654516679565664256,Thu Oct 15 04:38:31 +0000 2015,0,0,Gotta love these types of callback errors - function(error) { console.log(error); } // not an error
+147,654486317502451713,Thu Oct 15 02:37:52 +0000 2015,0,0,I just earned the 'Lager Jack (Level 5)' badge on @untappd! http://t.co/gsre40HHWl
+148,654486310690942976,Thu Oct 15 02:37:50 +0000 2015,0,0,I just earned the 'Pale as the Moon (Level 6)' badge on @untappd! http://t.co/eTnV9GnJgq
+149,654408805082533888,Wed Oct 14 21:29:52 +0000 2015,3,0,RT @paddyez: Replace a semicolon ; with a Greek question mark ; in somebodies #source #code. It is the evillest thing you can do to a #prog…
+150,654408793099337728,Wed Oct 14 21:29:49 +0000 2015,0,1,@paddyez Got stuck with it yesterday by copying a piece of code from github. Took me half an hour to figure out
+151,653746438749339648,Tue Oct 13 01:37:51 +0000 2015,5,0,RT @aelst: Don't waste all day like I did. Read about how Case thread id changed in winter '16 for #salesforce http://t.co/tmUGX2pUbd @Sale…
+152,653746270465449984,Tue Oct 13 01:37:11 +0000 2015,0,0,noreply@justice.vic.gov.au emails go straight to spam #whoops @VicGovAu
+153,653503801052102656,Mon Oct 12 09:33:42 +0000 2015,0,0,I feel sorry for the guy who smashed the '57 Bentley behind me this morning on Dalton Rd. The idiot that cut him off better have insurance
+154,653401228957716480,Mon Oct 12 02:46:07 +0000 2015,0,0,@LaceySnr @adamse Is that the truck version of this? http://t.co/duNbVpnQVr
+155,652988535146856448,Sat Oct 10 23:26:13 +0000 2015,0,0,@aelst US didn't import the good Turkish stuff back then :). I'm half tempted man - http://t.co/pSUPDln10K
+156,652987490328948736,Sat Oct 10 23:22:04 +0000 2015,0,1,@aelst Each had a picture and details of a random vehicle http://t.co/EiJPD7HozD
+157,652987118466150400,Sat Oct 10 23:20:35 +0000 2015,0,0,"@aelst I haven't seen it. These bubble gums are from my childhood, not sure if you had them there"
+158,652984386103541760,Sat Oct 10 23:09:44 +0000 2015,0,0,@aelst Don't think so. First time I see that creature :)
+159,652806528324386816,Sat Oct 10 11:22:59 +0000 2015,0,0,Do you remember these? http://t.co/0QgFrY2OKg
+160,652753148130500608,Sat Oct 10 07:50:52 +0000 2015,0,0,I just earned the 'Beer Connoisseur (Level 4)' badge on @untappd! http://t.co/HcThgZRD1a
+161,652083852668567552,Thu Oct 08 11:31:20 +0000 2015,0,0,SSD FTW
+162,652083755167776768,Thu Oct 08 11:30:57 +0000 2015,0,2,"That moment when you thought you lost a screw on the floor, but the macbook lid caught it with the magnet"
+163,652058553612640256,Thu Oct 08 09:50:48 +0000 2015,0,0,I just earned the 'New Brew Thursday' badge on @untappd! http://t.co/kamswO5JrF #NewBrewThursday
+164,652027964167581696,Thu Oct 08 07:49:15 +0000 2015,0,1,"@EvilN8 I reckon that's the average - the wannabes drop it down. I have exceeded that number today, big time"
+165,652025377028616192,Thu Oct 08 07:38:58 +0000 2015,0,0,Something was missing after I restarted my PC - figured out it was the twitter tab!
+166,652024512217649153,Thu Oct 08 07:35:32 +0000 2015,0,2,"90% of programming is swearing, is that right?"
+167,651620748268728320,Wed Oct 07 04:51:07 +0000 2015,0,0,@LaceySnr @computerashleey I assume it's same as SOQL...
+168,651526730079821824,Tue Oct 06 22:37:31 +0000 2015,0,0,"Three things I hate about Melbourne - Weather, Parking and Public Transport"
+169,651263916962484224,Tue Oct 06 05:13:12 +0000 2015,9,0,"RT @LaceySnr: Knew I felt more comfortable. Good moves, @Melbourne. http://t.co/5Mb4FEdI58"
+170,651240224681385984,Tue Oct 06 03:39:03 +0000 2015,0,1,@peterjchalmers Thirsty for more javascript
+171,651239288772800513,Tue Oct 06 03:35:20 +0000 2015,0,0,gulp
+172,650822847254827009,Mon Oct 05 00:00:33 +0000 2015,0,0,"Whoops, fruit design fail http://t.co/qQ5yzolON0"
+173,650489837116485632,Sun Oct 04 01:57:17 +0000 2015,0,1,@peterjchalmers @TheBBQWars @mpusto @MrJarrodHunt @LaceySnr I think I qualify for a remote #bbqwars entry
+174,650487860647235584,Sun Oct 04 01:49:26 +0000 2015,0,1,@mpusto @MrJarrodHunt @LaceySnr I thought you're all busy attending @peterjchalmers' #bbqwars :)
+175,650478492765700096,Sun Oct 04 01:12:12 +0000 2015,0,5,More #bbqwars @peterjchalmers @MrJarrodHunt @LaceySnr http://t.co/gHoJdkKuuW
+176,650282949468786689,Sat Oct 03 12:15:11 +0000 2015,0,4,@peterjchalmers @LaceySnr @MrJarrodHunt would've been good if the pic got attached http://t.co/Sgb4NUK7XX
+177,650282796032757760,Sat Oct 03 12:14:34 +0000 2015,0,0,Late #bbqwars @peterjchalmers @LaceySnr @MrJarrodHunt
+178,650060881414361088,Fri Oct 02 21:32:46 +0000 2015,0,1,Another shooting? Seriously do something about your gun laws
+179,649789269733601284,Fri Oct 02 03:33:29 +0000 2015,0,0,"I'm proud of my little man, eating gyudon before his first birthday"
+180,649547889857789954,Thu Oct 01 11:34:19 +0000 2015,0,0,"@cnugent not really, dude wasn't able to perform anything dramatic"
+181,649538007851134976,Thu Oct 01 10:55:03 +0000 2015,0,2,"Enable filter - contains ""peeple"""
+182,649537742003507200,Thu Oct 01 10:54:00 +0000 2015,0,1,Alcoholics drinking from a powerade bottle on public transport - priceless
+183,649484291739656192,Thu Oct 01 07:21:36 +0000 2015,0,0,I just earned the 'Power Month' badge on @untappd! http://t.co/CC9xKVDUSy
+184,649455363901792256,Thu Oct 01 05:26:39 +0000 2015,0,0,I just earned the 'Down Under (Level 7)' badge on @untappd! http://t.co/LUeEocXGUP
+185,649434903063302144,Thu Oct 01 04:05:21 +0000 2015,0,0,Thoughts on sticking OCZ Vector 180 SSD 240GB in my macbook pro?
+186,649351226920845312,Wed Sep 30 22:32:51 +0000 2015,1,0,RT @moondowner: Why Sweden is shifting to a 6-hour workday: http://t.co/MJPl7qq3qA
+187,649139231604916224,Wed Sep 30 08:30:27 +0000 2015,0,0,"My bank calls me to help me with an online query, then redirects my call to a queue. It's been 5 minutes, #fail"
+188,649073038240169984,Wed Sep 30 04:07:26 +0000 2015,14,0,"RT @mavensmate: v5 of our Sublime Text plugin featuring faster compiles, Lightning, MavensMate-app &amp; lots more is out of beta! https://t.co…"
+189,649026126166126592,Wed Sep 30 01:01:01 +0000 2015,0,0,"@toddenders @jodiem @simongascoigne @derektweets Oh that's right, this is the ""Essentials Tour"""
+190,649024242152042496,Wed Sep 30 00:53:32 +0000 2015,0,0,Salesforce1 World Tour is now known as Salesforce Advantage Tour?
+191,649000950896705536,Tue Sep 29 23:20:59 +0000 2015,0,0,@FishOfPrey @StackSalesforce @LaceySnr should we hit SE support?
+192,648999694325149696,Tue Sep 29 23:15:59 +0000 2015,0,0,"@FishOfPrey @StackSalesforce Do you get the same view? Some of them are indeed really old, but I also saw one from 13 hours ago…"
+193,648999104425684992,Tue Sep 29 23:13:38 +0000 2015,0,1,@StackSalesforce is broken? http://t.co/PL351ANvVS
+194,648633104874147840,Mon Sep 28 22:59:17 +0000 2015,30,0,RT @mavensmate: This week’s release: the ability to run specific test methods in your Apex classes &amp; a streaming-enabled log viewer! http:/…
+195,648020334558384128,Sun Sep 27 06:24:22 +0000 2015,0,0,The choice is yours http://t.co/dXLZTuUK8X
+196,647897173741297664,Sat Sep 26 22:14:58 +0000 2015,0,2,@jodiem @FabienTaillon Flickr was drunk - https://t.co/VICyORyklU
+197,647550950673027072,Fri Sep 25 23:19:12 +0000 2015,0,1,"Even though @Vistaprint stuffed up one of my orders, I still got an amazing customer service. Keep it up!"
+198,647528821881573376,Fri Sep 25 21:51:16 +0000 2015,0,1,"@troycollins_ they're HDR, 3 images stacked (-2, 0 and 2 EV) with some little tone mapping"
+199,647409317570740224,Fri Sep 25 13:56:24 +0000 2015,0,0,@jodiem Try this - https://t.co/5fwHW4R7bl

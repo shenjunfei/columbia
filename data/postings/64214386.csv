@@ -1,0 +1,264 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668699845817991168,Mon Nov 23 07:57:21 +0000 2015,0,0,"@tyleralove could you elaborate on ""calling QUIT in a finally""?"
+1,668699483455254529,Mon Nov 23 07:55:55 +0000 2015,3,0,RT @RawasiHotel: استمتع بالإجازة القادمة  أنت والعائلة والأصدقاء واحجز اليوم لدى الرواسي للشقق الفندقية ودلل نفسك في مرافقه المميزة. https:…
+2,668432187805597696,Sun Nov 22 14:13:47 +0000 2015,0,0,@JarirBookstore ارجو تحديث هذه المعلومات على الموقع و الملصقات على بوابات الفروع
+3,668385763944480768,Sun Nov 22 11:09:18 +0000 2015,0,0,@JarirBookstore التغريدة ارسلت بالامس عند الساعه الحادية عشر مساء ووقت الاغلاق على الملصق هو الثانية عشر.
+4,668157864154939393,Sat Nov 21 20:03:43 +0000 2015,0,0,.@JarirBookstore ارجو تصحيح مواعيد الدوام على الموقع و على بوابات الفروع. جميعها تقول ان الدوام ينتهي ۱٢ بينما الفرع مغلق الان
+5,667790623932588032,Fri Nov 20 19:44:26 +0000 2015,18,0,"RT @ZainB: Time:
+Our refuge and our deluge, 
+Healer of past injuries, destroyer of present delights.
+My best friend and my worst enemy!"
+6,667455026680475648,Thu Nov 19 21:30:53 +0000 2015,0,0,"@tyleralove interesting, are you using it with api gateway ?"
+7,667390549289226242,Thu Nov 19 17:14:41 +0000 2015,0,0,@tyleralove how does aws lambda perform when connecting to a DBaas? is the possible lack of a persistent connection an issue?
+8,666951225754132483,Wed Nov 18 12:08:58 +0000 2015,0,0,@nightwatchjs Made a sublime completions file your api  https://t.co/G2TcEeJtLi
+9,666134608019345408,Mon Nov 16 06:04:01 +0000 2015,0,0,@grorgwork Would love a nudge here https://t.co/CODW8iRZlK if there is such a thing.
+10,665504153544892417,Sat Nov 14 12:18:49 +0000 2015,5,3,"@mdarrab @althari @abyat
+ الصيرفي مول ، جده https://t.co/RWKLPV7eAa"
+11,664704116686475264,Thu Nov 12 07:19:45 +0000 2015,0,0,"Is aws Lambda recommended if the function needs DB (non-RDS) access, I am worried about the lack of persistent connections? cc: @LafiKL"
+12,663765565929086976,Mon Nov 09 17:10:17 +0000 2015,5,0,RT @mlettini: I just learned how The @NewYorker underlines its links so that descenders have white-space. Clever! https://t.co/TGDQro6qjv
+13,663715005989298176,Mon Nov 09 13:49:23 +0000 2015,134,0,"RT @MAlexJohnson: Life in the year 2015, explained in seven words by @rstevens. https://t.co/qxop63SIup https://t.co/xooQsOFbPv"
+14,662888599621378049,Sat Nov 07 07:05:32 +0000 2015,6,9,"@hapijs Made a little hapi brute force mitigation plugin, feedback appreciated.
+https://t.co/SgjEfwOvBi"
+15,662286783275737088,Thu Nov 05 15:14:08 +0000 2015,17,0,RT @elithecartoon: @danbenjamin https://t.co/1YWjaR0G5e
+16,661842687071494144,Wed Nov 04 09:49:27 +0000 2015,0,0,"@eranhammer Made a little hapi plugin, would love your feedback.
+https://t.co/SgjEfwOvBi"
+17,661615203331792896,Tue Nov 03 18:45:31 +0000 2015,0,0,@ChromeDevTools is there a quick way / plugin to view a file quickly without having to traverse the folder tree expanding each folder?
+18,661585901127139328,Tue Nov 03 16:49:05 +0000 2015,0,0,@ahmed not on android
+19,661480003041783808,Tue Nov 03 09:48:17 +0000 2015,0,0,@khaled So batman's utility belt is explosive? Who would have thought.
+20,661145830494248960,Mon Nov 02 11:40:24 +0000 2015,0,0,@eXtraStores كيف اقدر اتصل بالصيانة عن طريق الجوال ؟
+21,659264834467442688,Wed Oct 28 07:05:59 +0000 2015,0,0,@Abdullah_Asiri_ @ibhm طيب عشيري ؟
+22,658603723363631104,Mon Oct 26 11:18:58 +0000 2015,0,0,@IgnazioMagnani amazing. Is there any place to get a higher resolution images ?
+23,658603026756816896,Mon Oct 26 11:16:12 +0000 2015,91,0,RT @IgnazioMagnani: أهلا و سهلا Mecca🇸🇦 The @SpaceStation is visible (naked eye) at 6:52pm❕@Almatrafi @maysaaX @ahmed @mht https://t.co/K9J…
+24,656115595465768960,Mon Oct 19 14:32:02 +0000 2015,2131,0,RT @iamdevloper: http://t.co/GNCwlQec79
+25,655424234693390336,Sat Oct 17 16:44:49 +0000 2015,41,0,"RT @SherenAlsalmi: بياعين المياه والزيوت المقروءة يقولون للناس بالمختصر:
+نحن أقرب إلى الله منكم، وسنتضرع إليه بالنيابة عنكم ليشفيكم.. وخدما…"
+26,655392898301624320,Sat Oct 17 14:40:18 +0000 2015,3,0,"RT @Abdullah_Asiri_: تم تجهيز جناح وقود بالكامل في معرض #جايتكس 
+زورونا 😊 http://t.co/qD4vpTeXdb"
+27,654682049479991296,Thu Oct 15 15:35:38 +0000 2015,0,0,@_rBrB_ اتفق معك و رياضيا صعب جدا تحقيق النسبه في اي تصميم.
+28,654594942254256128,Thu Oct 15 09:49:30 +0000 2015,0,0,@_rBrB_ ايش غير وجهة نظرك ؟
+29,654275506934779904,Wed Oct 14 12:40:11 +0000 2015,1,0,@Ahmad_Hariri @YRaffah برعاية ميريتو
+30,653922432332525568,Tue Oct 13 13:17:11 +0000 2015,0,0,@milyani في تراك باد 2
+31,653859585263075328,Tue Oct 13 09:07:27 +0000 2015,0,0,"في سنابه على متن التمني
+شفت عمري خيال في سنابه
+#بوح"
+32,653607946216185856,Mon Oct 12 16:27:32 +0000 2015,0,0,"@Updula وش صار على 
+Lastpass"
+33,651807321576898562,Wed Oct 07 17:12:30 +0000 2015,56,0,"RT @MotazG: اليوم أطلقنا تطبيقنا الجديد Chubble،
+@LetsChubble 
+http://t.co/a1ai3KUXiV"
+34,649964542139723776,Fri Oct 02 15:09:57 +0000 2015,100,0,RT @ValaAfshar: It doesn't make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to …
+35,648892362593165312,Tue Sep 29 16:09:29 +0000 2015,0,0,@SaifAlHarthi https://t.co/SCVen0DMNh
+36,647450640516411392,Fri Sep 25 16:40:36 +0000 2015,0,0,@milyani الزمن دوار
+37,646974111835525120,Thu Sep 24 09:07:03 +0000 2015,0,0,@ibhm @alfarhan من كشخته ... الناس حبته
+38,646962896849666048,Thu Sep 24 08:22:29 +0000 2015,0,0,@ryanflorence what is the recommended way to manage configuration in a react app? especially swapping urls or keys between dev and prod.
+39,641275665078054912,Tue Sep 08 15:43:27 +0000 2015,0,0,@redabanjar @emad_alghamdi 😋
+40,641273415786061824,Tue Sep 08 15:34:31 +0000 2015,0,0,@redabanjar @emad_alghamdi اعتقد تقصد فلات
+41,640782617663504385,Mon Sep 07 07:04:15 +0000 2015,329,0,"RT @Veronika_0N: ""صَغِيرَيْنِ نَرْعَى البَهْمَ يا لَيْتَ أنَّنَا
+إلى اليوم لم نكبر ولم تكبر البهم""
+-قيس بن الملوح http://t.co/nsGx6eyMda"
+42,639871394226933760,Fri Sep 04 18:43:23 +0000 2015,0,0,@a7mads pivoting?
+43,639442136618827776,Thu Sep 03 14:17:40 +0000 2015,2,0,في #ملتقى_تقنية http://t.co/mSMnygV320
+44,639283678590337024,Thu Sep 03 03:48:00 +0000 2015,0,0,@milyani @DunkinDonuts_sa اتمنى منهم اعاده النظر و التفكير في خدمة العميل اكثر من الربح المادي.
+45,639281376806592513,Thu Sep 03 03:38:52 +0000 2015,0,0,@milyani @DunkinDonuts_sa ارتفع السعر اكثر من مره. بطلت اشتري من عندهم.
+46,636820408692404224,Thu Aug 27 08:39:51 +0000 2015,0,0,@a7mads preach!
+47,636801300118671360,Thu Aug 27 07:23:55 +0000 2015,1,0,Cc @FacesPics  https://t.co/Q8y5c7Nmsw
+48,636759381078507520,Thu Aug 27 04:37:21 +0000 2015,2393,0,"RT @cdixon: ""Hello everybody.. I'm doing a (free) operating system.. just a hobby"" - Linus Torvalds, 1991 https://t.co/uIgHJUMrpN http://t.…"
+49,636485184112627712,Wed Aug 26 10:27:47 +0000 2015,6,0,RT @HeyDesigner: 16 product things I learned at Imgur http://t.co/MkOCLSQHRW
+50,636466753967493120,Wed Aug 26 09:14:33 +0000 2015,477,0,RT @SwedishCanary: I thought it was an earthquake but it turned out to be some bored high-power lines... http://t.co/oSOjuiIy1c
+51,636032352074858496,Tue Aug 25 04:28:24 +0000 2015,0,0,@pocketcasts @atpfm i unsubscribed and resubscribed and it downloaded the episode.
+52,635904799137927168,Mon Aug 24 20:01:33 +0000 2015,0,0,"@GhaidaZahran @khaled saw it twice here in Jeddah, not sure how I feel about it."
+53,635899630287347712,Mon Aug 24 19:41:00 +0000 2015,0,0,"@pocketcasts the latest episode of @atpfm is not downloading, could you please check? Thanks."
+54,635759515116290048,Mon Aug 24 10:24:14 +0000 2015,0,0,اربط المنتج مطرح ما يحب صاحبه #برمجة #بوح
+55,634853122796457984,Fri Aug 21 22:22:34 +0000 2015,0,0,@GhaidaZahran i think you're thinking of spaghettios
+56,634767777400754176,Fri Aug 21 16:43:26 +0000 2015,0,0,@Updula http://t.co/bkzEUTHe75
+57,634481680351232001,Thu Aug 20 21:46:35 +0000 2015,262,0,"RT @ZainB: رُدّ لي رُوحي القديمَة..
+
+ضِحكتي، دَمعي البَريء
+
+نصريَ الموعودَ دوماً بالهَزيمة..
+
+دَهشةَ الأشياءِ و الحُلمَ الجَريء"
+58,634135917859438593,Wed Aug 19 22:52:39 +0000 2015,0,0,@Abdullah_Asiri_ ما شاء الله. يتربى في عزكم
+59,633150953517002752,Mon Aug 17 05:38:45 +0000 2015,0,0,@a7mads @Updula designers.
+60,633130667908304896,Mon Aug 17 04:18:08 +0000 2015,2326,0,RT @detly: This is why you shouldn't interrupt a programmer: http://t.co/K2dNXKzjem
+61,632163745976860672,Fri Aug 14 12:15:56 +0000 2015,3,0,"RT @devongovett: “ContentEditable — The Good, the Bad and the Ugly” by @reinmarpl https://t.co/b0uGVvsArN
+
+Oh man, this rings so true."
+62,631505066873098240,Wed Aug 12 16:38:35 +0000 2015,35,0,"RT @WaqoodTech: #وظيفة (مساعدة إدارية) بجدة، يتطلب إجادة الإنجليزية والعربية، بالإضافة لمهارات الحاسب تفاصيل الوظيفة وطريقة التقديم.
+
+http:…"
+63,631208014343606272,Tue Aug 11 20:58:12 +0000 2015,0,0,@moltaheb @mkhDev +1
+64,629955358493048832,Sat Aug 08 10:00:36 +0000 2015,0,0,@wycats oops. Anyone on twitter i can ask ?
+65,629819562196795392,Sat Aug 08 01:00:59 +0000 2015,0,0,@NetDevr @MSJ860 @Technology_QA @Mszpr يا سيدي لا يرضيني و لا ارضيه. و اسال الله لكم التوفيق.
+66,629812357011628033,Sat Aug 08 00:32:21 +0000 2015,0,0,"@NetDevr @MSJ860 @Technology_QA @Mszpr لذا لابد من اسخدام خوارزميه تعتمد على 
+Salting
+مثل
+Bcrypt"
+67,629810261038247937,Sat Aug 08 00:24:02 +0000 2015,0,0,@MSJ860 @Technology_QA @NetDevr @Mszpr http://t.co/u0CXNla8PG
+68,629807613597712384,Sat Aug 08 00:13:30 +0000 2015,0,0,@MSJ860 @Technology_QA لن ادخل معك في جدال. احببت ان اوصل ضعف المعلومة و ارجو من المختصين اعاده النظر. هذا لا يقلل من قيمه الحساب.
+69,629805839067430914,Sat Aug 08 00:06:27 +0000 2015,0,0,@MSJ860 @Technology_QA الطريقه المقترحه ليست امنه بالشكل المطلوب. اقرا الردود.
+70,629805046750773249,Sat Aug 08 00:03:19 +0000 2015,0,0,@MSJ860 @Technology_QA اخر تغريده غير دقيقه و تنصح باستخدام طريقة غير آمنة
+71,629803553641529344,Fri Aug 07 23:57:23 +0000 2015,0,0,@MSJ860 @Technology_QA اتمنى ان يرتوتوا اي تصحيح يجيهم.
+72,629788372714688512,Fri Aug 07 22:57:03 +0000 2015,0,0,@wycats are there any efforts in tc39 towards fixing or improving the content editable api ?
+73,629701385068507136,Fri Aug 07 17:11:24 +0000 2015,260,0,"RT @maldaham: واقع بعض دورات تطوير الذات !
+
+#تطوير_الذات http://t.co/vMrzKS8d9D"
+74,629699279288840192,Fri Aug 07 17:03:02 +0000 2015,0,0,@domenic any efforts towards fixing/replacing content editable api that you are aware of?
+75,629698339496275968,Fri Aug 07 16:59:18 +0000 2015,1,1,"@Technology_QA @MSJ860 لايكفي استخدامها. بالنسبه ل 
+PHP 
+يجب استخدام دالة
+password_hash
+http://t.co/fkmybPPYMW"
+76,629332348056662016,Thu Aug 06 16:44:58 +0000 2015,0,0,@MSJ860 مو شرط يسرق. بس ممكن يستفيد
+77,629317098054000640,Thu Aug 06 15:44:22 +0000 2015,0,0,@AnasAmoudi @redabanjar برهة من الزمن
+78,629316209142562816,Thu Aug 06 15:40:51 +0000 2015,0,0,@LafiKL Haven't read your tweets in while ... just checking.
+79,629315867738808320,Thu Aug 06 15:39:29 +0000 2015,0,0,@LafiKL Yo!
+80,628690451504066560,Tue Aug 04 22:14:18 +0000 2015,32,0,"RT @Mou_G: What do robots read in their religious gatherings? JavaScripture.
+
+*moonwalks for eternity*"
+81,628321505395503105,Mon Aug 03 21:48:15 +0000 2015,12,0,"RT @jalammar: فظيييييع: رد فعل موظفي الـ Drive Thru اذا جاهم روبوت يطلب أكل 
+Drive Thru Robot Driver Prank https://t.co/pNwN7dfBRF"
+82,626860662879350784,Thu Jul 30 21:03:23 +0000 2015,0,0,@grorgwork great to hear.
+83,626857070936092673,Thu Jul 30 20:49:06 +0000 2015,0,0,@grorgwork is css @supports available in Safari yet?  If not are there any plans?  Thanks.
+84,626266088003645440,Wed Jul 29 05:40:45 +0000 2015,0,0,"@SaifAlHarthi @engineer_fouad استخدم
+\
+بدل
+/"
+85,626086621738184705,Tue Jul 28 17:47:37 +0000 2015,2605,0,"RT @_tessr: how to remember tar flags 🎏
+
+tar -xzf 👈 eXtract Ze Files!
+tar -czf 👈 Compress Ze Files!"
+86,622455013785255937,Sat Jul 18 17:16:54 +0000 2015,0,0,@MSJ860 شوف عباره غير هذي اذا ممكن
+87,621048975429255168,Tue Jul 14 20:09:48 +0000 2015,0,1,@a7mads @MajidCS ember uses npm and bower. React uses npm and browserify.
+88,620693589660577793,Mon Jul 13 20:37:38 +0000 2015,0,0,@a7mads heard about it long time ago. Not adopted by any framework i use.
+89,620662020896002048,Mon Jul 13 18:32:11 +0000 2015,0,0,@SaraSoueidan order them by hex color value. problem solved.
+90,619551459084865536,Fri Jul 10 16:59:13 +0000 2015,3834,0,"RT @ALMISNID: #مكة_المكرمة ليست بحاجة لمن يشهد لها زوراً
+عبر (العبث) العلمي !!!
+
+#مكه_لايف http://t.co/So4TJeqd8S"
+91,618957908189974529,Thu Jul 09 01:40:39 +0000 2015,0,0,@MSJ860 @isavanna_ مش مسألة اسهل او اصعب المسألة مسألة رفع الكفائة و الوصول باقصر الطرق
+92,618925501197881344,Wed Jul 08 23:31:53 +0000 2015,0,0,@MSJ860 @isavanna_ اذا كود للواجهة فهو جيد اما غير كذا في عرضه للخطأ
+93,617626041591304192,Sun Jul 05 09:28:17 +0000 2015,8141,0,RT @qrush: I like to pretend tech execs are always talking about how big the sub they ate for lunch was http://t.co/3uWcE8CVZB
+94,616985726752702464,Fri Jul 03 15:03:54 +0000 2015,1,0,Action figure http://t.co/u2KMU3Nqwj
+95,613326218478260228,Tue Jun 23 12:42:20 +0000 2015,0,0,@Updula عظم الله اجركم و رحم ميتكم و رزقكم الصبر و السلوان.
+96,613234414248538112,Tue Jun 23 06:37:32 +0000 2015,0,0,@Updula الله يسعدك و يكرمك يا عبدالله و ما تقصر
+97,613146456963203072,Tue Jun 23 00:48:01 +0000 2015,0,0,@Updula الف مبروك و عقبالي.
+98,612602498013007873,Sun Jun 21 12:46:31 +0000 2015,0,0,@Updula @dubayan DRM
+99,612317783938895873,Sat Jun 20 17:55:10 +0000 2015,0,1,@jalammar Ireland
+100,609840818581417984,Sat Jun 13 21:52:36 +0000 2015,0,0,@aaahariri هل سناب هو المنصة الامثل لنشر مثل هذه المعلومات؟
+101,609791900283858944,Sat Jun 13 18:38:13 +0000 2015,0,0,@Updula @2x does it matter?
+102,607894578994122753,Mon Jun 08 12:58:56 +0000 2015,0,0,@Mo3Tah عظم الله اجركم و غفر لميتكم و رزقكم الصبر على فراقها
+103,607882277163405312,Mon Jun 08 12:10:03 +0000 2015,36,0,RT @dreamweaver: Learn how to make a realistic 'raindrops on window' effect with pure #CSS from @lucasbebber: http://t.co/LqpdfK2BPE http:/…
+104,607570284527284225,Sun Jun 07 15:30:18 +0000 2015,0,0,@khaled Satan's hookah.
+105,606701323413618689,Fri Jun 05 05:57:22 +0000 2015,25,0,RT @bascule: LUNIX!#$! http://t.co/p84Y0LLqiR
+106,606600892511481856,Thu Jun 04 23:18:17 +0000 2015,0,0,@mixonic inital render speed please
+107,605483492147757056,Mon Jun 01 21:18:08 +0000 2015,0,0,@Updula @kshmiry whatever serves the client needs.
+108,605481532002856960,Mon Jun 01 21:10:21 +0000 2015,0,1,@kshmiry @Updula heard hood stuff about lemonstand but it is not free.
+109,604920645328076800,Sun May 31 08:01:35 +0000 2015,60,0,"RT @Masareef: #تطبيق_مصاريف بنسخته الجديدة متاح الآن للتنزيل مجاناً
+http://t.co/oFscr6Gga8
+
+#آيفون #اندرويد http://t.co/hTlTJz2ETl"
+110,604700641080918016,Sat May 30 17:27:22 +0000 2015,0,0,@ebryn faster initial render
+111,604634811311915008,Sat May 30 13:05:47 +0000 2015,0,0,@Nano_eShop اكسترا معلن انه متوفر عندهم ١/٦ ميلادي.
+112,604349752960933888,Fri May 29 18:13:04 +0000 2015,0,0,@Nano_eShop هل توفر LG G4 ?
+113,604186870788960256,Fri May 29 07:25:49 +0000 2015,0,0,@chrismlacy are there any new Dev phones ?
+114,603490533491646464,Wed May 27 09:18:50 +0000 2015,0,0,I drink no ... Americano
+115,602563190669475840,Sun May 24 19:53:54 +0000 2015,29,0,"RT @45975Nawaf: ليت الجفا زلّة و أدوّر لها دمح
+      وليت الغرام جروح و انسى عددها
+وأنا قتيل البرد يا وادي الطلح
+     كان المزون أضناك صاخب…"
+116,601286974410870784,Thu May 21 07:22:40 +0000 2015,0,0,z-index: 999; really?
+117,600915980215144448,Wed May 20 06:48:28 +0000 2015,0,0,@eranhammer I wish you all the best.
+118,597108372899373056,Sat May 09 18:38:24 +0000 2015,0,0,@Ranoooya @ahmed it seems to error on mobile. Try on a desktop.
+119,596800333373800448,Fri May 08 22:14:22 +0000 2015,0,0,@tomdale it's tough being a thought leader
+120,596721488390008832,Fri May 08 17:01:04 +0000 2015,1,0,@MohammedFadin dude! That's my password.
+121,596582316924735489,Fri May 08 07:48:02 +0000 2015,0,0,.@aitnews الرجاء عدم ارسال مواضيع موقعكم كرسالة خاصة. هذا سوء استخدام لهذه الخدمة. ارجوا التجاوب و الا سألجأ الى حظر حسابكم.
+122,596252528209043458,Thu May 07 09:57:35 +0000 2015,0,0,@rwjblue awesome thanks.
+123,596227668586196992,Thu May 07 08:18:48 +0000 2015,1,0,@rwjblue what is the best way to polyfill/detect instanceInitializer to work on earlier version of ember
+124,595535978380427265,Tue May 05 10:30:16 +0000 2015,0,0,خبرة ١٠ اعوام في قرصنة النمو.
+125,595243922466582528,Mon May 04 15:09:44 +0000 2015,0,0,مدير مركز ابحاث ريادة الآلة
+126,594880978692116480,Sun May 03 15:07:32 +0000 2015,0,0,@Nano_eShop متى تتوقع توفر LG G4 ?
+127,594879661529698305,Sun May 03 15:02:18 +0000 2015,0,0,@ibhm @LGMobileSaudi متى يتوفر ؟
+128,594848356972695554,Sun May 03 12:57:54 +0000 2015,0,0,@SaifAlHarthi Content Security?
+129,594146691617402880,Fri May 01 14:29:44 +0000 2015,0,0,"@OddlyOrdinary I gave up not because it is impossible, but because I was short on time. There was a suggestion by @lovell that might work."
+130,593478624143142912,Wed Apr 29 18:15:04 +0000 2015,11,0,RT @a7mads: Hotness http://t.co/dFxtGIpvn9
+131,593478604144693248,Wed Apr 29 18:15:00 +0000 2015,0,0,@a7mads الله يوفقك و تستاهل كل خير
+132,593253493177061379,Wed Apr 29 03:20:29 +0000 2015,48,0,RT @benlakey: Why did it take 2 weeks to write 200 lines of code? Because I had to write 1000 lines of code to learn which 800 to throw awa…
+133,592800219290566656,Mon Apr 27 21:19:20 +0000 2015,0,0,@AlMalki_am http://t.co/7vyMVhzt10
+134,592763237273309186,Mon Apr 27 18:52:23 +0000 2015,0,0,@abdullaharif super nice. Told you so.
+135,592760709869600770,Mon Apr 27 18:42:20 +0000 2015,37,0,RT @abdullaharif: Arif Mono 0.1-alpha Preview #arabic #type #typeface #font #monospaced #ArifMono #خط http://t.co/PiSqhnoCE4
+136,592759098212556800,Mon Apr 27 18:35:56 +0000 2015,0,0,@AlMalki_am بفرض ان المبرمج اختار موديولز جيدة، الحجم مش اشكالية. طبعا طريقة npm في ادارتها تتسبب في تكرار الموديولز.
+137,592701937579089920,Mon Apr 27 14:48:48 +0000 2015,0,0,@AlMalki_am هذي فكرة ال modules. بدل من اعادة صنع العجلة تستخدم modules جاهزة و تركز على حل المشكلة الخاصة ببرنامجك
+138,592030683259736064,Sat Apr 25 18:21:28 +0000 2015,0,0,مؤسس علم الريادة السحابية.
+139,592029717345120256,Sat Apr 25 18:17:38 +0000 2015,0,0,@aqushmaq عندي مليان. الله يعين.
+140,592029296849387520,Sat Apr 25 18:15:58 +0000 2015,0,0,@aqushmaq دورة ريادي معتمد من المركز الكندي لريادة الاعمال ؟
+141,592026846906028033,Sat Apr 25 18:06:14 +0000 2015,0,0,ريادة الاعمال قد تصبح NLP هذا العقد.
+142,592021280854933504,Sat Apr 25 17:44:07 +0000 2015,842,0,RT @saadalanizi: السماح لراكب سعودي الصعود لطائرة الخطوط السعودية بعدما اشتبه في اسمه المختلف ليتضح أنه ترجم اسمه محمد الشهري من قوقل😂 http…
+143,591267120471678976,Thu Apr 23 15:47:21 +0000 2015,0,0,@Updula هذا تحدي للمصمم.
+144,589491907295727617,Sat Apr 18 18:13:17 +0000 2015,0,0,@devongovett I wonder how is it going to affect @hapijs ? @eranhammer
+145,589213863754604544,Fri Apr 17 23:48:26 +0000 2015,1,0,@redabanjar شبه مستحيل رياضيا ان تطبقها كما ذكر ذلك المقال.
+146,587989286579896322,Tue Apr 14 14:42:24 +0000 2015,0,0,@milyani ما يركب عندكم microwave ?
+147,587460666321018880,Mon Apr 13 03:41:51 +0000 2015,0,0,@SaifAlHarthi هذا انجليزي مو كوري. تلعب علينا؟
+148,586884473293111296,Sat Apr 11 13:32:16 +0000 2015,1,0,"RT @ArchitectD7: @salzhrani يُضرب لمن يسأل عن بعض أسرار الغير، ويُقصد به أن الشمس تُشرق على كل البلاد، وأنه لم يكن مِثلها ليعلم كل شيء""."
+149,586882070837772288,Sat Apr 11 13:22:44 +0000 2015,0,0,@SaifAlHarthi الفضول ما يرحم. شكلي بأسال في stack overflow.
+150,586880981568598017,Sat Apr 11 13:18:24 +0000 2015,0,0,"مالمقصود بتعبير ""ليس شمس شارقة"" ؟"
+151,586869972913168384,Sat Apr 11 12:34:39 +0000 2015,0,0,@LafiKL sup
+152,586597849019748352,Fri Apr 10 18:33:20 +0000 2015,0,1,@Phandroid @MKBHD did you receive the update? Is it that good?
+153,586250243316023297,Thu Apr 09 19:32:04 +0000 2015,0,1,@jo_liss @pushbullet
+154,585307287859802114,Tue Apr 07 05:05:06 +0000 2015,395,0,"RT @CITC_SA: ... لإيقاف الرسائل SMS الدعائية.
+
+http://t.co/mGpx49oISg
+
+#السعودية 
+#هيئة_الاتصالات"
+155,584802047351889920,Sun Apr 05 19:37:27 +0000 2015,24,0,"RT @WaqoodTech: متخرج قريب بتخصص حاسوبي وتحب البرمجة؟ رهيب وفيك روح المبادرة وروح الفريق؟ شركة وقود في جدة بإنتظارك
+ تواصل معنا على:
+http:/…"
+156,584099134434447360,Fri Apr 03 21:04:20 +0000 2015,0,0,@mkhDev node build tools are in Python.
+157,584062969966825472,Fri Apr 03 18:40:38 +0000 2015,0,0,@kytrinyx @a7mads thanks. Will definitely watch.
+158,584059318321848320,Fri Apr 03 18:26:07 +0000 2015,0,0,@a7mads @kytrinyx tl;dr?
+159,583296231763419136,Wed Apr 01 15:53:53 +0000 2015,27545,0,RT @sempf: QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a …
+160,583148585866383360,Wed Apr 01 06:07:11 +0000 2015,0,0,@SaifAlHarthi It is advised to not have any caffeine in the evening. I stop consuming caffeine at 2:00pm. also melatonin supplements help.
+161,583146302097215488,Wed Apr 01 05:58:07 +0000 2015,0,0,"@SaifAlHarthi what about other drinks that have caffeine ... soda, energy drinks ... etc"
+162,583144866621845504,Wed Apr 01 05:52:25 +0000 2015,0,0,@SaifAlHarthi how is your caffeine consumption?
+163,582889034755756032,Tue Mar 31 12:55:50 +0000 2015,10,0,"RT @Quillcannon: Negotiation, by Yashar Kassai. #art http://t.co/SS0sCD1fA9"
+164,582882309558374401,Tue Mar 31 12:29:06 +0000 2015,0,0,@rwjblue Nice !!!
+165,582849854512046082,Tue Mar 31 10:20:08 +0000 2015,0,0,@rwjblue how would addon authors support both syntaxes?
+166,581056475243532289,Thu Mar 26 11:33:53 +0000 2015,1,0,RT @KMakhdom: أمين يارب العالمين http://t.co/rKou5ECzCA
+167,580716779757961216,Wed Mar 25 13:04:04 +0000 2015,12,0,"RT @chrismlacy: ICYMI: Action Launcher 3.3 is OUT NOW!
+Details: http://t.co/5OcsCcKi5x
+Video: https://t.co/dJdNmImIrm
+App: https://t.co/8Py…"
+168,578213001653665792,Wed Mar 18 15:14:56 +0000 2015,831,0,"RT @planetepics: For anyone feeling a bit sad, here's a picture from a woman who makes Teddy Bears for her pet mouse. http://t.co/63MZourj6E"
+169,577881313417424896,Tue Mar 17 17:16:56 +0000 2015,19,0,RT @ebidel: Intent to Implement CompositorWorker. Native-mobile style scroll-coupled effects (and other) to the web - https://t.co/FdZ6ftNr…
+170,577831336695574529,Tue Mar 17 13:58:20 +0000 2015,0,0,@thamood use async or Promises
+171,577772271906885633,Tue Mar 17 10:03:38 +0000 2015,0,1,@thamood sublime text
+172,577543969619365889,Mon Mar 16 18:56:27 +0000 2015,0,0,@abdullaharif looks promising.
+173,576480517517783040,Fri Mar 13 20:30:40 +0000 2015,0,0,@thamood في محاولات للدمج بينهم لكن في اسوأ الاحوال اختر منصة و اعتمدها
+174,576480067418632192,Fri Mar 13 20:28:53 +0000 2015,0,0,@thamood العبئ الاكبر على اصحاب المديولز. اما بالنسبة لنا ما فيه ذيك العوائق
+175,576477995650539520,Fri Mar 13 20:20:39 +0000 2015,0,0,@thamood كمبرمج مافي فرق يذكر بينهم.
+176,575616087754063874,Wed Mar 11 11:15:44 +0000 2015,0,0,@krikOrianm @matchesapp yes
+177,575612989048406016,Wed Mar 11 11:03:25 +0000 2015,0,0,@krikOrianm @matchesapp
+178,575608589504512000,Wed Mar 11 10:45:56 +0000 2015,0,0,@krikOrianm @HishamFageeh here's one @Masareef
+179,574905684866654208,Mon Mar 09 12:12:51 +0000 2015,0,0,@milyani نسيج ١٥ ساعة بس
+180,574905271958380547,Mon Mar 09 12:11:12 +0000 2015,0,0,@milyani عندي كرت اول نت شهر مفتوح. ينفع؟
+181,571236176230612994,Fri Feb 27 09:11:32 +0000 2015,0,0,@milyani لول
+182,571011717947215872,Thu Feb 26 18:19:37 +0000 2015,15,0,RT @tomdale: On designing with accessible color contrast ratios: https://t.co/17dgOcXA7M
+183,570988398350983169,Thu Feb 26 16:46:57 +0000 2015,0,0,@LafiKL chrome://inspect
+184,570248747617099777,Tue Feb 24 15:47:50 +0000 2015,0,1,@MohammedFadin @SaifAlHarthi hadooken
+185,570236603374833664,Tue Feb 24 14:59:35 +0000 2015,0,0,"@listonb Wow, appreciate your kindness. I opened an issue on the sharp repo with more info that may be useful https://t.co/7B19h0YOUs"
+186,570235269208809472,Tue Feb 24 14:54:17 +0000 2015,0,0,"@listonb Hi, I have been tring to use the node module ""sharp"" in a lambda function but I run into errors.  any advice ?"
+187,570067749566697472,Tue Feb 24 03:48:37 +0000 2015,0,0,@SaifAlHarthi تستاهل كل خير يا سيف. و بالتوفيق.
+188,569535307239923712,Sun Feb 22 16:32:53 +0000 2015,0,0,@LafiKL @SaifAlHarthi :p
+189,569534717948596225,Sun Feb 22 16:30:32 +0000 2015,0,0,@SaifAlHarthi @LafiKL boring.
+190,569166723602972672,Sat Feb 21 16:08:16 +0000 2015,0,0,@mohalfares قواك الله
+191,568713395651768320,Fri Feb 20 10:06:54 +0000 2015,0,0,@SaifAlHarthi @mkhDev @Dr_MMeccawy virtuous reality.
+192,568535415138856961,Thu Feb 19 22:19:40 +0000 2015,0,1,@kshmiry parallel processing.
+193,568525612974891010,Thu Feb 19 21:40:43 +0000 2015,0,0,@Updula 😱
+194,567986651407912960,Wed Feb 18 09:59:05 +0000 2015,80,0,"RT @khaled: Movie posters designed in an Arabic style
+RT @SaraSalvatoree: بوسترات لبعض الافلام المرشحه للأوسكار بتصميم عربي محترف http://t.…"
+195,567542645224775680,Tue Feb 17 04:34:45 +0000 2015,41,0,RT @stuntbox: App folks contorting the Web for “pixel perfect” layout feel like print designers screaming for fixed constraints on the earl…
+196,567031632251461632,Sun Feb 15 18:44:10 +0000 2015,118,0,"RT @Bin_Bayyah: Ignorance and extremism are two sides of the same coin. In fact, we could say that ignorance is actually the primary cause …"
+197,566648671727390721,Sat Feb 14 17:22:25 +0000 2015,0,0,جشع التجار و فساد المسؤولين أحال جدة وغيرها بؤرة تعاسة.
+198,566108231605297152,Fri Feb 13 05:34:54 +0000 2015,0,1,@lukemelia @stefanpenner infinite loop.
+199,565866254334849024,Thu Feb 12 13:33:22 +0000 2015,0,0,@khaled @buyousef3433 @assem_10 if only Steve was alive.

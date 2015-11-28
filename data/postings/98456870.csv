@@ -1,0 +1,185 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,667653915496882176,Fri Nov 20 10:41:12 +0000 2015,0,1,Lodash: 10 Javascript Utility Functions That You Should Probably Stop Rewriting | Colin Toh  https://t.co/EMBQy6BBnR via @p0larBoy
+1,666983396225228800,Wed Nov 18 14:16:48 +0000 2015,351,0,"RT @malyw: Chrome DevTools Update:
+Pane to toggle element classes
+@ChromeDevTools @ChromiumDev #chromedevsummit #chrome https://t.co/k8SJGB…"
+2,666681144012873729,Tue Nov 17 18:15:45 +0000 2015,53,0,RT @jaisanth: There! Flipkart Lite on the Device wall at the Chrome Developer Summit  #chromedevsummit https://t.co/yepHuRPgKj
+3,664443226229760000,Wed Nov 11 14:03:04 +0000 2015,13,0,RT @John_Papa: Interesting first impression of @angularjs 2 and typescript.  https://t.co/2ARdjbglEN
+4,662617753623388160,Fri Nov 06 13:09:17 +0000 2015,0,0,"A general-purpose, web standards-based platform for parsing and rendering PDFs. https://t.co/SIiDoIFvGJ  #pdfjs #pdf #javascript #libraries"
+5,662261307295559681,Thu Nov 05 13:32:54 +0000 2015,0,0,Setup Bootstrap Sass with Laravel Elixir https://t.co/aBCd2OoInv via @laravelnews
+6,662037137542524928,Wed Nov 04 22:42:08 +0000 2015,0,1,Using events and refs - Angular 2 Video Tutorial #free @eggheadio: https://t.co/w1uWQq27PE
+7,661842268278677504,Wed Nov 04 09:47:47 +0000 2015,280,0,"RT @BenLesh: If you're an expert, never forget you once knew absolutely _nothing_ about your field. Respect the beginners, they're our futu…"
+8,661519270996803584,Tue Nov 03 12:24:19 +0000 2015,0,0,"@laravelphp Hello, have you guys found a practical way of using livereload() with elixir?without the reloader is a big down side I think :("
+9,659884884043894784,Fri Oct 30 00:09:51 +0000 2015,0,0,Introducing RAIL: A User-Centric Model For Performance https://t.co/mENmC56WEO via @smashingmag
+10,659882969243525120,Fri Oct 30 00:02:14 +0000 2015,15,0,RT @DanWahlin: Babel 6.0.0 Released https://t.co/4xZTg0015D
+11,659732977006563328,Thu Oct 29 14:06:13 +0000 2015,0,1,ES6 Overview in 350 Bullet Poin #javascript #es6 https://t.co/lCtQutjJEi
+12,659303554851696640,Wed Oct 28 09:39:51 +0000 2015,0,1,A Good User Interface - Amazing tips! #ui #superuseful  https://t.co/zWdLK3UHTL
+13,658402903242199040,Sun Oct 25 22:00:59 +0000 2015,0,0,Angular 2 in Plain JS  #angular2 #noTypeScript #Javascript https://t.co/1e9S7EHqu4
+14,657980662671089664,Sat Oct 24 18:03:09 +0000 2015,12,0,"RT @thoughtram: A new #Angular2 article will be published today! 
+
+#ngUpgrade"
+15,657555368600584193,Fri Oct 23 13:53:11 +0000 2015,1,0,RT @kentcdodds: I think the best approach is to present your idea as part of your own personal experience rather than ultimate facts https:…
+16,657220428109320192,Thu Oct 22 15:42:15 +0000 2015,0,0,"@trevanhetzel @include cool, but be 
+careful with mixin, is better to use placeholder https://t.co/IRSF8I43UC"
+17,657219489294061568,Thu Oct 22 15:38:31 +0000 2015,0,0,"@trevanhetzel yes! to used it, you have to do something like, font-size:em(22);"
+18,657216081178836992,Thu Oct 22 15:24:58 +0000 2015,2132,0,RT @iamdevloper: http://t.co/GNCwlQec79
+19,657215340577988608,Thu Oct 22 15:22:02 +0000 2015,1,0,"@trevanhetzel Not sure, but maybe
+ $browser-context: 16; 
+@function em($pixels,$context:$browser-context){
+  @return #{$pixels/$context}em
+}"
+20,657113322869936129,Thu Oct 22 08:36:39 +0000 2015,3,0,RT @JS_Cheerleader: I used to interrupt developers ALL the time. Thought I was keeping them from being lonely with their code. Then @_erice…
+21,656818439764508672,Wed Oct 21 13:04:53 +0000 2015,0,0,Functional testing with cucumber and protractor #angularjs #testing #cucumber https://t.co/YcC4BXeMze
+22,656595158989975553,Tue Oct 20 22:17:39 +0000 2015,0,0,"Say ""Hello World"" to Angular 2 - Angular 2 Video Tutorial #free #bootstraping#firstapp@eggheadio: https://t.co/G41FjcIeKN"
+23,656048719813562369,Mon Oct 19 10:06:18 +0000 2015,0,3,Avoiding common HTML5 mistakes | HTML5 Doctor http://t.co/A9mLQPYyZe via @html5doctor
+24,656031619728437248,Mon Oct 19 08:58:21 +0000 2015,0,0,Taking control of your templates using $templateCache - AngularJS Video Tutorial #free #fundamental#cool @eggheadio: https://t.co/ckdXB1iTiC
+25,655696544872714240,Sun Oct 18 10:46:53 +0000 2015,1,0,"RT @JS_Cheerleader: Big mistake. Don't get rid of your 10x developers. They're your best performers.
+https://t.co/kb9KcGByWh #code #SaaS"
+26,655469420224081921,Sat Oct 17 19:44:22 +0000 2015,68,0,"RT @OCombe: How to publish a library for Angular 2 on npm.
+https://t.co/jnyY13BPAI"
+27,654657637082988544,Thu Oct 15 13:58:38 +0000 2015,16,0,RT @johnlindquist: Such a sweet way to visualize a lunar eclipse. http://t.co/hir6Vl9NEq http://t.co/zEs27SM3Zi
+28,654655392106999808,Thu Oct 15 13:49:43 +0000 2015,2,1,AngularJS Batarang - AngularJS Video Tutorial #free #'essencial#begginer@eggheadio: https://t.co/fCldeCbEWA
+29,653495146714152960,Mon Oct 12 08:59:18 +0000 2015,0,0,#GitHUB #commit #fire http://t.co/TA1RWS8EzJ
+30,652520236160319493,Fri Oct 09 16:25:22 +0000 2015,0,0,@ambroselittle @rushan123 @tuwilof That is pretty cool!
+31,652412946778337280,Fri Oct 09 09:19:02 +0000 2015,21,0,RT @PascalPrecht: So happy and pleased to announce that I'm joining the @GoogleDevExpert program as a GDE for web technologies! https://t.c…
+32,652128173719744512,Thu Oct 08 14:27:27 +0000 2015,1,1,Directive Communication - AngularJS Video Tutorial #free @eggheadio: https://t.co/Nn86TekEaT
+33,651795207328038912,Wed Oct 07 16:24:21 +0000 2015,0,1,Practical Techniques On Designing Animation http://t.co/4a3jym38cv via @smashingmag
+34,651436438316261376,Tue Oct 06 16:38:44 +0000 2015,25,0,RT @wesbos: 🔥 ES6 destructuring lets you to create and assign multiple variables at once http://t.co/3CIJlV0wTa
+35,651421167752974337,Tue Oct 06 15:38:03 +0000 2015,0,0,JavaScript Not Working? Here are 10 Common JavaScript Mistakes | Toptal http://t.co/d6scIYizb6 #JavaScript #FrontEnd #Web via @toptalllc
+36,650432971577651200,Sat Oct 03 22:11:19 +0000 2015,0,1,"Starting to use webstorm for my JS #webstorm #javascript 
+https://t.co/PzxWjQaEpG"
+37,650083205857562624,Fri Oct 02 23:01:28 +0000 2015,1,0,GulpJS + SASS + BrowserSync ftw http://t.co/Y8wVjBilGs
+38,649514722019160064,Thu Oct 01 09:22:31 +0000 2015,126,0,"RT @addyosmani: ES2015 (formally ES6) &amp; tools for using it in a brand new episode of Totally Tooling Tips!
+
+https://t.co/zAVpCiBSMu http://…"
+39,648628836419174400,Mon Sep 28 22:42:20 +0000 2015,0,0,"Gulp and Browserify - Initial Setup @gulpjs @browserify 
+https://t.co/EfIGb1AyyC"
+40,648414015274811392,Mon Sep 28 08:28:42 +0000 2015,1,0,"AngularJS best practices: Be careful when using ng-repeat’s $index
+@ng-click http://t.co/Pc239c4iCX"
+41,647490324294725632,Fri Sep 25 19:18:17 +0000 2015,0,0,"@CliffCorcoran  Well is always good discussing baseball sorry if I sound it hash when I said lazy, I lik WAR but it shouln't be a definitive"
+42,647462371838050305,Fri Sep 25 17:27:13 +0000 2015,9,0,"RT @InVisionApp: ""Your product should focus on customer needs &amp; needs that aren’t currently being served"" http://t.co/ZRq6DDOns8 http://t.c…"
+43,647450419963260929,Fri Sep 25 16:39:43 +0000 2015,0,0,@CliffCorcoran Whta would you do without http://t.co/qKqqVktnqd??
+44,647073928335204352,Thu Sep 24 15:43:41 +0000 2015,0,0,"Animated Checkboxes and Radio Buttons with SVG 
+http://t.co/uhRKOkKnKA"
+45,647004505280790528,Thu Sep 24 11:07:49 +0000 2015,6,0,RT @coderinheels: .@womenwhocode London's HTML/CSS class at @skillsmatter  led by @loser_friendly.  Well attended! https://t.co/eiBArVWAS5
+46,646850659459928064,Thu Sep 24 00:56:29 +0000 2015,0,0,Why start using PostCSS?? http://t.co/DlTMr7170t
+47,646700792460742657,Wed Sep 23 15:00:58 +0000 2015,0,0,"Replacing ngInclude With Component Directives In AngularJS @angularjs 
+http://t.co/3jDdmSlyGS"
+48,646694667669647361,Wed Sep 23 14:36:38 +0000 2015,0,0,"Directives or ng-include?? Interesting discussion https://t.co/04fqTozQBk
+@ng_directives"
+49,640815010701295616,Mon Sep 07 09:12:58 +0000 2015,3,9,"Binding to Directive Controllers - Angular js vs 1.3 + 
+http://t.co/2CHLpZtaUJ"
+50,636843576022933504,Thu Aug 27 10:11:55 +0000 2015,0,1,Why We Should Stop Using Bower - And How to Do It https://t.co/BwE1YGwMH4
+51,636155411360534528,Tue Aug 25 12:37:23 +0000 2015,0,0,Semantic UI is a next generation UI framework http://t.co/r4ahzO55ab via @semanticui
+52,635724370271444992,Mon Aug 24 08:04:35 +0000 2015,130,0,"RT @TIME: New Google Doodle honors Duke Kahanamoku, the father of surfing http://t.co/TZsxP3L4nw"
+53,635157453638922241,Sat Aug 22 18:31:52 +0000 2015,0,0,Bootstrap 4 alpha: http://t.co/pso6iC9hdZ via @getbootstrap
+54,631817298379177984,Thu Aug 13 13:19:17 +0000 2015,0,1,Angular-xeditable :: Edit in place for AngularJS http://t.co/0m2sIuOiLp via @xeditable
+55,631018148960051200,Tue Aug 11 08:23:45 +0000 2015,19,0,RT @davidwalshblog: 5 Ways that CSS and JavaScript Interact That You May Not Know About  http://t.co/SSE2sFI1Hn
+56,630735007338917888,Mon Aug 10 13:38:38 +0000 2015,0,0,A flexible JavaScript library that provides a strong foundation for building robust typeaheads http://t.co/zI0HoKaUTd
+57,628947711212023808,Wed Aug 05 15:16:34 +0000 2015,2,0,Answer:Using Laravel 5 with AngularJS blade tag conflict http://t.co/bWSsaX50Wc
+58,628339244755492864,Mon Aug 03 22:58:44 +0000 2015,0,0,Data URIs https://t.co/IGZinfmZ14 via @real_css_tricks
+59,619090981024079873,Thu Jul 09 10:29:26 +0000 2015,0,0,Getting Started with CSS Shapes http://t.co/ClQoFEzwtB via @ChromiumDev
+60,617775834712145920,Sun Jul 05 19:23:31 +0000 2015,0,0,The 5 Most Important Skills a Web Developer Needs | | InformIT http://t.co/yzSvBr0K1K
+61,614608815112232961,Sat Jun 27 01:38:55 +0000 2015,0,2,How to Laravel series: Let's talk @gulpjs @laravelphp http://t.co/pmB49lJHOo
+62,614604937465569280,Sat Jun 27 01:23:30 +0000 2015,0,0,"The State of JS Build Tools 2015 - Which is your favorite task runner??
+http://t.co/OjQgZu7G96"
+63,614484485346848768,Fri Jun 26 17:24:52 +0000 2015,0,0,Old but good - Bootstrap 3 Grid http://t.co/XIp3rlDGx0
+64,614482523578626049,Fri Jun 26 17:17:04 +0000 2015,0,0,Css Sprites great tool http://t.co/YYBHcIwbVi
+65,610935183714463744,Tue Jun 16 22:21:13 +0000 2015,0,1,"RawGit - RawGit serves raw files directly from GitHub with proper Content-Type headers
+
+http://t.co/Y3edFqP11Q"
+66,610409009586282496,Mon Jun 15 11:30:23 +0000 2015,0,1,Run Gulp Tasks in Laravel Easily with Elixir https://t.co/NLuFXsTKAj via @scotch_io
+67,608044163087671297,Mon Jun 08 22:53:20 +0000 2015,0,0,"@eggheadio Hello, you guys are doing a brilliant job! a question, do I have access to code with the subscription?? Cheers"
+68,603712680843726848,Thu May 28 00:01:34 +0000 2015,0,0,Angular 2 - Binding (es5) - Angular 2 Video Tutorial #free @eggheadio: https://t.co/JYWOvNlvc0
+69,603711769845080064,Wed May 27 23:57:57 +0000 2015,0,0,Angular 2 - Hello World (es5) - AngularJS Video Tutorial #free @eggheadio: https://t.co/fSCXdqHXA6
+70,602608238220148736,Sun May 24 22:52:54 +0000 2015,1,2,Create an AngularJS Loading Indicator https://t.co/Cr3itZVCIz via @YouTube
+71,602523420388130816,Sun May 24 17:15:52 +0000 2015,88,0,RT @UXHow: Obvious Always Wins via @LukeW http://t.co/yTstf2NEQL http://t.co/u1J0vTEVnm
+72,602090610418384896,Sat May 23 12:36:02 +0000 2015,2,1,"How to install mongodb on Linux, https://t.co/jtTSeyT1fD"
+73,595680600578732033,Tue May 05 20:04:57 +0000 2015,1,1,"Check out AngularGrid, a new way to show grid data for AngularJS"
+74,583069803738492928,Wed Apr 01 00:54:08 +0000 2015,2,1,AngularJS Service / Factory Tutorial With Example http://t.co/7HTb41XLxT
+75,581876031553949699,Sat Mar 28 17:50:31 +0000 2015,1,1,Javascript Generators - THEY CHANGE EVERYTHING - ES6 Generators Harmony ...: https://t.co/KqQAVsA0ZX via @YouTube
+76,581831699325198336,Sat Mar 28 14:54:21 +0000 2015,0,1,A Baseline for Front-End [JS] Developers: 2015 - Adventures in JavaScript Development http://t.co/v64tpaC33s
+77,580522618232664068,Wed Mar 25 00:12:32 +0000 2015,0,0,Reducing Filter and Map Down to Reduce http://t.co/vWMkfOkTez via @elijahmanor
+78,579068301705240577,Fri Mar 20 23:53:36 +0000 2015,1,0,Breaking Open: AngularJS: https://t.co/Hxxmm4cr8A via @YouTube
+79,576868584070213632,Sat Mar 14 22:12:42 +0000 2015,0,1,angular-filter https://t.co/W13F4PoJ3P
+80,574718573106610177,Sun Mar 08 23:49:20 +0000 2015,0,0,http://t.co/f6TdtMY7wA
+81,570680840004505601,Wed Feb 25 20:24:49 +0000 2015,0,0,Basics of CSS Blend Modes http://t.co/54SHIvDBCJ via @real_css_tricks
+82,570680352194342912,Wed Feb 25 20:22:53 +0000 2015,19,0,"RT @chriscoyier: First time I’m hearing of the `isolation` CSS property: https://t.co/Dn4pjHmEHr
+
+I wonder if it makes new z-index context …"
+83,568154112266788864,Wed Feb 18 21:04:30 +0000 2015,0,0,Quick Tip: Speed Up Your Workflow With Photoshop Actions http://t.co/fDFLO9DbOq via @tutsplus
+84,567696144676188160,Tue Feb 17 14:44:42 +0000 2015,2,0,"RT @formvalidation: New example: Integrate #jQuery #FormValidation with @jqueryui Datepicker
+http://t.co/6CW3gLR7mb http://t.co/2EQDMqKDzr"
+85,562060250376048640,Mon Feb 02 01:29:40 +0000 2015,0,0,React.js Components Part 1: http://t.co/C05PxpNK7q via @YouTube
+86,560753163989684224,Thu Jan 29 10:55:47 +0000 2015,0,1,Understanding Web UI Elements &amp; Principles http://t.co/oHl9nm3QIk
+87,560080832132837378,Tue Jan 27 14:24:10 +0000 2015,0,2,Breaking Free from Bootstrap: Custom Responsive Grids with Sass Susy by @jdsteinbach #bootstrap #css http://t.co/FlElzMWYUm via @SlideShare
+88,559538295592325124,Mon Jan 26 02:28:20 +0000 2015,2,0,RT @cyrodjohn: A Better Way to Learn AngularJS https://t.co/gMM2JuL0ZI
+89,557988644435550208,Wed Jan 21 19:50:34 +0000 2015,0,1,MAKING SVGS RESPONSIVE WITH CSS http://t.co/NghY572ZFg
+90,557567217957863424,Tue Jan 20 15:55:58 +0000 2015,0,0,"@MartinBurford I agree, a lot things are making developers lazy now at days, but Sass has made a good impact so far:)"
+91,557561611087777792,Tue Jan 20 15:33:41 +0000 2015,0,0,"@MartinBurford Yes, there is still so much to learn about Sass in my opinion and Hugo is great!"
+92,557354040838082561,Tue Jan 20 01:48:53 +0000 2015,0,0,Sass Things for Links http://t.co/RMwARKsApB
+93,557350067510980609,Tue Jan 20 01:33:05 +0000 2015,0,0,UNDERSTANDING SASS LISTS http://t.co/6VskvU2H5Y
+94,556831714119802880,Sun Jan 18 15:13:20 +0000 2015,1,1,Introducing AngularCSS: CSS On-Demand for AngularJS | DOOR3 http://t.co/5xrZZF5KOU
+95,556630867377127424,Sun Jan 18 01:55:15 +0000 2015,1,0,Form validation with AngularJS - http://t.co/atPb1vaKRP via @ngnewsletter
+96,556559751061176320,Sat Jan 17 21:12:39 +0000 2015,0,2,Easy AngularJS animations using Animate.css http://t.co/4EcMWfWUxI via @HTMLxprs
+97,556521923669393408,Sat Jan 17 18:42:20 +0000 2015,9,0,RT @wwwDesigned: 15 Useful #JavaScript Libraries for January 2015: http://t.co/6sbiQO2acA http://t.co/jAnnnRw3cZ
+98,555817577847742464,Thu Jan 15 20:03:31 +0000 2015,1,0,Unit Testing Best Practices in AngularJS http://t.co/vyVxxtcqFZ via @andyshora
+99,555527217489674240,Thu Jan 15 00:49:44 +0000 2015,2,0,AngularJS - Example - Example78 http://t.co/DlObu1PBU2
+100,555184974413193217,Wed Jan 14 02:09:47 +0000 2015,230,0,RT @wsl: Morning flight http://t.co/nLWDvzUKiW
+101,555075851415724032,Tue Jan 13 18:56:10 +0000 2015,1,0,"JavaScript Koans - Jamine -The best way to start learning Js with Jasmine
+http://t.co/LR8kqOwJG3 via @YouTube"
+102,555071453964828672,Tue Jan 13 18:38:42 +0000 2015,0,0,JavaScript Testing With Jasmine - The Basics - Matchers: http://t.co/M4Pdi51pVm via @YouTube
+103,554999898744320000,Tue Jan 13 13:54:21 +0000 2015,0,0,Bootstrap 3 Single Page Template http://t.co/aeCkmCNvXh
+104,554691742260146176,Mon Jan 12 17:29:51 +0000 2015,0,1,Emoji cheat sheet for Campfire and GitHub http://t.co/6pZcfh9v6y
+105,554655812304789504,Mon Jan 12 15:07:05 +0000 2015,1463,0,RT @arclight: Why did it take 2 weeks to write 200 lines of code? Because I had to write 1000 lines of code to learn which 800 to throw awa…
+106,553650520615682048,Fri Jan 09 20:32:25 +0000 2015,0,0,Object Oriented CSS #blocks #css http://t.co/9qRivmq3Qx via @SlideShare
+107,552888050640896000,Wed Jan 07 18:02:38 +0000 2015,0,0,"I solved the ""Largest Elements"" kata! Take the code initiation @ http://t.co/6D63mmwKbL to enlist and challenge yourself. #codewars"
+108,552545114740903936,Tue Jan 06 19:19:55 +0000 2015,0,0,Sass &amp; Compass: The future of stylesheets now. https://t.co/BKlhshboX7
+109,552500982211280896,Tue Jan 06 16:24:33 +0000 2015,1,0,"I solved the ""Fundamental Closure Javascript"" kata! Take the code initiation @ http://t.co/oNmm6waunf #codewars"
+110,551929004521820160,Mon Jan 05 02:31:43 +0000 2015,0,0,"I solved the ""Area of a Circle"" kata! Take the code initiation @ http://t.co/pRMLyGt5lG to enlist and challenge yourself. #codewars"
+111,551869146476982273,Sun Jan 04 22:33:52 +0000 2015,0,0,"Check out new work on my @Behance portfolio: ""Pang Natural logo design and variations"" http://t.co/x0euP6vrRv"
+112,548974103730720769,Sat Dec 27 22:50:00 +0000 2014,0,0,The Beauty of Code http://t.co/z0T3v3aUN9
+113,548290412369432576,Fri Dec 26 01:33:15 +0000 2014,0,0,Why we skip Photoshop?? https://t.co/OPnt4SKHB8
+114,539955309951737857,Wed Dec 03 01:32:32 +0000 2014,0,0,I just donated to #Wikipedia. Help keep it free! #keepitfree https://t.co/6JJG7YbMX9
+115,539881374044274688,Tue Dec 02 20:38:44 +0000 2014,4,4,"AngularJS Articles, Workshops &amp; Developers ready to help. A top resource! http://t.co/BvJ2VgdJMh via @airpair"
+116,535245534186209281,Thu Nov 20 01:37:34 +0000 2014,0,0,"Js Dude, console tricks! http://t.co/PuJ23w3ynx"
+117,534427533232852992,Mon Nov 17 19:27:07 +0000 2014,0,0,"7 Rules for Creating Gorgeous UI (Part 1)
+https://t.co/8k0FntLHLU"
+118,534299124862967809,Mon Nov 17 10:56:52 +0000 2014,1,0,"A Veterinarian Visited SeaWorld, and This Is What She Saw #SeaWorldKills via @peta2 http://t.co/S6G6kHualC"
+119,520347732729683968,Thu Oct 09 22:59:01 +0000 2014,0,0,Best pattern source ever! http://t.co/vAXHr4eDoV
+120,517434405002813440,Wed Oct 01 22:02:30 +0000 2014,0,0,Rolando Barbella on Behance http://t.co/PuVx2vDM2F via @Behance
+121,517340425074380800,Wed Oct 01 15:49:03 +0000 2014,0,0,Image-Focused Design: Is Bigger Better? http://t.co/QU8DU0r7gi via @nngroup
+122,510120218622849024,Thu Sep 11 17:38:32 +0000 2014,0,0,Bootstrap’s Grid System vs. Susy: A Comparison http://t.co/X07jFKgui9 via @sitepointdotcom
+123,509391728042729472,Tue Sep 09 17:23:46 +0000 2014,0,0,"Quoting and citing with &lt;blockquote&gt;, &lt;q&gt;, &lt;cite&gt;, and the cite attribute | HTML5 Doctor http://t.co/LZdkJ5LZvT via @html5doctor"
+124,508737978399617024,Sun Sep 07 22:06:00 +0000 2014,0,0,Sass &amp; Compass: The present of stylesheets now. https://t.co/2MkDxWjxJo
+125,507893448855142401,Fri Sep 05 14:10:09 +0000 2014,0,0,"I just joined the #skillsmatter developer community, to discover 1,000's of free Meetups, Expert Talks &amp; SkillsCasts http://t.co/Bckv7DB6pW"
+126,507650626415624192,Thu Sep 04 22:05:15 +0000 2014,35,0,"RT @chriscoyier: Another JS animation library: http://t.co/66M0ZfXWob
+
+“Instead of a duration, [it] takes an initial velocity, and simulate…"
+127,507648352960675841,Thu Sep 04 21:56:13 +0000 2014,1268,0,"RT @WordPress: WordPress 4.0 “Benny” is now available, with a smoother, more seamless writing and management experience: http://t.co/HZCV7t…"
+128,497872128717639681,Fri Aug 08 22:29:00 +0000 2014,1023,0,RT @Brilliant_Ads: Client brief - Cllient budget http://t.co/LOxvU8nZvs
+129,489353764927967232,Wed Jul 16 10:20:03 +0000 2014,40,0,RT @chriscoyier: ✽ Website Deployment: Let Us Count The Ways! http://t.co/zjolelbod6
+130,483707094172856320,Mon Jun 30 20:22:12 +0000 2014,0,1,Finger pressing a circular button free icon for download @theflaticon -  http://t.co/WRHYr9cTHS http://t.co/SiN0GFnJwH
+131,480717363214442496,Sun Jun 22 14:22:05 +0000 2014,0,0,"@AskCiti Hi, according to the DHL tracking service, the letter got to San Antonio Tx, on Wednesday, June 18, it was signed by  A RODRIGUEZ"
+132,478314145352122368,Sun Jun 15 23:12:33 +0000 2014,0,0,"@AskCiti  Ok, Thanks"
+133,478310886277267457,Sun Jun 15 22:59:36 +0000 2014,0,0,"@AskCiti Hi There, Tomorrow the letter will be sent to San Antonio Texas, hopefully it will get there between 3 and 5 working day, thanks"
+134,473913913466036224,Tue Jun 03 19:47:36 +0000 2014,0,0,Reading @pixeden 3D View iPhone 5S Psd Vector Mockup http://t.co/yAyUtMKSr1
+135,473826783213920256,Tue Jun 03 14:01:23 +0000 2014,0,0,"@AskCiti Thanks for the reply, you can call me this afternoon please"
+136,473826110409826304,Tue Jun 03 13:58:42 +0000 2014,31,0,RT @NNgroup: #Agile Development and #Lean #UX: Case Study Findings from Real Projects http://t.co/X8wsczmjQQ
+137,473821310024712194,Tue Jun 03 13:39:38 +0000 2014,0,0,"@AskCiti Don't like complaining, but I am very disappointed by the citibank service, I have lost many hours of my time"
+138,471774352866672641,Wed May 28 22:05:45 +0000 2014,0,0,12 Little-Known CSS Facts http://t.co/pRgpAJbkoh via @sitepointdotcom
+139,455118982065188864,Sat Apr 12 23:03:15 +0000 2014,1155,0,"RT @HackerNewsOnion: Daft Punk admits #1 hit song ""Up All Night To Get Lucky"" is actually about programming"
+140,454769961269866496,Fri Apr 11 23:56:22 +0000 2014,0,0,Responsive Web Design — Tuts  http://t.co/K3T4N95Uvv via @tutsplus
+141,452884669806018560,Sun Apr 06 19:04:54 +0000 2014,1,0,Responsive Web Design just got Easier with the Responsive Grid System http://t.co/G8uhJMbBij via @graham_r_miller
+142,451308828324163584,Wed Apr 02 10:43:04 +0000 2014,0,0,"I'm going to Black Sabbath, Faith No More, Soundgarden and Motorhead at Hyde Park on 04 Jul! : http://t.co/2iiJE7V7Sp"
+143,448115462354657280,Mon Mar 24 15:13:46 +0000 2014,0,0,An awesome repository of jQuery plugins! http://t.co/tiTiPEsr3G #jquery via @unheap
+144,447855962985353216,Sun Mar 23 22:02:37 +0000 2014,8,0,RT @ZURBfoundation: Do you know your ABC’s of animations? Time to digitally doodle http://t.co/tsQkEHDHtN via @_AlexBergin http://t.co/2YOs…
+145,445327847108792320,Sun Mar 16 22:36:47 +0000 2014,0,1,I just unlocked the jQuery Functions and Selectors badge on @codecademy! http://t.co/sLw49FBH4H via @codecademy
+146,445187901769261056,Sun Mar 16 13:20:41 +0000 2014,0,0,Filling the Space in the Last Row with Flexbox http://t.co/v70CpD9zST via @real_css_tricks
+147,444235980372189184,Thu Mar 13 22:18:05 +0000 2014,15,0,"RT @jQueryTO: We use Color every day, but do we really understand it? @leaverou takes us down the colorful rabbit hole at #jQueryTO http://…"
+148,443787301458427904,Wed Mar 12 16:35:12 +0000 2014,0,0,Responsive Design Bookmarklet http://t.co/akc0k9LjI4 via @_victa
+149,443180853296762880,Tue Mar 11 00:25:23 +0000 2014,0,1,So cool! Prototype detailed typography with Google Fonts in the browser using @TypecastApp's free demo #webdesign http://t.co/F2XcLmMZh4
+150,442692324507013120,Sun Mar 09 16:04:09 +0000 2014,1,0,"RT @SitePointRuby: A Guide to the Ruby CSV Library, Part I http://t.co/mw91r8HVm4"
+151,442093187989917696,Sat Mar 08 00:23:24 +0000 2014,0,0,Radar - an audio-visual HTML experiment from @hakimel http://t.co/355nGdXj5R
+152,441365369773891584,Thu Mar 06 00:11:19 +0000 2014,38,0,RT @JavaScriptDaily: The Future of jQuery: https://t.co/jexh24GkAY
+153,438439993900400640,Tue Feb 25 22:26:55 +0000 2014,0,0,Achievement Unlocked: Mongoose https://t.co/xSS7rEKuBV via @coderwall

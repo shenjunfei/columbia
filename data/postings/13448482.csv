@@ -1,0 +1,201 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,663852050980073472,Mon Nov 09 22:53:57 +0000 2015,2,0,Cybercrime skyrockets in Ukraine as authorities struggle to keep up https://t.co/mHZvIzCpP5 #infosec
+1,662749913260781568,Fri Nov 06 21:54:27 +0000 2015,1,0,"Unintended consequences: Pagefair tries to stop ad-blockers, serves up malicious ads on Economist website https://t.co/f2eRaHfl0i #infosec"
+2,657646471362146304,Fri Oct 23 19:55:11 +0000 2015,1,0,Researchers from BU uncover new attack methods on Network Time Protocol that can defeat HTTPS https://t.co/gPEQ6cjDRs #infosec
+3,657276062175354880,Thu Oct 22 19:23:19 +0000 2015,1,0,RT @1Password: @SecurityBuzz Hi! Please see our response and let me know if you or your readers have additional questions: https://t.co/WXs…
+4,656936860145483776,Wed Oct 21 20:55:27 +0000 2015,1,1,Users of 1Password may want to consider updating this setting to protect their metadata https://t.co/FxpL8cdRJ4 #infosec
+5,656541137100865536,Tue Oct 20 18:42:59 +0000 2015,0,0,"@letsencrypt, provider of free HTTPS certificates, now trusted by all major browsers https://t.co/bTAmcnKLc9 #infosec #webdevelopment"
+6,656182445562179585,Mon Oct 19 18:57:40 +0000 2015,0,0,@facebook adds end-user notifications for account attacks suspected to be from nation-state actors https://t.co/tUhmzTitj1 #infosec
+7,654003747031396352,Tue Oct 13 18:40:18 +0000 2015,0,0,@WSJ draws comparisons between nation-states amassing cyber weapons and the nuclear arms race http://t.co/5W02doQhIS #infosec
+8,652157324233039872,Thu Oct 08 16:23:17 +0000 2015,1,0,"Focus on acquisitions hurt security practice at Experian, ex-staff say after latest breach http://t.co/Y3hqiPLgpm #infosec"
+9,649659057695932417,Thu Oct 01 18:56:04 +0000 2015,1,0,Having difficulty managing your passwords? These folks are too https://t.co/axk70TRe2f #password #prank
+10,648932137882750977,Tue Sep 29 18:47:32 +0000 2015,0,0,Apple rolls out new privacy site to explain clearly how it uses your data http://t.co/rI9KXMygRq worth a read #infosec
+11,647085755899080704,Thu Sep 24 16:30:41 +0000 2015,1,0,"Thailand setting up a ""Great Firewall"" similar to China, would create a single point of failure for internet http://t.co/ptMUeEpBOm"
+12,646766602390740993,Wed Sep 23 19:22:29 +0000 2015,1,0,"Apple App Store malware XCodeGhost found in more apps, up to 4K, appears benign but can redirect to malicious URLs http://t.co/PLpB2XuyeN"
+13,644926482049929216,Fri Sep 18 17:30:30 +0000 2015,0,1,Device Guard and Credential Guard - 2 new enterprise security features you should know in Windows 10 http://t.co/KlwCENg9Hd #infosec
+14,643520156149395460,Mon Sep 14 20:22:15 +0000 2015,0,0,"@IntelSecurity forms Automobile Security Review Board, sets out to establish best practices for connected cars http://t.co/BO1FSEtV4z"
+15,642006313589964802,Thu Sep 10 16:06:47 +0000 2015,1,0,Federal records show Department of Energy has been breached 159 times since 2010 http://t.co/xT43btW2NX #infosec
+16,641390262539976708,Tue Sep 08 23:18:49 +0000 2015,1,0,Backdoor vulnerabilities found in  Seagate NAS drives http://t.co/yoCCMkrkJY #infosec
+17,639833729720909824,Fri Sep 04 16:13:43 +0000 2015,0,0,What's broken in the cybersecurity industry? Hear insights in this video http://t.co/pHddI1aBXN #infosec
+18,638377343208267776,Mon Aug 31 15:46:33 +0000 2015,0,0,A quick read on building a #cybersecurity culture by @BrianContos for @CSOonline http://t.co/98YjAHkxxG
+19,634466272881811456,Thu Aug 20 20:45:21 +0000 2015,1,0,Watch @youngdchris on stage at Intel IDF speaking about cybersecurity and a new challenge to hack vehicle subsystems http://t.co/03qgtfOz44
+20,632192284780466176,Fri Aug 14 14:09:20 +0000 2015,1,0,"XSS vuln found in @salesforce, could have allowed account takeover.Now fixed http://t.co/hGrsZ0wY1r #infosec"
+21,628953989799911424,Wed Aug 05 15:41:31 +0000 2015,0,3,"@WordPress issues security release fixing 6 issues, recommends all site owners update immediately http://t.co/AuFmQYU2sj #infosec"
+22,628589985537495040,Tue Aug 04 15:35:05 +0000 2015,2,0,"Attackers currently exploiting Mac OS X 0-day, allowing malware install w/o password http://t.co/SiASaV5gAo #apple #infosec"
+23,625756654362079232,Mon Jul 27 19:56:27 +0000 2015,1,0,950 million (95%) of Android devices found vulnerable to text message vuln. allowing device takeover w no user action http://t.co/nVNW4YD9xT
+24,623608124906303492,Tue Jul 21 21:38:57 +0000 2015,1,0,Microsoft issues emergency patch for font vulnerability on every version of Windows http://t.co/7SNJUfVRGx #infosec
+25,618833530705965056,Wed Jul 08 17:26:25 +0000 2015,0,0,Fascinating story on two #cybersecurity consultants role in a smuggling ring http://t.co/Co1ZhZrcjp
+26,616675553286955008,Thu Jul 02 18:31:23 +0000 2015,1,0,Social engineering can fool the best of us.This recent phishing scam targets the C-suite for cash transfers http://t.co/dyGn8Nj8gc
+27,616299658462261248,Wed Jul 01 17:37:43 +0000 2015,0,1,Insightful interview with @IntelSecurity CTO @Raj_Samani  on #cybersecurity and life balance http://t.co/GOqiyS2M6p
+28,613046117282942976,Mon Jun 22 18:09:18 +0000 2015,1,0,Ex-hacker says companies need to front-end Office 365 with additional layers of security to prevent spear phishing http://t.co/JR9OJAyIpn
+29,610560427437625344,Mon Jun 15 21:32:04 +0000 2015,0,0,Lastpass users may want to reset their master passwords after recent breach http://t.co/An1ytkQ9XP #infosec
+30,610473253455302657,Mon Jun 15 15:45:40 +0000 2015,0,0,Backstory on US Steel breach  #phishing http://t.co/AiznDNK1HQ via @techreview
+31,609097192922451970,Thu Jun 11 20:37:41 +0000 2015,0,0,Details on what was stolen in the recent federal breach http://t.co/gjWLmVZjWJ #cybersecurity
+32,606146703620636672,Wed Jun 03 17:13:30 +0000 2015,1,0,"""The bad guys will still encrypt; it’s easy to do and readily available"" - Tim Cook http://t.co/dwzXobltZP"
+33,600348602016395264,Mon May 18 17:13:55 +0000 2015,1,0,RT @DaveBullsEye: Only three percent of people aced Intel’s phishing quiz http://t.co/YAdO3hkLnK
+34,598533880702832640,Wed May 13 17:02:52 +0000 2015,0,0,"Google has moved 90% of its IT applications to the cloud, flipping network security on its head http://t.co/9fbKI2epNy #infosec"
+35,597859544912535553,Mon May 11 20:23:17 +0000 2015,0,0,"""Consistent persuasion and pressure"" - US position on curbing cyber-espionage via @nytimesbits http://t.co/Vz4t7fH3wL #infosec"
+36,597811672175247361,Mon May 11 17:13:04 +0000 2015,0,1,@PonemonPrivacy claims cyber attacks cost heathcare industry $6 billion annually http://t.co/3Rha8jCAph #infosec
+37,596408687213719552,Thu May 07 20:18:06 +0000 2015,0,1,Wordpress site admins should take action to remove XSS exploit currently in the wild http://t.co/DMtyattYed #infosec
+38,585847771002834944,Wed Apr 08 16:52:47 +0000 2015,0,0,"White House unclassified network breached, said to have started with a phishing email http://t.co/ivifmUq43O #infosec"
+39,583307801075683328,Wed Apr 01 16:39:51 +0000 2015,0,0,@BarackObama issues exec order enabling sanctions against entities who commit cyber attacks http://t.co/a4gy4h7jmO #infosec
+40,581129768046739456,Thu Mar 26 16:25:08 +0000 2015,1,0,"Security education is key. Technology is important, but not the only way to stop an attack http://t.co/nHQH1pdjI2 #cybereducation"
+41,580405078609305600,Tue Mar 24 16:25:28 +0000 2015,1,0,Insights into protecting your network: Firewalls vs Web Gateways http://t.co/1LWj0KKSbs #infosec
+42,577532830609080320,Mon Mar 16 18:12:11 +0000 2015,0,2,Review these configuration issues that could leave your network open to a breach: http://t.co/itzq2psAjJ #4biz http://t.co/q99siNnR9Q
+43,573913957796175872,Fri Mar 06 18:32:05 +0000 2015,0,0,"10 year old ""Freak"" bug found in SSL, millions of websites vulnerable http://t.co/8JYs1iiSWG #infosec"
+44,573620576809414659,Thu Mar 05 23:06:17 +0000 2015,1,1,Gamers beware! Malware increasing in Steam platform. Analysis from @McAfee_Labs: http://t.co/aLdSzIiXcX #4biz http://t.co/VM4cpsgfYc
+45,573542784684064768,Thu Mar 05 17:57:10 +0000 2015,0,1,Colorado-based Natural Grocers hit by POS malware http://t.co/fAFgIc6USS #infosec
+46,573261496672628736,Wed Mar 04 23:19:26 +0000 2015,0,1,What does it take to combat #cyberespionage? @MichaelSentonas explains: http://t.co/0BsI65qd1u #4biz http://t.co/ayHbxjGAhs
+47,571358461721604096,Fri Feb 27 17:17:27 +0000 2015,0,0,Read this story of a Talk Talk (ISP) customer being socially engineered after a data breach http://t.co/b1kTbFXcNH #infosec
+48,569909742614614016,Mon Feb 23 17:20:45 +0000 2015,0,0,Would you click on that link? See what people thought about the top social engineering techniques [video] http://t.co/t1Ch6UyZRz
+49,565567543210172416,Wed Feb 11 17:46:24 +0000 2015,0,1,"The DHS wants to create a ""weather map"" for cyber attacks http://t.co/2TKSbRmL92 #infosec"
+50,565189731596513280,Tue Feb 10 16:45:07 +0000 2015,0,1,Get your mobile device security in check http://t.co/OyZPIPJ4Ud #infosec
+51,564824769078386689,Mon Feb 09 16:34:53 +0000 2015,0,0,"The debate on cybersecurity reporting structure (CISO, CIO) from @WSJ http://t.co/LwzllKjntb"
+52,563401749323476992,Thu Feb 05 18:20:19 +0000 2015,2,1,Anthem likely faces HIPAA violation as 80 million customer records breached http://t.co/99s9IW9ElR #infosec
+53,558345892885848064,Thu Jan 22 19:30:09 +0000 2015,0,0,Malware researcher suggests disabling Flash for a few days until a new zero-day is patched http://t.co/wkMNt6jQg9 #infosec
+54,555773190354382848,Thu Jan 15 17:07:09 +0000 2015,0,1,"Get an email from PayPal, Amazon, eBay, or Bank of America? Beware of these top hacker targets: http://t.co/HBL5ktvVp0 [reg form]"
+55,555419867289899009,Wed Jan 14 17:43:10 +0000 2015,0,0,Barack Obama proposes upcoming legislation to strengthen punishment for cybercrime activities http://t.co/jE7zgcFxhb
+56,553259143637655552,Thu Jan 08 18:37:13 +0000 2015,0,0,FBI claims Sony hackers revealed their IP addresses http://t.co/BSjVIvFD79 #Cybercrime
+57,549990110586875905,Tue Dec 30 18:07:15 +0000 2014,1,0,Eastern European criminals break into banks via spear phishing and siphon millions from ATMS http://t.co/8qEP3mdC92 #infosec
+58,549629321766121473,Mon Dec 29 18:13:36 +0000 2014,0,2,A look ahead at cybersecurity in 2015 http://t.co/1FV0pYp4SI #infosec
+59,546072813803560962,Fri Dec 19 22:41:19 +0000 2014,0,0,Spear phishing attack enables criminals to cause massive damage to German steel factory http://t.co/py8Am7SNzO #cybercrime
+60,546009940393852929,Fri Dec 19 18:31:28 +0000 2014,0,0,White House commentary on N. Korea's involvement in the Sony hack via @CBSNews http://t.co/ygcYnYsgl1 #infosec
+61,546008346952626176,Fri Dec 19 18:25:08 +0000 2014,0,0,Must read: FBI statement confirming N. Korea responsible for attack on Sony Pictures http://t.co/SgUrM5RKDG #infosec
+62,545634149831155712,Thu Dec 18 17:38:13 +0000 2014,0,1,"ICANN, who oversees the internet address system, hit with spear phishing attack http://t.co/tZcYFJzOV1 #infosec"
+63,544913646069903360,Tue Dec 16 17:55:11 +0000 2014,0,0,"SoakSoak malware has infected over 100,000 wordpress sites http://t.co/6gzU49bE2m #infosec"
+64,543072779025661952,Thu Dec 11 16:00:14 +0000 2014,0,0,RT @DaveBullsEye: Phishing quiz: Can you spot a scam when you see one? Don't be so sure http://t.co/Z2migVgx5c via @CBSNews
+65,542450638454419456,Tue Dec 09 22:48:05 +0000 2014,0,0,Password manager Dashlane can now change most of your passwords in one fell swoop http://t.co/REcDV6WRMO
+66,541658713489014784,Sun Dec 07 18:21:15 +0000 2014,0,0,@Cyber_Dystopia @Maliciouslink @infosecjeff Agreed. Troublesome to see  years after their breach with PSN
+67,540972620879888384,Fri Dec 05 20:54:58 +0000 2014,0,0,"Employees claim Sony has had a ""long-running lax attitude towards security"" http://t.co/6o3ZBQ89z8 #infosec"
+68,540194910284951552,Wed Dec 03 17:24:37 +0000 2014,0,1,Webinar coming up on Office 365 - how to stay protected from advanced phishing attacks http://t.co/PKVC8tB8Ze #infosec
+69,539911760233242624,Tue Dec 02 22:39:29 +0000 2014,0,0,Hard drive wiping malware currently in the wild http://t.co/kg7E6befEf #infosec
+70,532991369128579074,Thu Nov 13 20:20:19 +0000 2014,0,0,How to spot a phishing email by @CSOonline http://t.co/flRBg0LHqO #email #security
+71,532990468473098240,Thu Nov 13 20:16:44 +0000 2014,0,0,Backstory behind the Home Depot breach by @WSJ  http://t.co/tinyFNy4KO #infosec
+72,532617826322771968,Wed Nov 12 19:36:00 +0000 2014,0,0,"Major vulnerability found affecting nearly all versions of Windows, requires patch http://t.co/djWcZeCl9U #infosec"
+73,531867753523605508,Mon Nov 10 17:55:28 +0000 2014,0,1,"US Post Office recently breached, exposing employee records of over 800K person workforce http://t.co/KzYvHCthe8 #infosec"
+74,529416479792324610,Mon Nov 03 23:34:59 +0000 2014,0,0,An inside look at Stuxnet malware and its path to Iran http://t.co/CjBspvVT6y #cybersecurity
+75,529386350345089025,Mon Nov 03 21:35:16 +0000 2014,0,2,Infographic: Hacker personas you should be aware of http://t.co/8maDPnGFil #infosec
+76,524588146789343233,Tue Oct 21 15:48:55 +0000 2014,0,0,.@WSJ with @Raj_Samani on key issues boardrooms need to look at to secure #data &amp; reputation: http://t.co/QXgAtYRd5v
+77,524587635994402818,Tue Oct 21 15:46:53 +0000 2014,0,0,Staples investigating credit card breach http://t.co/GfrWtxGE0B #infosec
+78,524280673582845952,Mon Oct 20 19:27:07 +0000 2014,0,0,An argument for the need to increase employee education to defend against social engineering attacks http://t.co/Bxsxk0aTkx #infosec
+79,524244437124145152,Mon Oct 20 17:03:08 +0000 2014,0,1,"Chinese Apple iCloud users are experiencing a man-in-the-middle attack, collecting their credentials http://t.co/cl3vshqwhR"
+80,522821788531576832,Thu Oct 16 18:50:02 +0000 2014,0,0,@Intel has developed encryption tech for POS systems to protect credit card transactions http://t.co/pBivaKuSdc #infosec
+81,521709272497803264,Mon Oct 13 17:09:18 +0000 2014,0,0,"Via @BBCTech ""Only 100 cybercrime kingpins worldwide"" http://t.co/VMVlFAAdm5 #infosec"
+82,520339716311232513,Thu Oct 09 22:27:10 +0000 2014,0,0,The story behind the Google engineer who discovered #heartbleed http://t.co/1642YplUv2 #infosec
+83,520279139236843520,Thu Oct 09 18:26:27 +0000 2014,0,0,An interesting conversation on the role of IT in #infosec http://t.co/ewsA7mGbpp
+84,517713604682854401,Thu Oct 02 16:31:56 +0000 2014,2,0,NSS Labs responds to Palo Alto Networks attack on their recent next gen firewall test http://t.co/1bAfDHsyiN #NGFW #infosec
+85,517019689604902912,Tue Sep 30 18:34:34 +0000 2014,1,0,"Solve the puzzle in this @McAfee blog series to win big: Go Ahead, Make My Zero Day. More here: http://t.co/ThHX9WHtqR"
+86,514094021619089408,Mon Sep 22 16:49:00 +0000 2014,0,0,Pandora embraces Shadow IT with a clear cut strategy http://t.co/CqUgnQOTaO #cloud #security
+87,512275351746015232,Wed Sep 17 16:22:16 +0000 2014,0,0,@McAfee_Labs shares three recent phishing attacks to watch out for http://t.co/pQmiOjyCSk #infosec
+88,511992861676412929,Tue Sep 16 21:39:45 +0000 2014,1,0,Avoid sketchy ebook stores - Your Amazon account can be compromised through a malicious ebook http://t.co/JAa00mM6kp #InfoSec
+89,511558665883492352,Mon Sep 15 16:54:24 +0000 2014,0,0,DMARC standard shows promise for limiting email fraud http://t.co/NpvuMXdxyb #infosec
+90,509780845473693696,Wed Sep 10 19:09:59 +0000 2014,1,0,Check to see if your email credentials have been compromised here http://t.co/GQoOWsYokf from the latest leak of Gmail data
+91,509743164651880448,Wed Sep 10 16:40:15 +0000 2014,0,0,Zeus malware variant found targeting Salesforce data http://t.co/jBkNh5Ieaz #cybercrime
+92,507578469719347200,Thu Sep 04 17:18:32 +0000 2014,0,0,@McAfee GM @ReesJohnson1 comments on recent Threat Report and Email Phishing http://t.co/qFylY7cA4X #infosec
+93,507212630398758912,Wed Sep 03 17:04:49 +0000 2014,0,0,"Home Depot breached and cc #'s stolen, posted to online black market. *May* be bigger than Target http://t.co/UPkSjjGryq #cybercrime"
+94,506857407876571136,Tue Sep 02 17:33:17 +0000 2014,4,1,@McAfee @Raj_Samani on the security of #cloud computing and how to handle your data online #icloud #celebrityleaks http://t.co/Al1ab42OlZ
+95,505032878401409024,Thu Aug 28 16:43:15 +0000 2014,0,0,"JP Morgan Chase and four other banks hit by cyber attack, stolen account information http://t.co/FIS7MAFYut #infosec #cybersecurity"
+96,502922259854798849,Fri Aug 22 20:56:25 +0000 2014,2,0,"More than 1,000 additional companies, including UPS, hit by the same cyberattack as Target http://t.co/IHyaekeDlX #infosec"
+97,502150276833218560,Wed Aug 20 17:48:50 +0000 2014,3,1,An argument for more education on phishing http://t.co/sCQFlwXfBj #infosec
+98,501423366616514560,Mon Aug 18 17:40:21 +0000 2014,1,0,Chinese cybercriminals steal millions of US health patient records http://t.co/GkvWEk94Dk #infosec
+99,497441213826363392,Thu Aug 07 17:56:42 +0000 2014,0,0,Using Office 365? Five Reasons to Consider a Security Upgrade http://t.co/uD8iLFrixg via @talkin_cloud #infosec
+100,497412490062344192,Thu Aug 07 16:02:33 +0000 2014,0,0,"Details on the billion account breach and also ""the value of a hacked email account"" http://t.co/8zy7ZqjDvr via @briankrebs"
+101,497129921224118273,Wed Aug 06 21:19:44 +0000 2014,0,0,RT @DaveBullsEye: Using Office 365? Five Reasons to Consider a Security Upgrade http://t.co/aaPiXyAf4z via @talkin_cloud
+102,496381943307464705,Mon Aug 04 19:47:32 +0000 2014,0,0,Malware with no files comes through phishing scams http://t.co/sGXPdF9qeH #infosec
+103,494890295931056129,Thu Jul 31 17:00:15 +0000 2014,2,2,Researchers demonstrate firmware vuln. in all USB technology http://t.co/1oV1G5VDM2 #infosec
+104,494557203664478208,Wed Jul 30 18:56:40 +0000 2014,0,1,RT @emayosec @McAfeeBusiness How about human awareness? #secchat +1 - front line of defense
+105,494557093266206720,Wed Jul 30 18:56:14 +0000 2014,0,0,@mcafeebusiness A8: Follow the kill chain and disrupt attacks where possible. educate to reduce phishing #SecChat
+106,494556509502599170,Wed Jul 30 18:53:54 +0000 2014,0,0,@spinzo @VirtualTal Doh! Typing too fast #youreproblems
+107,494555745288220673,Wed Jul 30 18:50:52 +0000 2014,0,0,"RT @VirtualTal ""@SecurityBuzz: @VirtualTal #knowyourbreached No, #assumeyourbreached +1 #SecChat"
+108,494555322267467776,Wed Jul 30 18:49:11 +0000 2014,0,0,@VirtualTal re: reinforcing vector for 1st attack won't prevent 2nd. - Active monitoring of internal systems #knowyourbreached  #SecChat
+109,494554185405595648,Wed Jul 30 18:44:40 +0000 2014,0,0,"@teksquisite more sec-smart edu is needed for ""targeted"" individuals too - Yes - some depts. are fooled easier than others #phishing"
+110,494553569673359361,Wed Jul 30 18:42:14 +0000 2014,0,0,"@VirtualTal  A5  usually Maginot Line tactics - perimeter defenses *always* have holes, as did the French #SecChat"
+111,494552802170257408,Wed Jul 30 18:39:11 +0000 2014,0,0,"@VirtualTal A5 too many, unfortunately.. - Result in any strategic investment? #SecChat"
+112,494552459906654210,Wed Jul 30 18:37:49 +0000 2014,0,2,RT @securelexicon #secchat This topic would make a great discussion group at #blackhat2014. +1
+113,494552259469254656,Wed Jul 30 18:37:01 +0000 2014,0,0,@VirtualTal .@teksquisite re: problem is humans clicking on bad links - don't forget attachments i.e. weaponized doc #SecChat
+114,494550927441817600,Wed Jul 30 18:31:44 +0000 2014,0,0,@scadahacker - looking into Au DSDs approach - good on ya! #downunder #SecChat
+115,494550402319519744,Wed Jul 30 18:29:38 +0000 2014,0,0,@SCADAhacker  re: look beyond prevention and manage consequences - time to discovery/ remediation is a challenge #SecChat
+116,494549893323948032,Wed Jul 30 18:27:37 +0000 2014,0,0,RT @securelexicon @VirtualTal @SecurityBuzz @SCADAhacker #secchat DLP and anomaly detection require strong #ITGRC. +1
+117,494548599137898496,Wed Jul 30 18:22:28 +0000 2014,0,1,"@SCADAhacker - very true! DLP helps, but insiders can be stealthy #SecChat"
+118,494547952179097600,Wed Jul 30 18:19:54 +0000 2014,0,1,"RT @jc_vazquez @McAfeeBusiness data ex-filtration typically if we take as reference the ""Kill Chain"" model #SecChat"
+119,494547732074217472,Wed Jul 30 18:19:02 +0000 2014,1,0,@SCADAhacker - kill chain model can help identify risk in security posture #SecChat
+120,494546912922836992,Wed Jul 30 18:15:46 +0000 2014,0,0,@McAfeebusiness A2: steal data! which data depends of the origin of attack #SecChat
+121,494546537192886272,Wed Jul 30 18:14:17 +0000 2014,0,0,@ashleyatencase Intent can *sometimes* be determined through forensics #SecChat
+122,494545691658559488,Wed Jul 30 18:10:55 +0000 2014,0,2,"@reesjohnson1 Yes, social engineering can be very effective! #SecChat"
+123,494545191211401217,Wed Jul 30 18:08:56 +0000 2014,0,0,"RT @rickhholland Another reason they are successful, it is easy to compromise an org when you have both capabilities and intent. #SecChat"
+124,493868503846629376,Mon Jul 28 21:20:01 +0000 2014,5,0,RT @rickhholland: Join .@McAfee ’s .@ReesJohnson1 &amp; me for #secchat on targeted attacks. Wed at 11am pacific http://t.co/ddaJqD3V8Q #infosec
+125,492348764082806784,Thu Jul 24 16:41:07 +0000 2014,2,0,Between 30K-50K WordPress sites have been compromised due to MailPoet plugin - even if you don't use it http://t.co/PrrSImeEw3
+126,491988934033829888,Wed Jul 23 16:51:17 +0000 2014,0,0,"StubHub realizes over 1K customers had accounts compromised, tickets bought by thieves http://t.co/A0TwSGMSB6 #infosec"
+127,491972237193269248,Wed Jul 23 15:44:56 +0000 2014,21,0,RT @McAfeeBusiness: Join us for a #SecChat on targeted attacks hosted by @ReesJohnson1 &amp; @Rickhholland. http://t.co/0BOFyuVDoc http://t.co/…
+128,491250654443106304,Mon Jul 21 15:57:37 +0000 2014,0,0,A discussion on the forensic capabilities for iOS http://t.co/5pF9WJ9r9Z #mobile
+129,488718007355445248,Mon Jul 14 16:13:47 +0000 2014,1,0,Meet one of Google's lead female security engineers http://t.co/0D7ZvdQhXW #cybersecurity
+130,484429895473188865,Wed Jul 02 20:14:22 +0000 2014,0,0,Canadian anti-spam law goes into effect http://t.co/LnkejzHs3Z #email #security
+131,484084949281021952,Tue Jul 01 21:23:40 +0000 2014,0,0,On #shadowIT - what is the risk? http://t.co/sKdDQvhgHU #cloudsec
+132,483669004934848512,Mon Jun 30 17:50:51 +0000 2014,0,0,Massive phishing campaign targets popular online dating sites http://t.co/golseYHohi #infosec
+133,481107764773543937,Mon Jun 23 16:13:24 +0000 2014,0,0,Google pushes for wider adoption of email encryption technology http://t.co/xNkadVJcMD #infosec
+134,479653087804538880,Thu Jun 19 15:53:02 +0000 2014,1,0,"AWS customer data held hostage, deleted by cyber criminal http://t.co/YPtNEm5fmc #infosec"
+135,478642660446441472,Mon Jun 16 20:57:57 +0000 2014,0,0,An interesting look into @facebook page hijacking via @businessinsider http://t.co/xHOxxaVepm #socialmedia #infosec
+136,474994595852324864,Fri Jun 06 19:21:51 +0000 2014,2,0,Are you a phishing expert? @IntelFreePress weighs in. http://t.co/CS1mPodLTn #infosec
+137,472087752839036928,Thu May 29 18:51:05 +0000 2014,1,0,@aoshi73 re: exec awareness - use their metrics - X company in our industry lost Y dollars due to lack of Z #SecChat
+138,472086776207933440,Thu May 29 18:47:13 +0000 2014,0,0,@dennis_london Yes - and network segmentation to prevent lateral movement - IT headache? #SecChat
+139,472085515538550784,Thu May 29 18:42:12 +0000 2014,1,0,@aoshi73 re: recycling - software vendors prioritizing time to market vs. security #SecChat
+140,472085000528343041,Thu May 29 18:40:09 +0000 2014,0,0,@dennis_london @calhoun_pat Exactly. #SecChat
+141,472082612245512193,Thu May 29 18:30:40 +0000 2014,0,0,@dennis_london @calhoun_pat A concerted effort - agreed. Hard to accomplish w multiple vendors #integrationproblems #SecChat
+142,472081373315215360,Thu May 29 18:25:44 +0000 2014,1,1,@dennis_london End users are def. the weakest link. Can advanced malware detection make up for that? #SecChat
+143,471702543308161024,Wed May 28 17:20:24 +0000 2014,1,1,Apple advises users affected by Apple ID compromise change their passwords http://t.co/2viUN4bLS1 #infosec
+144,464841767356207105,Fri May 09 18:58:08 +0000 2014,0,0,URL shortener Bit.ly has asked all users to reset their credentials and API keys due to compromise http://t.co/kkNCOJZnOT #socialmedia
+145,461571653047418880,Wed Apr 30 18:23:52 +0000 2014,1,0,Facebook announces anonymous login http://t.co/68VqoP3mPh #identity #security
+146,459767244919017472,Fri Apr 25 18:53:47 +0000 2014,0,0,Apps in Google Play market found to covertly mine #bitcoin http://t.co/6zQbs2qL19 #mobile #malware
+147,456471920326606849,Wed Apr 16 16:39:21 +0000 2014,0,0,Digital storage vendor LaCie announced a breach of customer records due to Adobe vuln. Story via @briankrebs http://t.co/HCLzTQwhNf
+148,456142935570911232,Tue Apr 15 18:52:05 +0000 2014,1,0,Google unveils email scanning practices in new terms of service http://t.co/KseQaTHNIB #privacy
+149,452179096538066944,Fri Apr 04 20:21:12 +0000 2014,0,0,Fireeye and NSS labs go back and forth on recent malware detection test http://t.co/gN9bQKqaJP #netsec
+150,448865513142108160,Wed Mar 26 16:54:12 +0000 2014,0,0,"@facebook introduces #ThreatData, a big data analytics framework for cyber threats http://t.co/gsuMpBYiX2"
+151,448219451586924544,Mon Mar 24 22:06:59 +0000 2014,0,0,Most cyber attacks start with a phishing email. This webcast sheds light on how to stop them http://t.co/8Yil5NIvwH #infosec #EMEA
+152,447137338703900672,Fri Mar 21 22:27:03 +0000 2014,196,0,RT @briankrebs: Why do the huge breach stories always come to me on Fridays?? Stay tuned. This one is a biggie.
+153,446698797876248576,Thu Mar 20 17:24:27 +0000 2014,0,0,Follow the path of a web request as it flows through an enterprise secure web gateway | infographic http://t.co/w1KMPk7coW #infosec
+154,446698574185627648,Thu Mar 20 17:23:34 +0000 2014,0,1,RT @DaveBullsEye: 5 signs that Shadow IT lurks in your company http://t.co/JGJFP9oo29 via @mrcproductivity
+155,444215498587131904,Thu Mar 13 20:56:42 +0000 2014,2,0,Postini #emailsec faces major false pos issues as they aproach EOL http://t.co/Gz7IwFMqBQ McAfee can help http://t.co/wPkKuHxWqq
+156,441980470977241089,Fri Mar 07 16:55:30 +0000 2014,0,1,Considerations when adopting Security-as-a-Service for your workforce http://t.co/xS9wujFfMm #saas
+157,441336302428893184,Wed Mar 05 22:15:48 +0000 2014,0,0,Sally Beaty hit by credit card breach - analysis via @briankrebs http://t.co/zgkMgzff4r
+158,434403285512896512,Fri Feb 14 19:06:28 +0000 2014,1,0,Target breach started with a phishing email http://t.co/qaVc3ka7aA #emailsec
+159,434373399494668288,Fri Feb 14 17:07:43 +0000 2014,0,0,Apple files patent for disposable email addresses in an effort to combat spam http://t.co/ra2Yaw3Y6y #emailsec
+160,434018759997550592,Thu Feb 13 17:38:30 +0000 2014,0,0,"The ""Blackwater of Hacking"" takes a new direction http://t.co/3iOZeHc4AE #cybersecurity"
+161,433748103494385664,Wed Feb 12 23:43:01 +0000 2014,0,0,RT @DaveBullsEye: HTTPS Scanning – Uncovering Hidden Malware | McAfee: http://t.co/arjvYAjjXs
+162,431491320494821376,Thu Feb 06 18:15:22 +0000 2014,0,0,City of Aspen looks to the cloud for malware defense with email and web security as a service http://t.co/ZLCudo0A3W #infosec
+163,431180431442984960,Wed Feb 05 21:40:00 +0000 2014,0,0,HP finds many apps do not use encryption property http://t.co/phzAqdRQRY #infosec
+164,428581099506118657,Wed Jan 29 17:31:11 +0000 2014,0,0,One man's story of being hacked for a unique twitter handle worth $50K http://t.co/rdhcA7fBVh #infosec
+165,428289061560659968,Tue Jan 28 22:10:44 +0000 2014,2,0,"""Email probably still is one of the most successful malware delivery mechanisms"" -@Raj_Samani http://t.co/mzL7vipQ4t"
+166,428250732127473664,Tue Jan 28 19:38:25 +0000 2014,0,0,Online apps can put corp data at risk - learn how web gateway technology can protect your information http://t.co/TJU3EpljvO
+167,427848347341176832,Mon Jan 27 16:59:29 +0000 2014,0,0,Targeted phishing attack lead to breach at Microsoft http://t.co/ocZvTm9eGe #infosec
+168,426787466368929792,Fri Jan 24 18:43:55 +0000 2014,4,0,Neiman Marcus breach now estimated to affect over 1M cusomer credit cards http://t.co/43SCDCjV0G #malware #databreach
+169,426501046244876289,Thu Jan 23 23:45:48 +0000 2014,0,1,What is your perception of reasonable security? Commentary from @ksingletary http://t.co/3kxkzKKBEn
+170,426150032035688451,Thu Jan 23 00:30:59 +0000 2014,0,1,Product demo of McAfee Email Protection forensic tools http://t.co/VkFQUYnEqa
+171,425754384828334080,Tue Jan 21 22:18:50 +0000 2014,2,1,"#SaaS policies should support standards of availability, security &amp; compliance, but many don't comply w/ the norm: http://t.co/3P8dgXMqvl"
+172,423891525487968256,Thu Jan 16 18:56:29 +0000 2014,1,0,Study looks into the motivation behind and reality of #ShadowIT http://t.co/n6xh8AJlPQ #cloud #security
+173,423884812026273793,Thu Jan 16 18:29:49 +0000 2014,0,0,A first look at the malware used in the Target breach via @briankrebs http://t.co/ZGR13VG1Ju
+174,422833542800760832,Mon Jan 13 20:52:27 +0000 2014,0,0,RT @natstalgia: More than 80% of employees use non-approved #SaaS apps at work. Surprised? Read more: http://t.co/9nx2CvNdRC #ShadowIT
+175,422833507203690498,Mon Jan 13 20:52:18 +0000 2014,0,0,Cisco says it will fix backdoor in Linksys routers http://t.co/xyXjGGEQ8s #netsec
+176,421748514792566785,Fri Jan 10 21:00:56 +0000 2014,0,0,Target breach may now affect 1/3 of US population http://t.co/FdmbUW47v3 #infosec
+177,421327858145832960,Thu Jan 09 17:09:23 +0000 2014,0,0,Why do employees ignore the risks of Shadow IT? Read more on this here http://t.co/1QpwohXtjj
+178,421327438988079104,Thu Jan 09 17:07:44 +0000 2014,0,0,Up to 2 million UK users infected with malware from Yahoo online ads http://t.co/VeCbWxaUoI #infosec
+179,421002172781060097,Wed Jan 08 19:35:14 +0000 2014,0,0,.@Yahoo &amp; @TMobile fall victim to cybercriminals in early days of 2014. Read more in @garyjdavis latest blog: http://t.co/Scv0JexheI
+180,420609097222733824,Tue Jan 07 17:33:17 +0000 2014,0,0,Business security needs a shift to support growth of cloud services http://t.co/CFUqphCBTW
+181,419187656119947264,Fri Jan 03 19:25:00 +0000 2014,0,0,Snapchat knew about security vulnerability before breach http://t.co/roXD6coKFS #infosec
+182,417783662835298304,Mon Dec 30 22:26:01 +0000 2013,1,0,Researchers find MicroSD cards vulnerable to exploit http://t.co/dYr98x0Jw9 #infosec
+183,417770299594010624,Mon Dec 30 21:32:55 +0000 2013,0,0,Criminals in Europe used USB sticks to break in to ATMs and siphon cash http://t.co/zLxazDHH1M #cybercrime
+184,415196219841851392,Mon Dec 23 19:04:27 +0000 2013,0,0,RSA categorically denies weakening security for NSA http://t.co/nAiQFfHF7E
+185,413423945019179008,Wed Dec 18 21:42:04 +0000 2013,0,0,"Target investigating data breach, potentially affecting millions of customers credit card data via @briankrebs http://t.co/EtHPnNjZph"
+186,413422142529617920,Wed Dec 18 21:34:54 +0000 2013,0,0,Research shows webcams can be activated without warning light http://t.co/QBRmlRmS6h #cybersecurity
+187,413356822792114176,Wed Dec 18 17:15:21 +0000 2013,0,0,EU considering changes to US Cloud Provider data protection rules http://t.co/3t9dpqnrEp
+188,411224246690787328,Thu Dec 12 20:01:15 +0000 2013,0,0,"@networkguidance Yes, if mobile devices also route their traffic through the firewall or gateway #SecChat"
+189,411223849527943168,Thu Dec 12 19:59:40 +0000 2013,1,0,"RT @labnuke +1 future IT needs to connect, collaborate, deliver &amp; be prepared for failure (postmortem) &amp; success (parade)  #SecChat"
+190,411223284500680704,Thu Dec 12 19:57:25 +0000 2013,0,0,A7 @mcafeebusiness via @labnuke &gt;follow the data and lifecycle mgt&lt; Know where your data goes! #SecChat
+191,411222118706450432,Thu Dec 12 19:52:47 +0000 2013,0,0,@networkguidance Tough to make app usage secure if you don't know whats being used - IT need better visibility #SecChat
+192,411220718400327682,Thu Dec 12 19:47:14 +0000 2013,1,0,RT +1 @gclarkesecurity @Labnuke #SecChat Isn't part of the problem that they can't keep up? Back to business agility again. #SecChat
+193,411219588354150400,Thu Dec 12 19:42:44 +0000 2013,0,0,"@labnuke - IT can be friction free by providing apps along with security controls i.e. secure access, data protection #SecChat"
+194,411218326636232704,Thu Dec 12 19:37:43 +0000 2013,0,0,Does blocking apps really work? Or will employees continue to find a way around IT #SecChat
+195,411217750254964736,Thu Dec 12 19:35:26 +0000 2013,0,0,@networkguidance true - IT can step in however and run application controls and DLP to stop unwanted transfer #SecChat
+196,411216925906436096,Thu Dec 12 19:32:09 +0000 2013,0,1,"@mcafeebusiness A4: no, but they may not understand the vulnerabilities they introduce #SecChat"
+197,411215640125775872,Thu Dec 12 19:27:03 +0000 2013,0,0,@labnuke Good insight #SecChat
+198,411214348280160256,Thu Dec 12 19:21:55 +0000 2013,0,0,@selil Shadow IT could have that affect on careers - if the apps were secure! IT still needs to protect information #SecChat
+199,411213716789927936,Thu Dec 12 19:19:24 +0000 2013,0,0,@mcafeebusiness @raj_samani A: moving in that direction - IT still needs to protect data flowing to the cloud - transparent IT? #SecChat

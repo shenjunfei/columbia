@@ -1,0 +1,230 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668964975466033152,Tue Nov 24 01:30:53 +0000 2015,1,2,"""How do #Promises Work?"" https://t.co/KYvrkij3q7 #javascript"
+1,668117073252319232,Sat Nov 21 17:21:37 +0000 2015,1,1,Spring-Boot: Building #Bootstrap with #Gulp and #Gradle https://t.co/BsamViJsra
+2,668116799527895041,Sat Nov 21 17:20:32 +0000 2015,0,0,"""New Docs Reveal NSA Never Ended Bulk Email Collection, Just Hid It better"" https://t.co/pWXOoCddCm"
+3,666434936627314688,Tue Nov 17 01:57:25 +0000 2015,4,0,RT @EmberSherpa: Post: Real-Time Chat with Ember 2 and Pusher on @pusher blog https://t.co/pGtT14YzOB #EmberJS
+4,666434878448136193,Tue Nov 17 01:57:11 +0000 2015,10,0,"RT @rwjblue: Ember v2.1.1 has been released. 
+
+Read the release notes for details:
+
+https://t.co/uo0i9qMCqN"
+5,663756140543475712,Mon Nov 09 16:32:50 +0000 2015,1,0,RT @cleanmaster_age: JavaOne the 20th Edition ? Ten Takeaways - DZone News #javafx https://t.co/CpRUDTDNzR
+6,663557359306960896,Mon Nov 09 03:22:57 +0000 2015,0,0,#Swift Tips and How-Tos: https://t.co/kNFKGRFJcD
+7,661603977583337472,Tue Nov 03 18:00:54 +0000 2015,0,1,"""#Docker, #Elastic Beanstalk and #Git: a useful trinity for agile development? Part II"" #devops  https://t.co/Oor8hjkWsm"
+8,661603714181001216,Tue Nov 03 17:59:52 +0000 2015,1,0,"RT @emstuu: 🍂 #nature #river #leaves #beautiful #novascotia #easternshore @ Musquodoboit Harbour, Nova Scotia https://t.co/6vCpoBhdYA"
+9,661284153313234944,Mon Nov 02 20:50:02 +0000 2015,0,1,Deep Dive into #Git - Edward Thomson https://t.co/yf9yXQXni4
+10,661283705034424320,Mon Nov 02 20:48:15 +0000 2015,0,0,"""Google Refutes Rumors Of Chrome OS Merging With Android, Says It's Here To Stay"" #android  https://t.co/wjzzMSa6Ac"
+11,659949754764259328,Fri Oct 30 04:27:37 +0000 2015,2,0,"RT @dlemmermann: @johanvos talk about #javafx on iOS, Android, embedded. #JavaOne2015 https://t.co/wfNfaF5b1P"
+12,659564113241083904,Thu Oct 29 02:55:13 +0000 2015,0,0,"""Huawei hires former big time #Apple employee"" #android  https://t.co/QSbV4sBLeQ"
+13,659362513478246400,Wed Oct 28 13:34:08 +0000 2015,9,0,RT @JavaFXpert: Congrats! RT @GluonHQ: Gluon Receives Dukes Choice Award at JavaOne 2015 https://t.co/Iw4FZw1AiN https://t.co/nA45N8sicK
+14,659148946757910528,Tue Oct 27 23:25:29 +0000 2015,3,1,"""Jump into Java micro frameworks, Part 1"" #java  https://t.co/FpxRl9zRsc"
+15,659148688091017216,Tue Oct 27 23:24:28 +0000 2015,0,0,"""Developers weigh #JSON, security proposals for Java EE 8"" #java #javaee https://t.co/Hyvz7k6ZfB"
+16,658724274585206784,Mon Oct 26 19:18:00 +0000 2015,1,0,Wish I was there this year.. “@dlemmermann: Listening to #JavaFX talk with @AdamBien https://t.co/dGpd0AWWrg”
+17,658723855767224320,Mon Oct 26 19:16:20 +0000 2015,2,0,"RT @wolflook: #JavaFX 9 is delivered as part of the JDK modular image, but JDK 9 is still a long way off! @JavaOneConf https://t.co/8AOdft4…"
+18,657637301644861440,Fri Oct 23 19:18:45 +0000 2015,0,2,How to install Node.js using #NVM on Ubuntu #nodejs #javascript https://t.co/Jn6wrxWQDg
+19,657224114877440000,Thu Oct 22 15:56:54 +0000 2015,3,0,RT @WoodWhisperer: Drop the kid off at school and 10 minutes later I realize I'm still listening to Wonder Pets.
+20,656826575028023296,Wed Oct 21 13:37:13 +0000 2015,1,0,RT @techlyjava: Gluon Particle - JavaFX Desktop Framework https://t.co/9Nrr9AY9LA
+21,656600785665437696,Tue Oct 20 22:40:01 +0000 2015,0,0,"""Thoughts on Transitioning to Universal #JavaScript""  https://t.co/icAkupEqRA"
+22,656321776385847296,Tue Oct 20 04:11:20 +0000 2015,0,0,"""Converting JSON To Map With #Java 8 Without Dependencies"" #javafx @AdamBien  https://t.co/8SdfuJOuZL"
+23,656321567958298625,Tue Oct 20 04:10:30 +0000 2015,0,0,"""#Docker containers, #Bamboo, and building webapps"" https://t.co/syZO5PWrdg"
+24,656169137165602816,Mon Oct 19 18:04:47 +0000 2015,4,0,RT @EmberSherpa: Post: Ember Data: working with nested API resources http://t.co/PuQsldEwx6 #EmberJS #EmberData
+25,656109466111180800,Mon Oct 19 14:07:41 +0000 2015,2,0,"""Node with #Docker - continuous integration and delivery"" #nodejs #javascript http://t.co/qyPObvNoiz"
+26,655933721866964993,Mon Oct 19 02:29:20 +0000 2015,16,14,"""Mixed #Java and C/C++ Development Integrated into #NetBeans IDE (@GeertjanW Blog)""  https://t.co/gupMgzcI9K"
+27,655933056386134016,Mon Oct 19 02:26:41 +0000 2015,3,1,"""Reading InputStream Into String With #Java 8 : @AdamBien Weblog"" http://t.co/epiAvZVeZA"
+28,655764589192220672,Sun Oct 18 15:17:16 +0000 2015,37,0,"RT @_ericelliott: Favor `map()` over `forEach()` when you can. Avoid side-effects.
+#functional #JavaScript"
+29,655763820036517892,Sun Oct 18 15:14:12 +0000 2015,5,0,RT @hendrikEbbers: Dolphin Platform: getting started http://t.co/J3KnQ19Rrv #DolphinPlatform #Java #JavaFX #Spring
+30,654771731094073350,Thu Oct 15 21:32:00 +0000 2015,11,0,RT @JonathanGiles: @ericjbruno @Java In JDK 9 we are planning to provide API that avoids the need to call JFXPanel to init JavaFX.
+31,654393813780164608,Wed Oct 14 20:30:17 +0000 2015,3,0,"RT @carldea: Installed Raspbian, JDK 1.8.0 u60, &amp; OpenJFX thanks to @chriswhocodes https://t.co/VRGLEAVYz2 my raspberrypi is running JavaFX…"
+32,654393031446040576,Wed Oct 14 20:27:11 +0000 2015,0,0,"#Docker Registries: the Good, the Bad &amp; the Ugly http://t.co/3NzMdAyqMD"
+33,653996184533467136,Tue Oct 13 18:10:15 +0000 2015,0,0,"""Drupalize.Me: How to Log Messages in Drupal 8"" #drupal  https://t.co/EBn8fKsnM0"
+34,653615996817682432,Mon Oct 12 16:59:31 +0000 2015,2,0,RT @Galazone: Waiting for @AdamBien ' s AirHacks ! @  http://t.co/4QDjs1W92Z
+35,653615838117822464,Mon Oct 12 16:58:54 +0000 2015,3,0,RT @EmberSherpa: Video: Introduction to ember-state-services by @Thoov at #GlobalEmberMeetup http://t.co/wKmUeU56Jd #EmberJS
+36,653292760661753856,Sun Oct 11 19:35:06 +0000 2015,13,0,"RT @fxexperience: JavaFX links of the week, October 12 - http://t.co/RczdasDyIT"
+37,652551844690923520,Fri Oct 09 18:30:58 +0000 2015,2,0,RT @niedzielskiadam: New post on my blog: Routable modal dialog in Ember.js http://t.co/VYUL5rPXEq Hope you will like it! #emberjs #javascr…
+38,652550951652331520,Fri Oct 09 18:27:25 +0000 2015,62,0,RT @BarrhavenJan: @Costco deal is signed &amp; coming to#Barrhaven !!! @BarrhavenBIA
+39,652550805774446593,Fri Oct 09 18:26:50 +0000 2015,1,0,"RT @PascalBod06: How to test JavaFX apps, with TestFX: http://t.co/Ukcq5zvgyP"
+40,652550736438431744,Fri Oct 09 18:26:34 +0000 2015,3,0,RT @SlideshowFX: Looks what's going on #SlideshowFX !! #JavaFX #teasing http://t.co/t88joOso8X
+41,652550708902805504,Fri Oct 09 18:26:27 +0000 2015,2,0,"RT @FibreFoX: New version of javafx-basic-archetype, now with updated dependencies :) and version 8.1.5 of javafx-maven-plugin #Java #JavaF…"
+42,652550667114909696,Fri Oct 09 18:26:17 +0000 2015,2,0,RT @cogmission: Announcing FXpresso - A compendium of JavaFX tidbits...  https/github.com/fxpresso @JavaFXpert @java #JavaFX @doppioslash #…
+43,652550449212473344,Fri Oct 09 18:25:25 +0000 2015,0,0,e4e Developer Conf 2015 - Micro-services 102 by Dipali Trivedi #microservices https://t.co/n2aRusKkbm
+44,652550104075776004,Fri Oct 09 18:24:03 +0000 2015,2,0,"""Using #JSHint for Linting with #Gulp - #JavaScript Video Tutorial @eggheadio https://t.co/giktkOgMBX"
+45,652549858553823232,Fri Oct 09 18:23:04 +0000 2015,0,1,"""Building an #XMPP #iOS client in #Swift 2 https://t.co/63saU1RMTy"
+46,652549615179329536,Fri Oct 09 18:22:06 +0000 2015,0,0,"""#Firefox will stop supporting plugins by end of 2016, following #Chrome's lead"" http://t.co/CKRugXd1hO"
+47,652238073049120768,Thu Oct 08 21:44:09 +0000 2015,5,0,RT @jcoz1968: NodeJS: Node.js and Ember https://t.co/gRNTp9w5SL via @YouTube #nodejs #emberjs #javascript
+48,652213232858370048,Thu Oct 08 20:05:26 +0000 2015,1,0,RT @FrontendMasters: We're LIVE with two days on Ember 2.x with @michaellnorth! http://t.co/U6EHhZKnT6
+49,652213130685116416,Thu Oct 08 20:05:02 +0000 2015,1,0,RT @FrontendMasters: @pauloelias doh! https://t.co/1HaSKKflEh — you can watch what’s been recorded here: https://t.co/n1a0JcQ530
+50,651874729981165569,Wed Oct 07 21:40:21 +0000 2015,6,0,RT @svanimpe: Got a #JavaFX demo app (with FXML and CSS) running on iPad thanks to @GluonHQ. No modifications required! http://t.co/zEt2tAD…
+51,651756491104325632,Wed Oct 07 13:50:31 +0000 2015,0,0,"""#Atlassian #JIRA splits into JIRA Core, JIRA Software, JIRA Service Desk"" http://t.co/W1rv1j9IZa"
+52,651746523852607489,Wed Oct 07 13:10:54 +0000 2015,8,0,RT @EmberSherpa: Join us this Saturday to learn from @baaz about Complex Component Design  at #GlobalEmberMeetup http://t.co/blAuSxAIy1 #Em…
+53,651746464276725760,Wed Oct 07 13:10:40 +0000 2015,9,0,"RT @johanvos: First release of the Gluon Mobile SDK, entirely based on OpenJFX 8u-dev tree! #javafx https://t.co/8MsWBhdc2e"
+54,651746423533211648,Wed Oct 07 13:10:30 +0000 2015,6,0,RT @hendrikEbbers: How to create a #JavaFX client by using the  #DolphinPlatform http://t.co/023drrlQTf
+55,651746369196044288,Wed Oct 07 13:10:17 +0000 2015,14,0,"RT @net0pyr: Released my new #java library: expect(yourTests).to.be(""simple”); https://t.co/OsBLBZO3pg #javafx"
+56,651554818188664832,Wed Oct 07 00:29:08 +0000 2015,1,0,Java Profiling from the Ground Up! #virtualJUG #java https://t.co/jMVMKhKsDK
+57,651550723893686272,Wed Oct 07 00:12:52 +0000 2015,4,0,"RT @GluonHQ: Everyone enjoying all the Gluon news? Our engineers are amazing, and we are only getting started - strap yourselves in for a b…"
+58,651498471631945728,Tue Oct 06 20:45:14 +0000 2015,2,0,RT @patrickbaselier: Updated another chapter for the free #emberjs 2 workshop. Hope to finish it before the end of the month https://t.co/m…
+59,651498376052129792,Tue Oct 06 20:44:51 +0000 2015,4,0,"RT @aalmiray: JavaFX, Groovy, Grails, Griffon, Gradle and OpenDolphin  collaborating and working together https://t.co/bfvzt3iAHh"
+60,651498345588899840,Tue Oct 06 20:44:44 +0000 2015,2,0,"RT @johanvos: At Gluon, we combine open source development and commercial support. #javafx https://t.co/Os6LrnrAr4"
+61,651472829829898240,Tue Oct 06 19:03:21 +0000 2015,0,1,"But unfortunately one of them only runs #windows. “@HorMarian: #Surface Book vs. #MacBook Pro, in one chart http://t.co/Vehu8smP0g”"
+62,651468294524768257,Tue Oct 06 18:45:19 +0000 2015,4,2,"""Node.js and #ES6 Instead of #Java – A War Story"" #nodejs #javascript http://t.co/NVMPprxIlA"
+63,651467842236223488,Tue Oct 06 18:43:31 +0000 2015,0,0,"""Five More Popular #Java-based #Docker Images""  https://t.co/dcm7bHqJFQ"
+64,651422917062856704,Tue Oct 06 15:45:00 +0000 2015,0,0,@aalmiray @bintray Sorry it's not actually mine - just tweeted the link...
+65,651400953644515329,Tue Oct 06 14:17:44 +0000 2015,4,5,#javafx Material Design Library https://t.co/jaVCHyJ4py
+66,651400572394803200,Tue Oct 06 14:16:13 +0000 2015,0,1,"""#NetBeans Mean Business with Support for Node.js in 8.1"" #nodejs #javascript https://t.co/gc5MVK77q4"
+67,651392772553834496,Tue Oct 06 13:45:13 +0000 2015,1,0,"RT @baaz: Rock and Roll with Ember 2 was a great success, thank you all who purchased and/or promoted the product. You rock!"
+68,651392306713522176,Tue Oct 06 13:43:22 +0000 2015,5,0,RT @johanvos: Never miss a GlassFish party! JavaEE and GlassFish are key to the success of Java. https://t.co/IXZpUxa8JN
+69,651212651440156677,Tue Oct 06 01:49:29 +0000 2015,0,1,"Boo. “@mjabali: Sorry, Unix fans: OS X El Capitan kills root  http://t.co/scYEkueFb0 via @infoworld”"
+70,651202872701423617,Tue Oct 06 01:10:38 +0000 2015,3,0,RT @johanvos: Use your favourite DI framework on JavaFX Mobile using Gluon Ignite! https://t.co/cVEe01ZBpE
+71,651202838543003648,Tue Oct 06 01:10:30 +0000 2015,2,0,RT @carldea: Java Magazine: Test JavaFX Apps with TestFX by Bennet Schulz: http://t.co/lZgJIye295 #javafx #java #ui
+72,651177105397407744,Mon Oct 05 23:28:14 +0000 2015,0,1,Scope and closures in #JavaScript http://t.co/fGQQkSuxwp
+73,651115294908280832,Mon Oct 05 19:22:38 +0000 2015,0,0,Reactive #PostgreSQL: Listen to Notifications With #Scala  http://t.co/1KfYpERxrM
+74,651045478876839937,Mon Oct 05 14:45:12 +0000 2015,21,0,RT @GluonHQ: Announcing Gluon Ignite: Easy JavaFX Dependency Injection http://t.co/ei3R8vKoFB http://t.co/N6nf5ecHK6
+75,651003520691277824,Mon Oct 05 11:58:29 +0000 2015,3,0,RT @hendrikEbbers: Dolphin Platform: A Sneak Peek of the controller API http://t.co/zuCFYH19pE http://t.co/j0XJjrBGFl
+76,650679353420853249,Sun Oct 04 14:30:21 +0000 2015,3,0,RT @EmberA2D: What Is Ember Twiddle? An Interview With Guarav Munjal via /r/emberjs http://t.co/tIkTAxmijY #emberjs #EmberA2D
+77,650679079314657281,Sun Oct 04 14:29:16 +0000 2015,15,0,RT @hendrikEbbers: Something new is coming from @canoo :) Here is the first preview of the #DolphinPlatform http://t.co/GOA3Nuow52 #Java #J…
+78,650578673850974208,Sun Oct 04 07:50:17 +0000 2015,0,1,@TacoMeatDaGod I learned a lot from the earlier version of that book. It is really good. Also check out “#JavaFX 8: Introduction by Example”
+79,650464506343133184,Sun Oct 04 00:16:38 +0000 2015,0,1,"""#Erlang/OTP architectures: #cowboy"" https://t.co/OeHE0rDWpp"
+80,650462710413430784,Sun Oct 04 00:09:29 +0000 2015,5,0,"RT @sundararajan_a: Standalone #JavaFX #FXML app with #nashorn scripts for event handling - no #java code!
+
+https://t.co/78E8u6qoFB http://…"
+81,650462625453596672,Sun Oct 04 00:09:09 +0000 2015,0,0,“@MrCraayfish: ControlsFX add-on for JavaFX is amazing! Really allows you to develop modern desktop applications :)”
+82,650430654321070081,Sat Oct 03 22:02:07 +0000 2015,5,0,RT @MkHeck: This...is not a joke. 😉 https://t.co/OfFTDQycbt
+83,650430389668806656,Sat Oct 03 22:01:03 +0000 2015,2,0,"RT @mats_cgo: @tomdale takes us through the inner workings of Glimmer, the @emberjs rendering engine. http://t.co/cgxTUFLUvt"
+84,650429613626142721,Sat Oct 03 21:57:58 +0000 2015,3,0,RT @bigmarker: Ember Authentication Day. Organized by @EmberSherpa. Join here: https://t.co/31yW4iE1FU  #emberjs http://t.co/JDMG4E3tNj
+85,650429236650446848,Sat Oct 03 21:56:29 +0000 2015,4,0,"RT @Alessio_Vinerbi: The third dimension of #javafx
+
+http://t.co/2dZXKaucMZ"
+86,650429204706648065,Sat Oct 03 21:56:21 +0000 2015,1,0,RT @scalaFX: ScalafxUSer ScalaFX 8.0.60-R9 released: ScalaFX  8.0.60-R9 was tested against JavaFX 8.0u60. This is primarily... http://t.co/…
+87,650428510343794688,Sat Oct 03 21:53:35 +0000 2015,2,1,"""implementing #ractive adaptors #Javascript  http://t.co/SaevIDyXcc"
+88,650031554165669888,Fri Oct 02 19:36:14 +0000 2015,0,1,D3.js doesn’t seem to difficult to use. My @pluralsight subscription is really giving me my money’s worth lately. #d3js #javascript
+89,650028955416834050,Fri Oct 02 19:25:54 +0000 2015,0,0,"Please, please be totally untrue… “@baltmatrix: Sources claim that #Microsoft is buying Canonical (the makers of #Ubuntu).”"
+90,649919236979093504,Fri Oct 02 12:09:55 +0000 2015,0,0,"*sigh*
+
+11% of Americans Think #HTML Is an STD
+
+http://t.co/F2T5obEMZM"
+91,649756792398843904,Fri Oct 02 01:24:25 +0000 2015,0,0,Now to learn about D3.js….
+92,649705485948424192,Thu Oct 01 22:00:33 +0000 2015,0,0,Glad I switched to OS X for development. Being a UNIX guy I like being able to use shells. If I never use Windows again I’ll be happy! :)
+93,649693452624461824,Thu Oct 01 21:12:44 +0000 2015,0,0,"""A Brief Guide to the #Docker Ecosystem | Denny's Blog""  https://t.co/UUXNW2RUTn"
+94,649693312052367360,Thu Oct 01 21:12:10 +0000 2015,0,0,"""#NetBeans at JavaOne 2015"" #javaone #java https://t.co/tqRR3fxZlT"
+95,649620804125065217,Thu Oct 01 16:24:03 +0000 2015,5,0,RT @EmberSherpa: Stay ahead of Ember train with 2nd edition of Rock and Roll /w Ember book by @baaz http://t.co/K7ok1r37EK #EmberJS
+96,649581578578845697,Thu Oct 01 13:48:11 +0000 2015,1,0,RT @orKoN: Router Service for Ember Apps https://t.co/KY6Msn5npI #emberjs via @60devs
+97,649577177764130816,Thu Oct 01 13:30:42 +0000 2015,0,1,"""#ES6: From Callbacks to promises to generators"" #javascript https://t.co/nf98vb2gS1"
+98,649576935564034048,Thu Oct 01 13:29:44 +0000 2015,0,0,"""#ES6: methods versus callbacks"" #javascript http://t.co/k2oExiB3Ug"
+99,649568738522480641,Thu Oct 01 12:57:10 +0000 2015,3,0,"RT @jankoehnlein: A story on how to build a robot game with #lego #mindstorms, #xtext and #JavaFX http://t.co/66S9810Byi"
+100,649060770559320064,Wed Sep 30 03:18:41 +0000 2015,2,0,"RT @michaellnorth: Slides from my User-Perceived Performance talk at @LinkedIn // @ModernWebUI 
+
+http://t.co/Tc8UjtdW5p http://t.co/I6niPBQ…"
+101,649034284515262465,Wed Sep 30 01:33:26 +0000 2015,2,0,"RT @JordanHawker: Ember Spotlight #3: Ember-Redirect!
+
+http://t.co/3kZ1KRZnLA
+
+@Thoov @YahooInc @EmberUp @EmberWeekly @EmberLinks #emberjs …"
+102,649030261313699840,Wed Sep 30 01:17:27 +0000 2015,0,0,"""The State of #JavaScript on #Android in 2015 is... poor"" https://t.co/ghhdi0PPEk"
+103,649022128042303490,Wed Sep 30 00:45:08 +0000 2015,0,0,"""Build a Blog in #Drupal 8: Content types and Fields"" http://t.co/YFzLWIBSfy"
+104,648972457697652736,Tue Sep 29 21:27:45 +0000 2015,1,1,"""#ECMAScript, #TypeScript, and #NetBeans IDE (Geertjan's Blog)"" @GeertjanW #javascript https://t.co/n5DL07iUTZ"
+105,648510986123542528,Mon Sep 28 14:54:02 +0000 2015,2,0,RT @nodenow: Angle Bracket Components Sneak Peak by Yehuda Katz and Godfrey Chan @ EmberSF #javascript #emberjs http://t.co/PocD3V9ngG
+106,648497062066130945,Mon Sep 28 13:58:42 +0000 2015,1,0,RT @ferroariel: Services and Self-Recomputing Helpers in Ember 2.0 https://t.co/cFR2BSr1lt #ember vía @60devs
+107,648495792915746816,Mon Sep 28 13:53:40 +0000 2015,1,0,“@ferroariel: Meetup #8 | Marten Schilstra: Using ES7 decorators in Ember https://t.co/pwGKxY35la” #Emberjs #Javascript
+108,648494716149891072,Mon Sep 28 13:49:23 +0000 2015,16,0,RT @GluonHQ: JavaFX Live Templates for IntelliJ IDEA http://t.co/4t3kPnVKs6 http://t.co/xkku1Mc94v
+109,648494242721992704,Mon Sep 28 13:47:30 +0000 2015,2,0,RT @niedzielskiadam: https://t.co/YK9gFheNwW I made this mistake myself #EmberJS @edeblois
+110,648490988952915968,Mon Sep 28 13:34:34 +0000 2015,1,0,RT @ferroariel: #emberjs - How to Load Multiple Models in a Single Route http://t.co/uMOtczkgvL
+111,648490587125972992,Mon Sep 28 13:32:59 +0000 2015,1,0,RT @RyanLaBouve: Pagination with #emberjs and #rails! I made a youtubes to go along with it too! (if you're into that) http://t.co/WdOgcTCi…
+112,648484238820401152,Mon Sep 28 13:07:45 +0000 2015,0,2,"""#ES6 Promises in Depth"" #javascript http://t.co/d6JyrYtOPA"
+113,648483915577995264,Mon Sep 28 13:06:28 +0000 2015,0,0,"""#AngularJS Debugging tutorial""  #javascript http://t.co/wdBSE8dw4e"
+114,648347730071293952,Mon Sep 28 04:05:19 +0000 2015,1,0,RT @EmberA2D: Liquid Tether - Combines ember-tether and Liquid Fire for awesome tethered animated modal dialogs via /r/emberjs http://t.co/…
+115,648178407730102272,Sun Sep 27 16:52:29 +0000 2015,9,0,RT @Alessio_Vinerbi: New experiment of simulated 3D environment with #JavaFX and #realsense 3D camera written with my friend @skuttik http:…
+116,648121118012772353,Sun Sep 27 13:04:50 +0000 2015,0,2,"Ember.js NYC, September 2015: ""Things That Glimmer"" with @EmberSherpa, and more"" #emberjs https://t.co/ZGdGgsAJ2T"
+117,648118183296020480,Sun Sep 27 12:53:11 +0000 2015,0,0,"""North America runs out of IPv4 addresses"" http://t.co/sAgeo5zHuH"
+118,647924439527485440,Sun Sep 27 00:03:18 +0000 2015,5,3,"""Using Docker to run Node.js on a Raspberry"" #nodejs #docker #raspberrypi https://t.co/aoXxL2JujC"
+119,647924184799010817,Sun Sep 27 00:02:18 +0000 2015,1,0,"""Expressive ES6 features that shine in Node.js 4.0"" #nodejs #javascript http://t.co/7qhFDhrLIv"
+120,647923991626182656,Sun Sep 27 00:01:32 +0000 2015,2,1,"""Learning About Node Streams"" #nodejs #javascript http://t.co/nlNTIYPGFE"
+121,647893662387429376,Sat Sep 26 22:01:01 +0000 2015,2,1,https://t.co/9uxHYOPoC4 I recommend this.. @frnnd_sgz: @tomdale any good tutorial about restAdapter for ember #emberjs
+122,647884191242194944,Sat Sep 26 21:23:22 +0000 2015,3,0,RT @oh3kqd: A JavaFX Client API for Google Maps Services - Visually display Google Maps in your JavaFX application! https://t.co/q82XLdYpUx
+123,647875172028968960,Sat Sep 26 20:47:32 +0000 2015,0,1,Not much #javafx love though… ;(  “@carldea: Take a look at all the new stuff coming to Java 9! http://t.co/Sk4r4dO2hq”
+124,647874778825560064,Sat Sep 26 20:45:58 +0000 2015,0,1,Another thing I learned about today..“@EmberSherpa: “Gist backed twiddles are super great!” #GlobalEmberMeetup https://t.co/wGeF2GKBjC”
+125,647874369532751872,Sat Sep 26 20:44:21 +0000 2015,1,2,"Thanks for the demo. I’m going to start using it now.. “@JordanHawker: Ember-CLI-Opinionated 
+#GlobalEmberMeetup
+http://t.co/3XGPDzz7EZ"
+126,647873893659639808,Sat Sep 26 20:42:27 +0000 2015,1,4,Big thanks to @EmberSherpa for organizing another #GlobalEmberMeetup and also a big thanks to the presenters. #emberjs
+127,647848140675002368,Sat Sep 26 19:00:07 +0000 2015,0,0,YouTube's Completely Ad-Free Subscription Likely To Launch October 22nd With The Name YouTube Red http://t.co/KlXcr419sF #android
+128,647847827897389057,Sat Sep 26 18:58:53 +0000 2015,0,0,"Very cool... The Highest Resolution Color Image of Pluto Yet Released
+
+http://t.co/JRgAINrH4y"
+129,647842662926520320,Sat Sep 26 18:38:21 +0000 2015,0,0,@leojh Thanks for the talk on JS Essentials. JS is relatively new to me and I learned some things for sure.
+130,647779230135095297,Sat Sep 26 14:26:18 +0000 2015,0,0,"""How Chromium Works — Medium"" https://t.co/PKremKxZOn"
+131,647598073913323520,Sat Sep 26 02:26:27 +0000 2015,0,0,"""A Developer’s Journey into Linux Containers"" #docker https://t.co/iRw4hvTv1l"
+132,647596850984304641,Sat Sep 26 02:21:35 +0000 2015,13,0,"RT @newsyc250: Forcing suspects to reveal phone passwords is unconstitutional, court says http://t.co/SnWZAhTq3e (http://t.co/fnceWtCwdp)"
+133,647596140955721728,Sat Sep 26 02:18:46 +0000 2015,25,0,"RT @_ericelliott: Book in progress for 2016: ""Learn JavaScript Universal App Development with Node, ES6, &amp; React"": https://t.co/nudSXwlHPt …"
+134,647595862533627904,Sat Sep 26 02:17:40 +0000 2015,0,0,I’m sorry about that.. “@trek: I've been in Canada for almost 30 minutes and nobody has apologized yet.”
+135,647595221048426496,Sat Sep 26 02:15:07 +0000 2015,42,0,"RT @JonathanGiles: Great to see Oracle proposing to bring the JDK to modern mobile platforms like iOS, Android and Windows Mobile: http://t…"
+136,647578227364380672,Sat Sep 26 01:07:35 +0000 2015,0,1,It’s been a long path to understanding #emberjs but I’m getting there. I’m very impressed with how powerful #ember-data is
+137,647501337886720000,Fri Sep 25 20:02:03 +0000 2015,0,0,"""Jessie on Raspberry PI 2 with Docker and Chromium"" #raspberrypi #docker https://t.co/J1NdGE6S0W"
+138,647495852869615616,Fri Sep 25 19:40:15 +0000 2015,1,0,RT @EmberA2D: [Seeds.js] Example Ember 2 App with Authentication and Admin Section via /r/emberjs http://t.co/L8lfIESRH2 #emberjs #EmberA2D
+139,647395053476843520,Fri Sep 25 12:59:43 +0000 2015,0,0,"""#ES6 Modules in Depth"" #javascript http://t.co/grEalGyZSV"
+140,647394928620769280,Fri Sep 25 12:59:13 +0000 2015,0,0,"""China's replacement for Windows is an XP ripoff"" http://t.co/YQGoW8vkDv"
+141,647253791901745152,Fri Sep 25 03:38:24 +0000 2015,3,0,"RT @JordanHawker: Why I'm excited about the potential of Ember-CLI-Opinionated:
+
+http://t.co/mFoBVWZTw9
+
+Find out more @ Saturday's Ember G…"
+142,647251720200810496,Fri Sep 25 03:30:10 +0000 2015,1,0,"RT @EventBrowseNY: Best NYC #Geek Event Today: 'Things That Glimmer"" with Ember Sherpa, and more' by @EmberNYC - http://t.co/7TZt46Ltxi htt…"
+143,646312527500963840,Tue Sep 22 13:18:09 +0000 2015,0,0,An Interview with Jonas Bonér #Java #vjug https://t.co/ALtXAKOx1t
+144,646312073685630976,Tue Sep 22 13:16:20 +0000 2015,0,0,"""Always be shippable | Dries Butler"" http://t.co/OZSoKaWNns"
+145,646311536030412800,Tue Sep 22 13:14:12 +0000 2015,0,0,"""Avoiding The Politics of Code Review""  http://t.co/YZKxNT2Pow"
+146,646311285982801921,Tue Sep 22 13:13:13 +0000 2015,0,0,"""Concurrency made easy with #Clojure and #Pulsar""  http://t.co/Q8wLYwoOoz"
+147,646310921078308864,Tue Sep 22 13:11:46 +0000 2015,0,0,"""Customising Cross-Browser Range Inputs with #CSS and #JavaScript""  https://t.co/z75OpeYaqE"
+148,645947948405157888,Mon Sep 21 13:09:26 +0000 2015,1,0,RT @web_on_devices: @ScripttheWeb @RDarrylR Cool! Here's my guide + reading a light sensor and switching an LED with Node.js and the PI htt…
+149,645698997470924804,Sun Sep 20 20:40:12 +0000 2015,0,0,I sure wish they didn’t force all these malware detection apps on colaptops. It really makes a noticeable difference coding. :(
+150,645662306219634688,Sun Sep 20 18:14:24 +0000 2015,0,1,"JAX-RS: Returning A List Of Instances, Problem and Solution @AdamBien #Java #jersey http://t.co/hSwZKacEyI"
+151,645649394872680448,Sun Sep 20 17:23:05 +0000 2015,1,0,"RT @savics: The combination of Vagrant, Virtual box and Homestead makes the life of a web programmer easier. #FeelsGood"
+152,645649001191047168,Sun Sep 20 17:21:32 +0000 2015,4,0,RT @AllcountJS: Need to build simple #nodejs app with user management as an Excel replacement? Checkout our Student's classes demo at http:…
+153,645648381432303616,Sun Sep 20 17:19:04 +0000 2015,5,0,RT @tbeernot: Small blog post about the JFXtras presentation I submitted to conferences https://t.co/IxVo0xZFKe
+154,645648315200106496,Sun Sep 20 17:18:48 +0000 2015,3,0,RT @stevenschwenke: There is a repository with free JavaFX learning materials written by some coworkers and me. http://t.co/CDzTmjikmW  htt…
+155,645400272198496257,Sun Sep 20 00:53:10 +0000 2015,7,0,RT @GluonHQ: CharmListView: new control in town http://t.co/pxHpNlosx1 http://t.co/zktDEShgw2
+156,645382028163026945,Sat Sep 19 23:40:40 +0000 2015,4,2,An #iOS Overlay in #JavaFX https://t.co/IqOKy3Zt7M
+157,645381838546927616,Sat Sep 19 23:39:55 +0000 2015,0,0,"""Running #Drupal in #Docker | Mike Stiv""  http://t.co/IR3HJIW0l8"
+158,645379449542709248,Sat Sep 19 23:30:25 +0000 2015,3,0,"""Kotlin - functional programming"" #kotlin #java #jetbrains https://t.co/z1eqVNsETX"
+159,645368330124046336,Sat Sep 19 22:46:14 +0000 2015,0,0,@carldea never heard of that one but will check it out too. Thanks!
+160,645246619156242433,Sat Sep 19 14:42:36 +0000 2015,0,0,Maybe. It’s new to me. “@DkM_India: @RDarrylR lot more thing are coming probably you will those in microservice for SM”
+161,645243103801008128,Sat Sep 19 14:28:38 +0000 2015,1,0,"""Ractive.JS Events, Keypaths &amp; Observers"" #ractivejs #Javascript  http://t.co/RzysVkpQNY"
+162,645242325556326400,Sat Sep 19 14:25:33 +0000 2015,0,1,"""""CSS Secrets"" -- in #Sublime and #NetBeans IDE @GeertjanW https://t.co/EiqFwHETa1"
+163,645041753112707072,Sat Sep 19 01:08:32 +0000 2015,0,0,Think I’m going to start using #webstorm for my #javascript coding. I’ve always like #IDEA for #Java. Been using #vim and #sublime so far.
+164,644971403154845696,Fri Sep 18 20:29:00 +0000 2015,0,1,"""Implementing type-safe enums in JavaScript"" #javascript  http://t.co/Cz0T0b0UHi"
+165,644970432727138304,Fri Sep 18 20:25:08 +0000 2015,0,0,"""Mindful Programmer | Victor Savkin"" http://t.co/IDwlaWV9HT"
+166,644970094758465536,Fri Sep 18 20:23:48 +0000 2015,0,0,"""Dockerfile Instructions and Syntax"" #docker  https://t.co/4UYnYDTCax"
+167,644959941891981313,Fri Sep 18 19:43:27 +0000 2015,1,0,Really like #unirest. It is well designed and also a quick and easy way to add a rest client to #Java (and other) apps. Unirest.io
+168,644955525889703936,Fri Sep 18 19:25:54 +0000 2015,2,0,RT @monacotoni: @AdamBien talking about @DukeScript on http://t.co/VRjqsjLgj9 : https://t.co/c7CHbMlD5g
+169,644884133269897216,Fri Sep 18 14:42:13 +0000 2015,1,0,Optimizing JavaScript code for large data sets in AngularJS   http://t.co/ldl4jGQCLH #JavaScript #AngularJS
+170,644873871829569536,Fri Sep 18 14:01:26 +0000 2015,0,0,"""Use The #iOS Camera In Your React Native Mobile App"" #reactjs #Javascript  https://t.co/c84D4b2Kzx"
+171,644873441225502720,Fri Sep 18 13:59:44 +0000 2015,0,0,Updated monthly and yearly plans with #JetBrains Toolbox #intellij #java https://t.co/8UdvzvFirf
+172,644843993981779968,Fri Sep 18 12:02:43 +0000 2015,1,0,RT @Java_Buddy: JavaFX Transition Animation with Reflection effect: http://t.co/3oSRdDPLll via @YouTube
+173,644843909764415489,Fri Sep 18 12:02:23 +0000 2015,2,0,RT @bekwaminc: #JavaFX binding; ToggleButtons paired with EventFilters to become RadioButtons as in iOS Today/Notifications http://t.co/DB9…
+174,644670350534426624,Fri Sep 18 00:32:43 +0000 2015,1,1,"""74 - ember-modal-dialog"" #Emberjs  https://t.co/iKvrN3McZ3"
+175,644670190043590656,Fri Sep 18 00:32:05 +0000 2015,1,0,"""Thrift API Gateway. Part 1 "" #thrift #Microservices  https://t.co/LIwXcNr2MN"
+176,644527338152030208,Thu Sep 17 15:04:26 +0000 2015,0,0,Updated to #ios9 on my #ipad air2. So far so good. I like some of the changes
+177,644497682963152896,Thu Sep 17 13:06:36 +0000 2015,0,0,Thank you very much! https://t.co/AVtzfVHg0T
+178,644281029641965568,Wed Sep 16 22:45:42 +0000 2015,1,0,RT @john_sirach: Every #JavaFX enthusiast should keep an eye on this blog! https://t.co/aYYs41gePF
+179,644280986109251585,Wed Sep 16 22:45:31 +0000 2015,15,0,RT @hendrikEbbers: How to create the new AppleTV layered images with #JavaFX http://t.co/uy9XKX36fP
+180,644280940236161024,Wed Sep 16 22:45:20 +0000 2015,23,0,RT @robovm: RoboVM 1.8 released! Same day iOS 9/Xcode 7 support and much more! https://t.co/AE6OoJJits #androiddev #ios #java #lambdas #jav…
+181,644278009101332480,Wed Sep 16 22:33:42 +0000 2015,7,5,"""Layered images and icons with JavaFX"" #javafx @hendrikEbbers #java http://t.co/OhMvn9wbC2"
+182,644277549606961153,Wed Sep 16 22:31:52 +0000 2015,0,0,"""Rock and Roll With Ember 2 is coming soon! - Balint Erdi's blog"" #Emberjs #Javascript @baaz http://t.co/PbhB4WwrWr"
+183,644277224489684992,Wed Sep 16 22:30:35 +0000 2015,2,1,Ember Spotlight #1: Ember-Social @JordanHawker #Emberjs #Javascript  http://t.co/4vkhURz0RI
+184,644275130709864448,Wed Sep 16 22:22:15 +0000 2015,0,0,"""Where systemd and Containers Meet: Q&amp;A with Lennart Poettering"" #docker #coreos https://t.co/VLYZG59bZ6"
+185,644010438787645440,Wed Sep 16 04:50:28 +0000 2015,2,2,"""Installing Node.js v4.0.0 on a Raspberry Pi (All Models)"" #nodejs #raspberrypi http://t.co/GOT8wCWBqq"
+186,643972579917627392,Wed Sep 16 02:20:02 +0000 2015,0,0,"""Containers Vs. Config Management"" #docker #caas https://t.co/S8YwtZFQc7"
+187,643584828521054208,Tue Sep 15 00:39:15 +0000 2015,0,0,"Why Tablets Are Future of Computing, After All http://t.co/KMXh4bt0Fh"
+188,643583158093418496,Tue Sep 15 00:32:36 +0000 2015,2,0,"""Geertjan's Blog: Vimeo: ""Everything a Java Developer Should Know about the #JavaScript Landscape"""" #java  https://t.co/LaAjwACFmH"
+189,643583064040280065,Tue Sep 15 00:32:14 +0000 2015,0,0,"""Geertjan's Blog: YouTube: Debugging Multiple Languages Simultaneously in #NetBeans IDE 8.1""  https://t.co/REw6BV87qD"
+190,643582917747146752,Tue Sep 15 00:31:39 +0000 2015,0,0,"""#ThreeJS"" http://t.co/zM60FHau5X"
+191,643581981272358912,Tue Sep 15 00:27:56 +0000 2015,2,0,RT @EmberSherpa: Video: ember-grid by Bryan Crotaz at @EmberLondon http://t.co/kois69kcEe
+192,643426875847536640,Mon Sep 14 14:11:36 +0000 2015,3,0,"RT @johanvos: Introducing Gluon Cloud, the bridge between Java Client and Java Enterprise. Connects with your backend/cloud. https://t.co/6…"
+193,643426729248231424,Mon Sep 14 14:11:01 +0000 2015,1,2,"""Fit Any Backend Into Ember with Custom Adapters &amp; Serialized"" #Emberjs #Javascript  http://t.co/BhGh7ZVoHM"
+194,643426592543248384,Mon Sep 14 14:10:28 +0000 2015,0,1,"""The NFL meets the Internet of Things: Real-time tracking of every player"" #internetofthings  http://t.co/tPuKDsUMIP"
+195,643426347419734016,Mon Sep 14 14:09:30 +0000 2015,0,0,"""#Javascript, Grow up and Get Threaded https://t.co/spNUVGdk50"
+196,643408189921189888,Mon Sep 14 12:57:21 +0000 2015,2,0,"RT @winkler1: Well-done videos site with ReactJS, JS, EmberJS content: http://t.co/spJt4v4VXo. By @studiozeroco"
+197,643278387230826496,Mon Sep 14 04:21:33 +0000 2015,6,0,"RT @EmberWeekly: You've got Mail! Just sent out Issue 125 of @EmberWeekly filled with this week's #emberjs news.
+
+http://t.co/OhRw92kGke"
+198,643278311821475840,Mon Sep 14 04:21:15 +0000 2015,4,0,RT @javacodegeeks: #JavaFX Real-World Apps: Eurovision Broadcasting Union - #DesktopJava http://t.co/trjcswOXku
+199,643182125160792064,Sun Sep 13 21:59:03 +0000 2015,3,0,RT @sandy_carter: Getting Started with Node.js LoopBack Framework… http://t.co/fYijgtJBST

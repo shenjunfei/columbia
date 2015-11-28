@@ -1,0 +1,71 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,619180826102665216,Thu Jul 09 16:26:27 +0000 2015,1,0,There will always be naysayers in your workplace. Do not let them influence you.
+1,454451835948916737,Fri Apr 11 02:52:15 +0000 2014,0,0,"Some questions I ask at interviews: is there a qa process, code reviews, continuous integration? Describe the product and product teams?"
+2,450810682481442817,Tue Apr 01 01:43:37 +0000 2014,0,0,Take notes about everything during interviews. It will help in understanding the company and improve interview performance.
+3,435266586736226306,Mon Feb 17 04:16:55 +0000 2014,0,0,There are always the naysayers in a team. Don't let them influence your judgement.
+4,421157328520355840,Thu Jan 09 05:51:46 +0000 2014,0,0,You have more power than you think. Don't give it up so easily.
+5,417803273773408257,Mon Dec 30 23:43:57 +0000 2013,0,0,There is no need to be different for the sake of being different. Know objectively why being different makes a positive difference.
+6,400450662304972800,Wed Nov 13 02:30:52 +0000 2013,0,0,Do not be afraid to close unresolved tasks. Sometimes they may never be completed.
+7,398947534766223360,Fri Nov 08 22:57:59 +0000 2013,0,0,New developers are likely to replicate the same quality as the existing codebase. Quality code is likely to replicate itself to success.
+8,390188646034198529,Tue Oct 15 18:53:17 +0000 2013,0,0,Using a new technology is meaningless if you do not know why you are using it.
+9,380119534511747072,Wed Sep 18 00:02:13 +0000 2013,0,0,There is no need to try everything. Focus on a goal and research potential paths to obtain the goal.
+10,380118961158770688,Tue Sep 17 23:59:57 +0000 2013,0,0,Avoid the fallacy of multitasking yielding more productivity. Total output does not increase simply by working on many things at once.
+11,377528333359390721,Tue Sep 10 20:25:43 +0000 2013,0,0,"In your project, don't plan for the ""maybe they will want this"" requirements. Plan for the concrete requirements first."
+12,368428533074259969,Fri Aug 16 17:46:22 +0000 2013,0,2,Learn the context and follow up with appropriate demands
+13,366358259831025664,Sun Aug 11 00:39:50 +0000 2013,0,0,Taking every single opportunity is just as bad as taking zero opportunities.
+14,366110276275281920,Sat Aug 10 08:14:26 +0000 2013,0,0,"Maintaining a normal schedule not only works in survival situations, but also helps for delivering quality code in intense situations."
+15,364493638887149568,Mon Aug 05 21:10:30 +0000 2013,0,0,"Stick to the highest standards, whether it is your own or the company's."
+16,344920452986204160,Wed Jun 12 20:53:38 +0000 2013,0,0,What experiences apply to the job? Everything.
+17,340198764318953473,Thu May 30 20:11:20 +0000 2013,0,0,There are huge productivity benefits to co-location.
+18,322921063405219840,Sat Apr 13 03:55:55 +0000 2013,1,0,"When frustrations with people arise, maximize the human interaction. Don't minimize it."
+19,314513859207643136,Wed Mar 20 23:08:42 +0000 2013,0,0,There should be little reason to run live tests if you have comprehensive logging systems.
+20,304182314399825920,Wed Feb 20 10:54:49 +0000 2013,0,0,It is possible to be too cooperative with your team.
+21,296707440827838465,Wed Jan 30 19:52:21 +0000 2013,0,0,Delegate? Empower.
+22,288761094321889280,Tue Jan 08 21:36:24 +0000 2013,0,0,Credibility with your internal team is just as important as credibility with external customers. Don't cry wolf when there is none.
+23,288440233488437248,Tue Jan 08 00:21:25 +0000 2013,0,0,"If anyone labels a new feature request as an ""emergency"" they are lying. #relativity"
+24,279549920749420544,Fri Dec 14 11:34:29 +0000 2012,0,0,"Copying bad code from other projects is convenient, but still bad."
+25,275774607858995200,Tue Dec 04 01:32:44 +0000 2012,0,0,Urgency is relative.
+26,273967616958296068,Thu Nov 29 01:52:24 +0000 2012,0,0,Being busy can be a bad thing.
+27,273967360984100864,Thu Nov 29 01:51:23 +0000 2012,0,0,It is a red flag for a company or team when everyone is too busy to be bothered.
+28,261249944529293314,Wed Oct 24 23:36:55 +0000 2012,0,0,Start with models your team already knows and introduce changes slowly.
+29,261249499102580736,Wed Oct 24 23:35:09 +0000 2012,0,0,"Sort be feature, then objects."
+30,258026789849419777,Tue Oct 16 02:09:15 +0000 2012,0,0,The eternal battle between asking for help or doing it yourself.
+31,257581745313038336,Sun Oct 14 20:40:48 +0000 2012,0,0,Don't kid yourself; GUI tools are more convenient than command line.
+32,256588230974128128,Fri Oct 12 02:52:56 +0000 2012,0,0,"Even though you can organize files by directory structure, it still helps to have unique filenames across the entire project."
+33,255808880406315008,Tue Oct 09 23:16:04 +0000 2012,0,0,A professional opinion is still an opinion. #everyonehasone
+34,251791173633572864,Fri Sep 28 21:11:08 +0000 2012,0,0,It is impossible to understand 100% of the codebase
+35,244139185374629889,Fri Sep 07 18:24:52 +0000 2012,0,0,@itsjohncampbell would love for you to elaborate on the blood-letting cult and parables like mitsril/gorgolgar.
+36,241668313971843072,Fri Aug 31 22:46:30 +0000 2012,0,0,No change is minor
+37,238084959120797697,Wed Aug 22 01:27:32 +0000 2012,0,0,It is not enough to have a standard directory structure. Having a standard filename convention helps too.
+38,235151150679216128,Mon Aug 13 23:09:37 +0000 2012,0,0,I used to love primary key columns. Now I hate them. Starting to prefer natural keys.
+39,230965799572094976,Thu Aug 02 09:58:32 +0000 2012,0,0,Sometimes it pays to spell out every detail no matter how condescending the description may sound.
+40,227571825176092672,Tue Jul 24 01:12:05 +0000 2012,0,0,Try to handle the lowest level of exceptions as much as possible. It keeps the code clearer and easier to follow.
+41,225740504019644416,Wed Jul 18 23:55:04 +0000 2012,0,0,"Confusing code begets confused developers who, in confusion, contribute more confusion to the confusing code. #confusing"
+42,223878380154650624,Fri Jul 13 20:35:39 +0000 2012,2,0,"RT @angelamelick: It's impossible to unsubscribe from LinkedIn email updates, isn't it &gt;:("
+43,223235341979627520,Thu Jul 12 02:00:27 +0000 2012,0,0,Private methods are the easiest to refactor.
+44,223228646616342528,Thu Jul 12 01:33:51 +0000 2012,0,0,Always think twice before copying and pasting exact snippets of code.
+45,222502205570297858,Tue Jul 10 01:27:14 +0000 2012,0,0,Always delete unused code/files when checking in your work. It avoids future confusion.
+46,220247929301114880,Tue Jul 03 20:09:33 +0000 2012,0,0,"Preferred java date beans in descending order. Joda time, java.util.date, java.sql.date."
+47,217734838512402432,Tue Jun 26 21:43:25 +0000 2012,0,0,The easier it is to unit test the more inclined people are to test. Have a solid testing infrastructure and tests will quickly follow.
+48,213304532757774337,Thu Jun 14 16:18:58 +0000 2012,0,0,Don't rely on data quality when coding.
+49,212683202509283329,Tue Jun 12 23:10:01 +0000 2012,0,0,Sometimes it is hard to tell the difference between picking at bad code versus nitpicking.
+50,207890209671610369,Wed May 30 17:44:23 +0000 2012,0,0,Choose your first job wisely. It will become the foundation to your professional career.
+51,205834119752593408,Fri May 25 01:34:13 +0000 2012,0,0,"Even in development, know your audience when writing.  A user will not care about your technical buzzwords."
+52,205733214789185536,Thu May 24 18:53:15 +0000 2012,0,0,Just because someone wants to work until midnight every day does not mean you have to do the same.
+53,203623361853652992,Fri May 18 23:09:27 +0000 2012,0,0,It is possible to have too many levels of abstraction. It is also possible to abstract too much that your code loses all context and meaning
+54,203275765087875072,Fri May 18 00:08:13 +0000 2012,0,0,Remember to plan out a testing phase for your releases.  Many developers and tech leads forget about this crucial step!
+55,202819416004640769,Wed May 16 17:54:51 +0000 2012,0,0,"When you work for an organization, it is good to have organizational skills."
+56,202515517859315712,Tue May 15 21:47:16 +0000 2012,0,0,It's easier to believe than to think. Think about why new technologies and methodologies would benefit your team. Don't just believe in them
+57,202225973645680640,Tue May 15 02:36:43 +0000 2012,0,0,A good trick is to focus on an underlying goal when planning each release rather than have a potpourri of random changes.
+58,200785415408599041,Fri May 11 03:12:28 +0000 2012,0,0,Just fixed a bug by accident.  I feel like a superhero.
+59,200744381312024576,Fri May 11 00:29:24 +0000 2012,0,0,"When cleaning your cubicle with 409, wear gloves.  That stuff burns."
+60,200020059035418624,Wed May 09 00:31:12 +0000 2012,0,0,Work is a lot like multiplayer online gaming.  You get your fair share of trolls and try-hards.
+61,199587459510710272,Mon May 07 19:52:13 +0000 2012,0,0,Do not underestimate words.  They are powerful.
+62,198157547033739265,Thu May 03 21:10:15 +0000 2012,0,0,Chile rellenos are my weakness.  They fuel me for coding.
+63,198108918155718656,Thu May 03 17:57:01 +0000 2012,0,0,You can't just promote employees randomly.  You have to find replacements to fill in their previous jobs.
+64,198106133372731395,Thu May 03 17:45:57 +0000 2012,0,0,"Never forget about the users, no matter what kind of development you do.  Back-end changes ultimately affect the user."
+65,198104506205085696,Thu May 03 17:39:29 +0000 2012,0,0,Documentation can't always be generated.  Especially if the readers are non-technical or can't be bothered to parse a machine-made template.
+66,197848926907404289,Thu May 03 00:43:54 +0000 2012,0,0,"The ""can-do code ninja hacker"" attitude is useless without planning and forethought."
+67,197762751496589313,Wed May 02 19:01:28 +0000 2012,0,0,"Project management is a full-time job, but many developers take it lightly. I wonder why that is."
+68,197756696087633921,Wed May 02 18:37:25 +0000 2012,0,0,I always thought usability was intuitive to everyone since they most likely have used several programs in their life time.  I was wrong.
+69,197753454654013442,Wed May 02 18:24:32 +0000 2012,0,0,"Having a good front end/UI designer is essential.  Many development teams focus on the back end, but presentation is important!"

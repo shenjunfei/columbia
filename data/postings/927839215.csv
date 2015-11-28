@@ -1,0 +1,226 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669259241530765313,Tue Nov 24 21:00:12 +0000 2015,7,0,RT @RatScarer: Experimenting with some background ideas. #pixelart #alien #testtube #gamedev https://t.co/CNPzEorgcK
+1,668354818419908608,Sun Nov 22 09:06:20 +0000 2015,0,0,"@SilverSober thanks Lisa, hope you weren't effected by what happened last week"
+2,668212379499569156,Sat Nov 21 23:40:20 +0000 2015,4,0,#indiedev #animation #pixelart #conceptart #fanart #kickstarter #videogames #adventuregames #pointandclickgames #art https://t.co/0XmZamxOli
+3,667258406500237312,Thu Nov 19 08:29:35 +0000 2015,0,2,@MissTaxidermy @Verdius plus not ALL of our characters have single pixel limbs... https://t.co/JIvOSwt7Ur
+4,667257300600692736,Thu Nov 19 08:25:12 +0000 2015,0,2,"@MissTaxidermy @Verdius because it's so complex, and because we have hundreds of potential animations, we had to keep the art quite simple"
+5,667257097285984257,Thu Nov 19 08:24:23 +0000 2015,0,1,"@MissTaxidermy @Verdius arms, head, body all work independently, so gestures can blend seamlessly if the player walks, stands, runs etc"
+6,667256720075440128,Thu Nov 19 08:22:53 +0000 2015,0,1,"@MissTaxidermy @Verdius Like this for example: https://t.co/ICGBMiSH2J
+Our characters aren't single sprites, rather they are built of parts"
+7,667256441414242304,Thu Nov 19 08:21:47 +0000 2015,0,1,"@MissTaxidermy @Verdius The characters are like that partly because we like the style, but some also have complex gesture systems"
+8,667099221993111559,Wed Nov 18 21:57:03 +0000 2015,0,0,@swatpaz @CNUKTweets set about them
+9,667081180567703552,Wed Nov 18 20:45:21 +0000 2015,0,0,"@swatpaz @CNUKTweets did they ever get back to you on this? That's your episode, right?"
+10,667058791863689216,Wed Nov 18 19:16:23 +0000 2015,0,0,"@Kinmoku87 If it had the original actors doing the voices, it could be the best thing ever made."
+11,667055257835446274,Wed Nov 18 19:02:21 +0000 2015,2,16,"#indiedevs, what would be your dream project to work on? We'd love to make a Frasier #adventuregame. #IndieDevHour https://t.co/fYQC6kXRMK"
+12,666176945546264576,Mon Nov 16 08:52:15 +0000 2015,4,10,Lumino City from @State_of_Play has got to be one of the prettiest #adventuregames we've played in ever https://t.co/GNbVNVMVtE
+13,665595567184158720,Sat Nov 14 18:22:04 +0000 2015,7,20,#screenshotsaturday #indiedev #gamedev #alldev #pixelart https://t.co/ed5BVcJpeC
+14,664509087984545792,Wed Nov 11 18:24:47 +0000 2015,7,8,Photolion meditates in this latest clip from This is No Time for Games. #pixelart #gamedev #indiedev https://t.co/ed5BVcJpeC
+15,663009645825531904,Sat Nov 07 15:06:32 +0000 2015,0,0,@ukgamesfund What is required of a nominee? What would they need to provide and what kind of position would they need to hold? Thanks
+16,662694305354670081,Fri Nov 06 18:13:29 +0000 2015,1,1,Awwww yeeeah! https://t.co/GG6vA9r8Ry
+17,662548584710152192,Fri Nov 06 08:34:26 +0000 2015,0,1,"@ccontinisio May give it a go at some point though, only optimising now as a ""break"" from promotional stuff :)"
+18,662548276638523392,Fri Nov 06 08:33:13 +0000 2015,0,0,"@ccontinisio My understanding so far is that Fixed Update is called more times, for our purposes we haven't required that yet."
+19,662546325439946752,Fri Nov 06 08:25:28 +0000 2015,0,0,@ccontinisio We don't rely on physics in our game so we don't use FixedUpdate at all. Also avoiding using Update as much as possible.
+20,662430487340691457,Fri Nov 06 00:45:10 +0000 2015,2,4,I'll be damned #Unity3D - Performance improved 3 to 4 times by changing transform.position to rigidbody.position https://t.co/C440SY7yGu
+21,662278174554763264,Thu Nov 05 14:39:56 +0000 2015,0,1,Demetrios #Kickstarter ending soon... https://t.co/szgNzOC5Mm
+22,662183373566312448,Thu Nov 05 08:23:13 +0000 2015,0,2,"Well done, Mr @BertramFiddle!"
+23,661839136517525504,Wed Nov 04 09:35:21 +0000 2015,0,0,@herebefrogs @Pixel_Dailies This is cool!
+24,661815188123848704,Wed Nov 04 08:00:11 +0000 2015,4,5,https://t.co/NfC2I3Ba5z We also have a deviant art. #pixelart #conceptart #art #videogame https://t.co/j0g1VLOoQ8 https://t.co/6VVopmFSJ2
+25,661667470273548288,Tue Nov 03 22:13:12 +0000 2015,19,0,RT @retronator: Gorgeous artwork from This is No Time for Games by Not Quite Black and White (@notquitebw): https://t.co/PDfgAonxai https:/…
+26,661640411589447680,Tue Nov 03 20:25:41 +0000 2015,2,8,Hey #gamedev ers! What's the worst alternative name you've come up with for your #videogame? Not telling til you do https://t.co/jLiI726Jis
+27,661637447533522944,Tue Nov 03 20:13:54 +0000 2015,1,2,#gamedev #adventuregame #indiedev #kickstarter #pointandclick #animation #pixelart #webdev #alldev https://t.co/00KmryJw8H
+28,661636644475269120,Tue Nov 03 20:10:43 +0000 2015,2,5,Possibly This is No Time for Games' coolest article yet thanks to @Retronator https://t.co/pzguv7TtBX #videogame https://t.co/UwriB3Loqs
+29,661540125101449216,Tue Nov 03 13:47:11 +0000 2015,9,9,"Not quite as exciting as a His Dark Materials TV show, but here's a new screenshot #pixelart #indiedev #gamedev https://t.co/XsHbzU2N8P"
+30,661537700835696640,Tue Nov 03 13:37:33 +0000 2015,76,0,RT @Independent: His Dark Materials by Philip Pullman is finally getting a TV series https://t.co/hGbvWJMKD4 https://t.co/l49fMn7Br2
+31,661339975598886916,Tue Nov 03 00:31:51 +0000 2015,4,3,"Nice! Will retweet, hopefully will find the artist that way :) #animation #pixelart #conceptart https://t.co/ZiEgXfgvtv"
+32,661337648020201472,Tue Nov 03 00:22:37 +0000 2015,4,3,These guys are whiskers away from their #kickstarter target! #gamedev #animation #indiedev #videogame #adventuregame https://t.co/x4w0CWicLe
+33,661303999266729984,Mon Nov 02 22:08:54 +0000 2015,0,2,"@GryphonKnights @Official_marko @IndieGameLover We're kickstartering soon, feel free to sign up to the mailing list: https://t.co/yPW0q8nLD3"
+34,661303409975382016,Mon Nov 02 22:06:34 +0000 2015,0,2,@GryphonKnights @Official_marko @IndieGameLover Glad to hear it! It's in the works: https://t.co/GS75L8pue1 Not a Galactica game mind :)
+35,660857946721660928,Sun Nov 01 16:36:27 +0000 2015,36,0,RT @Official_marko: The Power of Pixel Art : #pixelart  galactica https://t.co/uxLpYB9tDE
+36,660856869553074178,Sun Nov 01 16:32:10 +0000 2015,0,1,"@Official_marko we made this, if you like it, please check out the game we're working on"
+37,660257433655377925,Sat Oct 31 00:50:13 +0000 2015,0,0,"@ben_304 Quite like the sound of some of them, and I remember thinking Void and Meddler looked cool. Might give it a go. Cheers."
+38,660254219824402432,Sat Oct 31 00:37:27 +0000 2015,0,0,@ben_304 What are the others? Would you recommend any of them?
+39,660251839665950720,Sat Oct 31 00:28:00 +0000 2015,0,0,"@ben_304 Not a bad thing. If he wanted to tell a story in a game-like way, but not as a GAME, I'd be interested in that. It's a cool concept"
+40,660251229906432000,Sat Oct 31 00:25:34 +0000 2015,0,1,"@SixFootGelfling Some of the shots were very cool, I'd have liked to see more of it."
+41,660248968878800896,Sat Oct 31 00:16:35 +0000 2015,0,0,"@ben_304 I heard they wanted to use this to fund more. I kinda hope they do, because expanded upon this could be really good"
+42,660247760445284352,Sat Oct 31 00:11:47 +0000 2015,0,0,@ben_304 The suited man? I saw that. I thought that was going to be the actual start...
+43,660243634160291841,Fri Oct 30 23:55:23 +0000 2015,0,1,Just finished(?) Murder by Peter Moorhead. Anyone got any thoughts? I only heard about it half an hour ago and thought it looked really good
+44,660194676620832768,Fri Oct 30 20:40:51 +0000 2015,14,0,"RT @Doublea1M: Getting fit for Halloween...
+#pixelart #Halloween https://t.co/X172JmV4C0"
+45,660187205340655617,Fri Oct 30 20:11:10 +0000 2015,0,0,"@AjmalRizni looks good (ie. Free). I was looking at Screenflick from @araeliumgroup, anyone tried it?"
+46,660184255650267142,Fri Oct 30 19:59:26 +0000 2015,2,1,"I'd like to do a video of my #pixelart painting process, but QuickTime screen cap slows down my Mac. Any suggestions? #indiedev #gamedev"
+47,659890273888157701,Fri Oct 30 00:31:16 +0000 2015,3,0,Glad we started looking into localisation costs this week :) #gamedev #adventuregame #alldev https://t.co/oKitfPkntS
+48,659503867382534144,Wed Oct 28 22:55:49 +0000 2015,0,0,@LastRealGamer and there's a bit about the game at https://t.co/aEikEN1IHh
+49,659503697689317376,Wed Oct 28 22:55:09 +0000 2015,0,0,"@LastRealGamer It is indeed, if you're interested in early backer rewards we have a mailing list https://t.co/HuoWSH0UKC"
+50,659454181929934848,Wed Oct 28 19:38:23 +0000 2015,5,11,Next week's #Unity3D scene for the #Kickstarter trailer. #ConceptArt #PixelArt #GameDev #IndieDev #AdventureGames. https://t.co/QQaa9XMJwH
+51,659389552109461504,Wed Oct 28 15:21:34 +0000 2015,0,3,@notquitebw #ConceptArt from https://t.co/GS75L8pue1 https://t.co/inKg3aHsr5
+52,659386763228663808,Wed Oct 28 15:10:29 +0000 2015,0,0,"@PyroInsane Thanks duderino, these aren't for people to see in the main feed though, just for if people view the replies."
+53,659385368593215488,Wed Oct 28 15:04:57 +0000 2015,4,11,@notquitebw https://t.co/gxQaeLZaAF https://t.co/1hVLDISTMM
+54,659383585934331904,Wed Oct 28 14:57:52 +0000 2015,3,8,"#Unity3d Edit colour, sorting layer and sorting order on grouped sprites https://t.co/n5naWu8ule  #gamedev #indiedev https://t.co/KaEHPccFXX"
+55,659382590567292929,Wed Oct 28 14:53:54 +0000 2015,0,0,@DetectivTuesday cheers!
+56,659382025812512772,Wed Oct 28 14:51:40 +0000 2015,2,2,@notquitebw Our #PixelArt #Animation #tutorial now over 10000 views: https://t.co/jVsh7AVn4k … #art #videogames #gamedev #indiedev #alldev
+57,659381825018724352,Wed Oct 28 14:50:52 +0000 2015,7,5,@notquitebw #Kickstarter coming soon! https://t.co/Enx2HEoi3h
+58,659381491621826560,Wed Oct 28 14:49:32 +0000 2015,64,83,Please help us spread the word about our new #adventuregame https://t.co/GS75L8pue1 #kickstarter #indiedev #pixelart https://t.co/NgkykDSMx0
+59,658940997649506304,Tue Oct 27 09:39:11 +0000 2015,3,6,Our #PixelArt #Animation #tutorial now over 10000 views: https://t.co/jVsh7BcYsU #art #videogames #gamedev #indiedev #alldev
+60,658937380972417024,Tue Oct 27 09:24:48 +0000 2015,11,12,Concept for our most recent #Kickstarter trailer shot: https://t.co/b3DBC8p6j6 #pixelart #adventuregame #indiedev https://t.co/XiMFKf7bEb
+61,658746007094730752,Mon Oct 26 20:44:21 +0000 2015,0,0,@nerdtimeblog thanks!
+62,658745460237168641,Mon Oct 26 20:42:11 +0000 2015,0,1,@heresthebear it is indeed! Here's our mailing list if you'd like to be notified when Kickstarter is about to launch https://t.co/iLDxcxzzwp
+63,658651816259899392,Mon Oct 26 14:30:04 +0000 2015,3,1,Here's the general idea behind Flo's torch from our last video (https://t.co/F7DXZIr0X0). #gamedev #indiedev #alldev https://t.co/y7Z5xHuRyU
+64,657959754321547264,Sat Oct 24 16:40:04 +0000 2015,0,0,@talecrafter cheers!
+65,657941057489899520,Sat Oct 24 15:25:46 +0000 2015,8,14,"Testing out lighting in today's #screenshotsaturday. Video: https://t.co/xpuWijvOBO
+#indiedev #gamedev #pixelart https://t.co/9jFxDX3fDR"
+66,657598352226414592,Fri Oct 23 16:43:59 +0000 2015,5,0,"RT @foad_alison: NEW BLOG: https://t.co/moCqVJCzzy Indie adventure game ""This Is No Time For Games"" in development by @notquitebw #indiedev…"
+67,657334028119494656,Thu Oct 22 23:13:39 +0000 2015,6,2,Edited this #madewithunity script to allow you to edit multiple sprite renderers at runtime too #gamedev #indiedev  https://t.co/I20gGjBZan
+68,657216188058091520,Thu Oct 22 15:25:24 +0000 2015,26,0,RT @heyjenbartel: Beautiful fantasy illustrations by Charles Vess: https://t.co/x51TqIfT9n https://t.co/4DgpWRKvlK
+69,656485150222479361,Tue Oct 20 15:00:31 +0000 2015,1,12,"#Unity3d Edit colour, sorting layer and sorting order on grouped sprites https://t.co/n5naWtQSWE #gamedev #indiedev https://t.co/GS0y1p5zsW"
+70,656223000040095744,Mon Oct 19 21:38:49 +0000 2015,1,5,ThankU new #kickstarter mailing listers who signed up here: https://t.co/yPW0q86aet - makes 1 am #gamedev ache less https://t.co/8zNS6zVaHI
+71,655867311602069504,Sun Oct 18 22:05:27 +0000 2015,29,0,RT @MatthewJFrith: Final art dump. Background for the prequel to Foundations http://t.co/NpFYsTiCKR #pixelart http://t.co/jOFqAyvqrB
+72,655545191407992832,Sun Oct 18 00:45:27 +0000 2015,2,0,"RT @_RomanoValerio: I'm sick and it reminded me why I got into #gamedev . That's right, money... Anyone remember this? https://t.co/XxD5b2Y…"
+73,654508645003169792,Thu Oct 15 04:06:35 +0000 2015,3,2,Romano shared a vine of the #adventuregame he made for his girlfriend's birthday #indiedev #animation #alldev #games https://t.co/xKKCyREuBj
+74,654264494210813952,Wed Oct 14 11:56:25 +0000 2015,0,0,@murad_acca PC and Mac for now. Maybe Linux and iOS depending on funding. Maybe other platforms depending on how successful it is :)
+75,653983285090062336,Tue Oct 13 17:19:00 +0000 2015,0,1,"Help these guys get their game on Steam, free demo! https://t.co/RrOYwhHtA0"
+76,653608931932155906,Mon Oct 12 16:31:27 +0000 2015,0,0,"@murad_acca Yep. Windows and Mac are planned at the moment, maybe other platforms too (TBD)."
+77,653106206794469376,Sun Oct 11 07:13:48 +0000 2015,1,5,Check out the new #adventuregame Kickstarter from @BertramFiddle! https://t.co/zO4VpL9RMM
+78,651434410512920576,Tue Oct 06 16:30:41 +0000 2015,0,1,"Demetrios: The Big Cynical Adventure for PC is LIVE on Kickstarter! Check it out http://t.co/n9EQqEo9Pr
+
+#pointandclick #adventuregame"
+79,650644703495475200,Sun Oct 04 12:12:40 +0000 2015,0,1,@PsycheMax Cheers!
+80,648901607158063104,Tue Sep 29 16:46:13 +0000 2015,0,1,@zombiekicker You have a weird head. Cool though!
+81,648901203540226049,Tue Sep 29 16:44:37 +0000 2015,6,11,A #storyboard from today's http://t.co/aEikEMK7PJ #kickstarter prep. #gamedev #indiedev #alldev #adventuregame #art http://t.co/N6qwx0u4Mv
+82,648786089595940865,Tue Sep 29 09:07:12 +0000 2015,4,0,RT @_RomanoValerio: #OneNote #doodles I do as a break from #gamedev . Robert died smiling... http://t.co/HeoLlPof0a #indiedev http://t.co/4…
+83,648747920972509184,Tue Sep 29 06:35:32 +0000 2015,0,1,"@Uhfgood Our shorthand/ cool/ pretentious way to say we're modernising the classic pixel art point and click, kickstarter will reveal all!"
+84,648645371074334720,Mon Sep 28 23:48:02 +0000 2015,5,9,Chris did some #artwork while we tested our engine last year #gamedev #indiedev #alldev #art #pixelart #adventuregame http://t.co/UsJNaDiscG
+85,648626533083578368,Mon Sep 28 22:33:11 +0000 2015,4,1,Thanks @Indiezonegaming ! #gamedev #indiedev #adventuregame #kickstarter #alldev #pixelart #art #animation #okstop https://t.co/tIlv8Fb33n
+86,648515255736401920,Mon Sep 28 15:11:00 +0000 2015,0,3,Just 20mins until NASA announces aliens!
+87,648494362830180352,Mon Sep 28 13:47:59 +0000 2015,3,2,"This guy has some great stuff to say about adventure games, worth checking out #gamedev #adventuregame #indiedev https://t.co/gKjBts4KtM"
+88,648493843290132480,Mon Sep 28 13:45:55 +0000 2015,0,1,@DJKillerKitsch @killer_kitsch This looks like an amazing bomb.
+89,648493375449079808,Mon Sep 28 13:44:03 +0000 2015,16,0,RT @TheAstroCrew: Best Story. Best Visuals. Best Sound. Three awards for Ethan Carter at indie/retro festival #PixelHeaven 2015 😊 http://t.…
+90,648493302371721216,Mon Sep 28 13:43:46 +0000 2015,0,0,@TheAstroCrew Really want to play this! The success of this game is how we justified our game's stupidly long name to ourselves :)
+91,648485865740759040,Mon Sep 28 13:14:13 +0000 2015,1,1,"@AlcatrazLondon Hey! We both were Amiga 500 children, first game was probably Fun School or something educational http://t.co/nqJjOmRbSr"
+92,648448369938014208,Mon Sep 28 10:45:13 +0000 2015,4,0,"RT @PocketTactics: Your next great puzzle fix, The Room 3, is done and should be on the App Store in  4-5 weeks, says @Fireproof_Games http…"
+93,648252091178348544,Sun Sep 27 21:45:17 +0000 2015,84,92,Please help us spread the word about our new #adventuregame http://t.co/GS75L8pue1 #kickstarter #indiedev #pixelart http://t.co/WcfFxybPBB
+94,648211787247144960,Sun Sep 27 19:05:07 +0000 2015,0,0,@pyrofreddy115 howdy ;)
+95,648154387412594689,Sun Sep 27 15:17:02 +0000 2015,4,8,What's everybody doing? We're on our second #kickstarter trailer animatic for http://t.co/aEikEMK7PJ #gamedev #art http://t.co/nPdzkhA40m
+96,647728282994110464,Sat Sep 26 11:03:51 +0000 2015,0,0,@jimm1984 not bad. You?
+97,647711187006787584,Sat Sep 26 09:55:55 +0000 2015,9,13,"Not quite #screenshotsaturday images, but here’s some storyboards from This is No Time for Games #indiedev #gamedev http://t.co/rQGU8nR8CP"
+98,646627347668439040,Wed Sep 23 10:09:08 +0000 2015,6,7,Discarded room layout for the arcade from http://t.co/aEikEN1IHh #indiedev #gamedev #pixelart #concept #kickstarter http://t.co/butlapuSyx
+99,646359387011837952,Tue Sep 22 16:24:21 +0000 2015,7,3,Working on  #conceptart for http://t.co/aEikEN1IHh . A video of our process for the island: http://t.co/0MyIZilYUR  #gamedev #pixelart
+100,646100003161808897,Mon Sep 21 23:13:39 +0000 2015,0,0,"@imdragonic @TheIndieSloth Seriously though, is there a website we can find out more about it?"
+101,646093399070633984,Mon Sep 21 22:47:24 +0000 2015,0,0,@imdragonic @TheIndieSloth What the hell is this beautiful thing?
+102,646011234266017792,Mon Sep 21 17:20:55 +0000 2015,0,0,"@EllitopiaMC thanks, we're looking for actors who can convey a wide range of emotions, so we really need to see dramatic acting voicereels."
+103,645895974527860736,Mon Sep 21 09:42:55 +0000 2015,0,2,"Male and female #voiceactor showreels wanted for #adventuregame #actingjob, UK only for now, unless you're @TonyPlana http://t.co/0ufmpUw4Hi"
+104,645604023823941633,Sun Sep 20 14:22:48 +0000 2015,6,9,What's Nicolas Cage doing in the last express? #adventuregame #nicolascage #pointandclick #gamedev #comedy #horror http://t.co/ZQuMOSxzf9
+105,644952481672339456,Fri Sep 18 19:13:48 +0000 2015,0,0,@ThePixelRobot thanks
+106,644773569960869889,Fri Sep 18 07:22:53 +0000 2015,0,0,@EllitopiaMC Feels like its ok so long as you play it when it comes out :D
+107,644301539335622660,Thu Sep 17 00:07:12 +0000 2015,1,3,Before #gamedev I used to put fart sounds on #Ooglies https://t.co/pDBCbL8vQW #BBC #tv #animation #sound #sounddesign http://t.co/s553Ny3ARn
+108,643773492710797312,Tue Sep 15 13:08:56 +0000 2015,5,0,RT @mrcsbmr: #pointandclick makers! Dialogue System for #Unity3D is on sale in the asset store! #gamedev https://t.co/Xl7Ou10trj http://t.c…
+109,643545306504777728,Mon Sep 14 22:02:12 +0000 2015,1,11,#IfTheZombiesAttack #pixelart http://t.co/C1Kk8N7EdP
+110,643395323797340160,Mon Sep 14 12:06:13 +0000 2015,12,18,Developing some new rooms for This is No Time for Games today. #conceptart #gamedev #indiedev #pointandclick #tintfg http://t.co/D6aMZ0K4Zg
+111,643135224424079362,Sun Sep 13 18:52:41 +0000 2015,1,0,RT @ActionForKids: Dear #gamesindustry friends @GamesAid voting closes midday 14/09 Pls take a few mins to support us http://t.co/gOqfO7opP…
+112,642987626815991808,Sun Sep 13 09:06:11 +0000 2015,6,0,"RT @8bit_Teacher: mephistonx: RT SolZarghami: ChildrenOfMorta new enemy is WIP!
+#gamedev #indiedev #pixelart http://t.co/jHyOMa4dgI http://…"
+113,641881764798070784,Thu Sep 10 07:51:52 +0000 2015,0,0,"@ValiantCheese Thanks very much, may take you up on that at some point :)"
+114,641866083205541888,Thu Sep 10 06:49:34 +0000 2015,0,1,@ValiantCheese Definitely! Its not totally straightforward we discovered so we're going to revisit it when the game's nearly complete
+115,641408542877057024,Wed Sep 09 00:31:28 +0000 2015,38,0,"RT @PixelProspector: ""Children of Morta""
+-&gt;upcoming action rpg with #pixelart
+http://t.co/a8Qr2yc28h  @ChildrenOfMorta http://t.co/oMtHXD8W…"
+116,641380915151831040,Tue Sep 08 22:41:41 +0000 2015,0,1,Can't get enough of this guy #art https://t.co/ptCQqM6x0H
+117,641256795097407488,Tue Sep 08 14:28:28 +0000 2015,85,0,"RT @unity3d: Unity 5.2 brings the new Services Window, #UWP deployment &amp; much more! http://t.co/bUVTEq5BaT #Unity5 http://t.co/W6u4wV65TU"
+118,640988687589838848,Mon Sep 07 20:43:06 +0000 2015,0,2,@laspecas @kickstarter We'll have some nice stuff for early backers :)
+119,640988495213916160,Mon Sep 07 20:42:20 +0000 2015,0,0,@laspecas @kickstarter Before Christmas hopefully! To be among the first to know feel free to join our mailing list http://t.co/yPW0q8nLD3
+120,640988002844561408,Mon Sep 07 20:40:23 +0000 2015,0,1,@wizard_fu http://t.co/RrlUhRasM8
+121,640980320666415104,Mon Sep 07 20:09:51 +0000 2015,0,0,@erbasdev cheers!
+122,640663916360691712,Sun Sep 06 23:12:35 +0000 2015,2,0,"RT @5palmtechnique: Oh yeah. Dirt Nap #236 went up today! #extralife
+
+http://t.co/DwwApdE7DY"
+123,640660559814389761,Sun Sep 06 22:59:15 +0000 2015,6,7,Join us on the book of faces! https://t.co/XXkvZ2S1uC #adventuregame #gamedev #indiedev #pixelart #videogame #art http://t.co/5XZtMvLuN2
+124,640309015419985920,Sat Sep 05 23:42:20 +0000 2015,0,0,@IndigoFlash_Inc thanks
+125,640216646272086016,Sat Sep 05 17:35:17 +0000 2015,3,4,This evening's #gamedev is all about the music. #indiedev #soundtrack http://t.co/PyLJEU74pH
+126,640173187322544128,Sat Sep 05 14:42:36 +0000 2015,11,20,Supporting character concepts! #screenshotsaturday #gamedev #adventuregame #conceptart #pixelart #videogame #art http://t.co/ryyaDQyFCD
+127,639810578920435712,Fri Sep 04 14:41:43 +0000 2015,8,0,"RT @christianmaioli: Happy Birthday Monkey Island
+by @grumpygamer
+
+http://t.co/OMbjGS4kjp
+
+#gaming #gamedev http://t.co/IPhPX1eqfr"
+128,639809858951344128,Fri Sep 04 14:38:52 +0000 2015,4,7,A flash adventure game room we made long ago. Did I mention this is OLD? It's OLD! #adventuregame #pixelart #gamedev http://t.co/H9lcYlx5g5
+129,639573620969369600,Thu Sep 03 23:00:08 +0000 2015,1,3,Niiiiiiice #alldev https://t.co/8OPGmsmhRW
+130,639338712694964224,Thu Sep 03 07:26:42 +0000 2015,0,0,@GregKaperski thanks
+131,638868296977248256,Wed Sep 02 00:17:26 +0000 2015,12,22,The excitement! http://t.co/GS75L8pue1 is now a thing! #Webdev thanks to @poorbedford #gamedev #indiedev #alldev http://t.co/33zAclJS9C
+132,638804449163628544,Tue Sep 01 20:03:43 +0000 2015,0,0,"@ElMetallico1 Yeah. Between us we have a bizarre set of skills that lets us do pretty much everything ourselves. 
+And nothing else in life."
+133,638803777819144192,Tue Sep 01 20:01:03 +0000 2015,0,0,@ElMetallico1 thanks!
+134,638734826837835776,Tue Sep 01 15:27:04 +0000 2015,1,6,Web design meeting #webdev #web design #gamedev #indiedev #kickstarter http://t.co/coDDu87QJ1
+135,638149152224862208,Mon Aug 31 00:39:48 +0000 2015,1,1,"@doppioslash I got a good ending! Am scared to read it again in case it doesn't end well, but I'm morbidly curoius. The writing was great!"
+136,638135615549239296,Sun Aug 30 23:46:01 +0000 2015,4,3,This was awesome! #interactivefiction #gamedev #indiedev https://t.co/T2dHrz6Ibd
+137,638117742323855360,Sun Aug 30 22:35:00 +0000 2015,0,0,@JackShjt We're hoping to get it out there before Christmas. Working on a trailer just now so hope to be teasing more of that soon :)
+138,638115086465417222,Sun Aug 30 22:24:26 +0000 2015,0,1,@JackShjt Oh my no. Maybe next year if we have a successful kickstarter :) How about you?
+139,638113160466202624,Sun Aug 30 22:16:47 +0000 2015,0,0,"@JackShjt As an aside, I'm too scared to play horror games, but Through the Woods looks awesome!"
+140,638112002653745152,Sun Aug 30 22:12:11 +0000 2015,0,0,"@JackShjt ""That doesn't work."""
+141,638107845725130752,Sun Aug 30 21:55:40 +0000 2015,5,11,Things get exciting in the bedroom #discworld #adventuregames #pixelart #videogames #pointandclick http://t.co/K9hb390YfD
+142,637771152358682625,Sat Aug 29 23:37:46 +0000 2015,1,0,RT @TimOfLegend: @notquitebw @Jkooza That game you like is coming back in style.
+143,637770294212603904,Sat Aug 29 23:34:21 +0000 2015,0,1,@MadameBerry That's a cool character you've got there :)
+144,637730829356146688,Sat Aug 29 20:57:32 +0000 2015,13,17,Purty pixels https://t.co/M2FFGBT7XC #gamedev #indiedev #kickstarter #pixelart #animation http://t.co/52gEcWJsWr
+145,637726919857938432,Sat Aug 29 20:42:00 +0000 2015,4,12,Our pixel art animation tutorial: https://t.co/jVsh7BcYsU #animation #pixelart #art #indiedev #gamedev #alldev http://t.co/8JPFZX6TkT
+146,637722892336279552,Sat Aug 29 20:26:00 +0000 2015,1,4,@TimOfLegend @Jkooza http://t.co/ufwsJOISQp
+147,637718578523992064,Sat Aug 29 20:08:52 +0000 2015,7,0,RT @Gamekickerorg: This is No Time for Games from @notquitebw for #screenshotsaturday! #gamedev #indiedev #indiegame #pointandclick http://…
+148,637711738394251264,Sat Aug 29 19:41:41 +0000 2015,33522,0,RT @anmjmayyas: ピタゴラスイッチの今日のスレスレが進化してて気持ち良さ倍増している http://t.co/NmHffFsloJ
+149,637635176856743940,Sat Aug 29 14:37:27 +0000 2015,0,1,"@ErinAS Mr @BertramFiddle has already proven himself quite the gentleman to us, I think we shall let him off.
+
+This time..."
+150,637628882687000576,Sat Aug 29 14:12:26 +0000 2015,0,2,@jampants you weren't one of The Glasgow Boys were you? http://t.co/T6JVx7xqS5
+151,637545307228774400,Sat Aug 29 08:40:20 +0000 2015,0,1,"@Ptraci thanks, nice dress!"
+152,637225603335331840,Fri Aug 28 11:29:57 +0000 2015,0,0,@jwlacy thanks very much
+153,637015708317155328,Thu Aug 27 21:35:54 +0000 2015,0,0,"@swatpaz Never heard of that before, it looks really good. Which tier do you use? $75 a month seems quite expensive"
+154,636994799313264640,Thu Aug 27 20:12:49 +0000 2015,5,0,RT @DemetriosCowcat: Demetrios news on the #1 gaming site in France! http://t.co/Zpzb2xxrhM #gamedev #pointandclick
+155,636963630223896576,Thu Aug 27 18:08:58 +0000 2015,2,3,Best inventory item in an adventure game? Is there anything better? #alldev #indiedev #gamedev #adventuregame http://t.co/YNPBkTRTqu
+156,636946215993741313,Thu Aug 27 16:59:46 +0000 2015,0,0,"@swatpaz instead of working we watched all your Turbo Fantasy cartoons today, all amazing. What do you animate in?"
+157,636929247651758081,Thu Aug 27 15:52:20 +0000 2015,0,1,"@i_am_dio There may be a demo at some point, glad you are looking forward to it! This is us: http://t.co/4wChBI4wvE"
+158,636665903057371137,Wed Aug 26 22:25:54 +0000 2015,0,2,"I feel like whoever made this, did so for no other reason than to not include Batman... http://t.co/BhPkGTqsM6"
+159,636532696110514176,Wed Aug 26 13:36:35 +0000 2015,81,0,RT @Skatronixxx: Haha http://t.co/uNhvV3cwBG
+160,636529937550327808,Wed Aug 26 13:25:37 +0000 2015,2,0,"RT @BTengu: Our Season One game, Project Spaghetti is now available at itch.io!
+http://t.co/5wEtbrKpjZ"
+161,636527729756741632,Wed Aug 26 13:16:51 +0000 2015,1,4,Yaaaas! This is basically money... #cafe #tea #coffee #freebie http://t.co/iqYYmnNOqa
+162,636315125490823168,Tue Aug 25 23:12:02 +0000 2015,13,33,Chris has been arts-ing HARD on our trailer. Expect more of this level of awesome soon! #pixelart #gamedev #indiedev http://t.co/Y1lzjyCL2I
+163,636306583979466753,Tue Aug 25 22:38:06 +0000 2015,2,10,My friend who knows nothing about adventure games trying to understand our game #ClassicGamesDescribedBadly #indiedev http://t.co/kkUrUGXB2S
+164,636292930362306561,Tue Aug 25 21:43:51 +0000 2015,7,0,RT @SkyRiderTheGame: Check out our last post. A postmortem about our Kickstarter experience. #indiedev #gamedev http://t.co/GaMjeweblM
+165,636274830086643712,Tue Aug 25 20:31:55 +0000 2015,1,2,New Hyper Light Drifter trailer from @HeartMachineZ. Lookin good https://t.co/uG0smOqc1S
+166,636263082919096320,Tue Aug 25 19:45:14 +0000 2015,3,4,How we deal with the horror of game development multi-tasking: http://t.co/6BY67ZxrCo #indiedev #alldev #conceptart http://t.co/gU19I7togA
+167,636158884839845888,Tue Aug 25 12:51:12 +0000 2015,1,0,"RT @whimsicalguest: http://t.co/lF9lvGolCL
+
+Some new words and maybe even a bonus picture.  You've probably seen it before though."
+168,635932521386131456,Mon Aug 24 21:51:42 +0000 2015,1,3,I've saved hours thanks to the Custom Asset Utility found here - http://t.co/k5Ae5PIW2Z #shareagamedesigntip #gamedev http://t.co/lKMtZzsXb3
+169,635922937296633856,Mon Aug 24 21:13:37 +0000 2015,0,0,@humbit cool avatar you've got there
+170,635379806658523136,Sun Aug 23 09:15:25 +0000 2015,0,1,@ccontinisio It was originally for a gamejolt point and click adventure jam but ended up becoming our main project. Almost a year ago...
+171,635095043557208064,Sat Aug 22 14:23:52 +0000 2015,0,0,"@JackShjt thanks. Yeah, we act stuff out and film it, then use the footage as reference."
+172,635093831638081536,Sat Aug 22 14:19:03 +0000 2015,14,24,"PhotoLion's having a wee seat...
+
+#screenshotsaturday #pixelart #animation #gamedev #alldev #indiedev #indiegamedev http://t.co/Y9xDxv1EOF"
+173,635026912985878528,Sat Aug 22 09:53:08 +0000 2015,1,0,Any @Photoshop CS6 peeps know how to open PNG sequence as frame animation not video timeline? Converting video&gt;frame doesn't work #animation
+174,634844836806438912,Fri Aug 21 21:49:38 +0000 2015,0,1,@umutdervis you could try making the eyes the brightest shade so they stand out more than anything. I didn't notice them at first. Cool art
+175,634844674591752192,Fri Aug 21 21:48:59 +0000 2015,0,0,"@umutdervis thanks! Light purple, although... Unless you're limited to a certain number of colours..."
+176,634842011024146432,Fri Aug 21 21:38:24 +0000 2015,0,1,@umutdervis I like the second one best
+177,634841291625512960,Fri Aug 21 21:35:33 +0000 2015,54,0,"RT @cyangmou: Tower57 @kickstarter campaign http://t.co/yeqcdW26Hq 
+spread the word! @tower57devlog
+#indiedev #retrogaming #linux http://t.…"
+178,634832450036760576,Fri Aug 21 21:00:25 +0000 2015,2,1,Any #gamedev folk on Instagram? We just set up an account. #indiedev #pixelart
+179,634830497487691776,Fri Aug 21 20:52:39 +0000 2015,0,2,"@MixedBagGames @LastRealGamer @TheVitaLounge @IventGames @rain_games Thanks very much, appreciate the help!"
+180,634815497331191808,Fri Aug 21 19:53:03 +0000 2015,0,0,"@LastRealGamer @shahidkamal @TheVitaLounge @kickstarter no idea how to go about releasing on that, but who knows?"
+181,634748351796379648,Fri Aug 21 15:26:14 +0000 2015,0,0,@_Luxie pizza is on its way!
+182,634746716407918592,Fri Aug 21 15:19:44 +0000 2015,6,2,#gamedev and #conceptart in the pub. That's like 6 of my favourite things! #indiedev #alldev #art #animation http://t.co/zZPxqfBb2h
+183,634618741603631104,Fri Aug 21 06:51:13 +0000 2015,0,0,@annoform thanks
+184,633630169765445632,Tue Aug 18 13:22:59 +0000 2015,1,1,Cushion cover has arrived! From @kirstiecatlady who did some great fan art of our game. http://t.co/jC3e0Xic0n #art http://t.co/v6MjjlmeCQ
+185,633531084383342592,Tue Aug 18 06:49:15 +0000 2015,0,0,@Niveoluka @themeatly you'll probably need to zoom in
+186,633529904664023040,Tue Aug 18 06:44:34 +0000 2015,0,1,@joshuasmyth just a joke... We are using video footage as reference for the animation in the game. I WISH this was real.
+187,633266958650245120,Mon Aug 17 13:19:43 +0000 2015,2,3,Our yet to exist game is being used in a hilarious scam! http://t.co/t6NZhnsHso #gamedev #indiedev #alldev #comedy http://t.co/A8Dp6WB4TG
+188,633227448537247744,Mon Aug 17 10:42:43 +0000 2015,14,0,RT @BertramFiddle: If all goes to plan I will be showing a demo of Episode 2 at @MCMComicCon in London in October. Come and Fiddle. http://…
+189,628881685841625088,Wed Aug 05 10:54:12 +0000 2015,1,0,RT @kirstiecatlady: Not Quite Black and White fan art http://t.co/FW3wb55qWH #game #gouache #watercolour #fanart https://t.co/97FQB2UheR
+190,628838577108074501,Wed Aug 05 08:02:54 +0000 2015,6,8,Our first fan art! Courtesy of @kirstiecatlady http://t.co/QTiySSNUBw #gamedev #indiedev #art #fanart #alldev http://t.co/9HHOUbIrg7
+191,628109024731484160,Mon Aug 03 07:43:55 +0000 2015,0,0,@AppUnwrapper not about browsing the App Store and checking out prices of in-app purchases
+192,627959281103544320,Sun Aug 02 21:48:54 +0000 2015,0,1,"@AppUnwrapper the answer is ""yes, it definitely was there. And now it's gone"". Unless I had an extremely detailed, boring dream."
+193,627936931633102848,Sun Aug 02 20:20:05 +0000 2015,0,0,@AppUnwrapper no one answered me
+194,627894786020745216,Sun Aug 02 17:32:37 +0000 2015,0,0,Did I just dream a King's Quest game came out on iOS a week(ish) ago? Day 1 was free then you bought more days in packs. Can't see it now...
+195,627192986393296896,Fri Jul 31 19:03:55 +0000 2015,0,1,"@apollo2D what days are you going to be there, we might pop up and say hi"
+196,626024728319369216,Tue Jul 28 13:41:40 +0000 2015,65,0,RT @yerli_ninja: Interview:Viking Mushroom – Game Development Studio MobGe http://t.co/pIimlWygsg #indiedev #gamedev @MobgeGames #oyun http…
+197,626019363699707904,Tue Jul 28 13:20:21 +0000 2015,0,0,"@swatpaz thanks! Mostly just trying to make this game at the moment. We should try meet up at some point, chat about animating or something"
+198,625795135155085312,Mon Jul 27 22:29:21 +0000 2015,0,0,@swatpaz you up to much else these days?
+199,625794970671280128,Mon Jul 27 22:28:42 +0000 2015,0,0,@swatpaz Nice. We tried to pitch an Adventure Time comic to @boomstudios but they weren't too interested http://t.co/jIHMYwVOAL.

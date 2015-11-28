@@ -1,0 +1,278 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,666966814879039489,Wed Nov 18 13:10:54 +0000 2015,351,0,"RT @malyw: Chrome DevTools Update:
+Pane to toggle element classes
+@ChromeDevTools @ChromiumDev #chromedevsummit #chrome https://t.co/k8SJGB…"
+1,666711503417028608,Tue Nov 17 20:16:23 +0000 2015,32,0,"RT @ChromiumDev: Join @slightlylate as he discusses Progressive Web Apps - fast, app like experiences on web https://t.co/fVvThakzAv https:…"
+2,666711079561650177,Tue Nov 17 20:14:42 +0000 2015,146,0,"RT @martinkonicek: Under the hood of React Native: slides on code sharing, architecture and open source. https://t.co/mAdZYDF9zX https://t.…"
+3,666639479558508544,Tue Nov 17 15:30:12 +0000 2015,0,1,“Why is it so hard to find a front end developer?” by @illyism https://t.co/ttiAHGgWdn
+4,666638309020606464,Tue Nov 17 15:25:33 +0000 2015,0,0,Loading Web Fonts with the Web Font Loader https://t.co/AxgT3yxYbI via @real_css_tricks
+5,666264060258820096,Mon Nov 16 14:38:25 +0000 2015,0,0,The Cost of Frameworks https://t.co/7dM0wEuFYe
+6,665991954774249472,Sun Nov 15 20:37:10 +0000 2015,43,0,RT @toddmotto: Angular 1.5 introduces the .component() method! I refactored a 1.4 .directive() and explain the API differences: https://t.c…
+7,665113986346713088,Fri Nov 13 10:28:26 +0000 2015,6,0,"RT @RickByers: Slides from #blinkon5 talk @foolip and I just gave called ""Interoperability Case Studies"": https://t.co/BjCZYwuYl0"
+8,665111588630843393,Fri Nov 13 10:18:54 +0000 2015,0,0,Happy? Sad? Angry? This Microsoft tool recognizes emotions in pictures https://t.co/ASPljWRwBi
+9,665110060050288641,Fri Nov 13 10:12:50 +0000 2015,15,0,"RT @kollinz: Budapestiek, segítetek egy 5 perces kérdőív kitöltésével? 
+https://t.co/VLun8qtu6s
+(RT, hála, pacsi, &lt;3)"
+10,665109741719416832,Fri Nov 13 10:11:34 +0000 2015,0,0,A 360 Degree View of the Entire Netflix Stack https://t.co/1MGdX9WmYL
+11,661505796010860544,Tue Nov 03 11:30:46 +0000 2015,0,0,Flexbox For Interfaces All The Way: Tracks Case Study https://t.co/TtGRDCC4tj via @smashingmag
+12,660765189441241088,Sun Nov 01 10:27:52 +0000 2015,136,0,RT @GIFs: https://t.co/eRRpBjH3uk https://t.co/HeAXDAK6CE
+13,660764854156963840,Sun Nov 01 10:26:32 +0000 2015,34,0,"RT @w3c: Yes, web developers. We support you https://t.co/Aiyj0LsBkZ and you can support us doing so! https://t.co/S55gGbdD5M"
+14,660764689257914368,Sun Nov 01 10:25:52 +0000 2015,83,0,"RT @nodesecurity: We couldn't wait until Monday - Node Security 2.0 is available now.
+
+npm i nsp -g 
+cd your-fantastic-app
+nsp check
+
+https…"
+15,659798995208962048,Thu Oct 29 18:28:33 +0000 2015,42,0,"RT @simevidas: 😎 Firefox Nightly supports console.log messages from the server (via express-chrome-logger middleware, in my case): https://…"
+16,659312921986650112,Wed Oct 28 10:17:04 +0000 2015,68,0,RT @vuejs: Also wrote a high-level (re)introduction to Vue.js: https://t.co/FBB1VTEGXq
+17,658398761597718529,Sun Oct 25 21:44:31 +0000 2015,0,0,https://t.co/NzyD6sLy4C('name') #yeey #nemjoteszteketirni
+18,657648520812478465,Fri Oct 23 20:03:20 +0000 2015,33,0,RT @vuejs: https://t.co/0N2uGPU4QR now hosts the 1.0 docs! 0.12 docs now at https://t.co/7KED62eW52. npm install will now install 1.0 rcs b…
+19,657647251645448192,Fri Oct 23 19:58:17 +0000 2015,75,0,RT @jacobrossi: CSS mistakes -- we're sorry!https://t.co/5239HCHAg1
+20,653938199878877185,Tue Oct 13 14:19:51 +0000 2015,0,0,Using Web Fonts The Best Way (in 2015) https://t.co/5BlzwjMV0D #internetpotlas
+21,653900993525063680,Tue Oct 13 11:52:00 +0000 2015,398,0,RT @nodejs: We released Node.js v4.2.0 “Argon.” It is the first release covered under the new Long Term Support plan - https://t.co/JG4iI8m…
+22,651646522044608512,Wed Oct 07 06:33:32 +0000 2015,30,0,RT @rauschma: Free online books on ECMAScript 6: https://t.co/hYTe7cfWQq
+23,649531343446114304,Thu Oct 01 10:28:34 +0000 2015,13,0,RT @cssconfbudapest: 🔶🔶🔶 http://t.co/CNhLn5Ww09 🔶🔶🔶
+24,646454622895390720,Tue Sep 22 22:42:47 +0000 2015,0,0,Scroll Snapping with CSS Snap Points - https://t.co/FogcBgVWqe
+25,645267419641069568,Sat Sep 19 16:05:15 +0000 2015,563,0,RT @paul_irish: Curious about what triggers a reflow? I made a modern list of what forces a layout. https://t.co/LGLy0gFzMv
+26,641375416264060928,Tue Sep 08 22:19:50 +0000 2015,42,0,"RT @joemccann: Node 4.0 is here.
+
+https://t.co/8EEHvwDYtP"
+27,641273705981722624,Tue Sep 08 15:35:40 +0000 2015,3,5,"elkezdodott az iskola, szoval elkezdjuk mi is a #momecode-ot, ugyhogy gyertek, mert megint irto klassz lesz az egesz! http://t.co/IAy0KCwkbM"
+28,636511665308217344,Wed Aug 26 12:13:01 +0000 2015,0,0,ezer eve nem kaptam mar ilyen jo motivalo uzenetet http://t.co/2mjzmvDzT0
+29,628987424576786437,Wed Aug 05 17:54:22 +0000 2015,843,0,"RT @addyosmani: $ npm install -g perfschool 
+
+Web performance workshop in your command-line. Image optimisation, WebPageTest &amp; more! http:/…"
+30,628617637594009600,Tue Aug 04 17:24:58 +0000 2015,199,0,"RT @simevidas: Independent CSS Transform properties (translate, rotate, and scale) are available in Canary behind flag http://t.co/KKVWF6LV…"
+31,628616858992799744,Tue Aug 04 17:21:52 +0000 2015,0,1,"@szbarnabas ugyis visszanol, engedd el az egeszet!"
+32,623592636637646848,Tue Jul 21 20:37:25 +0000 2015,311,0,"RT @codepo8: Yes, this. http://t.co/21dPz6LGDf"
+33,616163138774372352,Wed Jul 01 08:35:14 +0000 2015,163,0,"RT @malyw: Chrome #DevTools Update:
+Layout Editor
+#chrome #webdev @ChromeDevTools 
+Available in Chrome 45.0.2444+ http://t.co/cJCj9VtRWI"
+34,616013712240066560,Tue Jun 30 22:41:28 +0000 2015,6,0,"RT @SteveMarshall: Good work, App Store updates.
+
+(I have allegedly yet to install 10.10.4, having installed it SEVEN times already.) http:…"
+35,615872175686426624,Tue Jun 30 13:19:03 +0000 2015,0,0,az ugynevezett port.internet http://t.co/DF530hCtmy
+36,615433613509820416,Mon Jun 29 08:16:22 +0000 2015,0,0,No Hope For Us - Támadnak a pixel-zombik! http://t.co/1t6pOnSyT1 #mitomuvek
+37,615304701962272768,Sun Jun 28 23:44:07 +0000 2015,0,0,"es a nap fenypontja: 
+Termék(ek) 
+FIFA 16 Pre-Order"
+38,615126125296132096,Sun Jun 28 11:54:31 +0000 2015,0,0,#bitbucket #LoveWins http://t.co/LPDsPD0viw
+39,613620118472523776,Wed Jun 24 08:10:11 +0000 2015,0,1,a kedvezmeny az kedvezmeny http://t.co/r19qV8O7lo
+40,613283362535555072,Tue Jun 23 09:52:02 +0000 2015,361,0,RT @simevidas: New in Chrome Canary: Network throttling is now available directly in the Network panel (via @teodragovic) http://t.co/lVxVj…
+41,613283067487199232,Tue Jun 23 09:50:52 +0000 2015,0,0,Building the Fast New MSN - https://t.co/PRBGpEX1Ua
+42,610285107568582656,Mon Jun 15 03:18:02 +0000 2015,4462,0,RT @UltraLinx: Every project ever. http://t.co/RStzFMrYH3
+43,606485298726453248,Thu Jun 04 15:38:57 +0000 2015,154,0,RT @codepo8: Can I use for terminal looks great! good job @sgentle https://t.co/Usq4WSGodc http://t.co/1UI0WfWZiH
+44,606485252631105536,Thu Jun 04 15:38:46 +0000 2015,222,0,"RT @addyosmani: #TotallyToolingTips Episode 2: dive into the new ES6 Promises inspector in @ChromeDevTools 
+
+https://t.co/wOB0lt81Ws http:/…"
+45,605779109306757124,Tue Jun 02 16:52:49 +0000 2015,1,1,Angular 1.4.0 - jaracimrman-existence http://t.co/8QkAO2HLHQ
+46,603900249120342016,Thu May 28 12:26:53 +0000 2015,28,0,"RT @smashingmag: Developers, take note: Picturefill updated to fix severe bug (affects the latest builds of WebKit and Edge). https://t.co/…"
+47,603572878064353280,Wed May 27 14:46:02 +0000 2015,0,0,"if (suti(""lastvaros"")) #idokep"
+48,603495391997362176,Wed May 27 09:38:08 +0000 2015,3,0,"ugye tudjatok, hogy holnap frontendmeetup a ustreamben?! webgl, teszteles, webaudio es minden faszasag! JERTEK! http://t.co/8THW2U3BrF"
+49,601329075085582336,Thu May 21 10:09:58 +0000 2015,1,0,RT @pety7439: Please vote on our latest WebGL project: http://t.co/azByU7rEbD #webgl #possible #vote
+50,600646381246775296,Tue May 19 12:57:11 +0000 2015,0,0,"p + p, p + .p, p + a, p + .a, .p + p, .p + .p, .p + a, .p + .a #zeneirasszelektorokkal"
+51,597693616228802560,Mon May 11 09:23:57 +0000 2015,0,1,Blowing up pixel art on the Web http://t.co/akTqyGsGKs
+52,597448089545396224,Sun May 10 17:08:19 +0000 2015,7,0,RT @hashtagcharity: #ITProsWhoCare from #momecode #frontend class delivered amazing projects to @SocialFelt @Children4Health and more! http…
+53,595927448509915136,Wed May 06 12:25:50 +0000 2015,2,0,RT @dotJS: We have our first ambassador @TPuski http://t.co/H7IykAJt6D. He’s  our voice in Hungary. Thanks Tamás!
+54,595925649157685248,Wed May 06 12:18:41 +0000 2015,4,0,"RT @hubudibu: 📢 @KIBU is looking for ""a CSS and HTML ninja, speaking JavaScript fluently"" http://t.co/X98wJJBdW2"
+55,595894958780985344,Wed May 06 10:16:44 +0000 2015,1,0,RT @_lacebo: EP-premier! Dope Calypso: Banzai! - Recorder http://t.co/pnhT5iEWL1
+56,593840888171896832,Thu Apr 30 18:14:35 +0000 2015,0,0,"fuhuhu, dotnetesek ismerkednek a jssel kliensoldalon; 'jquery helyett elem szelektalasra mi jo?'"
+57,593032163764916225,Tue Apr 28 12:41:00 +0000 2015,5,0,RT @sanjeyac: Nice book about js/es6 #js #es6 @getify  https://t.co/F7KkiAe3Im
+58,590915959097073664,Wed Apr 22 16:31:57 +0000 2015,2,0,RT @pbakaus: Launched our Web Showcase with spotlights and full-on case studies. Have a look! https://t.co/v0n5hEbtNO http://t.co/If9dk1o66O
+59,588275241060794368,Wed Apr 15 09:38:41 +0000 2015,4,0,"RT @frontendmeetup: at next week's meetup cohosted with UX Budapest: @caseorganic and @MrowcaKasia on happiness &amp; gluttony 
+http://t.co/aiX…"
+60,586149017425469440,Thu Apr 09 12:49:50 +0000 2015,4,0,"RT @thomasfuchs: OMG Finally a better tracking visualization, time is a line! (Amazon's mobile site) http://t.co/K1SulsqxMW"
+61,586116954752163840,Thu Apr 09 10:42:26 +0000 2015,0,0,http://t.co/rP6SOmbCpX diversity sponsorship! hajra! #jsconfbp
+62,585921887227772929,Wed Apr 08 21:47:18 +0000 2015,0,3,"ejha, ugy elszaladt az ido igy idokozben, hogy betoltottem a 3. evemet a mitoban"
+63,583655881839091713,Thu Apr 02 15:43:00 +0000 2015,0,0,"&lt;a class="""" href=""javascript:void(0)"" onclick=""event.preventDefault();setCategoryFilter('68',this);""&gt;"
+64,583629422554701824,Thu Apr 02 13:57:52 +0000 2015,23,0,RT @simevidas: The W3C Permissions API (promise-based) can now be tested in Chrome Canary w/ flag http://t.co/HVCMs1Snkl
+65,581194150416093184,Thu Mar 26 20:40:58 +0000 2015,453,0,"RT @kangax: Oh wow, DevTools debugger now shows local variable values... right inline? This is kind of brilliant. http://t.co/Z1C37PIOJj"
+66,580740302971002880,Wed Mar 25 14:37:32 +0000 2015,0,0,"@EggDice na, erre gondoltam tegnap http://t.co/lTNets9HIl"
+67,580719384643137536,Wed Mar 25 13:14:25 +0000 2015,6,0,"RT @frontendmeetup: jövő hétfőn ismét meetup! JS helyett Darttal és workshop nyertes @bencegolda meta-prezentációjával, a @LogMeIn -nél htt…"
+68,576663395182755840,Sat Mar 14 08:37:21 +0000 2015,318,0,"RT @addyosmani: Chrome 42 Beta is out! Fetch API, ES6 Classes, DevTools Cubic Bezier Editor, Push API &amp; more: http://t.co/6jDbeUHB46 http:/…"
+69,576663331622285312,Sat Mar 14 08:37:06 +0000 2015,254,0,RT @igrigorik: all the font files (TTF's) served by Google Fonts are now on GitHub: https://t.co/U1fIGOhUSq - hooray for open source!
+70,568035895527510016,Wed Feb 18 13:14:45 +0000 2015,1227,0,RT @igrigorik: HTTP/2 is done: http://t.co/uRdISX6WZH - hooray! Time to undo all of those HTTP/1 hacks: http://t.co/wlsw2QDOsr http://t.co/…
+71,567360776407887872,Mon Feb 16 16:32:04 +0000 2015,2,1,"erdekel az internet, esetleg epitened is? gyere el a #momecode-ra, es megtanitjuk, hogyan is kell ezt csinalni! http://t.co/2lWpV5lBlR"
+72,564913598909407232,Mon Feb 09 22:27:52 +0000 2015,0,0,"ma megtudtam, hogy mi a service es a factory kozott a kulonbseg: a servicenek egy objektuma van. #eh"
+73,561782288799641601,Sun Feb 01 07:05:09 +0000 2015,0,0,"""Simple CSS-Only Row and Column Highlighting"" http://t.co/hR4AMQuM8B"
+74,561255783141494784,Fri Jan 30 20:13:00 +0000 2015,0,0,is.js https://t.co/eatkMiLRpE
+75,558215439810330624,Thu Jan 22 10:51:46 +0000 2015,147,0,"RT @triblondon: New IE replacement to have ""Spartan/1"" UA string! No just kidding it names every browser except itself. https://t.co/dH70zx…"
+76,556596155954778112,Sat Jan 17 23:37:19 +0000 2015,39,0,RT @cinnamonboi: Ennyi :-D http://t.co/b3ZycsQUI1
+77,556595857601335296,Sat Jan 17 23:36:08 +0000 2015,24,0,"RT @rauschma: “ECMAScript 6 equivalents in ES5” by @addyosmani
+https://t.co/nWXYsJHtkE"
+78,556595293471670272,Sat Jan 17 23:33:53 +0000 2015,29,0,"RT @geteslint: ESLint v0.12.0 released: http://t.co/gHfop0RqmZ
+
+Partial ES6 support and full JSX support has landed!"
+79,556584039130619905,Sat Jan 17 22:49:10 +0000 2015,0,0,Announcing TypeScript 1.4 - TypeScript - Site Home - MSDN Blogs http://t.co/X3tKTlQqJO
+80,555698646428430337,Thu Jan 15 12:10:56 +0000 2015,0,0,New &gt; 5% in US query to select browsers by usage statistics in some country. https://t.co/MAjbs9Czkq
+81,555327686240120832,Wed Jan 14 11:36:52 +0000 2015,14,0,"RT @codepo8: FESS
+Fat Expanded Style Sheets 
+http://t.co/Uu0ZNRYxTY"
+82,555276876378562560,Wed Jan 14 08:14:58 +0000 2015,120,0,RT @mikeal: io.js 1.0.0 https://t.co/a6iQKKynKS
+83,554935065860640768,Tue Jan 13 09:36:44 +0000 2015,0,2,Collection of the Best Style Guides #webdesign http://t.co/DmXvrazHjN via @Saijo_George
+84,549249558749134849,Sun Dec 28 17:04:34 +0000 2014,2,0,RT @simevidas: Object instances with private data using ES6 WeakMap (example from http://t.co/IEjKczoLAc) http://t.co/gedYqyYFnf
+85,548812462158782464,Sat Dec 27 12:07:42 +0000 2014,0,0,Sass Compatibility http://t.co/J2SFpwmSVh
+86,548781873389121536,Sat Dec 27 10:06:09 +0000 2014,2506,0,RT @brunoborges: Learn #HTTP status codes in one image... :-) // via @abt_programming // http://t.co/9eB7JLqBxR
+87,546774094600232960,Sun Dec 21 21:07:57 +0000 2014,2042,0,RT @hipsterIE6: Can't wait to see you guys when you have to use your parents' computer this week.
+88,543356787735678976,Fri Dec 12 10:48:47 +0000 2014,7,0,RT @frontendmeetup: évzárjatok velünk és a többi meetuppal | end the year together with the Budapest tech meetups https://t.co/4cWLLtJJDs h…
+89,534263392949653505,Mon Nov 17 08:34:53 +0000 2014,0,0,An easier way of using polyfills https://t.co/U3gS9vD1Hj via @mozhacks
+90,531941282990800896,Mon Nov 10 22:47:39 +0000 2014,17,0,"RT @Meligy: Replacing angular with standard web technologies http://t.co/ynJohyphii
+
+#AngularJS #JavaScript #WebDev #Html5 #WebComponents"
+91,531571893074395136,Sun Nov 09 22:19:50 +0000 2014,92,0,"RT @h5bp: &lt;meta http-equiv=""X-UA-Compatible"" content=""IE=edge""&gt; no longer causes a validation error: https://t.co/CUeBO9cyDc! http://t.co/u…"
+92,528999416448188416,Sun Nov 02 19:57:43 +0000 2014,0,0,In search of the perfect JavaScript framework https://t.co/4yvmdVpfJp
+93,528579492177276928,Sat Nov 01 16:09:06 +0000 2014,0,1,"Statically typed JavaScript via Microsoft TypeScript, Facebook Flow and Google AtScript http://t.co/IvSa4xZBSE"
+94,528578565085081601,Sat Nov 01 16:05:25 +0000 2014,0,2,KEEPING SECRETS WITH JAVASCRIPT - AN INTRODUCTION TO THE WEBCRYPTO API https://t.co/hlZDdNl5sJ
+95,524247639765057536,Mon Oct 20 17:15:52 +0000 2014,0,1,szoval: megnyertuk a #mitohackathont \o/ eljenek a ledmatrixok
+96,522167251600814080,Tue Oct 14 23:29:08 +0000 2014,0,0,A Web encryption vulnerability opens ‘encrypted’ data to hackers http://t.co/1sUQot2Zuw via @thenextweb
+97,519630425669398528,Tue Oct 07 23:28:42 +0000 2014,912,0,"RT @thebarrytone: margin: 0;
+padding: 0;
+
+…
+
+margin: 0 !important;
+padding: 0 !important;
+
+…
+
+sudo margin: 0 !important;
+sudo padding: 0 !i…"
+98,511214653360177152,Sun Sep 14 18:07:25 +0000 2014,10,0,RT @scotch_io: Mesmerizing CSS loading animations by Kyle Brumm #allCSS http://t.co/WOiQFFPEEF http://t.co/lHtZKbGUKE
+99,510440900028534784,Fri Sep 12 14:52:48 +0000 2014,0,0,"ECMAScript 6 modules: the final syntax
+ - http://t.co/ZkvznMLgDJ"
+100,510210690305372160,Thu Sep 11 23:38:02 +0000 2014,1,0,JavaScript hacks explained http://t.co/MfDkSnkVN2 via @janis_t
+101,510191335798616064,Thu Sep 11 22:21:08 +0000 2014,0,0,Paul Irish: Parallax Performance [CSSConfUS2014]: http://t.co/bkQbq2PsI9 via @YouTube
+102,510002928187228160,Thu Sep 11 09:52:28 +0000 2014,4,0,RT @dotCSS: So pumped up to have @csswizardry on stage at dotCSS! He’s the author of @cssguidelines and creator of @inuitcss
+103,503883472449306625,Mon Aug 25 12:35:56 +0000 2014,2,0,RT @hubudibu: van valakinek kölcsön leap motionje @csongorfabian részére egy hackathon-hétre? vagy ötlete hogy merre próbálkozzon?
+104,498811124075495425,Mon Aug 11 12:40:14 +0000 2014,0,1,"glstol varok csomagok: reggel kapom az smst 9-kor, hogy 8 es 11 kozott johet a csomag. 1-kor felhiv a futar, hogy volt, 8-kor es nem talalt"
+105,497713061797433344,Fri Aug 08 11:56:55 +0000 2014,0,0,"Event listeners popup, @media sidebar, Cubic bezier editor + more – Firefox Developer Tools Episode 33 https://t.co/OuVBxta8gl via @mozhacks"
+106,497469381786763265,Thu Aug 07 19:48:37 +0000 2014,301,0,"RT @addyosmani: ES6 Maps are now on by default in Chrome 38. Goodbye hasOwnProperty() checks! Hello simple, iterable key/value maps: http:/…"
+107,497469094166552576,Thu Aug 07 19:47:29 +0000 2014,118,0,"RT @addyosmani: ES6 Maps are awesome for enabling non-string values as keys (e.g numbers, objects and arrays): http://t.co/53ILDjd1Cv"
+108,496599271966121986,Tue Aug 05 10:11:07 +0000 2014,0,1,"van mar programotok csutortokre? mondjatok le, es gyertek #frontendmeetup-ra! http://t.co/KaiWlefMuo"
+109,496171037881798656,Mon Aug 04 05:49:28 +0000 2014,0,1,"Responsive Redesign alone doesn't necessarily help. Virgin Airlines Flight Booking Flow Case Study results (PDF).
+https://t.co/SdCwX5smfK"
+110,495888160715702272,Sun Aug 03 11:05:25 +0000 2014,0,0,Emmet’s Hidden Power Features - http://t.co/6iFp3TZknj
+111,494491529944125442,Wed Jul 30 14:35:42 +0000 2014,0,0,Web Alarms API #oszom
+112,493749370957725696,Mon Jul 28 13:26:38 +0000 2014,0,0,ctrl+shift+d =&gt; imagetobase64
+113,493327548903088128,Sun Jul 27 09:30:27 +0000 2014,3981,0,"RT @ericbaize: In 10 years, I have not found a more effective picture to explain software security. #swsec http://t.co/ondb5fV6FY"
+114,492959946057609216,Sat Jul 26 09:09:44 +0000 2014,32,0,RT @jackiebackwards: CSS variables in Firefox 31 and a new syntax based on the W3C draft http://t.co/9n0txUPAtG http://t.co/gy2Lcca9ch
+115,492959807259676672,Sat Jul 26 09:09:11 +0000 2014,11,0,RT @codepo8: View DOM Events in Firefox Developer Tools http://t.co/j2m0M4f2Pc
+116,491485970815266817,Tue Jul 22 07:32:41 +0000 2014,41,0,RT @derSchepp: Introduced with iOS 7.1: RT @MoOx: Nice move Apple http://t.co/sRJnInol62
+117,487522918268952576,Fri Jul 11 09:04:56 +0000 2014,0,0,"'meddig leszel ma? - sokaig, 4-5ig legalabb'"
+118,486869204021563392,Wed Jul 09 13:47:18 +0000 2014,0,0,froome :(
+119,486406313526964224,Tue Jul 08 07:07:56 +0000 2014,0,0,http://t.co/e7IBOzvfPW best guide ever
+120,486271961644158976,Mon Jul 07 22:14:04 +0000 2014,0,0,Darwin leventekiralys-MacBook-Air.local 14.0.0 Darwin Kernel Version 14.0.0: #yosemite #juhuka
+121,486172703590981632,Mon Jul 07 15:39:39 +0000 2014,0,0,"@szobagitaros nem szabad bringauton menni, foleg nem a balcsi korul. nehol elegge nagy kerulovel epitettek azokat a szarokat :)"
+122,484804405376466946,Thu Jul 03 21:02:32 +0000 2014,1,0,"RT @elijahmanor: SassDoc. Like JSDoc, but for Sass files https://t.co/x5hvVdPfMw +@HugoGiraudel"
+123,484803890257620992,Thu Jul 03 21:00:29 +0000 2014,0,0,Offline Browsing Secrets In Chrome http://t.co/VZ8DhjWRBq
+124,483330090408083456,Sun Jun 29 19:24:08 +0000 2014,0,0,"@hymn_253 csocsok, seggek, narko es rengeteg kuras!"
+125,482100869685862400,Thu Jun 26 09:59:39 +0000 2014,602,0,RT @azzurri: #ITA This is what the #Azzurri fans wanted to hear from Andrea #Pirlo... #VivoAzzurro #Italia http://t.co/dtdGnDU6C2
+126,481765399248506880,Wed Jun 25 11:46:36 +0000 2014,531,0,RT @andymcfee: WOW! Device sizing and network throttling in Chrome DevTools is live in Chrome Canary! This is AWESOME! #mobile http://t.co/…
+127,481564808870121472,Tue Jun 24 22:29:32 +0000 2014,0,0,"kaptam mobilra dizajnt, fullhdra optimalizalva #jeez"
+128,481207010814595072,Mon Jun 23 22:47:46 +0000 2014,50,0,RT @ero_andre: best game ever @mozilla @firefox http://t.co/pwDmUZBbm1
+129,479961031570378752,Fri Jun 20 12:16:41 +0000 2014,0,0,"SELECT * FROM `item_vat` WHERE `item_id_str` LIKE 'old-virginia-6-years-old-kentucky-bourbon-whiskey' AND 1
+ - http://t.co/s60EVrcKyW #fail"
+130,479262117686558720,Wed Jun 18 13:59:27 +0000 2014,0,0,Pixel perfect: the story of eBoy http://t.co/9RZGpcoK04 via @verge
+131,479205555324481536,Wed Jun 18 10:14:42 +0000 2014,0,0,Using Sass Maps http://t.co/Y5SSaQhaAX via @sitepointdotcom
+132,479204379967229953,Wed Jun 18 10:10:02 +0000 2014,0,0,bounce.js - Generate Tasty CSS3 Animations http://t.co/0CJpnmabZV via @JoelBesada
+133,479199687430643712,Wed Jun 18 09:51:23 +0000 2014,0,0,"Pub/Sub JavaScript Object
+ - http://t.co/fj2P9fu4OC"
+134,478543874638757888,Mon Jun 16 14:25:25 +0000 2014,368,0,RT @addyosmani: This is HUGE. IE now has a developer channel: http://t.co/3zeIqSctfJ ~ another leap forward for being open with plans http:…
+135,478506571287498752,Mon Jun 16 11:57:11 +0000 2014,0,1,https://t.co/j0HV9Kn5QZ - #ADD TOUCH TO YOUR SITE
+136,477061141802536960,Thu Jun 12 12:13:34 +0000 2014,0,0,Go @VIVO_AZZURRO! #WorldCup Who are you supporting? https://t.co/1FXQVEbgqy
+137,474470362172776448,Thu Jun 05 08:38:44 +0000 2014,0,0,"Google to drop Internet Explorer 9 support in AdWords on June 30, 2014 http://t.co/x8FydiSu8g via @thenextweb"
+138,474448509866086400,Thu Jun 05 07:11:54 +0000 2014,0,0,"Detect, Undo And Redo DOM Changes With Mutation Observers http://t.co/s5xgoolnmA"
+139,473566594279677952,Mon Jun 02 20:47:29 +0000 2014,44,0,"RT @rauschma: Apple Swift:
+sort([1, 5, 3, 12, 2]) { $0 &gt; $1 }
+
+ECMAScript 6:
+[1, 5, 3, 12, 2].sort((a,b) =&gt; a-b)"
+140,473427539923173377,Mon Jun 02 11:34:56 +0000 2014,0,0,Patterns For Large-Scale JavaScript Application Architecture http://t.co/m6sCHEcdWQ via @addyosmani
+141,473369952381329409,Mon Jun 02 07:46:06 +0000 2014,5,0,"RT @iDGS: @meyerweb How’s this?
+
+(͡° ͜ʖ ͡°)
+
+See: http://t.co/Pfsw36aClr"
+142,472399563802677248,Fri May 30 15:30:07 +0000 2014,0,0,Fat Pop Culture – 26 Illustrations obèses d’Alex Solis ! http://t.co/zvIQlzxrvw
+143,472077353758515200,Thu May 29 18:09:46 +0000 2014,0,0,firefox os eloben! http://t.co/d5Vc3XSl1p
+144,471952673168969728,Thu May 29 09:54:20 +0000 2014,0,0,http://t.co/vyhwijw2RC
+145,471952495544389633,Thu May 29 09:53:38 +0000 2014,5,0,RT @TEF_FirefoxOS: #FirefoxOS 2.0 starts emerging from its cocoon http://t.co/CpCUVBfU1i via @CNET #mozilla
+146,471261305064914944,Tue May 27 12:07:05 +0000 2014,230,0,RT @addyosmani: &lt;3 http://t.co/Yzr8umi2LN: import Google Analytics for your site to view % of users with access to a feature. http://t.co/G…
+147,471183241039597568,Tue May 27 06:56:53 +0000 2014,1,0,"css sprite generator
+ - https://t.co/6IczaQE83K"
+148,470988985381429248,Mon May 26 18:04:59 +0000 2014,0,1,Typesetting your CSS Objects http://t.co/CwtjEq7wDu via @edenspiekermann
+149,469861807222718466,Fri May 23 15:25:59 +0000 2014,0,0,"kerek leadva fuzesre, jovoheten pedig gurulgatunk mar #fckyeah"
+150,469512396642738177,Thu May 22 16:17:33 +0000 2014,114,0,RT @bradlygreen: We partnered with the Code School team to create a simple yet slick intro to AngularJS.  http://t.co/mG6rV1uGpF http://t.c…
+151,466863334537826304,Thu May 15 08:51:07 +0000 2014,0,0,#bezaraziwiw
+152,466860690003984384,Thu May 15 08:40:37 +0000 2014,0,0,"Parallax Done Right
+ - https://t.co/umFOgSceM7"
+153,465514962191155201,Sun May 11 15:33:10 +0000 2014,0,0,http://t.co/MCNtiXBKrA
+154,463468622275297280,Tue May 06 00:01:45 +0000 2014,0,0,If Your Food Told the Brutal Truth http://t.co/q1gxHJyVv6 via @mashable
+155,463329109121458176,Mon May 05 14:47:22 +0000 2014,0,0,http://t.co/BUpNvHxFME - a place to discuss and evolve web component best-practices - http://t.co/yxL19jD6PF
+156,463328903491514368,Mon May 05 14:46:33 +0000 2014,119,0,"RT @PierreJoye: 10-30% perf improvement for the #php engine, check it out:
+http://t.co/HR96scm3UO"
+157,463202837145853952,Mon May 05 06:25:36 +0000 2014,0,0,WWDC Rumors: Apple to Focus on OS X http://t.co/f3dlJ2BhQu via @mashable
+158,463059770883461120,Sun May 04 20:57:07 +0000 2014,21,0,RT @JavaScriptDaily: Practical Workflows for ES6 Modules (video): http://t.co/WzUKumKx3e
+159,461824773879005184,Thu May 01 11:09:41 +0000 2014,0,0,obazdmeg ez mennyire KIRALY extension http://t.co/4VLq7iDghK
+160,461781862181244928,Thu May 01 08:19:10 +0000 2014,0,2,"Web Fundamentals
+ - https://t.co/B14uCbAEDB"
+161,461521696273338368,Wed Apr 30 15:05:21 +0000 2014,0,0,Web Animation Infographics: A Map of the Best Animation Libraries for JavaScript and CSS3 plus Performance Tips http://t.co/aoWjTCPCYs
+162,461209674302631936,Tue Apr 29 18:25:29 +0000 2014,7,0,RT @csswg: First Public Working Draft of CSS Will-Change published: http://t.co/HY0OiCcHwq
+163,460357303519436800,Sun Apr 27 09:58:28 +0000 2014,0,0,Chrome DevTools Features You May Have Missed — Tuts  http://t.co/AoAEhX4Zyl
+164,459631784926642176,Fri Apr 25 09:55:31 +0000 2014,11,0,RT @sitepointdotcom: Quick and Dirty Browser Screenshot Testing With Modern.ie - http://t.co/SiUDMwUIJz http://t.co/siMGPYao6U
+165,459271807418511360,Thu Apr 24 10:05:06 +0000 2014,0,0,"@leventekk ha jobban megnezem, elegge szar lett ez a kep"
+166,459255524127936512,Thu Apr 24 09:00:24 +0000 2014,10,0,RT @codepo8: http://t.co/97A4mtaXoZ  Shadow DOM CSS Cheat Sheet
+167,459081380790829056,Wed Apr 23 21:28:25 +0000 2014,0,0,"hoppacska, es megvan az uj twitter profil oldal is. #oszom"
+168,459006987930697730,Wed Apr 23 16:32:48 +0000 2014,0,0,elkezdtuk! aki nincsitt lemarad! #frontendmeetup http://t.co/OS6tDHomOi
+169,458543866774568960,Tue Apr 22 09:52:31 +0000 2014,438,0,"RT @addyosmani: Chrome 35 Beta: 
+✓ Promises
+✓ Object.observe 
+✓ Weak Maps &amp; Sets 
+✓ CSS touch-action
+✓ Unprefixed Shadow DOM &amp; more
+
+http:/…"
+170,458543717889355776,Tue Apr 22 09:51:56 +0000 2014,0,0,"baszki, hat ez egyre durvabb http://t.co/idCsiKycZV"
+171,458543541871181824,Tue Apr 22 09:51:14 +0000 2014,3,0,RT @hubudibu: klasszikus http status cats https://t.co/on7LqnUgBr mert holnap Tomomi Imura a @frontendmeetup-on!
+172,457516455882678272,Sat Apr 19 13:49:58 +0000 2014,28,0,"RT @getify: Feature detect for JS:
+
+&lt;script&gt;javascript = true;&lt;/script&gt;
+
+pass it on!
+
++@mikemaccana @iamdevloper"
+173,456793696055205889,Thu Apr 17 13:57:58 +0000 2014,13,0,RT @addyosmani: Blink: intent to ship the CSS will-change property https://t.co/SESVUhXqkM which is already implemented behind a flag in Fi…
+174,455697696264036352,Mon Apr 14 13:22:51 +0000 2014,0,0,Statisztika false és false között.
+175,455279966532673537,Sun Apr 13 09:42:57 +0000 2014,0,0,Cutting-edge CSS - http://t.co/m3Qluo56MY
+176,454972964166197248,Sat Apr 12 13:23:02 +0000 2014,0,0,hopika! http://t.co/s7uBy2Pgz8
+177,454606909732319232,Fri Apr 11 13:08:28 +0000 2014,20,0,"RT @FirefoxOSFeed: What's In Store for Firefox OS 2.0 (Pictures)
+
+http://t.co/FRhzidpr7H"
+178,454606833895092224,Fri Apr 11 13:08:10 +0000 2014,61,0,"RT @ppk: Yes, funny. Escape from XP.
+
+http://t.co/LexYWChlXI"
+179,454560601369747456,Fri Apr 11 10:04:27 +0000 2014,0,0,http://t.co/DcSgCQ3ui4
+180,454065248652505088,Thu Apr 10 01:16:06 +0000 2014,0,0,chrome srcset dimenziora loves nem mukodik? csak dpr?
+181,454010513576710144,Wed Apr 09 21:38:36 +0000 2014,0,0,riliz parti ojje
+182,453978421627219968,Wed Apr 09 19:31:04 +0000 2014,99,0,"RT @yoavweiss: Oh, Chrome stable upgraded to 34 =&gt; srcset is now natively supported in the wild! \o/ Start using it today! (with fallback/p…"
+183,453896334362574849,Wed Apr 09 14:04:53 +0000 2014,107,0,"RT @addyosmani: Getting started with @gulpjs:
+Intro: http://t.co/pFJjBP6kx4
+Getting started: http://t.co/uIlQOFPCkb
+Writing tasks: http://t…"
+184,453587657076269056,Tue Apr 08 17:38:19 +0000 2014,2,0,RT @echojs: The Shadow DOM Diaries - http://t.co/zNCtgPWRbB
+185,453505796249505792,Tue Apr 08 12:13:02 +0000 2014,0,0,Motion Ui Design Principles - http://t.co/lgLGuEvLYJ
+186,453494427311304704,Tue Apr 08 11:27:51 +0000 2014,0,0,Microsoft ends support for Windows XP and Office 2003 http://t.co/o9OoAcRPTq via #vegre
+187,453288208097615872,Mon Apr 07 21:48:25 +0000 2014,0,1,weboldal modositas brief #aradaszeretet http://t.co/LQuyLo3uJR
+188,452813935561826304,Sun Apr 06 14:23:49 +0000 2014,0,2,Title CSS: A Simple Approach to CSS Class Naming http://t.co/Vil6rVPaab
+189,452070451540680704,Fri Apr 04 13:09:29 +0000 2014,0,0,http://t.co/PYVtrrhIJV #pentek #megbassza
+190,451364956404219904,Wed Apr 02 14:26:06 +0000 2014,0,0,getBoxQuads API https://t.co/7DBC7kzCoL
+191,451364057044770816,Wed Apr 02 14:22:31 +0000 2014,0,0,Accessibility Features of HTML5 - http://t.co/V2DuAFFpGl
+192,451322294569562112,Wed Apr 02 11:36:34 +0000 2014,46,0,RT @polymer: We released Polymer 0.2.2 this week: https://t.co/KYh8pZokav - includes CSS scoping changes &amp; updates to our polyfills and ele…
+193,451083120587317248,Tue Apr 01 19:46:11 +0000 2014,0,0,List of Pseudo-Elements to Style Form Controls - http://t.co/I9kTL1zZU9 #lemaradt
+194,448886526693621760,Wed Mar 26 18:17:42 +0000 2014,0,0,"es igen, eloben is lehet minket kovetni! http://t.co/BdUtXNWuC8 #frontendmeetup"
+195,448868519133081600,Wed Mar 26 17:06:09 +0000 2014,0,0,"ugye nem felejtettek el, hogy 1 ora mulva frontendmitap MOMEID special?! http://t.co/vKfORlVdRE"
+196,448769765012951041,Wed Mar 26 10:33:44 +0000 2014,0,0,Computer History Museum Makes Historic MS-DOS and Word for Windows Source Code Available to the Public - http://t.co/BHEW9HYcVC
+197,448511329918517248,Tue Mar 25 17:26:48 +0000 2014,0,1,ez lesz az uj kedvec oldalad! php fejlesztés magyarország - http://t.co/l1j6KHRVjT
+198,448197192793473024,Mon Mar 24 20:38:32 +0000 2014,0,0,beszaras a ge koderkereso hirdetese http://t.co/cdYSFtjh3S

@@ -1,0 +1,213 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,638474582232559616,Mon Aug 31 22:12:57 +0000 2015,0,0,Sine wave program. All but the last line or so are the massive lookup… https://t.co/3whxRpmRzJ
+1,638470631164641280,Mon Aug 31 21:57:15 +0000 2015,0,0,"#fpga #processor does a (messy) sine wave, using a lookup table, a loop,… https://t.co/IxhCI8bQPk"
+2,638382968021630976,Mon Aug 31 16:08:54 +0000 2015,0,1,"@printrbot @CarlNisky thanks! We already have a RAMPS kit on the way, but having the sources for Marlin on pb is really helpful."
+3,638350740487077888,Mon Aug 31 14:00:51 +0000 2015,0,1,Always glad to help!  https://t.co/nasjUfwOdM
+4,638135366311116800,Sun Aug 30 23:45:01 +0000 2015,1,1,Soon to be reassembled with new electronics. #3dprinter https://t.co/wQsiRDfREs
+5,637730129700069376,Sat Aug 29 20:54:46 +0000 2015,0,1,"Program full of test cases for the FPGA processor, currently in progress.… https://t.co/A7eBLfZ6kB"
+6,637685017225887744,Sat Aug 29 17:55:30 +0000 2015,1,1,FPGA processor is ready to be programmed. DM me with your email if you… https://t.co/se87nQ3EJg
+7,634865972600569856,Fri Aug 21 23:13:37 +0000 2015,1,3,"My next project should be an FPGA based 3d print controller... Just need to find some ADCs, stepper drivers, and other peripherals."
+8,634841633650012160,Fri Aug 21 21:36:54 +0000 2015,0,1,Stack Overflow has allowed me to learn by answering. Every answer I write is an opportunity to learn. http://t.co/p2wcoBTzJn #SOreadytohelp
+9,633959892781531137,Wed Aug 19 11:13:11 +0000 2015,111,0,"RT @jarrod_dixon: How ""oldschool"" graphics worked. http://t.co/LXTrq4oLhf"
+10,631140151088017408,Tue Aug 11 16:28:32 +0000 2015,2,4,I #Vote for @FIRSTweets to #UpgradeYourWorld
+11,629823766030340096,Sat Aug 08 01:17:42 +0000 2015,0,2,"@brainwallet if a crypto or security issue, at least keep the handy conversion tools, please."
+12,628178785364344832,Mon Aug 03 12:21:08 +0000 2015,0,0,"@field_hamster @saleae well, cost is the issue at the moment. I've hacked something together over RS232 already."
+13,626557710528577536,Thu Jul 30 00:59:33 +0000 2015,0,0,New PAR configuration with physical synthesis is giving even better… https://t.co/bsiHhNrfxF
+14,626128957767872512,Tue Jul 28 20:35:51 +0000 2015,2,0,RT @CarlNisky: @hexafraction @NiskyBots No more Macs for #niskyengineering - Yay! 👍
+15,626087028782931968,Tue Jul 28 17:49:14 +0000 2015,1,3,Setting up the new lab machines... @CarlNisky @NiskyBots http://t.co/S8oB2UYzIB
+16,626086533314015233,Tue Jul 28 17:47:16 +0000 2015,0,0,"Good art skills, Hewlett-Packard. https://t.co/vI4DFNLAsg"
+17,625831806592524288,Tue Jul 28 00:55:04 +0000 2015,0,0,"Although the result is unimpressive, this is a massive pain to do on a… https://t.co/S7ep8IygrF"
+18,625828934714834944,Tue Jul 28 00:43:40 +0000 2015,0,0,It... kind of works? I'd do anything to have a chip scope pro license… https://t.co/KHq709FOFs
+19,625466577857708033,Mon Jul 27 00:43:47 +0000 2015,0,1,Crossing FPGA clock domains: the most vexing part of the design. Binary reflected Grey Code to… https://t.co/FW8pH71IKd
+20,625434331973074944,Sun Jul 26 22:35:39 +0000 2015,0,1,Continued planning for #fpga processor and VGA controller... 640x480 in 80*30 chars. Just have to… https://t.co/Y9hGX8i3a2
+21,624306368200048640,Thu Jul 23 19:53:31 +0000 2015,0,0,The mess that is my VGA level adapter and wiring... https://t.co/LfJOrHAMbw
+22,624280992564514817,Thu Jul 23 18:12:41 +0000 2015,0,0,Text mode works on my FPGA VGA controller. Now to integrate it with the processor... https://t.co/aNLc4ytGTY
+23,623584116823433216,Tue Jul 21 20:03:33 +0000 2015,1,3,FPGA processor is ready for action. Any program ideas?
+24,623261435490107394,Mon Jul 20 22:41:20 +0000 2015,0,0,@realDonaldTrump @Valenza98 @BarackObama the fact that you're using quotation marks for emphasis makes this look like a complete joke.
+25,623261291352858624,Mon Jul 20 22:40:46 +0000 2015,0,0,@realDonaldTrump @Valenza98 @BarackObama sure it was.
+26,623259531557097472,Mon Jul 20 22:33:46 +0000 2015,0,0,Even faster when I'm not randomly running wastes of CPU power... https://t.co/fVKLVgyeC2
+27,623258819800510464,Mon Jul 20 22:30:56 +0000 2015,1,1,"After fixing some noise issues, code upload works. Data rate is roughly 12Kbps; not bad for a bit… https://t.co/dRQM00mLmF"
+28,622187726226522112,Fri Jul 17 23:34:48 +0000 2015,3,5,@sfnet_ops Might have been helpful to NOT block http://t.co/w9u8V4ZJTH through robots.txt then...
+29,620413335671054336,Mon Jul 13 02:04:00 +0000 2015,1,2,The sheer scale of the net list. Only makes me appreciate place and route tools more and more. #fpga https://t.co/kIWkm5JUVM
+30,619660156968824832,Sat Jul 11 00:11:08 +0000 2015,0,1,Xilinx ISE tells me I have 18 nanoseconds to return a result or risk missing setup and hold… https://t.co/zHPaSHtufz
+31,619302863798448129,Fri Jul 10 00:31:23 +0000 2015,0,1,"Verilog source for my #fpga #microprocessor. Of course, as one can see, no superscalarity, no out of… https://t.co/vFhRJHjJtB"
+32,619301763594735616,Fri Jul 10 00:27:01 +0000 2015,1,2,"The processor is progressing nicely. Here, it's counting up, with a slow down factor of 524,288, as… https://t.co/nciJjgiO0q"
+33,618227205676642304,Tue Jul 07 01:17:06 +0000 2015,0,1,"Timing diagram for a simulation of my microprocessor designed from scratch, to be implemented on an… https://t.co/mR1Pme0tpY"
+34,615971205854539776,Tue Jun 30 19:52:34 +0000 2015,0,1,I've spent waaaaay too much time on Stack Overflow.
+35,614482472231800832,Fri Jun 26 17:16:52 +0000 2015,220,0,"RT @StackExchange: +1
+#LoveWins 
+#LoveOverflows http://t.co/JJZTljYyxl"
+36,611897577865355264,Fri Jun 19 14:05:25 +0000 2015,1914,0,RT @oneplus: Want a @grabready promo code? Simply RT and fill out our form to win one of 100! http://t.co/3A29UoHWYV http://t.co/Ij0px99VE7
+37,610968625063682048,Wed Jun 17 00:34:06 +0000 2015,1,2,@tonguetd thanks! I currently only have the FPGA dev board itself but I'll look for some real world sensors and effectors for a control sys
+38,610548167973548032,Mon Jun 15 20:43:21 +0000 2015,0,1,@CarlNisky fpgas can do high speed highly parallel data processing. Fast logic but not much memory.
+39,610112879237292032,Sun Jun 14 15:53:40 +0000 2015,0,1,Looking for ideas for a summer #fpga project!
+40,609301591863066624,Fri Jun 12 10:09:54 +0000 2015,1,0,"RT @firstmentormike: My day, most days... http://t.co/zDlcDWTMtS"
+41,607941517953650689,Mon Jun 08 16:05:27 +0000 2015,0,0,I'm with #OnePlus. Let's take back #NeverSettle. http://t.co/TxDZN4e38F
+42,607715341955944448,Mon Jun 08 01:06:42 +0000 2015,0,1,FPGA random number generator. Same as PLTW electronics dice roller but with more bits 😀 https://t.co/tnSWYPpotd
+43,607308702694154240,Sat Jun 06 22:10:52 +0000 2015,2,3,"This is how an FPGA Bitcoin miner looks. Teal lines are connections, purple and gray are available lanes. http://t.co/szx7TrV2MT"
+44,607228281113317376,Sat Jun 06 16:51:18 +0000 2015,1,1,I will be teaching myself FPGA development over the summer on a @XilinxInc Spartan 3E. Hope to be able to make smth useful by fall 2015.
+45,605154175790374912,Sun May 31 23:29:33 +0000 2015,1,1,#javadeck dependency matrix from @intellijidea 14 http://t.co/ys5NYD2mTT
+46,605092840964681728,Sun May 31 19:25:50 +0000 2015,1,2,I've added retrolambda to #javadeck for #java8 support (both for projects using javadeck and internally).
+47,602839149725364224,Mon May 25 14:10:28 +0000 2015,11,0,RT @hackaday: Need Timing Diagrams? Try Wavedrom http://t.co/AggDzbmYAF
+48,602225101719744513,Sat May 23 21:30:27 +0000 2015,0,1,"@CarlNisky Self-awareness is a complex question; we don't know what makes humans self-aware, or whether scaled neural nets become self-aware"
+49,599370028861890561,Sat May 16 00:25:25 +0000 2015,0,0,"Was stupid with Java, need to refactor now... #javadeck @NiskyBots"
+50,599364724988334081,Sat May 16 00:04:20 +0000 2015,1,3,"@Valenza98 ""whose"" is posessive; you want ""Who's"" or ""Who is""."
+51,594992088103522304,Sun May 03 22:29:02 +0000 2015,2,3,Another target detection test for @NiskyBots using #opencv. Misalignment due to shaky hands. http://t.co/2kdLPG4Lnw
+52,594635125175881728,Sat May 02 22:50:36 +0000 2015,2,2,@NiskyBots #opencv feature detector ready! Our target pattern for correlation also shown. http://t.co/ldJhi03ONo
+53,594282419307446273,Fri May 01 23:29:04 +0000 2015,2,4,Initial design for @NiskyBots #opencv #visionprocessing pattern-matching target is ready. Will show an image soon.
+54,594238040291278848,Fri May 01 20:32:43 +0000 2015,0,1,Android L finally! @jtang6598 https://t.co/uuhF1BIdUZ
+55,592351010028322818,Sun Apr 26 15:34:20 +0000 2015,14316,0,"RT @WhiteHouse: President Obama and his anger translator, Luther.
+Just watch. #WHCD http://t.co/5ShwiopHcq"
+56,591329547330588673,Thu Apr 23 19:55:25 +0000 2015,27,0,RT @FIRSTweets: All aboard! Please RT to thank our Connections Sponsor @google for providing transportation btw venues here at #FIRSTChamp!
+57,590250420280238081,Mon Apr 20 20:27:21 +0000 2015,11,0,RT @FRCBoys: I don't understand why everyone is so hyped about 4.20... Section 4 of the game manual doesn't even go that high
+58,589536573886074880,Sat Apr 18 21:10:46 +0000 2015,2,0,"RT @CBS6Albany: BMW recalling 91,800 Mini Coopers to fix air bag problem.  http://t.co/nX4Tjel3UP http://t.co/1uCpZKu8oy"
+59,588138100435656705,Wed Apr 15 00:33:44 +0000 2015,4,0,RT @emjspen: Why learn German https://t.co/hrwpzzQ8Db #german #mfl
+60,587408009417986048,Mon Apr 13 00:12:37 +0000 2015,2,2,#javadeck pathfinder works! http://t.co/3ETTAL95x9
+61,587370398259351552,Sun Apr 12 21:43:10 +0000 2015,0,0,Discussion affecting how FTC robots will be programmed in future years. Please share and weigh in! http://t.co/K7Rjny4MiH @FTCTeams
+62,587369801598771204,Sun Apr 12 21:40:48 +0000 2015,0,2,A shoutout to @crossdeboss for NOT updating the @NiskyBots website.
+63,587369453043654657,Sun Apr 12 21:39:25 +0000 2015,1,2,#Javadeck path planner algorithm almost ready! Just waiting on FTC official news to continue. Will work on map editor (game field) for now.
+64,587007023230746624,Sat Apr 11 21:39:15 +0000 2015,0,1,@antijokeapple @Dr_Irani21 Ellipsoidal packing? Not in a #Algorithm running in O(N log N) time
+65,586932706400833536,Sat Apr 11 16:43:56 +0000 2015,1,1,Why the planned OpMode paradigm for 2015-16 First Tech challenge is suboptimal: http://t.co/K7Rjny4MiH @FTCTeams @FIRSTweets
+66,586700649154285568,Sat Apr 11 01:21:49 +0000 2015,1,1,Any @FTCTeams know if the new Android platform's controllers will support PID control?
+67,586698758546567168,Sat Apr 11 01:14:19 +0000 2015,3,0,RT @WallofCoins: The reality is: none of us can fathom or imagine how #Bitcoin is going to change the world we live in.
+68,586190823215116288,Thu Apr 09 15:35:57 +0000 2015,1,3,"Idea: 80/20 modular assemblies, some markings for positioning, and a clever software and hardware design could make for a modular #3dprinter"
+69,585757423681437696,Wed Apr 08 10:53:47 +0000 2015,1,2,Many doubts and concerns about the new platform's programming cleared up: http://t.co/K7Rjny4MiH
+70,585497612486324225,Tue Apr 07 17:41:23 +0000 2015,885,0,RT @Java_EE: We changed the term from #J2EE and #JEE to Java EE in May 2006. Let's educate all users and specially recruiters. Retweet!
+71,585462396484886528,Tue Apr 07 15:21:27 +0000 2015,3,0,"RT @Chewmacca1: ""Why robots should be a part of everyone's childhood"" by @Restech_Edu on @LinkedIn https://t.co/90gFt8lfuE #robotics #omgro…"
+72,585231108008054784,Tue Apr 07 00:02:23 +0000 2015,13,0,RT @frc4322: Retweet and help FRC5338 Roboloco find their stolen robot and gear! Let's get the word out! #omgrobots #FirstTweets  https://t…
+73,584865585109929984,Sun Apr 05 23:49:56 +0000 2015,0,1,Javadeck motion planner waiting on key info from FTC... Currently working on data representation for field
+74,584755679254056960,Sun Apr 05 16:33:12 +0000 2015,1,3,FTC Tech Talk: Electronics Look I: https://t.co/mQm95KOP7Z
+75,584707264092577792,Sun Apr 05 13:20:49 +0000 2015,163,0,RT @FIRSTweets: FIRST makes an impact. #morethanrobots #STEM http://t.co/xLGqnGou5J
+76,584506860432039936,Sun Apr 05 00:04:29 +0000 2015,1,2,"#javadeck's initial position integrator is achieving results! Scans a 10x10 meter field in 8msec, position within a cm,"
+77,584502551095091200,Sat Apr 04 23:47:22 +0000 2015,1,1,"@ftc3838 I'm also working on an open-source motion planner called Javadeck, so my team can start right away."
+78,584502371268440064,Sat Apr 04 23:46:39 +0000 2015,0,1,@ftc3838 No problem! There is a bunch of info at http://t.co/8q5ucRbp2p
+79,584440203923697664,Sat Apr 04 19:39:37 +0000 2015,0,1,"@ftc3838 The new Android-based system coming next year should alleviate this. For now, try grounding devices and avoiding exposed connectors"
+80,581970554967724032,Sun Mar 29 00:06:07 +0000 2015,1,0,Bhav almost hit me with the drone. https://t.co/rBjsyP8PLg
+81,581969642358439936,Sun Mar 29 00:02:29 +0000 2015,0,1,Good job Bhav. https://t.co/6yEjSeZqBx
+82,581958396183732224,Sat Mar 28 23:17:48 +0000 2015,1,0,"RT @AviationNisky: Nut Ball UAV test flight (Near-collision), filmed by @hexafraction: http://t.co/d88zDcNwHB"
+83,581404774819438592,Fri Mar 27 10:37:54 +0000 2015,2,2,"Great things are happening for next year's Java-powered robots! @niskyBots
+ https://t.co/2qRL6Azx8Q"
+84,580140348594360320,Mon Mar 23 22:53:32 +0000 2015,0,1,@NiskyBots not in particular.
+85,580135206054707200,Mon Mar 23 22:33:06 +0000 2015,0,0,Taking a month-long break from robotics to relax. The other @NiskyBots members honestly caused a stressful season due to limited competence.
+86,579425283499024384,Sat Mar 21 23:32:07 +0000 2015,0,0,"Taking a break from robotics to prevent a burnout. Should be back soon, ready for the new Java API."
+87,579381662548672514,Sat Mar 21 20:38:47 +0000 2015,0,0,@tasonjang @fareenaaslam16 what?
+88,577872493353902080,Tue Mar 17 16:41:53 +0000 2015,0,2,I'm pretty sure I'm not right in the head when I want to create a regex engine in TI-84 assembly for fun.
+89,577203650906484737,Sun Mar 15 20:24:08 +0000 2015,0,0,@DroplitHome thanks for the follow!
+90,576491321629786113,Fri Mar 13 21:13:36 +0000 2015,1,2,About the new FTC system: https://t.co/YYSrzlTTu2
+91,576167501500977153,Thu Mar 12 23:46:51 +0000 2015,0,0,"@CarlNisky @FTCTeams don't have enough context on what change your terry is referring to, sorry."
+92,575738422775668736,Wed Mar 11 19:21:51 +0000 2015,0,0,http://t.co/jQH9mQrrXq
+93,575341805299986433,Tue Mar 10 17:05:50 +0000 2015,0,1,Word of caution: Hooking up I2C pins on the MCP23017 to the Raspberry Pi's positive voltage rail makes the chip appear dead. Addr 0x20 works
+94,574870333288742912,Mon Mar 09 09:52:22 +0000 2015,0,0,"@NiskyBots Any Raspi or Arduino (with I2C) users, you just got 128 or 256 more GPIO pins. https://t.co/fuixC13HLm"
+95,574616080108404736,Sun Mar 08 17:02:04 +0000 2015,958,0,"RT @WhiteHouse: ""In too many parts of the world, girls are still valued more for their bodies than for their minds."" —Obama: http://t.co/hT…"
+96,574260768595689472,Sat Mar 07 17:30:11 +0000 2015,0,1,"@ramusallam no, the Samantha plugs into the NXT."
+97,574254050931245056,Sat Mar 07 17:03:29 +0000 2015,0,1,@ramusallam tweets are kind of hard to communicate with. Feel free to email me at my twitter handle at gmail dot com
+98,574253881825325056,Sat Mar 07 17:02:49 +0000 2015,0,1,@ramusallam I strongly recommend robotc as it is a more powerful language allowed for FTC. Samantha is robot joystick control over radio.
+99,574180177577701376,Sat Mar 07 12:09:56 +0000 2015,0,0,@ramusallam @CarlNisky @NiskyBots I'm unfortunately not familiar with labview. Are you trying to communicate over Samantha?
+100,572547995260071936,Tue Mar 03 00:04:14 +0000 2015,0,1,@ACT Any ETA for when the downtime for http://t.co/a6y4PAS44Z should be over?
+101,572159240690933762,Sun Mar 01 22:19:27 +0000 2015,0,1,"Printrpatch's GUI, will be offering a feature to exclude areas that failed to print, from printing further layers, to prevent failures."
+102,571085030002429952,Thu Feb 26 23:10:56 +0000 2015,1,0,"RT @NiskyBots: Today, @hexafraction achieved yet another milestone in his Printrpatch software. Now, time for frontend and boot integration."
+103,570396358881906690,Wed Feb 25 01:34:24 +0000 2015,0,1,The hextruffle mini language http://t.co/Vk0OkppSqN
+104,570358883178258432,Tue Feb 24 23:05:29 +0000 2015,0,1,"@CarlNisky @NiskyBots @YourNiskayuna @printrbot no problem, things should be running smoothly now."
+105,569658336381050881,Mon Feb 23 00:41:45 +0000 2015,0,1,Fooling Truffle's Intelligence: Part 2 http://t.co/QrF7F0F0zc
+106,569557471133507584,Sun Feb 22 18:00:57 +0000 2015,0,1,Fooling Truffle's intelligence http://t.co/gqFb88xY6K
+107,569288656155840512,Sun Feb 22 00:12:47 +0000 2015,0,0,Node replacement with a threshold http://t.co/TEEh3FwxQC
+108,569282714567729152,Sat Feb 21 23:49:10 +0000 2015,0,1,Replacing nodes http://t.co/MCvRRMqyBo
+109,569125451865530369,Sat Feb 21 13:24:16 +0000 2015,28,0,"RT @LexAlexander: RT @GrooveSDC: Conservatives hate Blacks, gays, Latinos, the undocumented, poor people, unions. But we wonder if #ObamaLo…"
+110,568921690106769408,Fri Feb 20 23:54:35 +0000 2015,0,0,Child nodes in arrays http://t.co/8aprYTmFDr
+111,568857754879729664,Fri Feb 20 19:40:32 +0000 2015,0,0,Child nodes in Truffle on the JVM: http://t.co/ZqO8v9iS33
+112,568604707481997312,Fri Feb 20 02:55:01 +0000 2015,1,2,"I've begun my learning of a JVM lib, called Truffle, that allows JIT'd execution of ASTs. Progress at https://t.co/0JAB8Ya6aM"
+113,567481491005796352,Tue Feb 17 00:31:45 +0000 2015,38,0,"RT @asz: ""This is why we can't have nice things in JavaScript, part bazillion"":
+
+ 0 &lt;= null
+=&gt; true
+ null &lt;= 0
+=&gt; true
+ 0 == null
+=&gt; false"
+114,567310420763873280,Mon Feb 16 13:11:59 +0000 2015,598,0,"RT @mathemaniac: If I had my way, I'd classify this as a Glitch Prime. What a beauty! http://t.co/n6Meq7ryes"
+115,566198871517171712,Fri Feb 13 11:35:05 +0000 2015,0,0,"@FTC7172 my bad, I was reading the tweet information incorrectly."
+116,566036152067444736,Fri Feb 13 00:48:29 +0000 2015,1,0,"RT @FeDevilsFans: @hexafraction @Team2530 Check your app permissions too. Even after you change your passwords, the spammer can still send …"
+117,565996926856724480,Thu Feb 12 22:12:37 +0000 2015,0,0,"@CPU6189 SPAM, DO NOT CLICK LINK."
+118,565996772334379008,Thu Feb 12 22:12:00 +0000 2015,0,2,@Radioactive8491 Probaably a spambot doing this. No human spammer will see your message.
+119,565996549193228288,Thu Feb 12 22:11:07 +0000 2015,1,3,I feel very sorry for the people at @GGRobotics and @FTC7172 that wil need to clean up all these tweets. :( Hopefully lesson learned.
+120,565996214441635840,Thu Feb 12 22:09:47 +0000 2015,0,0,@LazyBotts It seems that they were phished through a Google App Engine app looking like Twitter.
+121,565992736021442560,Thu Feb 12 21:55:58 +0000 2015,0,0,@GGRobotics You're the victim of a phishing attack and are sending large amounts of spam. Please change all passwords.
+122,565992717579067394,Thu Feb 12 21:55:54 +0000 2015,0,0,@Team2530 You're the victim of a phishing attack and are sending large amounts of spam. Please change all passwords.
+123,565992602139234304,Thu Feb 12 21:55:26 +0000 2015,0,0,"@FtcTeamCC You're the victims of a phishing attack, and are sending spam. Please change your passwords. Thanks!"
+124,565689745511317504,Thu Feb 12 01:51:59 +0000 2015,2,2,"I think we've got a likely name for the 3d print control, ""printrpatch"". I'll be posting more details soon. @NiskyBots @reprap @printrbot"
+125,565688678039973888,Thu Feb 12 01:47:45 +0000 2015,3,0,RT @Team5412: Our chainclamps work like a charm. They can go around sprockets. #omgrobots #Team5412 #RecycleRush http://t.co/ywEBIUrN1B
+126,565597579615170560,Wed Feb 11 19:45:45 +0000 2015,1,2,Just did a massive refactor on the still-unnamed 3d print controller/patchboard. Any name ideas?
+127,564963328233971712,Tue Feb 10 01:45:28 +0000 2015,5,0,RT @3DPrintingFans: 3D Printing Shootout: $599 Printrbot Takes on the $25k Stratasys uPrint — and Wins - http://t.co/NypNKPt4uf http://t.co…
+128,564960620575850496,Tue Feb 10 01:34:43 +0000 2015,2,0,"RT @NiskyBots: As a robotics club, we understand how important net neutrality is to innovation. Please sign the petition for this. https://…"
+129,564959878741884928,Tue Feb 10 01:31:46 +0000 2015,2,3,"The @NiskyBots 3d printer realtime gcode manager/process/sender is going well (with @bugsnag added), but it still needs a name. Ideas?"
+130,564866117965869057,Mon Feb 09 19:19:11 +0000 2015,0,0,Will @GregoryMeeks kill the Internet? See http://t.co/BXlSyt9deE and http://t.co/tiFBpKI7qO right now! https://t.co/VojgZ2DdqT
+131,564860601046818816,Mon Feb 09 18:57:16 +0000 2015,0,0,http://t.co/PeUNWq2oDd via @demandprogress
+132,564545259309236224,Sun Feb 08 22:04:13 +0000 2015,0,0,@Dillbob28 Spam much?
+133,563465125295050752,Thu Feb 05 22:32:09 +0000 2015,0,1,"@NiskyBots Thanks for posting this! I'm working with a friend on this during our R+D meetings. Also, please tag @OctoPrint3D ."
+134,557674610125447168,Tue Jan 20 23:02:42 +0000 2015,199,0,RT @FIRSTweets: We also want to follow all the FIRST teams out there. RT if you are a FIRST team so we can follow you! #FF #FollowFriday #o…
+135,556858545031749633,Sun Jan 18 16:59:57 +0000 2015,0,1,End of the competitive season for my FTC team. I will open source the code repository if there is interest.
+136,553733182093139968,Sat Jan 10 02:00:53 +0000 2015,0,0,Builders taking their sweet time again; about a week left to build and code the robot :/ @NiskyBots @CarlNisky @Dr_Irani21
+137,551793543790870530,Sun Jan 04 17:33:27 +0000 2015,7,0,RT @KylePick27: It's so sad to hear about another loss to cancer for a great man. So many great people taken away too soon to cancer. It's …
+138,549763188892262401,Tue Dec 30 03:05:32 +0000 2014,0,0,I’ve just joined #7DaysofGiveaways. Win a OnePlus PowerBank here: http://t.co/YVJYpJi2Fv
+139,548678185294893057,Sat Dec 27 03:14:07 +0000 2014,0,0,Hoping for a possible tip heading my way! #bitcoinbowl @Bitcoin
+140,548486226110451713,Fri Dec 26 14:31:21 +0000 2014,0,0,"@flowhomeapp I'm getting ""email not found"" every time I try to submit."
+141,548486042316058624,Fri Dec 26 14:30:37 +0000 2014,0,0,@flowhomeapp @oneplus Sorry about that! I guess I'm part of the collective. Please do update us when it is up again.
+142,544588473232293888,Mon Dec 15 20:23:04 +0000 2014,0,0,@4600_binarybots @FTC7837 nice to see I'm not the only one with timing issues for robot building :)
+143,544288582446243840,Mon Dec 15 00:31:25 +0000 2014,0,0,"@FTC7837 Congrats! As a programmer, I know how hard auton is, especially for Cascade Effect (then again our builders don't have a bot done)"
+144,543958702064033792,Sun Dec 14 02:40:35 +0000 2014,0,0,"@printrbot and @OctoPrint3D used in over 10 prints in 3 hours, with no failures (other than printing the wrong thing). Reliability awesome!"
+145,543836240580075520,Sat Dec 13 18:33:58 +0000 2014,0,0,Verifying that +hexafraction is my openname (my Bitcoin username). https://t.co/ZfD1BjxYGM
+146,543168286209232896,Thu Dec 11 22:19:45 +0000 2014,0,0,"Let's Gift Bitcoin, working to help improve Bitcoin adoption https://t.co/8Q10EYtLCk #GiftBitcoin #btc via @WallofCoins"
+147,542789235892178944,Wed Dec 10 21:13:33 +0000 2014,0,0,"@Bitcoin_Latest thanks! However, please don't link to my content through cur dot lv."
+148,541385893433454592,Sun Dec 07 00:17:10 +0000 2014,0,0,Verifying myself: I am hexafraction on Keybase.io. TwoMa_cenEEUK3Y20caE2OnlPz4ywOhnBOSu / https://t.co/wp4DGFT6sb
+149,540682465963020288,Fri Dec 05 01:41:59 +0000 2014,4,0,RT @kabdoun220: +C +C +C +C +C +C +C +C +C +C +C
+150,540625137628758017,Thu Dec 04 21:54:11 +0000 2014,0,0,Verifying myself: I am hexafraction on Keybase.io. U6Yf14w8SEs3hAQEAFb1HNL2OkbZZSDEcpr4 / https://t.co/mqMjT9POQd
+151,540624164743180288,Thu Dec 04 21:50:19 +0000 2014,0,0,Verifying myself: I am hexafraction on Keybase.io. 4p7GwwYsWJ7J4xuzf1LTcBPVMkIdCj3BTriY / https://t.co/8zDtlQ0W5H
+152,538885025115029504,Sun Nov 30 02:39:36 +0000 2014,0,0,@CarlNisky @tasonjang FTC fundraising via http://t.co/CK6jDYJjEV and @weareEdco?
+153,538781754505457664,Sat Nov 29 19:49:15 +0000 2014,0,0,@TuxedoPandas @PTC_Creo Surprised PTC Creo doesn't autosave. I instinctively tap Ctrl+S when i'm idle now due to same troubles once
+154,538129578196099073,Fri Nov 28 00:37:44 +0000 2014,0,0,Some sftware can only truly suck when running on bad hardware.
+155,538128593956507649,Fri Nov 28 00:33:49 +0000 2014,0,0,@CarlNisky If FTC allowed an open-source software stack with a powerful quality assurance team... We're stuck with proprietary programs
+156,538127630587793408,Fri Nov 28 00:29:59 +0000 2014,0,0,"@CarlNisky At this point, awaiting a reply from robotc staff regarding a possible compiler bug--if actually a bug, setback a few days"
+157,538097822336163841,Thu Nov 27 22:31:32 +0000 2014,0,1,"@kabdoun220 Which is why #define, C++, and C are inherently evil."
+158,537640939053776898,Wed Nov 26 16:16:03 +0000 2014,0,1,@jman710 this is in market32.
+159,537439466705534977,Wed Nov 26 02:55:28 +0000 2014,0,0,@NiskyBots is stressing me out--I am the only programmer and builders can't check their own work.
+160,537011929777070081,Mon Nov 24 22:36:35 +0000 2014,0,0,@sdalakos9 Why would you not want to go to Nisky?
+161,536562711295840256,Sun Nov 23 16:51:33 +0000 2014,4,0,"RT @brunoborges: ""A coder is a person for whom coding is more difficult than it is for other people."" - modified QOTD by Thomas Mann"
+162,535939301272342529,Fri Nov 21 23:34:21 +0000 2014,0,1,Hard disk died. Running off a similar disk I kept in a closet. Quick fix thanks to backup.
+163,535889806044061696,Fri Nov 21 20:17:40 +0000 2014,16,0,RT @DUCKNCOVER7037: True! http://t.co/4FMqknbRCB
+164,535557831249129472,Thu Nov 20 22:18:31 +0000 2014,1,0,Don't cry over spilled acetone. http://t.co/91qQDm9MCg
+165,535520235567476736,Thu Nov 20 19:49:08 +0000 2014,1,0,RT @CarlNisky: New 80/20 parts are in. http://t.co/L6pyjuSwR2
+166,535480624149463042,Thu Nov 20 17:11:44 +0000 2014,2,0,Printing a die. http://t.co/t9JfceHRW6
+167,535216363099676674,Wed Nov 19 23:41:39 +0000 2014,0,1,@elyssaconnolly Get a rack of servers or bitcoin/litecoin miners and run them at full blast. It should heat up your house and get work done.
+168,535121810057334784,Wed Nov 19 17:25:56 +0000 2014,0,0,@CarlNisky I forgot to check.
+169,534491758307336192,Mon Nov 17 23:42:20 +0000 2014,0,0,@mastermainframe contest part 3 is nearly done for me!
+170,534146599992045569,Mon Nov 17 00:50:48 +0000 2014,0,1,We need a name for our FTC robot; any suggestions? The design emphasizes smart programming.
+171,533566491908911104,Sat Nov 15 10:25:39 +0000 2014,3,0,RT @FTCTeam6085: This looks like the perfect place to sleep after a loooooong build sesh... http://t.co/m4sITn4tc0
+172,533221265134596097,Fri Nov 14 11:33:51 +0000 2014,2,0,RT @3DPrintingFans: Mosaic Manufacturing Reveals Incredible Multi-Colored 3D Printing from a Single Extruder - http://t.co/WMEbFMVprW http:…
+173,532706985566044160,Thu Nov 13 01:30:17 +0000 2014,7036,0,RT @Philae2014: I’m on the surface but my harpoons did not fire. My team is hard at work now trying to determine why. #CometLanding
+174,531963661817249792,Tue Nov 11 00:16:35 +0000 2014,0,0,@RobotC advanced joystick driver for FTC: https://t.co/4IKg04fq3C Looking for suggestions!
+175,531962030912466944,Tue Nov 11 00:10:06 +0000 2014,4,0,"RT @brunoborges: Do you know what this tweet means? 1,968 people hate #Obamacare and have no idea on what #NetNeutrality actually is. http:…"
+176,530393001965924353,Thu Nov 06 16:15:20 +0000 2014,0,0,Black Hat Usa 2014 - Reverse Engineering: Capstone Next Generation Disassembly Framework - http://t.co/SPWCDhCFzy
+177,530385440583720961,Thu Nov 06 15:45:17 +0000 2014,0,0,Interview with Rackspace's Everett Toews on Apache jclouds - http://t.co/MpjNqgSqTK
+178,530172583040135168,Thu Nov 06 01:39:28 +0000 2014,1,0,"RT @TheQisSilqent: Q Tip 103
+New this year: high traction wheels are prohibited for fear of field destruction. Example- http://t.co/dAKEUsl…"
+179,530151409493090304,Thu Nov 06 00:15:20 +0000 2014,0,0,Securing WebSocket using wss and HTTPS/TLS - http://t.co/ZIM0Zpjkuc
+180,529954943491670016,Wed Nov 05 11:14:39 +0000 2014,0,0,"@printrbot We're enjoying our printer, but it would've been nice for the first roll of PLA to come spooled. We lost a print b/c of a tangle."
+181,529595164638347264,Tue Nov 04 11:25:01 +0000 2014,92,0,RT @newscientist: Who will be up to programming millions of processor cores working together? http://t.co/mt2w18Hp2y (corrected) http://t.c…
+182,529396485184430080,Mon Nov 03 22:15:32 +0000 2014,0,1,@bugsnag's open source plan is quite useful for tracking exceptions and errors in FOSS software. Sign up now for free!
+183,529228995385376768,Mon Nov 03 11:09:59 +0000 2014,5,0,"RT @LazyBotts: Lot's of progress today. we got the split Archimedes screw put together and tested, and ball-sweeper attached. http://t.co/d…"
+184,529050872530341888,Sun Nov 02 23:22:11 +0000 2014,0,0,"3D printed a cube today. Thanks, @printrbot! http://t.co/C1Kp8RL3YE"
+185,528880721411444736,Sun Nov 02 12:06:04 +0000 2014,0,0,I may have discovered a proof to this theorem but it does not fit within 140 characters --@PierreDeFermat
+186,528875521690845184,Sun Nov 02 11:45:25 +0000 2014,1,0,@printrbot Our FTC team is trying your simple metal for the first time today. Very excited to see the results!
+187,528711564120305664,Sun Nov 02 00:53:54 +0000 2014,1,0,"RT @TheQisSilqent: Q Tip 98
+Your drive team captain should coordinate with your alliances captain during the match to maximize efficiency."
+188,528690119935815680,Sat Nov 01 23:28:41 +0000 2014,0,0,@FTCTeam6085 things have seemed to pick up for us. Yesterday I ended up deploying an initial working telop program with my joystick driver.
+189,528685666746777600,Sat Nov 01 23:11:00 +0000 2014,0,0,"@FTCTeam6085 thanks, we've sadly had some team dynamic issues, and got behind. I've been mainly waiting for a robot design to program."
+190,528662770171248640,Sat Nov 01 21:40:01 +0000 2014,0,0,RobotC advanced joystick driver with button event support is coming along. I hope to publish a tested version within a week or two.
+191,528662427068821504,Sat Nov 01 21:38:39 +0000 2014,552,0,"RT @UNICEF: ""Happy! I’m so happy!"" Adamsay, 11, who was declared #Ebola free. Pic via @UNICEFSL http://t.co/KZ9ofEaNxc"
+192,528658142096551936,Sat Nov 01 21:21:37 +0000 2014,1,0,"@got_robot Thanks! I guess I'll introduce myself then. I'm the (sole) programmer for @NiskyBots, competing in upstate NY."
+193,527955556947202048,Thu Oct 30 22:49:48 +0000 2014,3,0,RT @LEDRobotics: Shooter is going on! #OMGRobots #CascadeEffect http://t.co/B0YiEH7pX5
+194,527932804105916416,Thu Oct 30 21:19:23 +0000 2014,0,4,"@kabdoun220 No, we graphed functions."
+195,527400647029960704,Wed Oct 29 10:04:47 +0000 2014,0,2,"@fareenaaslam16 Shouldn't have used your GB to begin with. If you consider how computer systems used to be, you should be VERY happy now."
+196,527230448628293632,Tue Oct 28 22:48:29 +0000 2014,503,0,RT @WFP: #Ebola killed 11 in my family. I’m doing my utmost to keep my kids safe – Oritha from #Liberia http://t.co/0dVxI3tbUZ http://t.co/…
+197,527225542186389504,Tue Oct 28 22:28:59 +0000 2014,1,4,@kabdoun220 Good job getting caught trying to sneak out of math class.
+198,527187926606962688,Tue Oct 28 19:59:31 +0000 2014,0,0,"Every time I see another team's FTC robot, my disappointment in mine increases."

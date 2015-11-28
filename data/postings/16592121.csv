@@ -1,0 +1,263 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668518447492538368,Sun Nov 22 19:56:33 +0000 2015,57,0,RT @_ericelliott: They said JS was slow. Now it's fast. Said we had no dev tools. We have the best. Said it sucks for big apps. We rock the…
+1,668076163282165760,Sat Nov 21 14:39:04 +0000 2015,8,0,"RT @etiene_d: Oh, you should definitely check Starlight, a Lua-&gt;JS transpiler! It's amazing! I use it for frontend on Sailor! https://t.co/…"
+2,667357568499609601,Thu Nov 19 15:03:37 +0000 2015,2,0,RT @wiekatz: JavaScript Promises ... In Wicked Detail https://t.co/WGdfDNVMqy by @cityfortyone https://t.co/8wtuSzVMtE
+3,667114121704439808,Wed Nov 18 22:56:15 +0000 2015,15,0,"RT @paf31: #purescript v0.7.6.1 is out, featuring record field puns, improved generic deriving, and lots more 
+https://t.co/CTcNaf763S"
+4,666594219616804865,Tue Nov 17 12:30:21 +0000 2015,29,0,"RT @rauschma: Node.js and ES6 Instead of Java – A War Story (Part II): The Joy and Pain of Test-driven Development (by @wiekatz)
+https://t.…"
+5,665234224497172481,Fri Nov 13 18:26:13 +0000 2015,0,0,"Common #haskell functions impemented in #JavaScript, Part1: https://t.co/l3avkE4C9N"
+6,664105543171182592,Tue Nov 10 15:41:14 +0000 2015,1,1,“Part 3: An Intro to Functional Programming Concepts in JavaScript” by @collardeau https://t.co/8CUrLNbQql
+7,664031519464402944,Tue Nov 10 10:47:06 +0000 2015,4,0,RT @bterlson: Some experimental improvements to https://t.co/LvTFtxmPDK: drastically improved search relevancy &amp; current clause highlights …
+8,664029941982494721,Tue Nov 10 10:40:49 +0000 2015,4,0,"RT @JS_Cheerleader: So excited for our next webcast! What's so special about functional programming? Find out: 
+https://t.co/JBAHoR9WfO …
+#…"
+9,664028017036025856,Tue Nov 10 10:33:10 +0000 2015,30,0,"RT @rauschma: wu.js (by @fitzgen): library with the usual FP functions (zip, map, filter, …), but for ES6 iterables.
+https://t.co/VDquZbAcep"
+10,660586919835918336,Sat Oct 31 22:39:29 +0000 2015,0,0,@Matthias_Apsel @g16n @cjk101010 Dschungel
+11,657926378034221056,Sat Oct 24 14:27:26 +0000 2015,0,0,A Beginner’s Guide to Currying in Functional #JavaScript https://t.co/McAJaeTNTc via @sitepointdotcom
+12,657905897507856384,Sat Oct 24 13:06:03 +0000 2015,0,0,Here is another fairly good introduction to functional programming with #javascript https://t.co/qnlTzKz8W9
+13,657588436002578432,Fri Oct 23 16:04:35 +0000 2015,709,0,RT @meat: what idiot called it functional programming with immutable data structures and not separation of Church and state
+14,655822637499850752,Sun Oct 18 19:07:56 +0000 2015,0,1,"Somebody should make a native port of ""React Native for Web"". https://t.co/OZy3H4o1Fn"
+15,654390325834850308,Wed Oct 14 20:16:26 +0000 2015,626,0,RT @SciencePorn: This woman's code got humans on the moon -- and invented software itself http://t.co/zaZKO2zyQW http://t.co/ELceKj4gKS
+16,653835166801088512,Tue Oct 13 07:30:26 +0000 2015,0,0,#JSON extended with pure functions https://t.co/b5YY11fSFv
+17,653814060316758016,Tue Oct 13 06:06:33 +0000 2015,13,0,"RT @mattpodwysocki: Nice, an article about lazy evaluation and modularity with generators without resorting to only Fibonacci sequences htt…"
+18,651686685630164992,Wed Oct 07 09:13:08 +0000 2015,0,0,Debugging tips for functional programming in #javascript https://t.co/vBrqOh8mIG
+19,651492282697404416,Tue Oct 06 20:20:38 +0000 2015,37,0,"RT @rauschma: “Node.js and ES6 Instead of Java – A War Story” by @wiekatz
+http://t.co/HRycBWXHne"
+20,651413311737696256,Tue Oct 06 15:06:50 +0000 2015,38,0,"RT @rauschma: “List of JavaScript libraries for immutable data structures” by @jlongster
+https://t.co/bEFT8gxagV"
+21,651038744498315264,Mon Oct 05 14:18:27 +0000 2015,0,0,"@racketlang Yep, that's the case. Thank you very much!"
+22,651035083760136192,Mon Oct 05 14:03:54 +0000 2015,0,0,"Hey @racketlang, @Dr_Racket i keep getting this errormessage, it seems unknown to the internet. Can you help me out? http://t.co/nWaBSQRFPc"
+23,650243022945435648,Sat Oct 03 09:36:32 +0000 2015,0,0,Someone bought http://t.co/ALO9jLV9GW for $12 and owned it for a literal minute https://t.co/TPl6EiWU9k via @reddit
+24,648896841375985664,Tue Sep 29 16:27:17 +0000 2015,124305,0,RT @Snowden: Can you hear me now?
+25,648870428669308928,Tue Sep 29 14:42:20 +0000 2015,0,0,"@KingSalman Ich fordere Sie auf, das Todesurteil gegen Ali Mohammed Baqir al-Nimr aufzuheben."
+26,646775628054687745,Wed Sep 23 19:58:20 +0000 2015,54,0,"RT @rauchg: NginX adds JS to enable ""conditional configurations, modify requests and responses on the fly, and adjust internals""
+https://t.…"
+27,646744096619560964,Wed Sep 23 17:53:03 +0000 2015,172,0,"RT @benjamn: Rewriting @meteorjs with #ECMAScript2015 often feels like destroying a sweater, except you get a better sweater: http://t.co/y…"
+28,646458819401392128,Tue Sep 22 22:59:27 +0000 2015,0,1,Recursion aerobics (The applicative Y-combinator) | Pointwise Musings http://t.co/HevgpeuIxN via @anler
+29,644937591104634880,Fri Sep 18 18:14:38 +0000 2015,33,0,"RT @rauschma: I think named parameters should become the dominant function/method style for ES6:
+
+pt({ x: 0, y: -1 })
+
+http://t.co/3QAZ23RI…"
+30,644522437355417600,Thu Sep 17 14:44:58 +0000 2015,188,0,RT @Manz: Javascript... http://t.co/CyVlMIIQR4
+31,644450122370318336,Thu Sep 17 09:57:37 +0000 2015,0,2,Just another #frp-Library for #JavaScript https://t.co/wBPVwXZzKX
+32,643830799142268928,Tue Sep 15 16:56:38 +0000 2015,0,0,&lt;3 https://t.co/eXqpEUNHNq
+33,643825105521537024,Tue Sep 15 16:34:01 +0000 2015,0,0,Understanding the functional revolution in front-end applications | React and be thankful http://t.co/ZX37OtjAo8 via @tcroch
+34,643504832985341952,Mon Sep 14 19:21:22 +0000 2015,0,0,"I'm guilty and you may be, too https://t.co/2XmwdYGFnZ"
+35,643503804135141376,Mon Sep 14 19:17:17 +0000 2015,0,0,"I propose a killer feature for @JSHint: class foo {...} should throw a warning stating ""foo is not a function""."
+36,643002126101270528,Sun Sep 13 10:03:47 +0000 2015,0,0,@GruenesLila @MissCharlez @smoitzheim
+37,642094175106801665,Thu Sep 10 21:55:55 +0000 2015,0,0,This sudoko-solver written in 13 lines of prolog is really impressive: http://t.co/J3NMuWtoKC
+38,640074597455560704,Sat Sep 05 08:10:50 +0000 2015,2657,0,RT @teozaurus: Programming with shared mutable state: http://t.co/5bndmkC6FU
+39,637238971534344193,Fri Aug 28 12:23:04 +0000 2015,180,0,RT @ArsTechnicaUK: Google Chrome will block auto-playing Flash ads from September 1 http://t.co/ll9RJiE7Om by @markalexwalton
+40,636866697950023680,Thu Aug 27 11:43:47 +0000 2015,121,0,RT @LydsG: 50 #refugees dead in lorry in #Austria. What does it take for #EU leaders 2 wake up &amp; deal with #migrantcrisis: http://t.co/Rov1…
+41,635462296995778561,Sun Aug 23 14:43:12 +0000 2015,2,2,#Java gave me a 400 row long stacktrace to tell me that i forgot a static keyword.
+42,634483568614445056,Thu Aug 20 21:54:05 +0000 2015,0,0,I'm going on an adventure! http://t.co/y2M06K357u
+43,633759316454035456,Tue Aug 18 21:56:10 +0000 2015,0,0,I'm stunned: @MicrosoftEdge is the first browser to fully support #EcmaScript6 proxies. http://t.co/wodn06ISEp
+44,632173806233198592,Fri Aug 14 12:55:55 +0000 2015,0,1,@JS_Cheerleader @_ericelliott meanwhile in c++: 0
+45,632165939501498369,Fri Aug 14 12:24:39 +0000 2015,0,0,@_ericelliott That's my point.
+46,631912977961230336,Thu Aug 13 19:39:28 +0000 2015,0,0,@_ericelliott PS: In JS most abstractions involve both: side effects as well as computational effects.
+47,631911994556317696,Thu Aug 13 19:35:34 +0000 2015,0,0,@_ericelliott Linking these concepts to anonymous functions versus lambdas raises more questions than answers.
+48,631911403075584001,Thu Aug 13 19:33:13 +0000 2015,0,0,@_ericelliott This is more like the difference between a side-effecting procedure and a computional-effecting function.
+49,631378346841083904,Wed Aug 12 08:15:02 +0000 2015,0,3,@w3cmemes @tc39memes Don't forget @ycombinator here
+50,630833433665765376,Mon Aug 10 20:09:45 +0000 2015,214,0,RT @jsfiddle: You can now use ES6 (via @babeljs) in JSFiddle. http://t.co/Y50HRlpi2E
+51,630825122857918464,Mon Aug 10 19:36:44 +0000 2015,128,0,RT @elyseholladay: RT this if you pledge to speak up the next time you hear someone spouting sexist assumptions at a tech event/conf/work 👂…
+52,630825105384456193,Mon Aug 10 19:36:39 +0000 2015,38,0,"RT @elyseholladay: and frankly we're just real tired of either having to be super polite, or educate everyone, so it'd be real cool if you …"
+53,630825039491919872,Mon Aug 10 19:36:24 +0000 2015,44,0,RT @elyseholladay: it's an unfortunate truth that a lot of men will take the rebuke more seriously coming from another man than coming from…
+54,630825014015721472,Mon Aug 10 19:36:18 +0000 2015,88,0,"RT @elyseholladay: please be the one to speak up. all you have to do is:
+
+""hey man, that's not appropriate/that's rude to discuss her looks…"
+55,630824999201447936,Mon Aug 10 19:36:14 +0000 2015,47,0,"RT @elyseholladay: or hear someone tell a woman who was speaking that she gave a great talk ""for a woman"" or that she's ""really beautiful"" …"
+56,630824986232668160,Mon Aug 10 19:36:11 +0000 2015,41,0,"RT @elyseholladay: or this: https://t.co/ulY2X9tB3k
+
+or this: https://t.co/HCmF5mrUMb"
+57,630824974966779904,Mon Aug 10 19:36:08 +0000 2015,62,0,"RT @elyseholladay: the next time you're at work, or a tech event, meetup, or conference, and you see something like this:
+
+https://t.co/Ln4…"
+58,630786454554284032,Mon Aug 10 17:03:04 +0000 2015,17,0,"RT @rauschma: New experimental V8 feature: start with interpreted bytecode, compile later.
+https://t.co/DnOxfMH3Gk"
+59,630146105364357124,Sat Aug 08 22:38:33 +0000 2015,0,1,I'd love::(bindOperator) https://t.co/uPLHrGLcFw
+60,630088542811725824,Sat Aug 08 18:49:49 +0000 2015,0,0,@rauschma don't you have a search function for http://t.co/KHEJWlC6F9 or am i just too stupid to find it?
+61,629932631543709696,Sat Aug 08 08:30:17 +0000 2015,0,0,JavaScript is the C++ of the Web http://t.co/WeFdLAs6Cr via @Love2Code
+62,629784913923964930,Fri Aug 07 22:43:18 +0000 2015,100,0,"RT @richardadalton: I guess you aren't ready from immutability yet. But your kids are going to love it.
+#BackToTheFSharp http://t.co/ueRY8g…"
+63,629730140352868352,Fri Aug 07 19:05:39 +0000 2015,0,0,Lesson learned today: First step towards understanding recursion is understanding fixed-point operators.
+64,629689298573524992,Fri Aug 07 16:23:22 +0000 2015,4274,0,RT @ThePracticalDev: Debugging http://t.co/3CWHcT6ndi
+65,629008384461799424,Wed Aug 05 19:17:39 +0000 2015,29,0,"RT @housecor: ""If you are not writing incremental code, you are writing excremental code.""
+
+- @jeremybytes 
+
+#cleancode #qltechconf"
+66,627379754656776192,Sat Aug 01 07:26:04 +0000 2015,50,0,"RT @JS_Cheerleader: Learn ES6:
+1. http://t.co/pMuxEuTLXn @slicknet
+2. http://t.co/A54LipFqxf @getify,
+3. http://t.co/6lNkM18HH1 @rauschma #…"
+67,626715253901033477,Thu Jul 30 11:25:34 +0000 2015,125,0,"RT @khellang: ""So many good choices today but... Anything but PHP, or as I like to call it, Server Herpes."" - @codinghorror"
+68,625687603040374784,Mon Jul 27 15:22:03 +0000 2015,26,0,RT @Joseph_Wynn: I'm maintaining a list of resources for learning about functional programming. Anybody have anything to add? http://t.co/7…
+69,624932505028792320,Sat Jul 25 13:21:34 +0000 2015,0,0,Everybody should write a curry-function once (a while) https://t.co/MBEngy1hiE
+70,624836809885937664,Sat Jul 25 07:01:19 +0000 2015,224,0,RT @IanProJones: “‘The problem with object-oriented languages is they’ve got all this…” — @_ericelliott https://t.co/XoByLzAXSr http://t.co…
+71,624506810913947648,Fri Jul 24 09:10:01 +0000 2015,14,0,RT @_ericelliott: The Way of the Functional Programmer: https://t.co/hSgR9axvZw #js #JavaScript
+72,624102766747754496,Thu Jul 23 06:24:29 +0000 2015,8,0,"RT @_ericelliott: Curry and partial application are important in functional programming. What are they? https://t.co/s6hqp9p0Sw
+#JavaScript"
+73,622824756119666688,Sun Jul 19 17:46:08 +0000 2015,135,0,RT @dan_abramov: the story of my life http://t.co/bcXwN820AI
+74,622489081075904512,Sat Jul 18 19:32:16 +0000 2015,29,0,RT @YDKJS: Have you been wondering http://t.co/evpJc2UksR? I wrote a book series.
+75,622488915149099008,Sat Jul 18 19:31:37 +0000 2015,76,0,RT @JavaScriptDaily: The Mostly Adequate Guide to Functional Programming (in JS): https://t.co/fCbbafGrXl
+76,619232921371721728,Thu Jul 09 19:53:27 +0000 2015,0,0,"Everytime you write a for-loop, you should ask yourself ""for what?"", for mapping? for folding? for side-effects? and then dismiss the loop."
+77,618464728705298432,Tue Jul 07 17:00:56 +0000 2015,2337,0,RT @idiot: http://t.co/QrZ7hdbMQ3
+78,618433359623155712,Tue Jul 07 14:56:17 +0000 2015,0,0,@CSU etwas Geschichstbewusstsein und Selbsrefklektion sind höchst überfällig.
+79,618433012192161793,Tue Jul 07 14:54:54 +0000 2015,0,0,"@1UnitedPower Wenn Wahlen links sind, wo ist dann rechts liebe @CSU ?"
+80,618432770382131200,Tue Jul 07 14:53:57 +0000 2015,0,0,"Da gibt es tatsächlich Stimmen aus der CSU, die behaupten, die Wahlen in Griechenland wären eine linke Tour."
+81,615869781921693696,Tue Jun 30 13:09:32 +0000 2015,0,0,"This is how @typo3 developers debug JavaScript. Btw. there is another function called ""str_replace"" in the same file. http://t.co/ov9zU8MAWr"
+82,615846172410953728,Tue Jun 30 11:35:44 +0000 2015,43,0,"RT @2ality: Tail call optimization in ECMAScript 6
+http://t.co/NYjce8xXSG"
+83,615804906901929984,Tue Jun 30 08:51:45 +0000 2015,0,0,Naming things is one of the two hard problems in computer science. But due to its abbreviating-culture @typo3 took this problem to a new lvl
+84,612324354894995457,Sat Jun 20 18:21:17 +0000 2015,7,0,"RT @raganwald: For those who pointed out that “Functional Mixins” are not “pure,” I give you “Purely Functional Composition:”
+
+http://t.co/…"
+85,611267143775162371,Wed Jun 17 20:20:18 +0000 2015,0,0,@cjk101010 Imagine the imperator would've been the declarator instead. Would the rebels still have won? Would there had been rebels at all?
+86,611252279786754048,Wed Jun 17 19:21:14 +0000 2015,0,0,"@cjk101010 no, for their own and everybodies disadvantages."
+87,611249521536970752,Wed Jun 17 19:10:17 +0000 2015,0,0,I wish customers could be more declarative and less imperative and tell me _what_ to do and not _how_ to do something. That'd be great.
+88,608896532981686272,Thu Jun 11 07:20:20 +0000 2015,1214,0,"RT @iamdevloper: $ sudo apt-get install -y nodejs &amp; npm install bower &amp; bower install jquery
+
+You are now ready to fade a div out."
+89,608256272899706880,Tue Jun 09 12:56:10 +0000 2015,1,2,An introduction to higher order functions in #JavaScript by @mdavidgreen http://t.co/KNrUbpNzfn
+90,606486786567766016,Thu Jun 04 15:44:52 +0000 2015,0,0,@msdev @wpdev I am currently runnning Windows 10 TP. I could'nt copy a error-message about a missing dll-file into my clipboard.
+91,606462892880359424,Thu Jun 04 14:09:55 +0000 2015,0,1,"Happy 20th, @SELFHTML! ♥"
+92,606461486471495680,Thu Jun 04 14:04:20 +0000 2015,0,0,"Is there any microsoft-guy, who wants to secure his place in heaven? Then please make error-messages of system-alerts copyable @msdev @wpdev"
+93,606158562054828032,Wed Jun 03 18:00:37 +0000 2015,5,0,"RT @raganwald: Reddit on JavaScript’s type coercions:
+
+“What's 5 apples minus 7 bananas? Antimatter fruit salad?”
+
+http://t.co/qGkphuWr1e"
+94,606114194631573504,Wed Jun 03 15:04:19 +0000 2015,19,0,RT @johntnorris: A classic. @aral #userexperience http://t.co/5lLSZI7vXs
+95,605273594793459712,Mon Jun 01 07:24:05 +0000 2015,7,0,"RT @raganwald: “const variables and immutable data are almost completely orthogonal concepts.”
+
+http://t.co/N6flHLegbn"
+96,604745848896012288,Sat May 30 20:27:00 +0000 2015,84,0,RT @JavaScriptDaily: Polymer 1.0 Released: http://t.co/u0Sn92TDrz
+97,604185525679968257,Fri May 29 07:20:29 +0000 2015,91,0,"RT @tlhunter: Finally, now that #JavaScript #ES6 is here, we'll never have to write `var self = this;` ever again!
+
+Now we write `let self …"
+98,603560067972071425,Wed May 27 13:55:08 +0000 2015,0,0,"@cjk101010 I'm currently sitting in an open office, guess somebody would have killed me, if i did so. *Saved for later*"
+99,603558874445160448,Wed May 27 13:50:23 +0000 2015,0,0,"@cjk101010 Seems that i'm not that original person, that i thought i'd be. Thanks for pointing that out &gt;:-("
+100,603556836487344128,Wed May 27 13:42:18 +0000 2015,0,0,@1UnitedPower supercalifragilisticexpialidocious
+101,603556756426457089,Wed May 27 13:41:58 +0000 2015,0,0,"My next tweet will be my 100th tweet, and don't know what to say. So..."
+102,603540587548168192,Wed May 27 12:37:43 +0000 2015,0,0,Partial application for options object http://t.co/RGt0aLWxAi #mustread #feedly
+103,603206970846388225,Tue May 26 14:32:03 +0000 2015,2,0,"If you're missing something in the @PhantomJS docs, take a look into the @slimerjs docs."
+104,601143457244180481,Wed May 20 21:52:23 +0000 2015,2,1,"Hope this restores some of your faith in JavaScript-Ninjas, @g16n  https://t.co/Mt7giF6EOV"
+105,599133926641242112,Fri May 15 08:47:14 +0000 2015,29,0,RT @ScripttheWeb: Emulating an 8080 CPU in #JavaScript to play the original space invaders http://t.co/e9Q8DdJGE3 #gamedev #html5 via @Lewp…
+106,598761340136771584,Thu May 14 08:06:42 +0000 2015,8,0,RT @_ericelliott: Get over your mutable state stockholm syndrome with @leeb https://t.co/iZOARM4lmv #JavaScript #react
+107,597379720058150914,Sun May 10 12:36:38 +0000 2015,4,0,RT @_ericelliott: What is your favorite functional JavaScript book? JavaScript Allongé by @raganwald | Functional JavaScript by Michael Fog…
+108,596208074853130240,Thu May 07 07:00:56 +0000 2015,41,0,RT @thejohnjansen: omg.omg.omg TimeTravel Debugging in F12! You can go backward through javascript after hitting a break point!!! #msedgesu…
+109,595855818899234816,Wed May 06 07:41:12 +0000 2015,98,0,RT @jo_liss: This is why we need feminism: Marvel CEO Doesn't Believe in Female Superheroes http://t.co/qpFgVuGr3M http://t.co/tgaxyS56Ox
+110,595675674989436929,Tue May 05 19:45:22 +0000 2015,0,0,"Finally a newsletter i can accept, thank you @mozilla for your article-series on EcmaScript 2015: https://t.co/xPZsyRbUbu"
+111,595174923166965761,Mon May 04 10:35:34 +0000 2015,1,0,"German book about functional JavaScript, available for free online. https://t.co/ji04qLkEem"
+112,595128477592002561,Mon May 04 07:31:00 +0000 2015,1,0,You should be using functors in JavaScript: http://t.co/AHVaWaTCts
+113,595122590101942272,Mon May 04 07:07:36 +0000 2015,115,0,"RT @html5_yoda: &lt;time datetime=""2015-05-04""&gt;May the 4th&lt;/time&gt; be with you #html5"
+114,594793162260029441,Sun May 03 09:18:35 +0000 2015,14,0,"RT @YDKJS: Ch7 ""Meta Programming"" of ""ES6 &amp; Beyond"" is now (draft) complete…finally!
+
+https://t.co/LfU2Rxejkk"
+115,594792285658816513,Sun May 03 09:15:06 +0000 2015,12,0,"RT @_ericelliott: Chrome's Console API Greatest hits - .dir(), .table(), debug levels, and other great lesser-known features: http://t.co/q…"
+116,593694266813198336,Thu Apr 30 08:31:58 +0000 2015,7,0,"RT @yatil: Now we know why we write
+
+Header set X-UA-Compatible ""IE=edge""
+
+in our .htaccess ;-)"
+117,593479436940550144,Wed Apr 29 18:18:18 +0000 2015,247,0,RT @IEDevChat: Announcing the new browser for Windows 10: Microsoft Edge #Build2015 #MicrosoftEdge
+118,593477654147375106,Wed Apr 29 18:11:13 +0000 2015,438,0,RT @electronjs: Visual Studio Code is an Electron app https://t.co/RyzJjVyutG #Build2015
+119,593091913936445441,Tue Apr 28 16:38:26 +0000 2015,50,0,"RT @bascule: ""A monad is just a monoid in the category of endofunctors"" is basically the ""Bro do you even lift?"" of functional programming"
+120,593035747646709760,Tue Apr 28 12:55:14 +0000 2015,0,0,"@openwebdaily @_ericelliott i love the idea, but it looks like it was built in the 90's. The font-face hurts my brain while reading."
+121,593028486312402944,Tue Apr 28 12:26:23 +0000 2015,0,0,"People keep using ""pure"" in conjuction with FP in JS without caring about its meaning. If you don't know, what ""purity"" means, don't use it."
+122,593024400796033024,Tue Apr 28 12:10:09 +0000 2015,5,0,"RT @_ericelliott: For the masses, let is the new var. For the cool kids, const is the new var. Are you cool? ;) https://t.co/hSgR9aP6R4 #ES…"
+123,591579722573819904,Fri Apr 24 12:29:31 +0000 2015,0,0,"@molily ich weiß du hast Probleme mit selfhtml, aber ich würde mich riesig freuen dich auf diesjährigen treffen kennen zu lernen 😊"
+124,591578937064587264,Fri Apr 24 12:26:24 +0000 2015,129,0,RT @gigasquid: It is real. I wrote a Clojure book and am actually holding it in my hand! http://t.co/ni8HXZTMWq http://t.co/X01pnrZS6W
+125,591578774006804480,Fri Apr 24 12:25:45 +0000 2015,4,0,RT @_ericelliott: Locking down function parameters to only accept one type can be bad for code reuse. Prefer generic functions + duck typin…
+126,591515711962488832,Fri Apr 24 08:15:10 +0000 2015,108,0,"RT @tomdale: ""ES6 is backwards compatible because the web can't break the Space Jam website. It's a national treasure."" —@stevekinney"
+127,591514913962598400,Fri Apr 24 08:11:59 +0000 2015,0,0,@marcosc mostly because chrome synchs my login over several devices.
+128,591342603150483456,Thu Apr 23 20:47:17 +0000 2015,0,0,@marcosc on desktop i prefer spotify web player over native. On mobile it is the other way around.
+129,591178783090204673,Thu Apr 23 09:56:20 +0000 2015,2214,0,RT @FavreGregory: Best. Fortune Cookie. Ever. #smashingconf http://t.co/aHwkEew8Zs
+130,590813390420971520,Wed Apr 22 09:44:23 +0000 2015,32,0,"RT @reinboth: ""Wer Flüchtlingen helfen will, soll sie zu Hause aufnehmen."" Genau. Und wer gute med. Versorgung fordert, soll gefälligst sel…"
+131,590423109070671872,Tue Apr 21 07:53:33 +0000 2015,37,0,RT @housecor: Just had an awesome chat with @thejohnjansen from Microsoft's Spartan team - They're working on Web Components support!  #Flu…
+132,590260729468555264,Mon Apr 20 21:08:19 +0000 2015,3,0,"RT @Matthias_Apsel: Die @SELFHTML-Dokumentation ist tot, lang lebe die Doku http://t.co/kaeydWgfIv http://t.co/97UadWSgM8"
+133,590181905741524992,Mon Apr 20 15:55:06 +0000 2015,11,0,RT @ShriramKMurthi: This. https://t.co/aV9LlyC1WE
+134,590178052283437056,Mon Apr 20 15:39:47 +0000 2015,19,0,RT @sir_pepe: Firebug ist das Windows XP der Webentwicklung.
+135,590175726239948800,Mon Apr 20 15:30:32 +0000 2015,0,0,"The deeper i dig into FP, the more it seems that OOP is just a dirty work around procedural programming."
+136,589003396788658176,Fri Apr 17 09:52:07 +0000 2015,215,0,RT @abt_programming: Code Quality http://t.co/7UcDlQjQxe http://t.co/c2kDVI93ry
+137,588638171702947840,Thu Apr 16 09:40:51 +0000 2015,907,0,"RT @paul_irish: The protocol relative URL is now an anti-pattern. 
+If the asset is available on HTTPS, always request it with that. http://…"
+138,588637934376587265,Thu Apr 16 09:39:54 +0000 2015,45,0,RT @cmuratfatih: Summer Reading for Developers - #javascript #networking #lualang - @rauschma @_ericelliott @igrigorik @LuaLang http://t.co…
+139,588394343419006977,Wed Apr 15 17:31:57 +0000 2015,0,0,@rauschma the chrome web store seems promising to me https://t.co/cSdR8O2kPL
+140,586116264898199552,Thu Apr 09 10:39:41 +0000 2015,0,1,"Ramda developers talk about design-choices: http://t.co/rwSG8L0f5J A ""must read"" for functional JS lovers."
+141,585805487645577216,Wed Apr 08 14:04:46 +0000 2015,0,0,"Custom &lt;d-i&gt;-element, to group &lt;dt&gt; and &lt;dd&gt;: http://t.co/A7LYb2JTNn"
+142,585759837780312065,Wed Apr 08 11:03:22 +0000 2015,0,0,2015 and i am still fixing problems with website-encodings. Y U NO UTF8?
+143,581382588255879168,Fri Mar 27 09:09:45 +0000 2015,0,0,"@KaiDiekmann sträubt sich gerade auf peinlichste Weise gegen die Erziehungsversuche seiner Mitmenschen. Inkl. ""aber die NYT darf das auch"""
+144,581177137853558784,Thu Mar 26 19:33:22 +0000 2015,453,0,"RT @kangax: Oh wow, DevTools debugger now shows local variable values... right inline? This is kind of brilliant. http://t.co/Z1C37PIOJj"
+145,581122094634766337,Thu Mar 26 15:54:38 +0000 2015,130,0,"RT @DavidScheibler: Hallo @N24, geht's noch? Mal eben zu den Eltern des Co-Piloten fahren und Live-Bilder des Wohnhauses zeigen? Sigh. @nig…"
+146,581049621650259970,Thu Mar 26 11:06:39 +0000 2015,4,0,"RT @ddprrt: @Flocke ""Der Sinn dieser Aktion erschliesst sich mir nicht. Es muss also etwas mit SEO zu tun haben."" - Bravissimo! Ich lach Tr…"
+147,580852652751384576,Wed Mar 25 22:03:58 +0000 2015,578,0,"RT @iamdevloper: “How can we improve this PHP code?”
+
+CMD A + ⌫"
+148,580784525631979521,Wed Mar 25 17:33:16 +0000 2015,0,0,Heading towards my b.sc. thesis and need more knowledge. Im so excited. http://t.co/0qGGTOvIOq
+149,580719447763234816,Wed Mar 25 13:14:40 +0000 2015,0,2,Danke an den unermüdlichen @cjk101010 für das neue selfhtml-Forum! http://t.co/zHAWKOeZ0d
+150,580037512200130563,Mon Mar 23 16:04:54 +0000 2015,0,0,@JavaScriptDaily how can something be lightweight and jquery at the same time?
+151,580037232125468673,Mon Mar 23 16:03:47 +0000 2015,0,0,@sir_pepe oder noch besser den Flaschenhals finden und reparieren. Clientseitiges Rendering muss nicht langsam sein.
+152,580035878715817984,Mon Mar 23 15:58:24 +0000 2015,0,0,"@rauschma you can have them in chrome, too: https://t.co/FqH7cHcD9M"
+153,579226228797894656,Sat Mar 21 10:21:09 +0000 2015,17,0,"RT @kangax: Oh look, IE Tech Preview goes 70% → 74% on ES6 compat table — http://t.co/7CpM8w7oAB Almost reaching Babel's 76%. Exciting!"
+154,578958240450510848,Fri Mar 20 16:36:15 +0000 2015,172,0,RT @Bitsammelwanne: Der #Bundestag berät über #ITSicherheitsgesetz. Die Reaktionen sind überall gleich. http://t.co/V8SmlOxpto
+155,578950021518901248,Fri Mar 20 16:03:36 +0000 2015,253,0,"RT @tapioliller: Touché! @RaykAnders: Diese Antwort von @TabeaRoessner an die BILD ist einfach zu köstlich 
+:3 http://t.co/sfWZhpSAhV"
+156,578917249899237376,Fri Mar 20 13:53:22 +0000 2015,19,0,"RT @StarBurst1977: ""Good designers want to be proven right. Great designers want to be proven wrong."" - @andybudd #uxmunich"
+157,578234041595490305,Wed Mar 18 16:38:33 +0000 2015,97,0,"RT @ZDF: Wir haben eine neue Korrekturen-Rubrik gestartet, in der wir transparent Fehler in der Berichterstattung korrigieren: http://t.co/…"
+158,578233924255686656,Wed Mar 18 16:38:05 +0000 2015,57,0,"RT @jaffathecake: Great idea, but with a dev audience the reaction is often ""WTF HOW DARE YOU RELEASE THIS IMPERFECT INCOMPLETE THING"" http…"
+159,577919142067593216,Tue Mar 17 19:47:15 +0000 2015,127,0,RT @LeaVerou: Most high performance JavaScript best practices from 5 years ago are now premature optimization making your code less elegant…
+160,577825990925246465,Tue Mar 17 13:37:06 +0000 2015,0,0,Jemand auf der CeBit?
+161,576464668472045568,Fri Mar 13 19:27:41 +0000 2015,30763,0,"RT @terryandrob: AT LAST, SIR TERRY, WE MUST WALK TOGETHER."
+162,576463425754247168,Fri Mar 13 19:22:45 +0000 2015,0,0,@g16n @videolectures übersetzt Google Chrome neuerdings Flash nicht automatisch in html5? Hab da neulich was gelesen
+163,576461688477712384,Fri Mar 13 19:15:51 +0000 2015,463,0,RT @PlayerAttack: This is a much better alternative to charity collection boxes - Charity Arcade! #galaga http://t.co/UfZzH8C8QJ http://t.c…
+164,576350603309400064,Fri Mar 13 11:54:26 +0000 2015,331,0,"RT @addyosmani: Fetch is the new XHR &amp; is now in Chrome 42 beta!
+6 Samples: https://t.co/4jowMlNpEw
+Deep dive: http://t.co/YrG12G5xYY http:…"
+165,576045042541920256,Thu Mar 12 15:40:15 +0000 2015,0,0,It is often said that before you die your life passes before your eyes. It is in fact true. It's called living. - Terry Pratchett
+166,576043671319097345,Thu Mar 12 15:34:48 +0000 2015,46335,0,RT @terryandrob: The End.
+167,573118218220544000,Wed Mar 04 13:50:05 +0000 2015,680,0,"RT @cackhanded: The four stages of CSS:
+
+1. I don’t know CSS.
+2. I know enough CSS to get by.
+3. I _know_ CSS.
+4. Fuck CSS."
+168,568503693705920512,Thu Feb 19 20:13:37 +0000 2015,38,0,"RT @marcosc: The @w3c's CSS WG is looking to open up CSS with JS APIs - don't let this crappy website fool you, this is HUGE! https://t.co/…"
+169,568484546544607232,Thu Feb 19 18:57:32 +0000 2015,57,0,RT @w3c: Congratulations to IETF on New Version of HTTP http://t.co/78D9d5eGM4
+170,566950589222117376,Sun Feb 15 13:22:08 +0000 2015,11,0,"RT @rauschma: Firefox Nightly now plays http://t.co/hKmSEtrUc9 Flash videos using Shumway [an HTML5-based emulator]
+https://t.co/cWhkp0njMS"
+171,565421791901122560,Wed Feb 11 08:07:14 +0000 2015,3,0,RT @9elements: BREAKING NEWS: 9elements ditches SASS/SCSS for Canadian Style Sheets: https://t.co/vXg0TgAOBE
+172,564696690842955776,Mon Feb 09 08:05:57 +0000 2015,65,0,RT @linkibol: Four #JavaScript frameworks in four line comments. http://t.co/2YK9nEj3Nn
+173,564044133543993344,Sat Feb 07 12:52:55 +0000 2015,174,0,"RT @smashingmag: If you have to deal with IE8: IE8 linter throws a warning for possible pitfalls and suggests code fixes for IE8.
+
+https://…"
+174,562027419646058496,Sun Feb 01 23:19:13 +0000 2015,0,0,What if all the IE8-traffic is only generated by web-developers testing their applications?
+175,555868302853959680,Thu Jan 15 23:25:05 +0000 2015,266,0,RT @mheard: One of the hardest problems in Computer Science is almost solved! RT @csswg http://t.co/sHp9dnKgkX
+176,555436789029416960,Wed Jan 14 18:50:24 +0000 2015,0,0,"Does anyone know a procedural placeholder-service for atmospheric, story-telling profile-banners? Maybe something that plays with flickr?"
+177,553477877564710912,Fri Jan 09 09:06:23 +0000 2015,24,0,RT @w3c: Indexed Database API is a W3C Recommendation http://t.co/MDm0OX0t2n
+178,553476885636997120,Fri Jan 09 09:02:27 +0000 2015,0,0,@BILD was läuft falsch bei euch?
+179,553470902885949440,Fri Jan 09 08:38:40 +0000 2015,31,0,"RT @ljharb: It's often easy to speed up clean code, it's often hard to clean up fast code.
+
+I like to set myself up for the easy step."
+180,553470609280495618,Fri Jan 09 08:37:30 +0000 2015,724,0,"RT @reinboth: Die Montag noch ""Lügenpresse"" geschrien und Hassmails an den Postillon verschickt haben, sind heute die Verteidiger von Press…"
+181,553470139900129282,Fri Jan 09 08:35:38 +0000 2015,2,0,RT @christianhujer: What's going to happen with all the good ideas of XHTML2 that didn't make it into (X)HTML5? #xhtml #xml #html #HTML5
+182,553238688113893376,Thu Jan 08 17:15:56 +0000 2015,37,0,RT @PatrickBeuth: 2008 sollte Google nur 62 Links wegen Copyright aus seinem Index löschen. 2014 waren es 345 Mio. Was ist da passiert? htt…
+183,543417205028032512,Fri Dec 12 14:48:52 +0000 2014,28,0,RT @pickover: Imagine the joy of patenting the famous Lego piece in 1961. Figure from original patent. http://t.co/hMFf41xvLC
+184,542454233585287168,Tue Dec 09 23:02:22 +0000 2014,4,0,RT @webkrauts: Der @sir_pepe hat heute über Webcomponents geschrieben http://t.co/XvHm5NDLrr und durch Zufall auch @selfhtml http://t.co/yw…
+185,542449400870490112,Tue Dec 09 22:43:10 +0000 2014,1,0,RT @g16n: @webkrauts @sir_pepe @SELFHTML @1UnitedPower Zufall? Ich witterte schon Konspiration. http://t.co/bZWwQpiKm0
+186,540992399770529792,Fri Dec 05 22:13:33 +0000 2014,0,0,Before the Drama http://t.co/Ky5aye8erF via @eranhammer
+187,524979356708667392,Wed Oct 22 17:43:26 +0000 2014,3,0,RT @SELFHTML: Neue Notiz im SELF-Blog: Die Tage der Doku sind gezählt. http://t.co/yN3zTDdxef
+188,523801240032251905,Sun Oct 19 11:42:02 +0000 2014,1,0,RT @g16n: Comis Sahahahans. http://t.co/dF6xiHaAnX
+189,523579936016461824,Sat Oct 18 21:02:39 +0000 2014,0,0,@g16n ich bin wieder in der herberge und habe es mir im aufenthaltsraum gemütlich gemacht.
+190,523536646785224704,Sat Oct 18 18:10:38 +0000 2014,0,0,@g16n wir sind im kettensteg abgestiegen
+191,517224939955691520,Wed Oct 01 08:10:09 +0000 2014,380,0,"RT @w3c: Today in 1994 ""1 October: World Wide Web Consortium founded"" We are turning 20 today! http://t.co/Iqvvb36ejA #w3c20"
+192,517224025043390464,Wed Oct 01 08:06:31 +0000 2014,1,0,"RT @tlrobinson: Good intro/refresher talk on ""Pure, functional JavaScript"" by @cjno http://t.co/vDjaXUvk"
+193,516896584920219648,Tue Sep 30 10:25:24 +0000 2014,16,0,RT @W3C_Webizen: You're part of the Web community and wish your voice were heard at @w3c? Last day to take our survey: http://t.co/slFtoqSh…
+194,516895315925139456,Tue Sep 30 10:20:21 +0000 2014,7122,0,RT @__get__: Proof that engineers are not purely functional (redrawn from @jakemcgraw) http://t.co/zQwpEMOyZc
+195,491340250539905024,Mon Jul 21 21:53:39 +0000 2014,1464,0,RT @addyosmani: Object.observe() is now in Chrome stable! Observe objects &amp; be notified of changes with ease: http://t.co/FhmHcUakHO http:/…
+196,464701975511457792,Fri May 09 09:42:39 +0000 2014,0,0,I feel so evil when i use my GitHub-account to log in my Bitbucket-account.
+197,463601330724950016,Tue May 06 08:49:05 +0000 2014,0,0,http://t.co/gT5mcHTL8A ~ A place to discuss and evolve Web Component best-practices http://t.co/UrYlLu4XZY
+198,456398043806310400,Wed Apr 16 11:45:47 +0000 2014,1,0,RT @theophani: Why is Array.some in JS called some and not any? WHY?

@@ -1,0 +1,237 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669308447490469888,Wed Nov 25 00:15:43 +0000 2015,0,1,#Partition or #Replicate? Getting the most out of VoltDB's distributed data management. @benjaminballard &amp; @JohnHugg https://t.co/4NORjRwjWr
+1,669285847842295808,Tue Nov 24 22:45:55 +0000 2015,1,1,"VoltDB provides a higher performance, in-memory database that combines real-time analytics, and stream processing https://t.co/tisJldjszR"
+2,669259902649528322,Tue Nov 24 21:02:49 +0000 2015,0,0,"The drive to deliver, monitor and measure all forms of energy consumption is a growing challenge https://t.co/JVMaiLN4oH"
+3,669229142517399553,Tue Nov 24 19:00:35 +0000 2015,0,0,.@ITBusinessEdge's Carl Weinschenk on the close relationship between #IoT and #bigdata: https://t.co/xIK7XIJ4wC
+4,669217932728250368,Tue Nov 24 18:16:03 +0000 2015,9,1,"New #Cloud #Benchmark from @acmebench https://t.co/Ff8R3qo5Z5 #Google, #AWS, #Azure and #IBM tested - who were the winners?"
+5,669199616320118784,Tue Nov 24 17:03:16 +0000 2015,0,0,.@babcockcw on YCSB #cloud benchmark using VoltDB with Google outperforming #AWS: https://t.co/vIz1vTcNMk @InformationWeek
+6,669177922943627265,Tue Nov 24 15:37:04 +0000 2015,0,0,@anilchop @pcquest You might also be interested in this smart cities whitepaper https://t.co/dUo3ztPbR6
+7,669177794354614272,Tue Nov 24 15:36:33 +0000 2015,0,0,@anilchop @pcquest Thanks for your interest! Take a look at our Mitsubishi Electric case study: https://t.co/dwPaKCai1t
+8,669159712831746049,Tue Nov 24 14:24:42 +0000 2015,2,0,RT @PetraBaeuerle: What's 3 times faster than AWS? @IBMSoftLayer bare metal per @VoltDB benchmark https://t.co/96BO1yvnVO https://t.co/Q4hA…
+9,669154191005392900,Tue Nov 24 14:02:46 +0000 2015,0,1,#RealTime analytics is the best way to get the most out of #IoT sensor data: https://t.co/6rRicwyE09 #SQL @anilchop @pcquest
+10,668972710995849216,Tue Nov 24 02:01:37 +0000 2015,0,0,#IBM does it again! Top performer in the YSCB #Cloud #Benchmark against 3 other platforms read it here from @VoltDB https://t.co/8D7DrLX3bA
+11,668953594419388416,Tue Nov 24 00:45:40 +0000 2015,0,0,Will we need to manage too much #data from sensors in IoT? #FastData is one solution: https://t.co/Okuh7mt6VS via @seancaptain @FastCompany
+12,668928591284076544,Mon Nov 23 23:06:18 +0000 2015,14,0,RT @strataconf: Would you benefit from a high performance data infrastructure in one platform? Check out @VoltDB’s fast data report: https:…
+13,668927399946489859,Mon Nov 23 23:01:34 +0000 2015,0,0,#FastData Recipe: Integrate Streaming Aggregations and Transactions https://t.co/g1jooAJpPN
+14,668911238240407552,Mon Nov 23 21:57:21 +0000 2015,12,0,RT @SoftLayer: How did we speed ahead of the competition? We take a closer look at @VoltDB’s results in the new #SLayerStandard. ≡ https://…
+15,668904614205476865,Mon Nov 23 21:31:02 +0000 2015,1,0,New two-way active replication across two database clusters in v5.8! Check out what else is new: https://t.co/ehwe93UniZ
+16,668885631028887552,Mon Nov 23 20:15:36 +0000 2015,0,1,How #Openet uses #FastFata to drive down TCO and support mobile data in real-time by @Pogany https://t.co/TrO8hltPHg
+17,668864128132513794,Mon Nov 23 18:50:09 +0000 2015,0,0,Thanks for the write up @babcockcw! Google outperforms #AWS in YCSB #cloud benchmark using VoltDB: https://t.co/vIz1vTcNMk @InformationWeek
+18,668832706856361984,Mon Nov 23 16:45:18 +0000 2015,0,1,Read more about VoltDB's partnership with @MitsuComm in @Metering: https://t.co/2Zj6AubLiW
+19,668812472313360384,Mon Nov 23 15:24:53 +0000 2015,2,0,"RT @JSegalotto: In-memory NewSQL database provider @VoltDB selected by Mitsubishi and CGI for AMI projects in Japan, UK https://t.co/SgyNTk…"
+20,668812069735677952,Mon Nov 23 15:23:18 +0000 2015,9,0,RT @IBMcloud: Are all public #clouds created equally? See how IBM's @SoftLayer performed in @VoltDB benchmark test: https://t.co/vgC6ONMpIw
+21,668811942635655168,Mon Nov 23 15:22:47 +0000 2015,3,0,RT @ianthomasrose: Nice showing by @googlecloud in these @VoltDB benchmarks: https://t.co/uR473zU2Up
+22,668811900868759552,Mon Nov 23 15:22:37 +0000 2015,2,0,"RT @tordizuin: #Data is collected in mass quantities, get the most out of it while it's still relevant https://t.co/uet97PnUuD @Data_Inform…"
+23,668811743225860096,Mon Nov 23 15:22:00 +0000 2015,3,0,"RT @bluebox: .@SoftLayer beats AWS, Google and Azure in @VoltDb #cloud benchmark test - https://t.co/vpyenSDryh via @enterprise_time #IBMCl…"
+24,668810029307445248,Mon Nov 23 15:15:11 +0000 2015,0,0,We're looking for talented individuals to join the VoltDB team! Check out our open positions: https://t.co/24NQqQxzKC #WeAreHiring #Careers
+25,668580098400985088,Mon Nov 23 00:01:31 +0000 2015,1,2,Check out how Openet uses #FastData to drive down TCO and support mobile data in #RealTime https://t.co/ughSCe6gzF
+26,668549912846540804,Sun Nov 22 22:01:34 +0000 2015,0,1,VoltDB is delivering #RealTime analytics for more than six million #SmartMeters in Japan - more: https://t.co/z4MTZefXNk
+27,668504700875104256,Sun Nov 22 19:01:55 +0000 2015,2,0,"Data is collected in mass quantities, get the most out of it while it's still relevant https://t.co/TZJhzZCcEO @pvescuso @Data_Informed"
+28,668474574502252544,Sun Nov 22 17:02:12 +0000 2015,0,0,"New #Cloud #Benchmark from @acmebench https://t.co/FDQYfeLHs8 #Google, #AWS, #Azure and #IBM tested - who were the winners?"
+29,668451734482735105,Sun Nov 22 15:31:27 +0000 2015,2,2,#Partition or #Replicate? Getting the most out of VoltDB's distributed data management. @JohnHugg &amp; @benjaminballard https://t.co/hvR0xMuJjb
+30,668429207115046912,Sun Nov 22 14:01:56 +0000 2015,2,4,#FastData Front ends for @Hadoop: #Transaction and Analysis Pipelines by @akmalchaudhri https://t.co/hcn4n5a8B0 @strataconf
+31,668225117089095681,Sun Nov 22 00:30:57 +0000 2015,1,1,#Partition or #Replicate? Getting the most out of VoltDB's distributed data management. @JohnHugg &amp; @benjaminballard https://t.co/zZHQ1lyFro
+32,668202594221826048,Sat Nov 21 23:01:27 +0000 2015,0,1,High-speed transactional applications require #StreamingAnalytics with #Transaction processing on live data feeds. https://t.co/bl9MvBdGXI
+33,668175967542710276,Sat Nov 21 21:15:39 +0000 2015,0,0,We are hiring talented #SoftwareEngineers looking to join the VoltDB dev. team! https://t.co/NU05kA4Rxo
+34,668145768839192576,Sat Nov 21 19:15:39 +0000 2015,0,0,"Active/Active cross DC replication, with excellent doc in #VoltDB v5.8 https://t.co/454DBKrh10"
+35,668112227078115328,Sat Nov 21 17:02:22 +0000 2015,0,0,. @OpenetGlobal uses #FastData to drive down TCO and support mobile data in real-time https://t.co/eSPypF1wkp
+36,668089468541394944,Sat Nov 21 15:31:56 +0000 2015,1,0,2 words: #Cloud #Benchmark. Check out the results of the 4 main platforms here: https://t.co/ItCFpRFWi4 #Google #AWS #IBMSoftLayer #Azure
+37,668062708881891330,Sat Nov 21 13:45:36 +0000 2015,0,0,#FastData Recipe: ACID and CAP https://t.co/a3JiDeH4kG
+38,667866395342934016,Sat Nov 21 00:45:31 +0000 2015,1,0,How @OpenetGlobal uses #FastData to drive down TCO and support mobile data in real-time https://t.co/C9IPNaPFkH by @Pogany
+39,667843732797071360,Fri Nov 20 23:15:28 +0000 2015,1,1,#Mitsubishi and VoltDB partner on #AMI project in Japan https://t.co/WzyZ2OyU3N @Metering
+40,667825076377534465,Fri Nov 20 22:01:20 +0000 2015,0,0,#FastData Recipe: Integrate #Streaming Aggregations and Transactions by @JohnHugg https://t.co/aO1sdROMLE
+41,667810406379851777,Fri Nov 20 21:03:02 +0000 2015,0,0,"We did it again, YSCB #Cloud #Benchmark! #VoltDB's take: https://t.co/MXt0P8olhq In depth details from @acmebench https://t.co/vS7h4egdoc"
+42,667787209039331328,Fri Nov 20 19:30:52 +0000 2015,1,0,"Data is collected in mass quantities, get the most out of it while it's still relevant https://t.co/5ZcFWUa5EN @pvescuso @Data_Informed"
+43,667765631534637056,Fri Nov 20 18:05:07 +0000 2015,3,1,#Partition or #Replicate? Getting the most out of VoltDB's distributed data management. @JohnHugg &amp; @benjaminballard https://t.co/6KyQvYoffy
+44,667749441932304385,Fri Nov 20 17:00:47 +0000 2015,0,2,#FastData Front ends for @Hadoop: #Transaction and Analysis Pipelines by @akmalchaudhri https://t.co/CPXmMSYXcK @strataconf
+45,667706092273721344,Fri Nov 20 14:08:32 +0000 2015,0,0,@gatrsky We consider all options!
+46,667705688647475201,Fri Nov 20 14:06:56 +0000 2015,13,0,RT @nciniero: .@SoftLayer batte #AWS #Google e #Azure nel #cloud benchmark test @VoltDb https://t.co/W2JYPSJAEo @Enterprise_Time https://t.…
+47,667704650800472064,Fri Nov 20 14:02:48 +0000 2015,0,0,.@Enterprise_Time's @journoian provides insight into YCSB #cloud benchmark using VoltDB: https://t.co/BTLPoktpWG #AWS
+48,667500531594719232,Fri Nov 20 00:31:42 +0000 2015,1,2,"AWS, Google, IBM, Microsoft: who's #cloud performs best? YCSB benchmark reveals insights using VoltDB: https://t.co/U5MckVeffg @infotechlead"
+49,667479715821789184,Thu Nov 19 23:09:00 +0000 2015,0,1,@jtangoVC @brucemreading @sjarr Thanks Jo! We are very grateful for you too!
+50,667479425915740160,Thu Nov 19 23:07:50 +0000 2015,1,0,RT @jtangoVC: Very grateful for @brucemreading @sjarr and the whole @VoltDB team.
+51,667479125716783104,Thu Nov 19 23:06:39 +0000 2015,1,0,"Check out ""Ignite Boston – Data"" sponsored by @OReillyMedia and @VoltDB https://t.co/JFYq6Ytnfc"
+52,667455185548148736,Thu Nov 19 21:31:31 +0000 2015,0,0,#ICYMI: Last years YCSB benchmark running in the cloud https://t.co/wfORgR1tIh and how it compares to this year https://t.co/Vdo1XYZetn #TBT
+53,667448379870478338,Thu Nov 19 21:04:29 +0000 2015,2,0,"RT @ihsgnin: Active/Active cross DC replication, with excellent doc in @VoltDB v5.8 https://t.co/OnHM3X20XM https://t.co/BB3Iug5u6r"
+54,667417295426318336,Thu Nov 19 19:00:57 +0000 2015,0,0,#FastData recipes series: Integrate Streaming Aggregations and Transactions by @johnhugg https://t.co/vHTanpycwW on @LinkedIn
+55,667390952001183744,Thu Nov 19 17:16:17 +0000 2015,42,0,"RT @IBMcloud: .@SoftLayer beats #AWS, #Google and #Azure in @VoltDb #cloud benchmark test. Details via @Enterprise_Time: https://t.co/5Z06l…"
+56,667387043257913345,Thu Nov 19 17:00:45 +0000 2015,0,0,VoltDB Use Case: @OpenetGlobal uses fast data to drive down TCO and support mobile data in #RealTime by @Pogany https://t.co/ZnZaUUXguI
+57,667382381381292032,Thu Nov 19 16:42:13 +0000 2015,17,0,RT @strataconf: What are the benefits of adding processing at the point of ingestion? Check out the free report from @VoltDB: https://t.co/…
+58,667360656954404864,Thu Nov 19 15:15:54 +0000 2015,3,2,".@AmyxMcKinsey discusses 6 ways #analytics and #IoT will transform business, with #sensors playing a role: https://t.co/wERogax52l @RWW"
+59,667355650637303808,Thu Nov 19 14:56:00 +0000 2015,1,0,"RT @ben_colo: Hey @voltdb nice on your docker integration &amp; install docs at https://t.co/euWPaLVKG3 . Super easy to demo #voltdb, nailed it…"
+60,667349650882609153,Thu Nov 19 14:32:10 +0000 2015,2,0,RT @LeeDAEdwards: #SQL vs #NoSQL: one perspective from @VoltDB on what language is winning https://t.co/QGrpNfqv8R
+61,667342433798250497,Thu Nov 19 14:03:29 +0000 2015,0,1,"#Google, #AWS, #IBMSoftLayer, #Azure – what were the results of the #Cloud #Benchmark from @tmcallaghan https://t.co/xgpzA2vgOX"
+62,667145539083988996,Thu Nov 19 01:01:06 +0000 2015,0,2,"We are looking for talented #engineers, #marketers and more! Check out our open positions! https://t.co/LK0YHD1LHv #WeAreHiring #Careers"
+63,667122866605965312,Wed Nov 18 23:31:00 +0000 2015,0,0,"Bigger, better, faster: Keeping pace with the world of next-generation #mobile #advertising by @pvescuso https://t.co/TQnbGKhYeH"
+64,667108975935139841,Wed Nov 18 22:35:48 +0000 2015,1,0,"RT @EnterpriseTek: Cloud #benchmark lifts #SoftLayer, #Google #VoltDB https://t.co/KJPfzhzYpV"
+65,667100239380291585,Wed Nov 18 22:01:05 +0000 2015,0,0,VoltDB Recognized In #GartnerMQ for 3rd Year in a Row https://t.co/JbCOY7Y703
+66,667077545729347585,Wed Nov 18 20:30:55 +0000 2015,0,0,VoltDB is helping to accelerate #Smart #Energy Deployments Worldwide with #FastData https://t.co/YdAsCJpGjp
+67,667073705118457856,Wed Nov 18 20:15:39 +0000 2015,48,0,"RT @IBMcloud: #IBM's @SoftLayer is ~3x faster than @awscloud, new @Voltdb #cloud benchmark test shows: https://t.co/dLZ0br3iVk https://t.co…"
+68,667047229971144705,Wed Nov 18 18:30:27 +0000 2015,0,2,Check out whats new with Cross Datacenter Replication! VoltDB v5.8 just released! https://t.co/QdA0oER2AA
+69,667035846558801920,Wed Nov 18 17:45:13 +0000 2015,0,0,#FastData Recipe: Integrate Streaming Aggregations and Transactions https://t.co/6szgLSgyLk on @LinkedIn
+70,667032133995728898,Wed Nov 18 17:30:28 +0000 2015,1,0,RT @ixp10: Are all public #clouds created equally? See how IBM's @SoftLayer performed in @VoltDB benchmark test: https://t.co/sVG0GC5lji
+71,667032088726642688,Wed Nov 18 17:30:17 +0000 2015,3,0,RT @PedroMcKay: Soft Layer wins cloud performance shootout.  https://t.co/7OI9gBh9I3 @VoltDB https://t.co/yNApuyynpX
+72,667031741723484161,Wed Nov 18 17:28:54 +0000 2015,17,0,RT @laura_fonda: What's nearly 3x faster than AWS? @IBMSoftLayer bare metal per @VoltDB benchmark https://t.co/bbMPAAKRO9 https://t.co/wcxE…
+73,667025337314902016,Wed Nov 18 17:03:27 +0000 2015,0,0,#Google out-performs #AWS in latest #VoltDB #Cloud Benchmark read it here https://t.co/t8OyLg9dQY
+74,666753127010430976,Tue Nov 17 23:01:47 +0000 2015,0,2,"New #Cloud #Benchmark from @acmebench https://t.co/fuLzDafKiG #Google, #AWS, #Azure and #IBM tested - who were the winners?"
+75,666730165175717888,Tue Nov 17 21:30:33 +0000 2015,1,0,.@BernardMarr provides insight into MapR's #bigdata success: https://t.co/LYEJHDWFic @Forbes
+76,666712152380608517,Tue Nov 17 20:18:58 +0000 2015,17,0,RT @JohnSWebster: Are all public clouds created equally? https://t.co/nrLoLYJhJZ
+77,666706146552627201,Tue Nov 17 19:55:06 +0000 2015,14,1,Are all public #clouds created equally? @JohnSWebster with more on a cloud performance benchmark using VoltDB: https://t.co/5JtqcHRqXD
+78,666700332542496768,Tue Nov 17 19:32:00 +0000 2015,1,0,RT @thirdeyecss_3e: Comparing Cloud Performance with YCSB | VoltDB https://t.co/Lyll7KcALT
+79,666681078162280448,Tue Nov 17 18:15:30 +0000 2015,2,0,Don’t Be Spooked by #DarkData by @pvescuso https://t.co/eSJFGlnxFG  via @Data_Informed
+80,666659906116845568,Tue Nov 17 16:51:22 +0000 2015,2,0,"RT @odbmsorg: Interesting blog post.
+Disambiguating ACID and CAP
+BY @johnhugg  @VoltDB 
+https://t.co/kr2Tl3Y3oe 
+#NoSQL #SQL"
+81,666659865893445632,Tue Nov 17 16:51:12 +0000 2015,2,0,"RT @odbmsorg: John Piekos,VP Engineering @VoltDB 
+Sizing an #InMemoryDB does not follow conventional #database sizing rules:
+https://t.co/r…"
+82,666659728152518656,Tue Nov 17 16:50:39 +0000 2015,1,0,RT @CRM_CWS_Cloud: Report: Cloud Benchmark Reveals IBM SoftLayer Nearly Three Times Faster than Amazon We.. https://t.co/ciTThs0j7L https:/…
+83,666650809216692224,Tue Nov 17 16:15:13 +0000 2015,0,0,Fast Data Recipe: What's #ACID and #CAP got to do with it? https://t.co/AQcFkYVzpy
+84,666644431584497664,Tue Nov 17 15:49:52 +0000 2015,2,0,RT @StefanRiedelIBM: New VoltDB cloud benchmark reveals #IBM Softlayer is nearly 3X faster than Amazon Web Services https://t.co/2JZKbuw42U
+85,666633051896696832,Tue Nov 17 15:04:39 +0000 2015,1,0,RT @BestSQL: In-memory #SQL databases like @voltdb enable #RealTime analysis of #fastdata to stop mobile ad-spend overages. https://t.co/1p…
+86,666633004748509185,Tue Nov 17 15:04:28 +0000 2015,25,0,RT @IBM_NEWS: New @VoltDB cloud benchmark reveals #IBM @Softlayer is nearly 3X faster than Amazon Web Services https://t.co/SAhfdhPqDH
+87,666631462326829057,Tue Nov 17 14:58:20 +0000 2015,1,0,RT @apodelko: Comparing #Cloud #Performance with YCSB https://t.co/woP2oyQqks via @VoltDB
+88,666626588000296960,Tue Nov 17 14:38:58 +0000 2015,17,0,RT @johnhugg: Comments on the @VoltDB/@ACMEBench Cloud comparison benchmark on HN https://t.co/F4suDjGMf7 (original link: https://t.co/z1eQ…
+89,666619834634018817,Tue Nov 17 14:12:08 +0000 2015,21,2,#IBM does it again! Top performer in the YSCB #Cloud #Benchmark against 3 leading platforms! Read it here: @VoltDB https://t.co/t8OyLg9dQY
+90,666617498683445248,Tue Nov 17 14:02:51 +0000 2015,0,1,The internet of #sensors is helping #smartcities become healthier cities. @sdlawsonmedia with more: https://t.co/uFzlosGrhG @Computerworld
+91,666428229713047553,Tue Nov 17 01:30:46 +0000 2015,1,1,Smart Energy – The New Frontier by @Pogany https://t.co/9WYFMX77UW on @LinkedIn
+92,666401698294964224,Mon Nov 16 23:45:20 +0000 2015,0,0,"Bigger, better, faster: Keeping pace with the world of next-generation mobile advertising https://t.co/E7VgM8mLaC"
+93,666379039976906752,Mon Nov 16 22:15:18 +0000 2015,2,2,There is endless potential for #bigdata within telecom. Check out these key use cases: https://t.co/k1FuAGrA4b @rcrwirelessnews
+94,666356380153040896,Mon Nov 16 20:45:15 +0000 2015,1,3,Fast front ends for #Hadoop #ebook by @akmalchaudhri https://t.co/84Uo3kFV3Q
+95,666336204170862593,Mon Nov 16 19:25:05 +0000 2015,1,1,Fast Data Recipe: Understanding #ACID and #CAP by @johnhugg https://t.co/mAnDamqUcz
+96,666058504906653698,Mon Nov 16 01:01:36 +0000 2015,0,0,Fast Data Recipe: ACID and CAP by @johnhugg https://t.co/vYkHNgmR5f on @LinkedIn
+97,665983175080980485,Sun Nov 15 20:02:16 +0000 2015,0,0,VoltDB Accelerates #SmartEnergy Deployments by delivering #RealTime #analytics for Smart Meters in Japan https://t.co/3ACqQITTha
+98,665907671384629248,Sun Nov 15 15:02:15 +0000 2015,2,3,#FastData Front Ends for #Hadoop: Transaction and analysis Pipelines by @akmalchaudhri https://t.co/51KYx0U9ae @OReillyMedia
+99,665681014052806661,Sun Nov 15 00:01:36 +0000 2015,1,1,VoltDB Recognized In @Gartner #MagicQuadrant for 3rd Year in a Row! Get the full report here: https://t.co/not03VAF5p #MQ #Gartner
+100,665635808456650752,Sat Nov 14 21:01:58 +0000 2015,0,1,Most of the massive volumes of data being gathered are never analyzed. Don't be spooked by #DarkData https://t.co/AHunvOn32H @Data_Informed
+101,665582912411148289,Sat Nov 14 17:31:46 +0000 2015,0,0,Smart Energy – The New Frontier; how #VoltDB is enabling Smart Cities by @Pogany https://t.co/lAI4H34TRo
+102,665530123106562049,Sat Nov 14 14:02:00 +0000 2015,0,3,Fast Data Recipe: ACID and CAP by @johnhugg https://t.co/E6GGtnyvCA on @LinkedIn
+103,665318575083687937,Sat Nov 14 00:01:23 +0000 2015,0,1,Worth this listen: #Transactions and #Analytics with VoltDB's @RyanBetts https://t.co/m8vILrA3Ed #Podcast @software_daily
+104,665295785848885248,Fri Nov 13 22:30:50 +0000 2015,1,1,Smart Energy – The New Frontier; how #VoltDB is enabling Smart Cities by @Pogany https://t.co/xbvQ77ZGsJ
+105,665269205898534912,Fri Nov 13 20:45:13 +0000 2015,0,0,A look at how the internet of #sensors will affect purchases by 2020: https://t.co/cEh4pA381j @thesullivan @VentureBeat
+106,665242957050679297,Fri Nov 13 19:00:55 +0000 2015,17,0,"Bigger, better, faster: Keeping pace with the world of next-generation mobile advertising by @pvescuso https://t.co/6yG7H350k2 #FastData"
+107,665239428139368448,Fri Nov 13 18:46:53 +0000 2015,20,0,RT @strataconf: How do you build #FastData apps? Here’s “Fast Data Front Ends for #Hadoop”. Free report from @VoltDB https://t.co/BB2srNfbVc
+108,665212690399391745,Fri Nov 13 17:00:39 +0000 2015,16,3,Fast Data Recipe: ACID and CAP by @johnhugg https://t.co/U2CS48carj on @LinkedIn
+109,665169519741128704,Fri Nov 13 14:09:06 +0000 2015,1,0,RT @LeeDAEdwards: Fast Data – the New Big Data -  https://t.co/1LKahAlYWe via @BrightTALK @VoltDB for DAMA
+110,665169449192845312,Fri Nov 13 14:08:49 +0000 2015,16,0,"RT @DAMA_I: Romeo and Juliet, if they only had #ACID from @VoltDB https://t.co/cc4HEO1F8J"
+111,664948498991828992,Thu Nov 12 23:30:50 +0000 2015,0,0,.@sdstover on where your #data will take you https://t.co/G3JrW3DNa4. Check out our perspective in our newest eBook https://t.co/VnYtxxHnpb
+112,664932017939812352,Thu Nov 12 22:25:21 +0000 2015,1,0,RT @brucemreading: More than half of @VoltDB’s customers use HTAP capabilities to power applications that use ‘live’ operational data https…
+113,664929491337273344,Thu Nov 12 22:15:19 +0000 2015,0,0,VoltDB Accelerates Smart Energy Deployments Worldwide - See more at: https://t.co/GFKEcCkmzz
+114,664906866993070080,Thu Nov 12 20:45:25 +0000 2015,0,0,"Learn about the advantages and disadvantages of various #FastData front
+ends for #Hadoop https://t.co/PRiccvDo0P"
+115,664877620841086976,Thu Nov 12 18:49:12 +0000 2015,18,0,RT @DAMA_I: #SQL vs #NoSQL: one perspective from @VoltDB on what language is winning https://t.co/kBuHCRkKZ5
+116,664874079514722304,Thu Nov 12 18:35:07 +0000 2015,0,1,.@BrianB2BCopy discusses best practices to help organizations get the most out of #Hadoop: https://t.co/DyRDAqA0hI @TechRepublic
+117,664807767572684800,Thu Nov 12 14:11:37 +0000 2015,1,0,RT @DAMA_I: @VoltDB with webinar for DAMA Fast Data – the New Big Data -  https://t.co/WNQzgTH2ad via @BrightTALK Thursday 12th November
+118,664552027679293440,Wed Nov 11 21:15:24 +0000 2015,1,0,Nearly everything we do leaves a virtual trail. Are you getting the most out of #DarkData https://t.co/NQwO4MdABx @pvescuso @Data_Informed
+119,664525647977541632,Wed Nov 11 19:30:35 +0000 2015,0,0,Open-source pursuit of #realtime streaming analytics continues. See how to do #streaming in VoltDB: https://t.co/aSE6TYYtrx @Mike_Wheatley
+120,664500382534656000,Wed Nov 11 17:50:11 +0000 2015,1,1,#SmartEnergy – The New Frontier by @Pogany https://t.co/se4kuLdi08 #FastData on @LinkedIn
+121,664488143115038722,Wed Nov 11 17:01:33 +0000 2015,2,0,"RT @DataconomyMedia: Coming Full Circle: Why #SQL now powers the #NoSQL Craze, by Ryan Betts of @VoltDB https://t.co/MM6XLqamMa"
+122,664488042170740736,Wed Nov 11 17:01:09 +0000 2015,1,0,RT @dom1789: .@VoltDB Accelerates #SmartEnergy Deployments Worldwide https://t.co/eh7jEgLC7V #Inmemory #database #BigData #IoT #smartmeters
+123,664447518827237376,Wed Nov 11 14:20:07 +0000 2015,16,0,VoltDB Accelerates Smart Energy Deployments Worldwide through new partnership with Mitsubishi Electric https://t.co/KcWMCWihjN #FastData
+124,664438898282668036,Wed Nov 11 13:45:52 +0000 2015,0,0,Our customer @Flipkart has launched a new #mobile website with Google! Learn more here: https://t.co/xSEN40Bvep @mhbergen @Recode
+125,664201133490118656,Tue Nov 10 22:01:05 +0000 2015,0,0,.@noyesk provides insight into how #bigdata is changing the database landscape &amp; the roles that #NoSQL #NewSQL play: https://t.co/raFFmLdOTe
+126,664189417381347328,Tue Nov 10 21:14:31 +0000 2015,16,0,RT @DAMA_I: Fast Data – the New Big Data -  https://t.co/uy4iwywp9d via @BrightTALK @VoltDB for DAMA
+127,664166948205436928,Tue Nov 10 19:45:14 +0000 2015,0,0,We are excited about our growth as a competitive player in the operational DBMS space! https://t.co/MyEe0jY4gO @sdatamanagement
+128,664111559342465024,Tue Nov 10 16:05:09 +0000 2015,14,1,Are you keeping pace with the world of next-generation mobile advertising? by @pvescuso https://t.co/8qmx4870Kc via @ITProPortal
+129,664109537960529920,Tue Nov 10 15:57:07 +0000 2015,1,0,RT @DAMA_I: DAMA technology webinar Fast Data – the New Big Data -  https://t.co/s6VajMhBx3 via @BrightTALK @VoltDB
+130,664106192646598656,Tue Nov 10 15:43:49 +0000 2015,2,0,RT @LeeDAEdwards: DAMA technology webinar Fast Data – the New Big Data -  https://t.co/7j0gVJzxmi via @BrightTALK @VoltDB
+131,664081280305336324,Tue Nov 10 14:04:49 +0000 2015,5,3,.@danwoodsearly on why #SQL is vital to a holistic approach to #bigdata discovery: https://t.co/LTxwoUJ12h @Forbes
+132,664080503918718976,Tue Nov 10 14:01:44 +0000 2015,20,0,"RT @odbmsorg: Disambiguating ACID and CAP-a good explanation of #database #consistency and implications
+BY @johnhugg , @VoltDB 
+https://t.c…"
+133,664080481504395264,Tue Nov 10 14:01:39 +0000 2015,1,0,RT @LeeDAEdwards: @VoltDB with webinar for DAMA Fast Data – the New Big Data -  https://t.co/YluT08FCRo via @BrightTALK Thursday 12th Novem…
+134,663840253883609088,Mon Nov 09 22:07:04 +0000 2015,17,0,"RT @DataconomyMedia: Coming Full Circle: Why #SQL now powers the #NoSQL Craze, by Ryan Betts of @VoltDB https://t.co/TcKZEIjcph"
+135,663831027257884673,Mon Nov 09 21:30:24 +0000 2015,0,1,#FastData Front Ends for #Hadoop: Transaction and Analysis Pipelines by @akmalchaudhri https://t.co/2goELtgQyX @OReillyMedia
+136,663828010425065472,Mon Nov 09 21:18:25 +0000 2015,1,0,"RT @BestNoSQL: Interesting blog post.
+Disambiguating ACID and CAP
+BY @johnhugg , @VoltDB https://t.co/2IUong7baY
+#NoSQL #Database #consiste…"
+137,663796780203712513,Mon Nov 09 19:14:19 +0000 2015,17,0,"RT @odbmsorg: Interesting blog post.
+Disambiguating ACID and CAP
+BY @johnhugg , @VoltDB 
+https://t.co/kr2Tl3Y3oe
+#NoSQL #Database #consiste…"
+138,663774341579034624,Mon Nov 09 17:45:10 +0000 2015,0,0,"With #NoSQL, users face challenges with scalability, data modeling and #analytics. @JackVaughanatTT with more: https://t.co/yWQ9kTQLbs"
+139,663771191547715584,Mon Nov 09 17:32:38 +0000 2015,4,0,"RT @DataconomyMedia: Coming Full Circle: Why #SQL now powers the #NoSQL Craze, by Ryan Betts of @VoltDB https://t.co/7wAa5wcFjn"
+140,663748002679545856,Mon Nov 09 16:00:30 +0000 2015,1,0,Our partner @Teradata provides insight into how personalized #realtime ads are now a reality https://t.co/SvFkV2QJA4 @Forbes
+141,663738974524022785,Mon Nov 09 15:24:37 +0000 2015,2,0,RT @DAMA_I: Fast Data – the New Big Data -  https://t.co/ATwQbo82xM via @BrightTALK @VoltDB for DAMA
+142,663738935521230848,Mon Nov 09 15:24:28 +0000 2015,1,0,RT @LeeDAEdwards: @VoltDB with webinar for DAMA Fast Data – the New Big Data -  https://t.co/ke1YQKvvqg via @BrightTALK Thursday 12th Novem…
+143,663738906584743936,Mon Nov 09 15:24:21 +0000 2015,3,0,"RT @DataconomyMedia: Coming Full Circle: Why #SQL now powers the #NoSQL Craze, by Ryan Betts of @VoltDB https://t.co/A7tE0j8LDQ"
+144,663738889245474816,Mon Nov 09 15:24:17 +0000 2015,1,0,"RT @DataconomyMedia: Coming Full Circle: Why #SQL now powers the #NoSQL Craze, by Ryan Betts of @VoltDB https://t.co/WB1iHfZvcn"
+145,663738878956863488,Mon Nov 09 15:24:15 +0000 2015,1,0,"RT @DataconomyMedia: Coming Full Circle: Why #SQL now powers the #NoSQL Craze, by Ryan Betts of @VoltDB https://t.co/KrPJuxEQci"
+146,663738862108336128,Mon Nov 09 15:24:11 +0000 2015,16,0,"RT @odbmsorg: #ebook: Fast #Data and the New #Enterprise Data #Architecture
+by @VoltDB and @OReillyMedia 
+https://t.co/FaC7FDsiq9 
+#BigData"
+147,663738851521859584,Mon Nov 09 15:24:08 +0000 2015,1,0,RT @LeeDAEdwards: DAMA technology webinar Fast Data – the New Big Data -  https://t.co/BirCPElDaN via @BrightTALK @VoltDB
+148,663738802033270784,Mon Nov 09 15:23:56 +0000 2015,1,0,RT @LeeDAEdwards: DAMA technology webinar Fast Data – the New Big Data -  https://t.co/5ZOBepGWwL via @BrightTALK @VoltDB
+149,663738068223057920,Mon Nov 09 15:21:01 +0000 2015,16,0,"RT @odbmsorg: Interesting blog post.
+Disambiguating ACID and CAP
+BY @johnhugg , @VoltDB 
+https://t.co/kr2Tl3Y3oe"
+150,663733964201443329,Mon Nov 09 15:04:43 +0000 2015,20,0,"RT @odbmsorg: Common use cases for @VoltDB  
+• Caching server replacements
+• Ingestion and on-the-fly-ETL
+https://t.co/z8SkXLOvUO 
+#newsql …"
+151,663733888951394304,Mon Nov 09 15:04:25 +0000 2015,19,0,"RT @odbmsorg: John Piekos,VP Engineering @VoltDB 
+Sizing an #InMemoryDB does not follow conventional #database sizing rules:
+https://t.co/r…"
+152,663733808592723972,Mon Nov 09 15:04:06 +0000 2015,17,0,"RT @odbmsorg: Download @Gartner_inc Magic Quadrant for Operational DBMS  (#ODBMS) 2015
+https://t.co/QWomkVEO9E 
+@VoltDB"
+153,663733739718094848,Mon Nov 09 15:03:49 +0000 2015,21,0,"RT @odbmsorg: #Lambda Complexity: Why Fast #Data Needs New Thinking 
+By John Hugg @VoltDB 
+https://t.co/RtxhMftMOW
+#bigdata #analytics"
+154,663461510778331136,Sun Nov 08 21:02:05 +0000 2015,0,1,VoltDB has been recognized in the @Gartner #MagicQuadrant for the third year in a row https://t.co/2nCX0n1Ng1
+155,663370892081242112,Sun Nov 08 15:02:00 +0000 2015,0,0,"Bigger, better, faster: Keeping pace with the world of next-generation mobile advertising by @pvescuso https://t.co/gdxGOTPIZ4 @ITProPortal"
+156,663114137761947649,Sat Nov 07 22:01:45 +0000 2015,1,0,"VoltDB is looking for talented #SoftwareEngineers, #Marketers, #Sales! Learn more: https://t.co/PAPYIgi3KW"
+157,663038779519868928,Sat Nov 07 17:02:18 +0000 2015,1,0,Don’t Be Spooked by Dark Data @Data_Informed with @pvescuso https://t.co/DGEk4kRKYF
+158,662993388833275905,Sat Nov 07 14:01:56 +0000 2015,1,3,#FastData Front Ends for #Hadoop: Transaction and Analysis Pipelines by @akmalchaudhri https://t.co/PKNZLuNH04 @OReillyMedia
+159,662683439083225088,Fri Nov 06 17:30:18 +0000 2015,16,5,#FastData Front Ends for #Hadoop: Transaction and Analysis Pipelines by @akmalchaudhri https://t.co/x7K0XLWWXc  @OReillyMedia
+160,662681939330146304,Fri Nov 06 17:24:21 +0000 2015,2,0,RT @DAMA_I: @VoltDB with webinar for DAMA Fast Data – the New Big Data -  https://t.co/en5vZUGp6o via @BrightTALK Thursday 12th November
+161,662617936083992577,Fri Nov 06 13:10:01 +0000 2015,17,0,RT @SekouLRemy: Translytical databases: The only way to do streaming analytics in memory... hmmm.. @voltdb #TheMoreYouKnow https://t.co/Qcn…
+162,662617824544874496,Fri Nov 06 13:09:34 +0000 2015,1,0,RT @DAMA_I: DAMA technology webinar Fast Data – the New Big Data -  https://t.co/6Kb6BAarfo via @BrightTALK @VoltDB
+163,662362809175547904,Thu Nov 05 20:16:14 +0000 2015,1,0,"A look at some implications of dark #data https://t.co/enQawCKWUD @CIO, check out our thoughts as well: https://t.co/M2lDLjxusZ"
+164,662312374599294976,Thu Nov 05 16:55:49 +0000 2015,0,0,Combining #StreamingAnalytics and transactions allows you to act at the rate that you learn. #VoltDBFastData
+165,662312034898485248,Thu Nov 05 16:54:28 +0000 2015,0,0,Take advantage of Fast Data while the information is still valuable #VoltDBFastData https://t.co/2eebQxpjhB
+166,662311136092684289,Thu Nov 05 16:50:54 +0000 2015,4,3,Fast data requires analytics with (trans)actions #VoltDBFastData https://t.co/0Cs16zdDi8
+167,662310588169781248,Thu Nov 05 16:48:44 +0000 2015,0,0,"Filter, aggregate, enrich, and analyze a high throughput of data from live data sources with #StreamingAnalytics. #VoltDBFastData"
+168,662310382976024576,Thu Nov 05 16:47:55 +0000 2015,1,1,#FastData has a different set of requirements than #BigData and requires a different architecture. #VoltDBFastData
+169,662307706359963648,Thu Nov 05 16:37:16 +0000 2015,0,0,"All data originates as #fastdata, why wait to analyze and act on it? #VoltDBFastData"
+170,662306416221429762,Thu Nov 05 16:32:09 +0000 2015,2,0,Webinar #FastData - The new #BigData with @pvescuso is starting now! https://t.co/uOcZlPaCeq Use #VoltDBFastData to join the conversation!
+171,662266983140958208,Thu Nov 05 13:55:27 +0000 2015,11,0,Webinar w/ @pvescuso! Use #VoltDBFastData to join the conversation TODAY 11am ET! #FastData https://t.co/uOcZlPaCeq https://t.co/dwkpqGnGe5
+172,662261022280048640,Thu Nov 05 13:31:46 +0000 2015,3,4,Great interview with @forrester's @mgualtieri and @DataconomyMedia's @elenaoua on #bigdata and data science: https://t.co/78bWkWSWgW
+173,662057124420263937,Thu Nov 05 00:01:33 +0000 2015,2,2,#FastData Front Ends for #Hadoop: Transaction and Analysis Pipelines by @akmalchaudhri https://t.co/AwY0fuMia4 @OReillyMedia
+174,662030466179010560,Wed Nov 04 22:15:37 +0000 2015,1,0,"Five thoughts from the Father of the #IoT @Kevin_Ashton, including the role of #sensors https://t.co/rESxJ48uQm @philww @diginomica"
+175,661996618984595458,Wed Nov 04 20:01:07 +0000 2015,0,0,Three years in a row! VoltDB was included in the 2015 @Gartner MQ for Operational DBMSs. https://t.co/mJB18Y3Swl
+176,661986629637251072,Wed Nov 04 19:21:26 +0000 2015,4,0,RT @shriparv: #Fastdata: The next step after #bigdata https://t.co/N0qr8bf1y4 via @infoworld
+177,661976857357733888,Wed Nov 04 18:42:36 +0000 2015,1,0,RT @DAMA_I: DAMA technology webinar Fast Data – the New Big Data -  https://t.co/xnofQxjYE9 via @BrightTALK @VoltDB
+178,661969970872639489,Wed Nov 04 18:15:14 +0000 2015,0,0,"Bigger, better, faster: Keeping pace with the world of next-generation #mobile advertising by @pvescuso https://t.co/z6ziBukqWO @ITProPortal"
+179,661938014202015744,Wed Nov 04 16:08:15 +0000 2015,21,6,Only solutions such as VoltDB provide #StreamingAnalytics with full #ACID support. https://t.co/043ePeYGuN https://t.co/KOsvH9r4OU
+180,661911391713042432,Wed Nov 04 14:22:28 +0000 2015,16,0,RT @DAMA_I: @VoltDB with webinar for DAMA Fast Data – the New Big Data -  https://t.co/gO0OcKEW7o via @BrightTALK Thursday 12th November
+181,661698357748965376,Wed Nov 04 00:15:56 +0000 2015,0,0,.@AMULETAnalytics on VoltDB's partnership with @Flipkart to power their #realtime order management: https://t.co/cxXBSgbnUo @insidebigdata
+182,661668038811525122,Tue Nov 03 22:15:28 +0000 2015,0,2,.@WANdisco's @davidrichards: 2nd generation Hadoop designed to support #realtime apps. Read more here: https://t.co/BTN5cSbOAj @BrianB2BCopy
+183,661629314778193920,Tue Nov 03 19:41:35 +0000 2015,2,0,RT @DAMA_I: @VoltDB with webinar for DAMA Fast Data – the New Big Data -  https://t.co/ybgxqnqOeg via @BrightTALK Thursday 5th November
+184,661619589055430656,Tue Nov 03 19:02:56 +0000 2015,0,0,To be successful in today’s market requires a #RealTime boost: @pvescuso &amp; keeping up w/ next-gen mobile advertising https://t.co/CRmxMm1uSO
+185,661589520056524800,Tue Nov 03 17:03:27 +0000 2015,0,2,. @pvescuso on the perils of #DarkData and how to get the most out of it: https://t.co/Z9IhMgRoDp via @Data_Informed @Scott_WIS
+186,661568120310603776,Tue Nov 03 15:38:25 +0000 2015,18,0,RT @DAMA_I: DAMA technology webinar Fast Data – the New Big Data -  https://t.co/SBa8vivFOZ via @BrightTALK @VoltDB
+187,661562186553274369,Tue Nov 03 15:14:51 +0000 2015,6,0,RT @jtangoVC: .@BruceMReading is helping cure childhood cancer and you can too! https://t.co/e8mlkvsQvu via @stbaldricks
+188,661561920428908544,Tue Nov 03 15:13:47 +0000 2015,15,2,"Our fearless leader, @brucemreading shaving his head for the @hackreduce and @StBaldricks charity event last night! https://t.co/Yqqb9Hp25k"
+189,661544067877179392,Tue Nov 03 14:02:51 +0000 2015,17,4,Apache Kafka is also at the front end of #fastdata pipelines built by VoltDB: https://t.co/RAEBICOI1h @noyesk #ingest #analyze #act #export
+190,661367392837193728,Tue Nov 03 02:20:48 +0000 2015,1,1,Annd @brucemreading @pvescuso @ryanbetts AFTER! Great job guys! #BostonGoesBald for @StBaldricks https://t.co/cOwpUoc2xY
+191,661347332211015680,Tue Nov 03 01:01:05 +0000 2015,0,1,.@alex_woodie discusses how our partner @hortonworks preps for coming #IoT device storm: https://t.co/W32nAz9hbA @datanami
+192,661338201773228032,Tue Nov 03 00:24:49 +0000 2015,0,0,Here's @brucemreading @pvescuso and @ryanbetts with a Before picture #BostonGoesBald !! https://t.co/CkXej3pFOL
+193,661334304778280960,Tue Nov 03 00:09:19 +0000 2015,1,1,We're supporting @StBaldricks tonight at #BostonGoesBald Come see us @TheLansdowne https://t.co/GvtHKgJ7OW
+194,661320747764342784,Mon Nov 02 23:15:27 +0000 2015,0,0,"Bigger, better, faster: Keeping pace with the world of next-generation mobile advertising https://t.co/eE7GiciPJ6"
+195,661294353512570880,Mon Nov 02 21:30:34 +0000 2015,0,0,Don’t Be Spooked by Dark #Data Q&amp;A with @Data_Informed and @pvescuso https://t.co/JOVxh2FqWO
+196,661271671299555328,Mon Nov 02 20:00:26 +0000 2015,0,0,.@joemckendrick discusses the downstream benefits of #predictiveanalytics: https://t.co/4IQW7MoJeZ @Forbes
+197,661212016695222273,Mon Nov 02 16:03:24 +0000 2015,13,1,"VoltDB supports @StBaldricks! Help cure childhood cancer, every little bit counts! https://t.co/p4hFl7H6YI https://t.co/IIpwXuwjIP"
+198,661204569561669632,Mon Nov 02 15:33:48 +0000 2015,17,0,RT @DAMA_I: Fast Data – the New Big Data -  https://t.co/mMc2QQBczY via @BrightTALK @VoltDB for DAMA
+199,661187757147095040,Mon Nov 02 14:27:00 +0000 2015,15,0,"RT @odbmsorg: #ebook: Fast Data and the New Enterprise Data Architecture
+@VoltDB  @OReillyMedia 
+https://t.co/FaC7FDsiq9
+#BigData"

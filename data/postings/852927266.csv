@@ -1,0 +1,201 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,615542882448068608,Mon Jun 29 15:30:34 +0000 2015,0,3,Yahoo! Stock Price Start Falling
+1,615537427894128641,Mon Jun 29 15:08:53 +0000 2015,0,1,Boeing Company Stock Price Start Falling
+2,615536337119236100,Mon Jun 29 15:04:33 +0000 2015,0,0,3M Manufacturing Company Stock Price Start Falling
+3,615531134697492480,Mon Jun 29 14:43:53 +0000 2015,1,0,Cocoa Start Rising
+4,615514731839930368,Mon Jun 29 13:38:42 +0000 2015,0,0,Palladium Start Falling
+5,615514018384621568,Mon Jun 29 13:35:52 +0000 2015,0,0,WalMart Stores Stock Price Start Falling  =&gt; Retail sales index reduce
+6,615513137752748032,Mon Jun 29 13:32:22 +0000 2015,0,0,Hertz Global Holdings Stock Price Start Falling
+7,615512678526791680,Mon Jun 29 13:30:32 +0000 2015,0,0,Hewlett Packard(HP) Stock Price Start Falling
+8,615512619139629056,Mon Jun 29 13:30:18 +0000 2015,0,0,Xerox Corporation  Stock Price Start Falling
+9,615512591566270464,Mon Jun 29 13:30:12 +0000 2015,0,0,Marriott International Stock Price Start Falling
+10,615512570737389568,Mon Jun 29 13:30:07 +0000 2015,0,0,Exxon Mobil Stock Price Start Falling
+11,615504998022184961,Mon Jun 29 13:00:01 +0000 2015,0,0,Alpha Natural Resources Stock Price Start Falling
+12,615504599714299904,Mon Jun 29 12:58:26 +0000 2015,0,0,GBPCAD|instant buy at:1.9449|  SL:1.9435|  TP:1.9470|[Trend Following Strategy]
+13,615499313515524096,Mon Jun 29 12:37:26 +0000 2015,2,1,GBPUSD|instant buy at:1.5729|  SL:1.5716|  TP:1.5750|[Trend Following Strategy]
+14,615414771857408001,Mon Jun 29 07:01:30 +0000 2015,0,0,Futsee(London) Start Falling
+15,615399330174869505,Mon Jun 29 06:00:08 +0000 2015,0,0,Wheat Start Rising
+16,614448315128807424,Fri Jun 26 15:01:08 +0000 2015,1,0,NZDJPY|instant sell at:84.50|  SL:84.84|  TP:83.95|[Trend Following Strategy]
+17,614448227325227008,Fri Jun 26 15:00:47 +0000 2015,0,0,EURGBP|instant sell at:0.7075|  SL:0.7109|  TP:0.7020|[Trend Following Strategy]
+18,614448185566740480,Fri Jun 26 15:00:37 +0000 2015,0,0,EURGBP|instant sell at:0.7079|  SL:0.7113|  TP:0.7024|[Trend Following Strategy]
+19,614440696213319680,Fri Jun 26 14:30:52 +0000 2015,0,0,Cocoa Start Rising
+20,614438787301683200,Fri Jun 26 14:23:17 +0000 2015,0,0,General Motors Stock Price Start Falling
+21,614435472505487360,Fri Jun 26 14:10:06 +0000 2015,0,0,Alpha Natural Resources Stock Price Start Falling
+22,614428003930611712,Fri Jun 26 13:40:26 +0000 2015,0,0,Xerox Corporation  Stock Price Start Falling
+23,614425675118870528,Fri Jun 26 13:31:11 +0000 2015,0,0,Conoco Phillips Stock Price Start Falling
+24,614425590989475841,Fri Jun 26 13:30:51 +0000 2015,0,0,Corn Start Rising
+25,614425506621034496,Fri Jun 26 13:30:30 +0000 2015,0,0,United Technologies Corporation Stock Price Start Falling
+26,614425485582462976,Fri Jun 26 13:30:25 +0000 2015,0,0,Hewlett Packard(HP) Stock Price Start Falling
+27,614425401914486785,Fri Jun 26 13:30:05 +0000 2015,0,0,"Nike,Inc Stock Price Start Rising"
+28,614417849021526016,Fri Jun 26 13:00:05 +0000 2015,0,0,American Electric Power Company Stock Price Start Falling
+29,614411471833956352,Fri Jun 26 12:34:44 +0000 2015,0,0,Soya Bean Start Rising
+30,614405744994222081,Fri Jun 26 12:11:59 +0000 2015,0,0,GBPAUD|instant buy at:2.0556|  SL:2.0467|  TP:2.0689|[Trend Following Strategy]
+31,614358398856003584,Fri Jun 26 09:03:51 +0000 2015,0,0,Wheat Start Rising
+32,614328087199809536,Fri Jun 26 07:03:24 +0000 2015,0,1,Silver Start Falling
+33,614127965195104256,Thu Jun 25 17:48:11 +0000 2015,0,0,United Health Group Stock Price Start Rising
+34,614123370817392644,Thu Jun 25 17:29:56 +0000 2015,0,0,Hertz Global Holdings Stock Price Start Falling
+35,614110574780252160,Thu Jun 25 16:39:05 +0000 2015,0,0,Tronox Stock Price Start Falling
+36,614068744554455040,Thu Jun 25 13:52:52 +0000 2015,0,0,AT&amp;T Company Stock Price Start Rising
+37,614063227178233856,Thu Jun 25 13:30:56 +0000 2015,0,0,The Walt Disney Stock Price Start Rising
+38,614055465266380801,Thu Jun 25 13:00:06 +0000 2015,0,0,American Electric Power Company Stock Price Start Falling
+39,614036879424532480,Thu Jun 25 11:46:14 +0000 2015,0,0,Palladium Start Falling
+40,614026328745091072,Thu Jun 25 11:04:19 +0000 2015,0,0,According to confidental Swiss National Bank(SNB) policy|CHF|is|Bearish|Right now you can Scalping on its pairs with max |34|pips profit
+41,614014035579785217,Thu Jun 25 10:15:28 +0000 2015,0,0,EURCHF|instant buy at:1.0498|  SL:1.0485|  TP:1.0519|[Trend Following Strategy]
+42,613993289402974208,Thu Jun 25 08:53:02 +0000 2015,0,0,Cocoa Start Rising
+43,613717131029520384,Wed Jun 24 14:35:41 +0000 2015,1,0,The Walt Disney Stock Price Start Rising
+44,613706477983952901,Wed Jun 24 13:53:21 +0000 2015,0,0,Alpha Natural Resources Stock Price Start Falling
+45,613704208097914880,Wed Jun 24 13:44:19 +0000 2015,0,0,American Electric Power Company Stock Price Start Falling
+46,613700688326098944,Wed Jun 24 13:30:20 +0000 2015,0,0,Alcoa Stock Price Start Falling
+47,613700664766656512,Wed Jun 24 13:30:15 +0000 2015,0,0,DuPont Chemicals Company Stock Price Start Falling
+48,613605317759344640,Wed Jun 24 07:11:22 +0000 2015,0,0,GBPJPY|instant buy at:195.88|  SL:195.33|  TP:196.77|[Trend Following Strategy]
+49,613348320610795520,Tue Jun 23 14:10:09 +0000 2015,1,0,United Health Group Stock Price Start Rising
+50,613342530499944448,Tue Jun 23 13:47:09 +0000 2015,1,1,Morgan Stanley Stock Price Start Rising
+51,613342384252973056,Tue Jun 23 13:46:34 +0000 2015,0,0,American Express Stock Price Start Rising
+52,613341146325065728,Tue Jun 23 13:41:39 +0000 2015,0,0,Bank of America Corporation Stock Price Start Rising
+53,613338880557887488,Tue Jun 23 13:32:39 +0000 2015,0,0,Facebook Stock Price Start Rising
+54,613338796717944832,Tue Jun 23 13:32:19 +0000 2015,0,0,Regions Financial Corporation Stock Price Start Rising
+55,613338251173232640,Tue Jun 23 13:30:09 +0000 2015,0,0,JPMorgan Chase Stock Price Start Rising
+56,613338230247817216,Tue Jun 23 13:30:04 +0000 2015,0,0,AT&amp;T Company Stock Price Start Rising
+57,613330679020015616,Tue Jun 23 13:00:03 +0000 2015,0,0,Alcoa Stock Price Start Falling
+58,613329294564159488,Tue Jun 23 12:54:33 +0000 2015,0,0,According to confidental Federal Reserve policy|USD|is|Bullish|Right now you can Scalping on its pairs with max |34|pips profit
+59,613272718935486464,Tue Jun 23 09:09:44 +0000 2015,0,0,GBPCHF|instant buy at:1.4694|  SL:1.4660|  TP:1.4749|[Trend Following Strategy]
+60,613270264042913792,Tue Jun 23 08:59:59 +0000 2015,0,0,EURGBP|instant sell at:0.7117|  SL:0.7138|  TP:0.7083|[Trend Following Strategy]
+61,613256669783543808,Tue Jun 23 08:05:58 +0000 2015,0,0,NZDUSD|instant sell at:0.6844|  SL:0.6857|  TP:0.6823|[Trend Following Strategy]
+62,613224994458439681,Tue Jun 23 06:00:06 +0000 2015,0,0,NIKKEI Start Rising
+63,613001647455870976,Mon Jun 22 15:12:36 +0000 2015,0,0,EURAUD|instant buy at:1.4717|  SL:1.4704|  TP:1.4738|[Trend Following Strategy]
+64,613000871241216002,Mon Jun 22 15:09:31 +0000 2015,0,1,AES Corporation Stock Price Start Rising
+65,612994282891423748,Mon Jun 22 14:43:20 +0000 2015,0,0,American Express Stock Price Start Rising
+66,612992899421216769,Mon Jun 22 14:37:50 +0000 2015,0,0,EURJPY|instant buy at:140.38|  SL:140.25|  TP:140.59|[Trend Following Strategy]
+67,612983836931194881,Mon Jun 22 14:01:50 +0000 2015,0,1,Dow Chemical Company Stock Price Start Rising
+68,612977543856173056,Mon Jun 22 13:36:49 +0000 2015,0,1,Wells Fargo Stock Price Start Rising
+69,612977124484509696,Mon Jun 22 13:35:09 +0000 2015,0,0,Adobe Stock Price Start Rising
+70,612976285489451008,Mon Jun 22 13:31:49 +0000 2015,0,0,"MetLife,Inc Stock Price Start Rising"
+71,612976180581507072,Mon Jun 22 13:31:24 +0000 2015,0,0,Alcoa Stock Price Start Falling
+72,612976013027450880,Mon Jun 22 13:30:44 +0000 2015,0,0,The Walt Disney Stock Price Start Rising
+73,612975928944238592,Mon Jun 22 13:30:24 +0000 2015,0,1,JPMorgan Chase Stock Price Start Rising
+74,612975865799024640,Mon Jun 22 13:30:09 +0000 2015,0,1,"Nike,Inc Stock Price Start Rising"
+75,612975845381173248,Mon Jun 22 13:30:04 +0000 2015,0,1,Goldman Sachs Stock Price Start Rising
+76,612968292970532864,Mon Jun 22 13:00:04 +0000 2015,0,0,Conoco Phillips Stock Price Start Falling
+77,612965377098825728,Mon Jun 22 12:48:28 +0000 2015,0,0,Platinum Start Falling
+78,612941571265294336,Mon Jun 22 11:13:53 +0000 2015,0,0,EURNZD|instant buy at:1.6517|  SL:1.6504|  TP:1.6538|[Trend Following Strategy]
+79,612940979885223936,Mon Jun 22 11:11:32 +0000 2015,0,0,CADJPY|instant buy at:100.79|  SL:100.66|  TP:101.00|[Trend Following Strategy]
+80,612862589182324737,Mon Jun 22 06:00:02 +0000 2015,0,0,Sugar Start Falling
+81,611916621054144512,Fri Jun 19 15:21:05 +0000 2015,1,0,Alpha Natural Resources Stock Price Start Falling
+82,611912152698515456,Fri Jun 19 15:03:20 +0000 2015,0,0,GBPAUD|instant buy at:2.0504|  SL:2.0491|  TP:2.0525|[Trend Following Strategy]
+83,611891027423666180,Fri Jun 19 13:39:23 +0000 2015,0,0,Standridge Stock Price Start Falling
+84,611888698549010432,Fri Jun 19 13:30:08 +0000 2015,0,0,Conoco Phillips Stock Price Start Falling
+85,611888678261125120,Fri Jun 19 13:30:03 +0000 2015,0,0,AES Corporation Stock Price Start Rising
+86,611885761676361728,Fri Jun 19 13:18:28 +0000 2015,0,0,NZDJPY|instant sell at:84.69|  SL:85.03|  TP:84.14|[Trend Following Strategy]
+87,611885489067556864,Fri Jun 19 13:17:23 +0000 2015,0,0,Palladium Start Falling
+88,611882005391929344,Fri Jun 19 13:03:32 +0000 2015,0,0,GBPCHF|instant buy at:1.4670|  SL:1.4615|  TP:1.4759|[Trend Following Strategy]
+89,611881124793417728,Fri Jun 19 13:00:03 +0000 2015,0,1,"Nike,Inc Stock Price Start Rising"
+90,611868916554579968,Fri Jun 19 12:11:32 +0000 2015,0,0,GBPCAD|instant buy at:1.9444|  SL:1.9355|  TP:1.9577|[Trend Following Strategy]
+91,611866461200646145,Fri Jun 19 12:01:46 +0000 2015,0,0,GBPCAD|instant buy at:1.9437|  SL:1.9424|  TP:1.9458|[Trend Following Strategy]
+92,611813766628536320,Fri Jun 19 08:32:23 +0000 2015,0,0,EURGBP|instant sell at:0.7130|  SL:0.7164|  TP:0.7075|[Trend Following Strategy]
+93,611809570311286784,Fri Jun 19 08:15:43 +0000 2015,0,0,CADJPY|instant buy at:100.79|  SL:100.66|  TP:101.00|[Trend Following Strategy]
+94,611809486706200576,Fri Jun 19 08:15:23 +0000 2015,0,0,NZDCAD|instant sell at:0.8438|  SL:0.8451|  TP:0.8417|[Trend Following Strategy]
+95,611798621516918784,Fri Jun 19 07:32:12 +0000 2015,0,0,Sugar Start Falling
+96,611791677758554112,Fri Jun 19 07:04:37 +0000 2015,0,0,Cooper Start Falling
+97,611791035715465216,Fri Jun 19 07:02:04 +0000 2015,0,1,EURGBP|instant sell at:0.7142|  SL:0.7176|  TP:0.7087|[Trend Following Strategy]
+98,611776868119912448,Fri Jun 19 06:05:46 +0000 2015,0,0,NZDUSD|instant sell at:0.6911|  SL:0.6924|  TP:0.6890|[Trend Following Strategy]
+99,611579347682598912,Thu Jun 18 17:00:53 +0000 2015,0,0,GBPCAD|instant buy at:1.9410|  SL:1.9355|  TP:1.9499|[Trend Following Strategy]
+100,611572131122515968,Thu Jun 18 16:32:13 +0000 2015,0,0,AES Corporation Stock Price Start Rising
+101,611571648974745600,Thu Jun 18 16:30:18 +0000 2015,0,0,"MetLife,Inc Stock Price Start Rising"
+102,611570306176692224,Thu Jun 18 16:24:58 +0000 2015,0,0,JPMorgan Chase Stock Price Start Rising
+103,611569844446724097,Thu Jun 18 16:23:07 +0000 2015,0,0,EURCHF|instant buy at:1.0515|  SL:1.0502|  TP:1.0536|[Trend Following Strategy]
+104,611569551424270336,Thu Jun 18 16:21:58 +0000 2015,0,0,Wells Fargo Stock Price Start Rising
+105,611556797690826752,Thu Jun 18 15:31:17 +0000 2015,0,0,Goldman Sachs Stock Price Start Rising
+106,611549665943756800,Thu Jun 18 15:02:57 +0000 2015,0,0,The Walt Disney Stock Price Start Rising
+107,611537835552841728,Thu Jun 18 14:15:56 +0000 2015,0,0,EURNZD|instant buy at:1.6412|  SL:1.6399|  TP:1.6433|[Trend Following Strategy]
+108,611536996452990977,Thu Jun 18 14:12:36 +0000 2015,0,0,MasterCard Stock Price Start Rising
+109,611527641368281088,Thu Jun 18 13:35:25 +0000 2015,0,0,"Nike,Inc Stock Price Start Rising"
+110,611526466615005184,Thu Jun 18 13:30:45 +0000 2015,0,0,Dow Chemical Company Stock Price Start Rising
+111,611520928841920512,Thu Jun 18 13:08:45 +0000 2015,0,0,CHFJPY|instant buy at:134.02|  SL:133.89|  TP:134.23|[Trend Following Strategy]
+112,611520614449455104,Thu Jun 18 13:07:30 +0000 2015,0,0,AUDNZD|instant buy at:1.1268|  SL:1.1255|  TP:1.1289|[Trend Following Strategy]
+113,611519314131316736,Thu Jun 18 13:02:20 +0000 2015,0,0,NZDCAD|instant sell at:0.8440|  SL:0.8453|  TP:0.8419|[Trend Following Strategy]
+114,611516443679715328,Thu Jun 18 12:50:56 +0000 2015,0,0,CADJPY|instant buy at:101.15|  SL:100.81|  TP:101.70|[Trend Following Strategy]
+115,611516440517156864,Thu Jun 18 12:50:55 +0000 2015,0,0,CADJPY|instant buy at:101.15|  SL:101.02|  TP:101.36|[Trend Following Strategy]
+116,611514405847740416,Thu Jun 18 12:42:50 +0000 2015,0,1,CADJPY|instant buy at:101.07|  SL:100.73|  TP:101.62|[Trend Following Strategy]
+117,611471634969534464,Thu Jun 18 09:52:53 +0000 2015,0,0,AUDUSD|instant buy at:0.7829|  SL:0.7795|  TP:0.7884|[Trend Following Strategy]
+118,611469830613520384,Thu Jun 18 09:45:42 +0000 2015,0,0,AUDUSD|instant buy at:0.7823|  SL:0.7789|  TP:0.7878|[Trend Following Strategy]
+119,611466620628807680,Thu Jun 18 09:32:57 +0000 2015,0,0,GBPUSD|instant buy at:1.5928|  SL:1.5915|  TP:1.5949|[Trend Following Strategy]
+120,611454685711433728,Thu Jun 18 08:45:32 +0000 2015,0,0,Cocoa Start Rising
+121,611454437085810688,Thu Jun 18 08:44:32 +0000 2015,0,1,USDCAD|instant sell at:1.2167|  SL:1.2201|  TP:1.2112|[Trend Following Strategy]
+122,611454434011422720,Thu Jun 18 08:44:31 +0000 2015,0,0,USDCAD|instant sell at:1.2167|  SL:1.2180|  TP:1.2146|[Trend Following Strategy]
+123,611448459233787904,Thu Jun 18 08:20:47 +0000 2015,0,0,EURUSD|instant buy at:1.1415|  SL:1.1381|  TP:1.1470|[Trend Following Strategy]
+124,611448456184483840,Thu Jun 18 08:20:46 +0000 2015,0,0,EURUSD|instant buy at:1.1415|  SL:1.1402|  TP:1.1436|[Trend Following Strategy]
+125,611446252950155264,Thu Jun 18 08:12:01 +0000 2015,0,0,Cotation Assisteeen Continu(CAC40)(France) Start Falling
+126,611446023655944192,Thu Jun 18 08:11:06 +0000 2015,0,0,Futsee(London) Start Falling
+127,611445944392024066,Thu Jun 18 08:10:47 +0000 2015,0,0,EURUSD|instant buy at:1.1388|  SL:1.1367|  TP:1.1422|[Trend Following Strategy]
+128,611445941464342528,Thu Jun 18 08:10:47 +0000 2015,0,0,USDCHF|instant sell at:0.9179|  SL:0.9213|  TP:0.9124|[Trend Following Strategy]
+129,611445938389929984,Thu Jun 18 08:10:46 +0000 2015,0,0,USDCHF|instant sell at:0.9178|  SL:0.9191|  TP:0.9157|[Trend Following Strategy]
+130,611440045371867136,Thu Jun 18 07:47:21 +0000 2015,0,0,USDCAD|instant sell at:1.2201|  SL:1.2235|  TP:1.2146|[Trend Following Strategy]
+131,611437779080323073,Thu Jun 18 07:38:21 +0000 2015,0,0,USDCHF|instant sell at:0.9192|  SL:0.9226|  TP:0.9137|[Trend Following Strategy]
+132,611435702417551360,Thu Jun 18 07:30:06 +0000 2015,0,0,GBPUSD|instant buy at:1.5852|  SL:1.5797|  TP:1.5941|[Trend Following Strategy]
+133,611432409242947584,Thu Jun 18 07:17:00 +0000 2015,0,0,AUDNZD|instant buy at:1.1238|  SL:1.1204|  TP:1.1293|[Trend Following Strategy]
+134,611413048239255552,Thu Jun 18 06:00:04 +0000 2015,0,0,Palladium Start Falling
+135,611231858957922304,Wed Jun 17 18:00:05 +0000 2015,0,0,CHFJPY|instant buy at:134.36|  SL:134.23|  TP:134.57|[Trend Following Strategy]
+136,611231815785971712,Wed Jun 17 17:59:55 +0000 2015,0,0,GBPJPY|instant buy at:195.62|  SL:195.07|  TP:196.51|[Trend Following Strategy]
+137,611231812698947584,Wed Jun 17 17:59:54 +0000 2015,0,0,GBPJPY|instant buy at:195.62|  SL:195.49|  TP:195.83|[Trend Following Strategy]
+138,611202024840032256,Wed Jun 17 16:01:32 +0000 2015,0,0,Alcoa Stock Price Start Falling
+139,611196949312765952,Wed Jun 17 15:41:22 +0000 2015,0,0,AUDCAD|instant sell at:0.9429|  SL:0.9463|  TP:0.9374|[Trend Following Strategy]
+140,611165442653163520,Wed Jun 17 13:36:11 +0000 2015,0,0,"MetLife,Inc Stock Price Start Rising"
+141,611164897003573248,Wed Jun 17 13:34:00 +0000 2015,0,0,JPMorgan Chase Stock Price Start Rising
+142,611156359057408002,Wed Jun 17 13:00:05 +0000 2015,0,0,Alpha Natural Resources Stock Price Start Falling
+143,611145618799595520,Wed Jun 17 12:17:24 +0000 2015,1,0,EURJPY|instant buy at:139.87|  SL:139.74|  TP:140.08|[Trend Following Strategy]
+144,611124537804128256,Wed Jun 17 10:53:38 +0000 2015,0,1,NZDUSD|instant sell at:0.6921|  SL:0.6942|  TP:0.6887|[Trend Following Strategy]
+145,611123739061788673,Wed Jun 17 10:50:28 +0000 2015,0,1,According to confidental England Centeral Bank(BOE) policy|GBP|is|Bullish|Right now you can Scalping on its pairs with max |34|pips profit
+146,611116585827352576,Wed Jun 17 10:22:02 +0000 2015,0,0,NZDCAD|instant sell at:0.8533|  SL:0.8567|  TP:0.8478|[Trend Following Strategy]
+147,611106097492041728,Wed Jun 17 09:40:22 +0000 2015,0,0,GBPCHF|instant buy at:1.4604|  SL:1.4570|  TP:1.4659|[Trend Following Strategy]
+148,611088370937294848,Wed Jun 17 08:29:55 +0000 2015,0,1,GBPAUD|instant buy at:2.0388|  SL:2.0375|  TP:2.0409|[Trend Following Strategy]
+149,611085396018077696,Wed Jun 17 08:18:06 +0000 2015,0,0,EURNZD|instant buy at:1.6272|  SL:1.6217|  TP:1.6361|[Trend Following Strategy]
+150,611085392293548032,Wed Jun 17 08:18:05 +0000 2015,0,0,EURNZD|instant buy at:1.6275|  SL:1.6262|  TP:1.6296|[Trend Following Strategy]
+151,611084972636696576,Wed Jun 17 08:16:25 +0000 2015,0,0,GBPCAD|instant buy at:1.9311|  SL:1.9256|  TP:1.9400|[Trend Following Strategy]
+152,611084573791899648,Wed Jun 17 08:14:50 +0000 2015,0,0,GBPUSD|instant buy at:1.5656|  SL:1.5600|  TP:1.5744|[Trend Following Strategy]
+153,611082308288913408,Wed Jun 17 08:05:50 +0000 2015,0,0,GBPAUD|instant buy at:2.0322|  SL:2.0267|  TP:2.0411|[Trend Following Strategy]
+154,611082287376154625,Wed Jun 17 08:05:45 +0000 2015,0,0,EURAUD|instant buy at:1.4650|  SL:1.4637|  TP:1.4671|[Trend Following Strategy]
+155,611074255426617344,Wed Jun 17 07:33:50 +0000 2015,0,0,NZDUSD|instant sell at:0.6941|  SL:0.6962|  TP:0.6907|[Trend Following Strategy]
+156,611073456201969664,Wed Jun 17 07:30:39 +0000 2015,0,0,NZDJPY|instant sell at:85.88|  SL:86.09|  TP:85.54|[Trend Following Strategy]
+157,611072995474456576,Wed Jun 17 07:28:49 +0000 2015,0,0,EURNZD|instant buy at:1.6217|  SL:1.6162|  TP:1.6306|[Trend Following Strategy]
+158,611072428060606464,Wed Jun 17 07:26:34 +0000 2015,0,0,GBPAUD|instant buy at:2.0284|  SL:2.0229|  TP:2.0373|[Trend Following Strategy]
+159,611066282100793344,Wed Jun 17 07:02:09 +0000 2015,1,0,GBPJPY|instant buy at:193.35|  SL:192.80|  TP:194.24|[Trend Following Strategy]
+160,611050655218860032,Wed Jun 17 06:00:03 +0000 2015,0,0,Cocoa Start Rising
+161,610856739039223808,Tue Jun 16 17:09:30 +0000 2015,1,1,GBPUSD|instant buy at:1.5648|  SL:1.5614|  TP:1.5703|[Trend Following Strategy]
+162,610856573611712512,Tue Jun 16 17:08:50 +0000 2015,0,0,GBPUSD|instant buy at:1.5646|  SL:1.5633|  TP:1.5667|[Trend Following Strategy]
+163,610802510547259393,Tue Jun 16 13:34:01 +0000 2015,0,0,WalMart Stores Stock Price Start Falling  =&gt; Retail sales index reduce
+164,610802406822158337,Tue Jun 16 13:33:36 +0000 2015,0,0,3M Manufacturing Company Stock Price Start Falling
+165,610802265180520448,Tue Jun 16 13:33:02 +0000 2015,0,0,Alcoa Stock Price Start Falling
+166,610802195999653888,Tue Jun 16 13:32:46 +0000 2015,0,0,Total S.A Stock Price Start Falling
+167,610801902159298560,Tue Jun 16 13:31:36 +0000 2015,0,0,Chevron Stock Price Start Falling
+168,610801608373440513,Tue Jun 16 13:30:26 +0000 2015,0,0,Verizon Communications  Stock Price Start Falling
+169,610801577159471104,Tue Jun 16 13:30:18 +0000 2015,0,0,"GoldCorp,Inc Stock Price Start Falling"
+170,610793973284741120,Tue Jun 16 13:00:05 +0000 2015,0,0,Coca-Cola Company Stock Price Start Falling
+171,610779897728999424,Tue Jun 16 12:04:10 +0000 2015,0,0,GBPCHF|instant buy at:1.4590|  SL:1.4556|  TP:1.4645|[Trend Following Strategy]
+172,610772723007135744,Tue Jun 16 11:35:39 +0000 2015,0,0,GBPCAD|instant buy at:1.9281|  SL:1.9226|  TP:1.9370|[Trend Following Strategy]
+173,610765590681268224,Tue Jun 16 11:07:18 +0000 2015,0,0,GBPCAD|instant buy at:1.9262|  SL:1.9249|  TP:1.9283|[Trend Following Strategy]
+174,610758878112972800,Tue Jun 16 10:40:38 +0000 2015,0,0,GBPJPY|instant buy at:192.69|  SL:192.56|  TP:192.90|[Trend Following Strategy]
+175,610724622183596032,Tue Jun 16 08:24:31 +0000 2015,0,1,GBPAUD|instant buy at:2.0191|  SL:2.0136|  TP:2.0280|[Trend Following Strategy]
+176,610711867888173056,Tue Jun 16 07:33:50 +0000 2015,0,0,Deutscher Aktien(DAX30)(Germany) Start Falling
+177,610705952497647616,Tue Jun 16 07:10:20 +0000 2015,0,0,EURNZD|instant buy at:1.6211|  SL:1.6177|  TP:1.6266|[Trend Following Strategy]
+178,610705931802963968,Tue Jun 16 07:10:15 +0000 2015,0,0,EURNZD|instant buy at:1.6210|  SL:1.6197|  TP:1.6231|[Trend Following Strategy]
+179,610704883025641472,Tue Jun 16 07:06:05 +0000 2015,0,0,EURCAD|instant buy at:1.3951|  SL:1.3938|  TP:1.3972|[Trend Following Strategy]
+180,610703267308400640,Tue Jun 16 06:59:39 +0000 2015,0,0,Cotation Assisteeen Continu(CAC40)(France) Start Falling
+181,610688268414394369,Tue Jun 16 06:00:03 +0000 2015,0,0,Futsee(London) Start Falling
+182,610485965598101504,Mon Jun 15 16:36:11 +0000 2015,0,0,Corn Start Falling
+183,610485170651598848,Mon Jun 15 16:33:01 +0000 2015,1,0,"PepsiCo,Inc Stock Price Start Falling"
+184,610483951963123712,Mon Jun 15 16:28:11 +0000 2015,0,0,EURJPY|instant buy at:139.31|  SL:139.18|  TP:139.52|[Trend Following Strategy]
+185,610470065008414720,Mon Jun 15 15:33:00 +0000 2015,1,0,American International Group(AIG) Stock Price Start Rising
+186,610457162624667649,Mon Jun 15 14:41:43 +0000 2015,0,0,Tronox Stock Price Start Falling
+187,610440400524996608,Mon Jun 15 13:35:07 +0000 2015,0,0,McDonald's Company Stock Price Start Falling
+188,610440044520841216,Mon Jun 15 13:33:42 +0000 2015,0,0,3M Manufacturing Company Stock Price Start Falling
+189,610439330784509952,Mon Jun 15 13:30:52 +0000 2015,0,0,Verizon Communications  Stock Price Start Falling
+190,610439184134873088,Mon Jun 15 13:30:17 +0000 2015,0,0,WalMart Stores Stock Price Start Falling  =&gt; Retail sales index reduce
+191,610439163033309185,Mon Jun 15 13:30:12 +0000 2015,0,0,Johnson &amp; Johnson Stock Price Start Falling
+192,610439142254714880,Mon Jun 15 13:30:07 +0000 2015,0,0,Marriott International Stock Price Start Falling
+193,610437610784333824,Mon Jun 15 13:24:02 +0000 2015,0,0,EURCHF|instant buy at:1.0531|  SL:1.0518|  TP:1.0552|[Trend Following Strategy]
+194,610431570957221888,Mon Jun 15 13:00:02 +0000 2015,0,0,Alpha Natural Resources Stock Price Start Falling
+195,610382985003667456,Mon Jun 15 09:46:58 +0000 2015,0,1,Futsee(London) Start Falling
+196,610367440191660032,Mon Jun 15 08:45:12 +0000 2015,0,0,Cocoa Start Rising
+197,610355189741133825,Mon Jun 15 07:56:31 +0000 2015,0,0,Palladium Start Falling
+198,610354098320338944,Mon Jun 15 07:52:11 +0000 2015,0,0,EURNZD|instant buy at:1.6112|  SL:1.6099|  TP:1.6133|[Trend Following Strategy]
+199,610353972700934144,Mon Jun 15 07:51:41 +0000 2015,0,0,Platinum Start Falling

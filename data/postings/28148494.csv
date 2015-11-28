@@ -1,0 +1,276 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,647730382217961472,Sat Sep 26 11:12:12 +0000 2015,0,0,"@UniqueLock you need to #include &lt;iostream&gt;
+#prt #حزب_المبرمجين"
+1,647730177129082880,Sat Sep 26 11:11:23 +0000 2015,0,0,"#حزب_المبرمجين
+int main(){long long l=19680264216,h=27450111844;for(;l&gt;0;){char c=(l&amp;15)+(h&lt;&lt;4%240);l&gt;&gt;=4;h&gt;&gt;=4;std::cout&lt;&lt;c;}}"
+2,647416336490979328,Fri Sep 25 14:24:17 +0000 2015,0,1,وثائقي للـBBC تتناول فيه قضية #اليمن_الجنوبي بنوع من الإنصاف، مع التنويه أن مطالبنا بـ#الانفصال هي لـ#فك_الارتباط: https://t.co/jXB3CsSUyc
+3,642340787737366529,Fri Sep 11 14:15:52 +0000 2015,0,1,"New release of pstat #linux #OSS available:
+- Can compile with 0 external dependencies
+- Integration with autotools
+https://t.co/JKHjRzYLdS"
+4,641569049936183297,Wed Sep 09 11:09:15 +0000 2015,0,0,"@walidshaari I worked a bit on GPT file system and the memory manager, but far from completed"
+5,641551511504289792,Wed Sep 09 09:59:34 +0000 2015,0,0,"@walidshaari
+
+sed -i 's/patter/pattern/g' prt
+git commit -m ""sleepy tweet update"""
+6,641461821853962240,Wed Sep 09 04:03:10 +0000 2015,0,0,"@walidshaari @RAlShaikh @Akhmees @BaddourahMajdi I am relying entirely on the args parser lib, but planning to add more"
+7,641461424707928064,Wed Sep 09 04:01:36 +0000 2015,0,0,"@walidshaari @RAlShaikh @Akhmees @BaddourahMajdi
+
+that's worth π bugs.
+Appreciated!"
+8,641294416666189824,Tue Sep 08 16:57:58 +0000 2015,1,0,"@RAlShaikh @Akhmees @walidshaari @BaddourahMajdi
+https://t.co/FB4hJoZ4aa"
+9,641292396999737344,Tue Sep 08 16:49:56 +0000 2015,0,0,"Report 5 bugs and get free coffee. Free hugs for 10 bugs.
+@RAlShaikh @Akhmees @walidshaari @BaddourahMajdi"
+10,641290993157865472,Tue Sep 08 16:44:22 +0000 2015,0,0,"Targets Linux only, collects stat recursively &amp; outputs to CSV file. Multi-threaded, applies producer-consumer patter with lock-free queues."
+11,641290258470973440,Tue Sep 08 16:41:26 +0000 2015,1,3,"Greetings comrades, back again with another #OSS: blazing-fast #parallel recursive stat, https://t.co/JKHjRzYLdS #linux #cpp"
+12,632240690848595968,Fri Aug 14 17:21:41 +0000 2015,548,0,"RT @abt_programming: If the programmers like each other, they play a game called ""pair programming"". And if not then the game is called ""pe…"
+13,631310047943852032,Wed Aug 12 03:43:39 +0000 2015,0,1,"@dAlwadani yes there is, I elaborated a bit on that in the ""License"" section: https://t.co/uKcsispY1R"
+14,631158506964389888,Tue Aug 11 17:41:29 +0000 2015,0,2,Congrats love @NooraGraphy! https://t.co/Oia9zbCCfT
+15,631138214779039744,Tue Aug 11 16:20:51 +0000 2015,0,0,"@UniqueLock this dataset has been updated; over 31,000 articles now"
+16,629732208710778880,Fri Aug 07 19:13:53 +0000 2015,0,0,"@LeGhamdi great, I'm working on making that available within the upcoming 4 weeks."
+17,629730029136547840,Fri Aug 07 19:05:13 +0000 2015,0,0,@tareqali4 what's your application about?
+18,629648721244876801,Fri Aug 07 13:42:08 +0000 2015,0,0,"@LeGhamdi I see your point, what if I included ""section"" information for each article extracted with the crawler; would that help?"
+19,629645925456023552,Fri Aug 07 13:31:01 +0000 2015,0,0,@LeGhamdi .. more insights to your suggestion (with an example)? I might as well implement it in the current codebase
+20,629645831960793088,Fri Aug 07 13:30:39 +0000 2015,0,0,"@LeGhamdi Not at all Abdullah, sad to say I wasn't planning on sharing this crawler (too non-generic to be useful), but could you give me .."
+21,629643561290481664,Fri Aug 07 13:21:37 +0000 2015,0,0,@tareqali4 @SaifAlHarthi One reason is that I wrote this crawler to make available big training dataset to build a smarter &amp; generic crawler
+22,629643409842528256,Fri Aug 07 13:21:01 +0000 2015,0,0,"@tareqali4 @SaifAlHarthi I wrote a rather highly non-generic web crawler, I wasn't planning on sharing it though for few reasons.."
+23,629501527007191040,Fri Aug 07 03:57:14 +0000 2015,1,1,"@wedgh sure; the ultimate purpose of sharing this dataset is to aid research. I added a section ""citing this work"": https://t.co/zkQEsc8nMr"
+24,629363965894766593,Thu Aug 06 18:50:37 +0000 2015,623,0,"RT @abt_programming: margin: 0;
+padding: 0;
+
+...
+
+margin: 0 !important;
+padding: 0 !important;
+
+...
+
+sudo margin: 0 !important;
+sudo paddin…"
+25,629352022291124225,Thu Aug 06 18:03:09 +0000 2015,0,0,"@SaifAlHarthi shamelessly I find it hard to communicate in Arabic for geeky talks *blush blush*
+
+will share code soon + some ideas!"
+26,629349544447344640,Thu Aug 06 17:53:18 +0000 2015,0,0,"@SaifAlHarthi Thanks for sharing Saif:) keenly looking forward for your contributions. By the way, I wrote the crawler in PHP, want to peek?"
+27,629348913389170688,Thu Aug 06 17:50:48 +0000 2015,0,0,@AbuAnas @mkhDev = مجموعة كبيرة من النصوص https://t.co/rBuaZENKrr
+28,629347355536588800,Thu Aug 06 17:44:36 +0000 2015,0,0,"@mkhDev Thank you for sharing :), I hope this can be another seed towards better Arabic computing"
+29,629346939621015552,Thu Aug 06 17:42:57 +0000 2015,0,0,@wedgh @SaifAlHarthi I'll be glad if someone can make use of it. Let me know if other article features are required so I can avail them next
+30,629333015974445056,Thu Aug 06 16:47:38 +0000 2015,0,0,"@SaifAlHarthi @mkhDev Please feel free to use/contrib/share if someone is interested. Feedback is highly appreciated
+https://t.co/NExcreRYvH"
+31,629327876655943681,Thu Aug 06 16:27:12 +0000 2015,8,29,"مكنز عربي يحتوي على 22 ألف خبر تم استخراجه من صحف سعودية، يمكن استخدامه في تطبيقات تعلم الآلة: https://t.co/DgG8XTAKou
+#حزب_المبرمجين #برمجة"
+32,629325062617759744,Thu Aug 06 16:16:01 +0000 2015,2,3,@UniqueLock I extracted over 22K articles so far using the crawler. The dataset is available https://t.co/DgG8XTAKou to be updated regularly
+33,629324416153812992,Thu Aug 06 16:13:27 +0000 2015,3,4,I wrote a web #crawler recently that crawls online #Saudi newspapers. The goal is to avail #Arabic #corpora for machine learning.
+34,627210540817911808,Fri Jul 31 20:13:40 +0000 2015,0,0,I wish my SysAdmin friends a happy and prosperous #SysAdminDay! http://t.co/osamcKc15I
+35,626492788012482560,Wed Jul 29 20:41:34 +0000 2015,287,0,RT @AntDeRosa: The fastest-growing mobile phone markets barely use apps http://t.co/D2t17CViDI http://t.co/qxeCYCxlQi
+36,623590374389321728,Tue Jul 21 20:28:25 +0000 2015,0,0,Tailored a recent web-crawler code I wrote to prepare Arabic corpora for this course: https://t.co/vAPyZ75Nco
+37,623210199394836480,Mon Jul 20 19:17:44 +0000 2015,2338,0,RT @evankirstel: Why are talented people so busy? http://t.co/eZktdMgI0Z
+38,622704651427688448,Sun Jul 19 09:48:52 +0000 2015,0,0,@SaifAlHarthi @MohDul I am pretty sure they don't :D
+39,622704436259897344,Sun Jul 19 09:48:01 +0000 2015,0,0,"@SaifAlHarthi @MohDul I spent endless hours @ work optimizing production code that started as ""research project who-cares-about-unit-tests""!"
+40,622703572661043201,Sun Jul 19 09:44:35 +0000 2015,0,0,"@SaifAlHarthi @MohDul research projects sooner or later become production code, have mercy on those maintaining your code in the future :P"
+41,622702809897549824,Sun Jul 19 09:41:33 +0000 2015,0,0,@SaifAlHarthi @MohDul .. however the problem goes into another layer: writing good unit tests is not a piece of cake!
+42,622702716851130368,Sun Jul 19 09:41:11 +0000 2015,0,1,@SaifAlHarthi @MohDul writing good unit tests (the TDD way) should facilitate future code optimizations/refactoring..
+43,622672049517887489,Sun Jul 19 07:39:19 +0000 2015,275,0,RT @fgavilondo: Must be this tall to write multithreaded code. http://t.co/1CiPFUWrkX
+44,622387369044410368,Sat Jul 18 12:48:06 +0000 2015,1,0,"@Konash.. no one will use cracked software once he understands he might be risking leaking his personal info (family photos, love letters..)"
+45,622386331063181312,Sat Jul 18 12:43:59 +0000 2015,1,1,"@Konash I think the general lack of knowledge of ""serious risks of using cracked software"" largely contributes to this"
+46,621942677039263744,Fri Jul 17 07:21:03 +0000 2015,0,1,@Odai_Alghamdi Starting OS development isn't that hard at all once you get to understand the mechanics
+47,621942043703533568,Fri Jul 17 07:18:33 +0000 2015,0,1,"@Odai_Alghamdi still long way to go for me! I recommend reading this article first: http://t.co/TE8hOA9uws, it will get you up the ladder"
+48,621939475015335936,Fri Jul 17 07:08:20 +0000 2015,0,2,"@Odai_Alghamdi Yes, built from scratch. Found great help in tutorials from http://t.co/BIeAYY3ErH and @0xAX Linux articles."
+49,621801239903256576,Thu Jul 16 21:59:02 +0000 2015,0,0,"@kmt340 @majedev heyy karma Eid Mubarak, simply put it is an Operating System development proof-of-concept"
+50,621797845977292800,Thu Jul 16 21:45:33 +0000 2015,0,0,"@SaifAlHarthi exactly, that sort of thing!"
+51,621785998024839168,Thu Jul 16 20:58:28 +0000 2015,0,0,"@SaifAlHarthi nothing serious so far, it is just an old seed of curiosity getting satisfied!"
+52,621785293343961088,Thu Jul 16 20:55:40 +0000 2015,0,0,"@SaifAlHarthi good :) that's all what the OS is capable of currently, more yet to come"
+53,621783163954573312,Thu Jul 16 20:47:13 +0000 2015,0,0,"@SaifAlHarthi way to go, share screenshots!"
+54,621782588621918208,Thu Jul 16 20:44:55 +0000 2015,0,1,"@SaifAlHarthi OS image available here: https://t.co/A9wlE5DR6C, flash it using Linux command ""sudo dd if=rayos.iso of=/dev/sdb"" (be careful)"
+55,621772597089308672,Thu Jul 16 20:05:13 +0000 2015,0,0,"@SaifAlHarthi not yet, but I will be glad to openly share the code + building instructions once I have something more robust, stay tuned!"
+56,621770999457951744,Thu Jul 16 19:58:52 +0000 2015,0,3,"The OS can be booted from a flash drive (supports both EFI and legacy boot). Kernel is written in C, though lacks C library (coming up next)"
+57,621757881608704000,Thu Jul 16 19:06:45 +0000 2015,1,4,"I wrote a small graphics library that starts drawing from top-right (that's why the M-set is flipped), for future Arabic support @majedev"
+58,621757267050934272,Thu Jul 16 19:04:18 +0000 2015,0,4,"RayOS (OS I developed from scratch): GRUB2-boot &amp; VBE 32-bit video mode,currently draws Mandelbrot-set on boot #OSDev http://t.co/oQ1DeVFBvT"
+59,621392347142557696,Wed Jul 15 18:54:15 +0000 2015,6045,0,"RT @CommitStrip: A Brief History of Flash
+ http://t.co/SiQ6DuTv66 http://t.co/YSbf3CSuE2"
+60,621035378854596609,Tue Jul 14 19:15:47 +0000 2015,0,0,Goal is to run a custom ray-tracer in bare-metal hardware with minimal kernel. Just for the glory of it.
+61,621034253409583104,Tue Jul 14 19:11:18 +0000 2015,0,0,"Achivement unlocked: dveloped my first GRUB-bootable OS (sort-of) thanks to impressive tutorials from @0xAX &amp; http://t.co/TK48VzFK0O
+#OSDev"
+62,619922972753563648,Sat Jul 11 17:35:28 +0000 2015,0,1,"@fadiyahya @SaifAlHarthi Here, cooked using GoogleNet, 2 times restart and lots of patience recipe!
+
+Have fun sadiqi! http://t.co/eIn1ouRZTE"
+63,619910184832380928,Sat Jul 11 16:44:40 +0000 2015,0,1,"@SaifAlHarthi @fadiyahya lol, Mandi Covnet hits me first!"
+64,619909583901822976,Sat Jul 11 16:42:16 +0000 2015,0,1,"Our turn I guess, I'll cook something for Arabic content
+@SaifAlHarthi @fadiyahya"
+65,619907221577543680,Sat Jul 11 16:32:53 +0000 2015,0,0,"@SaifAlHarthi @fadiyahya Hey Saif, long time indeed! Yes sounds like an open space for a resounding contribution!"
+66,619906258611494912,Sat Jul 11 16:29:04 +0000 2015,0,1,"I used MIT Places model to create these. They look absolutely GROSS using the GoogleNet model!
+
+@SaifAlHarthi @fadiyahya"
+67,619905304042405889,Sat Jul 11 16:25:16 +0000 2015,2,3,"How Google AI thinks of #albaik and #ma3soob
+
+#deepdream
+@SaifAlHarthi @fadiyahya http://t.co/ofq7c8XRlT"
+68,619898458606956544,Sat Jul 11 15:58:04 +0000 2015,0,1,I spent hours trying to recover corrupted Windows 8 UEFI boot (smashed after manually removing CentOS); finally fixed by installing @ubuntu
+69,601628237224022016,Fri May 22 05:58:44 +0000 2015,0,2,Noora Photography - http://t.co/dcisjTlb1L
+70,572078634145488897,Sun Mar 01 16:59:09 +0000 2015,0,0,"@Joey_Aquino Hi Joey, sure thing, will forward you to @majedev"
+71,551395197657968640,Sat Jan 03 15:10:34 +0000 2015,118,0,RT @FaisalAl3amr: @FaisalAl3amr  وهذا هو المقال لمن كان مهتماً بقراءته http://t.co/8d7v75r3LV
+72,544894491866324992,Tue Dec 16 16:39:05 +0000 2014,0,0,@gawruff Yes: https://t.co/Jk0F50gMbP
+73,539197466847875072,Sun Nov 30 23:21:08 +0000 2014,0,0,@iGarni @majedev شكراً عبدالله على بلاغك، سأقوم بإعلام الدعم الفني بالمشكلة
+74,506600485080424448,Tue Sep 02 00:32:22 +0000 2014,0,0,Hacking the #CocoaHTTPServer
+75,506599068370341888,Tue Sep 02 00:26:44 +0000 2014,0,0,@SFD_QU_COC وعليكم السلام، بكل سرور، تم إرسال طرق التواصل عبر الـ DM
+76,460356122457563136,Sun Apr 27 09:53:47 +0000 2014,0,0,"Join me at ""اللقاء الثامن لمجموعة جده آى او - رجال"". RSVP at http://t.co/QJ58k0scaa #JedIO #twvt"
+77,451286777173921794,Wed Apr 02 09:15:26 +0000 2014,0,0,"@Akhmees hey there Abdulrahman, I am doing fine thanks :) glad to find you around"
+78,451010032529059840,Tue Apr 01 14:55:45 +0000 2014,2,0,RT @RAlShaikh: Sign up for High Performance Scientific Computing on @Coursera! https://t.co/dRqBkHIwC0 #scicomp
+79,450451264480874496,Mon Mar 31 01:55:25 +0000 2014,0,0,"#دراسة_علمية_من_اكتشافك a small lemma I proved (I think) in my Master's thesis,and I used its outcome in an algorithm http://t.co/HRX5yabmyY"
+80,449936737629134848,Sat Mar 29 15:50:52 +0000 2014,1,0,Learning #Dlang. I love the fact that unit-tests and contracts are part of the language itself.
+81,449605547944591360,Fri Mar 28 17:54:50 +0000 2014,1,0,RT @LafiKL: NGINX | HTTP Keepalive Connections and Web Performance  http://t.co/oAbAjJzcTV
+82,447028918152101888,Fri Mar 21 15:16:14 +0000 2014,0,1,"@leggetter not sure if coroutines can help here, they have been of great benefit in a similar case I faced (used boost::coroutine in c++)"
+83,442386254081318913,Sat Mar 08 19:47:56 +0000 2014,0,2,@abdullaheid @shamwwa55 أنصح كذلك بتعلم المعيار الجديد C++11 كونه يشتمل على إضافات مهمة مثل الـforeach والـthreads والـlambdas وغيرها الكثير
+84,429326089823846400,Fri Jan 31 18:51:30 +0000 2014,0,2,"Celebrating 1.2 MILLION downloads so far, we're working on a new and awesome website for the amazing #SuperBeam android app, stay tuned!"
+85,429325079457972224,Fri Jan 31 18:47:30 +0000 2014,0,1,"Switched from a very famous hosting company to @DigitalOcean, got HUGE performance gains for 50% of price; yet MORE control. Love it!"
+86,422057972508803072,Sat Jan 11 17:30:36 +0000 2014,12,20,Made my day: Simplify.js - a high-performance JavaScript 2D/3D polyline simplification library http://t.co/O7AF26iZWc via @LeafletJS
+87,417004414386200576,Sat Dec 28 18:49:34 +0000 2013,5,2,#OpenShift is awesome. Almost zero-configurations and you're ready to go with auto-scalable web apps.
+88,417003262265413632,Sat Dec 28 18:44:59 +0000 2013,0,0,"@kcjpop I didn't experiment with it (no auto-scaling is a no-go for me), perhaps you want to CC @openshift_ops"
+89,417000414840500224,Sat Dec 28 18:33:41 +0000 2013,0,0,"@kcjpop afaik it is supported (using Zend Server 6.1 cartridge), however this cartridge doesn't support auto scaling :("
+90,416997384619429888,Sat Dec 28 18:21:38 +0000 2013,0,0,How Software gets stable: http://t.co/7IkBWd0CEq interesting article to share with your boss. tl;dr: time. #java #programming #cpp #php
+91,416996626922602496,Sat Dec 28 18:18:37 +0000 2013,0,2,"Without a keen design, code bloats like a gigantic balloon. #programming #cpp #java #php"
+92,383953642459787264,Sat Sep 28 13:57:36 +0000 2013,192,0,"RT @SeraajTeam: تعثرت مشاركة الفريق وذلك بسبب نشوب حريق في الشاحنة الناقلة لسيارة وهج 2 في استراليا، مما أدى إلى احتراقها كاملة 
+#حريق_سيار…"
+93,376240804068851712,Sat Sep 07 07:09:32 +0000 2013,2,0,"RT @HdramiOld: #كلمة_تستحق_التأمل طنقر ههه
+
+#حضارم"
+94,368489460411146240,Fri Aug 16 21:48:28 +0000 2013,17,0,RT @WaleedMjd: اللهم لاتجعلنا ممن يحرضون المساكين ليلقوا حتفهم ونحن نرتشف الشاي في استراحتنا المكيفة ..
+95,368311846979129345,Fri Aug 16 10:02:41 +0000 2013,18,0,RT @abdal: كل شيء جائز في مصر، لا أستغرب أي شيء، وربما هو مزيج من كل شيء. لذلك أعترف بعجزي عن تحليل الوضع بالشكل الصحيح. ترحموا فقط ولا تصد…
+96,364829129067077632,Tue Aug 06 19:23:37 +0000 2013,0,0,Mars Science Laboratory: Send a Postcard to Curiosity! http://t.co/kysTLnPMAB via @sharethis
+97,353067165890527233,Fri Jul 05 08:25:46 +0000 2013,2,0,"RT @Kameeeka: تحية عطرة ...
+لكل #إنسان ينظر ل#الإنسان كإنسان بعيداً عن
+دينه 
+عرقه 
+جنسه 
+قوميته
+انتماءه
+مذهبه
+ومعتقده
+عبد ربا او حجرا 
+#إنس…"
+98,347819833661997056,Thu Jun 20 20:54:45 +0000 2013,0,0,@Fahad_MM911 seems telepathy is true after all 😁
+99,347810409916547072,Thu Jun 20 20:17:18 +0000 2013,1,1,@Fahad_MM911 “It's easier to fool people than to convince them that they have been fooled.” ― Mark Twain
+100,346725306050162688,Mon Jun 17 20:25:29 +0000 2013,0,0,"@ParallelMazen #cpp is the winner, #go (#golang) performance was  surprising (compiled code ftw). #Google is doing a good job there."
+101,346723266137845760,Mon Jun 17 20:17:23 +0000 2013,2,2,#libevent vs #go (#golang) vs #nodejs simple HTTP server benchmark. Code available: https://t.co/Jk0F4ZZb3L http://t.co/iWGegzhymK
+102,346677140013600768,Mon Jun 17 17:14:05 +0000 2013,1,1,Of the best tutorials I watched on C++11 new features. Thorough and careful explanation. Highly recommended: #cpp11 https://t.co/NXOarWbZx8
+103,341913701202411521,Tue Jun 04 13:45:53 +0000 2013,0,0,@DreadfulCode old is gold!
+104,341805549844852736,Tue Jun 04 06:36:08 +0000 2013,0,0,"@DreadfulCode lol, yeah it was expected, but I was kind of interested in measuring how brutal libevent is!"
+105,341803176716034048,Tue Jun 04 06:26:42 +0000 2013,0,0,@DreadfulCode *js
+106,341802582076960768,Tue Jun 04 06:24:20 +0000 2013,0,0,@DreadfulCode .. Will test for phantom is webserver today
+107,341802363327242240,Tue Jun 04 06:23:28 +0000 2013,0,0,"@DreadfulCode I updated the benchmark yesterday with results from Go http server (was pretty amazing, will share today)..."
+108,340402663319543809,Fri May 31 09:41:33 +0000 2013,0,0,@ParallelMazen Source codes: #nodejs: https://t.co/Jk0F4ZZb3L and #libevent: https://t.co/b18tcp8bvb
+109,340392515217793024,Fri May 31 09:01:14 +0000 2013,0,0,@ParallelMazen Would love to hear feedback from anyone who conducted similar experiment. #nodejs #libevent
+110,340392147171815424,Fri May 31 08:59:46 +0000 2013,0,0,"@ParallelMazen Testbed: Centos 6.4, 4-cores Intel i5-750, 4GB RAM. Same HTTP headers. Reply: ""Thanks for the request!"" #nodejs #libevent"
+111,340389004497272832,Fri May 31 08:47:17 +0000 2013,0,0,"Simple single-thread #HTTP server on #nodejs vs #libevent/C++, libevent wins (performance-wise). Benchmarked using ab http://t.co/tHxQY4wkCt"
+112,340159232148127746,Thu May 30 17:34:15 +0000 2013,18,0,RT @abdullaheid: انظر للمستقبل على أنه ماضي يمكنك التراجع عما فعلته فيه
+113,340111963893952513,Thu May 30 14:26:25 +0000 2013,0,0,@OmarSS @OmarSS it so happened that this is the only time I needed it for real throughout this year!
+114,339460250073694208,Tue May 28 19:16:45 +0000 2013,0,0,@ParallelMazen oops *#Windows
+115,339459528561143808,Tue May 28 19:13:53 +0000 2013,1,2,Upgrading my #Widnows 7 machine to #Linux #CentOS 6.4
+116,337644459456081920,Thu May 23 19:01:26 +0000 2013,0,0,@ParallelMazen #PR anybody made similar experiments? #NodeJS #libevent
+117,337644130803019776,Thu May 23 19:00:08 +0000 2013,0,1,Was stress testing #NodeJS against #libevent-C++ HTTP server implementations. So far libevent is 2.5x better; more tests to come.
+118,337642262303490049,Thu May 23 18:52:43 +0000 2013,10,0,RT @1984mhk: من فصيلة الهومينويدز، الإنسان فقط هو من انتشر في الأرض كلها، بعد مغادرته أفريقيا قبل 100 ألف سنة.#mhk13 @AMNH http://t.co/wVGW…
+119,337264340027707393,Wed May 22 17:50:59 +0000 2013,99,0,"RT @WaleedMjd: مقالي في مجلة المجلة .. 
+
+من هو كمال أتاتورك ؟ 
+قراءة تحاول مقاربة الموضوعية عن شخصية مزقتها نصال الآيديولوجيا .. 
+
+http://t…"
+120,336904435903111168,Tue May 21 18:00:51 +0000 2013,54,0,RT @siggraph: Be prepared to have your socks knocked off. The #SIGGRAPH2013 #techpapers preview is out. Excited yet? We are! http://t.co/DV…
+121,336144532573913089,Sun May 19 15:41:16 +0000 2013,81,0,"RT @ndouba: Me: You have XSS vulnerabilities. 
+$client: Fixed!
+Me: how?
+$client: we turned off XSS
+Me: ... 
+
+#facepalm"
+122,335390783911890945,Fri May 17 13:46:08 +0000 2013,0,0,@MoneerK thanks!
+123,335390690798354432,Fri May 17 13:45:46 +0000 2013,0,0,@Trad_B @MoneerK :-)
+124,335112671080886272,Thu May 16 19:21:01 +0000 2013,0,0,@NazihBukair شكراً نزيه
+125,335110180503162880,Thu May 16 19:11:07 +0000 2013,4,5,@MoneerK @Trad_B كذلك https://t.co/1WTY3gENOf
+126,335059633838379008,Thu May 16 15:50:16 +0000 2013,0,0,My #C++ #Pusher server library is now listed on Pusher website #woohoo http://t.co/qLpIvBhhmJ
+127,334034159330799617,Mon May 13 19:55:24 +0000 2013,33,0,RT @WhiteHatsCom: موكسي يفضح موبايلي السعودية ونيتها للتجسس على برامج المحادثة مثل واتساب. مواضوع شيق http://t.co/n4IKLuFOQX
+128,333671895360761856,Sun May 12 19:55:53 +0000 2013,0,0,The Y2.038K problem. Though shalt not use #timestamp of #int32 type if your life expectancy exceeds 2038! https://t.co/skaOCW2OK2
+129,333244285023563776,Sat May 11 15:36:43 +0000 2013,4,0,"RT @MoneerK: Hope for success, but always anticipate failure."
+130,332900019818618880,Fri May 10 16:48:44 +0000 2013,0,0,@pusher almost there! https://t.co/M2py9HcYXS
+131,330369534366208002,Fri May 03 17:13:29 +0000 2013,1,1,"I'm working on a http://t.co/80kIVWeA4p server library for C++. Currently beta, will be fully-featured soon! https://t.co/tn5EvGDEX0 @pusher"
+132,329310189050286080,Tue Apr 30 19:04:02 +0000 2013,0,0,"@NoufAlBr I'm not sure, but I think it's somewhat unfair not to mention that ""there's a way in, but there's no way out except beheaded."""
+133,328612786513006593,Sun Apr 28 20:52:48 +0000 2013,0,0,"@jose_zap true, but I meant REST in a broader sense, or shall I say *more REST? .. I've decided to remove the tweet not to bring tension :)"
+134,328579311357530112,Sun Apr 28 18:39:47 +0000 2013,4,0,RT @Konash: الحمد لله كثيرا! فزنا بالمركز الأول و3 جوائز غيرها كأفضل لعبة مبدعة في مسابقة زنقة الألعاب بلعبة اللقاء @alamed @cdes http://t.…
+135,328579207129071617,Sun Apr 28 18:39:22 +0000 2013,3,0,"RT @1984mhk: لا نسعى لتبديل العقائد والقناعات .. 
+بل لِتَقَبُّلِ الآخرِ ، 
+ونبذ العنصرية ، 
+واحترام الحريات. 
+
+ #نهضة"
+136,323715295766253568,Mon Apr 15 08:31:55 +0000 2013,0,0,#OracleServicesDay #Jeddah: is #Oracle killing #MySQL?
+137,323689790568534016,Mon Apr 15 06:50:34 +0000 2013,0,0,#OracleServicesDay: I obtained my badge; company name:  FrieslandCampina! There must be something wrong with Oracle DB!
+138,323667317135376384,Mon Apr 15 05:21:16 +0000 2013,0,0,On my way to #OracleServicesDay in #Jeddah Intercontinental
+139,323134137861038083,Sat Apr 13 18:02:36 +0000 2013,0,0,Baked a cupcake with #CakePHP! It's time for wedding cake.
+140,323014575052189696,Sat Apr 13 10:07:30 +0000 2013,0,0,@ParallelMazen I contacted the website owner and the developer to inform them but to no avail...
+141,323013921197924352,Sat Apr 13 10:04:54 +0000 2013,0,0,Two days ago I discovered an absurdly dangerous #security #hole in some website: a publicly available list of all users &amp; their login info!
+142,322808943598530560,Fri Apr 12 20:30:24 +0000 2013,0,0,"@ParallelMazen Ok, #SilverStripe was easier so far... digging deeper"
+143,322763741693349888,Fri Apr 12 17:30:47 +0000 2013,0,0,"Baking a #CakePHP, planning to serve on a Twitter's #Bootstrap."
+144,320040612458029056,Fri Apr 05 05:10:02 +0000 2013,5,0,"RT @Kameeeka: إن كُنتَ مُحترما حقي فأَنتَ أخي ....
+آمنتَ بالله أم آمنتَ بالحجرِ
+
+#حقيقة_تستحق_النشر
+ #دين
+#حداثة
+#اسلام
+#مسيح
+#يهود
+#هند ..."
+145,313022477716553728,Sat Mar 16 20:22:29 +0000 2013,38,0,RT @Telfaz11: #FF @Alaa_Wardi @SultanAljameel علاء وردي و سلطان الجميل في اكابيلا لاغنية اصالة - إلى متى http://t.co/8GokCkaUiO
+146,309370136844976128,Wed Mar 06 18:29:23 +0000 2013,1,0,"RT @majedev: First review of my app SuperBeam, in German! http://t.co/15dwWaELQ6"
+147,309337655483699200,Wed Mar 06 16:20:18 +0000 2013,4,0,"RT @majedev: *Drum roll* SuperBeam, my very first published Android App is now live in Google Play: https://t.co/gisuyQxbuw http://t.co/ ..."
+148,304913547408855041,Fri Feb 22 11:20:29 +0000 2013,0,0,@balfaghia chocolate sticks full of memories!
+149,304913127894552576,Fri Feb 22 11:18:49 +0000 2013,0,0,@RAlShaikh http://t.co/AlhzDYcegH
+150,297275107032842241,Fri Feb 01 09:28:03 +0000 2013,2,0,RT @Noufa43: #زواج_القاصرات تخيلو معي ..امرأة في الأربعين من العمر تتزوج طفل عمره 8 سنوات ؟!!
+151,295269918151155713,Sat Jan 26 20:40:08 +0000 2013,975,0,RT @tatweir: «قال الولد لأبيه: صاحب القمامة عند الباب. فرد الأب: يا بني نحن أصحاب القمامة، وهو صاحب النظافة جاء ليساعدنا!»
+152,293882133716553729,Wed Jan 23 00:45:35 +0000 2013,154,0,RT @egyfanz: التحرش وصل لتليفونات الناس فى البيوت !! ماهو حضرتك ياهانم لو لابسه لبس محترم فى البيت مكنش اتصل وتحرش بيكى :P
+153,290184634514415616,Sat Jan 12 19:53:02 +0000 2013,0,0,@ATaani not yet :$ I'm actually waiting for my broadband subscription to be ready
+154,289927091380690944,Sat Jan 12 02:49:39 +0000 2013,0,0,"When everything is coming your way, you're in the wrong lane. #JoeRadio"
+155,289480993767833600,Thu Jan 10 21:17:01 +0000 2013,0,0,#Twitter gets hiccups all the time.. they should've hired me.
+156,289480447770112001,Thu Jan 10 21:14:51 +0000 2013,0,0,"@osm1987 okey dokey, I'll be one phone call away."
+157,289477469801676800,Thu Jan 10 21:03:01 +0000 2013,0,0,@osm1987 wish you all the best. I'm working in a small company - with wide visions - in Jeddah called FBD. Hope to see you one day!
+158,289475901413027841,Thu Jan 10 20:56:47 +0000 2013,0,0,"@ATaani @osm1987 I think you're busy making Zarqaa a safe place, Taani d:. Howdy mate?"
+159,289475366609899520,Thu Jan 10 20:54:40 +0000 2013,0,0,@osm1987 @ParallelMazen Oh I thought you were located in Jordan. I'll PM you my mobile number (for later use only :P)
+160,289473971819274240,Thu Jan 10 20:49:07 +0000 2013,0,0,@osm1987 Yup in Jeddah (Gotham city of KSA.. needs a Batman - or perhaps a CamelMan).. sad to hear that though. Are you around?
+161,289473444251324416,Thu Jan 10 20:47:01 +0000 2013,0,1,A word of advice: be yourself. Everybody else is already taken. #JoeRadio @afnradio
+162,289471159618109441,Thu Jan 10 20:37:57 +0000 2013,0,0,"@osm1987 interesting, anything similar to be held in Jeddah?"
+163,289470539276365824,Thu Jan 10 20:35:29 +0000 2013,0,0,"Massacre of the Innocents https://t.co/3FSM23pL, dates back to 1611-12, full of action. No wonder it's one of the most expensive paintings."
+164,284284902189461504,Thu Dec 27 13:09:37 +0000 2012,208,0,"RT @zainabahrani: ""كل الشعوب تلد أجيالاً جديدة إلا نحنُ.. نلد آباءنا"" - عبد الله القصيمي"
+165,281774496422178816,Thu Dec 20 14:54:09 +0000 2012,7,0,"RT @HadramiAmthal: الكراش وجبة شعبية مشهورة بساحل حضرموت 
+
+من يحب الكراش ريتويت http://t.co/Ug2UNg23"
+166,280350800516091905,Sun Dec 16 16:36:54 +0000 2012,2963,0,RT @MensHumor: You know you’re desperate for an answer when you look on the second page of Google.
+167,273908828511297536,Wed Nov 28 21:58:48 +0000 2012,0,0,@ATaani Kulacom.
+168,273879199285137408,Wed Nov 28 20:01:04 +0000 2012,0,0,"""Lock-Free Dynamic Concurrent Priority Queue"" C++ implementation, anyone? #parallel #threads #cpp #datastructure #concurrent"
+169,273878538208292865,Wed Nov 28 19:58:26 +0000 2012,0,0,Fellow #developers: feeling C++ is getting older? Check new C++11 #cpp11 standards and taste the future of development http://t.co/DV6dtDtr
+170,216382248662990848,Sat Jun 23 04:08:42 +0000 2012,0,0,@Nejer Why 301? https://t.co/7XSeIK6j
+171,216305107317424129,Fri Jun 22 23:02:10 +0000 2012,0,0,@Konash Hi Abdulla! You get it for free in Unity! Just go to Component &gt; Effects &gt; Trail Renderer
+172,215196303385313280,Tue Jun 19 21:36:11 +0000 2012,0,0,@indiesaudi @Saemon .. and I appreciate your efforts :)
+173,215196129917280256,Tue Jun 19 21:35:30 +0000 2012,0,0,"@indiesaudi @Saemon I was reverse-engineering your ActionScript version of the code to start writing the Unity version,glad you're doing it!"
+174,215171198299025408,Tue Jun 19 19:56:26 +0000 2012,0,0,"@Saemon @indiesaudi lol, yes I'm missing a lot of features (HUD, gameplay, powerups, AI...). Thanks!"
+175,215064548670046209,Tue Jun 19 12:52:38 +0000 2012,1,0,"@indiesaudi @Konash Unity Carrom game in development, proof-of-concept video available @ http://t.co/8jr6EGrD to be upped to GameTako!"
+176,213962255291777024,Sat Jun 16 11:52:31 +0000 2012,0,0,@YAlhouli at least there seems to be a maximum of just one wife per man - progress
+177,213960519198052353,Sat Jun 16 11:45:37 +0000 2012,0,0,"@balfaghia even if it's Hatfa, don't worry about dumping/trashing them. Your future wife will take care of that."
+178,213733598124179457,Fri Jun 15 20:43:55 +0000 2012,11,0,RT @jasonpbecker: 1st cool thing I learned in @Coursera #algo- one way to think of log2(n) is the num of times you divide a number by 2  ...
+179,212298074930950148,Mon Jun 11 21:39:40 +0000 2012,0,0,@indiesaudi OOTB physics engines don't always yield desirable results. I totally agree with the prototyping idea though!
+180,212286482377998336,Mon Jun 11 20:53:36 +0000 2012,0,0,"@indiesaudi for the genre I'm targeting, with heavy physics and realistic interactions, those guys will make my life easier!"
+181,212229100646043648,Mon Jun 11 17:05:35 +0000 2012,0,0,"@indiesaudi professional 2D/3D designers and animators, programmers with very good background in math and geometry, and a convention"
+182,208071406045495296,Thu May 31 05:44:23 +0000 2012,0,0,Proof Without Words: The Circle: http://t.co/1fAEKWa7 via @youtube
+183,207251724136755200,Mon May 28 23:27:16 +0000 2012,0,0,"Looking for a way to ray-trace extruded vector shapes (like extruded text), any ideas? #ComputerGraphics #CG #RayTracing"
+184,207248783011086336,Mon May 28 23:15:35 +0000 2012,0,0,@Bin_Zain توفقت في اختيار الـ Background!
+185,207242371010801665,Mon May 28 22:50:06 +0000 2012,0,0,@mobde3 أظن هنالك قانون في السعودية يمنع جمع التبرعات من دون غطاء رسمي، لأن الرحمة قد تحال إلى نقمة إن وصلت التبرعات إلى يد القاعدة مثلاً
+186,124554304404205569,Thu Oct 13 18:37:14 +0000 2011,0,0,deliverd an inspiring presentation today about #HIIT in #Riyad; more suppoert granted :)
+187,122866845400317953,Sun Oct 09 02:51:53 +0000 2011,32,0,RT @khalaf_h: صحيفة عكاظ - توكل: الدين والقبيلة والمرأة!: http://t.co/sUpc6IKf via @AddThis
+188,122864852170575873,Sun Oct 09 02:43:58 +0000 2011,0,0,توكل: الدين والقبيلة والمرأة! http://t.co/c264hQKt #Yemen #KSA #Tawakul #Nobel #NobelPrize
+189,122785906146017280,Sat Oct 08 21:30:15 +0000 2011,0,0,@majedev I feel obsolete &gt;.&lt;
+190,121830432806420480,Thu Oct 06 06:13:33 +0000 2011,0,0,@ATaani the only thing I have starting with small i is iDon't :P quit #trolling :P
+191,121826090938417152,Thu Oct 06 05:56:18 +0000 2011,1,0,رحمة الله عليك يا إصطفان بن جوبز أيها الرائع. نستقبل التعازي على أي مربع نص. #RIPSteveJobs #KFUPM
+192,121742411188805632,Thu Oct 06 00:23:47 +0000 2011,2,0,RT @alain_chesnais: Insert 3D objects into a photo without markers - Cool tech demo: match 3D models into archive photos | CG Channel ht ...
+193,120994304796798977,Mon Oct 03 22:51:04 +0000 2011,1,0,"RT @mattatheque: RT @philogb: This is the most incredible stuff I've seen in a long time, CSS Shaders: http://j.mp/q4LqsS #css #javascri ..."
+194,120514797002436608,Sun Oct 02 15:05:41 +0000 2011,0,0,"Attending online machine learning class offered by #Stanford, excellent introduction and to the point: http://t.co/jozoWkew #MLClass #KFUPM"
+195,120096367128489984,Sat Oct 01 11:22:59 +0000 2011,0,0,@mobde3 for the record http://t.co/7Xwj4ETd
+196,120094972438528000,Sat Oct 01 11:17:27 +0000 2011,0,0,@mobde3 أظن يجب أن تتحقق من مصدر الصورة قبل توجيه الاتهامات، إذ يبدو لي أنهم مجموعة من المقلدين

@@ -1,0 +1,94 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,664933954542305285,Thu Nov 12 22:33:03 +0000 2015,13303,0,RT @Alby: Another magnetic chain reaction. https://t.co/wvdGL6FVBi
+1,652117563808333825,Thu Oct 08 13:45:17 +0000 2015,0,0,I just published “Gem cache when running Docker on Travis CI” https://t.co/XKROAGek4q
+2,650491494944612352,Sun Oct 04 02:03:52 +0000 2015,3143,0,RT @javachik: I wish people would include attribution on stuff like this so we know whom to thank. This is brilliant. http://t.co/bbTo7WBYyp
+3,650491179998560256,Sun Oct 04 02:02:37 +0000 2015,19,0,RT @DaniStefanovic: How to write a Git commit message http://t.co/0BBj75gNRr
+4,647382621362782208,Fri Sep 25 12:10:19 +0000 2015,7,0,"RT @jfriedlaender: So happy with our new art installation in the @redguava office. That's actual code from @cliniko up in the ""cloud"". http…"
+5,640644851105669120,Sun Sep 06 21:56:49 +0000 2015,3,0,RT @jfriedlaender: We have furniture in our new @redguava office. It's only been 4 months. http://t.co/STDPNHIwJq
+6,639863768562954240,Fri Sep 04 18:13:05 +0000 2015,1,0,RT @coderstephen: It seems that https://t.co/um8QarTLe8 from @brunopint0 was hijacked and was just restored. Please re-star it!
+7,639456511119486976,Thu Sep 03 15:14:47 +0000 2015,1,0,RT @derekstavis: @jbucaran hijacked Oh My Fish! repository on @github from @brunopint0! Please help us @github!
+8,639197582821081088,Wed Sep 02 22:05:54 +0000 2015,0,0,"@GitHubHelp Thanks for the reply, I've sent more details through the email."
+9,639123720569778177,Wed Sep 02 17:12:23 +0000 2015,1,0,@github My repo has been hijacked even though I have explicitly asked to move my repo from fish-shell/oh-my-fish to oh-my-fish/oh-my-fish
+10,636324812726640640,Tue Aug 25 23:50:32 +0000 2015,2,0,RT @PhysioHausUK: @Cliniko Your system is great and so user friendly for both us and our customers. Very pleased we decided to go with you!!
+11,634285228488531968,Thu Aug 20 08:45:57 +0000 2015,4,0,RT @Lacona: 7 days to go for the Lacona campaign: https://t.co/qiqslCdIWL
+12,633773218042654721,Tue Aug 18 22:51:24 +0000 2015,23,0,RT @mikeloukides: The secret origin of “log in”: nice bit of history. What does login have to do with wood?   via @yesthattom  http://t.co/…
+13,633772138655260672,Tue Aug 18 22:47:07 +0000 2015,180,0,RT @iHiD: Corgi stylesheets. Amazing :) http://t.co/7AqjBE0UZm http://t.co/KJLeeramyi
+14,631950004970721280,Thu Aug 13 22:06:36 +0000 2015,2,0,"RT @priyatam: Finally, someone fixed the build system on #nodejs with #es6 generators. Goodbye #gulpjs #webpack. Hello, flyjs.
+
+https://t.c…"
+15,631948715109031936,Thu Aug 13 22:01:29 +0000 2015,67,0,RT @_jayphelps: This is pure gold https://t.co/taCxMYryX6 @sebmck http://t.co/Qq8QIvuv6X
+16,629979527792467968,Sat Aug 08 11:36:38 +0000 2015,26,0,"RT @jasoncreation: Believe it or not, this is a photo of the inside of the new #apple #macbook - just with the batteries removed http://t.c…"
+17,629816342863060992,Sat Aug 08 00:48:12 +0000 2015,0,0,"@PixelJanitor I used to agree, why do you say that?"
+18,629606394388447233,Fri Aug 07 10:53:56 +0000 2015,0,0,"@dancarley Boxen can do more but for package dependency, brew with Brewdler is perfect. And I don't use boxen for almost anything else :)"
+19,629468388507697152,Fri Aug 07 01:45:33 +0000 2015,3,2,Why use #boxen if #homebrew is much more reliable? Meet the missing tool for managing ur computer settings https://t.co/kgzn3uVo4H #dutiful
+20,628276205263933440,Mon Aug 03 18:48:14 +0000 2015,0,0,"@aki Hey, thanks for shiori! It's awesome! One question, the Recommended Tags (+) is not tabeable, could you add it? Thanks!"
+21,625778832465862656,Mon Jul 27 21:24:34 +0000 2015,184,0,"RT @pbakaus: Looks like a pipe dream, is real: @open_stf controls real devices via browser, in real time. https://t.co/8ze5uce8KD http://t.…"
+22,625362344588222464,Sun Jul 26 17:49:36 +0000 2015,0,0,@elixirsips Should have refreshed the page before I sent the message. #facepalm
+23,625359399817773057,Sun Jul 26 17:37:54 +0000 2015,0,0,"@elixirsips Not sure if it's a safari bug (El Capitan) but I couldn't watch the example episode, audio was fine but screen was frozen"
+24,623987277975449601,Wed Jul 22 22:45:34 +0000 2015,0,0,@myronmarston Sweet! Thanks
+25,623983735487262720,Wed Jul 22 22:31:30 +0000 2015,8,0,RT @redguava: We're looking for a brilliant front-end developer. We'll provide an amazing job with lots of perks. http://t.co/lIziYWSVGB
+26,623983676859265024,Wed Jul 22 22:31:16 +0000 2015,0,0,@PixelJanitor What do you use it for?
+27,623982252385529857,Wed Jul 22 22:25:36 +0000 2015,0,0,@myronmarston Is there any rake task or gem you use to handle rspec gem release?
+28,611111919869628416,Wed Jun 17 10:03:30 +0000 2015,0,0,@bubblynerd super!!!!!!!!
+29,589988916083744768,Mon Apr 20 03:08:13 +0000 2015,0,0,@Wally_App any news on a release date for the iOS version of wally+? Eager to use a version built for iPhone 6+.
+30,582765326858915840,Tue Mar 31 04:44:15 +0000 2015,0,0,"@bubblynerd it's so good, is there a season 2?"
+31,582764544449245185,Tue Mar 31 04:41:09 +0000 2015,2,0,RT @jbucaran: Oh My #Fish has a new cool logo. Thank you @marcker http://t.co/RXbMQ4JlCl
+32,579802249087610880,Mon Mar 23 00:30:03 +0000 2015,5,0,RT @redguava: We're hiring a customer support person to cover UK hours for @cliniko. It's a great job with lots of perks. http://t.co/SDt2Y…
+33,579802235829415936,Mon Mar 23 00:29:59 +0000 2015,3,0,RT @Cliniko: We've got a rare opportunity for someone to join our customer support team during UK hours. http://t.co/0jlmrF0ODz
+34,569848126787489792,Mon Feb 23 13:15:55 +0000 2015,0,0,I just published “Low-level rspec debugging” https://t.co/MdjCO42tuO
+35,564956231526535168,Tue Feb 10 01:17:16 +0000 2015,4,0,RT @The405: Listen to Last by Low Low Low La La La Love Love Love [405 Premiere] http://t.co/rW2qQ1lz4d http://t.co/4otXIGF6Te
+36,564955972310159360,Tue Feb 10 01:16:14 +0000 2015,6,0,"RT @dont_wake_me_up: If anyone still listens to music, Low Low's final album is streaming on the @The405 - http://t.co/XPoZgdy8db"
+37,564955120035971072,Tue Feb 10 01:12:51 +0000 2015,0,1,"@bubblynerd lol and I thought sitting behind a couple kissing each other was the worst, I guess I need to reconsider this."
+38,564837876593332226,Mon Feb 09 17:26:58 +0000 2015,1,2,I just published “Oh My Fish - 2 years and a half later” https://t.co/gcq7eKTRZr
+39,563701761865957376,Fri Feb 06 14:12:27 +0000 2015,1,0,"RT @jfriedlaender: Congrats @dont_wake_me_up, #18 on Rdio's recommended songs for January, 2015. http://t.co/NC4zGrit4S"
+40,563701377164394496,Fri Feb 06 14:10:56 +0000 2015,16350,0,RT @neiltyson: Had to wait in line to renew a Passport allowing me to visit members of my own species across artificially conceived borders.
+41,563701243332550656,Fri Feb 06 14:10:24 +0000 2015,4,0,RT @jfriedlaender: This chart perfectly illustrates the awesomeness of our @Cliniko support team. http://t.co/f9d3kSxU7o
+42,563668449931829248,Fri Feb 06 12:00:05 +0000 2015,0,0,@jbucaran a human that does not use Twitter? Is that possible? :p
+43,563512272937816064,Fri Feb 06 01:39:30 +0000 2015,1,0,RT @jbucaran: Playing a lot lately with #OhMyFish! The best framework for the #fishshell out there! Check it out! http://t.co/nevT8EwipH
+44,555463281788608513,Wed Jan 14 20:35:41 +0000 2015,0,1,@bubblynerd @jfriedlaender @mphalliday @mestre_bira what a lovely kangaroo!
+45,489132892766081025,Tue Jul 15 19:42:23 +0000 2014,0,0,@osamu2001 Can you review/approve this pull request? https://t.co/yTAT113ZkS
+46,484818554446163968,Thu Jul 03 21:58:45 +0000 2014,0,0,"@scorpyn78 Hey scorpyn, I've read your latest messages on bigsoccer and decided to contact you, can you follow me? DM http://t.co/jmi2PdOAVD"
+47,474713571340083200,Fri Jun 06 00:45:09 +0000 2014,0,0,"@sleepingkyoto We should be working on these files in the near future, probably in the next couple weeks. If I remember, I'll update you! ;)"
+48,474713256071036928,Fri Jun 06 00:43:54 +0000 2014,0,0,"@sleepingkyoto Test script: http://t.co/FBN2cvhDo8 – We don't use the generated image yet, so we don't push it to any repository."
+49,474711632850194432,Fri Jun 06 00:37:27 +0000 2014,0,0,"@sleepingkyoto Too many hacks on this dockerfile yet, maybe in a few weeks I'll have a better example, but this works http://t.co/1IGjdGnOJU"
+50,474710289922158592,Fri Jun 06 00:32:07 +0000 2014,0,0,"@sleepingkyoto I believe so, give me a few hours, when I'm back home I'll send it to you."
+51,474568301734277121,Thu Jun 05 15:07:54 +0000 2014,0,0,@sleepingkyoto oh Great! It worked! Updating the blog post!
+52,454451604998336512,Fri Apr 11 02:51:20 +0000 2014,0,0,@jfriedlaender @dcholloway hahaha you didn't!
+53,454451420184731648,Fri Apr 11 02:50:36 +0000 2014,2,0,RT @Cliniko: Cliniko &amp; Heartbleed: Important security announcement. http://t.co/36vWEX801w.
+54,451440593580097539,Wed Apr 02 19:26:39 +0000 2014,2,0,RT @paulocaroli: A @NeliceH esteve no #mnt2014 apresentando um jogo ágil! Confere aqui: http://t.co/HriBT6xQe0  http://t.co/S39DtOOaIh
+55,450870698287067137,Tue Apr 01 05:42:05 +0000 2014,0,1,@anmaryarpin @geekle very noisy! And I'm still hungry! ;)
+56,450870424260595712,Tue Apr 01 05:41:00 +0000 2014,0,0,@geekle hahahaha very funny!
+57,449239725128564736,Thu Mar 27 17:41:11 +0000 2014,5799,0,RT @yukotan: これみて会社の人と涙流して笑ってた http://t.co/oeZlzo9YmP
+58,449126496687652864,Thu Mar 27 10:11:15 +0000 2014,0,0,@dont_wake_me_up It works great doesn't it?
+59,448696641714130944,Wed Mar 26 05:43:10 +0000 2014,6,0,RT @redguava: How we run Jenkins slaves on CoreOS using Docker by @brunopint0 http://t.co/RWGQRRV7wA #coreos #docker
+60,438707808393912320,Wed Feb 26 16:11:06 +0000 2014,0,0,It’s @alfredapp's birthday this week! Celebrate with 10% discount &amp; giveaways #alfredbirthday http://t.co/L1JewgvzjC
+61,390475409080324098,Wed Oct 16 13:52:46 +0000 2013,0,0,innofield is giving away a Xcloud - OS X Mavericks Server for 1 Year! Hereby I'm participating. http://t.co/2yUq32DHPT via @MacCloudServer
+62,388390585599414272,Thu Oct 10 19:48:26 +0000 2013,0,0,"I'm using @GetCloak to stay safe on public Wi-Fi, because my privacy and security matters. https://t.co/9ytXn2SYeQ"
+63,387061770835066881,Mon Oct 07 03:48:12 +0000 2013,0,0,"I'm using @GetCloak to stay safe on public Wi-Fi, because my privacy and security matters. https://t.co/9ytXn2SYeQ"
+64,370240389682184195,Wed Aug 21 17:46:02 +0000 2013,5,0,RT @Cliniko: Bira (software developer) and Bart (customer support) have joined the Cliniko team this week! http://t.co/81no1dHhiD.
+65,370240163412066305,Wed Aug 21 17:45:08 +0000 2013,0,0,"I love using @GetCloak to access the Internet as if I'm in another country. TV, here I come! https://t.co/9ytXn2SYeQ"
+66,368067029087322112,Thu Aug 15 17:49:52 +0000 2013,0,0,I can code Ruby/Python/Node.JS &amp; Go apps on nitrous.io! Sign Up now and get 250MB free space: https://t.co/9BTz08dnLr
+67,352447144222924800,Wed Jul 03 15:22:02 +0000 2013,3,0,RT @Cliniko: We just launched a big update to our website http://t.co/uYedomBvym. Let us know what you think.
+68,352129057749614595,Tue Jul 02 18:18:04 +0000 2013,59,0,RT @tenderlove: TIL: `ruby -run -e httpd -- -p 5000 .` (Thanks @n0kada!!)
+69,342663204914229248,Thu Jun 06 15:24:09 +0000 2013,0,0,"@giantcomet I'm sure the list of hooks would be infinite! :)
+But as of now, I only change the text and the background color on my scripts."
+70,342658651355496448,Thu Jun 06 15:06:03 +0000 2013,0,0,@giantcomet It's more about the flexibility than actually adding something specific. But e.g. change background color when a build fails.
+71,342648138751950848,Thu Jun 06 14:24:17 +0000 2013,1,0,"RT @jeffersongirao: I will be a speaker at #fisl14 \o/ Going to talk about Continuous Delivery, DevOps culture and the FOSS ecosystem aroun…"
+72,342647673737842690,Thu Jun 06 14:22:26 +0000 2013,0,0,@giantcomet Is it possible to develop new functions into Flint as it's possible with propane?
+73,329641760026394624,Wed May 01 17:01:34 +0000 2013,1,0,RT @timgws: @Cliniko very nice! I never thought about using the Rasberry Pi's as information display machines. Finally a use! :)
+74,329079744509382656,Tue Apr 30 03:48:19 +0000 2013,45,0,RT @steveklabnik: $ gem install rails -v4.0.0.rc1
+75,324977968512376833,Thu Apr 18 20:09:20 +0000 2013,0,0,"@tpope My vim is slow when I scroll a ruby file, do you know how can I check what's causing this slowness?"
+76,316190037832249344,Mon Mar 25 14:09:14 +0000 2013,0,0,"@tokstokonline Não sei onde está o meu manual de montagem do gaveteiro find 4gv, teria como vocês me enviarem um link para download? Obrigad"
+77,308113299420102656,Sun Mar 03 07:15:09 +0000 2013,0,0,oh-my-fish framework for #fish #shell with updated support for #rvm. Also added a install script! https://t.co/yKDhOcdeUF
+78,308112192039972864,Sun Mar 03 07:10:45 +0000 2013,3,0,RT @jfriedlaender: The new Cliniko website is coming along so well… I can't wait to share it.
+79,292119243330293761,Fri Jan 18 04:00:29 +0000 2013,1,0,#janky installation step-by-step http://t.co/wSjOLmuQ #jenkins #ci #hubot
+80,285982798655934464,Tue Jan 01 05:36:27 +0000 2013,0,0,@leisecarj bols na Av. Das Américas?
+81,284528822320250880,Fri Dec 28 05:18:52 +0000 2012,0,0,Essential Command-Line Tools for Web Developers http://t.co/rIhZPqez
+82,280733540260405248,Mon Dec 17 17:57:46 +0000 2012,14,0,"RT @DocOnDev: ""When rate of change inside [a company is] slower than rate of change outside, the end is [near]. Only question is when.""  ..."
+83,280733503371505665,Mon Dec 17 17:57:37 +0000 2012,3,0,RT @wfryer: PowWow @powwowapp (in Mac-only beta now) looks phenomenal for synchronous app collaboration http://t.co/MaXhJY1s #fb
+84,280681278502744064,Mon Dec 17 14:30:06 +0000 2012,2,0,RT @jeffersongirao: Pure awesomeness http://t.co/T7D7a0E4 :)
+85,278124891272790018,Mon Dec 10 13:11:56 +0000 2012,0,0,Bruno and Kelly are joining our team http://t.co/ksgblnnp via @cliniko
+86,241930968066301952,Sat Sep 01 16:10:12 +0000 2012,7,0,"RT @spiceee: ""yes, I pressed *delete* but I thought it would do something nice like showing me a Teddy Bear"" #rubyconfbr"
+87,241930658933514240,Sat Sep 01 16:08:58 +0000 2012,1,0,"RT @jeffersongirao: Every day, in every way. Nice thoughts about refactoring http://t.co/4FuruGOS"
+88,241928670720192512,Sat Sep 01 16:01:04 +0000 2012,0,0,"""There are only two hard things in Computer Science: cache invalidation and naming things."" -- Phil Karlton"
+89,241011238677671936,Thu Aug 30 03:15:31 +0000 2012,0,0,Deploying at GitHub https://t.co/CDusSH5y

@@ -1,0 +1,52 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,634981196200587264,Sat Aug 22 06:51:29 +0000 2015,135,0,RT @codinghorror: Real Life First Person Shooter (Chatroulette version) https://t.co/VsZ1ygNOhQ
+1,613607420821131264,Wed Jun 24 07:19:44 +0000 2015,2,0,RT @augeva: Are you wasting time playing with defects? http://t.co/Pa4LECNliV #testing #lean #waste
+2,608375933289005057,Tue Jun 09 20:51:40 +0000 2015,2,0,RT @augeva: This is beautiful thank you @samlaing ! https://t.co/uES0h0hSm2
+3,608375392639053824,Tue Jun 09 20:49:31 +0000 2015,778,0,RT @eviltrout: They finally made an accurate horror movie about programming: http://t.co/haUjBBEgL8
+4,604930271809556480,Sun May 31 08:39:50 +0000 2015,5,0,RT @davegillen: People in Ireland need to be aware of what was said in the Dáil yesterday - http://t.co/iyLOFjOKQw please RT
+5,597377351601790977,Sun May 10 12:27:14 +0000 2015,2,0,RT @DZoneLinks: Can we change the way we manage defects? Little Tim thinks so - http://t.co/P81iilDjaS - @DZoneLinks Big Link by augeva
+6,581192089939124225,Thu Mar 26 20:32:46 +0000 2015,21,0,RT @TheOTown: Think of your cpu core as a paper shredder and you'll understand how #Play is so fast. Yep. http://t.co/2cuvcSstfv | http://t…
+7,560552172283527168,Wed Jan 28 21:37:07 +0000 2015,13,0,"RT @baatchitweet: ""@typesafe: How the @guardian does Continuous Delivery (and what it took to get there): http://t.co/0X3kDZJzoF
+__ http://…"
+8,557625877870436354,Tue Jan 20 19:49:04 +0000 2015,11,0,RT @cucumberbdd: The Case for and against Cucumber: http://t.co/V8JeUDr598
+9,555450655301984257,Wed Jan 14 19:45:30 +0000 2015,8,0,RT @free2panik: Criminals are using cars in getaways. We need to ban cars unless the government can have a remote control for every car  #e…
+10,542989149977210880,Thu Dec 11 10:27:56 +0000 2014,693,0,"RT @roidrage: Why our open vacation policy failed at Travis CI, and how we're trying to fix it with a minimum vacation policy: http://t.co/…"
+11,509604805288136705,Wed Sep 10 07:30:28 +0000 2014,33,0,"RT @akkateam: Serving 1 million persistent TCP connections per node with #Akka cluster: interesting Q&amp;A with @dcaoyuan
+https://t.co/SOKwTtk…"
+12,507227875737878528,Wed Sep 03 18:05:24 +0000 2014,15,0,RT @cucumber_pro: If you're using Gherkin/Cucumber you should read @lunivore's blog. So many good tips. http://t.co/ZiyZ3YQhVn
+13,490187233526571008,Fri Jul 18 17:31:58 +0000 2014,2,0,RT @logentries: AWS CloudWatch Logs – Making #logmanagement innovation easier &amp; cheaper http://t.co/oNQXvQIj4J @logentries @trevparsons
+14,482783293449175040,Sat Jun 28 07:11:21 +0000 2014,1,0,"RT @m0wfo: Smart Integration Testing with Dropwizard, Flyway and Retrofit | Logentries Blog https://t.co/UgkdMci6rg"
+15,454668007160434688,Fri Apr 11 17:11:14 +0000 2014,5,0,RT @jedisct1: This site was created out of frustration while trying to compare EC2 instances using Amazon's pages http://t.co/pSOlKYWJOY
+16,453975207213277184,Wed Apr 09 19:18:18 +0000 2014,0,0,Saving Searches and Saving Time | Logentries Blog https://t.co/arA5EANLZK
+17,408744265406513152,Thu Dec 05 23:46:41 +0000 2013,3,0,RT @slang4201: It’s hard to explain puns to kleptomaniacs because they always take things literally.
+18,407563951807803392,Mon Dec 02 17:36:32 +0000 2013,0,0,"The most popular Java library today is slf4j - used by 30.7% of the 10,000 projects http://t.co/mx3urqUSjK via @Takipid"
+19,377353965945757696,Tue Sep 10 08:52:51 +0000 2013,2,0,RT @trailmax: Logging with Logentries in Azure http://t.co/aPXNOlJS7n /cc:  @logentries
+20,374803158830051328,Tue Sep 03 07:56:51 +0000 2013,9593,0,"RT @stevelosh: HTTP status ranges in a nutshell:
+
+1xx: hold on
+2xx: here you go
+3xx: go away
+4xx: you fucked up
+5xx: I fucked up"
+21,349458872148303872,Tue Jun 25 09:27:42 +0000 2013,5,0,RT @logentries: Logentries uses Perfect Forward Secrecy; you should too http://t.co/F5PiwyvoDD
+22,345191900858433536,Thu Jun 13 14:52:17 +0000 2013,6,0,RT @DevOpsIreland: Stuart Butler from @logentries  wrote a blog post about the last meet up https://t.co/ClKi5Mrnjx thanks Stuart!
+23,342723677760131072,Thu Jun 06 19:24:26 +0000 2013,3,0,RT @logentries: Some nice tech talks about #Grml and #Kobold at the @DevOpsIreland talks tonight
+24,340065142672863233,Thu May 30 11:20:22 +0000 2013,3,0,RT @free2panik: Some thoughts on tools and services that might be useful to startups: http://t.co/QO5a9JSLzW
+25,338316430573436929,Sat May 25 15:31:37 +0000 2013,242,0,"RT @theothertom: @secboffin @codinghorror I’d tell you a UDP joke, but I’m not sure you’d get it"
+26,333179724341846016,Sat May 11 11:20:11 +0000 2013,7,0,RT @logentries: Great talks at the Node.js Dublin event by @dominictarr  @rjrodger  @antonwhalley  @dscape  Blog about it here: https://t.c…
+27,326725172524617730,Tue Apr 23 15:52:06 +0000 2013,2,0,"RT @logentries: A brief summary of the Inaugural PHP Dublin Meetup at @Engineyard Dublin HQ, by our man Stuart Butler https://t.co/WuoT04Io…"
+28,325182177333616640,Fri Apr 19 09:40:47 +0000 2013,6,0,RT @free2panik: Hello world from the @CurrencyFair tech blog: http://t.co/BYdEFjRI5c
+29,324279463372267520,Tue Apr 16 21:53:43 +0000 2013,1,2,"Great engineyard talk by @dclay on realtime communication with php, redis and socket.io #phpdublin"
+30,321697526887636992,Tue Apr 09 18:54:01 +0000 2013,191,0,RT @github: View 3D STL files on GitHub https://t.co/1lkcb6Z0Qs
+31,316668408060051456,Tue Mar 26 21:50:06 +0000 2013,83,0,"RT @samsaffron: Time to do some PHP hacking, then a crying game style shower after I look at the code I end up producing"
+32,304723375299899392,Thu Feb 21 22:44:48 +0000 2013,561,0,RT @mattrobs: “Google Glass is going to be like a Segway for your face.” Best metaphor.
+33,294804317842595841,Fri Jan 25 13:50:01 +0000 2013,0,0,"I've voted http://t.co/WRsFxWlW as ""Startup of the year"" in the TNW Irish Startup Awards #ISA http://t.co/FFVksBRE"
+34,290779501510664192,Mon Jan 14 11:16:50 +0000 2013,1,0,RT @logentries: Thanks for the shout out guys!! &gt;&gt; RT @morsolutions: @logentries thanks for the follow. We think your product is g ...
+35,202494278839173122,Tue May 15 20:22:52 +0000 2012,0,0,http://t.co/UGWceg7X #moresecuregmail
+36,169732520760446977,Wed Feb 15 10:39:21 +0000 2012,2,0,RT @forjamesappeal: Want to track the runners progress? http://t.co/tw8xR1UM #forjamesappeal
+37,129239319415238657,Wed Oct 26 16:53:49 +0000 2011,1,2,Easy application setup using OpenShift and github http://t.co/nUmQHFmJ via @AddThis
+38,87239594558496768,Sat Jul 02 19:21:54 +0000 2011,112,0,RT @splattne: The org charts of all the major tech companies http://t.co/ADQFZCy (via @jaredpar)
+39,64625726946684928,Sun May 01 09:42:28 +0000 2011,0,0,The Chaos Monkey’s job is to randomly kill instances & services http://www.codinghorror.com/blog/2011/04/working-with-the-chaos-monkey.html
+40,35654624660692993,Thu Feb 10 11:01:39 +0000 2011,0,0,Easiest file sharing I've ever seen: http://www.letscrate.com/
+41,10989346878,Wed Mar 24 17:24:17 +0000 2010,0,0,SIGNUP
+42,939603355,Mon Sep 29 19:16:50 +0000 2008,0,0,Test from my phone.

@@ -1,0 +1,211 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669029033363902464,Tue Nov 24 05:45:26 +0000 2015,0,0,Did you know Woolworths owns more pokies than the top five Las Vegas casinos combined? #pokiesplayyou https://t.co/fLrf541auY via @GetUp
+1,667331360957206528,Thu Nov 19 13:19:29 +0000 2015,2,0,RT @Trisolaran: World needs more ppl like this man==&gt;This BBC News - Paris attacks: 'I will not give you the gift of hating you' https://t.…
+2,665545174345478148,Sat Nov 14 15:01:49 +0000 2015,53,0,"RT @QandA: #WeStandWithParis #ParisAttacks #QandA 
+https://t.co/rwIxHH6OeO https://t.co/2TE0Dk5yos"
+3,665545110688518144,Sat Nov 14 15:01:34 +0000 2015,344,0,"RT @JuliaGillard: Horrified by the attacks in Paris, the immense loss of life. We stand with the people of France - a strong nation that wi…"
+4,665051647287107585,Fri Nov 13 06:20:43 +0000 2015,0,0,"This is what I want @TurnbullMalcolm to say about #AustralianAid. If you agree, let him know -  https://t.co/3ugTUmt4bI"
+5,662407079420825601,Thu Nov 05 23:12:09 +0000 2015,99,0,RT @GlblCtzn: “No world leader would want their children to be deprived of an education. So why do you ignore the rest of the world's child…
+6,662406642697310208,Thu Nov 05 23:10:25 +0000 2015,0,2,@Steve_Thornton @Science_Academy Great news! An excellent initiative!
+7,661399335179948036,Tue Nov 03 04:27:44 +0000 2015,0,0,Michelle And Stevie Payne. Melbourne cup winners 2015. Fairytale stuff. Wonderful! #MelbourneCup
+8,660638697214246912,Sun Nov 01 02:05:14 +0000 2015,0,0,Worth a look. Palm oil is in 50% of what you buy but do you know its impacts? Find out the truth in this interactive https://t.co/xujO0tkAGm
+9,650435616157491200,Sat Oct 03 22:21:50 +0000 2015,0,0,#mansw15 Thanks Ken Wissen for the year game online at http://t.co/7kJNERTc7r
+10,650434649185869824,Sat Oct 03 22:17:59 +0000 2015,0,0,"#mansw15 @gkissane52 Ken Wissen has got all 1-30 without [ ], floor or ceiling functions. Well done! Now, is concatenation really needed??"
+11,650409083506307073,Sat Oct 03 20:36:24 +0000 2015,0,0,"@gkissane52 Of course, the original problem (40 years or so ago) was the four 4s problem, for which order was not an issue!"
+12,650408313578893312,Sat Oct 03 20:33:20 +0000 2015,0,0,@gkissane52 Thanks for link. I'll pass on to MANSW people. Cheers!
+13,650407052301340673,Sat Oct 03 20:28:19 +0000 2015,0,0,"@gkissane52 #mansw15 The Math Forum game ignores order, disallows [ ], floor functions but has a weird !! fn. http://t.co/nAzSNgQa8v"
+14,650406258848100353,Sat Oct 03 20:25:10 +0000 2015,1,0,RT @gkissane52: @BarryKissane and greatest integer fn is not allowed. Although 8!! = 8×6×4×2 or 9!! = 9×7×5×3×1 is allowed. .
+15,650405307974201344,Sat Oct 03 20:21:24 +0000 2015,0,0,"@gkissane52 I've been doing it many years, but the keep the digits in order rule is a tougher game. Need a ceiling function too, sometimes"
+16,650404777784832004,Sat Oct 03 20:19:17 +0000 2015,0,0,"@gkissane52 In fact, I would read 3!! as 720, since I read it as (3!)!. I notice, incidentally, that calculating devices do the same."
+17,650403870552621059,Sat Oct 03 20:15:41 +0000 2015,0,0,@gkissane52 And 1000 must have been even harder ...
+18,650403722128830464,Sat Oct 03 20:15:05 +0000 2015,0,0,"@gkissane52 Hmmm. Both these !! are pretty dodgy imho. If you keep digits in correct order, greatest integer function is often needed."
+19,650403243000885248,Sat Oct 03 20:13:11 +0000 2015,0,0,"@gkissane52 Out of year order is much much easier, however!"
+20,650402151466795008,Sat Oct 03 20:08:51 +0000 2015,0,0,"@gkissane52 That gives 23, which I got from 20 + [sqrt(15)], less elegantly. (The challenge was to get 1 to 30.)"
+21,650238029198524416,Sat Oct 03 09:16:41 +0000 2015,0,1,@misterwootube @m #mansw15 Ken Wessen has a neat solution for 27 that doesn't involve floor or ceiling functions: 2+0!+(-1+5)! Well done!
+22,649773181067096064,Fri Oct 02 02:29:33 +0000 2015,2,0,"#mansw15 Lovely session on the joys of mathematics teaching from Nicky Vanderhout, and participants. Thanks for sharing"
+23,649759738083708928,Fri Oct 02 01:36:08 +0000 2015,0,0,"@nomad_penguin #mansw. Hmmm. It's an arbitrary choice of course, but I would choose to not allow that sort of concatenation. I didn't needit"
+24,649734900447211520,Thu Oct 01 23:57:26 +0000 2015,0,1,@nomad_penguin #mansw15 Yes. The in order bit is a big problem often. To get all 30 seems necessary to allow concatenation too. Eg 20 or 15.
+25,649727476747276289,Thu Oct 01 23:27:56 +0000 2015,0,0,#mansw15 Josephus problem and links to binary notation sounds really interesting. Description on Wikipedia. Thanks Mike Clapper.
+26,649725825504296960,Thu Oct 01 23:21:22 +0000 2015,1,1,#mansw15 Love the Interactivate tesselations app Mike Clapper showed. DIY Escher!
+27,649720236661338112,Thu Oct 01 22:59:10 +0000 2015,0,1,"@misterwootube #mansw15 Well done! I needed greatest integer functions for some, so floor and ceiling functions ok! Thanks!"
+28,649711445509210112,Thu Oct 01 22:24:14 +0000 2015,4,2,"#MANSW15 Updating the problem: a colleague found (2+0!+1)!+5=29, using 2015 digits in order. Now only 27 is missing to get 1 to 30."
+29,649382550259961856,Thu Oct 01 00:37:19 +0000 2015,0,1,#mansw15 Targetted teaching! Brilliant talk from Di Siemon! Shame she didn't have more time ...
+30,649379530226831362,Thu Oct 01 00:25:19 +0000 2015,0,1,"#mansw15 Teachers need to think about how students understand, not how they explain. Brilliant observation by year 9 student from Di Siemon"
+31,649377820150358016,Thu Oct 01 00:18:31 +0000 2015,1,1,#mansw15 Importance of maths teachers having their own room highlighted beautifully by Di Siemon. Example of materials being available.
+32,649371650811564032,Wed Sep 30 23:54:00 +0000 2015,0,3,"#mansw15 ""Success is crucial to engagement"". And of course to disengagement. A good reminder from Di Siemon"
+33,649369781401862144,Wed Sep 30 23:46:35 +0000 2015,2,0,"#mansw15 Surely the research on streaming is among the least implemented in schools. A common practice, known to fail, as Di Siemon said."
+34,649367510865711104,Wed Sep 30 23:37:33 +0000 2015,5,0,RT @MathsNSW: Day 2 about to get started - excited to hear from Di Siemon! #mansw15 http://t.co/a7cqCWKpzz
+35,649364620935720960,Wed Sep 30 23:26:04 +0000 2015,0,0,#mansw15 Great to have Di here. Does anybody anywhere know more about multiplicative reasoning? Not to my knowledge.
+36,649364071544844288,Wed Sep 30 23:23:53 +0000 2015,0,1,"#mansw15. Another three: [20/15]=1, where [ ] is the greatest integer function. And 2^0/1^5=1, (2^0)^(1^5)=1, similar to a previous one."
+37,649361044373024768,Wed Sep 30 23:11:52 +0000 2015,1,2,"#mansw15. Four ways to get 1 from 2, 0, 1 and 5 are  2x0.1x5 =1, (.2+0x1)5=1, (2+0+1)!-5=1, 2^0x1^5=1. What other ways are there?"
+38,649358257656496128,Wed Sep 30 23:00:47 +0000 2015,1,0,"#mansw15 Still missing 27 and 29 in the digits problem! Use 2 0 1 and 5 in the correct order, together with mathematical symbols. Help!"
+39,649082467148627968,Wed Sep 30 04:44:54 +0000 2015,0,0,@misterwootube @dougvass @JudyAnderson6 squaring is not permitted as it needs a 2 to represent if
+40,649035792623403008,Wed Sep 30 01:39:26 +0000 2015,1,1,#mansw15 Trying 2015 problem from @JudyAnderson6 for 1 to 30 using digits 2 0 1 5 in order. Missing only 27 and 29. Can anyone help?
+41,649014864078237696,Wed Sep 30 00:16:16 +0000 2015,0,1,"#mansw2015 The 2015 problem is tough: Representing integers using 2, 0, 1, 5 in that order. Eg (2+0+1)!+5 = 11. How to get 23 e.g.??"
+42,649008056051765248,Tue Sep 29 23:49:13 +0000 2015,3,0,"RT @misterwootube: ""Yes Judy, but what about covering the syllabus?"" What we ""teach"" in our lessons doesn't matter if students aren't reall…"
+43,649004453182332928,Tue Sep 29 23:34:54 +0000 2015,1,2,Love it! Great idea!Thanks Judy Anderson. #mansw15 http://t.co/woT5ya4ITi
+44,649000051407130625,Tue Sep 29 23:17:24 +0000 2015,0,1,#MANSW15 Looking forward to a great three days in the Hunter Valley with colleagues in maths
+45,648995891450277888,Tue Sep 29 23:00:52 +0000 2015,0,0,"Great to have two outstanding women as keynotes. Looking forward to a great conference in the Hunter Valley, a lovely spot  #MANSW2015"
+46,648634538373976065,Mon Sep 28 23:04:59 +0000 2015,2,0,RT @MathsNSW: Let the countdown begin. 24 hours to the start of #mansw15 (wine tasters notwithstanding)! http://t.co/LSXEapqHOB
+47,648484060952571904,Mon Sep 28 13:07:03 +0000 2015,2,0,RT @AtwellSam: Is Fyfes the best brownlow speech ever? Hard not to like him. #Brownlow2015
+48,648483699671961600,Mon Sep 28 13:05:36 +0000 2015,1,0,RT @nikki_laski: What an absolutely delightful young man Nat Fyfe is! This is the kind of player we need as a role model for our kids Well …
+49,648483508315271168,Mon Sep 28 13:04:51 +0000 2015,1,0,Nat Fyfe. True champion! Self-Assured but not above himself. Great team player and all round nice bloke. Deserving winner. #Brownlow2015
+50,648453276162093057,Mon Sep 28 11:04:43 +0000 2015,0,0,"It's weird that umpires cast votes, busy doing other things. Tradition I realise, but always questionable. https://t.co/52ZMHGzzib"
+51,648452777132199936,Mon Sep 28 11:02:44 +0000 2015,4,0,RT @JohnnnyK42: I hope Nat Fyfe wins the brownlow.. Good luck mate! #brownlow http://t.co/NjFvMJzpHg
+52,647058607805108224,Thu Sep 24 14:42:48 +0000 2015,0,0,Stand #withMalala for Girls Education - Sign the Petition! https://t.co/Wdgu8HqzMN
+53,646337324767313921,Tue Sep 22 14:56:41 +0000 2015,0,0,Stand #withMalala for Girls Education - Sign the Petition! https://t.co/Wdgu8HqzMN via @ChangeAUS
+54,645761192242212864,Mon Sep 21 00:47:20 +0000 2015,36,0,RT @Neroli_M_FOX: The way we’ve made Adam Goodes feel at the end of an incredible career is just so sad. It is not our right to make someon…
+55,645760974062923776,Mon Sep 21 00:46:28 +0000 2015,1,0,"RT @MsKateHiggins: This saga is just so embarrassing: ""Goodes would get booed at grand final lap of honour: Watson"" http://t.co/kDyM7exOaB …"
+56,643412688987553792,Mon Sep 14 13:15:13 +0000 2015,0,1,#libspill #auspol So now we have a new three letter acronym: TAT. Turnbull Abbott Turnbull. Seems pretty tatty.
+57,643411823752949760,Mon Sep 14 13:11:47 +0000 2015,2805,0,RT @JuliaGillard: Congratulations to Malcolm Turnbull on becoming Prime Minister - a great honour and responsibility.  JG
+58,643395994567077889,Mon Sep 14 12:08:53 +0000 2015,0,0,"#spill Abbott pm for two years, Gillard three!"
+59,643390046318424064,Mon Sep 14 11:45:15 +0000 2015,422,0,RT @Wil_Anderson: While they're all in there why don't we just lock the door and let someone else have a go running the joint?
+60,641124609358585856,Tue Sep 08 05:43:13 +0000 2015,0,0,4 million people forced to leave Syria. 7 million internally displaced. Enough. Australia must act. #refugeeswelcome http://t.co/pEXZoVmZhp
+61,640013696169717760,Sat Sep 05 04:08:50 +0000 2015,37,0,"RT @GuardianAus: Stuck on Manus Island: isolated and desperate, refugees tell their stories – video http://t.co/Xf0T3AC8wN"
+62,639959954636451842,Sat Sep 05 00:35:17 +0000 2015,0,0,"Vale to one of the best. Great contributor to Murdoch and to WA. 
+
+Historian Geoffrey Bolton dies - via @abcnews http://t.co/Gxo5hQJA78"
+63,634123910330519552,Wed Aug 19 22:04:56 +0000 2015,12,0,"RT @mauricebilli: The Abbott government says a $20b project creating 10,000 jobs is blocked by eco-saboteurs. It's a myth http://t.co/n0wxj…"
+64,634121864743284736,Wed Aug 19 21:56:48 +0000 2015,10,0,"RT @SBSNews: Comment: Abbott, Turnbull or Morrison? Who cares? It doesn’t matter. http://t.co/sNO6dJWQ55 http://t.co/K8dyDA4I2g"
+65,633361689862234112,Mon Aug 17 19:36:08 +0000 2015,0,0,.@erna_solberg thx for your leadership on girls education—We need more countries to follow suit &amp; #FundEducation at #GlobalCitizen Festival
+66,633053778862714881,Sun Aug 16 23:12:37 +0000 2015,32,0,"RT @PGAofAustralia: There it is folks, Australia's newest Major Champion! Congratulations @JDayGolf #AusProud #PGAChampionship http://t.co/…"
+67,633041068829769728,Sun Aug 16 22:22:06 +0000 2015,0,0,Fingers crossed Jason Day. http://t.co/VGHF6KiGwJ
+68,633040588158332928,Sun Aug 16 22:20:12 +0000 2015,28,0,RT @GlblCtzn: You wouldn't expect these countries to be turning to greener energy:  http://t.co/or4aGsqQZf http://t.co/ME4ZwME7nv
+69,633039160266194944,Sun Aug 16 22:14:31 +0000 2015,101,0,RT @mathsjem: I like this question from http://t.co/CXI8SI98Lp.  Good for drawing out misconceptions. #mathschat http://t.co/bsU5trgIih
+70,628117810149851136,Mon Aug 03 08:18:50 +0000 2015,0,0,"Unprompted??! Unbelievable! And if really not prompted, why not?? ""Adults in charge. Age of entitlement over""???
+http://t.co/1VOWBaR8sf"
+71,627363737326874624,Sat Aug 01 06:22:25 +0000 2015,0,1,Well done. “@theage: Tomorrow's front page #istandwithadam http://t.co/EZPyRHoxv1 http://t.co/kkzeYCwvtF”
+72,624767580121632768,Sat Jul 25 02:26:13 +0000 2015,9,0,"RT @pickover: Will today’s ads showing students with ""mobile devices"" look as dated 30 years from now as this ad from 1979? http://t.co/33i…"
+73,620925924742029313,Tue Jul 14 12:00:51 +0000 2015,17165,0,"RT @NASA: YES! After over 9 years &amp; 3+ billion miles, @NASANewHorizons #PlutoFlyby was at 7:49am ET. http://t.co/Czrvonxugd http://t.co/aSu…"
+74,618954944142446592,Thu Jul 09 01:28:52 +0000 2015,1,0,#AAMT2015 Well done to all concerned with conducting the recent conference. Terrific professional event. Thanks for all the Great work!
+75,618613573002997760,Wed Jul 08 02:52:23 +0000 2015,1,1,"#aamt2015 Ian Hailes: making sure that we use Greek letters like theta ""to support them in their time of crisis"" Love it!"
+76,618591326708199424,Wed Jul 08 01:23:59 +0000 2015,0,0,"#aamt2015 Interesting that PISA scores from cities (such as Shanghai and Singapore) compared with Countries (Australia, but not Sydney) ??"
+77,618576586384654336,Wed Jul 08 00:25:25 +0000 2015,3,3,"#aamt2015. We're so lucky to have Merrilyn here, one of very few people in Australia capable of creating and delivering this talk. Thanks!"
+78,618574285213306882,Wed Jul 08 00:16:16 +0000 2015,1,1,"“@nomad_penguin: A learning trajectory. #aamt2015 http://t.co/toKWCzZzQW” Very nice image, in all senses of the word."
+79,618572205539004416,Wed Jul 08 00:08:00 +0000 2015,0,0,#aamt2015 Nice model ... For the people in the back rows http://t.co/eew5Ucxlyk
+80,618566749424713728,Tue Jul 07 23:46:20 +0000 2015,0,0,"#aamt2015 Boundary encounter. Neat idea. Lots of them at the conference, although sadly less with university mathematicians than I'd like."
+81,618562007545982977,Tue Jul 07 23:27:29 +0000 2015,6,13,#aamt2015 Terrific to have all four female keynotes at AAMT ... And all making wonderful contributions!
+82,618524545247358976,Tue Jul 07 20:58:37 +0000 2015,411,0,RT @JuliaGillard: Proud to join @Malala to support our goal: 12 yrs of free public education for all girls &amp; boys. #OsloEduSummit  JG http:…
+83,618442881154592768,Tue Jul 07 15:34:07 +0000 2015,0,1,"@MathsNSW @MozzieMaths #aamt2015 Different views on the nature of maths: instrumental (procedural), problem solving and Platonist."
+84,618421930056617984,Tue Jul 07 14:10:52 +0000 2015,152,0,RT @GlblCtzn: We believe every girl deserves a quality education. Agree? Take action NOW: http://t.co/wbEjTq1zWK #EduSummitOslo http://t.co…
+85,618293996297699329,Tue Jul 07 05:42:30 +0000 2015,0,1,"#aamt2015. Thanks Michael Colbung for alerting us to David Unaipon, indigenous pioneer on AUD $50 note http://t.co/tVD8N8QSEE"
+86,618247947659022336,Tue Jul 07 02:39:31 +0000 2015,1,0,#aamt2015 Ian Sheppard nice idea to locate ourselves or for a maths dept to see themselves. From Paul Ernest http://t.co/9UcN73M09k
+87,618212563357057024,Tue Jul 07 00:18:55 +0000 2015,0,0,#aamt2015 Powerful idea to think about out of field maths teachers through cross-curriculum pedagogy. Nice.
+88,618211001347932161,Tue Jul 07 00:12:43 +0000 2015,0,1,#aamt2015 also reminds me of Richard Skemp's classic paper on instrumental and relational understanding. Wonderful. Powerful.
+89,618210292426641408,Tue Jul 07 00:09:54 +0000 2015,0,0,#aamt2015 Val's discourse reminds me of the discovery learning discussions all those years ago. So hard for textbooks ... Teacher is key
+90,618208810688057344,Tue Jul 07 00:04:00 +0000 2015,0,1,#aamt2015 Online learning resource looks terrific. Looking forward to exploring it. Thanks Val Westwell.
+91,618205514942541824,Mon Jul 06 23:50:55 +0000 2015,1,1,"#aamt2015 ""Functionally invisible"" proficiencies! Love it."
+92,618204036819386369,Mon Jul 06 23:45:02 +0000 2015,0,1,#aamt2015 Val Westwell first mention so far this conference of Brouseau's Didactic Contract. Excellent!
+93,618200898406256640,Mon Jul 06 23:32:34 +0000 2015,0,0,Climate change: Scientists warn sceptic MPs against inquiry into evidence of human influence - ABC . Science vs MPs? http://t.co/32CLuAdGb6
+94,618199171850305536,Mon Jul 06 23:25:42 +0000 2015,0,0,"@kaffs #aamt2015 There may be a pattern, but just hard to see because it's too complex? Or chaotic? 😉"
+95,618198555413450752,Mon Jul 06 23:23:15 +0000 2015,0,0,"@matt_skoss #aamt2015 Agree about the 7, but hard to improve on it. Root 9 + root 9 + intg(root(root(9))) perhaps?"
+96,618197144718065664,Mon Jul 06 23:17:39 +0000 2015,3,0,RT @kaffs: Anyone else disturbed by the fact that the coloured chairs do not make a pattern!?! #aamt2015 http://t.co/E88bnFu37R
+97,618196955294871552,Mon Jul 06 23:16:54 +0000 2015,5,0,RT @MathsNSW: Everyone should be following #aamt2015 right now to get updates from @aamtinc's conference in SA!
+98,618059901290463232,Mon Jul 06 14:12:18 +0000 2015,0,0,@nomad_penguin @TracyZager Lack of application words interesting and unsurprising. I think emphasis on 'usefulness' has been overstated.
+99,617962304936611840,Mon Jul 06 07:44:29 +0000 2015,1,1,"Amie's word cloud by mathematicians is interesting ... Lack of ""applications"" is especially so. #aamt2015 http://t.co/8lFi7LvtZF"
+100,617960593023045632,Mon Jul 06 07:37:41 +0000 2015,0,2,"""Mathematicians in the wild"". Great phrase! #aamt2015"
+101,617954268956352512,Mon Jul 06 07:12:33 +0000 2015,1,4,Great to have a female mathematician giving the Hanna Neumann lecture. Amie captures the essence very well #aamt2015 http://t.co/UAxua6QsH3
+102,617861866048454656,Mon Jul 06 01:05:22 +0000 2015,8,9,Great Dewey quote from Lyn McClure #aamt2015 http://t.co/sN40hwHetS
+103,617843052103610368,Sun Jul 05 23:50:37 +0000 2015,2,2,"Great to have Jayne Johnston, distinguished maths teacher welcoming us to SA #aamt2015 http://t.co/9grZHC0GHM"
+104,617835370999234560,Sun Jul 05 23:20:05 +0000 2015,1,3,Looking forward to a great three days ... #aamt2015
+105,617204524638298112,Sat Jul 04 05:33:20 +0000 2015,0,0,Get our leaders to commit to a humanitarian fund for education in emergencies! Sign &amp; RT Now http://t.co/nOx1qKYBF5
+106,609492638568333312,Fri Jun 12 22:49:03 +0000 2015,0,0,Very short 4 minutes! #AUSNGA
+107,609474988182147072,Fri Jun 12 21:38:55 +0000 2015,0,0,Wonderful goalkeeping Lydia Williams#AUSNGA #GoMatildas
+108,609468564395810816,Fri Jun 12 21:13:23 +0000 2015,0,0,Fast game with lots of turnovers. Looks like there will be goals. #GoMatildas #AUSNGA
+109,609164879220453376,Fri Jun 12 01:06:39 +0000 2015,25,0,"RT @abcnews: My kids will never play backyard cricket because I can't afford a backyard, @domknight writes http://t.co/vTxyBbqkka #HousingA…"
+110,609164511384244224,Fri Jun 12 01:05:11 +0000 2015,27,0,RT @ABCFactCheck: Get the facts on housing affordability: http://t.co/wOCHUJkttU http://t.co/y2C1x1OwMW
+111,608375270253461504,Tue Jun 09 20:49:02 +0000 2015,0,0,Strong words need strong actions—Chancellor #Merkel make the #G7 promise to lift 500M from hunger a reality &amp; #ShowUsTheMoney @RegSprecher
+112,607236934709084160,Sat Jun 06 17:25:41 +0000 2015,0,0,.@FIFAcom: now's the time to make amends. Use the #WomensWorldCup as an opportunity to give $10M to the #girlsandwomen who need it most
+113,598161581160009728,Tue May 12 16:23:28 +0000 2015,0,0,"If $18 billion dollars deficit was a ""budget emergency"", how will the LNP interpret $35 billion? Seems a touch hypercritical #budget2015"
+114,598158829226864640,Tue May 12 16:12:32 +0000 2015,94,0,"RT @igiveagonski: #budget2015 a huge let down - nothing for 5th and 6th years of #gonski, no new funds for disability, no vision for improv…"
+115,594432320611815424,Sat May 02 09:24:43 +0000 2015,0,0,Should be a great game. Cherrie and I looking forward to it! #GoEagles http://t.co/traj5w8fDC
+116,594112185812398080,Fri May 01 12:12:37 +0000 2015,0,0,"Scientists' calls for you to divest, @wellcometrust @gatesfoundation #keepitintheground http://t.co/qXaZkBWA6f"
+117,593938498807156736,Fri May 01 00:42:27 +0000 2015,0,0,".@USEmbassyAbuja, tell the new Nigerian government it’s time to act on #BokoHaram and #BringBackOurGirls!"
+118,579552222255575040,Sun Mar 22 07:56:32 +0000 2015,0,0,Megan WEBBER is  AN #IMMelbourne #IRONMAN! Just crossed the finish in 10:45:23. Oh what a feeling! #toyotaIMtracker
+119,579543423725666304,Sun Mar 22 07:21:34 +0000 2015,0,0,I AM  AN #IMMelbourne #IRONMAN! Just crossed the finish in 09:55:11. Oh what a feeling! #toyotaIMtracker
+120,579538497419108353,Sun Mar 22 07:01:59 +0000 2015,0,0,Megan WEBBER  30km of the #IMMelbourne run are done and dusted in 09:37:05. Oh what a feeling! #toyotaIMtracker
+121,579528652435558400,Sun Mar 22 06:22:52 +0000 2015,0,0,30km of the #IMMelbourne run are done and dusted in 08:47:50. Oh what a feeling! #toyotaIMtracker
+122,579523853283508224,Sun Mar 22 06:03:48 +0000 2015,0,0,Megan WEBBER  20km of the #IMMelbourne run are done and dusted in 08:37:25. Oh what a feeling! #toyotaIMtracker
+123,579515147296776193,Sun Mar 22 05:29:12 +0000 2015,0,0,20km of the #IMMelbourne run are done and dusted in 07:50:53. Oh what a feeling! #toyotaIMtracker
+124,579510948328706048,Sun Mar 22 05:12:31 +0000 2015,0,0,Megan WEBBER  15km of the #IMMelbourne run are done and dusted in 08:09:08. Oh what a feeling! #toyotaIMtracker
+125,579504655006232576,Sun Mar 22 04:47:31 +0000 2015,0,0,15km of the #IMMelbourne run are done and dusted in 07:22:36. Oh what a feeling! #toyotaIMtracker
+126,579497440060952576,Sun Mar 22 04:18:50 +0000 2015,0,0,10km of the #IMMelbourne run are done and dusted in 06:56:13. Oh what a feeling! #toyotaIMtracker
+127,579495482893840385,Sun Mar 22 04:11:04 +0000 2015,0,0,Megan WEBBER  5km of the #IMMelbourne run are done and dusted in 07:12:00. Oh what a feeling! #toyotaIMtracker
+128,579486128677376000,Sun Mar 22 03:33:54 +0000 2015,0,0,Megan WEBBER   off the #IMMelbourne bike after 06:43:37 and changing my cleats for runners. #toyotaIMtracker
+129,579482925449662464,Sun Mar 22 03:21:10 +0000 2015,0,0,5km of the #IMMelbourne run are done and dusted in 06:30:07. Oh what a feeling! #toyotaIMtracker
+130,579476378703167489,Sun Mar 22 02:55:09 +0000 2015,0,0,I’m   off the #IMMelbourne bike after 06:04:12 and changing my cleats for runners. #toyotaIMtracker
+131,579442753840410624,Sun Mar 22 00:41:32 +0000 2015,0,0,Megan WEBBER  1/2 way through the #IMMelbourne bike course in 03:47:14. Only 90k until I start running! #toyotaIMtracker
+132,579439354034032640,Sun Mar 22 00:28:02 +0000 2015,0,0,1/2 way through the #IMMelbourne bike course in 03:27:42. Only 90k until I start running! #toyotaIMtracker
+133,579427973100478464,Sat Mar 21 23:42:48 +0000 2015,0,0,Megan WEBBER  What a ride! I’ve just passed the 45km mark in 02:32:56 #IMMelbourne #toyotaIMtracker
+134,579425340478472192,Sat Mar 21 23:32:21 +0000 2015,0,0,What a ride! I’ve just passed the 45km mark in 02:19:42 #IMMelbourne #toyotaIMtracker
+135,579399993179512832,Sat Mar 21 21:51:37 +0000 2015,0,0,Megan WEBBER  1st leg of #IMMelbourne complete in 01:01:58! Oh what a feeling #toyotaIMtracker
+136,579399085171478528,Sat Mar 21 21:48:01 +0000 2015,0,0,1st leg of #IMMelbourne complete in 00:58:40! Oh what a feeling #toyotaIMtracker
+137,579011083584712704,Fri Mar 20 20:06:14 +0000 2015,0,0,"Fraser a decent man, recognising rights of refugees, Aborigines and other humans. He improved with age. We will miss him. #ValeMalcolmFraser"
+138,578667419952128000,Thu Mar 19 21:20:38 +0000 2015,0,0,"@gkissane52 That was also my understanding! Fortunately it is too late to register now. I arranged to follow two athletes, not join them!"
+139,578630429026091008,Thu Mar 19 18:53:39 +0000 2015,0,0,Follow me on twitter during my Ironman Melbourne race for regular updates on my progress.
+140,575038954820534273,Mon Mar 09 21:02:25 +0000 2015,5,0,RT @myIncipio: We've rounded up what you need to know from today's #AppleLive announcement: http://t.co/XE23rLlGsa http://t.co/HD0RPzUpww
+141,575037561825026048,Mon Mar 09 20:56:53 +0000 2015,98,0,RT @jessbentley64: Brilliant! #ENGvBAN http://t.co/hjsqcTvqAK
+142,566768959483953152,Sun Feb 15 01:20:24 +0000 2015,3,0,RT @EmilieHoff: Can't we agree that no matter what religion or believe - violence &amp; killing is NOT the solution! #CopenhagenShooting http:/…
+143,566764975419449345,Sun Feb 15 01:04:34 +0000 2015,27,0,RT @WestAustralia: Story time. Image Credit: @jarradseng #giantsperth #australia #perth fest http://t.co/ZfdamQpWRN
+144,566476864089120769,Sat Feb 14 05:59:43 +0000 2015,0,0,@7Scott77 hi scott. Agree could be worse. People had hats and drinks. standing in sun for hours is still very hot &amp; more than shade temp.
+145,566471617031573504,Sat Feb 14 05:38:52 +0000 2015,0,0,@7Scott77 it was hot where I was standing. Three people collapsed in the heat waiting
+146,566436154199658496,Sat Feb 14 03:17:57 +0000 2015,0,0,#giantsperth #perthfest Reasons for long delay of diver not explained Very poor management in hit conditions with kids
+147,566434335847235584,Sat Feb 14 03:10:44 +0000 2015,0,0,#perthfest #perthgiants Reasons for long delay unclear and not obvious . Bad PR
+148,566422053020909569,Sat Feb 14 02:21:55 +0000 2015,0,0,@BCLstuff @lotterywest @perth_festival @CityofPerth Perth is full. Come in by train if you can
+149,566413531617038337,Sat Feb 14 01:48:04 +0000 2015,1,1,#giantsperth incredible crowds waiting for giant to wake at 11 http://t.co/KVe7fGtPD9
+150,566253464284442626,Fri Feb 13 15:12:01 +0000 2015,11,0,"RT @Robz_Lizzy: Anyone who doubts the value to the public of arts funding, should be in Perth right now. #giantsperth"
+151,566080015553396737,Fri Feb 13 03:42:47 +0000 2015,0,0,"Little girl giant in Riverside Drive, Perth. #giantsperth http://t.co/vzqvidWpZy"
+152,566079391415803905,Fri Feb 13 03:40:18 +0000 2015,0,0,Where is she now? #giantsperth
+153,566027948596023297,Fri Feb 13 00:15:53 +0000 2015,0,0,Interesting ... Christopher Pyne doesn't even know what AITSL acronym stands for.  Looking for distractions from PM? http://t.co/MrI0nhv3f8
+154,566021291396714497,Thu Feb 12 23:49:26 +0000 2015,0,0,Nice little earner for the testing industry. http://t.co/MrI0nhv3f8
+155,566020229860298752,Thu Feb 12 23:45:13 +0000 2015,0,0,"Be careful today, triskaidekaphobians! Two more this year, March and November. How unusual is it, if at all, to have three in a year?"
+156,566010958925950978,Thu Feb 12 23:08:23 +0000 2015,0,0,"#abcnews Student teachers to sit literacy, numeracy test. Why aren't politicians obliged to meet the same standard? http://t.co/UDQbKVXd8h"
+157,565908092194279425,Thu Feb 12 16:19:37 +0000 2015,16,0,RT @perthnow: Preparations underway for CBD to come to standstill for #giantsperth: http://t.co/lDyFWmGD2f #bigpicperth #perthfest http://t…
+158,565906708606631936,Thu Feb 12 16:14:08 +0000 2015,11,0,RT @ddmeyer: Neat mnemonic but can someone remind why we spend so much time on these angles. https://t.co/r6z3lUqNc5
+159,565685993974796289,Thu Feb 12 01:37:05 +0000 2015,10,0,RT @GeoffHutchison: Join #CampaignKamahl for  #SBSEurovision @720Perth (ABC) http://t.co/B9sDoripAl
+160,564785145505275904,Mon Feb 09 13:57:26 +0000 2015,10,0,"RT @GlblCtznUK: Need some Monday morning inspiration? We can't stop watching #Malala's #NobelPeacePrize speech
+http://t.co/ke8jTUAtlc http:…"
+161,564553098333409280,Sun Feb 08 22:35:22 +0000 2015,1,0,"RT @PhilWillis: Let's say all 34 members of cabinet voted no, amongst backbenchers the real #libspill numbers are 27 No to 39 Yes
+#auspoI"
+162,564549423825317888,Sun Feb 08 22:20:46 +0000 2015,0,0,#libspill 61 to 39 does not solve the problem for the LNP. Watch this space.
+163,564454191515459584,Sun Feb 08 16:02:20 +0000 2015,15677,0,"RT @vanbadham: Why feminism? Because you can sell 30 MILLION copies of a single book and when you die, The Australian prints this: http://t…"
+164,564385540053540865,Sun Feb 08 11:29:33 +0000 2015,30,0,"RT @DCSMathChat1: ""Speed pressure, timed testing and blind memorization damage children's experience of math"" @joboaler 
+http://t.co/4TGzE7…"
+165,564304642952015875,Sun Feb 08 06:08:05 +0000 2015,0,0,"#libspill. Last time, Abbott beat Turnbull by a single vote, presumably his own vote. A change of leader won't fix deep policy problems."
+166,564302109642747908,Sun Feb 08 05:58:01 +0000 2015,6,0,RT @Jarrapin: The alternative real “independent” media got it right about #TonyAbbott from the start http://t.co/cWrNGBfnj6 #libspill
+167,564300083655479298,Sun Feb 08 05:49:58 +0000 2015,139,0,RT @latikambourke: This is one of the best columns I've read to date on the #LibSpill. Mr @PhillipCoorey: http://t.co/ErzgqZ88eH
+168,564299097058725889,Sun Feb 08 05:46:03 +0000 2015,17,0,RT @PaulBongiorno: Spot on: http://t.co/f7T4sISuz6
+169,563599241172357120,Fri Feb 06 07:25:04 +0000 2015,8,0,"RT @WeTheVoters2013: Abbott reassures the voters &amp; members of his own team that he is a changed man.
+
+#auspol #libspill http://t.co/UVdjWtr…"
+170,563580825732534272,Fri Feb 06 06:11:54 +0000 2015,4,1,"Dear Tony. The electorate didn't vote you in. The party did. A real leader would step down and allow a vote, which he might win. #libspill"
+171,561608427160358912,Sat Jan 31 19:34:17 +0000 2015,9,0,"RT @centerofmath: Can't think of a better way to spend a Saturday afternoon than reading this article. 
+http://t.co/jChODTolLm #mathematici…"
+172,558985293248729090,Sat Jan 24 13:50:54 +0000 2015,19,0,RT @kenniejp23: @MrsMartinMaths This does the trick every time... http://t.co/eVtweZDPc3
+173,558755791671263233,Fri Jan 23 22:38:56 +0000 2015,89,0,RT @TimCostello: You don't fight drugs by taking lives@MercyCampaign: Please RT to #KeepHopeAlive for Andrew Chan and Myuran Sukumaran http…
+174,556656019242106880,Sun Jan 18 03:35:11 +0000 2015,42,0,"RT @pickover: ""I have paper books that are 100 yrs old and useable. I have 1998 zip drives I can't access. Compare."" ~@lillylyle http://t.c…"
+175,556449635967836160,Sat Jan 17 13:55:06 +0000 2015,0,1,"@pickover Hi Cliff. I think the bill could still be presented to the Senate, however, as it is merely postponed! http://t.co/nod2C52Xvn"
+176,555368057413988352,Wed Jan 14 14:17:17 +0000 2015,208,0,RT @HansRosling: In Liberia I experienced number of Ebola cases/day falling from &gt;50/day in mid Oct to &lt;2/day when I left on 12 Jan. http:/…
+177,555354425586245632,Wed Jan 14 13:23:07 +0000 2015,0,0,Brian Cox's Human Universe. Why are we here? Brilliant! Probability. Cricket. Swords. Camels. Don't miss. ABC TV.   http://t.co/yDezeKhwcZ
+178,554809849779744768,Tue Jan 13 01:19:10 +0000 2015,22,0,RT @liamstack: I hadn't seen the #foxnewsfacts clip until Fox launched a Twitter account to respond to it. It's like a Fox satire. http://t…
+179,554330361761509377,Sun Jan 11 17:33:51 +0000 2015,1,1,#ParisMarch Clear from many tweets that political leaders are damned if they do and damned if they don't participate in this amazing march.
+180,554324871451123713,Sun Jan 11 17:12:02 +0000 2015,0,0,"Lyse Doucet has done a great job with the Vox pops on BBC. Good to hear voices of people, despite cynicism about politicians. #ParisMarch"
+181,554312888861474816,Sun Jan 11 16:24:25 +0000 2015,114,0,RT @JamesAALongman: 3 ppl made the world seem very bleak this week. Thousands have restored a little faith #ParisMarch pic RT @BBCNews http…
+182,553417495952887808,Fri Jan 09 05:06:27 +0000 2015,0,0,"Watching a tennis match in Perth, Australia. Chips come in an irregular pentagonal box! Any ideas on why that shape? http://t.co/4EVjRA6kmJ"
+183,553379017173123073,Fri Jan 09 02:33:33 +0000 2015,0,0,#FRA great start Alize!
+184,553334079890808832,Thu Jan 08 23:34:59 +0000 2015,38198,0,"RT @Aboujahjah: I am not Charlie, I am Ahmed the dead cop. Charlie ridiculed my faith and culture and I died defending his right to do so. …"
+185,552956148232355840,Wed Jan 07 22:33:13 +0000 2015,37,0,RT @setjeff: Voltaire said it best.. ##JeSuisCharlie  @nycjim @mashable http://t.co/7WkVmYF24u
+186,552955302702616576,Wed Jan 07 22:29:52 +0000 2015,52,0,RT @lifetime1_BV: Because everyone is entitled to have its own opinion. It's called freedom of speech. #Voltaire #JeSuisCharlie 🇫🇷👊 http://…
+187,552814060874371072,Wed Jan 07 13:08:37 +0000 2015,0,0,@smferggie @Fairfax51 Religious ideologies are not violent; it's just the nut cases. Islamic militants. IRA bombers. Jewish radicals. KKK ..
+188,552811868968869889,Wed Jan 07 12:59:54 +0000 2015,1,0,"@smferggie @Fairfax51 Dunno, but Regrettably, all religions seem to include a few nut-cases as adherents. Islam. Christianity. Judaism. Etc"
+189,552800925710958592,Wed Jan 07 12:16:25 +0000 2015,5,1,Only crazy people could think that attacking journalists with sophisticated weapons is likely to endear people to their cause #parisshooting
+190,552798302068953088,Wed Jan 07 12:06:00 +0000 2015,1,0,"@Amr1ta maybe, but assassins have stolen car and gone elsewhere in Paris, so president presumably safe there. Awful situation."
+191,552797088195440640,Wed Jan 07 12:01:10 +0000 2015,0,0,@Amr1ta yes. Two Gunmen still at large #Paris
+192,551425894007336960,Sat Jan 03 17:12:32 +0000 2015,84,0,RT @pickover: Look at bars. Shake your head.  Retweet if a ghostlike apparition suddenly forms. http://t.co/xi0L4uFFuz
+193,551172530216521728,Sat Jan 03 00:25:46 +0000 2015,58,0,RT @chrisfree1908: What's wrong with this picture? http://t.co/yzGFI1Mr7t
+194,551118893222072320,Fri Jan 02 20:52:38 +0000 2015,14,0,"RT @bznotes: OH: ""Academics seen as overhead in the US, an investment in Germany, and rockstars in S. Korea""."
+195,551114208020951040,Fri Jan 02 20:34:01 +0000 2015,207,0,RT @martincampbell2: 2015 (11111011111) is a palindromic binary year. The last one was 1935 (11110001111).
+196,550432310735024128,Wed Dec 31 23:24:24 +0000 2014,0,0,New Year celebrations around the world. Stunning photographs. Is this the only truly international celebration? http://t.co/Owxjyh1gLp
+197,550423002492329984,Wed Dec 31 22:47:24 +0000 2014,0,0,BBC Numbers of the year 2014 makes for very interesting reading. http://t.co/BADbm2pxbg
+198,546554508533190656,Sun Dec 21 06:35:23 +0000 2014,175,0,RT @pickover: He finally did it! http://t.co/uxrrN8OEft
+199,544444610932506624,Mon Dec 15 10:51:25 +0000 2014,41,0,RT @arabella_ya: I haven't felt proud of Aus Government for some time - but I sure as hell feel proud of Australians #illridewithyou #TeamH…

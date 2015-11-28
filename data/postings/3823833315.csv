@@ -1,0 +1,34 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,660250690573463553,Sat Oct 31 00:23:26 +0000 2015,2265,0,RT @NachoSoto: Programming in a nutshell https://t.co/35V7jqUYnP
+1,660115838490554368,Fri Oct 30 15:27:34 +0000 2015,3,5,"FsCheck: For Each Function There Exist Properties to Be Checked / Paulmichael Blasucci
+
+https://t.co/lLTL8OT425 #fsharp"
+2,659768760698609664,Thu Oct 29 16:28:25 +0000 2015,0,0,Started @gnome 3 instead of @ubuntuunity (by mistake). Looks surprisingly good.
+3,658964453271162880,Tue Oct 27 11:12:23 +0000 2015,1,0,RT @Forverts: זעט ווי א כינעזישע סטודענטקע זינגט א פאפולער כינעזיש ליד אויף יידיש https://t.co/7NfBXQRKzN https://t.co/bb4gORn4Cv
+4,658960912854986752,Tue Oct 27 10:58:19 +0000 2015,0,0,@kjnilsson I wasn't even aware it was a new feature :)
+5,658956248147218432,Tue Oct 27 10:39:47 +0000 2015,0,0,"@kjnilsson awesome, but you can shorten the first one:
+let exnf f = Printf.ksprintf exn f"
+6,658738930494386176,Mon Oct 26 20:16:14 +0000 2015,0,0,@isaac_abraham @mausch @TeaDrivenDev @sforkmann @CarstenK_Dev Yup. You can applaud it or  keep wondering why late adopters arrive last.
+7,658724272865722368,Mon Oct 26 19:17:59 +0000 2015,0,1,@mausch @isaac_abraham @TeaDrivenDev @sforkmann @CarstenK_Dev Like C# null hell and the attempt to imitate Options: https://t.co/VnaBqOtb7O
+8,658722867161468928,Mon Oct 26 19:12:24 +0000 2015,0,0,"@mausch @isaac_abraham @TeaDrivenDev @sforkmann @CarstenK_Dev F# seems to be the avant-garde of new features, slowly trickling down to C#"
+9,658705179483750401,Mon Oct 26 18:02:07 +0000 2015,0,0,"@timminchin is playing in f major, but singing in #fsharp 
+(nerdities of the world, unite)
+https://t.co/6KeG2bJMAX"
+10,658627351966797826,Mon Oct 26 12:52:52 +0000 2015,0,0,"Netanyahu is boycotting bin Laden, dead or alive. https://t.co/6L50BBrWW9"
+11,658350845810089984,Sun Oct 25 18:34:07 +0000 2015,0,0,@sergey_tihon @sforkmann Thanks! good to know. So I can count on it and not have to do it myself with FAKE.
+12,658348602931200001,Sun Oct 25 18:25:13 +0000 2015,0,0,"@sforkmann in #Paket, putting a zip file in paket.dependencies (http), is it supposed to be unzipped in ./paket-files/ ?"
+13,657318723267727360,Thu Oct 22 22:12:50 +0000 2015,0,0,@_ericelliott @JavaScriptDaily Safety is a rare commodity in spaghetti code land.
+14,656910304559931393,Wed Oct 21 19:09:56 +0000 2015,421,0,RT @jvplive: Netanyahu Shamelessly Exploits the Shoah to Stoke Fear of Palestinians OUR FULL STATEMENT: https://t.co/qQ15vU8Ddq https://t.c…
+15,656663697306341377,Wed Oct 21 02:50:00 +0000 2015,147,0,"RT @ChemiShalev: If this wasn’t Netanyahu, Wiesenthal, ADL, Yad Vashem et al would already be screaming Holocaust denial https://t.co/7WKcl…"
+16,656657794679091200,Wed Oct 21 02:26:33 +0000 2015,161,0,"RT @MaxBlumenthal: While inciting against Palestinians, Netanyahu dabbles in Holocaust denial https://t.co/U0vh0Q9I1U via @AliAbunimah"
+17,656656770442645504,Wed Oct 21 02:22:28 +0000 2015,2,2,"@chickos99 בדיעבד, אחמדינג'ד יוצא די בסדר, לא? 
+https://t.co/zWJVJlqpgS"
+18,656625401536585728,Wed Oct 21 00:17:49 +0000 2015,1,0,@adamjohnsonNYC @yitzgood This is mental. Somebody call the @ADL_National : a holocaust denier.
+19,656612330579587072,Tue Oct 20 23:25:53 +0000 2015,0,0,"RIP #HaftomZarhum
+https://t.co/hiC88gZVga"
+20,656184894347964416,Mon Oct 19 19:07:24 +0000 2015,0,4,@Codecutterman @VisualFSharp I like the order constraint. The alternative leads to circular dependency hell.
+21,653655535007453184,Mon Oct 12 19:36:38 +0000 2015,10,0,"RT @TheRealNews: ""It could easily deteriorate into a 3rd intifada by the mere fact that Israeli govt is actually stoking the flames"" http:/…"
+22,651400353401978881,Tue Oct 06 14:15:21 +0000 2015,0,0,@julielerman @AureliaEffect Something changing a state that a callback function expects to remain unchanged?
+23,651072604464381952,Mon Oct 05 16:32:59 +0000 2015,0,0,"Whatcha gonna do... without your ass...? 
+https://t.co/NAien8Tkuo"
+24,650063370427727872,Fri Oct 02 21:42:39 +0000 2015,12,0,"RT @sforkmann: ""propositions as types"" by Wadler. Watch it. I'm serious. https://t.co/8Ol5lLvbuS"

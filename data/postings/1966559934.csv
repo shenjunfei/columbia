@@ -1,0 +1,219 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669160333056036865,Tue Nov 24 14:27:10 +0000 2015,0,1,"@Psych_Writer ""iffy"" sounds like an allegation that something was done wrong, which is not what I'm saying."
+1,669159881144999937,Tue Nov 24 14:25:22 +0000 2015,0,1,"@Psych_Writer I didn't say that! I don't think the results reporting is complete enough, which makes it difficult to interpret."
+2,669158744568307712,Tue Nov 24 14:20:51 +0000 2015,1,1,Nice article by @Psych_Writer but the paper needed to report more stats (ideally CIs on mm^3/yr and on differences) https://t.co/R5eJoQAd49
+3,669157680188145665,Tue Nov 24 14:16:37 +0000 2015,0,0,"@Psych_Writer So we can't be sure that e.g. female right caudate isn't just slightly less significant than male (R = −0.376, pcorr &lt; 0.033)."
+4,669156752995299328,Tue Nov 24 14:12:56 +0000 2015,0,0,"@Psych_Writer Paper doesn't seem to report (or plot) the NS correlations (with exception of left thalamus in men, R = −0.345, pcorr &lt; 0.069)"
+5,669156234419945473,Tue Nov 24 14:10:53 +0000 2015,0,0,"@Psych_Writer ""only the men showed age-related reductions in caudate nucleus and putamen volume"" but no mention of significant interaction?"
+6,669151708250009600,Tue Nov 24 13:52:54 +0000 2015,12,0,"RT @ten_photos: ""Share the Wealth"" NeuroImage articles now free! (through 03/2016) Tnx  @ChrisFiloG @talyarkoni for calling for this https:…"
+7,669119996203765761,Tue Nov 24 11:46:53 +0000 2015,6,9,Posterior default mode network fails before measurable amyloid plaques in #Alzheimers - https://t.co/nMYNXZdKlO https://t.co/tqhBq12Tab
+8,668909789020336128,Mon Nov 23 21:51:36 +0000 2015,32,0,"RT @AtheneDonald: Sir Paul Nurse announces the new Royal Society Athena Prize"" https://t.co/M66YBTenkW #RSdiversity"
+9,668861874528722944,Mon Nov 23 18:41:12 +0000 2015,147,0,"RT @krstoffr: New visualization! ""Bayesian inference"" https://t.co/TawbH3VtTb #d3js #dataviz https://t.co/0rwuMIl3hq"
+10,668782202877050880,Mon Nov 23 13:24:37 +0000 2015,2,0,Love the suggestion that a reviewer who demands post-hoc analysis can do it themselves in a commentary https://t.co/SCEmbdpB2W #OpenData #RR
+11,668762130016043009,Mon Nov 23 12:04:51 +0000 2015,16,0,"RT @beckyneuro: RA job available @WTCN_UCL with me, @Joel_Winston &amp; @profgeraintrees - Jan 2016 start, clinically focussed, pls RT https://…"
+12,667609766303277056,Fri Nov 20 07:45:46 +0000 2015,5,0,"RT @mrgunn: Hey #METRICSconf15 , let me introduce you to #altmetrics https://t.co/vw7ZA4wdhl"
+13,667609671394566145,Fri Nov 20 07:45:23 +0000 2015,0,0,.@mrgunn @R__INDEX But most #altmetrics measure popularity or certain forms of impact (eg media coverage). Quality (alt)metrics are limited.
+14,667344699154386945,Thu Nov 19 14:12:29 +0000 2015,1,0,RT @RIOJournal: A 3-min community presentation on RIO by @EvoMRI #opencon https://t.co/UYzQQZ0xxM  https://t.co/J8iEXFrKWq
+15,667307945932156928,Thu Nov 19 11:46:26 +0000 2015,4,0,RT @haspelmath: Why science publication should be nonprofit: http://t.co/i57HWQoFGi
+16,667102115924467712,Wed Nov 18 22:08:33 +0000 2015,4,0,"RT @KJBinSTL: Commentary on eLife: Hiding peer reviews ""is an enormous waste."" https://t.co/4WS5KZEWRt . Yay @F1000Research."
+17,667100560777154561,Wed Nov 18 22:02:22 +0000 2015,0,1,@spinicist @FrontiersIn @CyrilRPernet Similar point made (perhaps more convincingly) by @PLOSONE's stratospheric h5 index on GS Metrics.
+18,667099890628091905,Wed Nov 18 21:59:42 +0000 2015,0,1,@spinicist @FrontiersIn @CyrilRPernet ... Despite some people expecting less selective journals to have no good articles.
+19,667098618017509376,Wed Nov 18 21:54:39 +0000 2015,0,0,"@spinicist @FrontiersIn @CyrilRPernet Of course you can't, but I think it's still interesting that there are a lot of well cited articles..."
+20,667025562167324672,Wed Nov 18 17:04:21 +0000 2015,0,1,.@FrontiersIn Thanks! Interesting point: selecting top 5-10% articles (as other journals) in Front. Psychol. would give Impact Factor &gt; 10.
+21,667023626491793412,Wed Nov 18 16:56:39 +0000 2015,0,0,@JamesKilner They just did - 80% - surprising (to me at least) spread for three journals with similar ideals of accepting all sound science.
+22,667022561801322496,Wed Nov 18 16:52:26 +0000 2015,3,0,"RT @FrontiersIn: Hi @RidgwayGR, it's 80%. @FrontiersIn's high volume &amp; low rejection rates yield great IFs! https://t.co/tpzrjfuqCh
+ https:…"
+23,667014360636792832,Wed Nov 18 16:19:50 +0000 2015,0,1,I've seen a claim that @FrontiersIn accepts 80-90% in @TheEconomist - https://t.co/eKgPFSW4l1 - but it's not clear where they got that info.
+24,667013946453397504,Wed Nov 18 16:18:12 +0000 2015,1,2,"I can't find acceptance rate info for @FrontiersIn, despite exemplary transparency on other aspects (e.g. https://t.co/NsgYKXfXHZ)"
+25,667011749107924992,Wed Nov 18 16:09:28 +0000 2015,1,0,Interesting that @thePeerJ accepts just 58% of submissions - https://t.co/X1NlAjAkAK - cf. 69% at @PLOSONE despite similar scope &amp; criteria.
+26,666904650164125696,Wed Nov 18 09:03:53 +0000 2015,1,0,"RT @authorea: @RidgwayGR Hi Ged, some diffs with other editors: we render LaTeX to HTML (in addition to PDF), and wysiwyg editor: https://t…"
+27,666568742223142912,Tue Nov 17 10:49:07 +0000 2015,0,0,"@FrontiersIn Thanks, but this time I didn't see that box at all. I guess you invite more reviewers than you need and had already got enough?"
+28,666386060209987584,Mon Nov 16 22:43:12 +0000 2015,10,0,RT @SelinaWray: p15 of @UCLAlumni Portico mag has an interview w me&amp; @jonrohrer on the importance of basic&amp;clinical research collab https:/…
+29,666385260955967489,Mon Nov 16 22:40:01 +0000 2015,0,1,"@Papeeria Thanks, it sounds great, but so do @overleaf @authorea @sharelatex etc so I'm particularly interested to see direct comparisons."
+30,666381946348548096,Mon Nov 16 22:26:51 +0000 2015,1,1,.@JohnBorghi @micheleveldsman @AlxEtz Has anyone tried &gt;1 of @overleaf @authorea @sharelatex @Papeeria https://t.co/yxSzcM6vVR? Any reviews?
+31,666374247783243776,Mon Nov 16 21:56:15 +0000 2015,19,0,"RT @ten_photos: NeuroImage ""Share the Wealth"" repository issue is out, with super cover art by @ChrisFiloG. https://t.co/fznIMd43lp https:/…"
+32,666352952890818560,Mon Nov 16 20:31:38 +0000 2015,1,0,RT @JohnBorghi: Twitter! What is your favorite tool for collaborative writing/workshopping? Would I be missing out if I just went with Goog…
+33,666214532067540992,Mon Nov 16 11:21:36 +0000 2015,4,0,RT @mehta_mitul72: How different can similarity be. Estimating multivariate similarity between neuroimaging datasets https://t.co/T6auxbAtnb
+34,666213370002034688,Mon Nov 16 11:16:59 +0000 2015,3,4,"Longitudinal DTI study supports last-in first-out brain aging hypothesis - 
+https://t.co/30kEV92a6j
+Also xsec GM in https://t.co/2SGRoM0vgc"
+35,666207648832991232,Mon Nov 16 10:54:15 +0000 2015,13,0,"RT @cMadan: Great intro guide to DTI! ""A hitchhiker's guide to diffusion tensor imaging"" https://t.co/PuUtyJL1ew https://t.co/o8VSMuep5w"
+36,666206052103360512,Mon Nov 16 10:47:54 +0000 2015,11,0,RT @JNNP_BMJ: The habenula: an under-recognised area of importance in frontotemporal dementia? #brain #FTD #habenula  https://t.co/Mn0v78aR…
+37,666007828952387584,Sun Nov 15 21:40:14 +0000 2015,83,0,RT @mrogati: We lost 50 years of data science progress because we didn't listen to Tukey in 1962. (via https://t.co/a4uNQKwWAW) http://t.co…
+38,666006856670830592,Sun Nov 15 21:36:23 +0000 2015,18,0,RT @sean_r_owen: I just published “What ‘50 Years of Data Science’ Leaves Out” https://t.co/vmqA6p3ziK
+39,666002728561283072,Sun Nov 15 21:19:58 +0000 2015,3,0,"RT @SaRoseCav: When women work with men, men get the credit. Analysis of media, co-authorship, tenure https://t.co/YVPMBea6qz https://t.co/…"
+40,665268126502813700,Fri Nov 13 20:40:56 +0000 2015,0,0,"@sampendu @rogierK Ah, I think I see, but that FAQ wasn't specifically about tweets or fair use, linking to page with licence is always OK."
+41,665267395188117505,Fri Nov 13 20:38:01 +0000 2015,0,0,"@sampendu @rogierK Okay, but I think I'm missing the crux of your current argument. Could you recap?"
+42,665266213086478336,Fri Nov 13 20:33:19 +0000 2015,0,0,"@sampendu @rogierK I'm confused... You said tweet violates CC-BY, I said it doesn't, then you say ""exactly"", eh?"
+43,665259060455997440,Fri Nov 13 20:04:54 +0000 2015,0,0,"@sampendu @rogierK Not sure what ""Ged's argument"" was, but tweet with link to article page with info is OK: https://t.co/wfs7rNx3Zy (para.3)"
+44,665246504232296448,Fri Nov 13 19:15:00 +0000 2015,1,0,"RT @CEHartwright: Find out more about our #numeracy research, including how to take part! @OxExpPsy @UniofOxford @SOSchools https://t.co/7i…"
+45,665226638758707202,Fri Nov 13 17:56:04 +0000 2015,2,0,"RT @figshare: Metrics-based mini REF ‘won’t be credible’:
+
+https://t.co/15Jc4Nz0a8"
+46,665207352434495488,Fri Nov 13 16:39:26 +0000 2015,11,0,RT @mfcallaghan: MRI Physicists! Great opportunity to help further our understanding of brain microstructure and function: https://t.co/kPv…
+47,665180066096222208,Fri Nov 13 14:51:00 +0000 2015,4,0,RT @shaihanmalik: I've got a new site for MRI related code!  I'll post everything I publish here: https://t.co/7eR1iDbBUo (and some old stu…
+48,665145921555013633,Fri Nov 13 12:35:20 +0000 2015,7,0,"RT @tjahain: Interesting article where a journal's editor-in-chief offers hints on how to have your manuscript sent for review:
+https://t.c…"
+49,665144438956687360,Fri Nov 13 12:29:26 +0000 2015,0,1,@sampendu @richarddmorey @rogierK @lakens Even just CC-BY requires that the original material's licence is mentioned along with attribution.
+50,665144215534493696,Fri Nov 13 12:28:33 +0000 2015,0,0,"@sampendu @richarddmorey @rogierK @lakens The SA clause relates to contributions that ""build upon the material"" - they keep CC-BY-SA."
+51,665134518169411585,Fri Nov 13 11:50:01 +0000 2015,0,0,"@sampendu @lakens If you want to enforce clearly showing/linking licence only for commercial use, then run into same problems of NC clause."
+52,665133936037732352,Fri Nov 13 11:47:42 +0000 2015,0,0,"@sampendu @lakens You were talking (I thought) about stronger version of CC *BY* clause, so irrelevant whether Twitter considered NC or not."
+53,665132976473272320,Fri Nov 13 11:43:53 +0000 2015,0,0,@sampendu To be clear; I repeated mentioned collections of many articles; was not suggesting it would have been awkward for single article.
+54,665132744280825856,Fri Nov 13 11:42:58 +0000 2015,0,0,"@sampendu Because main pages are typically brief (perhaps even strictly word-limited?). Anyway, we can agree: visible in sample or linked."
+55,665131184729563136,Fri Nov 13 11:36:46 +0000 2015,0,0,"@sampendu @lakens Also, would we need to add licensing info when tweeting a figure from a CCBY paper?? Currently linking suffices as attrib."
+56,665130858450395136,Fri Nov 13 11:35:28 +0000 2015,0,0,"@sampendu @lakens Well, other than repeating myself that it could be awkward to list for *many* articles, not sure what to add..."
+57,665130023398023168,Fri Nov 13 11:32:09 +0000 2015,0,0,"@sampendu @lakens Outside of paywall is a great idea, but I thought you wanted it on the main Amazon listing itself, which would be awkward."
+58,665129473742909440,Fri Nov 13 11:29:58 +0000 2015,0,0,@sampendu @lakens Inclined to agree; but it is potentially awkward for e.g. pack of teaching material with (parts of) *many* articles.
+59,665128905095979008,Fri Nov 13 11:27:43 +0000 2015,0,0,@sampendu I thought you were suggesting that the Amazon page itself would have to show attrib and licence (rather than just inside book) no?
+60,665128079535308800,Fri Nov 13 11:24:26 +0000 2015,0,1,@chrisdc77 @sampendu Well Sam started it (as I believe all good arguments go...) https://t.co/fGaMkr4qxt
+61,665127643734532096,Fri Nov 13 11:22:42 +0000 2015,0,0,Another interesting idea on CC BY +/- NC debate; but would this cause problems for collections of many articles? https://t.co/LiLWf6QOAq
+62,665126448718602240,Fri Nov 13 11:17:57 +0000 2015,0,1,@rogierK Aren't you also violating the attribution term there? Better hope the author can't afford a good lawyer ;-)
+63,665125897951969280,Fri Nov 13 11:15:46 +0000 2015,0,0,@sampendu Or what if a school wants to buy a pack of teaching material that includes your article among other stuff? NC/FU line is unclear.
+64,665125460263755776,Fri Nov 13 11:14:01 +0000 2015,0,0,@sampendu So what about a Spotify-like service? What if a reader knows it's free but *wants* to pay for a printed and posted book version?
+65,665123169443946496,Fri Nov 13 11:04:55 +0000 2015,0,1,An interesting thread arguing about CC-BY +/- NC. Do we need a new (@creativecommons?) licence in between these two? https://t.co/7Pc6heLpym
+66,665122491417907200,Fri Nov 13 11:02:13 +0000 2015,0,0,"@sampendu @tom_hartley @richarddmorey @lakens @rogierK But in their blog post, they are actively arguing against the need for a new licence."
+67,665121743711924224,Fri Nov 13 10:59:15 +0000 2015,84,0,RT @jpeelle: So far we’ve had 0 applicants for our research assistant position! Is the job market that good? Please RT https://t.co/98x8q4X…
+68,665120876090826752,Fri Nov 13 10:55:48 +0000 2015,0,0,"@sampendu @tom_hartley @richarddmorey @lakens @rogierK I don't follow you, WT can't do what? WT like CC-BY (not NC) https://t.co/Q34u7ASCUO"
+69,665119624774737920,Fri Nov 13 10:50:50 +0000 2015,0,0,"@tom_hartley @sampendu @richarddmorey @lakens @rogierK [2/2] actual ""selling"" without also prohibiting use by Wikipedia, universities, etc."
+70,665119326316404737,Fri Nov 13 10:49:39 +0000 2015,0,1,"@tom_hartley @sampendu @richarddmorey @lakens Guys, you need to read some of the links that @rogierK and I sent... It's hard to stop [1/2]"
+71,665118533035118592,Fri Nov 13 10:46:30 +0000 2015,9,0,RT @brandmaier: The authors really expected an age effect! https://t.co/1ktrqPVri4
+72,665117194007789568,Fri Nov 13 10:41:10 +0000 2015,0,0,"@sampendu @richarddmorey @lakens @rogierK But I think you are underestimating the problems with NC, and overestimating problems without it."
+73,665116888867938304,Fri Nov 13 10:39:58 +0000 2015,0,0,"@sampendu @richarddmorey @lakens @rogierK My understanding is that they only care about licence when paying an APC, so preprints can be NC."
+74,665116088385040385,Fri Nov 13 10:36:47 +0000 2015,0,0,"@sampendu You might have missed this in the cofactor post that I linked, but seems NC=personal-use-only in Germany https://t.co/CAXMEw0vDv"
+75,665115342302265344,Fri Nov 13 10:33:49 +0000 2015,0,0,"@sampendu @richarddmorey @lakens @rogierK Organisations that carefully considered this (e.g. RCUK, Wellcome, FWF) request CC-BY without NC."
+76,665113044360503296,Fri Nov 13 10:24:41 +0000 2015,0,0,"@lakens @VandekerckhoveJ Also, five dollars is very cheap compared to the per article purchase price of most closed access journals (~30)."
+77,665112813069836288,Fri Nov 13 10:23:46 +0000 2015,0,0,"@lakens @VandekerckhoveJ But if they'd found the free version, they obviously wouldn't pay; so this can only increase readership."
+78,665111812292149248,Fri Nov 13 10:19:47 +0000 2015,0,0,"@sampendu @richarddmorey @lakens Adding to what @rogierK said/linked, NC leaves doubts about even academic use - https://t.co/XD8Am0jrSM"
+79,664796962877739009,Thu Nov 12 13:28:41 +0000 2015,6,0,"RT @woodforbrains: really cool if it works: A hemodynamic model for layered BOLD signals (i.e., different HDRs for different layers!)
+ http…"
+80,664796489563152384,Thu Nov 12 13:26:49 +0000 2015,0,1,"If only @ResearchGate could tell me who these two cowboys are... But seriously, ""reads"" need pooling across sources. https://t.co/WNgwCjzxi3"
+81,664779015396450304,Thu Nov 12 12:17:22 +0000 2015,5,3,Interesting note on trouble finding reviewers - https://t.co/wb5R9aHUcp - I suspect sometimes a sign of a complex (rather than poor) paper.
+82,664776887592439809,Thu Nov 12 12:08:55 +0000 2015,0,0,"Went to trouble of checking a colleague wd be happy to do a @FrontNeurosci review before clicking decline; didn't get option to suggest, eh?"
+83,664775994901987332,Thu Nov 12 12:05:22 +0000 2015,10,0,RT @lakens: Unsure which articles you can make freely available in repositories? Check https://t.co/hAkvr1BLtN to find out and upload your …
+84,664567868328161282,Wed Nov 11 22:18:21 +0000 2015,5,0,RT @paulcoxon: Don't be a conference troll: how to ask good questions https://t.co/dm0434wIpR nice tips from @JBHist @LornaMCampbell @Sjgra…
+85,664393370169688064,Wed Nov 11 10:44:57 +0000 2015,30,0,RT @Brain1878: Alzheimer's disease in the 100 years since Alzheimer's death https://t.co/8R5oqOkxgq https://t.co/mwGcQpTvRa
+86,663859505709629441,Mon Nov 09 23:23:34 +0000 2015,2,0,"RT @PLOSNeuro: Resting-State fMRI Functional Connectivity Is Associated with Sleepiness, Imager, and Discontinuity of Mind https://t.co/FKO…"
+87,663859435660529664,Mon Nov 09 23:23:18 +0000 2015,0,3,"@PLOSNeuro @PLOSONE Imagery rather than ""imager"", but effects of investigator on participant's resting state activity not too far-fetched..."
+88,663857843154604032,Mon Nov 09 23:16:58 +0000 2015,7,0,RT @PLOS: A wrap-up of #SfN15 wrap-ups by our able @PLOSNeuro Community bloggers; TKS again for #neuroscience research news: https://t.co/0…
+89,663805247438065664,Mon Nov 09 19:47:58 +0000 2015,2,0,RT @EANeurology: Neuropenews: eBrain Session of the Month: Neurodegenerative diseases https://t.co/gXsARgDvQp
+90,663655235831877632,Mon Nov 09 09:51:52 +0000 2015,2,0,RT @mfcallaghan: Interesting tales of @johnhardy1954's escapades inside and outside the lab. #BreakthroughPrize https://t.co/jBGHSVWH6s
+91,663629385455566848,Mon Nov 09 08:09:09 +0000 2015,6,0,RT @SelinaWray: My mentor @johnhardy1954 won the #BreakthroughPrize Prize for his work on Alzheimer's Disease. Delighted for him! https://t…
+92,663104913845723137,Sat Nov 07 21:25:06 +0000 2015,1,0,"RT @Siobhan_ODwyer: ""Sinister"" - ""Losing his mind"" - ""Impossible situation"" 
+
+@rachelegross &amp; @Slate need some #dementia education!   https…"
+93,663095999536218113,Sat Nov 07 20:49:40 +0000 2015,9,0,RT @ScholarOneNews: Learn how we're collaborating w/@Overleaf to simplify the journal publishing submission process  https://t.co/fgPFgyRRuP
+94,662592918453157888,Fri Nov 06 11:30:36 +0000 2015,6,0,RT @mrm_highlights: Interested in MRI methods? Check out the latest and greatest on our new blog! https://t.co/2kq2oKpG9L
+95,661928141301092352,Wed Nov 04 15:29:01 +0000 2015,7,0,"RT @RIOJournal: RIO pricing now available: Affordable, flexible, sustainable
+https://t.co/88ZNPtXANn #oa https://t.co/WPQIQ55rtA"
+96,661862981299544064,Wed Nov 04 11:10:06 +0000 2015,1,0,RT @rogierK: Does anyone have experience with SPM multiple imputation package? Will I break the cluster if I try it with N=250? https://t.c…
+97,661862919307730944,Wed Nov 04 11:09:51 +0000 2015,0,0,"@rogierK @aidanhorner Haven't used toolbox, but perhaps define explicit mask from group mean normalised segs, then use that for each subj?"
+98,661549909125013504,Tue Nov 03 14:26:03 +0000 2015,3,0,"RT @neuroconscience: Granted cogneuro is 'in recession' because blobology is dead, but plenty of promising new directions from the ashes."
+99,661549845438681088,Tue Nov 03 14:25:48 +0000 2015,0,1,".@neuroconscience Reports of blobology's death have been greatly exaggerated, repeatedly, each time a new (complementary) tool is developed."
+100,661240181786324992,Mon Nov 02 17:55:19 +0000 2015,15,0,RT @rogierK: Great paper by @le_feufollet on heterogeneous neural maturation in adolescents  https://t.co/4946rcdt1N https://t.co/ozEIt71sg4
+101,661146000241926144,Mon Nov 02 11:41:04 +0000 2015,55,0,RT @AlxEtz: Understanding Bayes: Evidence vs. Conclusions - New post! https://t.co/Qwu4kfgkZz https://t.co/Ji3g9friZO
+102,661139331579555840,Mon Nov 02 11:14:34 +0000 2015,36,0,RT @russpoldrack: Weekly Resting-State fMRI from 1 person over 3.5 Years https://t.co/tJn9kN3IG3 - open data at https://t.co/ABJ0BwlvaZ
+103,661137593577418753,Mon Nov 02 11:07:40 +0000 2015,0,2,Biggest limitation of Twitter polls:
+104,661136275282526208,Mon Nov 02 11:02:26 +0000 2015,0,1,@sampendu @deborahapthorp @chrisdc77 Am I right in thinking that I can't have a poll with more than two choices? Best just get back to work.
+105,661134054184648704,Mon Nov 02 10:53:36 +0000 2015,0,0,"@RoseGWhite Yeah, they went to the trouble of creating a new account for dr Rdigway with a different email address (having ""Ridgway"" in it)"
+106,661133134424051712,Mon Nov 02 10:49:57 +0000 2015,0,1,"@sampendu @deborahapthorp @chrisdc77 So do you think it's pronounced ""Are-digway"" or ""ruh-digway""? Seems important that I should know."
+107,661130928165621760,Mon Nov 02 10:41:11 +0000 2015,0,3,"Sigh, #NeuroImage get my name wrong, after I've reviewed more than 50 submissions for them - https://t.co/hriaci9ijW https://t.co/dw8wjFGGIp"
+108,661129658046521344,Mon Nov 02 10:36:08 +0000 2015,34,0,RT @SfNtweets: Watch @NIHDirector Francis Collins speak on advances in neuroscience in his #SfN15 address: https://t.co/7fTCKhonEx https://…
+109,661125169696653312,Mon Nov 02 10:18:18 +0000 2015,1,4,Very helpful interaction using @thePeerJ's excellent feature enabling Qs on specific paras in @ChrisBaldassano's https://t.co/JFWyGBrmg3
+110,660467210780020736,Sat Oct 31 14:43:48 +0000 2015,0,0,@AlxEtz @sampendu @annemscheel Really? So why focus on posterior for params? Why not ratio of posterior to prior? ;-)
+111,660466354022141952,Sat Oct 31 14:40:24 +0000 2015,0,0,@AlxEtz @sampendu @annemscheel What cd be more Bayesian than p(thing you want to quantify belief in | things you've observed and assumed)?!
+112,660465038994644992,Sat Oct 31 14:35:10 +0000 2015,0,0,"@sampendu @AlxEtz @annemscheel Yeah, but can consider p(Mi|D), normalised by summing over chosen set of M. Arguably more Bayesian than BFs."
+113,660464244442447872,Sat Oct 31 14:32:01 +0000 2015,0,0,@AlxEtz @annemscheel Realised that just after sending. Should have stuck to joke about ten... What I was thinking of was normalised p(Mi|D)
+114,660461974640267264,Sat Oct 31 14:23:00 +0000 2015,0,0,"@AlxEtz @annemscheel Ten? How many hypotheses do you have? But seriously, why doesn't BFi suffice for i (of possibly more than 2) vs others?"
+115,660457512827777024,Sat Oct 31 14:05:16 +0000 2015,3,0,RT @rmounce: Hey @NERCscience I think technology could prevent this: https://t.co/ubrXgwnco6 Why not get everyone to draft proposals in @RI…
+116,660406295686684672,Sat Oct 31 10:41:45 +0000 2015,7,0,RT @HHillebrandt: “An R package for causal inference using Bayesian structural time-series models” https://t.co/LNsMFFxyeO
+117,660194818388307968,Fri Oct 30 20:41:25 +0000 2015,2,0,RT @Prof_Heather: So who's tried @Authorea? Game changer? So far I'm smitten
+118,660065915862720512,Fri Oct 30 12:09:12 +0000 2015,7,5,"Happy Halloween from the @FMRIB kitchen! @OxNeuro will recognise the NDCN logo. Credit: David Parker, Res. Radiogr. https://t.co/JZ375yFLKE"
+119,660064380063784960,Fri Oct 30 12:03:06 +0000 2015,1,0,RT @QS_Enterprises: Wishing everyone a happy #Halloween this weekend.  Here's a pumpkin we prepared earlier! #MRI #pumpkin https://t.co/wzQ…
+120,660033648884916224,Fri Oct 30 10:00:59 +0000 2015,0,1,"@Samfr I tried clicking ""less"" in the bottom right corner, but it's not helping..."
+121,659785167536594944,Thu Oct 29 17:33:36 +0000 2015,0,0,"@LaTeX4technics Maybe follow the categorisation in the ""Short Math Guide"" https://t.co/LfiYolhMNr (though there are too many symbols there!)"
+122,659784454630727684,Thu Oct 29 17:30:46 +0000 2015,0,0,"@LaTeX4technics Yes, just like that! Thanks for your rapid responses to my feedback, keep up the great work!"
+123,659773273207668736,Thu Oct 29 16:46:20 +0000 2015,0,0,@doi2bib Could you also strip http://dx.doi... ? (sometimes without dx)
+124,659771334831054848,Thu Oct 29 16:38:38 +0000 2015,0,0,"@doi2bib I've noticed that some recent papers work by DOI but not by PMID, e.g. https://t.co/HxRwR6Q9Tz (DOI shown there). Is this fixable?"
+125,659755257828888576,Thu Oct 29 15:34:45 +0000 2015,21,0,"RT @CrossrefOrg: Authors can have Crossref automatically push info about their published work to their ORCID profile. Learn more, https://t…"
+126,659754861081321472,Thu Oct 29 15:33:11 +0000 2015,0,0,@epentz Thanks! Great support from @CrossrefOrg
+127,659750232092188672,Thu Oct 29 15:14:47 +0000 2015,0,0,"@epentz Yes, the ""strange/unhelpful"" remark in my original tweet was aimed at JMLR not @CrossrefOrg - why don't JMLR want working DOIs?!"
+128,659749207125983232,Thu Oct 29 15:10:43 +0000 2015,0,0,@epentz E.g. https://t.co/cOsy7sOIOy could point here https://t.co/jp8Snoxtdv (all papers available from https://t.co/67tGdyDoTz).
+129,659748423478976512,Thu Oct 29 15:07:36 +0000 2015,0,0,@epentz Think there are URLs for JMLR papers. Sounded more complicated/political in reply I got from PF to this https://t.co/virkg5UBzM
+130,659740204404731904,Thu Oct 29 14:34:56 +0000 2015,0,1,"@LaTeX4technics One last thing, I'd suggest the Style tab should include the Formatting stuff from https://t.co/n5WPPZHG5x (\mathcal etc.)"
+131,659739222300037120,Thu Oct 29 14:31:02 +0000 2015,0,1,"@LaTeX4technics Interface is mostly great, but not obvious that \infty would be under Relation rather than Special (or ""Greek"" as \aleph is)"
+132,659738100600565760,Thu Oct 29 14:26:35 +0000 2015,0,1,"@LaTeX4technics Brilliant tool, thank you! But perhaps ""full latex"" mode should use article rather than minimal doc class, for tables, etc?"
+133,659707357103046656,Thu Oct 29 12:24:25 +0000 2015,0,1,"So, DOIs don't always last forever, turns out all old JMLR DOIs have been ""deleted"" - https://t.co/TFcn5I2hC3 - how strange/unhelpful."
+134,659507292400914432,Wed Oct 28 23:09:26 +0000 2015,1,0,RT @sharmanedit: NIH's new RCR metric measures influence of a paper within its field. Will be interesting to see if it takes off https://t.…
+135,658996443118727168,Tue Oct 27 13:19:30 +0000 2015,4,0,RT @sampendu: Excellent essay by Eve Marder https://t.co/ICEXSCxwVO (Cheers @katejjeffery @Tom_Hardwicke for pointing out) https://t.co/GMj…
+136,658755179865612289,Mon Oct 26 21:20:48 +0000 2015,12,0,"RT @Dee_Kay_Jay: Great postdoc pop in image analysis of MR data here in Cardiff  https://t.co/0ig753GPTt
+
+Apply by 5 November
+
+Please RT
+ 
+…"
+137,658753222530723841,Mon Oct 26 21:13:01 +0000 2015,14,0,RT @LSEImpactBlog: Was the REF a waste of time? Strong relationship between grant income and quality-related funding allocation. https://t.…
+138,658750469624483840,Mon Oct 26 21:02:05 +0000 2015,21,0,RT @LSEImpactBlog: The growing user base of Academia. edu presents new issues for the sharing and dissemination of research. https://t.co/F…
+139,658706319990501376,Mon Oct 26 18:06:39 +0000 2015,15,0,"RT @redpenblackpen: Academic Halloween costumes #inktober2015 day 15 #academia #geekhumor #reviewer3 
+http://t.co/pnCRZAw6jB http://t.co/WY…"
+140,658703192532893696,Mon Oct 26 17:54:13 +0000 2015,5,0,RT @AlxEtz: The real story here is that *only* 70% of articles in Psychology use NHST. Honestly surprised it isn't 25% higher. https://t.co…
+141,658701858115031041,Mon Oct 26 17:48:55 +0000 2015,2,0,"RT @acmedsci: If you want to see EU data regulations strike the right balance for research, sign the @datamattersEU petition: https://t.co/…"
+142,658020288953786368,Sat Oct 24 20:40:36 +0000 2015,4,1,Taming the shrewdness of neural function: methodological challenges in computational psychiatry (Dayan et al) https://t.co/AhyP7YCCvU
+143,657907047158149120,Sat Oct 24 13:10:38 +0000 2015,7,0,RT @drawscience: Really excited to announce that authors on @PeerJ can now use @drawscience to create #infographics. #scicomm http://t.co/E…
+144,657895523815444480,Sat Oct 24 12:24:50 +0000 2015,1,0,RT @mattjhodgkinson: Great thread on peer review. https://t.co/5bJ1qWhi5e
+145,657849042219741185,Sat Oct 24 09:20:08 +0000 2015,4,0,RT @sampendu: New preprint from my lab: https://t.co/DMIrKJu8lP Includes a long response to reviewers at the previous journal #OpenReviewPr…
+146,657501743996096512,Fri Oct 23 10:20:06 +0000 2015,6,0,"RT @OxNeuro: #FF @MRCBNDU Multidisciplinary Unit integrating top research in clinical, experimental &amp; computational neuroscience. https://t…"
+147,657070140966744064,Thu Oct 22 05:45:04 +0000 2015,5,0,RT @lteytelman: For all of us post-pub peer rev advocates - @dhimmel says peer review actually happens too late! Need it at design &amp; during…
+148,656889477022023684,Wed Oct 21 17:47:10 +0000 2015,34,0,RT @russpoldrack: Request for comment: @OHBM Best practices for data analysis and sharing in neuroimaging https://t.co/kP4kSG5Jot
+149,656754921530859520,Wed Oct 21 08:52:29 +0000 2015,0,0,"@relajoie I think it's correct, but not yet activated (hate it when that happens...) This should work - https://t.co/d1W7kx6V3j"
+150,656750625175248896,Wed Oct 21 08:35:25 +0000 2015,0,1,"FreeSurfer ""Mean effect sizes for edited ROIs did not differ from most unedited ROIs for either 1.5 or 3T data"" - https://t.co/Fmzk9WtAWx"
+151,656750272660770816,Wed Oct 21 08:34:01 +0000 2015,0,1,"@HannaIsotalus Thanks for sharing. By the way, have you come across this - https://t.co/hppNyiQdrM - I've found it helpful."
+152,656748920413028352,Wed Oct 21 08:28:39 +0000 2015,16,0,RT @BrianNosek: The Open Science Prize. 6 $80K awards for new products or services to prototype. Winner of those gets another $230K: https:…
+153,656454845675753472,Tue Oct 20 13:00:06 +0000 2015,8,0,RT @es_arman: Interested in longitudinal image analysis? we have a vacancy for a Postdoctrol Fellow at UCL  http://t.co/5ijjgPXdB2 please RT
+154,656454649692712960,Tue Oct 20 12:59:19 +0000 2015,7,0,"RT @nilsmuhlert: Looking for an exciting cognitive/ neuroimaging PhD with industry links? We're hiring, get in touch:  https://t.co/7O1gp0Q…"
+155,656399905133625344,Tue Oct 20 09:21:47 +0000 2015,4,0,"RT @sharmanedit: . @thePeerJ introduces APC of $695, partly because some researchers aren't allowed ongoing memberships https://t.co/TQOZ7P…"
+156,656364722980265984,Tue Oct 20 07:01:59 +0000 2015,14,0,"RT @emckiernan13: Slides from my #sfn15 talk are on @figshare: ""Sharing in science: Openness as a solution to improve reproducibility"" http…"
+157,656054553842946048,Mon Oct 19 10:29:29 +0000 2015,2,0,RT @AlxEtz: Psych people: Is @FrontPsychol considered questionable? I have a paper there and it seemed fine to me. https://t.co/uXdiHbZQWp
+158,656054304244125697,Mon Oct 19 10:28:29 +0000 2015,3,2,@AlxEtz @FrontPsychol Their review system gives good papers good review (thorough and constructive); makes rejecting bad ones too difficult.
+159,655117517539553280,Fri Oct 16 20:26:02 +0000 2015,6,0,"RT @practiCalfMRI: If you want a fair, likely accurate history of fMRI, listen to the interview of @fMRI_today by @stanfordneuro  https://t…"
+160,655107072300814336,Fri Oct 16 19:44:31 +0000 2015,0,3,"@RachaelCleaver Does this post from @lakens help? http://t.co/Pg2i590xJS
+See also this post (and commentary) http://t.co/Pk2E0YhFAK"
+161,654993913799921664,Fri Oct 16 12:14:52 +0000 2015,11,0,RT @ScienceIsVital: Nic Blockley's postcard tells @George_Osborne why *sustained* investment in research is so crucial. #scienceisvital htt…
+162,654953983950364672,Fri Oct 16 09:36:12 +0000 2015,32,0,"RT @Mike_Page: If everyone simply refused to review journal articles in which the figures are grouped at the end, we could end this nonsens…"
+163,654953952698617856,Fri Oct 16 09:36:05 +0000 2015,0,0,"@Mike_Page I can just about tolerate figures at the end, as long as each is captioned; captions only on separate page really boils my blood."
+164,654952102909902848,Fri Oct 16 09:28:44 +0000 2015,48,0,"RT @neuroconscience: In 1st of a new series, I interview @spornslab about the past &amp; future of the connectome, generative models,&amp; more! ht…"
+165,654951524351778816,Fri Oct 16 09:26:26 +0000 2015,0,0,"@woodforbrains Only for formalin-fixed post-mortem samples, I think, with T1 being used in vivo, though they don't seem to discuss choice."
+166,654610368447279104,Thu Oct 15 10:50:48 +0000 2015,1,1,A subject-specific framework for in vivo myeloarchitectonic analysis using high resolution quantitative #MRI - http://t.co/JiYqNY9Kx6
+167,654547742195322880,Thu Oct 15 06:41:57 +0000 2015,0,3,@Dick_retired @practiCalfMRI @ar0mcintosh Sounds like another vote for this - http://t.co/aWPOvJ0jKL - by Devlin &amp; @russpoldrack
+168,654312106955808768,Wed Oct 14 15:05:37 +0000 2015,0,0,@practiCalfMRI @Dick_retired @ar0mcintosh What are your thoughts on phase-encoding direction reversal approach? e.g. http://t.co/ZcfKAh1wCX
+169,654309777229651968,Wed Oct 14 14:56:22 +0000 2015,0,0,"@hormiga ""Traditional approaches to model selection, such as the best subset selection and stepwise procedures"" - https://t.co/GFV5IOdw5t"
+170,654240516092112896,Wed Oct 14 10:21:08 +0000 2015,0,2,"@HannaIsotalus Not thinking about anything (at all) is extremely difficult, but not thinking about any *specific* thing is easy."
+171,654032061062348800,Tue Oct 13 20:32:49 +0000 2015,4,0,RT @aidanhorner: Great blog post from @jpeele on starting your own lab. Although now I'm terrified!  https://t.co/H9rWsN0w2g
+172,653219525786238977,Sun Oct 11 14:44:05 +0000 2015,24,0,"RT @neuroconscience: A lovely essay on the merits of slow science, featuring the Aarhus approach to deliberate, curious innovation.  https:…"
+173,652727766400548864,Sat Oct 10 06:10:01 +0000 2015,6,0,"RT @russpoldrack: What to do with ""small data"" https://t.co/arecEe2Azw"
+174,652478598625009664,Fri Oct 09 13:39:55 +0000 2015,1,0,RT @emrobSci: Blog post on new results from the HCP https://t.co/5H8NMKDxIK
+175,652478082952089600,Fri Oct 09 13:37:52 +0000 2015,2,0,"RT @LSHTMrdm: Research by LSHTM, BioMed Central &amp; Springer Healthcare suggests open peer review can improve review quality http://t.co/6Bn3…"
+176,652476973122498560,Fri Oct 09 13:33:27 +0000 2015,13,0,RT @Publons: Publons partners with @ORCID_Org to link Publons-verified peer review activity to ORCID iDs http://t.co/OTx42INCYw
+177,652396886373060608,Fri Oct 09 08:15:13 +0000 2015,26,0,RT @ReginaNuzzo: Researchers: Which fallacies do you see/experience most? I'm betting Texas Sharpshooter. @NatureNews #science #bias http:/…
+178,651502417515806720,Tue Oct 06 21:00:55 +0000 2015,4,0,RT @ORCID_Org: Chitty Chitty Bang Bang &amp; #peerreview - unlikely but interesting combination in today's blog post by @JanneSeppanen http://t…
+179,651491520604979200,Tue Oct 06 20:17:37 +0000 2015,0,0,"@sampendu @Neuro_Skeptic @PubPeer @peeragescience Yes, I'm more convinced by merits of public review (when paper published) than signed."
+180,651490675893108736,Tue Oct 06 20:14:15 +0000 2015,0,0,"@Neuro_Skeptic @sampendu @PubPeer @peeragescience 2/2 and civility (cc @chrisdc77) like signing, but without the risks to the untenured."
+181,651490190628921344,Tue Oct 06 20:12:20 +0000 2015,0,0,@Neuro_Skeptic @sampendu @PubPeer The @peeragescience feature of reviewers rating other reviews seems helpful to me. Favours objectivity 1/2
+182,651489460354465792,Tue Oct 06 20:09:26 +0000 2015,6,0,"RT @Neuro_Skeptic: Before that ""Vigilante Science"" article, there was my ""Science Needs Vigilantes"" http://t.co/PCv356qhXJ @PubPeer"
+183,651488219754799104,Tue Oct 06 20:04:30 +0000 2015,2,0,RT @theWinnower: Vigilant Scientists.  A response to the critique Vigilante Science published earlier. http://t.co/4UfWjWQPD7 http://t.co/S…
+184,651386143729131520,Tue Oct 06 13:18:53 +0000 2015,35,0,RT @brembs: We're collecting functionalities missing from a scientist's daily workflow - what would you like to have? https://t.co/pFN3KgNE…
+185,651329175207456768,Tue Oct 06 09:32:31 +0000 2015,13,0,RT @Stephen_Curry: The Folly of Big Science Awards – an interesting perspective on the potential harms of prize-giving. http://t.co/knViaBm…
+186,651328068431282176,Tue Oct 06 09:28:07 +0000 2015,9,0,RT @SAMBa_CDT: Applications to SAMBa for 2016 are open http://t.co/ywE9jSQIr2 @MathsatBath @UniofBathSci @LondMathSoc @RoyalStatSoc http://…
+187,651320535541002240,Tue Oct 06 08:58:11 +0000 2015,11,0,RT @aidanhorner: Really useful advice on grant/fellowship applications. A must read.  https://t.co/g6w36CUIG8
+188,650216745345617920,Sat Oct 03 07:52:07 +0000 2015,0,0,"@david_colquhoun @katejjeffery @SuzeTwtr Admit bit ill-defined, but essentially ""reasonably narrow CI"". Perhaps shd have just said large n."
+189,650041601641836544,Fri Oct 02 20:16:09 +0000 2015,0,0,"@david_colquhoun @katejjeffery @SuzeTwtr Precision not power. If large novel study finds near zero ES, (posthoc) power low, but should pub."
+190,648839918773534720,Tue Sep 29 12:41:06 +0000 2015,8,6,Interesting post on how reviewers are selected by editors at @CellCellPress @CellPressNews - http://t.co/zUGu7QnlGi #peerrevwk15
+191,648835269358129152,Tue Sep 29 12:22:37 +0000 2015,1,0,RT @RSocPublishing: And has peer review changed? open peer review from @RSocPublishing's newest journal RSOS http://t.co/2wV62vdkvK | #peer…
+192,648835113107759104,Tue Sep 29 12:22:00 +0000 2015,4,0,RT @Publons: How common is review signing in *your* discipline? http://t.co/z0gkBZz4QI #peerrevwk15
+193,648554448537653248,Mon Sep 28 17:46:44 +0000 2015,19,0,RT @CameronNeylon: Coming to conclusion that I may be completely wrong on APCs. No functional market is emerging and it might be the wrong …
+194,648442839572049920,Mon Sep 28 10:23:15 +0000 2015,8,0,RT @RSocPublishing: #ProceedingsB announces trial integration with @Publons http://t.co/LCBR45kids to enable better reviewer recognition. #…
+195,648424693049987072,Mon Sep 28 09:11:08 +0000 2015,5,1,Great @BritSciAssoc blog post on Number Rumbler from @mathsontoast - five days left to support the project! http://t.co/yua0CZRM86
+196,648421828998918144,Mon Sep 28 08:59:45 +0000 2015,8,0,"RT @Impactstory: Excited that (after some delays), our project @depsy_org is launching early next month! http://t.co/1XoZ2n8wWk"
+197,647670239287771136,Sat Sep 26 07:13:12 +0000 2015,6,0,"RT @tom_hartley: To make your own #scienceisvital postcard (with picture/message, free) fill out this form: https://t.co/ba6ICwYgDB  http:/…"
+198,647670165199560704,Sat Sep 26 07:12:55 +0000 2015,8,0,RT @mggaskell: MRI machines are a needless luxury. Stack fridge magnets end to end to create a perfect alternative #scienceisvital #shoestr…
+199,647669889969299456,Sat Sep 26 07:11:49 +0000 2015,5,0,RT @neuroconscience: Who needs real data? The stuff is expensive and infamously messy. Just simulate it all in Matlab. #scienceisvital #sho…

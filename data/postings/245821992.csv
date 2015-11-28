@@ -1,0 +1,215 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668880088147062784,Mon Nov 23 19:53:34 +0000 2015,5175,0,RT @mathiasverraes: There are only two hard problems in distributed systems:  2. Exactly-once delivery 1. Guaranteed order of messages 2. E…
+1,668827952877084672,Mon Nov 23 16:26:24 +0000 2015,0,0,@mr_bmt always am ;-)
+2,667888783145238529,Sat Nov 21 02:14:29 +0000 2015,5,0,"RT @swardley: Uber, the not so disrupting disruptor? - https://t.co/NlBjpKOyH2"
+3,667831477497794560,Fri Nov 20 22:26:46 +0000 2015,11,0,"RT @dsyme: MBrace for AWS is work in progress by @theburningmonk. Getting quite close, contribute here:  https://t.co/PjHyPwJpTc"
+4,667811247560069121,Fri Nov 20 21:06:23 +0000 2015,0,1,@seantrelford added score to the demo as requested :-) cc/ @ptrelford https://t.co/QoMTkQ2S9e
+5,667363095166263296,Thu Nov 19 15:25:35 +0000 2015,187,0,"RT @czaplic: .@elmlang 0.16 out today! Dramatically improved error messages again, so Elm just got even easier and more fun! https://t.co/k…"
+6,667359316131880960,Thu Nov 19 15:10:34 +0000 2015,0,0,@brandewinder @robertpi @mwolicki shall we meet in lobby at 6pm instead? so we can go with Phil and Rachel (in our own car)
+7,667341185229434881,Thu Nov 19 13:58:31 +0000 2015,1,1,"@seantrelford, @brandewinder and @beyond_code enjoying an intense game of fussball! #BuildStuffLT https://t.co/FSel1X7woj"
+8,667315932407074818,Thu Nov 19 12:18:11 +0000 2015,20,0,"RT @rhwy: Don't try to enforce design, restructure organization @dylanbeattie #BuildStuffLT https://t.co/wt1xCRAhq8"
+9,667250608781553664,Thu Nov 19 07:58:36 +0000 2015,9,0,"RT @KevlinHenney: Quick summary of architectural aspects of @conways_law #BuildStuffLT keynote: Pub/Sub, Rx, Dataflow, Pipes and Filters, I…"
+10,666962411400884224,Wed Nov 18 12:53:25 +0000 2015,0,1,"@BuildStuffLT @laribee @ICooper @ongardie @ptrelford I'm en route from the airport, might be late by a few mins, apologies in advance."
+11,666894335368110080,Wed Nov 18 08:22:54 +0000 2015,0,0,@beyond_code dunno :-P we just crashed at the first set of free seats we saw!
+12,666892817474691072,Wed Nov 18 08:16:52 +0000 2015,0,0,@beyond_code we're sitting by gate 9
+13,666859820750929920,Wed Nov 18 06:05:45 +0000 2015,0,1,@beyond_code you need to pick up your bag at the left luggages place when you get here and check in again for the replacement flight
+14,666819376918757383,Wed Nov 18 03:25:03 +0000 2015,219,0,RT @Picswithastory: Sounds like a good system! https://t.co/GnLsxto7B4
+15,666811459364642816,Wed Nov 18 02:53:35 +0000 2015,6,0,RT @rickasaurus: The compose CFP is up. Submit your #fsharp talks! https://t.co/0tLRa62I8v
+16,666732859277885440,Tue Nov 17 21:41:15 +0000 2015,0,0,"@jen20 @rickasaurus then the maintenance crew's computer is also broken, and they can't find the menu for the maintenance work"
+17,666727315003613184,Tue Nov 17 21:19:13 +0000 2015,1,0,@BuildStuffLT unfortunately the 1955 flight from London has been delayed till tomorrow morning 10am GMT so quite a few of us will be late..
+18,666712271008178178,Tue Nov 17 20:19:26 +0000 2015,13,0,"RT @giltene: .@toddlmontgomery on the universal scalability law:
+""Amdahl was an optimist""
+#qconsf https://t.co/5Onks4cTYC"
+19,666544924834295808,Tue Nov 17 09:14:28 +0000 2015,0,2,"@clementd @chadfowler hard balance to strike though, esp with requirements shifting beneath you all the time"
+20,666544562287046656,Tue Nov 17 09:13:02 +0000 2015,0,0,"@clementd @chadfowler ah yes, of course, there's that too! https://t.co/Ho5A8bgVZi"
+21,666527974427115520,Tue Nov 17 08:07:07 +0000 2015,2239,0,"RT @chadfowler: The older I get, the more I realize the biggest problem to solve in tech is to get people to stop making things harder than…"
+22,666288400488669184,Mon Nov 16 16:15:08 +0000 2015,2,5,Excited to have joined @justeat_tech! https://t.co/fjmuqQy3bB
+23,666288057788841984,Mon Nov 16 16:13:46 +0000 2015,2,0,"RT @LambdaDays: Learn about ""Taming Cloud Complexity with #Fsharp DSLs"" from @theburningmonk at 2016 #LambdaDays https://t.co/nF2qBjwvMd #O…"
+24,666046538221752320,Mon Nov 16 00:14:03 +0000 2015,0,0,"@marcgravell will do, much appreciated"
+25,666045257046433792,Mon Nov 16 00:08:58 +0000 2015,0,0,@marcgravell thanks! will take a look tomorrow and merge the PR
+26,665912449418285056,Sun Nov 15 15:21:14 +0000 2015,83,0,RT @gregyoung: it being the TW radar is out today. @bodil had some good advice. https://t.co/lEaivsVLPP
+27,665661768409198592,Sat Nov 14 22:45:07 +0000 2015,10,0,RT @swardley: Alibaba’s Singles’ Day shopping total was bigger than Facebook’s revenue last year - $14.3Bn - https://t.co/wgCM28TKuk
+28,665230198955225088,Fri Nov 13 18:10:13 +0000 2015,0,0,"@monkeyrunner that's Simon Wardley @swardley, check out his talks on YouTube &amp; his blog https://t.co/CcyHjDFNlB lots of great stuff there"
+29,665129382999142400,Fri Nov 13 11:29:37 +0000 2015,0,0,"@eugbaranov sure, it's https://t.co/CURcnNt4fJ also have a look at https://t.co/ycBqntxXsu and Simon's blog https://t.co/CcyHjDFNlB"
+30,665099110085754880,Fri Nov 13 09:29:19 +0000 2015,0,0,"@colinbul good one, cheers ;-)"
+31,665098799820443648,Fri Nov 13 09:28:05 +0000 2015,0,0,@TomasJansson congrats! :-)
+32,665081426044395521,Fri Nov 13 08:19:03 +0000 2015,0,1,@TomasJansson thanks :-) doing this talk at BuildStuff and NDC London if you happen to be there
+33,664959496628883456,Fri Nov 13 00:14:33 +0000 2015,34,51,"here's slides for my ""7 ineffective coding habits many F# programmers don't have"" talk tonight https://t.co/afNQqx7loN #fsharp #skillsmatter"
+34,664958689217019904,Fri Nov 13 00:11:20 +0000 2015,0,1,@martin_stolz here it is : https://t.co/afNQqx7loN
+35,664936418632982528,Thu Nov 12 22:42:50 +0000 2015,9,0,"RT @evelgab: Some inspiration on naming types from @theburningmonk  &lt;Factory,FactoryFactory&lt;Factory&gt;&gt; #factory https://t.co/r99sqReY67"
+36,664936401641857024,Thu Nov 12 22:42:46 +0000 2015,4,0,"RT @tomaspetricek: ""Not only you're wearing your underwear on the outside, but you also allow others to change it."" @theburningmonk really …"
+37,664723617331200000,Thu Nov 12 08:37:14 +0000 2015,1897,0,"RT @garybernhardt: 1993: WWW.
+2004 (11 years later): Web 2.0.
+2015 (11 years later): we wrote everything in javascript and literally nothin…"
+38,664523434366476288,Wed Nov 11 19:21:47 +0000 2015,46,0,"RT @brendandburns: Proud of what the Kubernetes community has achieved with k8s 1.1:
+
+Autoscaling, HTTP Load Balancing, Jobs and more
+
+http…"
+39,664522925995855876,Wed Nov 11 19:19:46 +0000 2015,3747,0,"RT @SoVeryBritish: ""Not bad"" - Fine
+""Not too bad"" - Pretty good 
+""Not too bad at all"" - Best thing ever"
+40,664446047402524672,Wed Nov 11 14:14:17 +0000 2015,5,0,RT @ptrelford: Don't miss @theburningmonk on 7 ineffective coding habits at #skillsmatter tomorrow night https://t.co/JqgMdTYbQZ #fsharp #l…
+41,664366666663518208,Wed Nov 11 08:58:51 +0000 2015,9,0,"RT @doppioslash: I'll be speaking about #elmlang's TTD for games at #Codemotion in lovely Milan, on the 20th of November https://t.co/z7sSP…"
+42,664356722182651904,Wed Nov 11 08:19:20 +0000 2015,0,0,"@amitaibu sure, do you want me to create an issue for that on the planet-elm repo?"
+43,663788869440114688,Mon Nov 09 18:42:53 +0000 2015,0,1,@ReidNEvans @codemash Thanks :-) will try again next year!
+44,663760365910667264,Mon Nov 09 16:49:37 +0000 2015,0,0,@ReidNEvans @codemash unfortunately I had to pull out due to starting a new job and the time commitment doesn't quite work :-(
+45,662300361420619776,Thu Nov 05 16:08:05 +0000 2015,2,7,Exercises in Programming Style in F# – Kick Forward (aka continuation-passing style or CPS) https://t.co/xBLCgXvjmZ #fsharp
+46,661574578955788288,Tue Nov 03 16:04:05 +0000 2015,5,5,Exercises in Programming Style in F# – Infinite Mirror (aka recursions) https://t.co/AurS5RL3xP #fsharp
+47,660407236569595905,Sat Oct 31 10:45:29 +0000 2015,17,0,RT @thoughtworks: Should testers be technical? Read on for ThoughtWorker viewpoints put together by @putaoyang https://t.co/m1T5Cw17S6 http…
+48,660038074768969728,Fri Oct 30 10:18:34 +0000 2015,10,0,RT @alios: We should keep back in mind what the connectivity situation for the majority of the world is #VelocityConf https://t.co/3HI2TQHy…
+49,660038018435272704,Fri Oct 30 10:18:21 +0000 2015,5,0,"RT @velocityconf: Facebook has 2G Tuesdays, but what can you do to be more aware of slow networks? @Souders #VelocityConf https://t.co/3ztQ…"
+50,660009027418591233,Fri Oct 30 08:23:09 +0000 2015,18,0,RT @sergey_tihon: Bloggers wanted (many new slots): F# Advent Calendar in English 2015 #fsharp #FsAdvent https://t.co/rIIzaZePIF
+51,659765152007462912,Thu Oct 29 16:14:04 +0000 2015,4,11,Exercises in Programming Style in F# – Code Golf (aka APL stlyle) https://t.co/ApZ8mezxgu #fsharp
+52,659757121563701248,Thu Oct 29 15:42:10 +0000 2015,0,4,@silverSpoon prepare to have your mind blown https://t.co/fotNgN9c0m
+53,659700423381663744,Thu Oct 29 11:56:52 +0000 2015,4,0,RT @silverSpoon: I'll be speaking at Ireland Girl Geek Dinners about the history of computing :)  https://t.co/zDU1Gddqr4
+54,659361036546547712,Wed Oct 28 13:28:16 +0000 2015,0,0,@r4vi thanks! :-)
+55,659293708685307904,Wed Oct 28 09:00:43 +0000 2015,0,0,@dylanvdmerwe have a look at a previous recoding of this talk https://t.co/VNcOMATMYV his point was let's make passwords less painful
+56,659292568161800192,Wed Oct 28 08:56:11 +0000 2015,0,0,"@FoxBarnes it's behind a paywall, but found a previous recording of the talk  https://t.co/VNcOMATMYV"
+57,659152017584234500,Tue Oct 27 23:37:42 +0000 2015,5,5,Here are the slides for my #neo4j talk at #OSCON today https://t.co/Wk2r9nd5di
+58,659021398816485377,Tue Oct 27 14:58:40 +0000 2015,0,0,"@twreadertw sure, previous recording https://t.co/DeOGffC3KX and write up https://t.co/av4Th7h3M3"
+59,658985268930871296,Tue Oct 27 12:35:06 +0000 2015,0,1,Interested in Graph DBs? Come to my talk at 14:35 in G001+G002 to see real world use case for #Neo4j to model a game economy #oscon
+60,658951472453939200,Tue Oct 27 10:20:48 +0000 2015,24,9,45% rather leave than reset their password #oscon https://t.co/RsmHYUDEcx
+61,658948452223733760,Tue Oct 27 10:08:48 +0000 2015,0,0,"10% of users use ""password"", ""123456"" or ""12345678"" as password... #security #oscon"
+62,658936269322502144,Tue Oct 27 09:20:23 +0000 2015,0,0,"@British_Airways your online checkin is broken in Chrome, after choosing no. of bags the permissions section doesn't show and can't continue"
+63,658678290538995712,Mon Oct 26 16:15:16 +0000 2015,2,3,Elm – fun with L-System Part 7 - Fractal Plant https://t.co/z4HKqVOC6U #elmlang https://t.co/niUd3jleeq
+64,658648781408309248,Mon Oct 26 14:18:01 +0000 2015,16,0,"RT @simonstl: ""not all important things done with software have to make money."" @samaaron at #OSCON."
+65,658643372169691136,Mon Oct 26 13:56:31 +0000 2015,0,0,"@nieveg @simonbrown not sure about ""rule them all"", but not have ppl use same words to mean different things will be a good start"
+66,658635881000095744,Mon Oct 26 13:26:45 +0000 2015,0,4,"What if we charge postage for email? Refunded only if email is useful, great idea by Douglas Crockford! #oscon"
+67,658628268908744704,Mon Oct 26 12:56:30 +0000 2015,2,4,The DOM is probably the most awful API ever designed - Douglas Crockford at #oscon
+68,658627823754678273,Mon Oct 26 12:54:44 +0000 2015,34,0,"RT @Cynede: Your new favorite .NET language
+#idris ;)
+https://t.co/MXZNkcifFj #mono"
+69,658626580877570048,Mon Oct 26 12:49:48 +0000 2015,17,13,The web was not designed to be secure - Douglas Crockford at #oscon https://t.co/gtkPteIQeL
+70,658603396837064704,Mon Oct 26 11:17:40 +0000 2015,2,3,Chaos vs Outage #oscon https://t.co/OluO2IoleB
+71,658589870152142849,Mon Oct 26 10:23:55 +0000 2015,0,0,@Carstsu7John it works on Windows and Mac as well https://t.co/rxFsJwPQS8
+72,658586275843305472,Mon Oct 26 10:09:38 +0000 2015,1,0,"""A common set of abstractions is more important than a common notation"" - @simonbrown #OSCON"
+73,658585865137037312,Mon Oct 26 10:08:00 +0000 2015,10,6,"""As an industry, we lack a common vocabulary with which to think with"" - @simonbrown #oscon https://t.co/d64PjyXihW"
+74,658575086644011008,Mon Oct 26 09:25:11 +0000 2015,0,1,Impressive live music coding by @samaaron at #oscon!! https://t.co/QBC0sZ02qi
+75,658573525696040961,Mon Oct 26 09:18:58 +0000 2015,0,0,"@samaaron demoing his new project - SonicPi at #oscon ""it's a strongly timed language""! https://t.co/1JpzYF0J0z"
+76,658571804374618112,Mon Oct 26 09:12:08 +0000 2015,3,0,"RT @swardley: Listening to @webmink at OSCON - brilliant as always, explaining the differences between trade associations vs public benefit…"
+77,658570261135011840,Mon Oct 26 09:06:00 +0000 2015,0,2,Signs of a good open source foundation by @webmink #oscon https://t.co/Ei2XT53F61
+78,658569156397244420,Mon Oct 26 09:01:37 +0000 2015,1,3,"""A copy left licence is generally a good thing, you need to protect your open source project when the corporations come"" - @webmink #oscon"
+79,658568223634399232,Mon Oct 26 08:57:54 +0000 2015,0,0,The key roles of an open source foundation - @webmink #oscon https://t.co/K6ur6Eew4F
+80,658567090597699584,Mon Oct 26 08:53:24 +0000 2015,21,0,RT @ploeh: Blogged: Service Locator violates encapsulation https://t.co/0z4yuCh4vg
+81,658567011497324545,Mon Oct 26 08:53:05 +0000 2015,0,1,"""Never rely on sources you don't trust"" - Niles Magnum on docker security #oscon"
+82,658566535150202880,Mon Oct 26 08:51:12 +0000 2015,1,1,Threats to docker security #oscon https://t.co/djYG7ot2vK
+83,658564834481577984,Mon Oct 26 08:44:26 +0000 2015,0,0,"""Trust, but verify"" - Nike's Magnum (on docker security) #oscon"
+84,658564385640726528,Mon Oct 26 08:42:39 +0000 2015,1,0,"""53% of decision makers have concerns about security"" - Niles Magnum #oscon https://t.co/BnYIKZ5lTO"
+85,658563631475486720,Mon Oct 26 08:39:39 +0000 2015,11,0,RT @oscon: Announced by Douglas Crockford at #OSCON Amsterdam: https://t.co/5JUyYeONad
+86,658563545492254720,Mon Oct 26 08:39:19 +0000 2015,9,8,"""Only a minimum approach can lead to secure software, eventually"" - Douglas Crockford #oscon https://t.co/ssBXK4ASkw"
+87,658562092497293312,Mon Oct 26 08:33:33 +0000 2015,2,3,"""Standards can only increase the complexity of the web"" - Douglas Crockford #oscon https://t.co/nsJvypcGZg"
+88,658560300082470912,Mon Oct 26 08:26:25 +0000 2015,0,0,"""Focus on testability and evolvability of your architecture"" #OSCON https://t.co/77AJUH2FAb"
+89,658402932233252864,Sun Oct 25 22:01:06 +0000 2015,0,1,"@sergey_tihon love to get involved again this year, can I take the 16th?"
+90,658317619213312000,Sun Oct 25 16:22:06 +0000 2015,27,0,RT @tomaspetricek: #fsharp deep dives book is deal of the day today! Use code dotd102515au to get half off: https://t.co/AdVVswzeGH
+91,658043884539400192,Sat Oct 24 22:14:22 +0000 2015,0,0,"@silverSpoon @praeclarum no, don't see any errors in the console"
+92,658038940990074880,Sat Oct 24 21:54:43 +0000 2015,0,0,@silverSpoon @praeclarum just tried it on my MBP and it worked fine for me in Safari
+93,658037725312995328,Sat Oct 24 21:49:54 +0000 2015,0,0,@alfonsogcnunez thank you! glad you enjoyed that talk!
+94,658036435916881920,Sat Oct 24 21:44:46 +0000 2015,11,12,"Here's slides for my ""F# in the Real World"" talk at #LambdaWorld https://t.co/apt4xXgEEc #fsharp"
+95,657211623531261952,Thu Oct 22 15:07:16 +0000 2015,1,2,Elm – fun with L-System Part 6 - Dragon Curve https://t.co/hUeDD2nW9M #elmlang https://t.co/ygdOsKarzr
+96,656860287702814720,Wed Oct 21 15:51:11 +0000 2015,2,0,"RT @oscon: #OSCON in Amsterdam presents ""Modelling complex game economy with Neo4j"" by @theburningmonk on 27 Oct http://t.co/DdevUSj3ZB"
+97,656860247668170752,Wed Oct 21 15:51:01 +0000 2015,7,0,RT @LukSchoofs: Nice example by @theburningmonk on modeling complex game economy with #Neo4j and #Cypher. http://t.co/RzsiAhP8BW
+98,656860214302519296,Wed Oct 21 15:50:53 +0000 2015,5,0,RT @LambdaDays: Co-author of “#Fsharp Deep Dives” @theburningmonk  joins #LambdaDays speaker lineup http://t.co/nF2qBjwvMd http://t.co/D2Uh…
+99,656125428533493760,Mon Oct 19 15:11:07 +0000 2015,1,1,Elm – fun with L-System Part 5 - Sierpinski Triangles http://t.co/hwdJzVnb0E #elmlang http://t.co/xhHF6LkTEe
+100,654817660874547201,Fri Oct 16 00:34:30 +0000 2015,27,0,"RT @ScottWlaschin: Slides and video from my ""monadster"" talk at #leetspeak now available via http://t.co/XWJlNw0R86"
+101,654674844357779456,Thu Oct 15 15:07:00 +0000 2015,0,2,Elm – fun with L-System Part 4 - Koch Curve http://t.co/jDBOOqKOeM #elmlang http://t.co/xaNYiQBAvF
+102,654642874882125824,Thu Oct 15 12:59:58 +0000 2015,4076,0,RT @joshsusser: Circle of Death http://t.co/zH31t6JaBm
+103,654373319119118336,Wed Oct 14 19:08:51 +0000 2015,32,0,RT @ryguyrg: Graph your Twitter activity in Neo4j!  My fun project is now live: http://t.co/AzUyaIsuP0   No download - you get a Neo4j dock…
+104,654339157989437440,Wed Oct 14 16:53:06 +0000 2015,18,0,RT @rustlang: The Little Book of Rust Macros  https://t.co/bmSbq8rgtD
+105,654016389662044160,Tue Oct 13 19:30:32 +0000 2015,12,20,"Slides for my ""F# in the Real World"" talk at LDN Functionals tonight http://t.co/AwbKqBgL3z #fsharp /cc @FunctionalWorks"
+106,653951218675544065,Tue Oct 13 15:11:35 +0000 2015,0,0,"@silverSpoon @MissMcKeowns awesome, thanks! :-D"
+107,653836873849274368,Tue Oct 13 07:37:13 +0000 2015,9,0,"RT @cmr0n: How to get started with #docker on @googlecloud, then try building #fsharp for #coreclr on it. http://t.co/BreD2RXt6H"
+108,653686597431508992,Mon Oct 12 21:40:04 +0000 2015,0,0,@silverSpoon you're welcome :-D got a link to the coursera course?
+109,653599816052797441,Mon Oct 12 15:55:14 +0000 2015,0,0,"@silverSpoon it sounds very interesting, and useful not just for programmers, have to add it to my reading list :-)"
+110,653588804398379008,Mon Oct 12 15:11:28 +0000 2015,0,1,Elm – fun with L-System Part 3 - Cantor Dust http://t.co/6YZBpzGgbQ #elmlang http://t.co/PZbIIkEDVt
+111,653527892111044608,Mon Oct 12 11:09:26 +0000 2015,6,19,"Effective learning strategies for programmers
+http://t.co/PnpWlqGoQg"
+112,653284706415443968,Sun Oct 11 19:03:06 +0000 2015,2,3,Upcoming speaking engagements http://t.co/ycSQzki0fR hope to see you guys at some of these events!
+113,653036362170503168,Sun Oct 11 02:36:16 +0000 2015,0,3,"@forloop @dsyme @mbracethecloud yup, SNS + SQS for pub/sub, DynamoDB for table, S3 for blob storage"
+114,652199085936656385,Thu Oct 08 19:09:14 +0000 2015,4,10,Recording of my O'Reilly webcast on Elm is now online http://t.co/NOWuIccyXV #elmlang
+115,652139169569894402,Thu Oct 08 15:11:08 +0000 2015,1,4,#ElmLang – fun with Pythagoras Tree http://t.co/jumy1rgrFo demo http://t.co/24IQ7vwJ8k use Lf &amp; Rt arrows to ctrl http://t.co/JVpGVrwzIf
+116,651866310385750016,Wed Oct 07 21:06:54 +0000 2015,5,0,RT @skillsmatter: Just announced: Join #functional londoners with @theburningmonk on #coding habits (Nov 12) http://t.co/9svmU6xydp http://…
+117,651415228484296704,Tue Oct 06 15:14:27 +0000 2015,5,7,"I'm talking about ""F# in the real world"" at the next LDN Functionals http://t.co/IHlanZiWcz hope to c u there! #fsharp cc/ @Functionalworks"
+118,651379231356796928,Tue Oct 06 12:51:25 +0000 2015,0,3,Dragon curve L-System in #elmlang https://t.co/wjlONOXgxD live demo : http://t.co/V6sNyI0Y8U use LEFT and RIGHT arrows to evolve/devolve
+119,651100334224482304,Mon Oct 05 18:23:11 +0000 2015,0,1,@marcussanatan thank you :-)
+120,651099366384619524,Mon Oct 05 18:19:20 +0000 2015,0,1,@ivanoats thank you :-) glad you enjoyed it!
+121,651099253406867456,Mon Oct 05 18:18:53 +0000 2015,0,1,"@stefanbache @ptrelford yeah, it was recorded and will be available in couple of days I believe"
+122,651078968712540161,Mon Oct 05 16:58:17 +0000 2015,2,1,My webcast on #elmlang is starting in 2 mins :-) http://t.co/ub0ORsrfc2
+123,651058571824791552,Mon Oct 05 15:37:14 +0000 2015,5,2,Elm – fun with L-System (Part 1) http://t.co/Vi8ay3MWkK #elmlang
+124,650764620098072576,Sun Oct 04 20:09:10 +0000 2015,23,0,"RT @sforkmann: #FsLint integration in @FSPowerTools vNext is amazing. Now I'd love to have a ""yep do that"" button ;-) #fsharp http://t.co/s…"
+125,650419273878380545,Sat Oct 03 21:16:53 +0000 2015,0,0,"@mschinz thanks, I'll check that out"
+126,650419166638436353,Sat Oct 03 21:16:28 +0000 2015,0,0,"@mgilbir thanks, I'm leaning towards TLA+ for the same reason, hopefully can squeeze in Elixir too!"
+127,650418851201597440,Sat Oct 03 21:15:12 +0000 2015,0,0,@richorama entertained the idea before but still quite a lot I want to learn and absorb first
+128,650274796589219840,Sat Oct 03 11:42:47 +0000 2015,1,0,"RT @ICooper: Look for systemic errors, not scapegoats  http://t.co/ThnKklGXyn"
+129,649969834583834624,Fri Oct 02 15:30:59 +0000 2015,0,1,"Got a month of free time on my hands, considering what to learn - Elixir, Julia, TLA+, any suggestions?"
+130,649947065179619328,Fri Oct 02 14:00:30 +0000 2015,1,1,"My @elmlang webcast is back on, it's now happening on Monday 5th Oct, at 10am PT http://t.co/ub0ORsrfc2 hope to see you there! #elmlang"
+131,649862896030236672,Fri Oct 02 08:26:02 +0000 2015,4,0,RT @clementd: Dependent types for low-level programming http://t.co/kh9ON3Fkxs could be a nice addition to rust projects embedding unsafe C…
+132,649517164219736064,Thu Oct 01 09:32:14 +0000 2015,0,0,"@tomnewton @mr_bmt security + missing support for app management - CPU/memory limiting, etc. + more complexity + still an immature tech"
+133,649501050068729856,Thu Oct 01 08:28:12 +0000 2015,13,0,"RT @hintjens: @jessitron everything is discovered. ""Invention"" is a lie we use to feel better about infinity."
+134,649222030362066944,Wed Sep 30 13:59:28 +0000 2015,64,0,RT @ErlangCentral: Understanding Erlang Garbage Collection Details and Why It Matters https://t.co/Wm5nHfgIRG #Erlang http://t.co/sTXEhVdke8
+135,649221616401018880,Wed Sep 30 13:57:49 +0000 2015,3,7,Finally a talk on why you SHOULDN'T use docker! Been a one sided discussion so far #codetalkshh http://t.co/NnB8IY6ZOX
+136,648960248233988096,Tue Sep 29 20:39:14 +0000 2015,0,0,"@jna_sh still got Lambda World, OSCON, Oredev and BuildStuff before end of year, you going to any of these?"
+137,648932395689885698,Tue Sep 29 18:48:34 +0000 2015,0,0,"@jna_sh thanks! that's a pity, was hoping to catch up with you over dinner, next time!"
+138,648888423340752896,Tue Sep 29 15:53:50 +0000 2015,0,0,@jna_sh you heading to the speaker dinner?
+139,648879195192434688,Tue Sep 29 15:17:10 +0000 2015,3,5,Exercises in Programming Style in F# – Pipeline (aka functional programming) http://t.co/tpI3Rqhsuf #fsharp
+140,648872881569550336,Tue Sep 29 14:52:05 +0000 2015,2,0,"RT @danielbryantuk: Interesting news from @mesosphere and @Azure -&gt; ""Mesos Powers the Microsoft Azure Container Service"" http://t.co/jUZOhe…"
+141,648861814869110784,Tue Sep 29 14:08:06 +0000 2015,0,1,@digitalBush @pblasucci not sure if this one helps? http://t.co/1TUakjiunq
+142,648851174020546561,Tue Sep 29 13:25:49 +0000 2015,0,1,Good talk on how bootstrapping encourages creatively at #codetalkshh http://t.co/zaggt6IBlo
+143,648831184198369280,Tue Sep 29 12:06:23 +0000 2015,6,8,"Here is slides for my ""Tour of Language Landscape"" talk at code.talks http://t.co/bFYFIeRFrZ #codetalkshh #fsharp #clojure #elmlang #golang"
+144,648799404372135936,Tue Sep 29 10:00:06 +0000 2015,4,8,"Come learn about F#, Go, Rust, Idris, Clojure and Elm in my talk ""Tour of Language Landscape"" in room 6 at 1pm #codetalkshh"
+145,648784500319756288,Tue Sep 29 09:00:53 +0000 2015,0,1,The stage is set for the 2nd keynote of the day at code.talks #codetalkshh http://t.co/0aqukZeiZ6
+146,648612227524755456,Mon Sep 28 21:36:20 +0000 2015,19,0,"RT @LambdaDays: Hi #Scala, #Erlang, #Fsharp, #Haskell and #Elixir people! #LambdaDays is back! Why not submit an abstract? http://t.co/7aGJ…"
+147,648588113028214784,Mon Sep 28 20:00:30 +0000 2015,0,1,"@DOTNETHH thank you guys for having me tonight, was great fun talking to you all and really enjoyed your company!"
+148,648481235753390080,Mon Sep 28 12:55:49 +0000 2015,0,1,"@Kjellski no worries, doing the same talk at @Lambda_World in a month's time"
+149,648455373620383744,Mon Sep 28 11:13:03 +0000 2015,5,5,"I'm talking to Hamburg .Net user group tonight about ""F# in the Real World"", hope to see you there! http://t.co/RB0Gg5SNJP #fsharp"
+150,648411417851338752,Mon Sep 28 08:18:23 +0000 2015,5,0,RT @DOTNETHH: Reminder: Today we meet! http://t.co/gGNm5yHSr1 @theburningmonk
+151,648169563843076096,Sun Sep 27 16:17:21 +0000 2015,0,0,"@TomasJansson @yukitos not this time around, hopefully next time (doing similar talk a couple more times in next few weeks)"
+152,647892545121484801,Sat Sep 26 21:56:34 +0000 2015,11,19,"Slides for my ""F# in the Real World"" talk at DDD EA today is up http://t.co/apt4xXgEEc #dddea #fsharp"
+153,647778762940121088,Sat Sep 26 14:24:26 +0000 2015,0,0,"@uzochiapa ""the book of F#"" is pretty good for getting started"
+154,647775196678590464,Sat Sep 26 14:10:16 +0000 2015,1,1,Come to Room 2 to learn about F#'s pattern matching and active pattern features for great good! #fsharp #dddea
+155,647757882042261504,Sat Sep 26 13:01:28 +0000 2015,0,0,"@Jan_Krogh bad internet connection, will upload slides later"
+156,647753788154097664,Sat Sep 26 12:45:12 +0000 2015,0,0,Come to Room 2 to learn how to make games in F#! #fsharp #dddea
+157,647721071492337665,Sat Sep 26 10:35:12 +0000 2015,1,1,Come to Room 2 to see how Gamesys is using F# to build scalable backend systems that supports 1 Million daily active users! #fsharp #dddea
+158,647700944537427968,Sat Sep 26 09:15:13 +0000 2015,1,2,Come to Room 2 to learn from F# leader Phil Trelford and see how you can write your own compilers in F# in 24 hours! #fsharp #dddea
+159,647683368512028672,Sat Sep 26 08:05:23 +0000 2015,0,2,"Come to Room 2 to learn about actor model, and building reactive applications using Akka .net and F#! #fsharp #dddea"
+160,647682166239985664,Sat Sep 26 08:00:36 +0000 2015,1,4,"A lot of F# talks at #dddea today, come camp out in Room 2 to learn about many real world uses for F# http://t.co/p7TdnhxlJk #fsharp"
+161,647589154537218048,Sat Sep 26 01:51:00 +0000 2015,0,0,@richardadalton at 3am? wow that's tough..
+162,647330917602709504,Fri Sep 25 08:44:52 +0000 2015,10,0,"RT @c4fsharp: New Microsoft project Prajna for ""interactive big data analytics"" is written in #fsharp! http://t.co/vpiJko6PZ2"
+163,646982264627306496,Thu Sep 24 09:39:26 +0000 2015,2,0,"RT @adron: Write a Compiler in 24hrs (ASTS, w/ FParsec &amp; compiling IL) with Phil Trelford http://t.co/XF99cxDCE8"
+164,646339968583995392,Tue Sep 22 15:07:11 +0000 2015,6,8,Exercises in Programming Style in F# – Cookbook (aka procedural) http://t.co/c7eywjl3lZ #fsharp
+165,646100565609578497,Mon Sep 21 23:15:53 +0000 2015,4,2,5 Lessons and 8 Industry Changes Over 5 Years as Etsy CTO http://t.co/EcCQvc6gj3
+166,645725795785285632,Sun Sep 20 22:26:41 +0000 2015,0,1,"@Jorge__Galindo @Lambda_World thanks, replied earlier and looking forward to the conference!"
+167,645239848027205632,Sat Sep 19 14:15:42 +0000 2015,0,0,@larsw @silverSpoon of the Kevin kind? :-P
+168,645223603672350720,Sat Sep 19 13:11:09 +0000 2015,0,6,"best LinkedIn endorsement I have received, thanks @silverSpoon! http://t.co/bP4svGUjjo"
+169,644533038689439744,Thu Sep 17 15:27:05 +0000 2015,3,10,Exercises in Programming Style in F# – Monolith http://t.co/9FsOwte4nP #fsharp
+170,644499860083875840,Thu Sep 17 13:15:15 +0000 2015,0,0,@dustinmoris also heard good things about this one (but I haven't read myself) http://t.co/NO59u5M4sb http://t.co/U9HR9NHyyZ
+171,644499161958772736,Thu Sep 17 13:12:29 +0000 2015,0,0,@dustinmoris this is the .Net performance book I mentioned http://t.co/9JvblsZSkt http://t.co/ebnUarsHd3
+172,644475134737297408,Thu Sep 17 11:37:00 +0000 2015,0,0,There's still time to win a free ticket to OSCON Amsterdam! http://t.co/GE0GRN2kTC  #oscon http://t.co/hFaPjGzXRe
+173,644067459683745792,Wed Sep 16 08:37:03 +0000 2015,11,0,"RT @danielbryantuk: ""Everyone wants to be faster, cheaper and safer in software delivery... Or agile, lean and rugged in buzzword terms"" @a…"
+174,644066964848160768,Wed Sep 16 08:35:05 +0000 2015,16,0,RT @Felienne: A shorter version of my #katsconf talk (with detailed explanations) is available at @SlideShare http://t.co/4A4MCIfElP
+175,643823612357705728,Tue Sep 15 16:28:05 +0000 2015,0,2,"Sorry everyone, the #elm webcast http://t.co/XJKP516IWS has to be rescheduled due to scheduling conflict, will update when I know new date"
+176,643803569834041344,Tue Sep 15 15:08:26 +0000 2015,0,1,"@chrisleague yeah you will be able to view it afterwards, but I've been told it's being rescheduled"
+177,643749516055855104,Tue Sep 15 11:33:39 +0000 2015,0,2,@hyc_symas @Felienne @silverSpoon I had a slide for that too :-D http://t.co/uM07b9r8fS
+178,643451238269513728,Mon Sep 14 15:48:24 +0000 2015,4,5,I'm doing a webcast on #Elm tomorrow http://t.co/UCPDxl0GzN and there's still time to win a free ticket to #OSCON! http://t.co/lEroS0qWcQ
+179,643384212024913921,Mon Sep 14 11:22:04 +0000 2015,0,0,"@edwinbrady hey, this is TLA+ I was telling you about the other night http://t.co/U5yQjPdsYi and AWS case study http://t.co/v4IpYhZBkx"
+180,643171060725190656,Sun Sep 13 21:15:05 +0000 2015,4,0,RT @hyc_symas: @Felienne @theburningmonk @silverSpoon and why George Orwell focused on Newspeak in 1984 - limiting language limits thinking.
+181,643003553225789440,Sun Sep 13 10:09:28 +0000 2015,0,0,"@stathissideris @Functionalworks not this time around, but it was recorded at NDC https://t.co/IH1Z4yy9tB"
+182,642869127502241792,Sun Sep 13 01:15:18 +0000 2015,0,0,@micktwomey hello!
+183,642754668335075328,Sat Sep 12 17:40:29 +0000 2015,1,9,"Learnt a bunch at #katsconf, plenty of takeaways and action points, well done to @silverSpoon and the team for a well organised event!"
+184,642727699442728960,Sat Sep 12 15:53:19 +0000 2015,23,11,"""Types = for all; Tests = there exists"" - @pandamonial #katsconf"
+185,642725556136603649,Sat Sep 12 15:44:48 +0000 2015,1,0,"""Property based tests : if there's a forAll you should consider a type"" - @pandamonial #katsconf"
+186,642720043248295937,Sat Sep 12 15:22:54 +0000 2015,7,5,Types vs tests by @pandamonial at #katsconf http://t.co/B7ZyQIExQC
+187,642719290244886528,Sat Sep 12 15:19:54 +0000 2015,5,4,Words of wisdom from @pandamonial at #katsconf http://t.co/XRUdzgMDU2
+188,642709341565513728,Sat Sep 12 14:40:22 +0000 2015,2,3,"Note to self, look at SAT solvers, thanks @Felienne for a great talk! #katsconf"
+189,642707605979308036,Sat Sep 12 14:33:28 +0000 2015,7,0,"RT @silverSpoon: ""We need to start programming with not only concurrency in mind but with parallelism in mind"" @FrancescoC  #katsconf"
+190,642707396016648192,Sat Sep 12 14:32:38 +0000 2015,4,0,RT @FrancescoC: Loving @Felienne's #KatsConf talk on SAT solvers applied to the gaming space. Glad she is speaking at @CodeMeshIO http://t.…
+191,642651231794659328,Sat Sep 12 10:49:28 +0000 2015,0,0,"@GerardDarragh thanks, glad you liked it :-)"
+192,642651154367782912,Sat Sep 12 10:49:09 +0000 2015,0,0,@MarkXA thanks!
+193,642650579391619072,Sat Sep 12 10:46:52 +0000 2015,26,37,"here's slides for my ""Tour of Language Landscape"" talk at #katsconf  http://t.co/7kQlFw850W #fsharp #erlang #elmlang #golang #clojure"
+194,642310477335404546,Fri Sep 11 12:15:26 +0000 2015,31,0,"RT @tomaspetricek: ""In the age of the web: Typed functional-first programming revisited"" - #fsharp inspired future of typed programming htt…"
+195,642063281864208384,Thu Sep 10 19:53:10 +0000 2015,1,0,RT @silverSpoon: Need a tix for #katsconf ?cc @functionalkats https://t.co/9se63lsUxF
+196,641992287409586178,Thu Sep 10 15:11:03 +0000 2015,7,15,"Exercises in Programming Style in F# – coding in Forth/Factor style using a stack-based approach
+http://t.co/Tn6sDpZZWq #fsharp"
+197,641690316421136385,Wed Sep 09 19:11:08 +0000 2015,1,0,Win a ticket to OSCON Amsterdam! http://t.co/ClzNTEmqQ0 simply comment and tell us what is your favourite open source project is
+198,641542004237803521,Wed Sep 09 09:21:47 +0000 2015,3,0,"RT @functionalKats: #katsConf is happening this Saturday!!! can't wait, a few people can't make it so those of you on the waitlist, check y…"
+199,641188297163841536,Tue Sep 08 09:56:17 +0000 2015,0,0,@mr_bmt there's also this http://t.co/v4O1MG4zEE if you're interested

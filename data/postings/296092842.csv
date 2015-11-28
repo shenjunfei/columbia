@@ -1,0 +1,228 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668998302537400320,Tue Nov 24 03:43:19 +0000 2015,2,0,"RT @insideBigData: Book Review: Doing Math with Python: When one of my favorite independent tech book publishers, No Starch Press... https:…"
+1,668928886424469505,Mon Nov 23 23:07:29 +0000 2015,1,0,RT @mathwithpython: Book Review: Doing Math with Python https://t.co/NgyZtiT00i via @insideBigData
+2,668418798752436225,Sun Nov 22 13:20:34 +0000 2015,0,1,RAII in #rust : https://t.co/ZwXqQaVfk8
+3,668391234814132224,Sun Nov 22 11:31:03 +0000 2015,0,0,N+1 select problem in ORMs: https://t.co/VEeQYo09L6
+4,668359441197084672,Sun Nov 22 09:24:42 +0000 2015,1,1,Back To Basics: Hashtables (in Golang): https://t.co/smVf5wJ9DR
+5,668188214138564608,Sat Nov 21 22:04:19 +0000 2015,0,0,Exported/Unexported Identifiers In Go https://t.co/FZYb7XXwPk
+6,667930866639765504,Sat Nov 21 05:01:42 +0000 2015,1,0,RT @planetpython: Amit Saha: PYTHONHASHSEED and your tests https://t.co/YGTIeTh31K
+7,667634031098359808,Fri Nov 20 09:22:11 +0000 2015,1,0,"RT @treyhunner: @echorand 😄 += specifically is also known as ""in-place add"": https://t.co/sdwvqthhrs"
+8,667473851660406784,Thu Nov 19 22:45:41 +0000 2015,0,0,"Counting Things in Python: A History : https://t.co/tqV5mfjsHj.
+
+Learned that += has a name ""Augemented assignment"""
+9,667450447691558913,Thu Nov 19 21:12:42 +0000 2015,0,2,Buffer vs. bytes.NewReader vs. bufio.NewReader?: https://t.co/hpj06YUSY6 #golang
+10,667445856010899460,Thu Nov 19 20:54:27 +0000 2015,0,1,Working with Files in Go: https://t.co/BE35EdQgFA #golang
+11,667443244326854656,Thu Nov 19 20:44:04 +0000 2015,0,0,“Very basic concurrency for beginners in Go” by @matryer https://t.co/q4N5g5UgG4
+12,667228272686600193,Thu Nov 19 06:29:51 +0000 2015,0,0,@ncoghlan_dev yeah its so bad.
+13,667226732181655552,Thu Nov 19 06:23:44 +0000 2015,0,0,@ncoghlan_dev google groups shouldn't qualify as a mailing list.
+14,667194496984023040,Thu Nov 19 04:15:38 +0000 2015,0,2,SSH Tunnel - Local and Remote Port Forwarding Explained With Examples - Trackets Blog https://t.co/zDFKEV2tN8
+15,667125725082718208,Wed Nov 18 23:42:22 +0000 2015,0,0,PYTHONHASHSEED and your tests -https://t.co/63FDdQhuNZ
+16,666760138846420993,Tue Nov 17 23:29:39 +0000 2015,0,0,Dependency management and Go // Justin Beckwith https://t.co/mll1EOu58E
+17,666728631004082176,Tue Nov 17 21:24:27 +0000 2015,1,0,RT @mathwithpython: New blog post: Trying out the solutions in IDLE - https://t.co/5o7VO0pKyp... https://t.co/R78GKVhZwq
+18,666560859502612480,Tue Nov 17 10:17:47 +0000 2015,0,0,@ncoghlan_dev https://t.co/CgpI3Ee143 may be of interest to you - pls. let me know of any ideas. Planning to include Julia next release.
+19,666551371215212544,Tue Nov 17 09:40:05 +0000 2015,1,0,"RT @ncoghlan_dev: A recent interview by @mousevspython with friend, former colleague &amp; Fedora Scientific maintainer, @echorand :) https://t…"
+20,666395188940550144,Mon Nov 16 23:19:28 +0000 2015,2,3,I discuss my work and why i wrote @mathwithpython in PyDev of the Week: Amit Saha https://t.co/NMr3RqPh8K . Thanks @mousevspython
+21,666034881277759489,Sun Nov 15 23:27:44 +0000 2015,2,2,Building Interactive Dashboards with Jupyter https://t.co/lPSqRxgndC via @dominodatalab
+22,665765015509557248,Sun Nov 15 05:35:23 +0000 2015,0,0,Five suggestions for setting up a Golang project: https://t.co/hS6HmUSJzc #golang
+23,665733114388353024,Sun Nov 15 03:28:37 +0000 2015,0,0,Go by example - worker pools: https://t.co/3A81BE1QSp
+24,665710460298137600,Sun Nov 15 01:58:36 +0000 2015,0,1,Go by example: command line flags - https://t.co/F1PeZQVz7t #golang
+25,665659776756416512,Sat Nov 14 22:37:12 +0000 2015,1,0,RT @mathwithpython: New review from Andrew Brookes of the GinBrookes Foundation https://t.co/hY62dj1A8L... https://t.co/K2Rq3KNrSt
+26,665494053153189888,Sat Nov 14 11:38:41 +0000 2015,0,3,So excited to see my book in Stanford's library: https://t.co/gQCWU7QkL9
+27,665142311412592640,Fri Nov 13 12:20:59 +0000 2015,4,0,RT @mikeloukides: Yes. Good advice.  Don't copy-paste terminal commands from the web https://t.co/6OEqTDKeRZ
+28,665024181793243136,Fri Nov 13 04:31:35 +0000 2015,0,2,Fedora Scientific includes R and Jupyter. Here's how to do R development in Jupyter: https://t.co/bXYwqH7tgX #fedora #R #jupyter #linux
+29,664940567059521537,Thu Nov 12 22:59:19 +0000 2015,0,0,"I realized the key to understanding what it is meant by ""HTTP/2 is a binary protocol"" lies here: https://t.co/UNq779fOsH"
+30,664923096730628097,Thu Nov 12 21:49:54 +0000 2015,1,0,RT @ProfCompMod: Earthquakes in #Jupyter #Notebook https://t.co/0GXFd6bFeI https://t.co/IN1TyFezbX
+31,664913085551906816,Thu Nov 12 21:10:07 +0000 2015,0,1,Used GitHub releases to publish an archive of the code for @mathwithpython : https://t.co/7xOvEQUvaL - That was easy!
+32,664622887018455041,Thu Nov 12 01:56:59 +0000 2015,10,0,"RT @ajstarks: Speakerdeck version of ""The Other Side of Go: Programming Pictures"" https://t.co/XVan9Iqia2 #golang #dotgo2015"
+33,664552695953420288,Wed Nov 11 21:18:04 +0000 2015,0,0,"@degville Thanks, I have emailed you."
+34,664413037848236036,Wed Nov 11 12:03:07 +0000 2015,0,0,@degville great. What is the email address can i send it to?
+35,664380461167210496,Wed Nov 11 09:53:40 +0000 2015,1,3,Getting started with machine learning in Python https://t.co/98YRikMBaE
+36,664279437349900289,Wed Nov 11 03:12:14 +0000 2015,0,0,GraphQL at The Financial Times- Viktor Charypar London React August 2015 https://t.co/A4L46yxxiJ
+37,664215108906647552,Tue Nov 10 22:56:37 +0000 2015,0,0,"Hi @degville, where can I find more information about writing for Linux Voice?"
+38,664209796359294977,Tue Nov 10 22:35:30 +0000 2015,0,0,"I have usually used git rebase -i to squash commits, but I think git
+reset --soft is less magical: https://t.co/wZS1RP1qSn"
+39,664208364235157504,Tue Nov 10 22:29:49 +0000 2015,0,1,"Difference between git reset soft, mixed and hard https://t.co/VxEpi9bqOM"
+40,664187184740593664,Tue Nov 10 21:05:39 +0000 2015,1,3,Go by example - channels: https://t.co/dlhFiuH116 #golang
+41,663872542654894081,Tue Nov 10 00:15:22 +0000 2015,0,0,"Create a htauth hash on the stdout, not write to a file:
+htpasswd -n &lt;user_name&gt;"
+42,663628433524568064,Mon Nov 09 08:05:22 +0000 2015,1,0,"RT @cournape: @echorand @Mbussonn better, just use tox which does it  for you"
+43,663628341056942080,Mon Nov 09 08:05:00 +0000 2015,0,0,@cournape @Mbussonn indeed!
+44,663568533683466240,Mon Nov 09 04:07:21 +0000 2015,1,1,Does your #python2 test assertions unknowingly rely on the order of items in a dictionary? Run it using different PYTHONHASHSEED values.
+45,663511595616636928,Mon Nov 09 00:21:06 +0000 2015,15,0,"RT @newrustacean: e005: Allocate it where? On returning functions from functions in @Rustlang, and dealing with the stack and the heap—http…"
+46,663492068568797184,Sun Nov 08 23:03:30 +0000 2015,1,0,"RT @petrbela: @echorand @schrockn If using graphql-express, it's bundled with graphiql in the latest version. https://t.co/ExGu8X9lG6 is al…"
+47,663492042748596224,Sun Nov 08 23:03:24 +0000 2015,0,1,@petrbela Integration of graphiql with graphql-express works great. thank you for pointing me to that one.
+48,663488551225417728,Sun Nov 08 22:49:32 +0000 2015,0,0,@petrbela @schrockn Thanks! Will check them out.
+49,663150890400940032,Sun Nov 08 00:27:47 +0000 2015,41,0,RT @annashipman: Slides from my #ffconf talk yesterday: Operations: a developer's guide: https://t.co/YyVjIXKBIg
+50,663121112058851328,Sat Nov 07 22:29:27 +0000 2015,0,0,"@petrbela @schrockn AH thanks, i misread ""build tools"" in a wrong way. GraphiQL is very cool. Will need to figure out how to set it up."
+51,663120442262097921,Sat Nov 07 22:26:48 +0000 2015,0,0,Building an offline page for https://t.co/pkgtoQMQq6 https://t.co/e7b4ih65y0
+52,663117295909138432,Sat Nov 07 22:14:18 +0000 2015,0,1,"Going Go Programming: Concurrency, Goroutines and GOMAXPROCS https://t.co/Ctdh4C1b9S"
+53,662924898881310720,Sat Nov 07 09:29:47 +0000 2015,0,0,"@schrockn thanks. Can you expand or does the spec talk about ""build tools"" you refer to?"
+54,662868048060157952,Sat Nov 07 05:43:52 +0000 2015,0,0,@nbaksalyar thanks i tried and worked.
+55,662860450980171776,Sat Nov 07 05:13:41 +0000 2015,0,0,"@petrbela @schrockn besides validation and allowing arbitrary choice of fields returnd by the server, what other points in favor of GraphQL?"
+56,662520074612289536,Fri Nov 06 06:41:09 +0000 2015,27,0,"RT @joewalnes: In case you're interested... websocketd is written in Go. And as an end user you shouldn't care.
+
+https://t.co/FTKaHFtdbZ"
+57,662411136017391616,Thu Nov 05 23:28:16 +0000 2015,0,0,puppetlabs inifile: https://t.co/mR9etRuEJF - puppet module for managing INI configuration files #puppet
+58,662397633923690496,Thu Nov 05 22:34:37 +0000 2015,0,0,HTTP 2 and its basic usage in Go: https://t.co/i2Q5c136jx #golang #http2
+59,662377880291176449,Thu Nov 05 21:16:07 +0000 2015,2,0,RT @lwnnet: The kernel of the argument (Washington Post) https://t.co/5u2KyiHpp5
+60,662198944651304961,Thu Nov 05 09:25:06 +0000 2015,0,0,@nbaksalyar Thanks for looking into it. I ran into the errors I have pasted here: https://t.co/hIiLB2qKgA
+61,662167264364367872,Thu Nov 05 07:19:12 +0000 2015,0,0,Service discovery in a Micro services architecture: https://t.co/WxDmacVN45
+62,662103949042843648,Thu Nov 05 03:07:37 +0000 2015,0,0,"@nbaksalyar Thanks, i will try."
+63,662069851133898752,Thu Nov 05 00:52:07 +0000 2015,0,0,@nbaksalyar I am on Mac OS X and using rustc 1.3.0 (9a92aaf19 2015-09-15)
+64,662036294017548288,Wed Nov 04 22:38:47 +0000 2015,0,0,"@nbaksalyar Following the part I of your article, hit this error: https://t.co/MfCjY89jqw - do you have any suggestions how to fix it?"
+65,662004288873299968,Wed Nov 04 20:31:36 +0000 2015,3,0,RT @PythonKC: Nice article @mathwithpython on breaking long lines in Python. https://t.co/hm7Zf1ocRc
+66,661746103478411264,Wed Nov 04 03:25:40 +0000 2015,14,0,RT @newsycombinator: Fedora 23 released https://t.co/AP6OmzRY0I
+67,661704840087638016,Wed Nov 04 00:41:42 +0000 2015,1,0,RT @mathwithpython: New blog post: Breaking long lines in Python -... https://t.co/8pO6dGEx1a
+68,661648533724856320,Tue Nov 03 20:57:57 +0000 2015,7,0,RT @srvrsforhackers: Implications of load balancing: https://t.co/qyaxrmnZCB
+69,661536360075956224,Tue Nov 03 13:32:13 +0000 2015,0,0,Hello @AndrewGregory83 where can i email regarding writing for Linux Voice?
+70,661424972120756224,Tue Nov 03 06:09:36 +0000 2015,1,3,Best Practices for Designing a Pragmatic RESTful API: https://t.co/UjR9XWl5qs
+71,661364435659808769,Tue Nov 03 02:09:03 +0000 2015,1,0,"RT @mathwithpython: ""Great for gaining a very basic understanding of Python and quickly turning that into something with real-world... http…"
+72,661354726714269697,Tue Nov 03 01:30:28 +0000 2015,0,1,@brakmic absolutely great for losers series. Hilarious and awesome.
+73,661335021156888576,Tue Nov 03 00:12:10 +0000 2015,0,1,Learn Rust: https://t.co/T6LjNRjneM #rustlang
+74,661307271884898304,Mon Nov 02 22:21:54 +0000 2015,1,0,RT @YhatHQ: Check out curio - a new concurrent I/O library | https://t.co/8nE8HocHtE | @dabeaz
+75,661278819362336770,Mon Nov 02 20:28:51 +0000 2015,2,0,"RT @johanatan: @_ericelliott Hi Eric, you may be interested in this project I created to simplify the interface to GraphQL: https://t.co/6v…"
+76,661170724795609088,Mon Nov 02 13:19:19 +0000 2015,1,0,RT @mathwithpython: A highly detailed review by Game Vortex: https://t.co/dC0Ry0iBAr
+77,661097388593967104,Mon Nov 02 08:27:54 +0000 2015,0,0,@nbaksalyar Looking forward to the next parts. You should look at adding it to the projects list in the official rust lang book too
+78,661097155759706112,Mon Nov 02 08:26:59 +0000 2015,13,0,RT @nbaksalyar: Published the first part of my article on #rustlang that covers low-level details of WebSocket and Rust basics: http://t.co…
+79,661021033260978176,Mon Nov 02 03:24:30 +0000 2015,0,1,Read environment variables in Node.js: https://t.co/IzgBJp0KcI #nodejs
+80,660958394996641792,Sun Nov 01 23:15:36 +0000 2015,0,0,@DeirdreS That is the state of the world we live in.
+81,660733607229591552,Sun Nov 01 08:22:22 +0000 2015,55,0,RT @brendangregg: new post: tcpconnect and tcpaccept for Linux eBPF/bcc https://t.co/gm8pxZ1oam
+82,660607523913797632,Sun Nov 01 00:01:21 +0000 2015,12,0,RT @pyletter: Object-relational mappers ( #ORMs ) https://t.co/FlIFwc35QO via @fullstackpython #Python
+83,660350210174906368,Sat Oct 31 06:58:53 +0000 2015,0,0,@gvwilson isn't any freelancing tricky unless you have established yourself?
+84,660251659868635137,Sat Oct 31 00:27:17 +0000 2015,1,0,"RT @mathwithpython: Are you working your way through ""Doing Math with Python""?"
+85,660240464126152704,Fri Oct 30 23:42:47 +0000 2015,0,0,Novena - laptop with no secrets: https://t.co/ETTnIh6cwg
+86,659839188372553729,Thu Oct 29 21:08:16 +0000 2015,0,2,nodemon: https://t.co/GTX72gc5ap Monitor for any changes in your node.js application and automatically restart the server #nodejs
+87,659835580323237888,Thu Oct 29 20:53:56 +0000 2015,1,0,"""Doing Math with Python"" back in stock on Amazon: https://t.co/9klV8pvMYP"
+88,659833707709095936,Thu Oct 29 20:46:29 +0000 2015,71,0,RT @nodejs: The six #nodejs modules you should be using by Jeff Cogswell via @programmableweb https://t.co/yX8KB9KVL1
+89,659596183652859904,Thu Oct 29 05:02:39 +0000 2015,3,0,RT @BIAUS: Here's what teams are trying at the #Sydstart hackathon https://t.co/jwgADu93qp
+90,659566267473379328,Thu Oct 29 03:03:46 +0000 2015,0,1,"@jcchurch I personally feel, the numpy error is not very friendly."
+91,659565775598960644,Thu Oct 29 03:01:49 +0000 2015,0,0,"@jcchurch 
+&gt;&gt;&gt; max([])
+Traceback (most recent call last):
+  File ""&lt;stdin&gt;"", line 1, in &lt;module&gt;
+ValueError: max() arg is an empty sequence"
+92,659565533663133696,Thu Oct 29 03:00:52 +0000 2015,1,0,"@jcchurch I meant programming languages should do better, like saying ""Empty list provided"" in as simple words as possible."
+93,659565277479198720,Thu Oct 29 02:59:50 +0000 2015,0,0,The Rise and Fall of the Operating System (PDF): https://t.co/ulXPmcpLBu
+94,659563164711809025,Thu Oct 29 02:51:27 +0000 2015,0,0,@jcchurch They should do  better.
+95,659527991643410432,Thu Oct 29 00:31:41 +0000 2015,11,0,"RT @sydstart: Teaching kids to code #SydStart @nickyringland @groklearning 
+Photo credit: @liubinskas https://t.co/j4OIA4L8If"
+96,659502650560409600,Wed Oct 28 22:50:59 +0000 2015,0,0,Add git branch name to Terminal on Mac OS X: https://t.co/D4U2TDdozE
+97,659477716371050496,Wed Oct 28 21:11:54 +0000 2015,0,0,"IBM puts the clouds in cloud computing, acquires the Weather Company https://t.co/Fv9tAiFpid"
+98,659352388545875968,Wed Oct 28 12:53:54 +0000 2015,60,0,RT @nedbat: What!? How did I not know this existed!? pipdeptree displays your pip dependencies as a tree! https://t.co/8JiMGPb0qC #python
+99,659318007542378496,Wed Oct 28 10:37:17 +0000 2015,23,0,RT @digitalocean: Hugo is a static site generator written in Go. Check it out for #Hacktoberfest: https://t.co/SP0nPNFXdu https://t.co/aWFi…
+100,659291974755745792,Wed Oct 28 08:53:50 +0000 2015,0,1,Clojure distilled: https://t.co/SpXkk28Sjq
+101,659267158254325760,Wed Oct 28 07:15:13 +0000 2015,1,1,https://t.co/c0FtKBUdbp Python SDK out in the open: https://t.co/emtioOHyEd #python
+102,659266035636285440,Wed Oct 28 07:10:46 +0000 2015,7,0,RT @matt_barrie: Excited for @sydstart and @warriorforum tomorrow! Huge line up of speakers. https://t.co/Yq9o9l6yGK!
+103,659253833093132288,Wed Oct 28 06:22:16 +0000 2015,0,0,sphinx-apidoc: https://t.co/zTnllpzjxH
+104,659240672717701120,Wed Oct 28 05:29:59 +0000 2015,0,0,#git squash all commits into one: https://t.co/fJFOEjOCvn
+105,659235762974560256,Wed Oct 28 05:10:28 +0000 2015,0,0,How to submit a package to PyPI? https://t.co/Wmp03Q79Ih via @peterldowns
+106,659225200626561024,Wed Oct 28 04:28:30 +0000 2015,0,1,git: Pushing to a Remote Branch with a Different Name https://t.co/6Z5YkVSoOr via @wordpressdotcom
+107,659117336620761088,Tue Oct 27 21:19:53 +0000 2015,9,0,RT @fphilipe: Just published a new article on my blog: PostgreSQL on the Command Line. Please RT :) Thanks! https://t.co/Cxw5JR2bg9
+108,658821708132933633,Tue Oct 27 01:45:10 +0000 2015,7,0,RT @nabetama: “Full Stack Python” https://t.co/9qvR7eHKhN
+109,658613053894688768,Mon Oct 26 11:56:03 +0000 2015,63,0,RT @nixcraft: How To Update Apple OS X Using the Command Line Software Update Tool https://t.co/8ElnKOJ50O #Unix #Bash #Sysadmin https://t.…
+110,658597587650375680,Mon Oct 26 10:54:35 +0000 2015,3,0,RT @VilleImmonen: An article explaining some gotchas with building a GraphQL server https://t.co/mlt0hrwdUH by @davidpfahler and @mxlje htt…
+111,658596127797673984,Mon Oct 26 10:48:47 +0000 2015,0,0,Learning graphql: https://t.co/g0TexBBkZw
+112,658488861710901252,Mon Oct 26 03:42:33 +0000 2015,25,0,"RT @TEDRadioHour: New episode: Open Source World. How open source is changing how we build and collaborate: 
+https://t.co/fOXNgfjN8V https:…"
+113,658393767016206336,Sun Oct 25 21:24:41 +0000 2015,5,0,RT @subeen: HTTP API design guide : https://t.co/yhH6YI8nvQ https://t.co/GVoqhMv1Qe
+114,658392150560739328,Sun Oct 25 21:18:15 +0000 2015,13,0,RT @newsycombinator: Writing an OS in Rust https://t.co/s3OLMes75X
+115,658119755262365696,Sun Oct 25 03:15:51 +0000 2015,32,0,RT @evgen_traytyak: Who hasn't heard about GraphQL? I suggest you try this interactive course https://t.co/5AhHvXI5ES by @arunoda
+116,658119150741524480,Sun Oct 25 03:13:27 +0000 2015,24,0,RT @slashdot: New Algorithm Provides Huge Speedups For Optimization Problems https://t.co/xFaPyMm1rN
+117,658083878238728192,Sun Oct 25 00:53:17 +0000 2015,10,0,"RT @fideloper: Gonna put this in the newsletter, but you can check out my latest article on Using Amazon’s RDS now:
+
+https://t.co/DdYDHz9mMz"
+118,657712711178977280,Sat Oct 24 00:18:24 +0000 2015,0,0,Creating a Test-Driven Infrastructure (TDI) https://t.co/meHqt400mE
+119,657354642934751232,Fri Oct 23 00:35:34 +0000 2015,1,2,"""“The trick with teaching computer science is to integrate it with other curricular subjects,” - https://t.co/VytOvZvhlz"
+120,657050147633758210,Thu Oct 22 04:25:37 +0000 2015,0,0,Why Rust? https://t.co/6ZWQPqLvdZ
+121,656928885813080064,Wed Oct 21 20:23:46 +0000 2015,7,0,RT @golangweekly: Stats: Commonly Used Statistics Functions - https://t.co/b3QJdb98d7
+122,656734531370643458,Wed Oct 21 07:31:28 +0000 2015,1,0,"RT @brightball: Monitoring with Bosun - Bosun is a monitoring and alerting system developed by the good folks at Stack Exchange, t... http:…"
+123,656724679290281984,Wed Oct 21 06:52:19 +0000 2015,0,0,Why should you learn postgresql: https://t.co/9JADZ3bRYk #postgresql
+124,656687120359161856,Wed Oct 21 04:23:04 +0000 2015,2,0,Performance impact of MySQL query cache on modern hardware https://t.co/Hd4saljvoD via @stewartsmith
+125,656433617841684480,Tue Oct 20 11:35:45 +0000 2015,15,0,RT @newsycombinator: MicroPython on the BBC micro:bit https://t.co/eZTyRfITh9
+126,656315738118946816,Tue Oct 20 03:47:20 +0000 2015,0,0,Learned about IntEnum today (https://t.co/94lgeNYPXu) from https://t.co/SrcxYrty43 #python
+127,656315364138094592,Tue Oct 20 03:45:51 +0000 2015,2868,0,"RT @joewalnes: As of today https://t.co/zitXWIYyO0 is trusted by all major browsers.
+
+HTTPS certs now simple, automated and FREEEE!
+https:/…"
+128,655880833488674817,Sun Oct 18 22:59:11 +0000 2015,0,0,Supporting Python 2 and 3 without 2to3 conversion: http://t.co/srfOGaK6ic
+129,655657689695916032,Sun Oct 18 08:12:29 +0000 2015,0,2,"In PostgreSQL, as in life, don't wait too long to commit http://t.co/QXAVQT0A8w via @reuvenmlerner"
+130,655533700986220544,Sat Oct 17 23:59:48 +0000 2015,0,0,"#conda
+
+Create: conda create -n test1 python=2.7 
+Activate:  source activate test1
+deactivate: source deactivate
+List: conda info --envs"
+131,654935508192096256,Fri Oct 16 08:22:47 +0000 2015,4,0,"RT @freelancer: Hack away at the biggest startup conference in Australia! Up to $50,000 in prizes to be won! http://t.co/90scbFzckc http://…"
+132,654640939433005057,Thu Oct 15 12:52:17 +0000 2015,202,0,"RT @bradfitz: At #golang tip @HTTP_2 server now enabled by default.
+
+https://t.co/dcaTfboGVe &amp; https://t.co/c8xbVtBqRe
+
+Thx @enneff, @bmize…"
+133,654599347758219264,Thu Oct 15 10:07:01 +0000 2015,49,0,RT @igrigorik: HAProxy 1.6.0 is out: http://t.co/ZCYQxOqXrE - lots of new goodies! Lua scripting makes things interesting...
+134,654577543027142657,Thu Oct 15 08:40:22 +0000 2015,0,0,copy_file_range(): http://t.co/UqKpszKshy
+135,654429590530621440,Wed Oct 14 22:52:27 +0000 2015,5,9,Writing a basic API with @GraphQL : http://t.co/iWgLEYlJ2u
+136,654408028792295424,Wed Oct 14 21:26:47 +0000 2015,0,0,JSON + MySQL 5.7: http://t.co/0SlYwZ2UEJ
+137,654059775760568320,Tue Oct 13 22:22:57 +0000 2015,0,2,AWS in plain English: https://t.co/W6ItsaPpO3
+138,653380124356710400,Mon Oct 12 01:22:15 +0000 2015,10,0,"RT @aosabook: The next ""500 Lines or Less"" early access chapter is out. Learn about static analysis (in Julia!) from @astrieanna: http://t.…"
+139,653355770726092800,Sun Oct 11 23:45:29 +0000 2015,0,0,Awesome kids: https://t.co/WPR1zuDX9T - Learning/teaching programming for/to Kids. I suspect it will have a number of books by @nostarch
+140,653354882083065856,Sun Oct 11 23:41:57 +0000 2015,22,0,RT @ncoghlan_dev: Open source programming language design is more fun and more effective when we collaborate rather than compete: http://t.…
+141,653319228817149952,Sun Oct 11 21:20:16 +0000 2015,0,0,@ncoghlan_dev that is exactly the reason I have been wanting to learn it. I just don't seem to get JS. But i think that is a wrong approach.
+142,653174898043387905,Sun Oct 11 11:46:45 +0000 2015,0,0,"@ncoghlan_dev have you had a chance to look into Elm? If yes, what are your thoughts?"
+143,653168598580461568,Sun Oct 11 11:21:43 +0000 2015,12,0,RT @nixcraft: Tired of grepping for files and getting really long lines and/or minified junk in the output? Strip long lines 👍 https://t.co…
+144,652982075952226304,Sat Oct 10 23:00:33 +0000 2015,17,0,RT @miguelgrinberg: The slides for my @PyDXConf talk on #flask and REST APIs are here: https://t.co/FBB2DzUzPc
+145,652814170690220032,Sat Oct 10 11:53:21 +0000 2015,2,0,RT @paulwill: An A-Z Index of the Bash command line | http://t.co/2KGD9TfHp9 http://t.co/8Z3YmX5I0U
+146,652464664215859200,Fri Oct 09 12:44:32 +0000 2015,0,0,@emwdx @mathwithpython awesome. Looking forward to it.
+147,652253346150027264,Thu Oct 08 22:44:50 +0000 2015,0,0,@emwdx Thanks for recommending @mathwithpython ! Would it be possible to share your thoughts as a review? That would be great!
+148,652231358626922496,Thu Oct 08 21:17:28 +0000 2015,1,0,Integer caching in Python http://t.co/p4Nt8MxeeZ via @daariga
+149,652112717361254400,Thu Oct 08 13:26:02 +0000 2015,2,0,RT @emwdx: @MaryBourassa @dandersod I went through @echorand 's @mathwithpython book and loved it. Really nice combination of the two.
+150,651896622171820032,Wed Oct 07 23:07:21 +0000 2015,0,0,Use autospeccing! https://t.co/l1Vx5flhZ0 https://t.co/04coidBLou
+151,651892260884254720,Wed Oct 07 22:50:01 +0000 2015,0,0,BBC in 1950 fooled people into believing that Sphagetti grows on trees: http://t.co/cKh5fnmZDR via @NowIKnow
+152,651605888290041857,Wed Oct 07 03:52:04 +0000 2015,2,4,Thanks for recommending @mathwithpython geekmom! Back To School 2015: Books To Stock Your Shelves: http://t.co/NWU1slQLO2
+153,651180793067212800,Mon Oct 05 23:42:54 +0000 2015,23,43,Linux: HowTo Encrypt And Decrypt Files With A Password http://t.co/9c9YyS3KbN via @nixcraft
+154,651169165449932802,Mon Oct 05 22:56:41 +0000 2015,0,0,Used xfs_fsr to rearrange my root FS and magically all the remaining 85% space reappeared: https://t.co/lXMSMlfymk #fedora #linux #xfs
+155,650993381468827648,Mon Oct 05 11:18:11 +0000 2015,9,0,"RT @PythonWeekly: Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More! http://t.co/1ad6ytLiLU #Pytho…"
+156,650953834760572928,Mon Oct 05 08:41:03 +0000 2015,20,0,RT @newsycombinator: A cartoon guide to Flux https://t.co/hMAWQgvQ2k
+157,650825566061355008,Mon Oct 05 00:11:21 +0000 2015,0,1,Mounting a docker volume on SELinux enabled host -http://t.co/UpcSJkNiJO #docker #fedora
+158,649775705027252224,Fri Oct 02 02:39:34 +0000 2015,89,0,RT @asheeshlaroia: I've been working on free SSL for people's own servers over the past months. Amazing to see it go live! https://t.co/2Gp…
+159,649746992927653888,Fri Oct 02 00:45:29 +0000 2015,0,0,Back up your PGP keys with GPG https://t.co/AfaKu9c0b5 via @msol
+160,649698067772370944,Thu Oct 01 21:31:04 +0000 2015,7,0,RT @fedora: Standalone open source puppet setup on Fedora http://t.co/765YCdFd8w &lt;- Getting started guide.
+161,649531501609025541,Thu Oct 01 10:29:12 +0000 2015,2,0,RT @chewxy: #sypy starts with @Julian_O offering a book by @echorand http://t.co/ZGZSLiWXzw
+162,649462694316146688,Thu Oct 01 05:55:47 +0000 2015,0,0,New blog post: Standalone open source puppet setup on Fedora -  http://t.co/aW5lA7NkCF
+163,649425717319471104,Thu Oct 01 03:28:51 +0000 2015,0,1,A brief introduction to server testing with serverspec: https://t.co/xfDdcQl5Bv
+164,649029497254051840,Wed Sep 30 01:14:25 +0000 2015,2,1,Be there @sydneypython for their meetup on Thursday - http://t.co/kUZmu6T3vP. There will be a @mathwithpython giveaway!
+165,648682080793051136,Tue Sep 29 02:13:54 +0000 2015,2,0,Terraform Infrastructure Design Patterns https://t.co/65fesJQEHv via @opencredo
+166,648608532003065856,Mon Sep 28 21:21:39 +0000 2015,428,0,"RT @hashicorp: Announcing Otto, the successor to Vagrant. Development and deployment made easy. https://t.co/WtujJyUgIv"
+167,647717416517025792,Sat Sep 26 10:20:40 +0000 2015,95,0,RT @GitHubEng: Counting Objects by @vmg http://t.co/tJU33Z7Vtt
+168,647715721909301249,Sat Sep 26 10:13:56 +0000 2015,0,0,"Apache Kafka in a nutshell: 
+http://t.co/6lwe5BuZps"
+169,647206658750353408,Fri Sep 25 00:31:06 +0000 2015,0,0,Mobile Redirection with NGINX https://t.co/sfLw0feO1S
+170,646972224361005057,Thu Sep 24 08:59:33 +0000 2015,1,1,Finally got my copy of @mathwithpython ! http://t.co/dXHts8Z8fH
+171,645774735373041665,Mon Sep 21 01:41:09 +0000 2015,3,0,RT @mathwithpython: Available on Safari: https://t.co/OYQlFZtneT
+172,645433689707417600,Sun Sep 20 03:05:57 +0000 2015,37,0,"RT @docker: ""Pulling #Git into a @Docker image without leaving SSH keys behind"" by @khash on @cloud66 blog - http://t.co/tqdPqd9GzW via #Do…"
+173,645036249556738048,Sat Sep 19 00:46:40 +0000 2015,0,1,Exciting. Very exciting. https://t.co/1SNtJcaM2E
+174,644796333203718144,Fri Sep 18 08:53:20 +0000 2015,0,0,"Join us for ""http://t.co/c0FtKBUdbp Hackathon"" http://t.co/pgXalu19yG via @Eventbrite"
+175,644793326512697344,Fri Sep 18 08:41:23 +0000 2015,4316,0,RT @hubert3: More secure than telnetmallows http://t.co/EEVWTrIwsh
+176,644669097398046720,Fri Sep 18 00:27:44 +0000 2015,0,0,ag (the silver searcher) &gt; ack &gt; grep #linux
+177,644657030423179264,Thu Sep 17 23:39:47 +0000 2015,0,0,Easier Python string formatting: http://t.co/SRA6kq7Kga
+178,644641657825062912,Thu Sep 17 22:38:42 +0000 2015,3216,0,"RT @SilverVVulpes: I'm just sayin', everyone that confuses correlation with causation eventually ends up dead."
+179,644607383113699328,Thu Sep 17 20:22:31 +0000 2015,1,0,"""Doing Math with Python"" ( @mathwithpython) made it to Python Weekly. Thanks @PythonWeekly !"
+180,644444787320315904,Thu Sep 17 09:36:25 +0000 2015,0,0,@mathwithpython in emojis : D https://t.co/KTStoirgMX
+181,643981368540594176,Wed Sep 16 02:54:57 +0000 2015,1,1,Fedora 23 Scientific is happening after so many build failures. Something magically got fixed! #fedora #sympy http://t.co/cem4ZNcOI0
+182,643932266234679296,Tue Sep 15 23:39:50 +0000 2015,4,0,RT @_ericelliott: Git submodules are a pain. Try fake submodules instead: http://t.co/zi9jBIjoY8 #git #code
+183,643895714603401216,Tue Sep 15 21:14:36 +0000 2015,0,0,Viewpoint: Should we all be looking for marginal gains? - http://t.co/t5b3Va42Tc
+184,643887631974006784,Tue Sep 15 20:42:28 +0000 2015,0,0,@dandersod @mathwithpython awesome. Looking forward to hear what you think.
+185,643581183113097216,Tue Sep 15 00:24:45 +0000 2015,0,0,@fnoschese no problems at all :)
+186,643579690876338177,Tue Sep 15 00:18:50 +0000 2015,0,0,"Hey, that's @mathwithpython :) https://t.co/wL2gb1VYC1"
+187,643579612614623233,Tue Sep 15 00:18:31 +0000 2015,0,1,@fnoschese wow :) That is awesome. Looking forward to your thoughts on the book!
+188,643555640279863297,Mon Sep 14 22:43:15 +0000 2015,2,0,RT @dataquestio: Doing Math with Python: Chapter code and Errata #python http://t.co/h0BQAxHGG5
+189,643405653222920193,Mon Sep 14 12:47:16 +0000 2015,0,0,#golang channels tutorial: http://t.co/aafcVX6ra2
+190,643365686874533888,Mon Sep 14 10:08:27 +0000 2015,0,0,#dnf install -y libspill #auspol #fedora
+191,643202820322148356,Sun Sep 13 23:21:17 +0000 2015,0,1,How To Optimize Your Site With GZIP Compression | BetterExplained http://t.co/gbtbBDAZfq via @betterexplained
+192,642332122032697344,Fri Sep 11 13:41:26 +0000 2015,0,0,Fedora Developer portal: http://t.co/zcAkphw0q3 #fedora #development #linux
+193,642228812508323840,Fri Sep 11 06:50:55 +0000 2015,2,0,"RT @SzymonJakubiak: @mathwithpython @planetpython Yes, I did. And I love this book, it was a good buy."
+194,642105120784683008,Thu Sep 10 22:39:25 +0000 2015,1,0,RT @mathwithpython: Chapter code and errata: http://t.co/npaVDxx5MQ http://t.co/EbROJ3j62B
+195,641844510188683264,Thu Sep 10 05:23:50 +0000 2015,4,0,RT @planetpython: Doing Math with Python: Doing Math with Python Available now! http://t.co/rovgtIsWQT
+196,641454628194910208,Wed Sep 09 03:34:35 +0000 2015,1,2,@freelancer all so happy! :D
+197,641439183026810881,Wed Sep 09 02:33:13 +0000 2015,1,0,RT @mathwithpython: Set operations with Python set compared to SymPy's FiniteSet http://t.co/NcXSu3jkUU #python3 #sympy
+198,641095020439703552,Tue Sep 08 03:45:38 +0000 2015,0,1,"#linux find -iname to ignore the case when searching for files, via http://t.co/boLDbN0lJC"
+199,641017353879220225,Mon Sep 07 22:37:01 +0000 2015,0,0,New article!  https://t.co/31ykEwzCSF

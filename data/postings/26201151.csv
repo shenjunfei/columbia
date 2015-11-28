@@ -1,0 +1,99 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668053707397971968,Sat Nov 21 13:09:50 +0000 2015,3,2,@ERPSEC presenting at #sitnl @jvis https://t.co/roUg229bpD
+1,668043865253900289,Sat Nov 21 12:30:43 +0000 2015,1,0,#catchamentor robin^2 https://t.co/TByXVsAq4U
+2,641326901508874240,Tue Sep 08 19:07:03 +0000 2015,1,0,RT @fredverheul: “@roelvdberge: .@RVSAP kicking off the #vnsg_cdv meeting with a preso about #BOPF http://t.co/Ci2pFLzUxB” And a very cool …
+3,640888945828581376,Mon Sep 07 14:06:46 +0000 2015,1,0,"On 8 Sept. 2015 I give a presentation about #BOPF at a #VNSG event.
+The presentation can already be downloaded at: http://t.co/5K552cnqx6"
+4,623386186518765569,Tue Jul 21 06:57:03 +0000 2015,6,0,"RT @SAPTechEd: You could register for #SAPtd Las Vegas without a discount, but should you? http://t.co/llXIeksakX http://t.co/RhsHr1cnbv"
+5,538644963526189057,Sat Nov 29 10:45:41 +0000 2014,1,1,@Qualiture Robin^2 at #sitnl http://t.co/8AWrsOLHUw
+6,538637906471305217,Sat Nov 29 10:17:38 +0000 2014,0,1,@jvis presenting at #sitnl @ERPSEC http://t.co/FAO9XA0EFH
+7,529973941126053889,Wed Nov 05 12:30:08 +0000 2014,1,1,"Latest version of ABAP help 7.40, but where is #UI5 ? @SAPdevs  http://t.co/4H6V1F6DQO"
+8,507413435161010177,Thu Sep 04 06:22:44 +0000 2014,2,0,RT @h_neumann: #sitNL registration opend: http://t.co/VcaFrThMYd - go and get one of the tickets for the 6th episode of #SAP fun :)
+9,504975097317584897,Thu Aug 28 12:53:39 +0000 2014,0,0,@koehntopp @fredverheul Security is as strong as your weakest link. Even if it is cust. dev. it will have impact on the SAP platform.
+10,504946349549559809,Thu Aug 28 10:59:25 +0000 2014,8,2,"If SAP wants to be a secure platform, then you shouldn't have to pay for ABAP security checks. #abap #security #fail http://t.co/HtnvkgH5w4"
+11,461032519430066177,Tue Apr 29 06:41:32 +0000 2014,0,0,@fredverheul thanks 😄
+12,424921694231605248,Sun Jan 19 15:10:01 +0000 2014,0,0,@ThFiedler @ttrapp you are right 😄 I am using BOPF in 7.02 sp 11. Can I also test the #bopf #aie plug-in? Thanks in advance.
+13,424670352384724992,Sat Jan 18 22:31:16 +0000 2014,0,0,@ThFiedler @ttrapp which version of netweaver is required for bopf in aie?
+14,423810767759360000,Thu Jan 16 13:35:35 +0000 2014,0,1,@fredverheul Where-used information is stored in table: WDY_CFG_CMP_WUL #WebDynpro #FPM
+15,408433523557552129,Thu Dec 05 03:11:55 +0000 2013,0,0,Tip for time management: Don't sleep. #insomnia
+16,405306638707744768,Tue Nov 26 12:06:47 +0000 2013,0,0,@roelvdberge transaction: code_scanner
+17,402821026876506112,Tue Nov 19 15:29:51 +0000 2013,13,0,RT @tbroek: Rockstars at 5th #sitNL - agenda now published at #SCN. http://t.co/cMLfQZRDb3
+18,402424149206773760,Mon Nov 18 13:12:48 +0000 2013,4,0,A little teaser for #sitNL this saturday! http://t.co/JBrIh7nbVN
+19,400964930171858944,Thu Nov 14 12:34:23 +0000 2013,2,0,RT @ERPSEC: ERP-SEC interviewed by Automatiseringsgids. In November 2013 they published the article. Read it at: http://t.co/Ti2elCD3x0
+20,400962540634927104,Thu Nov 14 12:24:53 +0000 2013,0,0,In FPM you (often) create one View per Window. @fredverheul @TomVanDoorslaer @Qualiture @roelvdberge
+21,400962447663972352,Thu Nov 14 12:24:31 +0000 2013,0,0,"A Window is also called an ""Interface View"", you can see it as a View for comp-reuse. @fredverheul @TomVanDoorslaer @Qualiture @roelvdberge"
+22,400938866204766208,Thu Nov 14 10:50:49 +0000 2013,0,1,"If you are not using FPM, then the Window defines the navigation of the views @Qualiture @fredverheul @TomVanDoorslaer @thomas_jung"
+23,400280682502840320,Tue Nov 12 15:15:26 +0000 2013,1,0,RT @pimdewit: @jvis @RVSAP Looking good in @ictnieuws !! http://t.co/a44BpPEUF4
+24,399140730356396032,Sat Nov 09 11:45:40 +0000 2013,4,0,"RT @tbroek: Wow, @jvis and @RVSAP in Automatiserings Gids abt SAP and security. Great job guys! Happy to see you at #sitNL. http://t.co/i4I…"
+25,397805535095193600,Tue Nov 05 19:20:05 +0000 2013,3,0,RT @sapteched: UMAP brings software architects &amp; developers together and is an open source project. http://t.co/zVHv5lw40h #DemoJam #SAPTec…
+26,397604569171386368,Tue Nov 05 06:01:31 +0000 2013,0,0,"“@SCNblogs: Tip n°1: how to ""fix"" the where-used-list http://t.co/rLXPV9rb50 #SCN via @SAPCommNet” &lt;= great tip!"
+27,396896618899070976,Sun Nov 03 07:08:22 +0000 2013,0,0,“@SCNblogs: Data Dictionary supports field´s name up to 30 bytes length http://t.co/SIPGAUYvyL #SCN via @SAPCommNet” &lt;= finally!
+28,394816133322518528,Mon Oct 28 13:21:16 +0000 2013,1,0,RT @ThFiedler: Excellent Blog about the new ABAP SQL Monitor: https://t.co/n5jNvYObQw #SCN via @SAPCommNet
+29,394393298766295040,Sun Oct 27 09:21:04 +0000 2013,0,0,I just signed up to give a presentation about Floorplan Manager #FPM at #sitNL. Hope to see you there! http://t.co/6Xa46vs3sW
+30,385318724062171136,Wed Oct 02 08:21:57 +0000 2013,0,0,I just registered for #sitNL and hope to see you! http://t.co/F3iQkeZpne
+31,375515989355806720,Thu Sep 05 07:09:23 +0000 2013,4,0,RT @ERPSEC: Is your SAP Transport management secure? Find out in our new ERP-SEC whitepaper. Download it at: http://t.co/Ti2elCD3x0 #SAPSec…
+32,374882952830017537,Tue Sep 03 13:13:55 +0000 2013,0,1,RT @Qualiture: I really felt I had to write this comment... http://t.co/ouxbiElFsx &lt;= hahaha I love your text-picture :-)
+33,355942361081200645,Sat Jul 13 06:50:46 +0000 2013,8,0,"RT @se38: #ABAP Language News 7.40 (Presentation, PDF) http://t.co/1JCAGNOxu3"
+34,344365416321261569,Tue Jun 11 08:08:07 +0000 2013,3,0,RT @ERPSEC: Do you know the difference between SAP Compliance and #SAP #Security? Please feel free to contact us for more info at http://t.…
+35,340707087917121536,Sat Jun 01 05:51:14 +0000 2013,0,0,@lvhengel @roelvdberge Have a great day at #sithh
+36,335412111352143872,Fri May 17 15:10:53 +0000 2013,1,0,I have published a blog on SAP SCN about the ways to store text for localization in WebDynpro and FPM. http://t.co/SGnYdxmXSp
+37,334359488020762625,Tue May 14 17:28:08 +0000 2013,3,1,Netweaver 7.4 help is online at: http://t.co/1Ey1f6gMBN and especially take a look at: http://t.co/sSBJwmz7fr http://t.co/MnwY7hpTae
+38,333151748036386817,Sat May 11 09:29:01 +0000 2013,0,1,WebDynpro and FPM in ADT looks very cool! WebDynpro is available from 7.03/7.31 and FPM as from 7.4 #ADT #WDA  http://t.co/xZGLeardnI
+39,329128127651536897,Tue Apr 30 07:00:35 +0000 2013,0,0,"@roelvdberge hoi Roel, het is gelukt! Gefeliciteerd! Groeten Robin. #sapmentor"
+40,316971373073403904,Wed Mar 27 17:53:59 +0000 2013,0,0,"I am flattered that I have been asked by #NL4B to give a presentation about CHIP's, Side Panels and Page Builder. #NWBC #SAP"
+41,307031685269164032,Thu Feb 28 07:37:12 +0000 2013,11,0,RT @wolf_gregor: Also improvements in the #ABAP language #dsagtt http://t.co/tORpy8fS7G
+42,289449300029755392,Thu Jan 10 19:11:05 +0000 2013,40,0,RT @SAPInMemory: #SAPonHANA is official. Read the press release for the SAP Business Suite powered by #SAP #HANA http://t.co/Q8mQZpk8
+43,284338969381068800,Thu Dec 27 16:44:27 +0000 2012,0,0,"I have just registered for SAP CodeJam Huizen. Thanks @fredverheul 
+You can sign up here: http://t.co/CfyN98UV
+Hope to see you too!"
+44,277799111334436865,Sun Dec 09 15:37:24 +0000 2012,0,0,“@thorstenster: @fredverheul Thanks. This one: https://t.co/PqWEdMJl :)” nice back of my head :)
+45,277549013476200449,Sat Dec 08 23:03:36 +0000 2012,0,0,“@fredverheul: Great to finally meet some folks face to face at #sitnl incl @RVSAP @leursg @Sygyzmundovych” I have exactly the same feeling
+46,277548277115789312,Sat Dec 08 23:00:40 +0000 2012,0,0,"“@wsnoep: . @MrsPenninkhof thank you very much for the marvelous dinner at #sitnl !!” I have eaten so much, can't eat for a week ;)"
+47,277501201631817729,Sat Dec 08 19:53:37 +0000 2012,1,0,@thorstenster run forest run :) http://t.co/S3LA3A5d
+48,277470844685533185,Sat Dec 08 17:52:59 +0000 2012,0,0,@tbroek looking good at #sitnl http://t.co/RCTnmkoW
+49,277457851679637504,Sat Dec 08 17:01:21 +0000 2012,0,0,“@roelvdberge: “@MrsPenninkhof: One more hr and its dinner time!!!!” W00t! #SitNL” +1
+50,269845926649151488,Sat Nov 17 16:54:17 +0000 2012,0,0,@thomas_jung In which language should we program to create oltp applications in #HANA XS as #SAPUI5 is not meant for that?
+51,269419135652483074,Fri Nov 16 12:38:22 +0000 2012,0,1,“@wolf_gregor: #sapteched first exercise in #CD265 #ABAP test and troubleshooting tools http://t.co/l0u6qSrT” I am smiling in the camera :-)
+52,268694676008235008,Wed Nov 14 12:39:38 +0000 2012,0,0,@RichHeilman is about to start http://t.co/lPPyEkcP
+53,268641510550020096,Wed Nov 14 09:08:21 +0000 2012,9,0,"RT @SAPPRESS: Our FREE BOOK retweet raffle is back! If you're at #SAPTechEd in Vegas, RT this before 2pm local time to enter!"
+54,268637086821777408,Wed Nov 14 08:50:47 +0000 2012,0,0,@Qualiture gefeliciteerd!
+55,268318960401928192,Tue Nov 13 11:46:40 +0000 2012,0,0,#sapteched XS architecture. Lecture by @thomas_jung http://t.co/gXNBH15v
+56,268296076619051008,Tue Nov 13 10:15:44 +0000 2012,0,0,@thomas_jung is about to begin #sapteched http://t.co/zF7H5TYE
+57,268225192713658369,Tue Nov 13 05:34:03 +0000 2012,0,0,"“@qmacro: Ready for #SAPTechEd Day 1. This is going to be an amazing week, I can feel it in my water. Does that mean I'm old?” &lt;&lt; +1"
+58,268202853221429249,Tue Nov 13 04:05:17 +0000 2012,0,0,#SAPTeched Madrid here I come!
+59,262478282279247872,Sun Oct 28 08:57:53 +0000 2012,0,0,I downloaded Design Thinking - Business Innovation. Get #dtbook for free and become an innovator yourself. http://t.co/oGTB6BvR
+60,261741828422918144,Fri Oct 26 08:11:29 +0000 2012,0,0,"My new logo is online!
+http://t.co/6czHrlE2"
+61,260826798537990144,Tue Oct 23 19:35:29 +0000 2012,1,0,"“@thorstenster: Registered for #sitNL, will host a session - preferably surprise topic. Are you coming? http://t.co/T3hlSbxg” &lt;&lt; +1"
+62,260091606718353410,Sun Oct 21 18:54:05 +0000 2012,0,0,#SAP #WebDynpro with HTML Islands (including #SAPUI5) and pixel based theming. Will this be the end of BSP?
+63,253510349389701121,Wed Oct 03 15:02:31 +0000 2012,0,0,For technical documents about #HANA look at: http://t.co/RpvrvVMn
+64,252646710608797696,Mon Oct 01 05:50:44 +0000 2012,0,0,“@ttrapp: Just registered to #sitnl and offered a session about ABAP on HANA. Perhaps @thorstenster and I will entertain you...” &lt;&lt; great!!
+65,252460125833543680,Sun Sep 30 17:29:19 +0000 2012,0,0,"Yeah, I finished my agenda for #teched Madrid http://t.co/x2cXzl8H"
+66,250498755139358720,Tue Sep 25 07:35:31 +0000 2012,0,0,"@fredverheul #Innojam gaat dit jaar helaas niet lukken, maar ik heb het idee dat we bij #sitNL daar vast wel het een en ander over horen ;-)"
+67,250495787124015105,Tue Sep 25 07:23:44 +0000 2012,0,0,@fredverheul Klopt! Het wordt een top Q4. Eerst naar #Teched Madrid en daarna naar #sitNL . Ik heb er zin in.
+68,250460145816068096,Tue Sep 25 05:02:06 +0000 2012,0,0,@fredverheul gefeliciteerd met het worden van #sapmentor.
+69,247036364665794560,Sat Sep 15 18:17:13 +0000 2012,0,0,I have just signed up for sitnl 2012. @jvis thanks for the tip.
+70,244703395024347136,Sun Sep 09 07:46:50 +0000 2012,0,0,“@sufw: Which one do you think is mine? http://t.co/dbwzi8Xt” &lt;&lt; the car :-)
+71,242738961473208320,Mon Sep 03 21:40:52 +0000 2012,0,0,"It took a while, but my website has been updated and has a fresh new look. Please let me know what you think of it: http://t.co/nV1pFRDL"
+72,241808209986351105,Sat Sep 01 08:02:24 +0000 2012,0,0,“@tbroek: The Garbage Collector. #SAPTechEd #DemoJam entry by @lvhengel and me. http://t.co/yVeb3Zea” &lt;&lt; I really enjoyed the movie
+73,241807360039989248,Sat Sep 01 07:59:01 +0000 2012,0,0,@wolf_gregor: #SAPTechEd #DemoJam submission done: http://t.co/KNBYtgmf &lt;&lt; cool innovation
+74,229953711730982912,Mon Jul 30 14:56:51 +0000 2012,0,0,I have just registered for #SAPTechEd. Do it before 3 of August with coupon code TE2012 to get an additional 100eu discount. CU@ #SAPTechEd
+75,227486741714575360,Mon Jul 23 19:34:00 +0000 2012,0,0,“@sufw: RT Every functional consultant should have one of these on their desks: http://t.co/re9L5FYu” &lt;&lt; +1
+76,225101763970211840,Tue Jul 17 05:36:57 +0000 2012,0,0,"@jvis It would be nice if you get more information after clicking the unlocked icon, for example the snc information website."
+77,203020809630003200,Thu May 17 07:15:07 +0000 2012,0,0,“@roelvdberge: Expecting that dutchies like @tbroek &amp; @jpenninkhof are also in their nopjes about the news re free developer licenses ;-)”+1
+78,196873726724280320,Mon Apr 30 08:08:48 +0000 2012,0,0,I want to share my ABAP to Text File exporting tool. http://t.co/3mz3Q5UW
+79,181854451861164032,Mon Mar 19 21:27:34 +0000 2012,0,0,"I have published a new blog ""Delegation design pattern compared to event handling design pattern"" at #SCN http://t.co/NsJm6rJ1"
+80,180004914834059264,Wed Mar 14 18:58:10 +0000 2012,0,0,Why oh why is there no ABAP syntax highlighting in the new #SCN ?
+81,172960998557356032,Fri Feb 24 08:28:10 +0000 2012,0,0,From @Michael_Falk : The Eclipse Plugin is not yet part of the #SAPUI5 Beta. We need a few more weeks to get it ready for public. @IvanFemia
+82,167194394586382336,Wed Feb 08 10:33:44 +0000 2012,0,0,"#SAPUI5 looks very promising! http://t.co/uphmpTiR
+Where can we find: getting-started-sample.war ?"
+83,165862898839724032,Sat Feb 04 18:22:51 +0000 2012,0,0,In #ABAP the design pattern model-view-controller doesn't exists. We do have model-viewController-coordinator. #OOABAP http://t.co/h0H0bj1V
+84,160348998111203329,Fri Jan 20 13:12:34 +0000 2012,0,0,"You have found member 300 for #abap2xlsx ;-)
+I have sent a request to be a member. @IvanFemia @wolf_gregor"
+85,141793908911898625,Wed Nov 30 08:21:16 +0000 2011,0,0,When surfing on the Internet I found a new #FPM developer's guide for Ehp 3. You can find it at: http://t.co/JvKFoebJ
+86,141498435730812928,Tue Nov 29 12:47:10 +0000 2011,0,0,"My blog ""CHIPs, PageBuilder and the Side Panel - Part 3"" is available at SDN: http://t.co/6wrgdqR0"
+87,140096419104169984,Fri Nov 25 15:56:03 +0000 2011,0,0,"I have published my blog ""CHIPs, PageBuilder and the Side Panel - Part 3"" at SDN. It is now up to SAP to approve it."
+88,132402936474112000,Fri Nov 04 10:24:54 +0000 2011,0,0,I have just released my SAPLink Web Dynpro CHIP plugin. You can download it at: http://t.co/SeTGl47g #SAPLink #CHIP #WebDynpro
+89,127065670910349312,Thu Oct 20 16:56:31 +0000 2011,0,0,"My blog ""CHIPs, PageBuilder and the Side Panel - Part 2"" is available at SDN: http://t.co/ASI2VP0d"
+90,123410665514860545,Mon Oct 10 14:52:50 +0000 2011,0,0,"You can read my blog ""CHIPs, PageBuilder and the Side Panel - Part 1"" at SDN: http://t.co/wDfvL65L
+Part 2 is already submitted for approval."

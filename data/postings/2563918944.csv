@@ -1,0 +1,301 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,662394670706741248,Thu Nov 05 22:22:50 +0000 2015,4,0,RT @jujuadams: Handy surface and ds_* memory checking tool for #GameMaker - https://t.co/6hjsxxZOV9
+1,661674117939118080,Tue Nov 03 22:39:37 +0000 2015,6,0,"RT @8BitWarrior: For any #GameMaker users wanting an easy way to pass arguments to Create/Destroy/User events:
+https://t.co/RlD63p6Odo"
+2,656259788385439748,Tue Oct 20 00:05:00 +0000 2015,0,0,"@Support Thes URL display name flip-flops are maddening. You can, you can't, you can again, now you can't again. "".com"" is part of my brand."
+3,656257829729390592,Mon Oct 19 23:57:13 +0000 2015,2,0,"Dang it, @Support! You're messing up my Halloween Chi. I can no longer do my 100% hilarious https://t.co/sPhXrvWju7 display name change. :("
+4,650703663376105472,Sun Oct 04 16:06:57 +0000 2015,5,0,"RT @GameDevYal: I wish all #gamemaker #code was this pretty. New users, please learn to use macros, init scripts and whitespace... http://t…"
+5,650447934207557632,Sat Oct 03 23:10:46 +0000 2015,1,0,"RT @xotmatrix: Script submission: ""Convert UNIX time to GMS time"" http://t.co/0U9Q8pRDiU"
+6,647079812679471104,Thu Sep 24 16:07:04 +0000 2015,2,0,RT @xotmatrix: Hello lovelies. If any of you don't have a Dropbox account you could help me hugely by using this referral. RT? https://t.co…
+7,644605868684804096,Thu Sep 17 20:16:29 +0000 2015,2,0,Script Submission: line_rotate() http://t.co/48PSsbnv2Q
+8,644577792068321281,Thu Sep 17 18:24:55 +0000 2015,0,1,This GameMaker: Studio Pro bundle is INSANE! Get on it! https://t.co/Tn1B8NnnQa
+9,639511665097240576,Thu Sep 03 18:53:57 +0000 2015,4,0,"RT @iFredQC: . @gmlscripts A simple script to turn a real into a bool ""return !(!argument0);"" #GameMaker"
+10,636501390999879681,Wed Aug 26 11:32:11 +0000 2015,3,0,RT @gnysek: @xotmatrix http://t.co/a03vjjgT13 small submission from me :)
+11,629025285476847618,Wed Aug 05 20:24:49 +0000 2015,4,0,RT @iFredQC: . @xotmatrix I posted a new submission for @gmlscripts http://t.co/rnN8oJYNzD #gamemaker
+12,624972856900866049,Sat Jul 25 16:01:55 +0000 2015,0,0,@DarkestKale Argh! I've done this one too.
+13,624972583885238273,Sat Jul 25 16:00:50 +0000 2015,7,0,"RT @DarkestKale: @tha_rami 
+
+// just a quick check
+// return x;
+return 0;
+
+'Why is this returning zero all the time?'"
+14,624961911956881408,Sat Jul 25 15:18:25 +0000 2015,23,0,RT @helvetica: holy moly the summer games done quick schedule is amazing this year https://t.co/zX4AedeiIh
+15,624944215554789376,Sat Jul 25 14:08:06 +0000 2015,0,2,"Big, big thanks to Sebastian from @trexinteractive for his generous donation. You rock!"
+16,624616953953452033,Fri Jul 24 16:27:41 +0000 2015,1,2,"Thank you, @Rebusmind, for your donation. It means a lot. Stay awesome!"
+17,624309784972390400,Thu Jul 23 20:07:06 +0000 2015,2,0,http://t.co/025PuKlNH3 site should return to normal later tonight. Thanks for your continued patience.
+18,624309311695552514,Thu Jul 23 20:05:13 +0000 2015,1,3,Many thanks to @NocturneGames and @TMCicuurd12b42 for their very generous donations. You guys are the best!
+19,622428625657331712,Sat Jul 18 15:32:03 +0000 2015,1,0,Apologies for the current downtime. DNS will be forwarding to the static mirror at http://t.co/QBgrNsmw76.
+20,619912464914870272,Sat Jul 11 16:53:43 +0000 2015,0,0,@iFredQC I restored your post. MySQL was returning results in an unexpected order. I added some additional constraints to the query.
+21,619906131595497473,Sat Jul 11 16:28:33 +0000 2015,0,0,@iFredQC Sorry I had to delete your reply to the news topic. It was messing up my front page in a way that shouldn't happen. Really weird.
+22,619561773805518848,Fri Jul 10 17:40:12 +0000 2015,9,0,"RT @RussellKay: #GameMaker #Studio - v1.4.1598 - out now! - YoYo Accounts, Spine and Steam SDK updates + lots lots more http://t.co/GVOlbu0…"
+23,619516861361881089,Fri Jul 10 14:41:44 +0000 2015,2,0,RT @iFredQC: @xotmatrix Posted a new submission to @gmlscripts http://t.co/4Lz3doaohg
+24,616216491793481728,Wed Jul 01 12:07:15 +0000 2015,0,1,"@Threef Interesting. I missed that. I'm hoping that as types continue to become more strict, things will begin to work more as expected."
+25,616210608778838016,Wed Jul 01 11:43:52 +0000 2015,1,1,@Threef Seems like these scripts might actually address a bug in GM:Studio. http://t.co/nY2hdm01gg
+26,616208322904072193,Wed Jul 01 11:34:47 +0000 2015,2,0,Monthly Update for July. 8 new scripts. http://t.co/WqnVg9XJg0
+27,615853751103000576,Tue Jun 30 12:05:50 +0000 2015,0,0,"@Threef Thanks, I'll check them out later today."
+28,615087837503987712,Sun Jun 28 09:22:22 +0000 2015,0,0,@deciia11 I don't know how to use it. It is for smarter people than me.
+29,615078568956174336,Sun Jun 28 08:45:33 +0000 2015,0,0,@deciia11 I wish I knew. I don't understand it.
+30,606912397408931840,Fri Jun 05 19:56:06 +0000 2015,1,0,Thanks to @Shamanovitch for donating to the site!
+31,605383276472201217,Mon Jun 01 14:39:55 +0000 2015,1,1,"Pathetic Monthly Update for June
+http://t.co/WqnVg9XJg0"
+32,594583304097103872,Sat May 02 19:24:41 +0000 2015,1,0,"Monthly Update for May
+http://t.co/WqnVg9XJg0"
+33,591705042886885377,Fri Apr 24 20:47:30 +0000 2015,1,2,"Secret Script:
+draw_rectangle_sprite()
+http://t.co/Gs1eych7T2"
+34,590821552217657346,Wed Apr 22 10:16:49 +0000 2015,3,0,"RT @xotmatrix: GameMaker: Studio Early Access 1.99.402 Changes.
+http://t.co/LTdtCnWJl4"
+35,590604658177085440,Tue Apr 21 19:54:58 +0000 2015,5,0,RT @xotmatrix: Massive GameMaker:Studio EA update out today. Apparently it's a secret. #gamedev http://t.co/jMnLwE8LKc
+36,583269037393739777,Wed Apr 01 14:05:49 +0000 2015,1,0,"Surprisingly Regular Monthly Update for April
+http://t.co/KjilpGUT1G"
+37,583066287896571904,Wed Apr 01 00:40:10 +0000 2015,1,0,RT @xotmatrix: Apologies for today's site outage. I attempted to fund my account earlier but was distracted before making the final click. …
+38,582644052954230784,Mon Mar 30 20:42:21 +0000 2015,0,1,"draw_sprite_shear already significantly improved.
+http://t.co/LV1cxtd5wP"
+39,582640899311566848,Mon Mar 30 20:29:49 +0000 2015,0,0,@iFredQC Perhaps if you were trying to solve a different problem.
+40,582617820447383552,Mon Mar 30 18:58:07 +0000 2015,3,1,"New #GameMaker scripts:
+array_create
+array_add
+http://t.co/U9cd3ot5M9
+http://t.co/rNUnaeWmzv"
+41,582597950775267328,Mon Mar 30 17:39:10 +0000 2015,4,1,"New #GameMaker scripts:
+shader_set_uniform_color
+shader_set_uniform_rgba
+http://t.co/gXl0llOKDi
+http://t.co/NOmc4uUgaZ"
+42,582582592748138496,Mon Mar 30 16:38:08 +0000 2015,4,0,"New #GameMaker script:
+ds_grid_flood_fill
+http://t.co/cWDypFlVIO"
+43,582567485255208960,Mon Mar 30 15:38:06 +0000 2015,4,0,"New #GameMaker scripts:
+ds_grid_delete_column
+ds_grid_delete_row
+http://t.co/tXefT0mfP5
+http://t.co/GVSCnNGh0j"
+44,582552116390051842,Mon Mar 30 14:37:02 +0000 2015,1,2,"New script:
+draw_sprite_shear
+http://t.co/LV1cxtd5wP"
+45,578259138758582272,Wed Mar 18 18:18:16 +0000 2015,2,4,"Cool looking script submission from @NocturneGames:
+collision_line_bresenhams
+http://t.co/AsnOL5VTfL"
+46,576094215018442752,Thu Mar 12 18:55:38 +0000 2015,1,1,"Secret Script:
+ds_grid_flood_fill(grid,x,y,val)
+http://t.co/67QfldJyZL"
+47,572099224164171777,Sun Mar 01 18:20:58 +0000 2015,1,0,"RT @xotmatrix: Irregular Monthly Update for March
+http://t.co/bG37BF07jk"
+48,571898579230457856,Sun Mar 01 05:03:41 +0000 2015,1,0,"Irregular Monthly Update for March
+http://t.co/1juFzhAjkK"
+49,567714746368278528,Tue Feb 17 15:58:37 +0000 2015,11,0,"RT @YoYoGames: We're launching paid content for GameMaker: Player soon, be sure to sign up as a developer if you haven't already! https://t…"
+50,565787099475898368,Thu Feb 12 08:18:50 +0000 2015,0,1,"New script: string_nato()
+http://t.co/gQq5XhH9MG"
+51,565677714661998593,Thu Feb 12 01:04:11 +0000 2015,1,1,"Many thanks, @TMCicuurd12b42, for your generous donation to the site. You rock!"
+52,564305643964624896,Sun Feb 08 06:12:04 +0000 2015,1,1,New script: draw_sprite_inverted_ext http://t.co/W04KAEMSil
+53,564305484039983105,Sun Feb 08 06:11:26 +0000 2015,1,3,Updated script: draw_sprite_inverted http://t.co/p7LkGJeEu4
+54,564245548811550720,Sun Feb 08 02:13:16 +0000 2015,1,2,New script: ds_grid_draw http://t.co/oSAhw0M1zo
+55,564245499444613121,Sun Feb 08 02:13:04 +0000 2015,1,1,New script: ds_grid_filter_gaussian_wrap http://t.co/9LDdz52ft5
+56,564245436374872065,Sun Feb 08 02:12:49 +0000 2015,1,1,New script: ds_grid_filter_gaussian http://t.co/lDCUjC4h5a
+57,564245308805111810,Sun Feb 08 02:12:19 +0000 2015,1,1,New script: ds_grid_get_bicubic http://t.co/7paWnBk49R
+58,564245203272228866,Sun Feb 08 02:11:54 +0000 2015,1,1,New script: ds_grid_get_bilinear http://t.co/vKw78yc9NR
+59,564245067104145408,Sun Feb 08 02:11:21 +0000 2015,2,2,New script: draw_sprite_halfpixel http://t.co/hlXk2w78HQ
+60,564244603113455616,Sun Feb 08 02:09:31 +0000 2015,0,1,Added demo to: time_string() http://t.co/EA40TS5BOV
+61,564244469273227265,Sun Feb 08 02:08:59 +0000 2015,0,1,Added demo to: date_get_easter() New script: bit_clear() http://t.co/CDliUsGstU
+62,564244366118506499,Sun Feb 08 02:08:34 +0000 2015,0,1,Added demo to: date_format() http://t.co/vuvxBC7uXx
+63,564244027969519616,Sun Feb 08 02:07:14 +0000 2015,1,1,New script: bit_toggle() http://t.co/WF16IHJzKR
+64,564243960852254720,Sun Feb 08 02:06:58 +0000 2015,1,1,New script: bit_test() http://t.co/SmReSTWJcV
+65,564243789150056448,Sun Feb 08 02:06:17 +0000 2015,1,1,New script: bit_set() http://t.co/z1thd0H6NT
+66,564243617414279169,Sun Feb 08 02:05:36 +0000 2015,1,1,New script: bit_clear() http://t.co/aDcbhEOWNi
+67,563015345154572291,Wed Feb 04 16:44:53 +0000 2015,1,0,"Adding some scripts to the bitwise family. Thinking about shortening prefix from ""bitwise_"" to ""bit_"" (any links will redirect). Thoughts?"
+68,562422834387890176,Tue Feb 03 01:30:27 +0000 2015,1,0,RT @xotmatrix: Maybe I should play it safe and make a new function called bin_to_float() or bin_to_real().
+69,562420891644985345,Tue Feb 03 01:22:44 +0000 2015,1,0,"RT @xotmatrix: ... so that bin_to_dec(""1101.101"") == 13.625
+
+Should they be?"
+70,562420871076134912,Tue Feb 03 01:22:39 +0000 2015,1,0,"RT @xotmatrix: These scripts could be combined:
+http://t.co/pidcEcBqol
+http://t.co/GI6emUN4l4"
+71,561902336667185153,Sun Feb 01 15:02:11 +0000 2015,1,0,"Irregular Monthly Update for February
+
+http://t.co/KjilpHu51i"
+72,556925553911934976,Sun Jan 18 21:26:13 +0000 2015,0,1,"Added live demo to instance_nth_nearest(). Are these kinds of tweets going to be annoying? There will be many.
+http://t.co/iEkt9wZosC"
+73,556367821383270400,Sat Jan 17 08:30:00 +0000 2015,1,0,Apologies for any site weirdness you may have experienced in the last hour or so. Server migration broke a few things. Should be good now.
+74,551767548241252354,Sun Jan 04 15:50:09 +0000 2015,2,0,HUGE thanks to @philipbradley42 for his generous donation to the site! It's a really big help and your support is valued greatly.
+75,551612837617881088,Sun Jan 04 05:35:23 +0000 2015,1,0,RT @xotmatrix: This feature was added as a quick fix for a visitor with epilepsy who told me he was physically unable to use the white-on-b…
+76,551612807406288896,Sun Jan 04 05:35:16 +0000 2015,1,0,"RT @xotmatrix: Added an accessibility feature to http://t.co/QLbKhP6nSa. If you use Chrome, Opera, or Safari, click the icon in the upper-r…"
+77,551611227474911233,Sun Jan 04 05:28:59 +0000 2015,0,0,"On New Years Day, http://t.co/025PuKDoP7 recieved a major update. I'm still testing and tweaking but it's safe to try out."
+78,550826941029179392,Fri Jan 02 01:32:31 +0000 2015,12,0,"RT @WLewisGames: New #GameMaker Asset!
+inspired by Isaac and Zelda
+
+Check it out here:
+https://t.co/8x6f1EJdfy
+
+#gamedev #indiedev http://t…"
+79,545987455787102208,Fri Dec 19 17:02:08 +0000 2014,1,0,"RT @xotmatrix: Ah, domain renewal time. If you need a new domain, you can help http://t.co/QLbKhP6nSa by using this link to save $5. http:/…"
+80,545596928344330242,Thu Dec 18 15:10:19 +0000 2014,4,0,"RT @TMCicuurd12b42: TMC SGS Fast Collision System
+Unleash the power of Studio
+https://t.co/1e9eBRtnlN
+https://t.co/qzzNJIvHmK
+#GameMaker"
+81,541302660096204801,Sat Dec 06 18:46:25 +0000 2014,3,0,RT @GameDevDan: Free marketplace asset incoming! Let users resize your application window while keeping all elements in a 1:1 ratio https:/…
+82,540997002276786176,Fri Dec 05 22:31:51 +0000 2014,6,0,"RT @TMCicuurd12b42: ""Take a bow Icurrd, you just changed how GM games are done!""
+https://t.co/RmwkZSPc6C
+Thanks Alexander!
+#gamemaker #indi…"
+83,540996944961630209,Fri Dec 05 22:31:37 +0000 2014,6,0,"RT @TMCicuurd12b42: ""Best buy for Android developers""
+https://t.co/9dYizhNmti
+Thanks Andreas
+#gamemaker #indiedev #gamedev"
+84,540996924451475456,Fri Dec 05 22:31:32 +0000 2014,4,0,"RT @TMCicuurd12b42: ""This example brought a tear to my eye because it was so beautifully done""
+https://t.co/hOmqjBnkQ4
+Thanks Brandon!
+#gam…"
+85,540958842293477376,Fri Dec 05 20:00:13 +0000 2014,7,0,RT @NocturneGames: Santa's got a bit of Screen Shake for you #GameMaker devs this christmas! http://t.co/41tfKveo56 #gamedev #indiedev http…
+86,540277496155889664,Wed Dec 03 22:52:47 +0000 2014,3,0,RT @shaunspalding: Game Maker Studio: Inventory Tutorial: http://t.co/XxGyEaysv3 via @YouTube
+87,538896968102072321,Sun Nov 30 03:27:04 +0000 2014,2,0,"RT @TMCicuurd12b42: Protect your GM:Studio game settings,level progress,purchase state from prying eyes and manual edits. On Sale Now
+https…"
+88,538258546941386754,Fri Nov 28 09:10:12 +0000 2014,4,0,"RT @8BitWarrior: Placed my first free asset on the #GameMaker Marketplace. It's a simpler one, but some may find it helpful. https://t.co/T…"
+89,535881345180762112,Fri Nov 21 19:44:03 +0000 2014,6,0,"RT @YoYoGames: Interested in using GameMaker: Player? 
+The latest #GameMaker Tech Blog covers a number of really cool features!
+https://t.c…"
+90,535164479190102017,Wed Nov 19 20:15:29 +0000 2014,11,0,"RT @RussellKay: #GameMaker #Studio v1.4.1464 - out now! - GameMaker Player support, audio buffers, audio recording and lots more http://t.c…"
+91,533338033827758080,Fri Nov 14 19:17:50 +0000 2014,8,0,RT @RussellKay: #GameMaker #Studio #EarlyAccess v1.99.296 - released - updater changes (modules now sep. downloads) and bug fixes - http://…
+92,533334462990254080,Fri Nov 14 19:03:39 +0000 2014,10,0,"RT @YoYoGames: Check out the latest #GameMaker Tech Blog ""How To Setup And Use GamePads""
+https://t.co/hSZQ32ZVIe"
+93,531562328526163968,Sun Nov 09 21:41:49 +0000 2014,2,0,RT @GameMakerServer: @xotmatrix I'm improving http://t.co/4TV2dvXBLS it'll detect when a ds or surface is no longer referenced to help find…
+94,531137987644362752,Sat Nov 08 17:35:39 +0000 2014,2,0,"RT @GameMakerServer: The worst part about undefined is that comparing it to something does not return false, but instantly crashes."
+95,531137964001083393,Sat Nov 08 17:35:33 +0000 2014,2,0,RT @GameMakerServer: Great. GameMaker: Studio's new undefined prevents backwards compatible scripts from using ds_map_find in any way.
+96,531136277433683968,Sat Nov 08 17:28:51 +0000 2014,1,0,"RT @xotmatrix: Silly, YoYos. RT @GameMakerServer: WHAT IS THIS. Every script that has ""undefined"" in the name is being deleted."
+97,530055318815125504,Wed Nov 05 17:53:30 +0000 2014,113,0,RT @tha_rami: This is a lengthy but well-written rebuttal to @Totalbiscuit's assessment of Gamergate the other day by @SvizraLion. https://…
+98,527987124486692864,Fri Oct 31 00:55:14 +0000 2014,0,0,@superpixelchris @dave_norris Where's the brain?
+99,527705787963949056,Thu Oct 30 06:17:18 +0000 2014,1,0,RT @xotmatrix: This looks sweet as all heck. Check out TMC OPTPiX SpriteStudio API on the GameMaker: Marketplace! https://t.co/1lKqcl6a0p
+100,526207784312782848,Sun Oct 26 03:04:46 +0000 2014,0,0,Apologies for today's downtime. I've been very distracted this week and the account balance warning slipped my notice.
+101,522390354507489281,Wed Oct 15 14:15:40 +0000 2014,3,0,RT @ZackBellGames: #gamemaker marketplace is rad. Already got emailed about a small error. Everything is running smoothly in v1.2.1 https:/…
+102,522378920864137216,Wed Oct 15 13:30:14 +0000 2014,13,0,RT @ZackBellGames: It's live on the #gamemaker marketplace! Rope + Water Physics Platformer! :D #gamedev http://t.co/uOLxpJdhFU via @YouTube
+103,521812850172379136,Tue Oct 14 00:00:52 +0000 2014,3,0,RT @jobo_gm: Remember there's an Ask Me Anything for Parakeet 2 http://t.co/VTZWfHN0Ep
+104,520625573756817408,Fri Oct 10 17:23:04 +0000 2014,2,0,RT @tehwave: Great news for all #GameMaker #gamedev! - RT @YoYoGames: YoYo Games includes the compiler in GameMaker Export. - http://t.co/o…
+105,519962831639162880,Wed Oct 08 21:29:34 +0000 2014,1,0,RT @xotmatrix: Looks good! RT @FatalSleep: #GameMaker Surface-To-Buffer Get Pixel Anyone? Sounds cool: http://t.co/MD42c1zGw4
+106,519894039790125057,Wed Oct 08 16:56:12 +0000 2014,212,0,"RT @7dfps: NOVEMBER 8 - 15
+#7DFPS 2014
+LET'S DO THIS 
+http://t.co/r5StMU8fzY"
+107,519892470508044288,Wed Oct 08 16:49:58 +0000 2014,11,0,"RT @curvestudios: Stealth Inc 2 is taking inspiration from games like Flashback, Metroid and Abe's Oddysee, check out our new video: https:…"
+108,519631542105026561,Tue Oct 07 23:33:08 +0000 2014,0,0,"@admung No. While that has the right range, it has a uniform distribution vs. the Gaussian/normal distribution of the original."
+109,518151356561911809,Fri Oct 03 21:31:24 +0000 2014,5,0,RT @NocturneGames: BIG NEWS! YoYo Games has announced it's GameMaker: Player! http://t.co/Av5kGXIGBs http://t.co/ls0V45Ly3Z
+110,517922566686511105,Fri Oct 03 06:22:17 +0000 2014,9,0,"RT @mdf200: Today will be an interesting day for GameMaker users I suspect......
+
+Look to the future and dream of what might be!"
+111,517784318471458816,Thu Oct 02 21:12:56 +0000 2014,7,0,RT @YoYoGames: #GameMaker update V1.4.1451 - Steam Beta channel users can now access the Marketplace. Register using Steam User ID http://t…
+112,516482500927815680,Mon Sep 29 06:59:58 +0000 2014,3,0,RT @RussellKay: @mdf200 @Arsanthania OpenAL has internal limits on the number of sounds that can be played at once but they are very high
+113,514519338347286528,Tue Sep 23 20:59:04 +0000 2014,8,0,"RT @NocturneGames: I made a new MarketPlace asset... Aura - Surface Based Light And Shadows http://t.co/uXqxv7oUC1 #GameMaker #gamedev
+
+htt…"
+114,513997181087670274,Mon Sep 22 10:24:12 +0000 2014,0,0,"@MetroidMan347 Yes, I'll consider anything you care to send."
+115,513996326678573056,Mon Sep 22 10:20:48 +0000 2014,1,0,RT @TMCicuurd12b42: Neat! http://t.co/GcUYhaFeA2 via @YouTube
+116,513995983714537474,Mon Sep 22 10:19:26 +0000 2014,0,0,"@MetroidMan347 You can submit scripts through the site ""Submit"" feature, post in ""Script Submission"" forum, or email xot@gmlscripts.com."
+117,513988872800182272,Mon Sep 22 09:51:11 +0000 2014,2,0,RT @uheartbeast: First Prototype Copy of the Book https://t.co/OJmFJw5hQC
+118,512179101470568449,Wed Sep 17 09:59:48 +0000 2014,3,0,RT @xotmatrix: [GameMaker Tutorial] Platform Animations http://t.co/GpA1jrgawI
+119,511469254219018240,Mon Sep 15 10:59:07 +0000 2014,0,1,Game Maker Studio: Advanced Lighting Tutorial: http://t.co/dlWOiWVBcM via @YouTube
+120,510509131543769088,Fri Sep 12 19:23:56 +0000 2014,8,0,"RT @YoYoGames: Part 2 of the ""Scaling For Devices"" Tech Blog series is here! http://t.co/19FJ7WRdpo
+Missed Part 1?  http://t.co/xIZP7PllJY …"
+121,510366109854220288,Fri Sep 12 09:55:37 +0000 2014,3,0,RT @Threef: GM Tutorial - First Person Shooter.pdf - by @mark_overmars https://t.co/as32hdGj2o #GameMaker
+122,510354400284377088,Fri Sep 12 09:09:05 +0000 2014,2,0,"RT @TMCicuurd12b42: TMC Frame Skip v2.0
+The price has risen but the object is now perfect! Get it on sale for the price of v1.0
+http://t.co…"
+123,510195926988623872,Thu Sep 11 22:39:22 +0000 2014,3,0,RT @mthwgeek: @NocturneGames http://t.co/j4gryVJVKo
+124,510195869363081216,Thu Sep 11 22:39:08 +0000 2014,9,0,"RT @NocturneGames: Holy crap, but this is a nice looking 3D room editor for #GameMaker!!! About time someone made something like this... ht…"
+125,509928770451427328,Thu Sep 11 04:57:47 +0000 2014,4,0,RT @AbleGamers: @sn0wm4nX This is the original image. before simulated colorblind view. http://t.co/2fzXLzo329
+126,509928301222039553,Thu Sep 11 04:55:55 +0000 2014,215,0,RT @AbleGamers: An example of why Colorblind options are a must. Can you tell what MegaMan is red and what one is green? http://t.co/rBmIDK…
+127,509885590435672064,Thu Sep 11 02:06:12 +0000 2014,5,0,RT @NocturneGames: Embed YouTube videos in your #GameMaker HTML5 games: http://t.co/65BDksFaXe #gamedev
+128,509218744598401024,Tue Sep 09 05:56:24 +0000 2014,41,0,RT @SamWhillance: The JCHTML5 engine is out! Start your #GameMaker #HTML5 games half finished with this feature-rich engine! - http://t.co/…
+129,508585231465459713,Sun Sep 07 11:59:02 +0000 2014,2,0,RT @xotmatrix: Game Maker Multi Room Overworld System (Zelda Style): http://t.co/YFBIMfNjs6 via @YouTube
+130,508547503482875904,Sun Sep 07 09:29:07 +0000 2014,3,0,"RT @TMCicuurd12b42: @YoyoGames TMC SGS Fast Collision System v1.0.3 is up and running. Chek it out!
+https://t.co/dLxhOtMQPQ
+https://t.co/us…"
+131,508364132291477505,Sat Sep 06 21:20:28 +0000 2014,2,0,"RT @TMCicuurd12b42: TMC SGS Fast Collision System v1.0.3 tweaked the demo
+ http://t.co/SUyByJalun"
+132,508239774679695360,Sat Sep 06 13:06:19 +0000 2014,2,0,"RT @rinkuhero: btw, if there is possibly some indie dev in the world who hasn't heard of this, i recommend everyone try out this: http://t.…"
+133,507926084420386816,Fri Sep 05 16:19:50 +0000 2014,18,0,"RT @YoYoGames: Learn ""Scaling For Devices: The GUI Layer"" In part 1 of our 2 part Tech Blog.
+
+https://t.co/UI7CY3eNu6 #GameMaker"
+134,507773222406746112,Fri Sep 05 06:12:24 +0000 2014,9,0,"RT @jobo_gm: Announcing Parakeet ""2"" for #GameMaker. Bigger, faster, better. Not final, subject to change. Full release date: TBA. http://t…"
+135,507302513628819456,Wed Sep 03 23:01:59 +0000 2014,7,0,RT @Arsanthania: Apparently Gamemaker:Studio can take 4k non-native resolution screenshots using the application_surface.  I am excited now…
+136,507223299286245377,Wed Sep 03 17:47:12 +0000 2014,2,0,RT @xotmatrix: RT @uheartbeast: New tutorial on state based AI and timelines in #gamemaker #gml http://t.co/EXsWqliuBT
+137,507203970616401921,Wed Sep 03 16:30:24 +0000 2014,1,0,RT @xotmatrix: New series of big posts on my adventures in blue noise dithering. Part of a much bigger dithering topic. http://t.co/28FtL8l…
+138,507202517139079170,Wed Sep 03 16:24:38 +0000 2014,2,0,"RT @xotmatrix: Ooooo, Color Blindness Simulation for #accessibility testing is a featured shader. 33% off flash sale GO! https://t.co/3KZCc…"
+139,507197609723691008,Wed Sep 03 16:05:08 +0000 2014,4,0,"RT @DavidBatty: The Gamemaker Marketplace has just been updated with new categories, packed with awesome GameMaker assets. https://t.co/FXF…"
+140,506885169907658752,Tue Sep 02 19:23:36 +0000 2014,3,0,"RT @MetroidMan347: .@shaunspalding You inspired me to make a tutorial on my own method of pausing!
+
+http://t.co/YDN82uuYPx"
+141,506884735566495744,Tue Sep 02 19:21:53 +0000 2014,0,0,"Jeez, I can't believe it's been an entire month since I posted a Secret Script. Sorry about that."
+142,506878244612620288,Tue Sep 02 18:56:05 +0000 2014,1,1,"Secret Script!
+ds_grid_filter_gaussian() 
+Demo: https://t.co/pYsQLpmbgN 
+Pastebin: http://t.co/OHq3M6d0xL http://t.co/926n2a8mky"
+143,506814095517962240,Tue Sep 02 14:41:11 +0000 2014,9,0,"RT @mdf200: New #FREE #HTML5 spinner loading bar replacement for #GameMaker #Studio, 
+
+Uses spin.js - http://t.co/RvePDC6j92
+
+https://t.co/…"
+144,506466617132216320,Mon Sep 01 15:40:25 +0000 2014,1,0,RT @xotmatrix: Fingers crossed for better conditional compilation in shaders. http://t.co/QiUnMj99c7
+145,505781256500809728,Sat Aug 30 18:17:03 +0000 2014,4,0,RT @hamrath: What I did so far with @NocturneGames' scripts (and tiles from @opengameart) https://t.co/GJUdF20c7Z /cc @YoYoGames #gamemaker…
+146,505780618819821569,Sat Aug 30 18:14:31 +0000 2014,7,0,"RT @NocturneGames: Una pregunta? Cuantos desarrolladores hay que hablan Español y que quieren una pagina ""oficial"" de hablar Español para #…"
+147,505780126152663040,Sat Aug 30 18:12:33 +0000 2014,4,0,"RT @NocturneGames: Really, really, nice tool for #GameMaker here to visualise blend modes. Very complete and easy to use... http://t.co/0la…"
+148,505415716808716288,Fri Aug 29 18:04:31 +0000 2014,1,0,RT @xotmatrix: Really excellent tutorial. RT @uheartbeast: Tutorial on using Parent Objects in #GameMaker http://t.co/093dlGyYQq
+149,505399773177053185,Fri Aug 29 17:01:10 +0000 2014,5,2,Another great GM:Studio Tech Blog by @NocturneGames. Motion Planning Functions -https://t.co/twlCf3ktWc
+150,505254607418060801,Fri Aug 29 07:24:20 +0000 2014,13,0,RT @BrianDColon: See? Making games is easy! #GameMaker #GameDev #IndieDev https://t.co/2lUcLpk5XY
+151,504991005255675906,Thu Aug 28 13:56:52 +0000 2014,5,0,RT @YoYoGames: RT: In #NYC mid-Nov? Learn how to make indie games! http://t.co/mVeIGnEmug #GameMaker @younggamemakers @whoisjp
+152,504989742451417089,Thu Aug 28 13:51:51 +0000 2014,4,0,RT @FatalSleep: #GameMaker #Studio What is your favorite thing about GameMaker: Studio? Mine is the networking system! VERY easy to incorpo…
+153,504307911037050881,Tue Aug 26 16:42:30 +0000 2014,5,0,RT @IndieDevAustin: GMTwitter appears to be the most popular asset on the @YoYoGames #GameMaker marketplace! Cool!https://t.co/K40PqucBa6 h…
+154,504306942849064960,Tue Aug 26 16:38:39 +0000 2014,6,0,RT @NocturneGames: Stunning block/minecraft engine available at low cost on the #GameMaker: Marketplace. Fantastic value! https://t.co/ApID…
+155,504253668615786496,Tue Aug 26 13:06:57 +0000 2014,13,0,RT @xotmatrix: LAST 3 HOURS to get my color blindness #accessibility tester at an extra low price. #gamedev https://t.co/3KZCcfez6c http://…
+156,504168139400417280,Tue Aug 26 07:27:06 +0000 2014,3,0,RT @xotmatrix: LAST 12 HOURS to get my color blindness #accessibility tester at an extra low price! #gamedev https://t.co/3KZCcfez6c http:/…
+157,503936093893320704,Mon Aug 25 16:05:02 +0000 2014,4,1,LAST DAY to get my color blindness #accessibility tester at an extra low price. #gamedev https://t.co/lAAKZhCjf6 http://t.co/a5XfSNoV4Z
+158,503677427974144000,Sun Aug 24 22:57:11 +0000 2014,5,0,"RT @jobo_gm: Get Regular Expressions Bundle (Android,iOS,Windows) for #GameMaker now at a discounted price https://t.co/zgLLYxij6w http://t…"
+159,503434637415546880,Sun Aug 24 06:52:25 +0000 2014,11,0,RT @uheartbeast: 100% in less than 24 HOURS! I just added the first stretch goal [Online Multiplayer] so check it out http://t.co/7CtoCW42e…
+160,503331510809006081,Sun Aug 24 00:02:38 +0000 2014,1,0,RT @xotmatrix: LD48 is your last chance to get my color blindness accessibility tool at the intro price! https://t.co/ggbJIAq2XB http://t.c…
+161,503280144103251971,Sat Aug 23 20:38:31 +0000 2014,3,0,RT @NocturneGames: #GMCJam 15 has finished and the results are in! http://t.co/0g0bWQhhjL Well done all!
+162,503269850870210561,Sat Aug 23 19:57:37 +0000 2014,3,0,RT @xotmatrix: Low-Res Pixel Perfect Scaling for GM:Studio http://t.co/P44PaYHtpz via @Wayne_Serrano
+163,503235807499800576,Sat Aug 23 17:42:20 +0000 2014,12,0,RT @uheartbeast: My @kickstarter for a Game Maker Language book is LIVE! https://t.co/vyU95g8Nml
+164,503234878025256960,Sat Aug 23 17:38:39 +0000 2014,1,0,RT @xotmatrix: Game Maker Studio: Pause Menu Tutorial #1: http://t.co/MuSVEOStsW via @YouTube
+165,502845280111591424,Fri Aug 22 15:50:31 +0000 2014,5,0,"RT @xotmatrix: I highly recommend you to read the latest GM Tech Blog (by @NocturneGames) on ""best practices"". https://t.co/SU2N7xheQk"
+166,502841770259251200,Fri Aug 22 15:36:35 +0000 2014,19,0,"RT @YoYoGames: The latest GameMaker Tech Blog covers ""best practices"" for when you are using the GameMaker Language (GML) https://t.co/1264…"
+167,502840670173007872,Fri Aug 22 15:32:12 +0000 2014,6,0,RT @MarkDuval: Thankyou @shaunspalding for your #gamemaker tutorials that have helped me greatly to make games. https://t.co/WQTPxPKhpe #We…
+168,502131029088698369,Wed Aug 20 16:32:21 +0000 2014,1,0,RT @xotmatrix: This is the LAST WEEK to get my color blindness accessibility tool at the introductory price! https://t.co/rm48et665P http:/…
+169,502115826598940672,Wed Aug 20 15:31:56 +0000 2014,3,0,RT @mdf200: Just added it so that window_device() in HTML5 mode (non-webgl) will return the current 2D graphics context - very handy for JS…
+170,502114741947748352,Wed Aug 20 15:27:38 +0000 2014,5,0,"RT @CastorStudios: Just released a new game asset on the GameMaker Marketplace, ""Animated Smoke Pack 1"".
+https://t.co/EigeqDMfzJ http://t.c…"
+171,501378125851557888,Mon Aug 18 14:40:35 +0000 2014,3,0,"RT @tehwave: To celebrate the 100th sale of draw_text_shadow, it's now 100% off! Get it while it's literally FREE: https://t.co/hn5krzPLaq"
+172,501375372467118081,Mon Aug 18 14:29:38 +0000 2014,4,0,RT @YoYoGames: @FatalSleep We haven't forgotten! Buffers Tech Blog is scheduled later this month.
+173,501373883170455552,Mon Aug 18 14:23:43 +0000 2014,3,0,RT @BlessHayGaming: Every GameMaker user should read this https://t.co/5mzTAJtMrV too many do not know about the manual :D
+174,501030270553042944,Sun Aug 17 15:38:19 +0000 2014,16,0,RT @HeadingtonBard: In this week ... GameMaker:Studio for Dummies. An entry level approach with some added routines. @YoYoGames #gamedev ht…
+175,500389187825463299,Fri Aug 15 21:10:54 +0000 2014,3,0,RT @shaunspalding: A follow up to my platformer 'enemy' tutorial on how to make your dudes not walk off cliffs: https://t.co/s89lpagmAa
+176,500387886857203712,Fri Aug 15 21:05:43 +0000 2014,10,0,RT @xotmatrix: Color Blindness Simulation for accessibility testing on the GameMaker: Marketplace #a11y https://t.co/rm48et665P http://t.co…
+177,500311223519281153,Fri Aug 15 16:01:05 +0000 2014,4,0,RT @8BitWarrior: Released another tool on the #GameMaker Marketplace. Free for today! https://t.co/vWtb5xj9np
+178,500309885972938752,Fri Aug 15 15:55:46 +0000 2014,5,0,"RT @TheSnidr: Transform your 3D game onto the surface of a planet with the Not-Sphere shader! Now on the YoYo marketplace:
+https://t.co/Zvr…"
+179,500307037306507264,Fri Aug 15 15:44:27 +0000 2014,2,0,RT @xotmatrix: Real-time Color Blindness Simulation for accessibility testing now available in the GM:Marketplace. #a11y https://t.co/rm48e…
+180,500136354320502784,Fri Aug 15 04:26:13 +0000 2014,2,1,Game Maker Studio: Double Jump Tutorial [Platformer]: http://t.co/DZqbwQDioR via @YouTube
+181,500083969996914689,Fri Aug 15 00:58:04 +0000 2014,5,0,"RT @NocturneGames: New FREE asset on the GameMaker: Marketplace! ""Fantasy Walls"" for top down games: http://t.co/3rwgc8GJjy
+Ideal with my A…"
+182,499605432198262784,Wed Aug 13 17:16:31 +0000 2014,20,0,"RT @YoYoGames: #GameMaker Marketplace is now open for business! Update to V. 1.4 (Beta) for access! https://t.co/tOYljHODgW
+
+http://t.co/MH…"
+183,499590838155218944,Wed Aug 13 16:18:32 +0000 2014,5,0,"RT @CrystalFortress: Latest update to Path Finding Extended is live, supports tile constraints and has an actual maze generator. https://t.…"
+184,499245557559611393,Tue Aug 12 17:26:31 +0000 2014,2,1,"Results are in: lerp(value_if_false,value_if_true,condition) considered harmful. It really is terrible. Don't do it. http://t.co/6ib2mgnYiE"
+185,499217410478866434,Tue Aug 12 15:34:40 +0000 2014,6,0,RT @csanyk: Thoughts on the #GameMaker Marketplace experience so far: https://t.co/zMswgcRwc9 #gamedev
+186,499049794003013632,Tue Aug 12 04:28:37 +0000 2014,10,0,RT @gamelogicza: Grids 1.2.0 for GameMaker is out! Now with rect and diamond grids. @mdf200 @MakeGamesSA https://t.co/O7n9zfbBTy http://t.c…
+187,498829729886392320,Mon Aug 11 13:54:10 +0000 2014,33,0,"RT @gamasutra: GameMaker: Studio coming to Xbox One, current Windows platforms http://t.co/jV7ZofPCMs"
+188,498823357262213120,Mon Aug 11 13:28:50 +0000 2014,16,0,"RT @lordoftheyoyo: GameMaker: Studio beefs up support for Microsoft hardware, adding Xbox One PGbiz http://t.co/Jx8M2QScMJ via @pgbiz"
+189,498823321266683904,Mon Aug 11 13:28:42 +0000 2014,13,0,RT @developonline: GameMaker: Studios adds Xbox One support http://t.co/r7OavBYQCb
+190,498501992512520192,Sun Aug 10 16:11:51 +0000 2014,1,0,"GML doesn't have a ternary operator: n = condition?value_if_true:value_if_false
+... or maybe it does:
+http://t.co/asScRJhYU7"
+191,498495914437541888,Sun Aug 10 15:47:42 +0000 2014,0,0,Regarding GM:Studio 1.x to 2.0 migration. MT @lordoftheyoyo: There'll be an upgrade path for existing users.
+192,498119775428829184,Sat Aug 09 14:53:03 +0000 2014,5,0,"RT @lordoftheyoyo: Great summary of GameMaker:Studio 1.4 and near future improvements.  No mention of Xbox One, so that can’t be happening …"
+193,498119651604566018,Sat Aug 09 14:52:34 +0000 2014,4,0,"RT @chinafreak: I'm just done with my Draw Text Custom Extended with many commands and it's now on Marketplace! #GameMaker #Studio
+
+https:/…"
+194,498119451800522753,Sat Aug 09 14:51:46 +0000 2014,7,0,"RT @csanyk: Yay, 7 people downloaded my new, free Simple Performance Test on the GameMaker: Marketplace last night! https://t.co/uCGfcMyoLV…"
+195,498119212318334977,Sat Aug 09 14:50:49 +0000 2014,6,0,RT @jobo_gm: D3D Starter Kit now available for #GameMaker! Special release price! Kickstart your 3D games! https://t.co/LFJivY1Mkg http://t…
+196,497882284306206720,Fri Aug 08 23:09:21 +0000 2014,2,0,RT @lordoftheyoyo: I'm looking forward to next week.  @mdf200 is primed to accidentally make  a nice PR announcement during his joint GDC t…
+197,497827836154347521,Fri Aug 08 19:32:59 +0000 2014,2,0,Things are looking up for GML data types: http://t.co/Ys3wIXIcWj
+198,497826479766401024,Fri Aug 08 19:27:36 +0000 2014,10,0,RT @YoYoGames: Our latest Tech Blog gives a brief run-down of what you can expect from version 1.4 https://t.co/Vtj7PDW3Co #GameMaker
+199,497385884439044096,Thu Aug 07 14:16:50 +0000 2014,5,0,RT @mattjennings44: My #GameMaker #Studio #RevMob extension has been released on the marketplace! Temporarily on sale for $0.99! http://t.c…

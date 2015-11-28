@@ -1,0 +1,65 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,614329656930467840,Fri Jun 26 07:09:38 +0000 2015,0,0,API Management and Microservices https://t.co/RaWkhOhIOq via @sharethis
+1,614312831857487872,Fri Jun 26 06:02:47 +0000 2015,0,0,Containers are the future. Just not yet. @circleci http://t.co/y4Dhq82Gxr
+2,607985417904783360,Mon Jun 08 18:59:54 +0000 2015,0,0,Spreadsheet or database? http://t.co/ARxfoAFEvc
+3,603554107438170112,Wed May 27 13:31:27 +0000 2015,0,0,Programming #JavaScript? Then @WebStormIDE or @SublimeTextRuls ... but check out @brackets and @code.  https://t.co/OzTA6X5gSq
+4,603264048843489281,Tue May 26 18:18:52 +0000 2015,0,0,Fedora 22 wears three hats... @fedora http://t.co/qWAzYHu6Xv
+5,603262953203245057,Tue May 26 18:14:30 +0000 2015,0,1,"Distributed system, heal thyself! http://t.co/E9pFQUpFpn @infoworld @pivotal"
+6,588027326652354560,Tue Apr 14 17:13:34 +0000 2015,1,0,"Formerly known as a ""file system."" @Nexenta Extends its #OpenSDS Market Leadership w Updated #OpenSource User Community #SDS #SDDC"
+7,586262326577340416,Thu Apr 09 20:20:05 +0000 2015,2,3,Love technology? Experienced writer? Ornery and analytical? We've got a job for you @infoworld! Description at http://t.co/k7RtxpfPU5
+8,580136532582875137,Mon Mar 23 22:38:22 +0000 2015,1,0,RT @EricKnorr: First prototype of a working Tricorder unveiled at SXSW http://t.co/MflXIw8S1W @IEEESpectrum #StarTrek
+9,578688438011961344,Thu Mar 19 22:44:09 +0000 2015,119,0,RT @SFGate: Berkeley resident writes thoughtful note to the person stealing his Wall Street Journal: http://t.co/yJPJd6xqVu http://t.co/Egn…
+10,577907963504934912,Tue Mar 17 19:02:50 +0000 2015,8,0,RT @icecrime: Rare occurrence of an article neither 100% pro or 100% against - “The best and worst of Docker” by @syegulalp http://t.co/pVK…
+11,576080026975649792,Thu Mar 12 17:59:16 +0000 2015,0,0,VMware vSphere turns 6 today. It's aging gracefully. @VMware @infoworld http://t.co/addrHkHpda
+12,576070210903363584,Thu Mar 12 17:20:15 +0000 2015,279,0,"RT @Windows: One man, one passion, one very 70's business card. #DoGreatThings #TBT http://t.co/iNMYLxSxAf"
+13,576070064325070848,Thu Mar 12 17:19:40 +0000 2015,3,0,RT @EricKnorr: For the record: All 400 pages of the FCC's Net Neutrality rules http://t.co/ctwestTdJV #NetNeutrality #FCC
+14,575693778146566145,Wed Mar 11 16:24:27 +0000 2015,1,0,"Finally, a Google Cloud service aimed squarely at the enterprise -- and Amazon Glacier @googlecloud #cloud http://t.co/I5Mqj6WE3J"
+15,575689486920589312,Wed Mar 11 16:07:24 +0000 2015,1,0,Office on the Mac lives! @Office @InfoWorld http://t.co/sY3WOvGFxR
+16,575072076718997504,Mon Mar 09 23:14:02 +0000 2015,8,0,RT @meheller: Review: Microsoft Azure beats Amazon and Google for mobile development  http://t.co/vPyDGvvvP9 via @infoworld | My take
+17,565605037771345923,Wed Feb 11 20:15:24 +0000 2015,48,0,RT @kellabyte: If I hear micro services one more time http://t.co/wRgH5BdcCl
+18,565602107446013952,Wed Feb 11 20:03:45 +0000 2015,28,0,RT @mjasay: Private cloud's very public failure by @mjasay for @TechRepublic http://t.co/sf73YUGZpo
+19,563792536674639873,Fri Feb 06 20:13:10 +0000 2015,4,0,RT @MobileGalen: Now presenting: Your public cloud winners by @DavidLinthicum http://t.co/oKVXrsZqRn via @infoworld
+20,563792351609380864,Fri Feb 06 20:12:26 +0000 2015,4,0,RT @sdtimes: Microsoft releases documentation for new set of hybrid Azure #cloud test environments http://t.co/ho0QZShW7r #Azure http://t.c…
+21,563042051441565696,Wed Feb 04 18:31:00 +0000 2015,2,0,RT @EricKnorr: Leading Net neutrality advocate Paul Venezia responds to Tom Wheeler's bold Title II proposal http://t.co/Eklf8sb1r8 @infowo…
+22,560115558079664129,Tue Jan 27 16:42:10 +0000 2015,1,0,RT @nealweinberg: 15 ways to screw up a job interview. http://t.co/TwNUefQtwJ
+23,559866946833764352,Tue Jan 27 00:14:16 +0000 2015,0,0,Congrats @rstudio on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+24,559866674799595523,Tue Jan 27 00:13:11 +0000 2015,3,1,Congrats @splicemachine on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+25,559866415709057024,Tue Jan 27 00:12:09 +0000 2015,0,0,Congrats @tableau on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+26,559866153648939008,Tue Jan 27 00:11:07 +0000 2015,1,1,Congrats @Tintri #VMstore on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+27,559864354464473088,Tue Jan 27 00:03:58 +0000 2015,1,2,Congrats @VMware #VSAN on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+28,559857411494670336,Mon Jan 26 23:36:23 +0000 2015,0,0,Why @openshift wins #TOY2015: @InfoWorld's PaaS shoot-out http://t.co/H2pYh0htQe
+29,559856915971178496,Mon Jan 26 23:34:25 +0000 2015,6,3,Congrats @openshift on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+30,559836366834372608,Mon Jan 26 22:12:45 +0000 2015,0,2,Congrats @neo4j on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+31,559835745393709056,Mon Jan 26 22:10:17 +0000 2015,0,0,@SQLServer 2014 pushes the pedal to the metal. #TOY2015. Read @InfoWorld's review http://t.co/GfIRFZ2xxN
+32,559834668489375744,Mon Jan 26 22:06:00 +0000 2015,0,0,Congrats @Microsoft @SQLServer on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+33,559834467208929281,Mon Jan 26 22:05:12 +0000 2015,1,2,Congrats @Microsoft @Office for #iOS on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+34,559829829860618241,Mon Jan 26 21:46:47 +0000 2015,8,2,Congrats @Lancope #StealthWatch on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+35,559827533042954241,Mon Jan 26 21:37:39 +0000 2015,12,7,Congrats @jetbrains @intellijidea @WebStormIDE on winning 2 @InfoWorld 2015 Technology of the Year Awards! http://t.co/MYAbjmaMSF  #TOY2015.
+36,559826234620653570,Mon Jan 26 21:32:30 +0000 2015,2,2,Congrats @ioSafe on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+37,559824758926106625,Mon Jan 26 21:26:38 +0000 2015,6,14,Congrats @w3c #HTML5 on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+38,559824230594781184,Mon Jan 26 21:24:32 +0000 2015,2,0,Congrats @HP #HPMoonshot on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+39,559823060157480960,Mon Jan 26 21:19:53 +0000 2015,1,0,Congrats @golang on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+40,559821809902559232,Mon Jan 26 21:14:55 +0000 2015,0,0,Congrats @github on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+41,559818716649508864,Mon Jan 26 21:02:37 +0000 2015,0,1,@LinkSprinter reinvents handheld network testing. #TOY2015. See @InfoWorld's review http://t.co/GfIRFZ2xxN
+42,559818546763407360,Mon Jan 26 21:01:57 +0000 2015,0,1,Congrats @LinkSprinter on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+43,559816378962550785,Mon Jan 26 20:53:20 +0000 2015,0,0,Congrats to @befamous on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+44,559814992384360448,Mon Jan 26 20:47:49 +0000 2015,0,0,Congrats @docker on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+45,559813425480474625,Mon Jan 26 20:41:36 +0000 2015,0,0,"@DellEnterprise PowerEdge R730xd shows that innovation still lives in 2U, 2-socket servers. See @InfoWorld's review http://t.co/ArBjRsdUtC"
+46,559812934247776256,Mon Jan 26 20:39:39 +0000 2015,1,0,Congrats @DellEnterprise on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+47,559797165006917632,Mon Jan 26 19:36:59 +0000 2015,0,2,"@Dell's XPS 15 Touch is ""the best Windows laptop ever."" #TOY2015. Read @InfoWorld's review http://t.co/J5h2mio9Jj"
+48,559796655721967616,Mon Jan 26 19:34:57 +0000 2015,5,1,Congrats @Dell on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+49,559796184177340416,Mon Jan 26 19:33:05 +0000 2015,0,0,Congrats @ApacheSpark on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+50,559793898180984832,Mon Jan 26 19:24:00 +0000 2015,0,0,@ApacheHive is a winner. #TOY2015. See @InfoWorld's Hive review http://t.co/ZieqC3xgUn
+51,559793441379344385,Mon Jan 26 19:22:11 +0000 2015,0,0,Congrats @ApacheHive on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+52,559793121295204352,Mon Jan 26 19:20:55 +0000 2015,0,0,Congrats @hadoop on winning @InfoWorld’s 2015 Technology of the Year Award! You've done it again. http://t.co/MYAbjmaMSF  #TOY2015.
+53,559791636817772544,Mon Jan 26 19:15:01 +0000 2015,0,1,"@cassandra is a winner. #TOY2015. See @InfoWorld's ""Big data showdown"" http://t.co/pOGmNgvLs9"
+54,559790940819177474,Mon Jan 26 19:12:15 +0000 2015,0,0,Congrats @cassandra on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF  #TOY2015.
+55,559790440895889409,Mon Jan 26 19:10:16 +0000 2015,3,3,"@AnyPresence is a winner. See @InfoWorld's ""MBaaS shootout"" http://t.co/faGsMaUmBm"
+56,559789526822834176,Mon Jan 26 19:06:38 +0000 2015,3,2,Congrats @AnyPresence on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF #TOY2015.
+57,559789016753524736,Mon Jan 26 19:04:36 +0000 2015,1,0,Congrats @angularjs on winning @InfoWorld’s 2015 Technology of the Year Award! http://t.co/MYAbjmaMSF #TOY2015
+58,559788352879091712,Mon Jan 26 19:01:58 +0000 2015,0,0,Today is the big day. Read about the winners of @InfoWorld’s 2015 Technology of the Year Awards! http://t.co/MYAbjmaMSF #TOY2015
+59,312304500792782849,Thu Mar 14 20:49:29 +0000 2013,0,0,"Re: ""open cloud,"" compatibility, interop... what APIs etc have to be compatible / interoperable exactly? #cloudchat"
+60,289440354015518720,Thu Jan 10 18:35:32 +0000 2013,0,0,Rich and connected: Congratulations @Jaspersoft on your @InfoWorld 2013 Technology of the Year Award - http://t.co/5fMU1esa
+61,289172946231123968,Thu Jan 10 00:52:57 +0000 2013,0,0,@Sencha Congrats Sencha on your @InfoWorld 2013 Technology of the Year Award - http://t.co/5fMU1esa
+62,289162545347051520,Thu Jan 10 00:11:37 +0000 2013,0,0,@jd_peterson Congrats to Zendesk on your @Infoworld Technology of the Year Award! http://t.co/cQaKy9rk #cloud #IT
+63,248520464136282112,Wed Sep 19 20:34:30 +0000 2012,0,0,@sandraklo I had the same problem! I'll reply to your email right now.

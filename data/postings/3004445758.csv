@@ -1,0 +1,213 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668907889436700672,Mon Nov 23 21:44:03 +0000 2015,1,0,"RT @cscotta: @skamille Hah, same. jclouds looks unrelated to jgroups. Ignite’s from GridGain. Also, it launched a Swing view… https://t.co/…"
+1,668869387693260801,Mon Nov 23 19:11:03 +0000 2015,0,2,#ApacheIgnite Framework supports scheduling and running Ignite nodes in a Mesos cluster https://t.co/eDHvKJKg6u #FastData #InMemoryComputing
+2,668852454092574720,Mon Nov 23 18:03:46 +0000 2015,0,3,Learn about Cluster Leader Election with #ApacheIgnite https://t.co/zgvAcb1fme #FastData #InMemoryComputing
+3,667782188469985280,Fri Nov 20 19:10:55 +0000 2015,5,1,Learn about Deploying #ApacheIgnite within Docker containers https://t.co/ns8AtgaFHo #FastData #InMemoryComputing
+4,667763210834046984,Fri Nov 20 17:55:30 +0000 2015,2,1,"With #ApacheIgnite, easily create logical groups of cluster nodes within a cluster https://t.co/pJ2boTulh9 #FastData #InMemoryComputing"
+5,667404665705861121,Thu Nov 19 18:10:46 +0000 2015,6,5,Learn about Network Configuration · Apache Ignite https://t.co/zkp8MVkIe0 #apacheignite #fastdata #inmemorycomputing
+6,667032667238572032,Wed Nov 18 17:32:35 +0000 2015,5,4,Automatically discover cluster nodes on Google Compute Engine cluster with Apache Ignite https://t.co/MK17dN910E #ApacheIgnite #FastData
+7,666513707480969216,Tue Nov 17 07:10:25 +0000 2015,6,0,"RT @CalamitousCorey: Check out my blog posts about Apache Ignite. An In-Memory Data Fabric. Even more content coming soon!@ApacheIgnite
+htt…"
+8,666307844707328000,Mon Nov 16 17:32:24 +0000 2015,4,2,Read about Continuous Queries ·  Continuously obtain real-time query results https://t.co/RK83KjLRMa #ApacheIgnite
+9,665246068846690304,Fri Nov 13 19:13:17 +0000 2015,4,0,"RT @nextflowio: MPI-like distributed execution with Nextflow in HPC clusters 
+https://t.co/bLPH6vrWDd cc/ @ApacheIgnite"
+10,665234017730588672,Fri Nov 13 18:25:23 +0000 2015,7,4,Apache Ignite supports automatic node discovery https://t.co/4IF2hURNbR #ApacheIgnite #AmazonS3
+11,664865689778393089,Thu Nov 12 18:01:47 +0000 2015,1,1,@ScottClaeys Sure - check out this link and let us know what else we can tell you https://t.co/XIsuKI7VOY
+12,664499081482477572,Wed Nov 11 17:45:01 +0000 2015,3,3,Google Cloud Integration with #ApacheIgnite - Automatically discover cluster nodes on GCE cluster - https://t.co/PuzOWnzzO8 #FastData
+13,664204687399387136,Tue Nov 10 22:15:12 +0000 2015,4,5,Learn how #ApacheIgnite offers Zero Deployment for clustering. So Easy. https://t.co/GlcnsVcWHn  #InMemoryComputing #FastData #BigData
+14,664136709236502529,Tue Nov 10 17:45:05 +0000 2015,1,0,Check out the new #ApacheIgnite web console. Manage Ignite clusters with easy. Anytime. Anywhere. https://t.co/6SBLTe8SLB #InMemoryComputing
+15,663842309340008448,Mon Nov 09 22:15:14 +0000 2015,4,0,Learn about Amazon AWS Integration with #ApacheIgnite - Automatically discover cluster nodes on Amazon EC2 cloud - https://t.co/lqJ3dICB4F
+16,661600000338731008,Tue Nov 03 17:45:06 +0000 2015,10,5,Check out the new #ApacheIgnite web console. Manage Ignite clusters with easy. Anytime. Anywhere. https://t.co/ABxlXCe9IR #InMemoryComputing
+17,661338822400167936,Tue Nov 03 00:27:16 +0000 2015,2,0,"RT @odbmsorg: On @TheASF Ignite v1.0. Interview with Nikita Ivanov @gridgain https://t.co/8Um1EzkMAA 
+ #Hadoop, #InMemory"
+18,661305576002056192,Mon Nov 02 22:15:10 +0000 2015,3,1,Learn how #ApacheIgnite offers Zero Deployment for clustering. So Easy. https://t.co/H8ePGxxjgf #InMemoryComputing #FastData #BigData
+19,660121171472482305,Fri Oct 30 15:48:46 +0000 2015,7,0,RT @Radioactive3D: I think Apache Ignite just showed me something that I could have been doing caching with so much less code. Plus... http…
+20,659774319891890176,Thu Oct 29 16:50:30 +0000 2015,4,5,Going to #JavaOne2015 Oct.26-30 in San Francisco? Visit booth 5000 to learn about #ApacheIgnite.  #InMemoryComputing https://t.co/k7F7wwcyV1
+21,659416238108491776,Wed Oct 28 17:07:37 +0000 2015,1,3,Learn about #ApacheIgnite at #JavaOne2015 (booth 5000) Oct.26-30 in San Francisco. #FastData  #InMemoryComputing - https://t.co/j0Et5VCqze
+22,658813402291269632,Tue Oct 27 01:12:09 +0000 2015,13,0,"RT @tguemes: One to follow VERY closely, an In-memory Data Fabric with Spark/Hadoop integration: Apache Ignite https://t.co/BouBQzl3ro"
+23,658813294346674176,Tue Oct 27 01:11:44 +0000 2015,7,0,RT @raulvk: We're talking about Data Snapshots in @ApacheIgnite. Wanna make your voice heard? https://t.co/75vmxvYUec #bigdata #imc #openso…
+24,658813163685740544,Tue Oct 27 01:11:13 +0000 2015,5,0,RT @JavaFact: We're talking about Data Snapshots in @ApacheIgnite. Wanna make your voice heard? https://t.co/XZtn8nEpP8 #bigdata #imc #open…
+25,657241079163412480,Thu Oct 22 17:04:18 +0000 2015,4,2,"Webinar: ""How to Choose Best In-Memory Solutions for Your Apps"" TODAY 11:00 AM PDT w/Nikita Ivanov - https://t.co/Vtz8NGytsw - #ApacheIgnite"
+26,656873919786430464,Wed Oct 21 16:45:21 +0000 2015,1,2,@11Download #ApacheIgnite 1.4.0. First release since becoming full Apache project - #InMemoryComputing #FastData - https://t.co/GvsGAG9mJZ
+27,656568186406633472,Tue Oct 20 20:30:28 +0000 2015,6,6,"Webinar: ""How to Choose Best In-Memory Solutions for Your Apps"" 10/22 11:00 AM PDT w/Nikita Ivanov - https://t.co/PTJ5btS2Co - #ApacheIgnite"
+28,656548304784748545,Tue Oct 20 19:11:28 +0000 2015,0,1,"Webinar: ""How to Choose Best In-Memory Solutions for Your Apps"" 10/22 11:00 AM PDT w/Nikita Ivanov - https://t.co/Vtz8NGytsw - #ApacheIgnite"
+29,656205681855496197,Mon Oct 19 20:30:00 +0000 2015,9,9,Download #ApacheIgnite 1.4.0. First release since becoming full Apache project - #InMemoryComputing #FastData - https://t.co/jJIdllHQ3B
+30,656149082751287297,Mon Oct 19 16:45:06 +0000 2015,0,0,"Webinar: ""How to Choose Best In-Memory Solutions for Your Apps"" 10/22 11:00 AM PDT w/Nikita Ivanov - http://t.co/Vtz8NGQ4R6 - #ApacheIgnite"
+31,654756240925421569,Thu Oct 15 20:30:27 +0000 2015,3,1,Download #ApacheIgnite 1.4.0. First release since becoming full Apache project - #InMemoryComputing #FastData - http://t.co/ByIdbGZyQN
+32,654699542424645632,Thu Oct 15 16:45:09 +0000 2015,0,1,Download #ApacheIgnite 1.4.0. First release since becoming full Apache project - #InMemoryComputing #ApacheBigData - http://t.co/gIU0n9rsde
+33,654685005726126080,Thu Oct 15 15:47:23 +0000 2015,0,0,"Webinar: ""How to Choose Best In-Memory Solutions for Your Apps"" TODAY 11:00 AM PDT w/Nikita Ivanov - http://t.co/qzb9uV0gpl - #ApacheIgnite"
+34,654684432645750786,Thu Oct 15 15:45:06 +0000 2015,2,0,RT @PaoloDiTommaso: Integrating @ApacheIgnite clustering framework with @nextflowio. Impressed by the features it provides!
+35,654595559102091264,Thu Oct 15 09:51:57 +0000 2015,2,0,RT @dsetrakyan: Let's speed up @ApacheHive with @ApacheIgnite and @ApacheBigtop - http://t.co/h5DdqaAHl9
+36,654337224352378884,Wed Oct 14 16:45:25 +0000 2015,1,0,"Webinar: ""How to Choose Best In-Memory Solutions for Your Apps"" 10/15 11:00 AM PDT w/Nikita Ivanov - http://t.co/0G1z2rQBNa - #ApacheIgnite"
+37,654218869557579776,Wed Oct 14 08:55:07 +0000 2015,2,1,"On demand webinar: ""#ApacheIgnite™: Turbocharge your SQL Queries In-Memory"". Watch at  http://t.co/PqW8OjbCRy #InMemoryComputing #FastData"
+38,653880395197456385,Tue Oct 13 10:30:09 +0000 2015,6,3,Download #ApacheIgnite 1.4.0. First release since becoming full Apache project - #InMemoryComputing #ApacheBigData - http://t.co/hPvV0O5rZ2
+39,653856452805791744,Tue Oct 13 08:55:01 +0000 2015,1,0,"Webinar: ""How to Choose Best In-Memory Solutions for Your Apps"" 10/15 11:00 AM PDT w/Nikita Ivanov - http://t.co/a14YljFROe - #ApacheIgnite"
+40,653612359148306432,Mon Oct 12 16:45:04 +0000 2015,1,2,"Win a Free Pass for a two-day, hands-on, on-site training on #ApacheSpark &amp; #ApacheIgnite: http://t.co/AlrDbVPFUs    #InMemoryComputing"
+41,653517979590729728,Mon Oct 12 10:30:02 +0000 2015,0,0,"Webinar: ""How to Choose Best In-Memory Solutions for Your Apps"" 10/15 11:00 AM PDT w/Nikita Ivanov - http://t.co/pZYA7fZ7gl - #ApacheIgnite"
+42,653494090340941824,Mon Oct 12 08:55:07 +0000 2015,0,0,"On demand webinar: ""#ApacheIgnite™: Turbocharge your SQL Queries In-Memory"". Watch at  http://t.co/5Mz57WnPta  #InMemoryComputing #FastData"
+43,652528446531235840,Fri Oct 09 16:57:59 +0000 2015,15,0,RT @DZone: Apache Ignite for Database Caching http://t.co/1QsjGFnOkw http://t.co/O0aUZKyWYX
+44,652527955512422400,Fri Oct 09 16:56:02 +0000 2015,6,0,RT @c0sin: Let's speed up Apache Hive with Apache Ignite &amp; Apache Bigtop: Today we will be looking into how we can speed ... http://t.co/Dn…
+45,652527830614409217,Fri Oct 09 16:55:32 +0000 2015,2,0,"RT @festivalICT: Al #festivalICT un'""Introduzione ad #ApacheIgnite, in-memory data fabric e relativi casi d'uso con riferimento... http://t…"
+46,652526954088759296,Fri Oct 09 16:52:03 +0000 2015,5,0,RT @TheASF: The Apache News Round-up: week ending 9 October 2015 http://t.co/tH60v1UUji @ApacheAccumulo @ApacheIgnite @apachekafka @ApacheO…
+47,652525243332980736,Fri Oct 09 16:45:16 +0000 2015,3,2,Download #ApacheIgnite 1.4.0. First release since becoming full Apache project - #InMemoryComputing #ApacheBigData - http://t.co/dT0IsEmqqz
+48,652430862340988929,Fri Oct 09 10:30:13 +0000 2015,2,1,"Accelerate the #Hadoop data stack w/ #ApacheIgnite™, #ApacheSpark &amp; #ApacheBigtop. See demos w/ on-demand webinar - http://t.co/XOZ7oZbyv0"
+49,652406909765595136,Fri Oct 09 08:55:03 +0000 2015,1,0,"Webinar: ""How to Choose Best In-Memory Solutions for Your Apps"" w/Nikita Ivanov - 10/15 11:00 AM PDT #ApacheIgnite - http://t.co/TT2rrZM2k6"
+50,652162866062098432,Thu Oct 08 16:45:18 +0000 2015,0,0,"Webinar: ""How to Choose Best In-Memory Solutions for Your Apps"" 10/15 11:00 AM PDT w/Nikita Ivanov #ApacheIgnite - http://t.co/SssCKnDROE"
+51,652068488140468224,Thu Oct 08 10:30:17 +0000 2015,1,0,"Win a Free Pass for two-day hands-on, on-site training on #ApacheSpark &amp; #ApacheIgnite: #FastData #InMemoryComputing http://t.co/s8NevvxDui"
+52,652044554963656704,Thu Oct 08 08:55:10 +0000 2015,1,0,"On demand webinar: ""#ApacheIgnite™: Turbocharge your SQL Queries In-Memory"". Watch at  http://t.co/J7gRNLgask  #InMemoryComputing #FastData"
+53,651842115643777024,Wed Oct 07 19:30:45 +0000 2015,3,0,RT @c0sin: AWS has in-memory accelerator. How come #Hadoop is still blanking on @ASFbigtop provided @ApacheIgnite component? https://t.co/N…
+54,651800466905559040,Wed Oct 07 16:45:15 +0000 2015,0,0,Download #ApacheIgnite 1.4.0. First release since becoming full Apache project - #InMemoryComputing #ApacheBigData - http://t.co/StncF7E8zj
+55,651706092980932608,Wed Oct 07 10:30:15 +0000 2015,0,1,"Win a Free Pass for a two-day, hands-on, on-site training on #ApacheSpark &amp; #ApacheIgnite: http://t.co/aJUyOBbISe    #InMemoryComputing"
+56,651682156444549121,Wed Oct 07 08:55:08 +0000 2015,0,1,"Webinar: ""How to Choose Best In-Memory Solutions for Your Apps"" 10/15 11:00 AM PDT w/Nikita Ivanov #ApacheIgnite - http://t.co/htTfeGN4aY"
+57,651511560158978048,Tue Oct 06 21:37:15 +0000 2015,5,0,"RT @abek: @ApacheIgnite vs #Redis - both provide distributed caching, but the features of each are very different
+https://t.co/8jl9l0YB1j
+#…"
+58,651439172193005569,Tue Oct 06 16:49:36 +0000 2015,3,0,"RT @kazuhira_r: ""Apache Ignite vs Coherence"" https://t.co/0ZBfQpm1uk"
+59,649932076762984448,Fri Oct 02 13:00:56 +0000 2015,1,3,Learn about #ApacheIgnite at #StrataHadoop (booth 745) and win a Portable HDMI Projector - http://t.co/i4HgTSLKvu   #InMemoryComputing
+60,649647253704019969,Thu Oct 01 18:09:09 +0000 2015,1,2,Attending #StrataHadoop? Win a Portable HDMI Projector and Learn about #ApacheIgnite at  booth 745  - https://t.co/ehGTjLva4T #FastData
+61,649569611273400320,Thu Oct 01 13:00:38 +0000 2015,0,0,Learn about #ApacheIgnite at #StrataHadoop (booth 745) TODAY &amp; win a Portable HDMI Projector - http://t.co/YSg2JxPF2Y   #InMemoryComputing
+62,649306430177210368,Wed Sep 30 19:34:51 +0000 2015,3,0,Learn about #ApacheIgnite at #StrataHadoop (booth 745) TODAY &amp; win a Portable HDMI Projector - http://t.co/TR2YgtOK43   #InMemoryComputing
+63,649252832999272448,Wed Sep 30 16:01:52 +0000 2015,2,1,"Accelerate the #Hadoop data stack w/ #ApacheIgnite™, #ApacheSpark and #ApacheBigtop. See demos w/ on-demand webinar - http://t.co/gsI2gy91XB"
+64,648967835759288324,Tue Sep 29 21:09:23 +0000 2015,2,0,"Win a Free Pass for a two-day, on-site, hands-on, training on #ApacheIgnite &amp; #ApacheSpark in Redwood City, CA: http://t.co/9ADrcozAR5"
+65,648921546644398080,Tue Sep 29 18:05:27 +0000 2015,8,0,RT @keedio: Amazing demo by Dr. Konstantin Boudnik of @WANdisco showing @hadoop acceleration using @ApacheIgnite #apachebigdata
+66,648890009597124608,Tue Sep 29 16:00:08 +0000 2015,3,3,"#SQL query indexing of @ApacheIgnite comes to the rescue, plugs directly into @ApacheSpark. Webinar TODAY:  http://t.co/MVxvA5jEFZ"
+67,648605389446115328,Mon Sep 28 21:09:10 +0000 2015,4,3,"From the ranks of 350 projects, @TheASF graduates @ApacheIgnite to Top Level Project (TLP). Here is why: http://t.co/TxEMfr178D  #FastData"
+68,648527667906629632,Mon Sep 28 16:00:19 +0000 2015,1,1,Webinar: Learn how #ApacheIgnite™ accelerates #SQL thru #InMemoryComputing - TODAY at 11:00 AM PDT/2:00 PM EDT - http://t.co/3v1Kynh4kW
+69,648243064083877888,Sun Sep 27 21:09:24 +0000 2015,9,0,"RT @MartonBalassi: Come to the @ASFbigtop workshop today, where you can also try @ApacheIgnite, Apache Zeppelin and @ApacheFlink! http://t.…"
+70,648242977089806336,Sun Sep 27 21:09:04 +0000 2015,6,0,"RT @HadoopDaily: Accelerate the #Hadoop data stack w/ #ApacheIgnite, #ApacheSpark and #ApacheBigtop. See demos in on-demand webinar - http:…"
+71,647518186947129344,Fri Sep 25 21:09:00 +0000 2015,2,2,"Accelerate the #Hadoop data stack w/ #ApacheIgnite™, #ApacheSpark and #ApacheBigtop. See demos in on-demand webinar - http://t.co/VlJDB80aeF"
+72,647440450891157504,Fri Sep 25 16:00:07 +0000 2015,1,1,Webinar: Learn how #ApacheIgnite™ accelerates #SQL thru #InMemoryComputing - 9/28 at 11:00 AM PDT/2:00 PM EDT - http://t.co/wi0K6Kd7qC
+73,647155866098077697,Thu Sep 24 21:09:16 +0000 2015,3,2,"Great article by @SiliconAngle on #ApacheIgnite and how it relates to #ApacheSpark, #Hadoop &amp; #BigData ecosystem - http://t.co/RN0CuK6xcN"
+74,647078200770736132,Thu Sep 24 16:00:39 +0000 2015,1,1,Webinar: Accelerate your #SQL thru #InMemoryComputing with #ApacheIgnite™ Sept. 28 at 11:00 AM PDT/2:00 PM EDT - http://t.co/rUzwrsLrzQ
+75,646856177058467840,Thu Sep 24 01:18:25 +0000 2015,3,0,"RT @abek: @ApacheIgnite for Database Caching
+https://t.co/mqu57nq48a
+@dsetrakyan #DataFabric #InMemoryComputing @gridgain"
+76,646856117750992897,Thu Sep 24 01:18:11 +0000 2015,5,0,RT @raulvk: Brainstorming about Reactive Streams and #RxJava at @ApacheIgnite. Come pitch in! http://t.co/lSTZ2b37i9 #opensource #bigdata
+77,646793417272352768,Wed Sep 23 21:09:02 +0000 2015,1,0,Webinar: Learn how #ApacheIgnite™ accelerates #SQL thru #InMemoryComputing - Sept. 28 at 11:00 AM PDT/2:00 PM EDT - http://t.co/KMA0q01uXa
+78,646715980626939905,Wed Sep 23 16:01:19 +0000 2015,3,3,.@TheASF graduates @ApacheIgnite to Top Level Project (TLP) from the ranks of 350 projects. Here is why: http://t.co/ZAANA3YiXa  #FastData
+79,646431066484527104,Tue Sep 22 21:09:11 +0000 2015,1,1,"Win a Free Pass for a two-day, on-site, hands-on, training on #ApacheSpark &amp; #ApacheIgnite in Redwood City, CA: http://t.co/dOaEdgLpbd"
+80,646353529758720000,Tue Sep 22 16:01:04 +0000 2015,1,0,Webinar: Learn how #ApacheIgnite™ accelerates #SQL thru #InMemoryComputing - Sept. 28 at 11:00 AM PDT/2:00 PM EDT - http://t.co/AODSXNZS6k
+81,646231382763569152,Tue Sep 22 07:55:42 +0000 2015,9,0,RT @c0sin: Drop-in acceleration of @ApacheHive: No code change 5x performance boost of HQL queries with @ApacheIgnite and @ASFbigtop
+82,645835757576306688,Mon Sep 21 05:43:38 +0000 2015,11,0,RT @raulvk: Yay! I'm officially a PMC member and Committer at @ApacheIgnite. Awesome project and talented team. Glad to be a part! #bigdata…
+83,645699674830012418,Sun Sep 20 20:42:53 +0000 2015,6,2,And in-memory computing with @ApacheIgnite  https://t.co/5QPD2C5JR0
+84,644920243131822080,Fri Sep 18 17:05:42 +0000 2015,5,5,Read the September 2015 @GridGain Newsletter - #InMemoryComputing #FastData #BigData #ApacheIgnite - http://t.co/V7rTYunDah
+85,644619095275646978,Thu Sep 17 21:09:03 +0000 2015,3,4,"Great article by @SiliconAngle on #ApacheIgnite and how it relates to #ApacheSpark, #Hadoop &amp; #BigData ecosystem - http://t.co/L0qPP4nu6o"
+86,644541381441138688,Thu Sep 17 16:00:14 +0000 2015,0,2,"Win a Free Pass for a two-day, on-site, hands-on, training on #ApacheSpark &amp; #ApacheIgnite in Redwood City, CA: http://t.co/fKYuE9WFiu"
+87,644256695393366017,Wed Sep 16 21:09:00 +0000 2015,2,1,"Accelerate the #Hadoop data stack w/ #ApacheIgnite™, #ApacheSpark and #ApacheBigtop. See demos on an demand webinar - http://t.co/L3qaK6FJD9"
+88,644179420039782400,Wed Sep 16 16:01:56 +0000 2015,1,1,"From the ranks of 350 projects, @TheASF graduates @ApacheIgnite to Top Level Project (TLP). Here is why: http://t.co/55yq21ju3O #FastData"
+89,643894323738746881,Tue Sep 15 21:09:04 +0000 2015,3,0,"Win a Free Pass for a two-day, on-site, hands-on, training on #ApacheSpark &amp; #ApacheIgnite in Redwood City, CA: http://t.co/EMwZkeZklF"
+90,643816882580115457,Tue Sep 15 16:01:21 +0000 2015,1,0,"#SQL query indexing of @ApacheIgnite comes to the rescue, plugs directly into @ApacheSpark. Webinar TODAY:  http://t.co/PiRZzRvnpZ"
+91,643561756548161537,Mon Sep 14 23:07:34 +0000 2015,1,0,"Accelerate #Hadoop data stack w/ #ApacheIgnite™, #ApacheSpark and #ApacheBigtop. See demos in on-demand webinar - http://t.co/U2Wl0EVzVd"
+92,643454468479156224,Mon Sep 14 16:01:14 +0000 2015,2,1,"#SQL query indexing of @ApacheIgnite comes to the rescue, plugs directly into @ApacheSpark. Learn more at webinar:  http://t.co/Ea9qHOI5zk"
+93,642444761631211520,Fri Sep 11 21:09:01 +0000 2015,3,1,"Awesome article by @SiliconAngle on #ApacheIgnite and how it relates to #ApacheSpark, #Hadoop &amp; #BigData ecosystem - http://t.co/o35GpvMzl3"
+94,642367396297240576,Fri Sep 11 16:01:36 +0000 2015,3,0,"#SQL query indexing of @ApacheIgnite comes to the rescue, plugs directly into @ApacheSpark. Learn more at webinar:  http://t.co/I9rR20VEgh"
+95,642082370942840832,Thu Sep 10 21:09:01 +0000 2015,6,6,.@TheASF graduates @ApacheIgnite to Top Level Project (TLP) from the ranks of 350 projects. Here is why: http://t.co/l8AlLH9tWJ #FastData
+96,642004988970053632,Thu Sep 10 16:01:31 +0000 2015,1,0,"#ApacheIgnite in @dbtrends webinar ""Supporting Modern Applications: Data Management for Speed &amp; Scale"" TODAY 11am PT http://t.co/A45DuDuVc4"
+97,641720046318960640,Wed Sep 09 21:09:16 +0000 2015,1,0,"#SQL query indexing of @ApacheIgnite comes to the rescue, plugs directly into @ApacheSpark. Learn more at webinar:  http://t.co/zivGuldWTp"
+98,641678288885149697,Wed Sep 09 18:23:20 +0000 2015,1,0,"Hear @GridGain CTO Nikita Ivanov speak at #DataEast15 in Boston TODAY at
+2:30pm &amp; get a free @ApacheIgnite T-shirt."
+99,641642321864454145,Wed Sep 09 16:00:25 +0000 2015,2,1,"Great article by @SiliconAngle on #ApacheIgnite and how it relates to #ApacheSpark, #Hadoop &amp; #BigData ecosystem - http://t.co/CYr4kMkhWk"
+100,641357593571516417,Tue Sep 08 21:09:00 +0000 2015,0,0,Webinar: Learn how #ApacheIgnite™ accelerations #SQL thru #InMemoryComputing - 11:00 AM PDT/2:00 PM EDT on 9/15 -  http://t.co/UUB3ONHx3A
+101,641280080602365952,Tue Sep 08 16:01:00 +0000 2015,1,0,"#ApacheIgnite in @dbtrends webinar ""Supporting Modern Applications: Data Management for Speed &amp; Scale"" 9/10 11am PT - http://t.co/cOeiv6s9HX"
+102,640995263180636160,Mon Sep 07 21:09:14 +0000 2015,1,1,"Win a Free Pass for a two-day, on-site, hands-on, training on #ApacheSpark &amp; #ApacheIgnite in Redwood City, CA: http://t.co/MWIYQShoS5"
+103,640917755101888512,Mon Sep 07 16:01:15 +0000 2015,1,0,"Accelerate the #Hadoop data stack w/ #ApacheIgnite™, #ApacheSpark and #ApacheBigtop. See demos on an demand webinar - http://t.co/YSHDtjH2g7"
+104,639908043526918144,Fri Sep 04 21:09:01 +0000 2015,3,1,"Great article by @SiliconAngle on #ApacheIgnite and how it relates to #ApacheSpark, #Hadoop &amp; #BigData ecosystem - http://t.co/dWboOjMzYx"
+105,639830378967080960,Fri Sep 04 16:00:24 +0000 2015,1,0,"From the ranks of 350 projects, @TheASF graduates @ApacheIgnite to Top Level Project (TLP). Here is why: http://t.co/FOzW97Dzoq #FastData"
+106,639559651596500992,Thu Sep 03 22:04:38 +0000 2015,7,0,RT @gridgain: See @GridGain CTO Nikita Ivanov @c64hacker speak at Big Data Innovation Boston Sept. 9 2:30pm. http://t.co/hOhknGKIzW - #Data…
+107,639545689442254849,Thu Sep 03 21:09:09 +0000 2015,3,0,Learn about #SQL features of  #ApacheIgnite™ in a new webinar w/ Dmitriy Setrakyan 11:00 AM PDT/2:00 PM EDT on 9/15 - http://t.co/AO9rDAaK1Z
+108,639468287571677186,Thu Sep 03 16:01:35 +0000 2015,3,2,"#SQL query indexing of @ApacheIgnite comes to the rescue, plugs directly into @ApacheSpark. Learn more at webinar: http://t.co/odyWfo2aFL"
+109,639183270979182592,Wed Sep 02 21:09:01 +0000 2015,1,2,"Win a Free Pass for a two-day, hands-on, on-site training on #ApacheSpark &amp; #ApacheIgnite: http://t.co/e6oJ7UE6VH  #FastData"
+110,639157226083487744,Wed Sep 02 19:25:32 +0000 2015,5,0,"RT @abek: Webinar: Turbocharge your SQL Queries In-Memory with @ApacheIgnite, 9/15 at 11am PDT
+https://t.co/1Fz1uqsBAE
+#FastData #InMemoryC…"
+111,639124322804592640,Wed Sep 02 17:14:47 +0000 2015,2,0,"#SQL query indexing of @ApacheIgnite comes to the rescue, plugs directly into @ApacheSpark. Learn more at webinar: http://t.co/mL2TfsFBza"
+112,639105877178482688,Wed Sep 02 16:01:29 +0000 2015,3,4,"From the ranks of 350 projects, @TheASF graduates @ApacheIgnite to Top Level Project (TLP). Here is why: http://t.co/7YzIEltawm #FastData"
+113,638820896744996864,Tue Sep 01 21:09:05 +0000 2015,2,1,"Learn to accelerate the #Hadoop data stack w/ #ApacheIgnite™, #ApacheSpark and #ApacheBigtop. See On demand webinar - http://t.co/dUFSXKWSq7"
+114,638780083520557056,Tue Sep 01 18:26:54 +0000 2015,2,10,"From the ranks of 350 projects, @TheASF graduates @ApacheIgnite to Top Level Project (TLP). Here is why: http://t.co/VHKZiv2Yzg #FastData"
+115,638532590367023104,Tue Sep 01 02:03:27 +0000 2015,2,0,RT @dsetrakyan: Tailoring your big data approach with @ApacheIgnite!| Sonra. Unleash the Value of your Data. http://t.co/N2Uc8IVyky
+116,638458495529021440,Mon Aug 31 21:09:01 +0000 2015,0,0,#ApacheIgnite™ has graduated to top level project status w/@TheASF - #FastData - Now recruiting contributors - http://t.co/vRzB1UUw9A
+117,638381004042973185,Mon Aug 31 16:01:06 +0000 2015,1,3,"Webinar by @dbtrends: ""Supporting Modern Applications: Data Management for Speed &amp; Scale"" w/ @GridGain 9/10 11am PT - http://t.co/eTiDgYjVDM"
+118,637503697719808000,Sat Aug 29 05:55:00 +0000 2015,1,1,"See a recorded session of @dsetrakyan on ""Anatomy of an In-Memory Data Fabric: JCache and Beyond"" at #IMCSummit - http://t.co/jJjpYe6MUF"
+119,637371461498482688,Fri Aug 28 21:09:32 +0000 2015,2,12,#ApacheIgnite™ has graduated to top level project status w/@TheASF - #InMemoryComputing - Join the Revolution! - http://t.co/V38fL0cATK
+120,637293893432811520,Fri Aug 28 16:01:19 +0000 2015,5,5,"Learn to accelerate the #Hadoop data stack w/ #ApacheIgnite™, #ApacheSpark and #ApacheBigtop. See On demand webinar - http://t.co/Bl8rxH1HUT"
+121,637141309736779776,Fri Aug 28 05:55:00 +0000 2015,2,2,"Webinar: ""Supporting Modern Applications: Data Management for Speed &amp; Scale"" with @GridGain produced by @dbtrends - http://t.co/tMzDNumhVX"
+122,637008967135285248,Thu Aug 27 21:09:07 +0000 2015,3,1,#ApacheIgnite™ has graduated to top level project status w/ @TheASF - #InMemoryComputing - Join the Revolution! - http://t.co/bYUsctmgFr
+123,636931363652927488,Thu Aug 27 16:00:45 +0000 2015,2,0,"Win a Free Pass for a two-day, hands-on, on-site training on #ApacheSpark &amp; #ApacheIgnite™ (incubating): http://t.co/vugsr78a3G  #FastData"
+124,636778956499369984,Thu Aug 27 05:55:08 +0000 2015,1,1,New eBook - #InMemoryComputing: 'Harness the Speed of Memory and Outsmart Your Competition' available now on Amazon: http://t.co/GbIgI384aR
+125,636646662023311361,Wed Aug 26 21:09:27 +0000 2015,2,6,#ApacheIgnite™ has graduated to top level project status w/ @TheASF - #InMemoryComputing - #FastData - http://t.co/9lc2QlYgeZ
+126,636569052069150720,Wed Aug 26 16:01:03 +0000 2015,1,1,Learn about the amazing #ApacheIgnite project at East Bay Java User Group Meetup in Oakland tonight at 6:30-9:00 pm - http://t.co/YzeQSjyMr9
+127,636416540053766144,Wed Aug 26 05:55:01 +0000 2015,0,0,"Watch recorded session of @dsetrakyan on ""Anatomy of an In-Memory Data Fabric: JCache and Beyond"" at #IMCSummit - http://t.co/5f3MVu2WOU"
+128,636284184567353344,Tue Aug 25 21:09:05 +0000 2015,4,1,"Learn to accelerate the #Hadoop data stack w/ #ApacheIgnite™, #ApacheSpark and #ApacheBigtop. See On demand webinar - http://t.co/sT6yHYeMrR"
+129,636206532338827264,Tue Aug 25 16:00:32 +0000 2015,7,6,#ApacheIgnite™ has graduated to top level project status w/ @TheASF - #InMemoryComputing - Join the Revolution! - http://t.co/mDCzMwBmHb
+130,636118984249712641,Tue Aug 25 10:12:39 +0000 2015,34,0,RT @TheASF: The Apache Software Foundation Announces @ApacheIgnite as a Top-Level Project http://t.co/2MeIkhW563 #BigData #inmemory #realti…
+131,636118878268080128,Tue Aug 25 10:12:13 +0000 2015,5,0,RT @dsetrakyan: The Apache Software Foundation Announces @ApacheIgnite as a Top-Level Project http://t.co/3CkkgitmaP
+132,636054191723708416,Tue Aug 25 05:55:11 +0000 2015,2,1,"Win a Free Pass for a two-day, hands-on, on-site training on #ApacheSpark &amp; #ApacheIgnite™ (incubating): http://t.co/AfzooYCvnT"
+133,635921827982798849,Mon Aug 24 21:09:13 +0000 2015,1,0,Meet Nikita Ivanov @c64hacker &amp; learn @ApacheIgnite at East Bay Java User Group Meetup in Oakland 8/26 6:30-9:00 pm - http://t.co/seSytblMY1
+134,635844033479340032,Mon Aug 24 16:00:05 +0000 2015,2,1,"Watch recorded session of @dsetrakyan on ""Anatomy of an In-Memory Data Fabric: JCache and Beyond"" at #IMCSummit - http://t.co/na4lLG9GLv"
+135,634834631959908352,Fri Aug 21 21:09:05 +0000 2015,2,1,Meet Nikita Ivanov @c64hacker &amp; learn @ApacheIgnite at East Bay Java User Group Meetup in Oakland 8/26 6:30-9:00 pm - http://t.co/88kHlbn1VH
+136,634757281142448128,Fri Aug 21 16:01:43 +0000 2015,2,1,"Learn to accelerate the #Hadoop data stack w/ #ApacheIgnite™, #ApacheSpark and #ApacheBigtop. See On demand webinar - http://t.co/Rb2Un84ds2"
+137,634472231704371200,Thu Aug 20 21:09:02 +0000 2015,4,0,New eBook - #InMemoryComputing: 'Harness the Speed of Memory and Outsmart Your Competition' available now on Amazon: http://t.co/2U8Uaqidrd
+138,634394914625863681,Thu Aug 20 16:01:48 +0000 2015,2,0,"Win a Free Pass for a two-day, hands-on, on-site training on Apache Spark &amp; Apache Ignite™ (incubating): http://t.co/VKmsdghh7J #FastData"
+139,634298030452252672,Thu Aug 20 09:36:49 +0000 2015,5,0,RT @raulvk: In-Memory Computing Hype Cycle '15 @Gartner_inc. @ApacheIgnite arrives JIT to serve the innovative IMC cases #bigdata http://t.…
+140,634109893952294912,Wed Aug 19 21:09:14 +0000 2015,2,0,Apache Spark &amp; Apache Ignite (incubating) under the Bigtop with Konstantin Boudnik - @c0sin http://t.co/jhK1xOtReH
+141,634075484112953344,Wed Aug 19 18:52:30 +0000 2015,3,2,"Tomorrow's Webinar: ""Accelerating Hadoop w/Apache Ignite™ (incubating), Spark &amp; Bigtop"" - 8/20 11:00 AM PDT - http://t.co/gczeCn5VHW"
+142,634032300674686981,Wed Aug 19 16:00:54 +0000 2015,2,2,"#IMCSummit Session - ""From Big Data to Fast Data"" w/ Nikita Ivanov @c64hacker: http://t.co/yfoOSWOFc8 #BigData #FastData #InMemoryComputing"
+143,633747497756704768,Tue Aug 18 21:09:12 +0000 2015,1,0,"Webinar: Accelerating Hadoop data stack w/Apache Ignite™ (incubating), Spark &amp; Bigtop - 8/20 11:00 AM PDT - http://t.co/IrU3qIK1Fm"
+144,633713021236432896,Tue Aug 18 18:52:12 +0000 2015,0,1,New eBook - #InMemoryComputing: 'Harness the Speed of Memory and Outsmart Your Competition' now available on Amazon: http://t.co/H5djDTSGlI
+145,633669828541304832,Tue Aug 18 16:00:34 +0000 2015,2,2,"""From Big Data to Fast Data"" - #IMCSummit Session w/ Nikita Ivanov @c64hacker: http://t.co/w5Eh22GC6Z #BigData #FastData #InMemoryComputing"
+146,633385091327242240,Mon Aug 17 21:09:08 +0000 2015,3,2,"#FastData Webinar: Accelerating Hadoop data stack w/Apache Ignite™ (incubating), Spark &amp; Bigtop - 8/20 11:00 AM PDT - http://t.co/uvNUatHu4o"
+147,633350590937059328,Mon Aug 17 18:52:02 +0000 2015,1,2,"Win a Free Pass to attend a two-day, hands-on, on-site training on Apache Spark &amp; Apache Ignite™ (incubating): http://t.co/v2PdBVbQ0G"
+148,633307463274602496,Mon Aug 17 16:00:40 +0000 2015,1,0,New eBook - #InMemoryComputing: 'Harness the Speed of Memory and Outsmart Your Competition' now available on Amazon: http://t.co/zoz5OczZtw
+149,632785199374274560,Sun Aug 16 05:25:22 +0000 2015,189,0,"RT @ptgoetz: If you are a company that uses OSS, do the right thing and establish a policy to allow devs to easily give back."
+150,632784789339136000,Sun Aug 16 05:23:45 +0000 2015,4,0,"RT @abek: Learn about @ApacheIgnite use cases
+https://t.co/l89XFtx31s
+#FastData #DataFabric #InMemoryComputing"
+151,632297920491073541,Fri Aug 14 21:09:06 +0000 2015,2,1,"Webinar: Accelerating Hadoop data stack w/Apache Ignite™ (incubating), Spark &amp; Bigtop - 8/20 11:00 AM PDT - http://t.co/htRt10xi7n"
+152,632263436748095488,Fri Aug 14 18:52:04 +0000 2015,2,1,Learn Apache Ignite™ (incubating) in live on-site training. Attend overview webinar on 8/13 at 11:00 AM for details: http://t.co/hcbG5vVjkl
+153,632220408855592960,Fri Aug 14 16:01:06 +0000 2015,5,4,"Win a Free Pass to attend a two-day, hands-on, on-site training on Apache Spark &amp; Apache Ignite™ (incubating): http://t.co/G5q1sKFxFz"
+154,632009345388032000,Fri Aug 14 02:02:24 +0000 2015,4,0,RT @mslinn: Apache Ignite's datagrid looks interesting https://t.co/iC7lguVgee
+155,632008573405413376,Fri Aug 14 01:59:20 +0000 2015,2,0,RT @dsetrakyan: @ApacheIgnite Users - What is IGNITE_HOME for and is it required? - http://t.co/QHuPG8j6Ue
+156,632008551494365184,Fri Aug 14 01:59:15 +0000 2015,2,0,RT @dsetrakyan: @ApacheIgnite Users - Multiple SQL indexes. - http://t.co/TqUhG1sC0o
+157,632008533106520071,Fri Aug 14 01:59:11 +0000 2015,2,0,RT @dsetrakyan: @ApacheIgnite Users - Performance of join SQL queries - http://t.co/QjMcGYISQW
+158,632008517516308480,Fri Aug 14 01:59:07 +0000 2015,2,0,RT @dsetrakyan: @ApacheIgnite Users - Setting up Ignite-1.3.0 with Eclipse - http://t.co/DpdDM9Mlh8
+159,632008495072579584,Fri Aug 14 01:59:02 +0000 2015,2,0,RT @dsetrakyan: @ApacheIgnite Users - How to get Spring context - http://t.co/elqMXPW2Me
+160,631935529790128128,Thu Aug 13 21:09:05 +0000 2015,2,2,"""From Big Data to Fast Data"" - #IMCSummit Session w/ Nikita Ivanov @c64hacker: http://t.co/Ra7m7IEgnV #BigData #FastData #InMemoryComputing"
+161,631901041085296641,Thu Aug 13 18:52:03 +0000 2015,3,0,"#FastData Webinar: Accelerating Hadoop data stack w/Apache Ignite™ (incubating), Spark &amp; Bigtop - 8/20 11:00 AM PDT - http://t.co/k68Dcxe3cV"
+162,631858015180824577,Thu Aug 13 16:01:04 +0000 2015,0,1,Today: Overview webinar for Apache Ignite™ (incubating) on-site training at 11:00 AM PDT / 2:00 PM EDT: http://t.co/M4DLEqJ9YC #FastData
+163,631635411870191616,Thu Aug 13 01:16:32 +0000 2015,3,0,RT @dsetrakyan: Using @ApacheIgnite for local caching within a process - http://t.co/Bc027DBy3Y
+164,631573121162682368,Wed Aug 12 21:09:00 +0000 2015,1,0,Learn Apache Ignite™ (incubating) in live on-site training. Attend overview webinar on 8/13 at 11:00 AM for details: http://t.co/RsB6JP0pPY
+165,631538643933491201,Wed Aug 12 18:52:00 +0000 2015,1,0,Enjoyed the inaugural @imcsummit? Watch live impressions and hear what others had to say about #InMemoryComputing -http://t.co/ub6Rc0xWLR
+166,631495601922920449,Wed Aug 12 16:00:58 +0000 2015,6,0,"Webinar: Accelerating Hadoop data stack w/Apache Ignite™ (incubating), Spark &amp; Bigtop - 8/20 11:00 AM PDT - http://t.co/wuaeKGDqMG #FastData"
+167,631219438558154753,Tue Aug 11 21:43:36 +0000 2015,1,0,RT @dsetrakyan: @cedricziel @snicoll Agree. I can ask within @ApacheIgnite community. Does anyone have enough experience with @springboot  …
+168,631219399265902592,Tue Aug 11 21:43:26 +0000 2015,2,0,RT @dsetrakyan: @RobinDong_ @ApacheIgnite You can automatically persist data to any kind of database with Apache Ignite - http://t.co/YFllx…
+169,631219345356492800,Tue Aug 11 21:43:14 +0000 2015,1,0,"RT @dsetrakyan: @tsunanet Not sure about Hazelcast, but @ApacheIgnite has many different ways to configure cluster without multicast: http:…"
+170,631219310271307781,Tue Aug 11 21:43:05 +0000 2015,1,0,"RT @dsetrakyan: @lusis @buildscientist @unixdaemon @loweschmidt @jtopper Hm, @ApacheIgnite data grid supports SSL out of the box - http://t…"
+171,631215143012007937,Tue Aug 11 21:26:32 +0000 2015,5,0,RT @felipead: Apache Ignite: distributed in-memory platform for computing on large-scale data sets in real-time http://t.co/CpDuOmFskD #big…
+172,631215089056518145,Tue Aug 11 21:26:19 +0000 2015,5,0,"RT @BigBetAnalytics: Shared RDDs 4 #apachespark : share across jobs, apps thru in-mem distr cache using Ignite https://t.co/8MlAkKwfJo"
+173,631214927554834432,Tue Aug 11 21:25:40 +0000 2015,2,0,"RT @Codango: Benchmarking Data Grids: Apache Ignite vs Hazelcast, Part I http://t.co/IiALWKywiF - RT Follow @codango !!"
+174,631214879836258304,Tue Aug 11 21:25:29 +0000 2015,5,0,RT @jayunit100: @oceankidbilly @discretestates @ASFbigtop will have @ApacheIgnite and @ApacheFlink implementations hopefully by fall.
+175,631210777177890819,Tue Aug 11 21:09:11 +0000 2015,0,0,"Win a Free Pass to attend a two-day, hands-on, on-site training on Apache Spark &amp; Apache Ignite™ (incubating): http://t.co/P966vmnbER"
+176,631195678308339712,Tue Aug 11 20:09:11 +0000 2015,5,0,"Webinar: Accelerating Hadoop data stack w/Apache Ignite™ (incubating), Spark &amp; Bigtop - 8/20 11:00 AM PDT - http://t.co/venkBxVOBj #FastData"
+177,631176299676073985,Tue Aug 11 18:52:11 +0000 2015,1,0,Missed the inaugural @imcsummit 2015? Watch event footage &amp; hear what attendees had to say about IMC and #FastData - http://t.co/AYNA5xmXf5
+178,630866306670166017,Mon Aug 10 22:20:23 +0000 2015,4,1,New eBook - #InMemoryComputing: 'Harness the Speed of Memory and Outsmart Your Competition' now available on Amazon: http://t.co/VyB8bOtoIA
+179,630848381351538688,Mon Aug 10 21:09:09 +0000 2015,3,1,"Win a Free Pass to attend a two-day, hands-on, on-site training on Apache Spark &amp; Apache Ignite™ (incubating): http://t.co/MRm6x7z2gD"
+180,630770813399138305,Mon Aug 10 16:00:55 +0000 2015,1,0,Enjoyed the inaugural @imcsummit? Watch live impressions and hear what others had to say about #InMemoryComputing -http://t.co/soPNeW2ZXt
+181,629761268958765056,Fri Aug 07 21:09:21 +0000 2015,5,2,Missed the inaugural @imcsummit 2015? Watch event footage &amp; hear what attendees had to say about IMC and #FastData - http://t.co/sUCcEIpbva
+182,629726734594764800,Fri Aug 07 18:52:07 +0000 2015,2,1,Learn Apache Ignite™ (incubating) in live on-site training. Attend overview webinar on 8/13 at 11:00 AM for details: http://t.co/VrkbOAgJRo
+183,629683662234238976,Fri Aug 07 16:00:58 +0000 2015,2,0,Enjoyed the inaugural @imcsummit? Watch live impressions and hear what others had to say about #InMemoryComputing -http://t.co/HBh9oBjcv2
+184,629398830165811200,Thu Aug 06 21:09:09 +0000 2015,1,1,Missed the inaugural @imcsummit 2015? Watch event footage &amp; hear what attendees had to say about IMC and #FastData - http://t.co/OixLWyR2Ai
+185,629364334137896961,Thu Aug 06 18:52:04 +0000 2015,1,0,Webinar: How to easily share state across multiple Spark jobs using @ApacheIgnite™ (incubating) - 8/6 11:00 AM PDT - http://t.co/RoVKzaGEb3
+186,629346474304909312,Thu Aug 06 17:41:06 +0000 2015,3,0,RT @gridgain: Webinar starts in 20 minutes: Easily share state across multiple @ApacheSpark jobs using @ApacheIgnite™ (incubating) http://t…
+187,629330375647498240,Thu Aug 06 16:37:08 +0000 2015,1,0,Webinar Today: How to easily share state across multiple Spark jobs using @ApacheIgnite™ (incubating) 11:00 AM PDT - http://t.co/kj3wicrrVK
+188,629321395944693760,Thu Aug 06 16:01:27 +0000 2015,3,1,Learn Apache Ignite™ (incubating) in live on-site training. Attend overview webinar on 8/13 at 11:00 AM for details: http://t.co/7C1RalNZa4
+189,629204300242096128,Thu Aug 06 08:16:09 +0000 2015,3,0,RT @dsetrakyan: Apache Ignite In-Memory Data Grid http://t.co/7Q7c4SPec1 #apacheignite
+190,629203724196425728,Thu Aug 06 08:13:52 +0000 2015,8,0,RT @dsetrakyan: Spark Shared RDDs in Apache Ignite - http://t.co/JjHWhWqGou #ApacheSpark #ApacheIgnite
+191,629203357182222337,Thu Aug 06 08:12:25 +0000 2015,2,0,RT @dsetrakyan: Spark Shared RDDs in @ApacheIgnite -http://t.co/JjHWhW95wW
+192,629036458385502209,Wed Aug 05 21:09:13 +0000 2015,2,1,Webinar: How to easily share state across multiple Spark jobs using @ApacheIgnite™ (incubating) - 8/6 11:00 AM PDT - http://t.co/kj3wic9R4c
+193,629020458332090368,Wed Aug 05 20:05:38 +0000 2015,2,1,Missed the inaugural @imcsummit 2015? Watch event footage &amp; hear what attendees had to say about IMC and #FastData - http://t.co/6rplykV5pW
+194,628958785852309504,Wed Aug 05 16:00:34 +0000 2015,1,2,Webinar: How to easily share state across multiple Spark jobs using @ApacheIgnite™ (incubating) - 8/6 11:00 AM PDT - http://t.co/Jv23RwYcI3
+195,628809241382367232,Wed Aug 05 06:06:20 +0000 2015,4,0,RT @gridgain: Webinar: How to easily share state across multiple Spark jobs using @ApacheIgnite™ (incubating) - 8/6 11:00 AM PDT - http://t…
+196,628808496373350400,Wed Aug 05 06:03:22 +0000 2015,3,0,RT @dsetrakyan: @ApacheIgnite - In-Memory File System http://t.co/7gdBTEu60e
+197,628674051150585857,Tue Aug 04 21:09:08 +0000 2015,5,1,New eBook - #InMemoryComputing: 'Harness the Speed of Memory and Outsmart Your Competition' available for pre-order - http://t.co/lRikZx7dyv
+198,628641383985758208,Tue Aug 04 18:59:20 +0000 2015,1,1,Learn Apache Ignite™ (incubating) in live on-site training. Attend overview webinar on 8/13 at 11:00 AM for details: http://t.co/E0ZSGDee7Q
+199,628311659585646592,Mon Aug 03 21:09:07 +0000 2015,2,0,Webinar: How to easily share state across multiple Spark jobs using @ApacheIgnite™ (incubating) - 8/6 11:00 AM PDT - http://t.co/HElm72ur2m

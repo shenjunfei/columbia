@@ -1,0 +1,221 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,665222249415331840,Fri Nov 13 17:38:38 +0000 2015,1,0,RT @CDOForum: The fabulous Data Divas! #ibmCDO https://t.co/ppq8t4lYdT
+1,665222027024973826,Fri Nov 13 17:37:45 +0000 2015,7,0,"RT @IBMTHINKLeaders: Fascinating discussion, accomplished women at #IBMCDO Summit. Great plans for outreach to the future women of #data. h…"
+2,665221927074725889,Fri Nov 13 17:37:21 +0000 2015,4,0,"RT @CDOForum: That's a wrap! The #ibmCDO Summit, Fall 2015 is done. For a summary of events, see @IBMTHINKLeaders' summary here: https://t.…"
+3,665221810527555585,Fri Nov 13 17:36:53 +0000 2015,4,0,"RT @CDOForum: Thank-you to all who attended; 150 attendees, 80+ CDOs and 31 industries.  What a year for the #CDO role!
+
+#ibmCDO #CDOForum"
+4,665142887001276416,Fri Nov 13 12:23:16 +0000 2015,4,0,RT @DanVesset: At #CDOForum 14 of the 31 customers on panels/keynotes are PhDs - all top level Data executives.
+5,664903221278810112,Thu Nov 12 20:30:55 +0000 2015,3,0,RT @brettgow: IBM CDO Summit Data and Digital  Discussion: Dr JT Kostman; Dr Katrina Zmerli; Gary Laben; and Brendan Crotty#ibmcdo https://…
+6,664903195077005312,Thu Nov 12 20:30:49 +0000 2015,5,0,"RT @allen_s_crane: Beth Smith at #ibmcdo: Spark is one of the largest/fastest tech investments, wants to educate 1M data scientists @ https…"
+7,664903157898731520,Thu Nov 12 20:30:40 +0000 2015,1,0,"RT @CDOForum: Discussions are now flowing in breakouts on data in Banking, Insurance and #Spark. #ibmCDO #CDOForum"
+8,664903117184610304,Thu Nov 12 20:30:31 +0000 2015,2,0,RT @cortnie_cdo: @BethTSmith talks about foundations for innovation at #IBMCDO #spark #cloud https://t.co/UC3xShdBNk
+9,664903080203407360,Thu Nov 12 20:30:22 +0000 2015,5,0,"RT @IBMTHINKLeaders: ""Real Time,"" ""Right Time,"" or ""Digital Time""...latency costs. Experts talk Hadoop, Spark, Streams at #IBMCDO Summit ht…"
+10,664855321685397506,Thu Nov 12 17:20:35 +0000 2015,2,0,"RT @CDOForum: Time Inc's CDO, @JTKostman is talking about the #data and #digital blur. #ibmCDO #CDOForum https://t.co/z3KJJec1ex"
+11,664851001220952065,Thu Nov 12 17:03:25 +0000 2015,5,0,"RT @BethTSmith: Common themes from #IBMCDO summit attendees across 30+ industries: #disruption, #innovation, #spark, #businessvalue"
+12,664850972926214148,Thu Nov 12 17:03:18 +0000 2015,3,0,RT @IBMTHINKLeaders: .@chrishwiggins of the NY Times urges orgs to embed data scientists within teams; don’t lock them out. #IBMCDO https:/…
+13,664850934426681344,Thu Nov 12 17:03:09 +0000 2015,4,0,"RT @AdamPlom: Amazing atmosphere here at the #ibmCDO Summit, Fall. Collaborative, community feeling about this morning's discussions. #CDOF…"
+14,664850852742610944,Thu Nov 12 17:02:50 +0000 2015,2,0,RT @CDOForum: Time for some questions for our CMO panel. @amybshah #ibmCDO #CDOForum https://t.co/4ZEshB4FTm
+15,664850825399943169,Thu Nov 12 17:02:43 +0000 2015,3,0,RT @bodzewski: Outstanding panel of marketers. https://t.co/RQ5scOZzEB
+16,664835386607292416,Thu Nov 12 16:01:22 +0000 2015,6,0,"RT @IBMTHINKLeaders: Dr. Chul Lee of .@UnderArmour talks new products, revenue streams. All happening thanks to data innovation. #IBMCDO ht…"
+17,664835306852610049,Thu Nov 12 16:01:03 +0000 2015,3,0,"RT @CDOForum: Kiril Tsemekhman, CDO at @Integralads is now talking about how to deliver on #data #innovation. #ibmCDO #CDOForum https://t.c…"
+18,664835258941054977,Thu Nov 12 16:00:52 +0000 2015,4,0,"RT @brettgow: Dr. Chul Lee, Under Armour Connected Fitness, at the IBM CDO Summit...#ibmcdo #UnderArmour #ibm #cdoforum https://t.co/ZteMy5…"
+19,664835223067168768,Thu Nov 12 16:00:43 +0000 2015,4,0,"RT @chalfert: ""If you could use weather data &amp; forecast seasonality, I would pay a lot of money for that"" PhD panel on Data Science #cdofor…"
+20,664835202393444354,Thu Nov 12 16:00:38 +0000 2015,3,0,"RT @CDOForum: We're now joined by data leaders @ Coca-Cola &amp; The New York Times, sharing their data #innovation. #ibmCDO #CDOForum https://…"
+21,664813284902727680,Thu Nov 12 14:33:33 +0000 2015,1,0,RT @CDOForum: Chul Lee from @UnderArmour is talking Connected Fitness and innovative #data sources. #ibmCDO #CDOForum https://t.co/gry0MqEn…
+22,664811159678251009,Thu Nov 12 14:25:06 +0000 2015,2,0,RT @aesirianni: Looking forward to our official launch of @IBMCAI's new #analytics study at the @CDOForum tomorrow! #CDOForum https://t.co/…
+23,664811028639834113,Thu Nov 12 14:24:35 +0000 2015,3,0,RT @clickz_n_mortar: McKesson’s CIO on the opportunity in #bigdata #analytics to drive #business #strategy https://t.co/DOJDATU3RM @WSJ @CA…
+24,664811003331387392,Thu Nov 12 14:24:29 +0000 2015,3,0,"RT @CDOForum: ""Why Data Governance is Never Boring"" on @LinkedIn https://t.co/pi0Yk2VutI #CDOForum #DataGovernance #DataAnalytics #BigData …"
+25,664810993395105792,Thu Nov 12 14:24:27 +0000 2015,2,0,RT @AdamPlom: My latest blog for the #CDOForum on the importance of good #DataGovernance for successful #DataAnalytics. https://t.co/zPoZv6…
+26,664810917473984512,Thu Nov 12 14:24:08 +0000 2015,2,0,RT @CDOForum: ICYMI: Highlights of #CDOForum Melbourne [Video] https://t.co/tCb23seZo3 #ChiefDataOfficer #CAOForum #Analytics https://t.co/…
+27,664810853619933184,Thu Nov 12 14:23:53 +0000 2015,2,0,"RT @CDOForum: CAO, CDO - emerging as most impt execs in the new C-level suite. https://t.co/9a5o6oUs2k #CAOForum #CDOForum https://t.co/Mhj…"
+28,664810833420099584,Thu Nov 12 14:23:48 +0000 2015,2,0,"RT @CDOForum: Talking with Adrian McKnight, @suncorpbank on agile culture &amp; practices around their data and analytics strategy. https://t.c…"
+29,664810801761492992,Thu Nov 12 14:23:41 +0000 2015,1,0,"RT @CDOForum: Sydney's first CAO Forum, it's going to be a good one! https://t.co/RrIqqA5cSs"
+30,664810769498943488,Thu Nov 12 14:23:33 +0000 2015,2,0,RT @CDOForum: Big plans for Big Data to boost the US economy https://t.co/unEaQ1yroz
+31,664810729862791168,Thu Nov 12 14:23:24 +0000 2015,2,0,RT @sdobrin: @sdobrin: Excited for the #IBMCDO forum tomorrow. Participating on two panels  1 tomorrow and 1 Friday. #MonDataScience
+32,664810716973670400,Thu Nov 12 14:23:21 +0000 2015,3,0,RT @ColoradoCDO: Excited to be in #Boston for #ibmcdo summit Fall 2015!  #Data #StateOfCO
+33,664810697541439488,Thu Nov 12 14:23:16 +0000 2015,1,0,RT @CDOForum: Stunning setting for today's #IBMCDO breakfast here in #Boston. #CDOForum https://t.co/kGfbuHibpx
+34,664810669594812417,Thu Nov 12 14:23:09 +0000 2015,2,0,RT @DanVesset: Looking forward to attending #CDOForum tomorrow in Boston
+35,664810613676359680,Thu Nov 12 14:22:56 +0000 2015,1,0,RT @CDOForum: Show of hands time... 'How many of you feel you're getting the most value from your #data?' #ibmCDO #CDOForum https://t.co/ca…
+36,664810518599868416,Thu Nov 12 14:22:33 +0000 2015,1,0,RT @CDOForum: Shankar Ramamurthy is talking about being disruptive and leading #innovation. #ibmCDO #CDOForum https://t.co/HCJlb205zS
+37,664810457220411392,Thu Nov 12 14:22:19 +0000 2015,4,0,RT @IBMTHINKLeaders: We'll be live tweeting today from the #IBMCDO Summit in Boston! Stay tuned for insights from top #CDO and #datascience…
+38,664810440287997952,Thu Nov 12 14:22:15 +0000 2015,3,0,RT @amybshah: On my way to Boston to join the #IBMCDO summit and give a #CMO perspective .@TEConnectivity
+39,664810417680736256,Thu Nov 12 14:22:09 +0000 2015,6,0,RT @aesirianni: @cortnie_cdo is kicking off #Boston's IBM CDO Strategy Summit representing 31 different industries! #CDOForum https://t.co/…
+40,664810388664524800,Thu Nov 12 14:22:02 +0000 2015,3,0,RT @CraigMilroy: . @ShankerRamamurt leading the #disruptive #innovation conversation. #IBM #csuitestudy https://t.co/K2tvBF49mp
+41,659017967242375169,Tue Oct 27 14:45:02 +0000 2015,0,0,Why Data Governance is Never Boring https://t.co/Csdthzs9Pm
+42,657581540864606208,Fri Oct 23 15:37:11 +0000 2015,0,0,Culture - the Biggest Hurdle to Getting Payoff from Big Data and Analytics? -- https://t.co/a99WF21cHg
+43,657581437261082624,Fri Oct 23 15:36:46 +0000 2015,0,0,Analytics–The Sexy Side of Data! -- https://t.co/r36slZhxZJ
+44,657581161665974272,Fri Oct 23 15:35:40 +0000 2015,0,0,3 Tips for Successful CDO Onboarding -- https://t.co/xR6KrPBNHR
+45,654348777294295044,Wed Oct 14 17:31:20 +0000 2015,19,0,"RT @EMCbigdata: Obama's chief data scientist reveals how the government uses #BigData.
+http://t.co/1ksMRuWaUy"
+46,654335186612682752,Wed Oct 14 16:37:20 +0000 2015,2,0,"RT @CDOForum: We're now in 3 Discussion Groups, with @EMCcorp &amp; @ataccama leading chats on platform tech &amp; data quality. #CDOForum http://t…"
+47,653901425274175488,Tue Oct 13 11:53:43 +0000 2015,3,0,RT @TheStorageChap: Great morning at #CDOForum with an interesting presentation from @simon_gratton in progress. http://t.co/NyjV0dCdqo
+48,653901391556145152,Tue Oct 13 11:53:35 +0000 2015,2,0,RT @arjanvp: @petergrimmond on stage #cdoforum now. Learn how @VeritasTechUK can help manage your unstructured data .. http://t.co/dQyE3jlA…
+49,653901374418251776,Tue Oct 13 11:53:31 +0000 2015,3,0,RT @data_mos: @CoriniumBizDev @onewhitehall I am attending in an impressive location #CDOforum #chiefdataofficer http://t.co/pJvilXFQEr
+50,653901311994429440,Tue Oct 13 11:53:16 +0000 2015,3,0,"RT @CDOForum: Talk now turns to #CDO and #CIO relations with panellists from Banco Santander, Pioneer Investments &amp; @dunnhumby. http://t.co…"
+51,653901291895304193,Tue Oct 13 11:53:11 +0000 2015,4,0,"RT @CDOForum: Following a lively networking break, @simon_gratton resumes #CDOForum with a talk on the #data &amp; #digital blur. http://t.co/0…"
+52,653901270097469440,Tue Oct 13 11:53:06 +0000 2015,5,0,RT @Chilloutteam: Stunning venue and great conversations @EMCUKI @CDOForum #dataofficer http://t.co/cwI4vFQCka
+53,653901254641500160,Tue Oct 13 11:53:02 +0000 2015,8,0,"RT @CDOForum: CDOs from Zurich Insurance, News UK, Pioneer Investments, ING and XL Catlin talking 'First 90 Days'. #CDOForum http://t.co/vn…"
+54,653901242087907328,Tue Oct 13 11:52:59 +0000 2015,6,0,RT @dunnhumby: Beautiful setting for @CDOForum. Our MD for Data @jasonnathan talks Organising Information Around Your Customers. http://t.c…
+55,653901201990402048,Tue Oct 13 11:52:50 +0000 2015,5,0,RT @BazPan: Good start at the #CDOforum today-it's not about the technology. A good focus on changing culture. Data is changing everything.
+56,653901195715678209,Tue Oct 13 11:52:48 +0000 2015,3,0,RT @OVandenbilcke: @CDOForum The Information Generation https://t.co/PwGUEEUiHs via @YouTube
+57,653901181648011264,Tue Oct 13 11:52:45 +0000 2015,4,0,"RT @CDOForum: Our next keynote comes from @EMCcorp's @TheStorageChap, discussing the digital future. #CDOForum http://t.co/xgf2T9QhrT"
+58,653849579935408128,Tue Oct 13 08:27:42 +0000 2015,4,3,"Packed Gladstone Library at the #CDOforum, @onewhitehall, London. #chiefdataofficer http://t.co/DLErrR0uQQ"
+59,653848505006583809,Tue Oct 13 08:23:26 +0000 2015,4,0,RT @VeritasTechUK: Don’t miss us at #CDOForum tomorrow talking about unstructured data &amp; data analytics. http://t.co/7EGSqX2et0 http://t.co…
+60,653848483150041088,Tue Oct 13 08:23:20 +0000 2015,3,0,RT @robpsap: Excited about #CDOForum - to meet &amp; learn from leading #CDO's to discuss Information Governance and more http://t.co/kCd1602gD7
+61,653848449079709696,Tue Oct 13 08:23:12 +0000 2015,8,0,"RT @ataccama: Sponsoring the #cdoforum in London - join us for a demo of our tools for #DataQuality, #mdm &amp; #bigdata processing. http://t.c…"
+62,653848423838433280,Tue Oct 13 08:23:06 +0000 2015,3,0,RT @OVandenbilcke: @CDOForum début des 2 jours ;-) http://t.co/2P2haxFqHm
+63,653848409422626816,Tue Oct 13 08:23:03 +0000 2015,7,0,RT @clickz_n_mortar: @CDOForum Europe kicks off with a great turn out! #cdoforum #dataofficer #analytics http://t.co/8XwxJBCZM5
+64,653848396822921216,Tue Oct 13 08:23:00 +0000 2015,4,0,RT @CDOForum: Barely a spare seat here in the grand setting of @onewhitehall. #CDOForum http://t.co/gD0xpyT28E
+65,653848385791885312,Tue Oct 13 08:22:57 +0000 2015,3,0,RT @CDOForum: We're underway at the #CDOForum Europe 2015 with @simon_gratton providing an overview of the #CDO role. http://t.co/DcxJeD9iRC
+66,653848374374965248,Tue Oct 13 08:22:55 +0000 2015,3,0,"RT @Rich5ltr: CDOs meet Semarchy at the CDO Forum Europe, London Tues/Weds and learn why we are a Gartner Cool Vendor 2015 in MDM https://t…"
+67,647434776064983040,Fri Sep 25 15:37:34 +0000 2015,4,0,"RT @CDOForum: #FF @CAO_Forum, @CoriniumBizDev, @CoriniumGlobal, @charlesjamesuk, @vickyjanderson, @clickz_n_mortar, @CarolineMacGuin &amp; @Ada…"
+68,647434766241939457,Fri Sep 25 15:37:31 +0000 2015,4,0,RT @CDOForum: Memo to CDOs: Here's how to justify cost of putting up data analytics infrastructure -- http://t.co/zD1nLROhEW
+69,647434748479074304,Fri Sep 25 15:37:27 +0000 2015,5,0,RT @CDOForum: Does your company need a #CDO? And why don't Netflix or Uber have one? #CDOForum #DataOfficer #IBMCDO  http://t.co/8U2C7uLsDe
+70,647434669840035840,Fri Sep 25 15:37:08 +0000 2015,4,0,RT @CDOForum: Three Ways #BigData Helps Manufacturers Think Bigger #CDOForum http://t.co/hBVLdLrfZh
+71,646312315646799872,Tue Sep 22 13:17:18 +0000 2015,1,0,RT @CraigMilroy: RT @CDOForum: Research shows #ChiefDataOfficer are here to stay.. Companies that understand #data perform better http://t.…
+72,646312229315432448,Tue Sep 22 13:16:58 +0000 2015,6,0,"RT @tinagroves: If you're responsible for #datastrategy, Chief Data Officer Summit #CDOForum Nov 12-13 in Boston is a MUST attend. http://t…"
+73,646312203524681728,Tue Sep 22 13:16:51 +0000 2015,5,0,"RT @CDOForum: Check out this interview with @happyurs, an upcoming #IBMCDO Summit speaker. #CDOForum
+
+http://t.co/9iTZxmY9u5 http://t.co/Fm…"
+74,646312179965296640,Tue Sep 22 13:16:46 +0000 2015,1,0,RT @PerformalyticsJ: Why big data is more than technology in the marketing mix -- http://t.co/irQfztU6EV
+75,646312137762209793,Tue Sep 22 13:16:36 +0000 2015,1,0,"RT @Semarchy: Dear #CDO, meet @Semarchy and #EvolutionaryMDM at the @CDOForum http://t.co/3DzCgGmwJE http://t.co/ZVxOYblARC"
+76,646312084196732928,Tue Sep 22 13:16:23 +0000 2015,3,0,RT @CAO_Forum: The Branded Engagement Imperative has arrived due in part to the advent of Big Data http://t.co/Hvq0GYqUQ8 #cao #analytics #…
+77,646312065246830592,Tue Sep 22 13:16:18 +0000 2015,3,0,"RT @TheDMPL: The IBM #CDO Strategy Summit http://t.co/ju4rF5Ib8d November 12-13 in Boston, MA #CDOForum"
+78,646312024918638593,Tue Sep 22 13:16:09 +0000 2015,1,0,RT @CarolineMacGuin: The longevity of the CDO discussed #cdoforum #ChiefDataOfficer https://t.co/S4KnBjLuQB
+79,646311994103042048,Tue Sep 22 13:16:01 +0000 2015,2,0,RT @CDOForum: Very interesting statistic. #CDOForum #CDO #DataOfficer #WomeninTech https://t.co/jZw109FUeI
+80,646311964612907010,Tue Sep 22 13:15:54 +0000 2015,3,0,"RT @CDOForum: Check out this interview with @JennIppoliti, an upcoming #IBMCDO Summit speaker. #CDOForum
+
+http://t.co/AzvmXpSMUF http://t.c…"
+81,645993303205220352,Mon Sep 21 16:09:40 +0000 2015,0,0,"Branded Engagement, Big Data and the CAO https://t.co/PJwJDDKwd6"
+82,645993224335560704,Mon Sep 21 16:09:21 +0000 2015,0,0,Are CDOs Really a Short-Term Solution? https://t.co/lsdMyNAVaa
+83,639826573139529728,Fri Sep 04 15:45:17 +0000 2015,3,0,RT @CraigMilroy: #ChiefDataOfficer Evolution to the Chief #Analytics Officer and #DataScience by @CraigMilroy #bigdata via @SlideShare http…
+84,639826502322929664,Fri Sep 04 15:45:00 +0000 2015,3,0,RT @bobehayes: What is chief #analytics officer? http://t.co/IBwHiXxspT #BigData #datascience
+85,639826467719921664,Fri Sep 04 15:44:51 +0000 2015,1,0,RT @CAPcertify: Chief #analytics officer defined http://t.co/6wEMpsc7Nq
+86,639826431858581504,Fri Sep 04 15:44:43 +0000 2015,1,0,"RT @ChiefDigitalStr: Does your company have a CAO? Here's why it should. http://t.co/rUuKkJdDOK @FastCompany
+#BigData #Analytics http://t.c…"
+87,639739604770398208,Fri Sep 04 09:59:42 +0000 2015,0,0,Memo to CDOs: Here's how to justify the cost of putting up a data analytics infrastructure -- http://t.co/GGmAQzxqjw
+88,639734616040017920,Fri Sep 04 09:39:52 +0000 2015,3,0,RT @CapgeminiConsul: What should be the responsibilities of a Chief Data Officer? http://t.co/TbCJqQ2kiR
+89,639734570322165760,Fri Sep 04 09:39:41 +0000 2015,2,0,RT @ciouk: Chief Data Officers - What's the role of the CDO? http://t.co/WGswYMKU4O More #data leaders comment on leading #analytics strate…
+90,639734532237828096,Fri Sep 04 09:39:32 +0000 2015,24,0,RT @KirkDBorne: Do You Need A Chief Data Officer #CDO? http://t.co/Hp2LE1Pnl7 #BigData #DataScience HT @DataScientistsF http://t.co/8cG7dVi…
+91,639734340323254272,Fri Sep 04 09:38:47 +0000 2015,4,0,RT @CDOForum: What does the Chief Data Officer look like? http://t.co/7uyAAU3E1Z
+92,639733934746697728,Fri Sep 04 09:37:10 +0000 2015,0,0,Meet tomorrow's corporate rockstar – the Chief Data Officer  -- http://t.co/13RPZfitLh
+93,639733595788210176,Fri Sep 04 09:35:49 +0000 2015,3,1,"The Graduate - Becoming a CDO @CDOForum Adam Plom, Global Content Director writes #CDO ...http://t.co/QXKfC85yqV"
+94,639732522436399104,Fri Sep 04 09:31:33 +0000 2015,3,0,RT @CraigMilroy: . @CharlesSevior the analyze or insight conversation introduces the CAO or chief #analytics officer topic... #cdoforum #cdo
+95,639732154021363712,Fri Sep 04 09:30:05 +0000 2015,0,0,Where are CAO's planning on investing in the next 12 months? Check out our infographic to find out. http://t.co/6PrHWYa5oR
+96,637137517091889152,Fri Aug 28 05:39:56 +0000 2015,7,0,RT @CDOForum: What happens when data goes wrong? A second article from @CMOAustralia at last week's #CDOForum Melbourne. http://t.co/Mc4811…
+97,637137512155205633,Fri Aug 28 05:39:54 +0000 2015,4,0,RT @CDOForum: Have you seen our early-confirmed speakers for the #IBMCDO Summit in Boston? Join them and 100+ CDOs and data VPs. http://t.c…
+98,637137500323082240,Fri Aug 28 05:39:52 +0000 2015,3,0,RT @CDOForum: Who will be the next #ChiefDataOfficer at the Cabinet Office? Are there other credible candidates? #CDOForum #OpenGov http://…
+99,637137486528008192,Fri Aug 28 05:39:48 +0000 2015,4,0,RT @CDOForum: You may not need a #CDO but why wouldn't you want increase your odds of success? #CDOForum http://t.co/BnRDyq0LH1
+100,637137408161673216,Fri Aug 28 05:39:30 +0000 2015,7,0,RT @CDOForum: Great article written by @katsinsight from @ibmbaanz at this week's #CDOForum Melbourne. #IBMCDO https://t.co/rab6XfkDNb
+101,637137378377920512,Fri Aug 28 05:39:23 +0000 2015,3,0,"RT @CDOForum: We hope all of our delegates and sponsors enjoyed the #CDOForum in Melbourne this week. See you in 2016! Next stop, London...…"
+102,637137356131332096,Fri Aug 28 05:39:17 +0000 2015,3,0,RT @CDOForum: Look who has just joined the C-Suite… the #ChiefDataOfficer. #CDOForum #CDO http://t.co/FhxVSjWYsl
+103,633836977767387137,Wed Aug 19 03:04:46 +0000 2015,2,0,RT @BIcortex: CDO conference is about to commence in Melbourne Australia #cdoforum http://t.co/lo6a361fi5
+104,633836852747759620,Wed Aug 19 03:04:16 +0000 2015,3,0,"RT @TheDMPL: The IBM #CDO Strategy Summit http://t.co/McNVJfqEB7 November 12-13 in Boston, MA #CDOForum"
+105,633836832589922304,Wed Aug 19 03:04:11 +0000 2015,3,0,RT @SkaifePro: Good to see CDOs working at the source of data to improve value of data to organizations #cdoforum
+106,633836812046209024,Wed Aug 19 03:04:06 +0000 2015,2,0,RT @arunakolluru: PPT approach for data analysis by  @EugeneKolker #CDOForum http://t.co/70MghqCDW9
+107,633836768610004992,Wed Aug 19 03:03:56 +0000 2015,2,0,"RT @CDOForum: Great first discussion group ""the first 90 days and beyond"" @katsinsight @ibmbaanz Suncorp Veda ClearCDO #CDOForum http://t.c…"
+108,633836670169645057,Wed Aug 19 03:03:32 +0000 2015,1,0,RT @TheDMPL: The Chief #Data Officer Forum Hong Kong http://t.co/YupRQZPIJe December 8 - 9 #CDOForum
+109,633836635470168070,Wed Aug 19 03:03:24 +0000 2015,4,0,RT @vrfalconer: @PaulSonderegger welcome to Melbourne #CDOForum #BigData https://t.co/L84snXzzKT
+110,633836586451341312,Wed Aug 19 03:03:12 +0000 2015,2,0,RT @arunakolluru: Transform your analytics with Enterprise Data Lakes.  #CDOForum @CharlesSevior http://t.co/ym606JHK2b
+111,633454841122066433,Tue Aug 18 01:46:17 +0000 2015,2,0,RT @CDOForum: Full house for the opening panel discussion #CDOForum http://t.co/p8ag0ELulL
+112,633454779436437504,Tue Aug 18 01:46:03 +0000 2015,5,0,"RT @CharlesSevior: Interesting discussion, why did the CDO evolve and the CIO role take a different path? #CDOForum #BigData http://t.co/Tm…"
+113,633442039439319040,Tue Aug 18 00:55:25 +0000 2015,3,0,RT @CDOForum: The #1 reason why an #analytics project might succeed or fail is...http://t.co/DuUV3jG2OD #CDOForum #BigData #CDO http://t.co…
+114,633441946929795072,Tue Aug 18 00:55:03 +0000 2015,3,0,RT @CommvaultAPAC: Looking forward to #CDOForum Melbourne next week; talking in our roundtable about #dataquality at 4.15pm. #strategicdata
+115,633441812959498241,Tue Aug 18 00:54:31 +0000 2015,3,0,RT @CarolineMacGuin: Great sentence! The CDO function is on a rocket-ride to the moon in terms of importance. #CDOForum  https://t.co/LJtqh…
+116,633441776691339264,Tue Aug 18 00:54:22 +0000 2015,3,0,"RT @tinagroves: If you're responsible for #datastrategy, Chief Data Officer Summit #CDOForum Nov 12-13 in Boston is a MUST attend. http://t…"
+117,633337571746013188,Mon Aug 17 18:00:18 +0000 2015,1,0,RT @CDOForum: Talking Transformation with #ChiefDataOfficers [Video] http://t.co/UPPHaMz7tf #CDOForum #CDO #IBMCAI
+118,633337545183510529,Mon Aug 17 18:00:12 +0000 2015,2,0,"RT @willclarkeinoz: Going to @CDOForum tomorrow? Be sure to see @granleese from @carsalescomau talking ""Monetising Data Analytics Across Th…"
+119,633337510559485953,Mon Aug 17 18:00:04 +0000 2015,1,0,"RT @CDOForum: Looking forward to this talk on #dataanalytics tomorrow. #CDOForum
+
+https://t.co/17x3ZTMrnA"
+120,633337490816937984,Mon Aug 17 17:59:59 +0000 2015,3,0,"RT @CDOForum: #Digital &amp; #Innovation on the menu here at the wonderful Rockpool Bar &amp; Grill on the Yarra, hosted by @pivotal. http://t.co/s…"
+121,633082646424219649,Mon Aug 17 01:07:19 +0000 2015,2,0,RT @CAO_Forum: Check out the CAO Forum on Lanyrd - will you be joining us? http://t.co/Wdqlevoi3F #caoforum #cao #analytics
+122,633082620788649984,Mon Aug 17 01:07:13 +0000 2015,3,0,RT @CAO_Forum: What Does Big Data Mean in 2015? - Dataconomy http://t.co/85W9CHWpDr #bigdata #analytics #caoforum
+123,633082550475358208,Mon Aug 17 01:06:56 +0000 2015,5,0,"RT @CDOForum: For more on the @pivotal Chief #Digital &amp; #Innovation Officer series, including the next event in Singapore, visit: http://t.…"
+124,633082540803264513,Mon Aug 17 01:06:54 +0000 2015,6,0,"RT @CDOForum: Before tomorrow's #CDOForum in Melbourne, today we will be hosting #Digital &amp; #Innovation Leaders at Rockpool, powered by @pi…"
+125,633082533513596928,Mon Aug 17 01:06:52 +0000 2015,2,0,RT @CDOForum: Top tips on #data cleansing for SMEs http://t.co/SjdsHJcrIa #CDOForum
+126,633082516077809664,Mon Aug 17 01:06:48 +0000 2015,5,0,RT @CDOForum: @EugeneKolker @cortnie_cdo @happyurs @derek_strauss @PeterSpeyer @CharlesSevior @SigmaHorizon #CDOForum #IBMCDO https://t.co/…
+127,618744504531685376,Wed Jul 08 11:32:40 +0000 2015,3,0,RT @aditipatnaik: Myths on the CDO addressed at @CDOForum here is IBMs point of view @IBMSingapore http://t.co/wXlYh4VBPJ #ibmCDO
+128,618744486122942464,Wed Jul 08 11:32:35 +0000 2015,3,0,RT @enriquednicolas: @IBMCAI: Culture change is top of mind @CDOForum &amp; beyond http://t.co/Iit3HHYU5b. R... http://t.co/12W0USV0EJ http://t…
+129,618744466447405056,Wed Jul 08 11:32:31 +0000 2015,2,0,RT @aditipatnaik: Super productive day @CDOForum some very cool stories with Data...here's to exploring the role of the #CDO #ibmCDO http:/…
+130,618744081708093440,Wed Jul 08 11:30:59 +0000 2015,1,0,"RT @CDOForum: After some lively Discussion Groups, we're onto our final session of the event with a Panel discussing how to build #data tea…"
+131,618744057251168260,Wed Jul 08 11:30:53 +0000 2015,1,0,RT @CDOForum: And that concludes the first ever #CDOForum Asia. Thank you to all who joined the fantastic discussions over the past 2 days!
+132,618352770559672320,Tue Jul 07 09:36:03 +0000 2015,3,0,RT @CAO_Forum: Excited to announce the dates for the inaugural CAO Forum in NYC on 26th - 27th January #CAO #Analytics #CAOForum http://t.c…
+133,618352753870532608,Tue Jul 07 09:35:59 +0000 2015,4,0,RT @CAO_Forum: Great insights from Joe DeCosmo CAO @enova http://t.co/GiMVLjmF7j excited he is speaking at the show! #CAO #Analytics #CAOFo…
+134,618343411842727937,Tue Jul 07 08:58:52 +0000 2015,0,1,Love these informal #CDO discussion groups at CDO Asia today... #data #analytics https://t.co/dgI81p0tck
+135,618343259300057088,Tue Jul 07 08:58:15 +0000 2015,1,0,RT @CDOForum: Derek Judge from @mapr is leading a Discussion on #BigData analytics for advanced decision-making. #CDOForum http://t.co/ktIW…
+136,618343230170656769,Tue Jul 07 08:58:08 +0000 2015,2,0,RT @CDOForum: In today's final breakouts we have a session on the accountability of the #CDO &amp; this room talking #dataquality. http://t.co/…
+137,618343188445708288,Tue Jul 07 08:57:59 +0000 2015,2,1,McLaren speaking at @CDOForum CDO Asia today. #CDOForum #F1.  Very cool! https://t.co/emN6HlXfQa
+138,618342345658998784,Tue Jul 07 08:54:38 +0000 2015,5,0,RT @CharlesSevior: Our @EMCSingapore team learning about the role of the Chief Data Officer @CDOForum - Novotel Clark Quay http://t.co/Mean…
+139,618342220681359360,Tue Jul 07 08:54:08 +0000 2015,5,0,RT @CapgeminiConsul: Most Chief Data Officers focus on data management from a compliance perspective @Efma_news #CDO http://t.co/HkGba0BudF
+140,618342209671327744,Tue Jul 07 08:54:05 +0000 2015,4,0,RT @CapgeminiConsul: Value Oriented Chief Data Officers focus on innovation and value creation through data @Efma_news #CDO #bigdata http:/…
+141,618342048870100996,Tue Jul 07 08:53:27 +0000 2015,2,0,Being discussed right now at CDO Asia @CDOForum  #CDO http://t.co/NUDAJwplfs  https://t.co/QCScCdR017
+142,618341677607034880,Tue Jul 07 08:51:58 +0000 2015,5,3,75% of our CDO @CDOForum @CAO_Forum events are 'Discussion based'. Everyone participates. Informal. Engaging. #cdo  https://t.co/HwHnFU3Wc1
+143,618289673392259072,Tue Jul 07 05:25:20 +0000 2015,5,0,"RT @CDOForum: Yi Li, the first #ChiefDataOfficer for @OgilvyOne China, is presenting on customer engagement through data. #CDOForum http://…"
+144,618289643977605120,Tue Jul 07 05:25:13 +0000 2015,1,0,RT @CDOForum: Now for @charlessevior from @EMCbigdata to discuss the business drivers for an enterprise #data lake. #CDOForum http://t.co/x…
+145,618289616609804288,Tue Jul 07 05:25:06 +0000 2015,3,0,RT @peterchubert: Loving Reto's keynote at the #CDOForum- it resonates as a blend of my old consulting operating model design + my new data…
+146,618289590072426496,Tue Jul 07 05:25:00 +0000 2015,2,0,RT @CDOForum: Ruoyu Bao discussing the challenges of gaining internal buy-in and building a successful data team. #CDOForum http://t.co/y6l…
+147,618289539212279809,Tue Jul 07 05:24:48 +0000 2015,3,0,RT @CraigMilroy: . @ofirdi @regruenen @CDOForum Agree. Business transformation via #data #innovation. #CDOForum
+148,618289518622437376,Tue Jul 07 05:24:43 +0000 2015,4,0,RT @ofirdi: The role of #CDO &gt; Six Imperatives : capture how leaders #innovate and #transform their #business #CDOForum http://t.co/yajYs7g…
+149,618289497617362945,Tue Jul 07 05:24:38 +0000 2015,2,0,"RT @NolyMorimoto: At the first Chief Data Officer Forum, many inspiring and interesting insights were shared."
+150,618289470350209029,Tue Jul 07 05:24:31 +0000 2015,4,0,RT @IBMSingapore: Wondering how to put veracity of data into practice? Learn @CDOforum with @regruenen https://t.co/xzBKfpoS1e #ibmCDO http…
+151,618289447126310912,Tue Jul 07 05:24:26 +0000 2015,2,0,RT @peterchubert: Great presentation from Dr Krishnaswamy on ASTAR data science &amp; research. Love the idea of social analysis of MRT travel …
+152,618289351261351936,Tue Jul 07 05:24:03 +0000 2015,4,0,RT @IBMSingapore: @regruenen shares how the #CDO can create successes @CDOForum #ibmCDO https://t.co/xzBKfpoS1e http://t.co/bch4n6RI4v
+153,618289331015417856,Tue Jul 07 05:23:58 +0000 2015,3,0,RT @CDOForum: Men who post about football on social media are more likely to make an insurance claim in a certain region. #CDOForum http://…
+154,618289269694689280,Tue Jul 07 05:23:43 +0000 2015,5,0,RT @CDOForum: Dr. Shonali Krishnaswamy is now presenting on #BigData #Analytics - the stories that data can tell. #CDOForum http://t.co/toK…
+155,618289248307908608,Tue Jul 07 05:23:38 +0000 2015,5,0,"RT @davidchapa: ""CDO needs to assess the data sources to use"". True but knowing which ones not to use and why may be more important. #BigDa…"
+156,618289238472306688,Tue Jul 07 05:23:36 +0000 2015,4,0,"RT @bharatisudhir: @cdoforum @adamdrake The more data u collect, the more u lose #ibmcdo"
+157,618289197074489344,Tue Jul 07 05:23:26 +0000 2015,6,0,RT @IBMSingapore: @NolyMorimoto offers insights @CDOForum #ibmCDO https://t.co/nfRidpwPvq http://t.co/Dd5Qg0FgyL
+158,618289179139665920,Tue Jul 07 05:23:22 +0000 2015,3,0,"RT @ofirdi: Yi-Li, #CDO @OgilvyOne : different than other countries #China adopted the opt-out #data #strategy #CDOForum http://t.co/wokroP…"
+159,618289119601524736,Tue Jul 07 05:23:08 +0000 2015,7,0,RT @IBMbigdata: Headed to @CDOForum in Singapore July 7&amp;8? Trends we’ve seen  that help define an effective CDO #ibmcdo http://t.co/X9NmUN1…
+160,618289103751221248,Tue Jul 07 05:23:04 +0000 2015,1,0,RT @CDOForum: The best trait for a #creative industry CDO is - 'curiosity'. #DataOfficer #CDOForum
+161,618289086818877440,Tue Jul 07 05:23:00 +0000 2015,2,0,RT @CDOForum: Best quality for the #CDO - 'let the data talk to you'. #CDOForum
+162,618289077033508865,Tue Jul 07 05:22:57 +0000 2015,2,0,RT @CDOForum: Shameek Kundu believes #dataquality and #datagovernance are best observed in banking but the model may not work for everyone.…
+163,618289033983168512,Tue Jul 07 05:22:47 +0000 2015,7,0,RT @davidchapa: A lot of work needs to be done in China on regulatory side but seems to be moving in the right direction (paraphrase) @CDOF…
+164,618288945483399168,Tue Jul 07 05:22:26 +0000 2015,5,0,RT @davidchapa: The data democratization will improve organization's ability to make better business decisions. @CDOForum #BigData #dataana…
+165,618288857864404992,Tue Jul 07 05:22:05 +0000 2015,3,0,"RT @CDOForum: Our first session is off with Shameek Kundu, @aadrake and Yi Li sharing insights on their #CDO roles with IBM's @NolyMorimoto…"
+166,618288781314105344,Tue Jul 07 05:21:47 +0000 2015,5,0,RT @aadrake: Looking forward to an interesting day at #CDOForum and thanks to @CDOForum for organizing.
+167,618288753371705344,Tue Jul 07 05:21:40 +0000 2015,3,0,RT @CDOForum: And we're underway here at the #CDOForum with Dr. Shonali Krishnaswamy opening proceedings. http://t.co/EBeZ52DxTd
+168,618288731183779840,Tue Jul 07 05:21:35 +0000 2015,3,0,"RT @CharlesSevior: Kicking off the #CDOForum Singapore now. Full room, ready for #bigdata insights @EMCbigdata @EMCIsilon @CDOForum"
+169,618288713148309504,Tue Jul 07 05:21:31 +0000 2015,3,0,RT @davidchapa: @CDOForum Asia is underway.
+170,618288537054670848,Tue Jul 07 05:20:49 +0000 2015,2,0,"RT @Ashnikbiz: Our team at Chief Data officers summit in Singapore representing #Pentaho.
+ #CDOForum #DataOfficer http://t.co/QgPP4XMCX3"
+171,618109070688526336,Mon Jul 06 17:27:41 +0000 2015,2,2,Chief Data Officer Asia @CDOForum. Tomorrow. Singapore. Looking forward to meeting you.
+172,618108719402979328,Mon Jul 06 17:26:17 +0000 2015,4,0,RT @CoriniumGlobal: Should the #ChiefDataOfficer report to CIO or COO? http://t.co/aKj7vR8Rm1 #CDOForum #CIO #COO #CDO http://t.co/shZ9livo…
+173,618108706983645184,Mon Jul 06 17:26:14 +0000 2015,12,0,RT @Pentaho: Looking forward to the Chief Data Officer Summit in Singapore next week http://t.co/Em0sFlxgon #CDOForum #DataOfficer
+174,618108696309141504,Mon Jul 06 17:26:11 +0000 2015,21,0,RT @IBMbigdata: Getting ready for @CDOForum in Singapore July 7&amp;8? We are looking forward to meeting you : #ibmcdo http://t.co/LS5n7Omn7u
+175,618108682912571392,Mon Jul 06 17:26:08 +0000 2015,4,0,RT @CDOForum: Putting together the final touches for tomorrow. Don't forget to use our hashtag #CDOForum to join the conversation. http://t…
+176,618108668161183744,Mon Jul 06 17:26:05 +0000 2015,6,0,"RT @IBMTHINKLeaders: 3 storytelling best practices for #CDOs:
+
++ Define your role
++ Create a roadmap
++ Use analogies
+
+Read more http://t.co…"
+177,618108658489139201,Mon Jul 06 17:26:02 +0000 2015,6,0,"RT @CDOForum: We look forward to welcoming @IBMbigdata, @EMCbigdata, @Pentaho, @BackOfficeAssoc, @mapr &amp; @QlikView to the #CDOForum Asia to…"
+178,618108647852408833,Mon Jul 06 17:26:00 +0000 2015,9,0,RT @IBMbigdata: A topic of discussion @CDOForum in Singapore : how to define a successful CDO? #ibmcdo http://t.co/0Npp6HPKTs
+179,618108634006986752,Mon Jul 06 17:25:56 +0000 2015,23,0,RT @IBMAnalytics: MT @CDOForum: 4 key takeaways from last week's #IBMCDO Summit via @IBMTHINKLeaders http://t.co/3xLM5KoJYH #DataOfficer #C…
+180,615552342000300032,Mon Jun 29 16:08:09 +0000 2015,3,0,"RT @CAO_Forum: Juan Gorricho, Chief #Data &amp; #Analytics Officer of The #WaltDisney Company joins the #CAOForum advisory committee..."
+181,615552302712233984,Mon Jun 29 16:08:00 +0000 2015,0,0,Check this out. Our fastest growing Membership...Chief Analytics Officer https://t.co/6Cl0LORW51
+182,613599292587147264,Wed Jun 24 06:47:26 +0000 2015,7,0,RT @vickyjanderson: The Evolution of the #ChiefDataOfficer–Did you know 44% of CDOs originate from business-driven roles? #CDOForum http://…
+183,613599266938994688,Wed Jun 24 06:47:20 +0000 2015,3,0,"RT @clickz_n_mortar: Yi Li,@OgilvyWW's first-ever #ChiefDataOfficer in China,will present on #data &amp; #digital #strategy at #CDOForum Asia h…"
+184,613599225893527552,Wed Jun 24 06:47:10 +0000 2015,6,0,RT @CDOForum: Our agenda for the #CDOForum Europe is live. Visit http://t.co/3a514onprh now for a look at our early-confirmed speakers. #Da…
+185,613599209296646144,Wed Jun 24 06:47:06 +0000 2015,2,0,"RT @AdamPlom: 'Leading insurance companies have largely bypassed naming a CDO'. 
+
+How about AIG, Allstate, Lloyds, RSA, USAA, Nationwide et…"
+186,613599192297160704,Wed Jun 24 06:47:02 +0000 2015,2,0,"RT @CDOForum: IBM tackles emergency city systems as hurricane season approaches
+http://t.co/72IAx3Jh6n #CDOForum #CDO"
+187,606393007626194944,Thu Jun 04 09:32:13 +0000 2015,1,2,working with IBM on the CDO Strategy Summit in San Francisco. Most interesting 2 days with leading CDOs. https://t.co/EWM0zRKQ9J
+188,606391687825473536,Thu Jun 04 09:26:59 +0000 2015,6,0,"RT @CDOForum: Dewey Houck, @Boeing's new Chief Data &amp; Analytics Officer, to lead the company's new #DataAnalytics Group. #CDOForum http://t…"
+189,606391671606145024,Thu Jun 04 09:26:55 +0000 2015,3,0,"RT @AdamPlom: Great chat with a European manufacturing #CDO: ""Often, it isn't a business or tech problem, it's anthropological"". #CDOForum …"
+190,606391637246394368,Thu Jun 04 09:26:47 +0000 2015,1,0,RT @ashishkhera: RT CDOForum: Pleased to announce that dunnhumby are confirmed to speak at the #CDOForum Europe in London this October. #Da…
+191,606391614014136320,Thu Jun 04 09:26:41 +0000 2015,2,0,"RT @CarolineMacGuin: Data Quality -a burning issue in many organisations, is a Chief Data Officer the answer? #cdoforum #chiefdataofficer h…"
+192,606391593172639745,Thu Jun 04 09:26:36 +0000 2015,2,0,"RT @AdamPlom: At last we're able to share our #CDOForum review, analysing the #DataOfficer community. Great work, @clickz_n_mortar! http://…"
+193,606391574910615552,Thu Jun 04 09:26:32 +0000 2015,8,0,RT @CDOForum: #CDOForum reviews the global #data industry. Download the Chief #DataOfficer Forum Review: http://t.co/MEiNQJDMKW. http://t.c…
+194,606390695977467905,Thu Jun 04 09:23:02 +0000 2015,0,0,44% of Chief Data Officers originate from business-driven roles. Download CDO Forum review: http://t.co/QsBGGWGcMt. http://t.co/WTH9lH25zT
+195,606389977342210049,Thu Jun 04 09:20:11 +0000 2015,0,0,#CDOForum reviews the global #data industry. Download the Chief #Dataofficer Forum Review 2015: http://t.co/QsBGGWGcMt
+196,559756255448039424,Mon Jan 26 16:54:25 +0000 2015,0,2,10 Things I Learned Reading 70 Digital Marketing Trends Articles for 2015 (So You Don... | @scoopit via @MatrixPNG http://t.co/YTgK8hUWoR
+197,559755563169763329,Mon Jan 26 16:51:40 +0000 2015,0,0,"25 Inbound Marketing Articles of the Week: January 16, 2015 – UpCity @Creativeshooter http://t.co/50PBfPSZXA #CoriniumCommercial"
+198,559754586614157312,Mon Jan 26 16:47:47 +0000 2015,0,0,What Data Should Marketers Be Analyzing?  | @scoopit http://t.co/h60Y2W7FIX #CoriniumCommercial
+199,559754028029329408,Mon Jan 26 16:45:34 +0000 2015,0,1,"Marketing Is A Process, Not A Decision... And Never Magic | @scoopit via @Tkarera http://t.co/dKmwFcapYg #CoriniumCommercial"

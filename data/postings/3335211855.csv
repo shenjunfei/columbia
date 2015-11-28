@@ -1,0 +1,202 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,626058784960577540,Tue Jul 28 15:57:00 +0000 2015,0,0,"How to clear all Sidekiq #queues, using the power of #emoji #ruby http://t.co/oH1zd2FaGF"
+1,626048405404536832,Tue Jul 28 15:15:45 +0000 2015,1,0,Recent article on #grassgis #ruby http://t.co/j7ZshFpwTN
+2,626047368396439552,Tue Jul 28 15:11:38 +0000 2015,1,0,I Love Ruby 2016 beta rolling out #ruby http://t.co/cy1tBY0m6V
+3,626035217090912258,Tue Jul 28 14:23:21 +0000 2015,0,0,"Today's top 4 articles on #blogpost, #application, #setupserver, #dependencies: July 28th, 2015 #ruby http://t.co/lvZxph0mgX"
+4,626020698859941888,Tue Jul 28 13:25:40 +0000 2015,0,0,Clipping Images for Rails: Using Paperclip #ruby http://t.co/T4Z64pgeNa
+5,626009070785462273,Tue Jul 28 12:39:27 +0000 2015,0,1,"An alternative to rails STI, that requires no #schemachanges #ruby http://t.co/bWnphPFHhy"
+6,626008033647284224,Tue Jul 28 12:35:20 +0000 2015,0,0,Ode to Sequel #ruby http://t.co/lLlyM3sZJf
+7,625955105565769728,Tue Jul 28 09:05:01 +0000 2015,0,0,Piece today about Ruby on Rails: #rubyonrailsdeveloper #ruby http://t.co/FnO9l321bI
+8,625909683006636032,Tue Jul 28 06:04:31 +0000 2015,0,0,Senior Developer - Ruby-On-Rails #ruby http://t.co/5CI6dmKZXE
+9,625848059008839681,Tue Jul 28 01:59:39 +0000 2015,0,0,#setupserver and deploy the Rails #application #ruby http://t.co/iVmsxMMrXa
+10,625798767049080833,Mon Jul 27 22:43:47 +0000 2015,0,0,New Jekyll F.A.Q.s - Frequently Asked Questions (and Answers) @ Planet Jekyll #ruby http://t.co/eg2Td3rOPN
+11,625796285325529088,Mon Jul 27 22:33:55 +0000 2015,3,1,jQuery UI Autocomplete with Ruby on Rails #ruby http://t.co/wDmMsHk9nv
+12,625747319737221120,Mon Jul 27 19:19:21 +0000 2015,0,0,GitCompound -- yet another #dependencymanager #ruby http://t.co/7xiItRf60V
+13,625729693497602048,Mon Jul 27 18:09:19 +0000 2015,0,0,Use any C library from Ruby via Fiddle – the Ruby standard library’s best kept secret #ruby http://t.co/1n1MGL5YMT
+14,624584571804327936,Fri Jul 24 14:19:00 +0000 2015,0,1,"Today's top 4 articles on #blogpost, #exceptions, #autosuggest, #podcast: July 24th, 2015 #ruby http://t.co/nwKh21ItvY"
+15,624584567396171776,Fri Jul 24 14:18:59 +0000 2015,0,1,"This week's 5 most popular articles: July 24th, 2015 #ruby http://t.co/8BlejL5TNB"
+16,624222176477118466,Thu Jul 23 14:18:59 +0000 2015,0,0,"Today's top 4 articles on #blogpost, #exceptions, #demoproject, #railstimezones: July 23rd, 2015 #ruby http://t.co/DjvglgwRrZ"
+17,624222172693835776,Thu Jul 23 14:18:58 +0000 2015,0,0,"This week's 5 top articles from social media: July 23rd, 2015 #ruby http://t.co/GVczPljAhp"
+18,623923513712377860,Wed Jul 22 18:32:12 +0000 2015,0,0,Spree search #autosuggest extension #ruby http://t.co/FktNxVJY7D
+19,623899393238941696,Wed Jul 22 16:56:21 +0000 2015,0,0,Understanding Ruby’s strange “Errno” #exceptions #ruby http://t.co/xZ4DJwkqAr
+20,623890755346669568,Wed Jul 22 16:22:02 +0000 2015,0,0,Turn Ruby #conferencetalks into your own personal #podcast #ruby http://t.co/L0FbcOcJTj
+21,623859783788032000,Wed Jul 22 14:18:57 +0000 2015,0,0,"Today's top 4 articles on #blogpost, #demoproject, #railstimezones, #kyledaigle: July 22nd, 2015 #ruby http://t.co/vLP5IKLm1e"
+22,623859779606347776,Wed Jul 22 14:18:56 +0000 2015,1,1,"Trending on social today: #javascriptframeworks, #instancevariables, #performancebenchmarks #ruby http://t.co/wPlpPkd7yt"
+23,623842896844836864,Wed Jul 22 13:11:51 +0000 2015,0,1,How to Use Custom RSpec Matchers to Specify Behaviour #ruby http://t.co/b8pPysYZZJ
+24,623817702788964352,Wed Jul 22 11:31:44 +0000 2015,0,0,#Continuous #Delivery #demoproject KAInstagramV2.3 on @LinkedIn #ruby http://t.co/pKwhGV3ejj
+25,623759786463641600,Wed Jul 22 07:41:36 +0000 2015,1,1,How to query Rails #timezones and create cron task based on Day / Time #ruby http://t.co/tM8yrNzp8P
+26,623528095518167040,Tue Jul 21 16:20:57 +0000 2015,0,0,Build a Minimal #dockercontainer for #rubyapps #ruby http://t.co/VTpYj7iV0j
+27,623525567325933569,Tue Jul 21 16:10:54 +0000 2015,0,0,Making the best of #privatemethods #ruby http://t.co/AN9PcMU4aC
+28,623510455152181248,Tue Jul 21 15:10:51 +0000 2015,0,1,Disc: Simple Disque-powered Ruby jobs #ruby http://t.co/yL2UXbbW4L
+29,623497387936481280,Tue Jul 21 14:18:55 +0000 2015,0,1,"Today's top 4 articles on #blogpost, #databaseindexing, #vienna.html, #unixdaemons: July 21st, 2015 #ruby http://t.co/xxIiitrrl7"
+30,623483891551215618,Tue Jul 21 13:25:18 +0000 2015,0,0,A theoretical introduction to #unixdaemons in Ruby #ruby http://t.co/u1IaMadgRq
+31,623482757738561537,Tue Jul 21 13:20:47 +0000 2015,0,0,All the Columns Fit to Index: Unique + Compound Indexing #ruby http://t.co/VbVIeOuVfT
+32,623481499485122560,Tue Jul 21 13:15:47 +0000 2015,0,0,Introducing the Passenger Library project #ruby http://t.co/EUD26ydJSB
+33,623461161112104961,Tue Jul 21 11:54:58 +0000 2015,0,0,6 Concepts for New Volt Users #ruby http://t.co/kAlAASlh10
+34,623450014287855616,Tue Jul 21 11:10:41 +0000 2015,0,0,Testing Ruby's floats precision #ruby http://t.co/0QB9dvA55p
+35,623441205049823232,Tue Jul 21 10:35:40 +0000 2015,0,0,My favorite Ruby (On Rails) refactoring talks #ruby http://t.co/3V1Oav37mP
+36,623439941289312256,Tue Jul 21 10:30:39 +0000 2015,0,0,#diycalltreevisualization #ruby http://t.co/IFXEb7JO0B
+37,623381904537034752,Tue Jul 21 06:40:02 +0000 2015,0,0,Ruby on Rails developer #ruby http://t.co/FnO9l321bI
+38,623329167363440640,Tue Jul 21 03:10:29 +0000 2015,0,0,Software Assurance Marketplace Expands Portfolio of Open-Access Software Security Tools #ruby http://t.co/LaoZ3rFgws
+39,623229662743916544,Mon Jul 20 20:35:05 +0000 2015,0,1,#vienna.html - #europe's 1st Jekyll (#staticsite) User Group - Start Your Own City.html #ruby http://t.co/vUrGEg6BgB
+40,623189448784760833,Mon Jul 20 17:55:17 +0000 2015,0,2,Just Learn Rails (Part 2) #ruby http://t.co/5rvUrlDPgk
+41,623181649447153664,Mon Jul 20 17:24:18 +0000 2015,0,0,The Best of RailsConf 2015 #ruby http://t.co/5FyopqJpDU
+42,623174256453664768,Mon Jul 20 16:54:55 +0000 2015,0,0,#highperformance Caching with Readthis #ruby http://t.co/7KYHaJ0FxL
+43,623164035287117824,Mon Jul 20 16:14:18 +0000 2015,0,0,Logging local &amp; #instancevariables when exceptions occur in Ruby #ruby http://t.co/tWDvXQYTSY
+44,623138036042330113,Mon Jul 20 14:30:59 +0000 2015,0,1,#startwriting your API's with Rails #ruby http://t.co/96rI5W3eFF
+45,623061948704403456,Mon Jul 20 09:28:39 +0000 2015,0,0,An in-depth post on Gemfiles #ruby http://t.co/dS1lbFakSh
+46,623026766794330112,Mon Jul 20 07:08:51 +0000 2015,0,0,RMagick - A year later #ruby http://t.co/89XFglqpHE
+47,623022994814836737,Mon Jul 20 06:53:51 +0000 2015,0,0,An Exercise in Implementing #patternmatching in Ruby #ruby http://t.co/7dXzZJBTU9
+48,622767918678458368,Sun Jul 19 14:00:16 +0000 2015,0,0,"Today's top 4 articles on #blogpost, #webapplications, #parameters, #experience: July 19th, 2015 #ruby http://t.co/EN9xZJhemq"
+49,622665401055510528,Sun Jul 19 07:12:54 +0000 2015,0,0,Introducing TestChanges gem #ruby http://t.co/kKxusvgPoe
+50,622594865692569600,Sun Jul 19 02:32:37 +0000 2015,0,0,Symbolized Hash with indifferent access. #ruby http://t.co/qQBroUWm9c.
+51,622467686489001984,Sat Jul 18 18:07:16 +0000 2015,1,0,Ruby-on-Rails #webapplications #ruby http://t.co/Bm5y5lKuH2 http://t.co/o7R7munhfs
+52,622454937226715136,Sat Jul 18 17:16:36 +0000 2015,1,1,Ruby on Rails #ruby http://t.co/HaZM60Ke9x
+53,622454926443212800,Sat Jul 18 17:16:33 +0000 2015,1,0,"Book Cover for my new book: ""Ruby On Rails For Non-Tech Startup Founders"" #ruby http://t.co/7XXj0WeJEI http://t.co/rvtrgV9Gfl"
+54,622405530133381120,Sat Jul 18 14:00:16 +0000 2015,0,0,"Today's top 4 articles on #blogpost, #experience, #softwaredevelopmentteam, #thexogitogroup: July 18t... #ruby http://t.co/6sCDi1Mhl7"
+55,622267198095106048,Sat Jul 18 04:50:35 +0000 2015,0,1,Recent entry on #thexogitogroup #ruby http://t.co/YZ6Pna8ymx http://t.co/TE018A0icg
+56,622171761627541504,Fri Jul 17 22:31:22 +0000 2015,0,0,"This week in Rails: goodbye Rack::Lock, concurrent-ruby, better AC::#parameters and more #ruby http://t.co/ivFSY3WTF7"
+57,622125189749469188,Fri Jul 17 19:26:18 +0000 2015,0,0,#decouplingrubyapplications with Amazon SNS &amp; SQS #ruby http://t.co/oTIccuW4GJ
+58,622102491820347392,Fri Jul 17 17:56:06 +0000 2015,0,0,Getting started with Rails 5's ActionCable and websockets #ruby http://t.co/LduvIaRhUw
+59,622101240495910912,Fri Jul 17 17:51:08 +0000 2015,0,1,A Rusting Rubyist #ruby http://t.co/mjJB8b10wm
+60,622098561535221760,Fri Jul 17 17:40:29 +0000 2015,0,0,"SmartLogic Studies, A #videoseries for #founders- Ep. 2: Time To Hire #ruby http://t.co/mMHqHjqDeI"
+61,622097275716812801,Fri Jul 17 17:35:23 +0000 2015,0,0,"Testing ""shape"" of data and nested #datastructures #ruby http://t.co/ysp6JEKwZH"
+62,622043129353515008,Fri Jul 17 14:00:13 +0000 2015,1,2,"Today's top 4 articles on #blogpost, #technologies, #informationtechnology, #fastfeedbackloops: July ... #ruby http://t.co/gmkhyNNLld"
+63,622043124618108929,Fri Jul 17 14:00:12 +0000 2015,0,1,"This week's 5 most popular articles: July 17th, 2015 #ruby http://t.co/0Otuds9pee"
+64,622021784708247553,Fri Jul 17 12:35:24 +0000 2015,1,3,Recent post on Ruby on Rails #ruby http://t.co/Pz0QDbIOgH http://t.co/MZ5kiu71LX
+65,622021777888256001,Fri Jul 17 12:35:23 +0000 2015,0,0,"Ruby on Rails Developer, Anywhere, Switzerland #ruby http://t.co/H8YpGYfW4C"
+66,621990422005608448,Fri Jul 17 10:30:47 +0000 2015,0,0,Recent article on #fastfeedback #ruby http://t.co/Bq2oTkLo1H http://t.co/qVYGPTBxwM
+67,621943878128672768,Fri Jul 17 07:25:50 +0000 2015,0,0,#broadmodules in ruby #ruby http://t.co/MvNqnXnvSo
+68,621897060598591488,Fri Jul 17 04:19:48 +0000 2015,0,1,Keep your #datatypes in check! Rails #compatiblevalidator to assert types. #ruby http://t.co/4oHOz1hR0H.
+69,621808950007218176,Thu Jul 16 22:29:40 +0000 2015,0,0,Recent write up on #robertlouisstevenson #ruby http://t.co/PKR512QnUL
+70,621803885435461632,Thu Jul 16 22:09:33 +0000 2015,0,0,From #alexanderdymo: Get 40% Off My Ruby #performanceoptimization Book (and Other PragProg Ebooks Too... #ruby http://t.co/FN1lb7FHXE
+71,621738659100950528,Thu Jul 16 17:50:22 +0000 2015,0,0,Colorized SQL Log Backport for ActiveRecord #ruby http://t.co/bBNVzL3hyI
+72,621705861409427456,Thu Jul 16 15:40:02 +0000 2015,0,0,Code Worrier #ruby http://t.co/Samh8wVamz
+73,621689459935981568,Thu Jul 16 14:34:52 +0000 2015,1,1,Technologies used for backend development #ruby http://t.co/dbg8dhsr37
+74,621680730867933184,Thu Jul 16 14:00:11 +0000 2015,0,1,"Today's top 4 articles on #blogpost, #webserver, #casestatements, #casestatement: July 16th, 2015 #ruby http://t.co/4eEjvEBxrp"
+75,621680726744911872,Thu Jul 16 14:00:10 +0000 2015,0,1,"This week's 5 top articles from social media: July 16th, 2015 #ruby http://t.co/thPYIcGyQq"
+76,621635153903898624,Thu Jul 16 10:59:04 +0000 2015,0,0,ImageInfo - A Ruby gem that fetch web images metadata concurrently #ruby http://t.co/2Dl9bIDBpE
+77,621631358067195904,Thu Jul 16 10:43:59 +0000 2015,0,0,DevInterface Blog :: 5 semplici passi per rendere il tuo sito user-friendly #ruby http://t.co/IZ9N7G9MW2 http://t.co/j7wFium3Xb
+78,621592555281629184,Thu Jul 16 08:09:48 +0000 2015,0,0,What is REST API ? #ruby http://t.co/CGjM7tV6kf
+79,621468914464223232,Wed Jul 15 23:58:30 +0000 2015,0,0,Deep copying objects in Ruby #ruby http://t.co/rLvtyAiRr0
+80,621438961416830976,Wed Jul 15 21:59:28 +0000 2015,0,0,"Hello, Pluto - A Ruby Gem That Lets You Build Planets #ruby http://t.co/lZ6NcjAr8H"
+81,621428635413688320,Wed Jul 15 21:18:26 +0000 2015,1,1,Ruby value objects #ruby http://t.co/znekBHMNSI
+82,621389774822187008,Wed Jul 15 18:44:01 +0000 2015,0,1,How to Test Ruby Projects on Windows #ruby http://t.co/7ts5yPYwae
+83,621383288435965952,Wed Jul 15 18:18:15 +0000 2015,0,1,A #webserver vs. an app server #ruby http://t.co/HeCUTTKL16
+84,621375966435254272,Wed Jul 15 17:49:09 +0000 2015,0,1,Recent post on #casestatement #ruby http://t.co/8yAfDiAfwg
+85,621360627664187392,Wed Jul 15 16:48:12 +0000 2015,0,0,#riskmanagement and the #developmentprocess #ruby http://t.co/gicEcrWoQE
+86,621359611866689537,Wed Jul 15 16:44:10 +0000 2015,0,0,Deploying a Crystal application to Heroku #ruby http://t.co/ZUWzpUYLLT
+87,621321588206608384,Wed Jul 15 14:13:04 +0000 2015,0,0,Dr. Jekyll’s Themes - (Yet Another) Static Site Theme Directory #ruby http://t.co/xgue1As960
+88,621318341211369472,Wed Jul 15 14:00:10 +0000 2015,0,0,"Today's top 4 articles on #blogpost, #generationalgarbagecollection, #relationaldatabase, #helicopter... #ruby http://t.co/P6zreL5dfM"
+89,621318335880392705,Wed Jul 15 14:00:09 +0000 2015,0,0,"Trending on social today: #errormessage, #debuggingruby #ruby http://t.co/oKf8rZDKPp"
+90,621305376563138560,Wed Jul 15 13:08:39 +0000 2015,0,0,Piece today about Generational #garbagecollection: Generational #garbagecollection in Python and Ruby #ruby http://t.co/Du3tBKOPNp
+91,621303955566555136,Wed Jul 15 13:03:00 +0000 2015,0,0,Running a Rails Development Environment in Docker #ruby http://t.co/Nfppat6LgZ
+92,621296404351332352,Wed Jul 15 12:33:00 +0000 2015,0,0,Importing Data with ROM and Transproc #ruby http://t.co/xGBX7Jx84s
+93,621272528925892608,Wed Jul 15 10:58:08 +0000 2015,0,0,#evoluxtransportation Selects Hashrocket for App Development #ruby http://t.co/untOn25js3 http://t.co/G81u5vdX8k
+94,621272525155209216,Wed Jul 15 10:58:07 +0000 2015,0,0,Jacksonville s Hashrocket is powering the Uber of helicopter rides #ruby http://t.co/3tUS6E1sV0 http://t.co/JCqWU3E5Ro
+95,621272509124620288,Wed Jul 15 10:58:03 +0000 2015,1,0,Recent entry on Ruby on Rails #ruby http://t.co/IpA0U2vPHx http://t.co/h4HOqrYKFb
+96,621248736077959168,Wed Jul 15 09:23:35 +0000 2015,1,0,Opal on Rails: Replacing CoffeeScript with client-side Ruby #ruby http://t.co/go15m4LZCs
+97,621100128577945601,Tue Jul 14 23:33:04 +0000 2015,0,0,@rubycalendar - (Yet Another) #rubyconferencecalendar Alternative #ruby http://t.co/pualOy6d6Q
+98,621033415555596289,Tue Jul 14 19:07:59 +0000 2015,0,1,From Doug Tolton: Click here to buy ProcNew #ruby http://t.co/JooVK1cAKP
+99,621010559484432385,Tue Jul 14 17:37:09 +0000 2015,0,0,How unicorn talks to nginx – an introduction to unix sockets in Ruby #ruby http://t.co/Wzfun54SXt
+100,620956594042470400,Tue Jul 14 14:02:43 +0000 2015,0,0,How to Maintain a Healthy #developmentbacklog #ruby http://t.co/8iZppHIvo3
+101,620956589676175361,Tue Jul 14 14:02:42 +0000 2015,0,0,How I upgraded my Ruby with Contracts #ruby http://t.co/taQ3M3fYF8
+102,620955943413657601,Tue Jul 14 14:00:08 +0000 2015,0,0,"Today's top 4 articles on #blogpost, #authorization, #debuggingruby, #minitest: July 14th, 2015 #ruby http://t.co/8x0qzuySP4"
+103,620955156671279104,Tue Jul 14 13:57:00 +0000 2015,1,0,Realtime Twitter Clone #demonstratingvolt Framework #authorization / Authentication #ruby http://t.co/Grl4eXBIfb
+104,620949058493001728,Tue Jul 14 13:32:46 +0000 2015,0,0,"Writing Smart Migrations: References, Reversible, And Indexes #ruby http://t.co/hAfYq9Ld5u"
+105,620908773704601600,Tue Jul 14 10:52:42 +0000 2015,0,0,"From DevInterface: Ok, questo è davvero importantissimo, e continueremo a parla... #ruby http://t.co/ZFU29WVMIw http://t.co/EIwkYJ0qa6"
+106,620868344825122816,Tue Jul 14 08:12:03 +0000 2015,0,0,Migrating a #testsuite from RSpec to #minitest #ruby http://t.co/on1VWK7QQw
+107,620835728776409088,Tue Jul 14 06:02:26 +0000 2015,0,0,What's your Rails default stack? #ruby http://t.co/y0cedqDYoM
+108,620777615431991297,Tue Jul 14 02:11:31 +0000 2015,0,0,Creating #generators and #executables with Thor #ruby http://t.co/fVTfsFP0JU
+109,620762478784417792,Tue Jul 14 01:11:22 +0000 2015,0,1,#butter: A modern blog alternative for Rails #ruby http://t.co/GZKc2npyTP
+110,620709623612448768,Mon Jul 13 21:41:21 +0000 2015,0,2,JSON-less JSON schemas with rspec #ruby http://t.co/P2M085QJpm
+111,620699739076587521,Mon Jul 13 21:02:04 +0000 2015,0,0,Handmade Rails presenters #ruby http://t.co/gN8fabVoLk
+112,620647898439647232,Mon Jul 13 17:36:04 +0000 2015,0,0,awesome-websockets - A collection of #rubywebsocketservers @ #planetruby #ruby http://t.co/NOn2IJu7ax
+113,620635498961309696,Mon Jul 13 16:46:48 +0000 2015,0,0,Level-up `rescue` with dynamic exception #matchers #ruby http://t.co/6QCAtQrmzq
+114,620624156548300800,Mon Jul 13 16:01:44 +0000 2015,0,0,SmartLogic Studies: A New Interview Series for Tech Leaders #ruby http://t.co/AaflOapL6O
+115,620620382354153472,Mon Jul 13 15:46:44 +0000 2015,0,0,Xorcist #ruby http://t.co/X2Jp35NVWR
+116,620613918629711873,Mon Jul 13 15:21:03 +0000 2015,0,0,Enumerated Types with ActiveRecord and PostgreSQL #ruby http://t.co/y52YQj3cUM
+117,620600265578823680,Mon Jul 13 14:26:48 +0000 2015,0,0,#debuggingruby – 5 Tips to Help you Fix your Code #ruby http://t.co/uRpmmV5o8S
+118,620599022710063104,Mon Jul 13 14:21:51 +0000 2015,0,0,Black Bytes :: Debugging Ruby – 5 Tips to Help you Fix your Code #ruby http://t.co/LfUya3vFny http://t.co/xNV9nwbgg2
+119,620593555510267904,Mon Jul 13 14:00:08 +0000 2015,0,0,"Today's top 4 articles on #scripting, #webbasedapplication, #webdevelopment, #seniorsoftwareengineer:... #ruby http://t.co/wbb7fwHSzt"
+120,620593551316000772,Mon Jul 13 14:00:07 +0000 2015,0,0,"Trending on social today: #contentmanagementsystems, #michaellantry #ruby http://t.co/hcbsCORuUZ"
+121,620578639072133120,Mon Jul 13 13:00:52 +0000 2015,0,1,Bringing the best of Bash #scripting to Ruby #ruby http://t.co/iqBywnBoTM
+122,620575055882416129,Mon Jul 13 12:46:37 +0000 2015,0,1,New Transproc Released #ruby http://t.co/k2eJxPBr04
+123,620547208090415104,Mon Jul 13 10:55:58 +0000 2015,0,2,Recent write up on Ruby on Rails #ruby http://t.co/0KtG5DAAWW
+124,620527220600213504,Mon Jul 13 09:36:32 +0000 2015,1,0,Implementing TinyMCE in Ruby on Rails #ruby http://t.co/0YBJ94BQJQ
+125,620225355199217664,Sun Jul 12 13:37:02 +0000 2015,0,1,"Today's top 4 articles on out!#actioncable, #smartlogicappdeveloper, #actioncable, #blogpost: July 12... #ruby http://t.co/vebsr7lA2t"
+126,619941403267874816,Sat Jul 11 18:48:43 +0000 2015,0,0,Comments or Social plugins - What is better for you? #ruby http://t.co/ZCGbYaNPie
+127,619862964405993472,Sat Jul 11 13:37:01 +0000 2015,0,0,"Today's top 4 articles on #blogpost, #actioncable, #smartlogicappdeveloper, out!#actioncable: July 11... #ruby http://t.co/b6f0Zp2n8f"
+128,619693358219444224,Sat Jul 11 02:23:04 +0000 2015,0,0,Jobs #ruby http://t.co/fGtQBV9uNx
+129,619669244448514048,Sat Jul 11 00:47:15 +0000 2015,1,0,Recent write up on #actioncable #ruby http://t.co/5f4OIXCyF8
+130,618466241922105344,Tue Jul 07 17:06:57 +0000 2015,4,0,RT @nodenow: #Javascript #toUpperCase #toLowerCase #Programming #Code #Picture : http://t.co/Wgr6iikd6a http://t.co/siD2ZoNwxS
+131,618451142276710400,Tue Jul 07 16:06:57 +0000 2015,7,0,"RT @GDIAnnArbor: Two weeks until our Intro to Programming Concepts workshop, and only a handful of spots left. Grab your spot today! http:/…"
+132,618447222083031040,Tue Jul 07 15:51:22 +0000 2015,1,0,"The RubyMentor Blog :: Arrays, Multiple Assiment, and Splatting http://t.co/q4VYWBPcoq"
+133,618446781584642048,Tue Jul 07 15:49:37 +0000 2015,0,1,Trending on social today: #templates http://t.co/srlZb4pUDp
+134,618446437660147712,Tue Jul 07 15:48:15 +0000 2015,0,0,The state of Ruby and Rails: Opportunities and obstacles http://t.co/B8LF8r228Y
+135,618446186048057344,Tue Jul 07 15:47:15 +0000 2015,0,0,User-facing string interpolation in Rails http://t.co/k4LJN0uIgh
+136,618446035065663488,Tue Jul 07 15:46:39 +0000 2015,1,0,finite_machine v0.10.2 release http://t.co/fpT1YUGUkU
+137,618445812813664256,Tue Jul 07 15:45:46 +0000 2015,0,0,Mina v0.3.6 release http://t.co/J5xG9JCGQa
+138,618445600514834432,Tue Jul 07 15:44:55 +0000 2015,1,0,Recent write up on #applicationdevelopment #ruby http://t.co/R1XWqplGQ3
+139,618445410139525120,Tue Jul 07 15:44:10 +0000 2015,0,0,Max De Marzi :: Using the Testing Harness for Neo4j Extensions http://t.co/FSvSVPEYE8
+140,618444338134183937,Tue Jul 07 15:39:55 +0000 2015,0,1,"Post today about Ruby on Rails: BaseRails Ruby on Rails Training, Save 92% #ruby http://t.co/QQr0UPY0CL"
+141,618444334128500736,Tue Jul 07 15:39:54 +0000 2015,0,0,CoverMyMeds Launches Ruby on Rails Crossover Program; Will Hire 20 Developers in First Class ... #ruby http://t.co/zHP5WyWKma...
+142,618436043008819201,Tue Jul 07 15:06:57 +0000 2015,4,0,RT @AbdxlA: @dmprsvn and computer programming
+143,618424387738447873,Tue Jul 07 14:20:38 +0000 2015,0,0,Piece today about Ruby &amp;amp; RMagick: Droste (#selfreplicating images) with Ruby &amp;amp; RMagick #ruby http://t.co/nem2pxoSeV
+144,618420944604938240,Tue Jul 07 14:06:57 +0000 2015,24,0,RT @_K_E_L_S_E_Y: supposedly programming requires rare smarts but in all my yrs in tech i've never worked with a man capable of refilling a…
+145,618420066846134272,Tue Jul 07 14:03:28 +0000 2015,0,0,"Today's top 4 articles on #blogpost, #rubythreads, #databaseconnection, #developmentenvironment: July... #ruby http://t.co/uD62GhWFhK"
+146,618416621347045376,Tue Jul 07 13:49:46 +0000 2015,0,0,Sending Transactional Emails From Rails #ruby http://t.co/UFgVZwTmOL
+147,618414284163448832,Tue Jul 07 13:40:29 +0000 2015,0,1,Stacks and #linkedlists in Ruby #ruby http://t.co/xVxO6sY6lD
+148,618410339084955649,Tue Jul 07 13:24:49 +0000 2015,1,0,"Taskmanaging Your App, Part 1: #serviceobjects #ruby http://t.co/ZstflchO70"
+149,618405844569468929,Tue Jul 07 13:06:57 +0000 2015,13,0,RT @SeeLifeAsData: The guide to quickly learn Cloud Computing in R Programming http://t.co/hPNCeFGEyd #datascience
+150,618400417467232256,Tue Jul 07 12:45:23 +0000 2015,1,0,New feature in Rails 5: render views outside of actions #ruby http://t.co/vAqw4Iabrl
+151,618390746203353088,Tue Jul 07 12:06:57 +0000 2015,1,0,RT @nu11secur1ty: http://t.co/iow2BPRSTF http://t.co/vanlwMR9IX
+152,618375646457237504,Tue Jul 07 11:06:57 +0000 2015,6,0,"RT @Kristie__Smith: Programming note: spending the week in Montreal covering the #AFN annual assembly, but still retweeting security/cyber/…"
+153,618364997593399297,Tue Jul 07 10:24:38 +0000 2015,0,0,From DevInterface: Fornire informazioni di valore e contenuti strabilianti in u... #ruby http://t.co/DEfpycog0c http://t.co/IbqSrwOv39
+154,618362662175547392,Tue Jul 07 10:15:21 +0000 2015,0,0,Scaling Applications with Multiple #databaseconnection #ruby http://t.co/LEua9BiEZw
+155,618360547306811392,Tue Jul 07 10:06:57 +0000 2015,3,0,RT @Mr_RGPenny: The Script Programming Daily is out! http://t.co/bM7vdFwQAP Stories via @TWiBnation
+156,618345448223412224,Tue Jul 07 09:06:57 +0000 2015,4,0,RT @UdemyStartups: I will Complete your Assignments and Projects of Programming  http://t.co/1b4KtcEvkv  #programming #youtube #DIY #Startu…
+157,618330349182054400,Tue Jul 07 08:06:57 +0000 2015,3,0,RT @Naijaknowhow: Learn SAP Course - Online Beginner Training http://t.co/Z9lDfKHqSq  #php #programming #DIY #Startups #Independen… http://…
+158,618315250002194432,Tue Jul 07 07:06:57 +0000 2015,88,0,RT @kyleve: Programming – http://t.co/EOjCPtHZRU
+159,618300151401156608,Tue Jul 07 06:06:58 +0000 2015,2,0,"RT @ghup_shup: When your programming txtbook gives u a picture of the exact representation of how you feel.
+#trollbook #theyknow http://t.c…"
+160,618285051948740608,Tue Jul 07 05:06:58 +0000 2015,7,0,RT @awryaditi: I remember when Shark Week was a programming slot on DISCOVERY channel instead of just another week at work.
+161,618269952970199040,Tue Jul 07 04:06:58 +0000 2015,1,0,RT @ItsAndyBoy: @SeanFHamel ur boy Vin Scully dropping knowledge...http://t.co/rwQJe6X3pr. #redheads
+162,618254853811388417,Tue Jul 07 03:06:58 +0000 2015,5,0,"RT @nodenow: Senior Engineer at Delighted (Palo Alto, CA) (allows remote) http://t.co/ujZgNQlRvh #ruby-on-rails #ruby #javascript #job #tec…"
+163,618239754828685313,Tue Jul 07 02:06:58 +0000 2015,8,0,"RT @MichaelEHayden: @kojikabu If you look at Bernie challenging Herself, the same principles apply. NL adverse to listening to things again…"
+164,618209556452216832,Tue Jul 07 00:06:58 +0000 2015,1,0,RT @GeneSobolev: 10 R packages for #MachineLearning http://t.co/h2G84MsLIN via @datamadesimple #programming http://t.co/QrXAS812Wa
+165,618194457670905857,Mon Jul 06 23:06:58 +0000 2015,2,0,RT @nodenow: #Javascript #Object #Constructor #Programming #Code #Picture : http://t.co/gG8J5fPmRn http://t.co/4R2l8ciaKj
+166,618182579955630080,Mon Jul 06 22:19:46 +0000 2015,0,0,TTY v0.2.0 release #ruby http://t.co/9G4drdLDkO
+167,618179358251982848,Mon Jul 06 22:06:58 +0000 2015,3,0,RT @yoolandadotcom: Webmaster: Webmaster Video: Introduction to HTML Programming - http://t.co/c7BfYhpXca | search http://t.co/bOauW3Fldz h…
+168,618164259160244224,Mon Jul 06 21:06:58 +0000 2015,3,0,"RT @Katsucon: Less than a month to go! Deadline for #Katsucon2016 panel applications is July 30th, don't wait! http://t.co/bD0qem1EXU"
+169,618157398642040832,Mon Jul 06 20:39:43 +0000 2015,0,0,Using TracePoint to explore complex exception behavior in Ruby #ruby http://t.co/cj9e3Doj9a
+170,618149160076898305,Mon Jul 06 20:06:59 +0000 2015,11,0,RT @Basseyworld: People thought I was overreacting to Andre on Empire. It MATTERS!  https://t.co/RTC2gPJxSV
+171,618131068496015360,Mon Jul 06 18:55:05 +0000 2015,0,0,Piece today about #rubyinterpreter: Black Bytes :: Using Ruby #threads #ruby http://t.co/H3wGPnI0Vg
+172,618118961767559168,Mon Jul 06 18:06:59 +0000 2015,7,0,RT @ColinPlusPlus: What a CSS Code Review Might Look Like: Many programming languages go through a code review before deployment.... http:/…
+173,618103862986194944,Mon Jul 06 17:06:59 +0000 2015,4,0,RT @CarolinaMonPac: E-book for R programming for statistics. Read it by free. (In Spanish). https://t.co/0nzWp4EHq0
+174,618088764058021888,Mon Jul 06 16:06:59 +0000 2015,2,0,RT @nodenow: When you learn to use javascript properly #lifesaver #greatlanugae #js #javascript JavaScriptDaily  #programming
+175,618083718675173376,Mon Jul 06 15:46:56 +0000 2015,0,0,"Today's top 4 articles on #presenters, #googlecalendarapi, #templates, #twitter: July 5th, 2015 http://t.co/6ZRIVKEEP7"
+176,618083454312431616,Mon Jul 06 15:45:53 +0000 2015,0,0,A Look at the Future by Looking at the Past http://t.co/toZuFEJzik
+177,618083227786420224,Mon Jul 06 15:44:59 +0000 2015,0,0,Using #presenters and #decorators to clean up your #templates in Ruby on Rails http://t.co/5U8kLuH8mz
+178,618079147324256256,Mon Jul 06 15:28:46 +0000 2015,0,0,#visualizinggarbagecollection in Ruby and Python #ruby http://t.co/YcSpzXcH5c
+179,618073664999833601,Mon Jul 06 15:06:59 +0000 2015,3,0,RT @Best_One641: http://t.co/vyOZL0lNp7 Deals #9013 Yoiks! + Manual PC CD introduce students to core concepts computer programming… http://…
+180,618057697666170881,Mon Jul 06 14:03:32 +0000 2015,0,0,"Today's top 4 articles on #friends, #integrationtests, #presenters, #rubythreads: July 6th, 2015 #ruby http://t.co/haShRqCuLY"
+181,618057693467684864,Mon Jul 06 14:03:31 +0000 2015,0,0,Trending on social today: #templates #ruby http://t.co/srlZb4pUDp
+182,618051648829673472,Mon Jul 06 13:39:30 +0000 2015,0,0,Using #rubythreads #ruby http://t.co/gBF4GMTKB6
+183,618045230214983680,Mon Jul 06 13:14:00 +0000 2015,8,0,RT @tundal45: My amazing friend @oandoeats is looking for her first programming job in NYC. You should hire her! http://t.co/h2lPJ2DE7q
+184,618030141294399488,Mon Jul 06 12:14:02 +0000 2015,3,0,RT @ebstt: 10 Great Websites For Learning Programming - Whether you're preparing for a new career or experimenting with magic... http://t.c…
+185,618020613781909504,Mon Jul 06 11:36:11 +0000 2015,0,1,The state of Ruby and Rails: Opportunities and obstacles #ruby http://t.co/B8LF8r228Y http://t.co/uybVcVwJ4A
+186,617999934101585920,Mon Jul 06 10:14:00 +0000 2015,4,0,RT @Saba_TH: Why all kids will be coders? http://t.co/W7tD8bS1xs
+187,617984831557890050,Mon Jul 06 09:14:00 +0000 2015,8,0,RT @SavannahLaura1: Advantages referring to gules programming unreasonably ulterior languages: HyfRC
+188,617978845724045312,Mon Jul 06 08:50:12 +0000 2015,0,0,User-facing string interpolation in Rails #ruby http://t.co/k4LJN0uIgh
+189,617969727395266560,Mon Jul 06 08:13:58 +0000 2015,5,0,RT @ryannbuttowski: You guys dk the feeling of getting the correct programming code ok.
+190,617954617763172352,Mon Jul 06 07:13:56 +0000 2015,15,0,RT @ziuby: By #ziuby #learn #programming #language http://t.co/gpJIS4daHy http://t.co/YC17eGLsim
+191,617939520567255041,Mon Jul 06 06:13:57 +0000 2015,2,0,"RT @JillCWard: @oldgaulian actually I lie. In adulthood I've learned loads, thanks to brilliant British programming."
+192,617924462470676480,Mon Jul 06 05:14:06 +0000 2015,3,0,"RT @soPanel: The Art of Assembly Language Programming (Short Contents) 
+http://t.co/1GIJtDffjy #book #books"
+193,617894220523769856,Mon Jul 06 03:13:56 +0000 2015,1,0,RT @teekay1013: @REXtR0D1218 my generation that thinks discovery channel should be educational programming? True.
+194,617879114947629056,Mon Jul 06 02:13:55 +0000 2015,133,0,"RT @ModCloth: Oh-so-cool: A LEGO set honoring Ada Lovelace, the foremother of computer programming! http://t.co/cXO1M2ysbF http://t.co/9bqD…"
+195,617864017512669184,Mon Jul 06 01:13:55 +0000 2015,2,0,"RT @cjpatters: @Aleuth411 @alexxseibt plot twist, all major programming is cancelled and every week is a different animal theme"
+196,617848922736852992,Mon Jul 06 00:13:56 +0000 2015,5,0,"RT @whissocialmedia: Learn Python Programming on the Mac or PC with ""Python for Beg http://t.co/EsumVjwYB3  #programming #python #DIY #Star…"
+197,617833816577703936,Sun Jul 05 23:13:55 +0000 2015,6,0,RT @OlteenRazvan: Christian Slater on the Programming of MR. ROBOT http://t.co/RGtg1T4jEQ #news #tech #mobile #gadgets
+198,617818712956141569,Sun Jul 05 22:13:54 +0000 2015,2,0,RT @nodenow: We are hiring: Senior Web Development Engine http://t.co/Gv1Twr1zok #job awscloud #webdev #frontend #developer #nodejs #python…

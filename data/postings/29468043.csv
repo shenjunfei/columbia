@@ -1,0 +1,239 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669167168848793601,Tue Nov 24 14:54:20 +0000 2015,0,0,@andculture That is REALLY pretty 😊 Great work guys!
+1,669159253165383680,Tue Nov 24 14:22:52 +0000 2015,22,0,"RT @rauschma: “Why React Native might become the first multi-platform framework that actually works” by @skvarekm
+https://t.co/HJBVzzlKxJ"
+2,669123171279335424,Tue Nov 24 11:59:30 +0000 2015,0,0,@jasonkneen ewww they call you? I only have to deal with the daily spam
+3,668955598122262533,Tue Nov 24 00:53:37 +0000 2015,0,0,WoooooHoooooo https://t.co/oZgDoH1FcY
+4,668934914205720577,Mon Nov 23 23:31:26 +0000 2015,118,0,"RT @rauschma: Getting Started w/ Redux:
+– 30 free videos
+– 1–8 min each
+– By R. creator @dan_abramov
+– No Flux knowledge requ.
+
+https://t.c…"
+5,668930991424163841,Mon Nov 23 23:15:51 +0000 2015,14,0,RT @JI: React Native has first-class support for async functions on iOS &amp; Android. Shout out to @satya164 for writing docs: https://t.co/dM…
+6,668926889231273984,Mon Nov 23 22:59:33 +0000 2015,13,0,"RT @amlyhamm: I hate the pressure of ""fast"" development. As soon as the deadline becomes the most important thing, all teams &amp; products beg…"
+7,668921876077551617,Mon Nov 23 22:39:37 +0000 2015,0,0,@tonylukasavage as well you should. I think first impression feedback is super valuable
+8,668921505003257858,Mon Nov 23 22:38:09 +0000 2015,0,0,@tonylukasavage that's fair. Layouts and devs preferences for them fascinate me. One persons trash sorta thing... 😊
+9,668921103860002818,Mon Nov 23 22:36:33 +0000 2015,0,0,@tonylukasavage interesting. Only because most web devs clamor for flexbox.
+10,668920778692435968,Mon Nov 23 22:35:16 +0000 2015,0,0,@tonylukasavage what's your preference?
+11,668920467441524736,Mon Nov 23 22:34:02 +0000 2015,1,0,RT @tonylukasavage: Using react-native and every aspect of ES6. I feel like I’m leveling up at a rate people used to pay for in Diablo 2.
+12,668920381164621826,Mon Nov 23 22:33:41 +0000 2015,0,0,"@tonylukasavage don't disagree, but it's one of those things you just get used to. At least flexbox is a standard"
+13,668915453390139392,Mon Nov 23 22:14:06 +0000 2015,0,0,@tonylukasavage you get used to it. Many complained the same way about titaniums layout system 😊
+14,668913759172317184,Mon Nov 23 22:07:22 +0000 2015,0,0,@tonylukasavage everyone is dropping it for (the superior) react. 😊
+15,668898885599895553,Mon Nov 23 21:08:16 +0000 2015,0,1,@kylemathews Not 100% sure but I think map box has an API that can do this
+16,668896362356801537,Mon Nov 23 20:58:14 +0000 2015,1,0,RT @gpincin: Famous Words of @BrendanEich : Always bet on Javascript.  https://t.co/KjauLLSlgI
+17,668890536196067330,Mon Nov 23 20:35:05 +0000 2015,239,0,"RT @joemccann: New @wordpress is 100% node.js and React.
+
+Wordpress powers 25% of the web.
+
+Checkmate.
+
+ https://t.co/nB5LfvrZxw"
+18,668889742776344580,Mon Nov 23 20:31:56 +0000 2015,959,0,RT @mikeal: Wordpress just moved to Node.js. https://t.co/5oV5m7scM1
+19,668884802460909570,Mon Nov 23 20:12:18 +0000 2015,1,0,RT @kevinold: @mattapperson I like how Twitter is holding up given that @SlackHQ is down 😂
+20,668884554384596996,Mon Nov 23 20:11:19 +0000 2015,1,3,I like how even the status page for slack is down… #fail
+21,668882753740386304,Mon Nov 23 20:04:10 +0000 2015,4,0,RT @mrrocks: https://t.co/dW3fm74UWP
+22,668881648109363200,Mon Nov 23 19:59:46 +0000 2015,0,0,@kevinold same
+23,668796518120488960,Mon Nov 23 14:21:30 +0000 2015,0,0,@Lanc_Chamber any plans for an updated thinklocal app? Great concept but seems to be rather unused 😞
+24,668641102547853312,Mon Nov 23 04:03:56 +0000 2015,1,0,RT @neumino: Often forgotten reasons on why RethinkDB is a great database. https://t.co/XQlLJPOm3X
+25,668639735385088001,Mon Nov 23 03:58:30 +0000 2015,34,0,"RT @floydophone: Quick, someone make #reactjs bindings for https://t.co/Bb4zcz10n0"
+26,668548560695238657,Sun Nov 22 21:56:12 +0000 2015,0,0,"@bendodson yea... Gets real old, real fast though"
+27,668533141032853505,Sun Nov 22 20:54:56 +0000 2015,0,0,@mschoening you and me both
+28,668498865813786624,Sun Nov 22 18:38:44 +0000 2015,0,2,@tonylukasavage you could prob use @monkeylearn to do that
+29,668268863251959808,Sun Nov 22 03:24:47 +0000 2015,1,0,RT @ReactJSnpm: react-native-webview-js-context (0.2.0) https://t.co/O4xzoRqSkV Utilize the JavaScript VM running inside an iOS UIWebView t…
+30,668259452395659265,Sun Nov 22 02:47:23 +0000 2015,0,0,@hapijs your DNS seems to be having issues… www dot https://t.co/w45oPrqCXi is down (but just https://t.co/w45oPrqCXi is fine)
+31,668217192203329536,Sat Nov 21 23:59:28 +0000 2015,83,0,"RT @JI: If Node and React Native have made you nostalgic for compile times, npm 3 is here for you. https://t.co/r7bNMdXiBA"
+32,668202795699445760,Sat Nov 21 23:02:15 +0000 2015,48,0,RT @jbeda: Good engineering is as much about questioning the question as coming up with solutions.
+33,668201573751889920,Sat Nov 21 22:57:24 +0000 2015,0,1,@peterpme we do. I recommend using @Rancher_Labs to manage them
+34,668194605209374721,Sat Nov 21 22:29:42 +0000 2015,0,0,@caspervonb react?
+35,668160742324051968,Sat Nov 21 20:15:09 +0000 2015,0,1,@jasonkneen I don't even know what to make of that...
+36,668159842079625217,Sat Nov 21 20:11:34 +0000 2015,0,0,@jasonkneen what?
+37,668157598563192832,Sat Nov 21 20:02:39 +0000 2015,0,0,My mind is starting to melt from attempting to sort it all
+38,668157485140824064,Sat Nov 21 20:02:12 +0000 2015,0,3,Designing a plugin system for a node/react/redux app where the ui and the backend can be augmented and expanded via interdependent plungins
+39,667908296309870592,Sat Nov 21 03:32:01 +0000 2015,299,0,RT @peeja: People talk about the costs of rebuilding your app from scratch. They rarely talk about the costs of *not* rebuilding your app f…
+40,667758421446389762,Fri Nov 20 17:36:28 +0000 2015,0,0,So @Subnautica is kind of amazing!
+41,667754411553382400,Fri Nov 20 17:20:32 +0000 2015,3,0,"RT @RichRogersHDS: Tracking down the Villain: Outlier Detection at Netflix - ""A slow or unhealthy server is worse than a down server.""
+
+htt…"
+42,667754282876346368,Fri Nov 20 17:20:01 +0000 2015,8,0,"RT @kentcdodds: Simple as:
+&lt;meta name=""theme-color"" content=""#db5945""&gt; https://t.co/ayccsX09ov"
+43,667711242606387200,Fri Nov 20 14:29:00 +0000 2015,0,1,@rblalock you and me both! One with more ram...
+44,667542330782687232,Fri Nov 20 03:17:48 +0000 2015,1,4,I feel like it's every week I am posting about new open dev positions. Super cool to see @AppersonLabs growing so fast!
+45,667541993384501248,Fri Nov 20 03:16:28 +0000 2015,4,4,"I feel like a broken record, but we are looking for yet more engineers at @AppersonLabs. NodeJS, ReactNative, obj-c, and Java are all needed"
+46,667540766407921664,Fri Nov 20 03:11:35 +0000 2015,563,0,"RT @WiresharkNews: #Wireshark 2.0.0 has been released. Enjoy.
+
+https://t.co/ciFfNClNAs"
+47,667540653363081220,Fri Nov 20 03:11:08 +0000 2015,12,0,RT @_ericelliott: Designers know that they need a portfolio to earn jobs. Developers should know that they need code samples: https://t.co/…
+48,667539966688411648,Fri Nov 20 03:08:25 +0000 2015,0,1,@creationix @davglass @soldair yea it's worth the effort for sure.
+49,667469199816712192,Thu Nov 19 22:27:12 +0000 2015,16,0,"RT @rauchg: Great software by @vjeux once again:
+https://t.co/LD46bL4r3z"
+50,667469116526215168,Thu Nov 19 22:26:53 +0000 2015,0,0,@StephenFeather Sounds about right…
+51,667407114420289538,Thu Nov 19 18:20:30 +0000 2015,73,0,RT @TechCrunch: Google Hangout Participants No Longer Need A Google Account For Work Meetings https://t.co/46maV6MbbY by @drew
+52,667356620104605698,Thu Nov 19 14:59:51 +0000 2015,4,0,"RT @cliftonlabrum: This Sketch prototyping plugin looks outstanding: 
+
+https://t.co/xnxoksmT54"
+53,667137666824200193,Thu Nov 19 00:29:49 +0000 2015,1,0,RT @ReactJSnpm: react-virtual-list (1.7.3) https://t.co/JeuvPUbyEy Super simple virtualized list React component
+54,667137427165835264,Thu Nov 19 00:28:52 +0000 2015,21,0,"RT @dancounsell: Using Tweetbot? Do this in Terminal: “defaults write com.tapbots.TweetbotMac OpenURLsDirectly YES”
+
+https://t.co/F8a1jxPn5…"
+55,667028354974015488,Wed Nov 18 17:15:27 +0000 2015,16,0,RT @stroughtonsmith: Microsoft’s bringing its Android emulator to OS X https://t.co/2cfPTZTd8q
+56,666986576040325120,Wed Nov 18 14:29:26 +0000 2015,1,1,@fox my company @AppersonLabs is looking. And we are 100% remote. Shot me an email matt@appersonlabs.com
+57,666835511709954048,Wed Nov 18 04:29:09 +0000 2015,0,1,Sorry @Rancher_Labs but I think I have found your replacement https://t.co/DCToW1NQdc
+58,666831905732624384,Wed Nov 18 04:14:50 +0000 2015,1,0,"RT @houstonappio: Sorry for the delayed launch, something about rain... idk. But we should have lift-off in just a few more days 😊"
+59,666830851167100928,Wed Nov 18 04:10:38 +0000 2015,0,1,@matzatorski @mjackson @ryanflorence thanks for including @houstonappio 😊
+60,666667575196196864,Tue Nov 17 17:21:50 +0000 2015,8,0,RT @mjackson: Don't break require paths when you're moving files around in a large repo: https://t.co/CHsv51lvw6 Very handy. // @geteslint
+61,666653453486309377,Tue Nov 17 16:25:43 +0000 2015,0,0,@SlackHQ is it a bug or a “feature” that I can now only invite full members to channels?
+62,666621909401001986,Tue Nov 17 14:20:23 +0000 2015,129,0,RT @firt: iPad Pro with Apple Pencil exposes force to JavaScript in Safari in the same way as 3D Touch on iPhone 6s(+) https://t.co/38Usiws…
+63,666616177720971264,Tue Nov 17 13:57:36 +0000 2015,11,0,"RT @sweetdreamerit: #ux is about motivations. 
+#ui is about cognitive fluency"
+64,666616161887473664,Tue Nov 17 13:57:32 +0000 2015,3,0,RT @sweetdreamerit: good aestetics does not make a good ux @dottorboscarol #bsw15
+65,666446527066451968,Tue Nov 17 02:43:28 +0000 2015,0,1,@TheTailoredApp Have fun!
+66,666446491276484608,Tue Nov 17 02:43:20 +0000 2015,1,0,RT @TheTailoredApp: Tailored is out west. Laguna beach at sunset. #beautiful #cacoast #tailored https://t.co/10QoNJ4d8o
+67,666400650562019328,Mon Nov 16 23:41:10 +0000 2015,1,0,"Oh, and complete it to a 100% working state in that same afternoon #winning"
+68,666400505262956544,Mon Nov 16 23:40:36 +0000 2015,0,1,"That moment when you throw out weeks and weeks worth of another “Sr Dev’s” work, and rebuild it all from the ground up in an afternoon…"
+69,666264652003823616,Mon Nov 16 14:40:46 +0000 2015,1,0,RT @ryancoughlin: Snowcast / Resort Details by @ryancoughlin on @dribbble https://t.co/dLmGmI1CTJ
+70,666010357425700865,Sun Nov 15 21:50:17 +0000 2015,1,0,Cool use of images in a Twitter ad https://t.co/sgy3sZukrA
+71,666008229114159104,Sun Nov 15 21:41:50 +0000 2015,33,0,"RT @bclinkinbeard: This isn’t new, but I’m still blown away how many tech cos. refuse remote work. Like, you’re ignoring the power of the v…"
+72,665946260227170309,Sun Nov 15 17:35:35 +0000 2015,0,0,@gpincin @keyvan you can't just hand a jr dev q project by themselves or be unprepared to fix things
+73,665945984652955649,Sun Nov 15 17:34:30 +0000 2015,0,0,"@gpincin @keyvan growing engineers to be sr, and having a proper team is the important thing there"
+74,665878941291384832,Sun Nov 15 13:08:05 +0000 2015,2,0,RT @keyvan: A bunch of junior inexperienced engineers may give you cheap motivated labor with longer hours but don't give you a right lasti…
+75,665691932975329280,Sun Nov 15 00:44:59 +0000 2015,0,0,@dsibiski I think I'm more shocked that you still have a fax
+76,665691506368512000,Sun Nov 15 00:43:17 +0000 2015,1,0,"RT @gpincin: Been here for 2 weeks, and nothing but kindness, patience, and cooperation!  https://t.co/PIQsxwJdgf"
+77,665634586450403328,Sat Nov 14 20:57:06 +0000 2015,2,5,"Looking for mid to sr level engineers again! Node, ruby, react.. All skill sets we are looking for!"
+78,665382387950493697,Sat Nov 14 04:14:58 +0000 2015,6,0,RT @dabit3: Check out React Native radio on iTunes #reactjs #reactnative  https://t.co/wFTCTOmEHK
+79,665351621614923776,Sat Nov 14 02:12:42 +0000 2015,0,0,@neumino thats mostly because it is done by hand. There are phone calls and hand written forms involved. “wire” is a misnomer
+80,665288045013377028,Fri Nov 13 22:00:05 +0000 2015,205,0,RT @soprano: Try inspecting https://t.co/JAzPnetDJs for a taste of React v15: no more data-reactid attributes. It's like magic! https://t.c…
+81,665257447347605504,Fri Nov 13 19:58:29 +0000 2015,0,0,@ryanflorence Was just thinking this the other day. Though it is to be expected 😞
+82,665252150042337281,Fri Nov 13 19:37:27 +0000 2015,0,0,@activecollab https://t.co/lV8KjdSY1P
+83,664930691486994437,Thu Nov 12 22:20:05 +0000 2015,33,0,RT @kentcdodds: I just published “Why users care about how you write code” https://t.co/uVz887ZrSl
+84,664885191157133312,Thu Nov 12 19:19:17 +0000 2015,0,0,@chrismaddern what do you mean?
+85,664874327779733504,Thu Nov 12 18:36:07 +0000 2015,1,0,RT @neumino: RethinkDB 2.2 is out -- Feed with initial data + connection.server() will allow me to clean so much code :) -- https://t.co/yU…
+86,664835788388114433,Thu Nov 12 16:02:58 +0000 2015,7,0,RT @roncohen: Super excited to finally launch Opbeat for Node.js https://t.co/UfB8sG7WXe
+87,664831562400309248,Thu Nov 12 15:46:11 +0000 2015,5,0,RT @roylinesuk: I've just created a @hapijs plugin for all you pm2 users who like a gracefulReload. See https://t.co/HDf8CGdv4a for details.
+88,664813733361922048,Thu Nov 12 14:35:20 +0000 2015,1,0,RT @CloudNautique: Fun little side hack to add more Cowbell to @Rancher_Labs. Fire a POST to this service and scale up containers. https://…
+89,664658356758532097,Thu Nov 12 04:17:55 +0000 2015,0,0,@JedWatson where abouts?
+90,664657840234233856,Thu Nov 12 04:15:52 +0000 2015,0,1,@JedWatson wish I could be there! Would be great to get a chance to sit down and chat with you!
+91,664580303923642368,Wed Nov 11 23:07:46 +0000 2015,0,0,@StephenFeather Whatcha doing up my way?
+92,664574855283650560,Wed Nov 11 22:46:07 +0000 2015,1,0,Of course this is the case! Just like how if you started a new web base startup it would get less hits then Facebook https://t.co/WrUUikUUXO
+93,664573806732820481,Wed Nov 11 22:41:57 +0000 2015,0,0,You can now install popular automatic screen brightness app Flux on iPhone and iPad https://t.co/hgZGB5dSaL via @bzamayo
+94,664559966267809793,Wed Nov 11 21:46:57 +0000 2015,0,1,@caspervonb Might have something for ya… ill know in a few days
+95,664516455174701056,Wed Nov 11 18:54:03 +0000 2015,0,1,this morning my magsafe power adaptor broke. This afternoon groupon has them for $30 #winning
+96,664465182438092800,Wed Nov 11 15:30:19 +0000 2015,7,0,RT @uxlinks: How We Hold Our Gadgets &gt; https://t.co/7SxNW5ic3q #gadgets #mobile #ergonomics #ux #design https://t.co/VkvWP7IFIB
+97,664281931572453376,Wed Nov 11 03:22:08 +0000 2015,0,0,@HenrikJoreteg Next one on my list is one of these - https://t.co/dyN8j7avNM
+98,664281847749287936,Wed Nov 11 03:21:48 +0000 2015,0,0,@HenrikJoreteg I was not always into watches. But when you see the engineering and attention to detail… I just can’t help but fall in love
+99,664281651866914817,Wed Nov 11 03:21:02 +0000 2015,0,1,"@HenrikJoreteg Good, they are junk ;)"
+100,664281362392813568,Wed Nov 11 03:19:53 +0000 2015,0,0,@HenrikJoreteg pfft… Rolex. RGM and Zenith all the way :)
+101,664217199624765440,Tue Nov 10 23:04:55 +0000 2015,30,0,"RT @RichRogersHDS: Teams are immutable. Every time someone leaves, or joins, you have a new team, not a changed team. - @richardadalton htt…"
+102,664213138456371200,Tue Nov 10 22:48:47 +0000 2015,0,2,@dan_abramov really? What's the reason?
+103,664130009150464002,Tue Nov 10 17:18:27 +0000 2015,0,0,Wow… @sketchapp exporting a board with a slash in the name puts it into a folder… how annoying…
+104,664126444080111616,Tue Nov 10 17:04:17 +0000 2015,10,0,RT @patio11: There is nothing wrong w/ working for a living! Many people do! There is nothing wrong w/ employing people who desire to work …
+105,664124975356448768,Tue Nov 10 16:58:27 +0000 2015,7,0,RT @tanepiper: Just released hapi-react-handler https://t.co/KMPjHzspBF https://t.co/bYxNVy9Ulh - render React views from a react-router se…
+106,664124767071567872,Tue Nov 10 16:57:37 +0000 2015,1235,0,"RT @iamdevloper: What is 2+2?
+Engineer: 4.000000
+Manager: around 4
+Accountant: what do you want it to be?"
+107,664101443151003649,Tue Nov 10 15:24:57 +0000 2015,0,0,@skypanther Threads
+108,664101111247278080,Tue Nov 10 15:23:37 +0000 2015,0,0,@skypanther @SlackHQ I see no need for this
+109,663923024228429824,Tue Nov 10 03:35:58 +0000 2015,28,0,"RT @mdudas: ""Slack needs something akin to an app store to make bots easy to find, buy and install."" https://t.co/xRxDSYf7Y2"
+110,663855123886645248,Mon Nov 09 23:06:10 +0000 2015,0,0,@Zenefits please make the process of hiring remote people easier. Right now it feels like such a broken hack
+111,663838580251484160,Mon Nov 09 22:00:25 +0000 2015,275,0,"RT @ryanflorence: 💥 React Router v1.0 🎉
+
+- data loading integration points
+- 1st class code splitting
+- stateless routing
+- &amp; more
+
+https:/…"
+112,663777968595013632,Mon Nov 09 17:59:34 +0000 2015,0,0,@Zenefits https://t.co/8NZAofv7mu
+113,663777220704399360,Mon Nov 09 17:56:36 +0000 2015,201,0,"RT @frankdejonge: Given enough time, every technical decision will turn out to be the wrong one. Code for change."
+114,663777047886454785,Mon Nov 09 17:55:55 +0000 2015,0,0,@jasonpincin I think I am equally shocked that it will take until summer 2016 to get escalators working as I am that iTunes is on that sign
+115,663744253613490176,Mon Nov 09 15:45:36 +0000 2015,2,0,"RT @UtmostLogic: 18-year-old wins $250,000 for video that makes Einstein's mind-bending theory seem simple https://t.co/nIExyMd9cU"
+116,663711992251748352,Mon Nov 09 13:37:24 +0000 2015,0,1,@gpincin #secondBestGameEver
+117,663707095678648320,Mon Nov 09 13:17:57 +0000 2015,0,0,@vajrabhrt same issue. Ever find a fix?
+118,663542450305282048,Mon Nov 09 02:23:42 +0000 2015,0,1,@mdudas @TheAtlantic exactly!!
+119,663540358131933184,Mon Nov 09 02:15:24 +0000 2015,0,1,@mdudas @TheAtlantic when bridges and buildings are as poorly maintained as most software systems are then they fail too
+120,663540175633571840,Mon Nov 09 02:14:40 +0000 2015,0,0,@mdudas @TheAtlantic yea... Most of the issues mentioned were not from poor engineering but poor maintenance
+121,663517624656117760,Mon Nov 09 00:45:03 +0000 2015,0,0,@semil @_ericelliott That is just flat out pathetic… Do they just walk in expecting a handout?
+122,663471099313790977,Sun Nov 08 21:40:11 +0000 2015,0,1,@sindresorhus I want them to bring it back soooo bad! It’s been too long…
+123,663439572580376578,Sun Nov 08 19:34:54 +0000 2015,0,0,@sindresorhus just finished. It's one of my all time fave shows!
+124,663416868934406144,Sun Nov 08 18:04:41 +0000 2015,1,0,Would you guys rather that I talk more on Twitter about:
+125,663337539915378688,Sun Nov 08 12:49:28 +0000 2015,149,0,RT @TechCrunch: uBeam declassfies secrets to try to prove wireless power is possible https://t.co/CA5A4EEmRT https://t.co/teSz9K5q1A
+126,663212632317550592,Sun Nov 08 04:33:08 +0000 2015,0,0,@BrendanEich @OhMeadhbh @creationix it's no Annapolis though :)
+127,663212559647055877,Sun Nov 08 04:32:50 +0000 2015,0,0,@BrendanEich @OhMeadhbh @creationix ah nice. My uncle lives there for a number of years.
+128,663206344648957953,Sun Nov 08 04:08:08 +0000 2015,0,1,@OhMeadhbh @BrendanEich @creationix unless in Annapolis... In that case it might as well be New England
+129,663143098994831360,Sat Nov 07 23:56:50 +0000 2015,0,0,@nmarsup @adambretz that imho is an exception to a rule not the rule
+130,663117817881956352,Sat Nov 07 22:16:22 +0000 2015,0,0,@adambretz @nmarsup I find things like forms in redux GENERALLY cause more clutter then value
+131,663108768587259904,Sat Nov 07 21:40:25 +0000 2015,0,0,@adambretz The way I build apps this is how I think… Forms? Local. Want to abstract it to its own package? Local. Else? Redux
+132,663087016867926017,Sat Nov 07 20:13:59 +0000 2015,13,0,RT @greweb: It's happening! https://t.co/K4PS9XoZWR https://t.co/h2JByZOINf
+133,663013069375803392,Sat Nov 07 15:20:08 +0000 2015,117,0,RT @rhein_wein: Stop thinking about a container as a mini-VM and instead start thinking about it as just a process.
+134,663009179687329792,Sat Nov 07 15:04:41 +0000 2015,0,0,@stroughtonsmith perhaps just an experiment?
+135,663007344389963776,Sat Nov 07 14:57:23 +0000 2015,0,0,@seanodotcom heck yea. I would kill for one of those!!
+136,663006430904123392,Sat Nov 07 14:53:45 +0000 2015,559,0,"RT @kennwhite: This will get very ugly: unpatched, full remote exec on Java-based web svcs that use a popular serialization library
+https:/…"
+137,663006091324874752,Sat Nov 07 14:52:24 +0000 2015,0,0,@seanodotcom but like... They have always had a store there right? so they just moved?
+138,662838468071038976,Sat Nov 07 03:46:20 +0000 2015,1,0,"RT @amrtns: This is so cool! Uses an image of a screen to detect, create and arrange React components. #react #reactnative
+https://t.co/9Dh…"
+139,662837437866115072,Sat Nov 07 03:42:14 +0000 2015,1,0,"RT @hugo__df: React is more than another frontend MVblaah framework, it's a paradigm and it may end up running everywhere 💪🏻 #react #reactn…"
+140,662800274176782336,Sat Nov 07 01:14:34 +0000 2015,15,0,"RT @petrbela: Any sufficiently complicated REST API contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of #G…"
+141,662780605567000580,Fri Nov 06 23:56:24 +0000 2015,75,0,"RT @kdzwinel: POC: @ChromeDevTools Network panel as a stand-alone, OS-wide, network analysis tool. https://t.co/NQiP5rIZl1"
+142,662767083311247360,Fri Nov 06 23:02:40 +0000 2015,11,0,"RT @RichRogersHDS: “If you want to kill any idea in the world, get a committee working on it.” – Charles Kettering"
+143,662761782507872260,Fri Nov 06 22:41:37 +0000 2015,0,0,@davidjgomez @mglukhovsky a replacement for flux
+144,662747979997163521,Fri Nov 06 21:46:46 +0000 2015,0,0,@rblalock @StephenFeather agreed
+145,662746741582770176,Fri Nov 06 21:41:51 +0000 2015,0,0,@StephenFeather @rblalock I would bet money that this pivot was filed by the investors
+146,662746206024704000,Fri Nov 06 21:39:43 +0000 2015,0,0,"@seanodotcom price vs value for a non-hardcore gamer though, aTV wins hands down"
+147,662746109333397504,Fri Nov 06 21:39:20 +0000 2015,0,0,"@seanodotcom most dev have had it at most 2 weeks, so its no real shocker."
+148,662746028572065792,Fri Nov 06 21:39:01 +0000 2015,0,0,"@seanodotcom AMAZING. Picked one up + 2 controllers. Gaming is not yet as good as xbox, but potential is there"
+149,662745213664784384,Fri Nov 06 21:35:46 +0000 2015,0,0,@seanodotcom pfft I have an Apple TV now :)
+150,662700778247823360,Fri Nov 06 18:39:12 +0000 2015,0,3,So very few talented programers in the world. Even fewer with a good work ethic.
+151,662698956552544256,Fri Nov 06 18:31:58 +0000 2015,1,5,Very happy to have @gpincin on our team now! 4 days in and already made several PRs. Really top notch!
+152,662632477261983744,Fri Nov 06 14:07:48 +0000 2015,0,0,@drunknbass For approval?
+153,662609975257243648,Fri Nov 06 12:38:23 +0000 2015,0,1,@bitrise I would love to be able to integrate with our in-house tools and PM system
+154,662607961844527104,Fri Nov 06 12:30:23 +0000 2015,0,0,@bitrise do you guys have an API?
+155,662601348601536512,Fri Nov 06 12:04:06 +0000 2015,9,0,RT @kzzzf: If you're building #reactnative android from source with gradle this https://t.co/dpCCjVZewA should make your builds 20% faster
+156,662413866287149056,Thu Nov 05 23:39:07 +0000 2015,0,0,I love Thingthing Keyboard! It's really productive @thingthingapp #productivity #ios https://t.co/SYX5P6Zp6V https://t.co/hBlqEN155p
+157,662413207278063616,Thu Nov 05 23:36:30 +0000 2015,4,0,"RT @Rygu: React is not a cross-platform framework, but a cross-platform abstraction. Showcased by https://t.co/dI8W9kqdZM https://t.co/clBl…"
+158,662403833000251392,Thu Nov 05 22:59:15 +0000 2015,1,1,Found it! /cc @kevinold https://t.co/xHb3efys0d
+159,662403158124208128,Thu Nov 05 22:56:34 +0000 2015,0,0,someone had a graphic they posted of how redux worked... was it you @kevinold ?
+160,662355476869488640,Thu Nov 05 19:47:06 +0000 2015,0,0,@MikeSafariMusic @zulualphakilo +1
+161,662355413455761408,Thu Nov 05 19:46:51 +0000 2015,76,0,RT @zulualphakilo: What happens when you ask people in other industries for spec work? We decided to find out: https://t.co/HGlMMwu5ke
+162,662352219199684608,Thu Nov 05 19:34:09 +0000 2015,68,0,RT @electronjs: Electron now includes a built-in Windows auto updater and a Mac App Store compatible build. Learn more: https://t.co/cvRVAL…
+163,662320770442465280,Thu Nov 05 17:29:11 +0000 2015,5,0,"RT @JamieMSmyth: ""Watching some people use Git is like watching that Ewok hop on the speederbike.""
+
+- @alexmkrolick"
+164,662275051253813248,Thu Nov 05 14:27:31 +0000 2015,459,0,RT @xkcdComic: Water Delivery https://t.co/lrxdLB2kIZ https://t.co/w3zD6eqN2b https://t.co/heceQ7zy3r
+165,662263488878911489,Thu Nov 05 13:41:34 +0000 2015,0,0,"@theGiggster On one hand its nice, but then you get idiots like these who think anything goes."
+166,662263443949551616,Thu Nov 05 13:41:23 +0000 2015,0,1,@theGiggster One of the best and worst things about our industry is the lack of “professionalism”.
+167,662120235995107328,Thu Nov 05 04:12:20 +0000 2015,7,0,RT @UICraftsman: 2 minute demo of my #ReactNative #WPF prototype.  #reactjs #javascript https://t.co/U2erqy2qiT
+168,662056701936476161,Wed Nov 04 23:59:52 +0000 2015,0,0,@dsibiski though the l and r 1 buttons are hard to keep a finger on
+169,662056469639127040,Wed Nov 04 23:58:57 +0000 2015,0,0,@dsibiski yea. They looked cheesy but are rather nice
+170,662056200838717440,Wed Nov 04 23:57:53 +0000 2015,0,0,@dsibiski get steelseries remotes though
+171,662056105699332100,Wed Nov 04 23:57:30 +0000 2015,0,0,@dsibiski very. Not the best choice of games at the moment but I see a ton of potential
+172,662025283676057604,Wed Nov 04 21:55:02 +0000 2015,16,0,RT @_ericelliott: The best way to prove the skills you list on your resume is with open-source projects. Build a portfolio that's yours.
+173,661899998754402304,Wed Nov 04 13:37:11 +0000 2015,0,0,Do you wish you could have more then 2 options in polls
+174,661894081199677440,Wed Nov 04 13:13:41 +0000 2015,28,0,RT @stroughtonsmith: Everybody jumping on Swift so early for every opensource project has created a *year's worth* of code that does not co…
+175,661743246855532544,Wed Nov 04 03:14:19 +0000 2015,210,0,RT @tweetsoutloud: My mind is blown. https://t.co/czYuuvRQrr
+176,661742011653955584,Wed Nov 04 03:09:24 +0000 2015,0,0,Got 2 steelseries remotes tonight for my appletv #worthit
+177,661688703006412801,Tue Nov 03 23:37:35 +0000 2015,0,1,"@ThisIsKateJones I know right! I finished work and was like ""crap, it's time for bed"""
+178,661618976343109632,Tue Nov 03 19:00:30 +0000 2015,0,0,@steipete @jasonkneen @jhaynie rofl
+179,661597033896271875,Tue Nov 03 17:33:19 +0000 2015,2,0,RT @contlabs: You must upgrade to Node 4 or 5 in order to use the latest major version of all @hapijs core modules. They now rely on ES 201…
+180,661543193620701185,Tue Nov 03 13:59:22 +0000 2015,0,0,@jasonkneen I know jQuery language and am really good at the HTML and CSS languages too. Can I start tomorrow?
+181,661542655990620160,Tue Nov 03 13:57:14 +0000 2015,0,0,"@imaffett Not sure, just got an email about it last night. It’s all part of a major upgrade the whole place is getting"
+182,661542256244051968,Tue Nov 03 13:55:39 +0000 2015,0,0,@imaffett Spooky Nook
+183,661528485316452352,Tue Nov 03 13:00:56 +0000 2015,0,0,@tonylukasavage Oh… it’s happening. Along with me face planting before even the first obstacle.
+184,661527740701646848,Tue Nov 03 12:57:58 +0000 2015,0,4,My Gym is getting an american ninja warrior course… I could not be more excited to try it and look like an idiot :)
+185,661409188539736068,Tue Nov 03 05:06:53 +0000 2015,1,1,"Nope, not in a bubble at all. A bejeweled clone is totally worth that https://t.co/piX4gle6u1"
+186,661408982947471360,Tue Nov 03 05:06:04 +0000 2015,155,0,"RT @MengTo: An even better Sketch Constraints plugin with Groups, Math values and Preview! https://t.co/0nIoq1kyFD https://t.co/CxzCS7K4F0"
+187,661401249808588800,Tue Nov 03 04:35:20 +0000 2015,0,1,"@ChristinaKeelan @rethinkdb Thanks, but already have one. Actually been a fan and user from the pre- 1.0 days. Just re-falling in love :)"
+188,661386036086468608,Tue Nov 03 03:34:53 +0000 2015,0,2,@kevinold node wins because it's js. Rethink wins because it does realtime so well yet still so easy to use (among many other reasons)
+189,661376878226366464,Tue Nov 03 02:58:30 +0000 2015,10,10,"NodeJS, ReactJS, Redux, @rethinkdb … it’s the stack of the future!"
+190,661376509798690816,Tue Nov 03 02:57:02 +0000 2015,0,5,Yo @rethinkdb I am falling in love with you all over again! Keep up the great work!!!!
+191,661364740481007616,Tue Nov 03 02:10:16 +0000 2015,164,0,RT @YouTubeGaming: N64 on your wrist. Don’t believe us? Just watch → https://t.co/7DKdw9EwcQ https://t.co/DP5K03h4vJ
+192,661364523731783682,Tue Nov 03 02:09:24 +0000 2015,0,0,@mjackson yea... Hapi is where it's at
+193,661338075939909633,Tue Nov 03 00:24:19 +0000 2015,0,1,@hugs @joewalnes I am rather sure that was George Jetson’s job
+194,661255297193943040,Mon Nov 02 18:55:23 +0000 2015,31,0,RT @mims: Zappos says the lifetime value of a customer who calls them is 5-6 times as much as someone who doesn't. https://t.co/unld1f8G5j
+195,661255188569829376,Mon Nov 02 18:54:57 +0000 2015,13,0,"RT @CloudFlare: CloudFlare is now PCI 3.1 certified. This means less tickbox compliance, more holistic security. https://t.co/8LYItQMZXV"
+196,661238443641556992,Mon Nov 02 17:48:24 +0000 2015,0,0,I dub the new Apple TV a win
+197,661224747494219776,Mon Nov 02 16:53:59 +0000 2015,0,0,@JoshHrach WHAT??? I HAVE NOT HEARD ABOUT THIS!!!!
+198,661163556457549824,Mon Nov 02 12:50:50 +0000 2015,0,0,@tonylukasavage @rblalock don't disagree there. React seems to have kicked off a revolution in that regard
+199,661162877261324288,Mon Nov 02 12:48:08 +0000 2015,0,0,@tonylukasavage @rblalock taking a bit from react with that?

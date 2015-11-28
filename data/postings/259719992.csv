@@ -1,0 +1,196 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669215999204261890,Tue Nov 24 18:08:22 +0000 2015,0,0,"""Figure 7: Vector arithmetic for visual concepts.” // Unsupervised Representation Learning with De… https://t.co/5LpnM12u5a via @delicious"
+1,666991117699706880,Wed Nov 18 14:47:29 +0000 2015,0,1,Under the hood of React Native https://t.co/nIR3UmC5Xn via @delicious
+2,666711975016050688,Tue Nov 17 20:18:16 +0000 2015,0,0,Runbook Driven Development – The Next Generation DevOps https://t.co/XU5zFf94NB via @delicious
+3,666371719179948032,Mon Nov 16 21:46:13 +0000 2015,1,1,https://t.co/21PsPuiY8e
+4,665219062545301504,Fri Nov 13 17:25:58 +0000 2015,0,0,The Context of the Innovator: Space - YouTube https://t.co/OhtCxrIHZt via @delicious
+5,664925963340222465,Thu Nov 12 22:01:18 +0000 2015,0,0,A cartoon intro to Redux https://t.co/5KpGHaPXQb via @delicious
+6,663770521251610624,Mon Nov 09 17:29:59 +0000 2015,0,0,Netflix Culture: Freedom &amp; Responsibility https://t.co/B7C2bZQz9m via @delicious
+7,663770205340831744,Mon Nov 09 17:28:43 +0000 2015,0,2,The Stack Behind Netflix Scaling https://t.co/M7cMpb0Hil via @delicious
+8,663762945218879488,Mon Nov 09 16:59:52 +0000 2015,0,0,Agile Is The New Waterfall https://t.co/91GlcDP9qM via @delicious
+9,662093803277426688,Thu Nov 05 02:27:18 +0000 2015,1,0,RT @AiGameDev: Evolving the Cooperative Behaviour in Unreal https://t.co/VAsJTf0BrA [2010] #bot https://t.co/s88HGgEJBv
+10,662003290981330944,Wed Nov 04 20:27:38 +0000 2015,0,2,"MirageOS - A programming framework for building type-safe, modular systems https://t.co/V6YCZQ1Cfg via @delicious"
+11,661557637104865280,Tue Nov 03 14:56:46 +0000 2015,0,0,The Selective Laziness of Reasoning - Cognitive Science https://t.co/ljWwNyWowJ via @delicious
+12,661275934209605632,Mon Nov 02 20:17:23 +0000 2015,1,1,Node.js Security Checklist https://t.co/TjAwhBKe58 via @delicious
+13,661275844707422208,Mon Nov 02 20:17:01 +0000 2015,0,1,The Keys to JavaScript Mastery https://t.co/w5uaPfpH6o via @delicious
+14,661275642172801024,Mon Nov 02 20:16:13 +0000 2015,0,0,Turf.js - A modular geospatial engine written in JavaScript https://t.co/DXnHUwK89n via @delicious
+15,661275001371275264,Mon Nov 02 20:13:40 +0000 2015,0,0,Softword: Provenance for the Word 'Software' https://t.co/TR7AkzGBWj via @delicious
+16,661274852523798528,Mon Nov 02 20:13:05 +0000 2015,0,0,Five Open-Source Slack Alternatives https://t.co/8Wxg7J1YZe via @delicious
+17,659449976066560000,Wed Oct 28 19:21:40 +0000 2015,0,0,sinonquire automatically stubs CommonJS modules returned by require (à la Jest) using Sinon.JS  https://t.co/YxdKNbmSWz
+18,659449347248148480,Wed Oct 28 19:19:11 +0000 2015,0,0,@codinghorror Team/domain switching is way faster in desktop version.
+19,659424146384748544,Wed Oct 28 17:39:02 +0000 2015,0,1,Why You Shouldn't Style React Components With JavaScript https://t.co/HTpXlarxQf via @delicious
+20,657167769918685184,Thu Oct 22 12:13:00 +0000 2015,151,0,RT @dan_abramov: Webpack 2 will include experimental support for dead code elimination based on ES6 imports: https://t.co/Mm3uyHiB4F
+21,656660365619646464,Wed Oct 21 02:36:45 +0000 2015,0,1,"@verotraynor :) En verdad hablando de ""Internet of Things"" donde big data juega un rol importante. Acá leí la frase: https://t.co/r0PsXtKi7S"
+22,654134317594112001,Wed Oct 14 03:19:09 +0000 2015,39,0,RT @RichRogersHDS: Tester walks into a bar. Orders a beer. Orders 0 beers. Orders 99999 beers. Orders a lizard. Orders -1 beers. Orders a s…
+23,654015156331147264,Tue Oct 13 19:25:38 +0000 2015,0,0,How to Use Classes and Sleep at Night https://t.co/NHmuqETffZ
+24,654004826469199872,Tue Oct 13 18:44:36 +0000 2015,0,0,Why did the Redux FSA-compliant action cross the road? https://t.co/bFqmsSZans
+25,642404423021559808,Fri Sep 11 18:28:44 +0000 2015,1,1,"Full-Stack Redux Tutorial – A Comprehensive Guide to Test-First Development with Redux, React, and Immutable http://t.co/ireJiK0X9Z"
+26,630728708140212225,Mon Aug 10 13:13:37 +0000 2015,0,0,Architects Should Code: The Architect's Misconception http://t.co/fplwmDcFLq
+27,628044076886138880,Mon Aug 03 03:25:51 +0000 2015,6894,0,RT @freakonometrics: sorting algorithm (in one gif) http://t.co/BlhEMqpXan http://t.co/vPFGLzPFYH
+28,627116521857359872,Fri Jul 31 14:00:04 +0000 2015,3801,0,"RT @jakevdp: OH: ""StackOverflow devs have the hardest job on the internet… when the site goes down, they have to fix it *without StackOverf…"
+29,623921410583474176,Wed Jul 22 18:23:50 +0000 2015,3521,0,RT @rpy: woah that is some wild postgresql http://t.co/q8uCYd0FO3
+30,608997013909286912,Thu Jun 11 13:59:37 +0000 2015,0,0,@contraculto Opino que tu forma de citar en tu muro es perfecta. Lo mismo opino de mi forma de citar en mi muro. :*
+31,603155762689474560,Tue May 26 11:08:34 +0000 2015,0,0,"Web vs. native: let’s concede defeat. ""We web developers have spent the last six years in denial. "" http://t.co/b1P2zAXZtS"
+32,601858323479134208,Fri May 22 21:13:00 +0000 2015,0,0,"""JSX is like a healthy vegetable that tastes like decadent chocolate cake. You feel guilty, but it’s good for you."" https://t.co/Rm2ww0oV6f"
+33,601154563765317632,Wed May 20 22:36:31 +0000 2015,0,0,@eveyeti Qué más hacer si te choca un humano por atrás? Quizá esas cosas están listas y la solución es sacar a todos los humanos del volante
+34,599776357153906688,Sun May 17 03:20:01 +0000 2015,1,1,"TL;DR
+
+...because the word ""summary"" is too long."
+35,599456452907048960,Sat May 16 06:08:50 +0000 2015,0,0,"@kylestetz Hey, just put together a simple generative grammar for typedrummer using rmutt.js https://t.co/aCSCuxOKqK"
+36,599455824495431681,Sat May 16 06:06:20 +0000 2015,54,0,RT @kylestetz: Make beats with your keys! http://t.co/AzcGIFRRCg
+37,599411322510508032,Sat May 16 03:09:30 +0000 2015,0,1,@hammett Castle Project libraries taught me what a really informative error message is.
+38,599407051400454144,Sat May 16 02:52:32 +0000 2015,0,0,@stoogoff Any feedback is welcome. :)
+39,599406302230683649,Sat May 16 02:49:33 +0000 2015,27,0,RT @iamdustan: Current status: http://t.co/CTWzLtrkb3
+40,599404604846116864,Sat May 16 02:42:48 +0000 2015,0,0,rmutt.js is a transpiled language for generating random strings from context-sensitive grammars https://t.co/v83PYhZhQO
+41,597595394613387265,Mon May 11 02:53:39 +0000 2015,0,0,Well played. http://t.co/LYWtEgdBwr
+42,595425280187101184,Tue May 05 03:10:23 +0000 2015,0,0,"""It's like Visual Studio and Sublime Text had a baby"" http://t.co/izE91rjbuH"
+43,592833472428974080,Mon Apr 27 23:31:28 +0000 2015,0,0,curlyfy loader module for webpack https://t.co/VSC90avpmH
+44,592833368284372995,Mon Apr 27 23:31:03 +0000 2015,0,0,curlyfy adds curly brackets to a whitespace indented string https://t.co/UFuUzxKw7u
+45,592832821821108225,Mon Apr 27 23:28:53 +0000 2015,0,0,es-decorate: ES7 decorators for CoffeeScript  https://t.co/8UF70evxNn
+46,592831285929897985,Mon Apr 27 23:22:47 +0000 2015,0,1,¬¬ http://t.co/akdC33FcvW
+47,592518397793034242,Mon Apr 27 02:39:29 +0000 2015,0,0,"""As a professional in the offending industry, I tell all my new clients to start out with an account on Youoffend."" http://t.co/blE3v6ie86"
+48,591695864164446209,Fri Apr 24 20:11:01 +0000 2015,0,1,Eliminate JavaScript Code Smells by @elijahmanor (#FluentConf 2015) http://t.co/ShOeHcox5u
+49,591665935037177856,Fri Apr 24 18:12:06 +0000 2015,0,0,«Docker is the new 'curl | sudo bash'» http://t.co/8Ocbv8COTt
+50,591377286789783553,Thu Apr 23 23:05:07 +0000 2015,0,0,"Nah, it's Noether's theorem. You're welcome. :)  https://t.co/XLEBUUjwLG"
+51,591377131722125313,Thu Apr 23 23:04:30 +0000 2015,0,0,"""The greatest physics theorem you've never heard of""...and you'll never read about because of the paywall. http://t.co/0MtOjNWW16"
+52,591299218935046144,Thu Apr 23 17:54:54 +0000 2015,0,1,(paraphrased from http://t.co/TsQqxC7Mge)
+53,591299198940815360,Thu Apr 23 17:54:49 +0000 2015,0,0,"– Why is Microsoft now open sourcing stuff so late in the game?
+– We like showing up late to all parties. It gives us an idea what to wear."
+54,583331844936089600,Wed Apr 01 18:15:24 +0000 2015,1,1,"IONIC + NATIVE + MAGIC = 
+SUPERSONIC http://t.co/4UpKUNa3sX"
+55,583020979040985088,Tue Mar 31 21:40:08 +0000 2015,0,0,The Rise of TypeScript? http://t.co/CmNGcoM9aS
+56,580429610422312961,Tue Mar 24 18:02:57 +0000 2015,0,0,Visualizing Algorithms http://t.co/JaoRae2TUu
+57,578019871646187520,Wed Mar 18 02:27:31 +0000 2015,0,0,Analog Memory Desk http://t.co/aWZPhMk6YY
+58,576750987806945280,Sat Mar 14 14:25:25 +0000 2015,0,0,Happy Half Tau Day! http://t.co/n8Qa9gFyXd https://t.co/zCJ1A0baET
+59,575930340428087297,Thu Mar 12 08:04:28 +0000 2015,0,0,"@rexstjohn It seems you missed this point: https://t.co/cBmHJefJD2 (28:53) ""We're not chasing the write once, run anywhere pipe dream..."""
+60,538341941696794624,Fri Nov 28 14:41:35 +0000 2014,0,0,The difference between Java and Javascript. http://t.co/cujShzCTlf XD
+61,538340915614863360,Fri Nov 28 14:37:30 +0000 2014,0,0,Regulex: JavaScript Regular Expression Visualizer http://t.co/ZYwN8xJTpn
+62,530839025645813761,Fri Nov 07 21:47:40 +0000 2014,0,1,[Javascript] Hacker's guide to Neural Networks http://t.co/xCFtIaNNaK
+63,530838880686465024,Fri Nov 07 21:47:06 +0000 2014,0,0,7 Principles of Rich Web Applications http://t.co/tsPxp0XK6h
+64,505102348356952064,Thu Aug 28 21:19:18 +0000 2014,0,0,Fear-Driven Versioning - a versioning scheme for those of us who only care about breaking changes. https://t.co/xl4gcBQ0Rf
+65,503177204495552512,Sat Aug 23 13:49:28 +0000 2014,0,0,"Open Source Biotech Consumables - BioCoder: Issue 4, Chapter 2. http://t.co/JB7kvGfZoJ"
+66,503170714380541952,Sat Aug 23 13:23:41 +0000 2014,0,0,Metaphors to Explain Software Development http://t.co/RHt0zVseIL
+67,497811859123077120,Fri Aug 08 18:29:30 +0000 2014,0,1,"Wisembly/basil.js - The Javascript persistence layer. Unified localstorage, cookie and session sto… https://t.co/H0Yny1ZO4e via @delicious"
+68,497811114889994241,Fri Aug 08 18:26:33 +0000 2014,0,0,Speeding up AngularJS apps with simple optimizations http://t.co/3wQ6cC1Ws8 via @delicious
+69,487723316619526144,Fri Jul 11 22:21:14 +0000 2014,0,0,"LOL... ""How is TJ Holowaychuk so insanely productive?"" http://t.co/rtSTcEUrqA"
+70,460121135947190274,Sat Apr 26 18:20:02 +0000 2014,0,0,The Hardest Logic Puzzle Ever - JavaScript version http://t.co/PbHSB5k4y2
+71,454690901886251008,Fri Apr 11 18:42:13 +0000 2014,0,2,Building the 2048 game in AngularJS http://t.co/CSzllD3qRm
+72,448087200757190656,Mon Mar 24 13:21:28 +0000 2014,1,1,"https://t.co/EOQpypcglN ""Named after Dexter, a show you should not watch until completion."" LOL"
+73,438368045594345474,Tue Feb 25 17:41:01 +0000 2014,0,0,"Broccoli - constant-time rebuilds and compact build definitions http://t.co/Z9rWLErwg8 node.js, build, tools, browser, javascript, bro..."
+74,438354438982742016,Tue Feb 25 16:46:57 +0000 2014,0,0,"mozilla/localForage - Offline storage, improved. http://t.co/hHslW4WMv9 javascript, html5, localstorage, offline, storage, indexdb, li..."
+75,438331910054748160,Tue Feb 25 15:17:25 +0000 2014,0,0,"Oboe.js - Streaming JSON loading for Node and browsers http://t.co/0oi7Swgp50 json, streaming, node.js, javascript, oboejs, library, brow..."
+76,435803999166423041,Tue Feb 18 15:52:24 +0000 2014,0,4,regenerator - Source transformer enabling ECMAScript 6 generator functions (yield) in JavaScript-of-today (ES5) http://t.co/W7qd9fXcHO
+77,434426057794396160,Fri Feb 14 20:36:58 +0000 2014,0,1,"Co: Generator based flow-control goodness for nodejs (and soon the browser), using thunks or promises. http://t.co/2jNFCzQTD1"
+78,434425625328107522,Fri Feb 14 20:35:14 +0000 2014,0,0,Replacing callbacks with ES6 Generators http://t.co/jKKWLS7Tbc
+79,419235824777965568,Fri Jan 03 22:36:24 +0000 2014,1,1,How numbers are encoded in JavaScript http://t.co/KjMdUOahxF via @delicious
+80,419212605656281088,Fri Jan 03 21:04:08 +0000 2014,0,0,More like this: machine learning approaches to music similarity http://t.co/VG1Zyw2y6R via @delicious
+81,416687470353592320,Fri Dec 27 21:50:09 +0000 2013,0,0,"Callbacks are imperative, promises are functional: Node’s biggest missed opportunity http://t.co/DpOqHmr65M"
+82,401366641503920128,Fri Nov 15 15:10:39 +0000 2013,0,0,"[Podcast] What do Web Developers need to know in 2014 - PANEL: Scott Hanselman, Douglas Crockford, John Papa, ... http://t.co/DUCgkBDxws"
+83,400635466288209920,Wed Nov 13 14:45:13 +0000 2013,0,0,How JavaScript closures are garbage collected http://t.co/YZEX8gkN6l
+84,387632350525288448,Tue Oct 08 17:35:28 +0000 2013,0,0,view-source:http://t.co/qQJKTGiJhB
+85,387222833450872832,Mon Oct 07 14:28:12 +0000 2013,0,0,A business canvas for SaaS startups. http://t.co/ZtvivAbH5N
+86,321626524996485121,Tue Apr 09 14:11:53 +0000 2013,0,1,"How do I ""think in AngularJS"" if I have a jQuery background? http://t.co/XryOSehR8Q cc @theGlues"
+87,321620487623045120,Tue Apr 09 13:47:54 +0000 2013,0,1,http://t.co/u3VpTXxY4a - Collecting All Cheat Sheets. http://t.co/TTTw9YrCdI
+88,320270650830884864,Fri Apr 05 20:24:08 +0000 2013,0,0,What Every Programmer Should Know About Memory [PDF] http://t.co/ycfDNYJQiO
+89,320202139781722113,Fri Apr 05 15:51:53 +0000 2013,1,1,"""AngularJS works like a game engine"". Interesting analogy explained here: https://t.co/Ha6h81csjx cc @theGlues"
+90,320169858341945344,Fri Apr 05 13:43:37 +0000 2013,0,1,"""Reducing Twitter Noise with Open Tweet Filter."" A tutorial loaded with lots of regex examples!  http://t.co/DH2HReoL9B by @polkabecky"
+91,320168787259305985,Fri Apr 05 13:39:21 +0000 2013,0,0,"@polkabecky WOW, wonderful tutorial. Thank you."
+92,314370756077305856,Wed Mar 20 13:40:03 +0000 2013,0,0,"@jpeek Ah, yes. My point in the first jsfiddle was the ng-click=""$eval(item.click)"" part."
+93,314349181806444545,Wed Mar 20 12:14:19 +0000 2013,0,0,@jpeek @olouv You mean nested like this? http://t.co/1yJD558ndC
+94,313715155215208448,Mon Mar 18 18:14:56 +0000 2013,0,0,"@jpeek @olouv BTW, this works up to bootstrap.js 2.0.4. Since 2.1.0, it doesn't work anymore. I'm trying to find out why."
+95,313657973727719425,Mon Mar 18 14:27:43 +0000 2013,0,0,"@jpeek Thanks. Finally, I found a more generic solution: http://t.co/iNlqhEyuT3 cc @olouv"
+96,312688921190490112,Fri Mar 15 22:17:02 +0000 2013,0,0,@jpeek I'm running into this issue. Do you remember what was your solution?
+97,306107083697303552,Mon Feb 25 18:23:10 +0000 2013,842,0,"RT @mysqlborat: For handle big data, solution is very simple: buy bigger monitor and use smaller font in the terminal."
+98,306106362746793986,Mon Feb 25 18:20:18 +0000 2013,1,0,RT @polkabecky: Now using Open Tweet Filter on Chrome.  Works like a champ and supports regexps!  And there was much rejoicing!
+99,305719154311323648,Sun Feb 24 16:41:41 +0000 2013,0,0,"""My feelings about AngularJS over time"" http://t.co/C3rS9S9gE9 // LOL... the same here!"
+100,298267815339773952,Mon Feb 04 03:12:43 +0000 2013,0,0,@JonothonKM @fitzecarraldo76 @sab_chung @Hannah_Bowler Check out this Chrome extension that filters Twitter timeline: https://t.co/at0im7Tw
+101,297418118928674816,Fri Feb 01 18:56:19 +0000 2013,1,0,"RT @csslab: Flight: lightweight, component-based #JavaScript #framework from Twitter http://t.co/RvA7gV1O"
+102,297415654741528577,Fri Feb 01 18:46:32 +0000 2013,0,0,AngularStrap: Bootstrap directives for AngularJS. http://t.co/liMX7Le9
+103,295391008416489473,Sun Jan 27 04:41:19 +0000 2013,0,1,«JavaScript is a language we love despite it giving us so much to hate.» http://t.co/DnOxx8ne
+104,294958843488772096,Sat Jan 26 00:04:03 +0000 2013,0,0,"Apache Bench: you may be using the timelimit option incorrectly.
+http://t.co/YaL8nAfm"
+105,270685603455172608,Tue Nov 20 00:30:51 +0000 2012,0,0,Vert.x: Why the JVM May Put Node.js on the Ropes. http://t.co/DTSs80uf
+106,270599936763113472,Mon Nov 19 18:50:27 +0000 2012,0,0,[Slides] Vert.x: A response to Node.js shortcomings based on the JVM http://t.co/GY02imfu
+107,268191078216261632,Tue Nov 13 03:18:30 +0000 2012,0,0,http://t.co/MkGsJRWP
+108,267954212544081921,Mon Nov 12 11:37:17 +0000 2012,0,0,"Writing Fast, Memory-Efficient
+JavaScript. http://t.co/l3kZKLl1"
+109,267839227851579393,Mon Nov 12 04:00:22 +0000 2012,0,0,Always bet on JS. http://t.co/i57An75C
+110,267833554141052929,Mon Nov 12 03:37:50 +0000 2012,0,0,"Array(16).join(""wat"" - 1) + "" Batman!"" 
+https://t.co/N3nrDAoZ"
+111,267815617401323520,Mon Nov 12 02:26:33 +0000 2012,0,0,20 kick-ass programming quotes. http://t.co/ODdjTWJl
+112,256598128411684864,Fri Oct 12 03:32:15 +0000 2012,0,0,"[Book] ""Functional Programming for the Object-Oriented Programmer"" - The sample chapter is a pretty good Clojure intro. http://t.co/WPeYOdNW"
+113,256573801666576384,Fri Oct 12 01:55:35 +0000 2012,1,0,[Talk] Concurrency is not Parallelism (it's better). Slides: http://t.co/1zVkW5zX; Video: http://t.co/2vXMddCn #golang
+114,256571479964123136,Fri Oct 12 01:46:22 +0000 2012,3,0,RT @JoeZimJS: How Node does asynchronous I/O across platforms http://t.co/iE2Fn81x A video going through the C code behind Node's asynch ...
+115,233258583498846208,Wed Aug 08 17:49:14 +0000 2012,0,0,Computing Map Tiles with Go on App Engine. http://t.co/pb8nl0wE
+116,208648981486645249,Fri Jun 01 19:59:28 +0000 2012,0,0,"[...] ""Consequently, all properties are @private; there is no @public property."" http://t.co/nf3DFPT9"
+117,208648889862078465,Fri Jun 01 19:59:06 +0000 2012,0,0,"""In Objectivist-C, there are not only properties, but also property rights."" [...]"
+118,192582162179043328,Wed Apr 18 11:55:40 +0000 2012,1,0,Evolving custom communication protocols starting with all the hacks that can be done. http://t.co/Ps2BaIKM
+119,192581720216838147,Wed Apr 18 11:53:54 +0000 2012,0,0,Automatic Algorithm Invention with a GPU. http://t.co/ZQh8XRwD
+120,192266681769398273,Tue Apr 17 15:02:03 +0000 2012,0,0,Twitter contributions to open source big data. http://t.co/L3uzYZFA
+121,187299281059844097,Tue Apr 03 22:03:23 +0000 2012,0,0,Advanced Programming Developments: A Survey (1965) http://t.co/ymSLThk7
+122,185834313034641408,Fri Mar 30 21:02:07 +0000 2012,0,0,"I want this code editor... NOW! http://t.co/FStdqyv0 (the amazing ""Inventing on Principle"" talk by Bret Victor)"
+123,185163104517226496,Thu Mar 29 00:34:58 +0000 2012,0,0,Know your engines: How to make your JavaScript fast. http://t.co/edOHvzBm
+124,182841164167254019,Thu Mar 22 14:48:25 +0000 2012,0,0,CoffeeScript or Straight Up Javascript? It’s Decision Time. http://t.co/vT1TOMSs
+125,180668969567518720,Fri Mar 16 14:56:53 +0000 2012,0,0,@zxrs Managing Node.js Dependencies with Shrinkwrap http://t.co/kM45dmVJ
+126,180663200231075840,Fri Mar 16 14:33:58 +0000 2012,0,0,@RodrigoAyala @hermanjunge @janogonzalez Esto te puede interesar: http://t.co/aa5rnjKH
+127,172512553249931264,Thu Feb 23 02:46:12 +0000 2012,0,0,"Always checkin node_modules for applications you deploy, but not for reusable packages you maintain. http://t.co/ijA1bGJg"
+128,170610362335502336,Fri Feb 17 20:47:34 +0000 2012,0,0,Traits.js tutorial in CoffeeScript https://t.co/VFC0TRj2
+129,170594626401615872,Fri Feb 17 19:45:03 +0000 2012,0,0,JavaScript: the Revenge of Smalltalk! http://t.co/aLdc2ivq
+130,169803617434484738,Wed Feb 15 15:21:51 +0000 2012,0,0,jsPerf - JavaScript performance playground http://t.co/04QadPOU
+131,169534522432561152,Tue Feb 14 21:32:34 +0000 2012,0,0,"Callbacks, Promises, and Coroutines (oh my!). Asynchronous Programming Patterns in JavaScript. http://t.co/zNnE3K1T"
+132,169531104292913153,Tue Feb 14 21:18:59 +0000 2012,0,0,Continuation-passing style hell: http://t.co/kUwztED3
+133,164723445756727296,Wed Feb 01 14:55:04 +0000 2012,0,0,SQL to MongoDB MapReduce translation [PDF] http://t.co/uBHZ35P8
+134,159818644044517376,Thu Jan 19 02:05:08 +0000 2012,0,0,"MongoDB is the bleeding edge, and YOU WILL BLEED. http://t.co/YtamP6Jb"
+135,157219993694642176,Wed Jan 11 21:59:02 +0000 2012,0,0,"""Epigrams on Programming"" by Alan J. Perlis, 1982. http://t.co/DmAKcX2l"
+136,155852552502644737,Sun Jan 08 03:25:18 +0000 2012,0,0,"""Understanding What It's Like to Program in Forth."" tl;dr: Ouch! http://t.co/9ZGoeopt"
+137,155830167028236288,Sun Jan 08 01:56:21 +0000 2012,0,0,Sweet-expressions: An attempt at making Lisp-like languages more readable. http://t.co/XPAhPGK6
+138,155733373409689600,Sat Jan 07 19:31:44 +0000 2012,3,1,What is the coolest thing you can do in &lt;10 lines of simple code to inspire beginners? http://t.co/Q3YnML2x
+139,155729675619016705,Sat Jan 07 19:17:02 +0000 2012,0,0,Computer Programming 101 http://t.co/fQTAX9iF
+140,155651402583117824,Sat Jan 07 14:06:00 +0000 2012,0,0,Don't be STUPID: GRASP SOLID! http://t.co/WUnetlxi
+141,154598804740521984,Wed Jan 04 16:23:22 +0000 2012,0,0,Open Tweet Filter source code (my first experience with CoffeeScript and Knockout) is available in GitHub. http://t.co/z925Vjje
+142,154597597007454208,Wed Jan 04 16:18:34 +0000 2012,0,0,"""Twitter Filter"", the extension for Google Chrome, now is ""Open Tweet Filter"" and supports new Twitter UI. http://t.co/eJwWfmFj"
+143,145274867783184384,Fri Dec 09 22:53:22 +0000 2011,0,0,Node.js core contributor explains why it’s ready for the big time (video) http://t.co/DGUcpfuM
+144,96958459005775873,Fri Jul 29 15:01:12 +0000 2011,0,0,Happy System Administrator Appreciation Day http://bit.ly/qqozLO
+145,94048857612230657,Thu Jul 21 14:19:29 +0000 2011,1,0,The Little Book on CoffeeScript http://bit.ly/rsix3Z
+146,94028851730055169,Thu Jul 21 12:59:59 +0000 2011,0,0,"""Avoid this codebase, don’t look at it, and never try to follow anything shown there, it will end in tears, pain and suffering."""
+147,94028811959664640,Thu Jul 21 12:59:50 +0000 2011,0,0,"""This is a case of a project that is literally choke full of traps and scary places."" http://bit.ly/oXY1MX"
+148,94028534229635072,Thu Jul 21 12:58:44 +0000 2011,0,0,How Standards Proliferate http://bit.ly/qPaKQM
+149,88227380254085120,Tue Jul 05 12:47:01 +0000 2011,0,0,CWE/SANS Top 25 Most Dangerous Software Errors http://t.co/mBFpL5R
+150,78113274108973056,Tue Jun 07 14:57:10 +0000 2011,0,0,"""I was taught to program by a program whose programmer, more than 25 years earlier, was taught to program by a program."" http://j.mp/lUzzud"
+151,77736362920525824,Mon Jun 06 13:59:27 +0000 2011,0,0,"SCM-Manager: ""The easiest way to share and manage your Git, Mercurial and Subversion repositories over HTTP"" http://j.mp/iyzYpy"
+152,70969257529311233,Wed May 18 21:49:24 +0000 2011,0,0,Boot Linux in your browser using a x86 emulator written in Javascript. http://j.mp/kJiRYt
+153,67603469648924672,Mon May 09 14:54:57 +0000 2011,0,0,Microsoft Drawbridge: OS Modularity http://j.mp/mUqiEO
+154,66668426369830912,Sat May 07 00:59:26 +0000 2011,0,0,TouchStudio - Script Your Phone on Your Phone. This video is just 10 hours old and action starts at 4:33 http://j.mp/jKBXWP
+155,66149935531302912,Thu May 05 14:39:08 +0000 2011,0,0,"This video is 2 years old, but if you haven't seen TestSwarm  in action yet, go to 4:25 http://www.vimeo.com/6281121"
+156,63989974999121920,Fri Apr 29 15:36:13 +0000 2011,1,0,RT @xfigue: Top 6 List of Programming Top 10 Lists http://tinyurl.com/6g2sbet
+157,63977819520241664,Fri Apr 29 14:47:55 +0000 2011,0,0,The inﬂuence of identiﬁer names on code quality. http://j.mp/lhYssE
+158,58591466943033344,Thu Apr 14 18:04:28 +0000 2011,0,0,RT @brainpicker: Brilliant! AlgoRythmics visualizes sorting algorithms with Hungarian folk dance http://j.mp/efFPfc
+159,56109185347223552,Thu Apr 07 21:40:46 +0000 2011,0,0,A Co-Relational Model of Data for Large Shared Data Banks. http://j.mp/eiYOqu
+160,55381215246680064,Tue Apr 05 21:28:05 +0000 2011,0,0,if (man.isOld()) throw new NoCountryException(); #AlternateTitlesForSourceCode
+161,55377113519370241,Tue Apr 05 21:11:47 +0000 2011,1,0,"Veni, Vidi, Vici http://twitpic.com/4hcrvu"
+162,50527194593767424,Wed Mar 23 11:59:56 +0000 2011,0,0,Time Period Library for .NET http://j.mp/e1Ychb
+163,48729963855216640,Fri Mar 18 12:58:23 +0000 2011,0,0,"js-addin:
+Add-In for Visual Studio for improve support for javascript http://j.mp/fsb4La"
+164,47421546632982530,Mon Mar 14 22:19:12 +0000 2011,1,0,Code Cleanup: Using Agile Techniques to Pay Back Technical Debt http://j.mp/ekDBja
+165,46207474272968704,Fri Mar 11 13:54:55 +0000 2011,86,0,RT @addyosmani: Essential JavaScript Design Patterns 1.1 – A Free Updated Book For Beginners http://bit.ly/hpbnMz #javascript #jquery #free
+166,45933568031080449,Thu Mar 10 19:46:30 +0000 2011,19,0,RT @marick: Excellent post on doing away with iterations http://bit.ly/gusN0I (via @erwilleke)
+167,45913087555026945,Thu Mar 10 18:25:07 +0000 2011,1,0,RT @theprogrammer: Personal Kanban: Optimizing the individual coder http://vimeo.com/16917928 &lt;- video
+168,45492055593586688,Wed Mar 09 14:32:05 +0000 2011,0,0,JavaScript Stacktrace: Library for getting stack traces in all web browsers http://j.mp/hLBPBh
+169,45125206179713024,Tue Mar 08 14:14:22 +0000 2011,0,0,Google APIs & Developer Products index imitates the periodic table of the elements: http://j.mp/fXSAb7
+170,43767410775429120,Fri Mar 04 20:18:58 +0000 2011,0,0,RStudio - new cross-platform IDE for R http://j.mp/hs3Hh1
+171,43397468813144064,Thu Mar 03 19:48:57 +0000 2011,0,0,"""Mobl applications can be deployed directly or via PhoneGap"" http://j.mp/eLAsEl"
+172,43395057495191552,Thu Mar 03 19:39:22 +0000 2011,1,0,"RT @ajlopez: Mobl http://t.co/I99Cizp deploy on iOS, Android and other phones supporting HTML5 technologies!"
+173,43392559904587776,Thu Mar 03 19:29:27 +0000 2011,0,0,REST frameworks by language http://j.mp/e8Pqi5
+174,43342330073333761,Thu Mar 03 16:09:51 +0000 2011,2,0,"RT @hvergara: If your app fails in browsers with scripting disabled, Jakob Nielsen’s dog will come and shit on your carpet. http://bit.l ..."
+175,43326621641490432,Thu Mar 03 15:07:26 +0000 2011,0,0,"«This is the clash: Developers have big egos, (and there’s nothing wrong with that,) but a butler can’t have an ego.»"
+176,43325810450513921,Thu Mar 03 15:04:12 +0000 2011,0,0,Thinking of your software as a butler http://j.mp/e56Xz0 (via @tekBlues)
+177,43310307174645760,Thu Mar 03 14:02:36 +0000 2011,0,0,The Function.call.apply pattern in JavaScript http://j.mp/ebBV0o
+178,43127117038366720,Thu Mar 03 01:54:40 +0000 2011,7,0,RT @ajturner: writing in English is decidedly more difficult when there is no compiler to verify what you are saying is valid or profile ...
+179,43126165006856192,Thu Mar 03 01:50:53 +0000 2011,5,3,Upgrading through every version of Windows http://youtu.be/vPnehDhGa14
+180,43120316989452288,Thu Mar 03 01:27:39 +0000 2011,0,0,"() =&gt; { throw new Exception(); }
+http://j.mp/gYDcud"
+181,43019300881170432,Wed Mar 02 18:46:15 +0000 2011,0,0,NDD: Napkin Driven Development.
+182,43010451025571840,Wed Mar 02 18:11:05 +0000 2011,0,0,«To confuse the model with the world is to embrace a future disaster» http://j.mp/gNzEwk
+183,43006936999923712,Wed Mar 02 17:57:07 +0000 2011,0,0,"How would Feynman answer to a ""lateral-thinking"" interview question http://j.mp/hUSgqb"
+184,42939488384720896,Wed Mar 02 13:29:06 +0000 2011,0,0,Man decides to open source his genetic data using GitHub http://j.mp/iaT1Hw
+185,42938211848294400,Wed Mar 02 13:24:02 +0000 2011,0,0,"""Purists, experts and newbies shouldn't read this code. You'll either cry, be sick or totally confused. Problably all 3."" http://j.mp/fi8TZt"

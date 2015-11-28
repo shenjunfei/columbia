@@ -1,0 +1,284 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,668916286005616640,Mon Nov 23 22:17:25 +0000 2015,69,0,"RT @beep: “Seriously, Don’t Use Icon Fonts” by @tylersticka is an *excellent* resource for why you should just use SVG icons. https://t.co/…"
+1,667831450356453378,Fri Nov 20 22:26:40 +0000 2015,28,0,"RT @jquery: Did you hear that? It's an opportunity for open source contributors, and it's come 'a knocking. https://t.co/j0PN3AE9eV"
+2,666711665275179009,Tue Nov 17 20:17:02 +0000 2015,0,0,You get to see what issues people are experiencing and you get to see how the project team works.
+3,666711500426489857,Tue Nov 17 20:16:23 +0000 2015,0,0,I think that's a vital thing to do when you're looking at adopting new open source technology.
+4,666711278610681856,Tue Nov 17 20:15:30 +0000 2015,0,0,That moment where you click follow on a new repo and you're not sure what you're getting yourself into.
+5,664921928860360704,Thu Nov 12 21:45:16 +0000 2015,0,1,Boom! It's done. Picture Element https://t.co/UTVcKoOye0
+6,664574207737667584,Wed Nov 11 22:43:32 +0000 2015,1897,0,"RT @garybernhardt: 1993: WWW.
+2004 (11 years later): Web 2.0.
+2015 (11 years later): we wrote everything in javascript and literally nothin…"
+7,662358977196498944,Thu Nov 05 20:01:00 +0000 2015,7,0,"RT @webmeadow: Have we talked about @NoJSBot? Send it a URL, and it gives you a screenshot of the site rendered with no JS. Cue all the sad…"
+8,661243319125577728,Mon Nov 02 18:07:47 +0000 2015,0,0,"I can't add structure to a group of items (no ""row"" wrapper every three items or whatever) 
+
+Again, what world is this?"
+9,661243167438602240,Mon Nov 02 18:07:11 +0000 2015,0,0,"What world am I living in? I'm forbidden from adding classes to links (except in ""edge cases"") or LIs."
+10,661175574417674240,Mon Nov 02 13:38:35 +0000 2015,0,0,"I mean, reporting issues is awesome. That's great. But documentation bugs? Where you clearly understand the issue? Just submit  a PR 
+
+FFS"
+11,661175309715136512,Mon Nov 02 13:37:32 +0000 2015,0,0,Open source is weird. People will write up a 3 paragraph issue on a project requesting a 1 sentence update to the docs...
+12,659891779534237696,Fri Oct 30 00:37:15 +0000 2015,0,0,"Yo, Modernizr 3.2.0 is out and with that I go from zero to two commits on the project. (It's about time.) https://t.co/z9FEieTLIU"
+13,659875251237609472,Thu Oct 29 23:31:34 +0000 2015,0,0,I was all excited for a big responsive image /picturefill party on my current project and then I talked to the Sitecore devs...
+14,659721750167617536,Thu Oct 29 13:21:36 +0000 2015,0,0,"It's sometimes funny, sometimes instructive and sometimes tests my patience. It's never boring."
+15,659721408486985728,Thu Oct 29 13:20:15 +0000 2015,0,0,One of my favorite things about being an indy consultant is working with client agencies &amp; watching them from the other side of the table
+16,658674128384163840,Mon Oct 26 15:58:44 +0000 2015,55,0,"RT @slightlylate: Can't make this up: W3C TPAC native app.
+
+Facepalm.
+
+/cc @w3c https://t.co/31PTgeLLV2"
+17,654390119726751746,Wed Oct 14 20:15:37 +0000 2015,0,0,@rcherny I will!
+18,654378525072474116,Wed Oct 14 19:29:32 +0000 2015,0,1,I think the only previous PR I'd had in 2015 was basically done just to troll @rcherny
+19,654378266875314176,Wed Oct 14 19:28:31 +0000 2015,0,0,I've submitted more PRs to projects in the past month than I had in the past year. I have no explanation for either the drought or the glut
+20,651813441674563584,Wed Oct 07 17:36:49 +0000 2015,0,0,CORS for Concern https://t.co/JxZN8xfyQe
+21,651810248899043329,Wed Oct 07 17:24:08 +0000 2015,0,0,Using extended srcset and the picture element to tailor your image to every device and layout http://t.co/h4YRTZNslN
+22,649949011634487297,Fri Oct 02 14:08:14 +0000 2015,0,0,"If your forms are unstable, you're an idiot."
+23,649948913412239360,Fri Oct 02 14:07:51 +0000 2015,0,0,You don't make money with bleeding edge technology. You make money when people put credit card numbers into a form.
+24,649948530388373505,Fri Oct 02 14:06:19 +0000 2015,0,0,That cost the company money. All because they got tricky with forms. Forms should be the most stable thing on your site.
+25,649945327089381376,Fri Oct 02 13:53:36 +0000 2015,0,0,"Last night, I tried to make a purchase and because someone got funky with their forms I'm now on the phone trying to complete the same order"
+26,649939676552384512,Fri Oct 02 13:31:08 +0000 2015,0,0,"Browser vendors, evangelist types and workaday developers all treat forms like an afterthought."
+27,649939458964475904,Fri Oct 02 13:30:16 +0000 2015,0,0,"I should have had a chapter about forms in The Uncertain Web. I talk about them, but people have a weird relationship with forms."
+28,648574163406352384,Mon Sep 28 19:05:05 +0000 2015,0,0,@highvoltag3 For sure. It's a nightmare.
+29,648568565096824832,Mon Sep 28 18:42:50 +0000 2015,0,0,"Yay, I really wanted to become an authenticated CORS expert this week."
+30,648499709875757056,Mon Sep 28 14:09:14 +0000 2015,0,0,"This include my book. Use discount code AMZSYNC
+http://t.co/WosH4VrH9Y https://t.co/OBnS65txjI"
+31,644610246430879744,Thu Sep 17 20:33:53 +0000 2015,0,0,"Somehow I had never forked @Modernizr before today. 
+
+Is this real life?"
+32,644496188310450176,Thu Sep 17 13:00:40 +0000 2015,0,0,"It's 100% hip to make compatible, robust sites:
+""Anachronistic Beard: a new methodology to make sites work anywhere""
+http://t.co/mdm6QiMisf"
+33,642372757473333248,Fri Sep 11 16:22:54 +0000 2015,0,0,"To be clear. They're very good. It's just funny being on the other side. 
+
+It would be worse, I think, if they were bad."
+34,642371914636361729,Fri Sep 11 16:19:33 +0000 2015,0,0,"Right off the bat, ""Does everyone know what wireframes are?"""
+35,642371765453365250,Fri Sep 11 16:18:58 +0000 2015,0,0,"It's endlessly amusing to me to listen to an agency present their work as part of the ""client"" team. ENDLESSLY AMUSING."
+36,642014854212100096,Thu Sep 10 16:40:43 +0000 2015,0,0,"Joe gets extra points for the clever dot us domain name: 
+""DEVOPS FOR THE REST OF US"" 
+http://t.co/ndNonPmjVc"
+37,641719428137287680,Wed Sep 09 21:06:48 +0000 2015,0,0,"@DwightStegall That would be something to be happy about if I didn't need to use more than just the bare-bones ""reader"" tools with PDFs."
+38,641715015771389952,Wed Sep 09 20:49:16 +0000 2015,0,0,"The @googlechrome obsession with opening PDFs makes me insane. I tell it not to and somehow, the setting changes back. Every damn time."
+39,639426749500010496,Thu Sep 03 13:16:31 +0000 2015,0,0,Happy birthday Mort Walker!
+40,638905296069505024,Wed Sep 02 02:44:27 +0000 2015,0,2,It's interesting how little interest I have in working for one of the big web companies right now. What a difference from a few years ago.
+41,638719026479370240,Tue Sep 01 14:24:17 +0000 2015,0,1,"That company's problem is literally
+""Our architecture is tough to manage with different versions of #angularjs. Let's add #reactjs!""
+SO DUMB"
+42,638717327027109888,Tue Sep 01 14:17:32 +0000 2015,0,0,"Recruiters- I know that company already!
+""Doing the Same Thing Over and Over Again and Expecting Different Results"" http://t.co/gAyy2p9KFS"
+43,634442897849511936,Thu Aug 20 19:12:28 +0000 2015,0,0,That's quadruple WTF
+44,634442831071985664,Thu Aug 20 19:12:12 +0000 2015,0,0,The idea that someone could have been doing this so long that they know about 1x1 transparent gifs and never moved away from using them???!
+45,634442438459961344,Thu Aug 20 19:10:39 +0000 2015,0,0,"Looking over a client site that needs to be converted to a new CMS... 
+
+it's got a ""clear.gif."" 
+
+How many of you even know what that's for?"
+46,633650743740903424,Tue Aug 18 14:44:44 +0000 2015,0,0,"Of course, the new browser wars aren't served by delivering new form elements. Form fields don't generate music video Chrome Experiments"
+47,633649605582921728,Tue Aug 18 14:40:13 +0000 2015,5,0,"To that end, if browse vendors really want to push the web forward, give me better form elements and less WebGL"
+48,633649455561052161,Tue Aug 18 14:39:37 +0000 2015,0,0,I'm still mostly solving the problem of capturing input and getting text and numbers onto to the page in a structured way
+49,633649185414377480,Tue Aug 18 14:38:33 +0000 2015,0,0,"To be perfectly honest, I could solve the problems I'm solving today for real-life clients with tools that we had ten years ago."
+50,633649014274138113,Tue Aug 18 14:37:52 +0000 2015,0,0,"I will add that, in my day-to-day, slinging code for multiple clients, I don't see native features/functionality as a big hole in my tools"
+51,633648552632274944,Tue Aug 18 14:36:02 +0000 2015,0,0,"I agree 100% with @ppk. The ""native"" obsession that some people have is misplaced. The web is the web. Let's make the web itself great."
+52,631899854927753216,Thu Aug 13 18:47:20 +0000 2015,0,0,"Hey, horrifying code, how are you today?"
+53,631527880795648001,Wed Aug 12 18:09:14 +0000 2015,0,0,"This happens all the time. Dozens of ads, dozens of trackers, dozens of whatever, grinding, grinding, grinding.... *CRASH*"
+54,631527422588928000,Wed Aug 12 18:07:25 +0000 2015,0,0,If your site's whole purpose is to serve text and it crashes my browser because of all the extra crap you've got going on- I hate you
+55,630824252833296384,Mon Aug 10 19:33:16 +0000 2015,0,0,@clarissa Awesome to hear. Thanks again.
+56,630782287789961217,Mon Aug 10 16:46:31 +0000 2015,0,0,Thanks for the shout out! https://t.co/mEepIKlRB5
+57,629296336257417216,Thu Aug 06 14:21:52 +0000 2015,0,0,@patrick_h_lauke @nytimes The funniest (?) part is that it's twice wrong. Chrome is actually running on an external (non-touch) monitor
+58,629296046275833856,Thu Aug 06 14:20:43 +0000 2015,0,0,@patrick_h_lauke Feel free!
+59,629294949494685696,Thu Aug 06 14:16:22 +0000 2015,0,0,@patrick_h_lauke @nytimes I feel like buying these companies a touchscreen laptop. Just test! Once! These devices exist in the millions
+60,629294712990511105,Thu Aug 06 14:15:25 +0000 2015,0,0,"Visit the @nytimes in IE (pointer events, no ""touch"") and amazingly you can select text again!"
+61,629294485906677766,Thu Aug 06 14:14:31 +0000 2015,2,1,Visit @nytimes with a touchscreen laptop in Chrome and... you're no longer able to select text. You can navigate between articles real good!
+62,629294140715499521,Thu Aug 06 14:13:09 +0000 2015,0,0,It looks like the @nytimes is the latest big organization to break interactions by doing touch as a binary.
+63,629017831636643840,Wed Aug 05 19:55:12 +0000 2015,0,0,Is been a while since I've been on that end of things. I'm having uncomfortable flashbacks
+64,629017489922519040,Wed Aug 05 19:53:50 +0000 2015,0,0,"Sitting in a meeting listening to an agency do a presentation. They're good, but the nervous undercurrent is making ME anxious"
+65,629016541049298944,Wed Aug 05 19:50:04 +0000 2015,0,0,Let's make it more cool. MORE COOL.
+66,627836819787354112,Sun Aug 02 13:42:17 +0000 2015,0,1,"""BOOM! It's Done""
+'Srcset attribute on images' https://t.co/xxfVliOja9"
+67,627454293335871490,Sat Aug 01 12:22:15 +0000 2015,0,0,(not too shabby!)
+68,627454163589419008,Sat Aug 01 12:21:44 +0000 2015,0,0,"""Required Reading"" http://t.co/pqcdG4Uwpp"
+69,626103000981856256,Tue Jul 28 18:52:42 +0000 2015,0,0,We should ensure that even in the best circumstances we focus our attention on serving our user's needs and not our own vanity.
+70,626102975434326016,Tue Jul 28 18:52:36 +0000 2015,0,0,We should ensure that even in the worst circumstances something useful is there for the user.
+71,626102930181984257,Tue Jul 28 18:52:25 +0000 2015,0,0,We've got to strive to make that the default for the way that we build for the web.
+72,626102866306949120,Tue Jul 28 18:52:10 +0000 2015,0,1,"The power of the web is that it's universal. There's no app store. Everything is available to everyone, or at least it should be."
+73,626098469267058688,Tue Jul 28 18:34:42 +0000 2015,0,0,"""we should focus on the web’s strengths: simplicity, URLs and reach"" 
+Stop pushing the web forward http://t.co/ylvnFFkAba"
+74,624258331465633792,Thu Jul 23 16:42:39 +0000 2015,0,1,"I would bet, that for many mobile apps, page to page transitions rendered on the server would be actually faster and ""feel"" faster than Ajax"
+75,624258084890767364,Thu Jul 23 16:41:40 +0000 2015,0,1,"If a site take dozens of seconds to load on mobile the perceived performance of smooth interactions is kind of meaningless, right?"
+76,624257887242563584,Thu Jul 23 16:40:53 +0000 2015,0,1,I wonder if one of the original selling points of Ajax is now dead and buried under the weight of 1MB JavaScript payloads
+77,623904513158737920,Wed Jul 22 17:16:42 +0000 2015,0,0,"Has anyone ever proposed ""excel"" like extensions to the &lt;table&gt; element? That seems like an area that browsers should handle."
+78,623818724357840896,Wed Jul 22 11:35:48 +0000 2015,0,0,"Serving text is so boring! Gotta make it sexy! Sure, no one will wait for all that crap to download, but... Sexy! https://t.co/F7IYnPVBw3"
+79,623817404397842432,Wed Jul 22 11:30:33 +0000 2015,367,0,"RT @pornelski: A patent has expired, so now I can make JPEG files 2-5% smaller: https://t.co/Rxm0Vfrt7F (and 20yr old C code still compiles…"
+80,622900312815325184,Sun Jul 19 22:46:22 +0000 2015,0,0,"Interviewer: ""What if I told you mousemove can fire dozens of times a second""
+Interviewee: ""What if I told you to shut the hell up?"""
+81,621415101527101440,Wed Jul 15 20:24:40 +0000 2015,0,0,"Why stop there? Also, JavaScript AND those other libraries? Amazing!
+
+""the role would be working with Javascript, Angular, Ember and React!"""
+82,621308766785564672,Wed Jul 15 13:22:08 +0000 2015,364,0,"RT @euroblind: Dear #webdev people, if we are #partiallysighted we need to zoom to read on #mobile devices so please don't disable this fea…"
+83,621287912835977217,Wed Jul 15 11:59:16 +0000 2015,0,0,"I just marked a promoted coffeescript tweet as offensive. That's a legit response, I think"
+84,621027136233730048,Tue Jul 14 18:43:02 +0000 2015,0,1,When the new guy starts writing in CoffeeScript http://t.co/eicFzxVLok
+85,619619350065074176,Fri Jul 10 21:28:59 +0000 2015,46,0,"RT @yoavweiss: I wrote a few words on the need to democratize the way the Web platform evolves, and how we can get there http://t.co/LIcfJS…"
+86,619191181289893888,Thu Jul 09 17:07:36 +0000 2015,1,0,People have to be happy with the web today if we have any chance of keeping them on it in the future.
+87,619191134103932928,Thu Jul 09 17:07:25 +0000 2015,0,0,Providing widely accessible sites and applications is an important component of keeping the web healthy.
+88,619190985780776960,Thu Jul 09 17:06:49 +0000 2015,1,0,"We need to embrace the web for being the web, build *for the web* &amp; ensure that the foundation the web is built on is as strong as possible."
+89,618955339489234948,Thu Jul 09 01:30:27 +0000 2015,0,1,"Slimming down the web: Remove code to fix things, dont add the ""clever"" thing http://t.co/CJMQAUNr27 via @codepo8"
+90,618457138839592960,Tue Jul 07 16:30:46 +0000 2015,0,2,"Speaking of my books in Chinese, behold! 
+HTML5 &amp; CSS3 classic introductory programming http://t.co/thhyzimnez http://t.co/y9AblN1H7a"
+91,618107764011724800,Mon Jul 06 17:22:29 +0000 2015,0,0,"@_ajm Oh, it's just a nightmare. You just never know with some assets."
+92,618106701992976384,Mon Jul 06 17:18:16 +0000 2015,0,0,"Another thing has been starting to deal with links that are blocked by the ""Great Firewall"" (the Chinese call it the Golden Shield Project)"
+93,618106094087352320,Mon Jul 06 17:15:51 +0000 2015,0,0,"as in ""why is this guy pointing out that Lenovo makes smartphones like it's a surprise?"""
+94,618105899236790273,Mon Jul 06 17:15:04 +0000 2015,0,0,"I imagine, that the bits where I explain the Chinese web/mobile market to Western readers might be a little weird to a reader in the PRC."
+95,618105692977651712,Mon Jul 06 17:14:15 +0000 2015,0,0,"There's a Chinese translation of The Uncertain Web in the works. It's a very passive activity for me, but still interesting."
+96,616579685078724608,Thu Jul 02 12:10:27 +0000 2015,0,0,So the hijacking of PDF rendering and the inability to permanently respect my choice (always use system viewer) drove me nuts.
+97,616579474935672832,Thu Jul 02 12:09:36 +0000 2015,0,0,"For example, PDFs were part of the production process for The Uncertain Web, but the Google PDF reader doesn't actually DO anything"
+98,616579197184671744,Thu Jul 02 12:08:30 +0000 2015,1,0,"There was an existing bug https://t.co/dM66acjxHM
+
+We should make a bitter sitcom, ""Google Knows Best"" about all the things they ""improve"""
+99,616575124410646528,Thu Jul 02 11:52:19 +0000 2015,0,0,Great timing- Chrome's egotistical print dialog doesn't respect my choice to print in black and white. I should bill them too.
+100,616574599430598656,Thu Jul 02 11:50:14 +0000 2015,0,0,"The more involved front end developers are with the process, the better off we are in the long run."
+101,616574472808714240,Thu Jul 02 11:49:44 +0000 2015,0,0,"Which isn't to say, don't report bugs. It's just sometimes the open source process is slower than others."
+102,616571640126812160,Thu Jul 02 11:38:29 +0000 2015,0,0,"If you report bugs, they have a chance of getting fixed. But there are no guarantees...
+https://t.co/QEoi8igtBC"
+103,616357326312861696,Wed Jul 01 21:26:52 +0000 2015,0,0,"I mean, I'm totally hiding:
+http://t.co/nEqVIi0VVg
+https://t.co/grXC8WtnTs
+http://t.co/DYYFlFHCUE
+I'm a shrinking violet."
+104,616356949739892736,Wed Jul 01 21:25:22 +0000 2015,0,0,"talentbin, ""find secret candidates"" for your job search. Yeah, I'm a secret. Using a 4th string email does nothing for your cause."
+105,616061770952740865,Wed Jul 01 01:52:26 +0000 2015,0,1,"Hopefully this will spin up quickly: 
+""safari-is-the-new-ie dot com""
+https://t.co/JGMkgdODnf"
+106,616028212792045568,Tue Jun 30 23:39:05 +0000 2015,0,0,Op-ed: Safari is the new Internet Explorer http://t.co/EFQ9BJMqTq
+107,615978177614225408,Tue Jun 30 20:20:16 +0000 2015,0,0,"OH MY GOD I WANT TO DO A PERFORMANCE AUDIT OF THIS CLIENT'S (other) SITE.  
+
+So much things and stuff and domains and things. So much!"
+108,615880665675001856,Tue Jun 30 13:52:47 +0000 2015,0,0,Who? Me? https://t.co/0Acgpfuwx7
+109,614470350496083968,Fri Jun 26 16:28:42 +0000 2015,0,0,Doing the Same Thing Over and Over Again and Expecting Different Results http://t.co/gAyy2prlxq
+110,614204043758575616,Thu Jun 25 22:50:30 +0000 2015,0,0,"What I actually had a problem with was being lied to. Funny, that."
+111,614203977350168576,Thu Jun 25 22:50:14 +0000 2015,0,0,"I continue to chuckle, as I run a successful consulting business, about the manager I had who once told me I had a ""problem with consulting"""
+112,614172758038200320,Thu Jun 25 20:46:10 +0000 2015,1,0,RT @kianoshp: Going to do some light reading this weekend thanks to @robreact http://t.co/aXNYAgPaw6 http://t.co/8CswPpMFz2
+113,613707147306790912,Wed Jun 24 13:56:00 +0000 2015,0,0,"If I was, I'd say that's my stock-in-trade (*terrible rimshot*) https://t.co/EyryeAdZu9"
+114,613703668022403072,Wed Jun 24 13:42:11 +0000 2015,0,1,"I'm celebrating a fantastic career decision this week \o/
+
+""Palatino Consulting, One Year In"" http://t.co/EZvroRaY3K"
+115,613701193798283264,Wed Jun 24 13:32:21 +0000 2015,0,0,"Palatino Consulting, One Year In http://t.co/EZvroRaY3K http://t.co/sy14TomuLx"
+116,613459135946952704,Tue Jun 23 21:30:30 +0000 2015,0,0,@kianoshp you're not alone!
+117,613388456748658688,Tue Jun 23 16:49:38 +0000 2015,0,0,@IlnickiStudios And I agree 100% that people need to learn about their audience. That's a fundamental tenet of modern web development for me
+118,613388204989788160,Tue Jun 23 16:48:38 +0000 2015,0,0,"@IlnickiStudios To be clear, I think that ""who uses Windows"" attitude is horrible. It's the kind of thing that will set me on a rant"
+119,613386479306321920,Tue Jun 23 16:41:47 +0000 2015,0,0,"@IlnickiStudios For sure. People don't always do that- a critical error.
+
+Plus, an attitude I've seen from some devs is ""who uses Windows?"""
+120,613383888140808192,Tue Jun 23 16:31:29 +0000 2015,0,2,"The reality is, their users are probably not running OS X and might even be on a 10 year old PC. But yet, RETINAWEBKIT ALL THE THINGS!"
+121,613383614764429313,Tue Jun 23 16:30:24 +0000 2015,0,1,I already touched on the idea. Devs running OS X think their users are also on OS X so they design and develop interfaces with that in mind
+122,613383384006418432,Tue Jun 23 16:29:29 +0000 2015,0,0,I wish I had that stat for my book. That's just perfect.  https://t.co/qStGcvWAPY
+123,609179303465627648,Fri Jun 12 02:03:58 +0000 2015,5,0,RT @richgilbank: TIL CSS properties in @FirefoxDevTools have a convenient link to MDN docs http://t.co/6oOrjYEpCE
+124,609178885947850752,Fri Jun 12 02:02:19 +0000 2015,2,0,RT @brianarn: It's 2015 and people still think mentioning the current year is a good way to imply that we should be past some sort of probl…
+125,609177783449853952,Fri Jun 12 01:57:56 +0000 2015,6112,0,"RT @mxcl: Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck of…"
+126,609099113121071105,Thu Jun 11 20:45:19 +0000 2015,0,0,Unfollow follow unfollow follow unfollow follow. What is the point of that if I had already followed them? To make me look at their stream?
+127,607975065616007169,Mon Jun 08 18:18:45 +0000 2015,0,0,"""Introducing srcset, our first step towards fully responsive images in Microsoft Edge"" http://t.co/hCnoYave2S"
+128,607722079262265345,Mon Jun 08 01:33:29 +0000 2015,35,0,RT @smfr: Your failed experiments and bug workarounds are more interesting to browser devs than your finished web demo. Share them!
+129,605420306631663617,Mon Jun 01 17:07:03 +0000 2015,19,0,RT @mrmrs_: No matter what renders it - your website is probably just a bunch of html. It might be worth learning a bit.
+130,605393849427603456,Mon Jun 01 15:21:56 +0000 2015,2,0,Intro to TypeScript meetup in Boston later this month. I'm going... http://t.co/dIWHqJ7pO5
+131,603732431628324864,Thu May 28 01:20:03 +0000 2015,0,0,"There was a point in time where, if you wanted to verify an internet connection was working, you would type in yahoo dot com."
+132,603219413316272129,Tue May 26 15:21:30 +0000 2015,0,0,Best Viewed in Chrome. https://t.co/c7fTZY5XmK
+133,603040725232582657,Tue May 26 03:31:27 +0000 2015,0,0,"Thought for the night:
+
+""the browsers will support all languages by plugin instead of changing javascript into an evil language."""
+134,601119586864336896,Wed May 20 20:17:32 +0000 2015,0,0,I'm in Mountain View for lunch.  That's the closest I'll get to tech all week
+135,599251017050542081,Fri May 15 16:32:30 +0000 2015,0,0,@highvoltag3 guilty as charged
+136,599246503920676865,Fri May 15 16:14:34 +0000 2015,0,0,Setting a good hardware/fast connection barrier to entry basically punches the web in the face. Go build native apps.
+137,599246331400560640,Fri May 15 16:13:53 +0000 2015,0,0,People will use all kinds of things to get on the web. THAT'S THE BEST PART OF THE WEB. Finding ways to exclude people is dumb.
+138,599245478920908801,Fri May 15 16:10:30 +0000 2015,0,0,"I know what you're rationalizing: ""no one is going to use a seven year old laptop""
+
+You're wrong."
+139,599245244912312323,Fri May 15 16:09:34 +0000 2015,0,0,I want to go to everyone who writes about these baroque architectures like there's no issue with them and hand them a 7 year old laptop
+140,599244697626943488,Fri May 15 16:07:23 +0000 2015,0,0,In the rush for 60fps bullshit battles with native we toss the strength of the web (broad compatibility/availability) out the window
+141,599244298740170752,Fri May 15 16:05:48 +0000 2015,1,0,We're all so ready to throw away the historical strengths of the web to pander to some small subset on fancy devices and with fast bandwidth
+142,599244006304980993,Fri May 15 16:04:39 +0000 2015,0,1,"Lies we tell ourselves:
+""No one surfs the web without JavaScript""
+""Everyone has good hardware now""
+""Bandwidth is uniformly good'"
+143,599243689425272832,Fri May 15 16:03:23 +0000 2015,1,0,We have lost our collective minds. We make architectural choices that abuse our users and then rationalize the problems away.
+144,599243389016666112,Fri May 15 16:02:12 +0000 2015,0,0,"It's hip though, so people do it. Use Backbone to render static HTML? That's cool, right? 1MB of JS to render 100KB of data. Makes sense!"
+145,599242796680241152,Fri May 15 15:59:50 +0000 2015,0,0,The obsession with parsing data and rendering full-page HTML in the browser is madness to me. It's intentionally choosing the slow path
+146,599242146852376576,Fri May 15 15:57:15 +0000 2015,0,1,"The web at its best chooses robust, fast and the stable. Throwing away server rendered HTML is the opposite of that."
+147,599241298877554688,Fri May 15 15:53:53 +0000 2015,0,0,"Choose the fast thing.
+“Is this as fast as sending down the right HTML (and then co-opting it and taking over)? No.”
+https://t.co/UvXSURQIij"
+148,598963570169221122,Thu May 14 21:30:17 +0000 2015,0,0,People have constantly designed for download speeds and hardware that a regular user won't see for several years https://t.co/1z8PWlk7Vx
+149,598857618594074624,Thu May 14 14:29:17 +0000 2015,0,0,"Stack obsession FTL
+
+""Tools don’t solve the web’s problems, they ARE the problem""
+
+http://t.co/I8WJC8NO8l"
+150,598253797656436736,Tue May 12 22:29:55 +0000 2015,0,0,"The best part is the ""I heard _____"" changes every six months https://t.co/i0i8bDtk0g"
+151,597820483761868802,Mon May 11 17:48:04 +0000 2015,2,0,Current Status: For Hire http://t.co/sESD8bo2sq
+152,597476343966732288,Sun May 10 19:00:35 +0000 2015,0,0,@richgilbank it does and then gets reset. I want to set it and forget it
+153,597440019029041156,Sun May 10 16:36:15 +0000 2015,0,0,It's impossible to turn desktop notifications off permanently in Chrome. Remember when Chrome was the likable browser?
+154,596430932334219264,Thu May 07 21:46:30 +0000 2015,0,0,"10 characters, one lowercase, one uppercase, one number and one of - () . &amp; @ ? ' # , / "" +"
+155,596430726276472833,Thu May 07 21:45:40 +0000 2015,0,0,The @USPS password rules are the toughest I've ever seen. They should just force everyone to generate a random strong
+156,595945512693469186,Wed May 06 13:37:37 +0000 2015,0,0,"Great books... including MINE (diabolical laughter.)
+
+That was plain bragging by the way. My book is good! https://t.co/vVFH2S2BPp"
+157,595945268916264960,Wed May 06 13:36:38 +0000 2015,0,0,So many great books to choose from. Spend over $100 and save even more. @OReillyMedia celebrates #DayAgainstDRM  https://t.co/2kP1Dz1sgP
+158,595332010530447360,Mon May 04 20:59:46 +0000 2015,0,0,"Yes, recruiter, you better email three email addresses! Just in case! There are a couple more out there- I'll go check those!"
+159,595311047092887552,Mon May 04 19:36:28 +0000 2015,0,0,"@erichynds It's only right that we would get blanketed, after all the ""market in the space is moving very quickly right now."""
+160,595304573360832513,Mon May 04 19:10:45 +0000 2015,0,1,"Wow, I can't wait to get access to senior people!
+""This role will give you the opportunity to work with senior people within the industry"""
+161,595030761104740355,Mon May 04 01:02:43 +0000 2015,9,0,"RT @jacobrossi: Welcome to the party, Microsoft Edge.  Coming soon to http://t.co/BR11hN6Tnk http://t.co/aqUo2wr6wi"
+162,595030605005393920,Mon May 04 01:02:06 +0000 2015,0,0,“FULL STACK SUCKERS” by @PHP_CEO https://t.co/ZK4VID0DPO
+163,595024135278825472,Mon May 04 00:36:23 +0000 2015,1,0,The Two Longest-Lasting Computer Programs Are Mortal Enemies http://t.co/2nSYraeErb via @slate
+164,593842683405271041,Thu Apr 30 18:21:43 +0000 2015,0,0,"The ""drag the edge of your desktop browser"" responsive demo drives me nuts. People fixate on that demo."
+165,593829354997751808,Thu Apr 30 17:28:45 +0000 2015,0,0,"Truth in CSS class names:
+.coolEffect"
+166,593825174195216384,Thu Apr 30 17:12:08 +0000 2015,0,0,Windows 10 apps in HoloLens look amazing and completely ridiculous http://t.co/4G9Mpjrjhh via @verge
+167,593507345541398531,Wed Apr 29 20:09:12 +0000 2015,0,0,"Mark of the Web!
+
+I found my #FirstPullRequest: https://t.co/j4hLq9Opoe. What was yours? http://t.co/3sfaCqkltW"
+168,591274261035245568,Thu Apr 23 16:15:43 +0000 2015,0,0,"""Your convenience is not an excuse to do the web wrong""
+
+slow clap for @meyerweb"
+169,591274073797369856,Thu Apr 23 16:14:59 +0000 2015,3,3,"That @meyerweb talk from @fluentconf is AWESOME. I love it. He touches on so many topics dear to me right now
+
+http://t.co/3qiWmAgnPp"
+170,590923761072869376,Wed Apr 22 17:02:58 +0000 2015,0,1,"And... another one right up my alley, apparently.  https://t.co/LRMSU6mzGR"
+171,590921400208269313,Wed Apr 22 16:53:35 +0000 2015,0,0,"+1000 
+Even if you slice the definition of ""modern browser"" down to 50% of the web, full compatibility is a myth https://t.co/EqyUyVpiYo"
+172,590919717487009792,Wed Apr 22 16:46:54 +0000 2015,0,1,Sounds like my kind of talk.  https://t.co/2NNPK0dbyv
+173,590868928244621312,Wed Apr 22 13:25:04 +0000 2015,0,0,What? Testing for 15 minutes in Chrome and on a single iPhone isn't enough? https://t.co/X0P8FTnKAB
+174,590590513142693888,Tue Apr 21 18:58:45 +0000 2015,0,0,This is great news. Big \o/ to all involved https://t.co/8r3Ihvqy0U
+175,590576283123351552,Tue Apr 21 18:02:12 +0000 2015,0,0,My favorite interview exercise lives on \o/ https://t.co/fLdE5sUtKp
+176,590576040583520256,Tue Apr 21 18:01:15 +0000 2015,0,0,@ericdpratt That's great. I would still use that if I were doing these in person. It's not perfect but it's been an interesting experiment.
+177,590334913305542657,Tue Apr 21 02:03:05 +0000 2015,1,0,"Web Reflection: The DOM Is NOT Slow, Your Abstraction Is http://t.co/xiCXfDyHjj"
+178,590290735653462016,Mon Apr 20 23:07:33 +0000 2015,0,0,"seriously, @runmeb is the best http://t.co/bJudVYK57A"
+179,590254582262968323,Mon Apr 20 20:43:53 +0000 2015,0,1,@chrisarchitect @bentlegen it's an @h5bp thing for sure https://t.co/5CmkR0cJYK
+180,590241516104208384,Mon Apr 20 19:51:58 +0000 2015,0,0,"""Good idea, I suppose.""
+
+https://t.co/59YQT9d4Ev
+
+I wonder at the sequence of events that leads someone to comment on the 1st @h5bp commit"
+181,590234549692444673,Mon Apr 20 19:24:17 +0000 2015,0,0,"I'd rather do the interactive pair programming code thing I ususally do, but... these are over the phone so I'm switching it up a bit"
+182,590233591071707136,Mon Apr 20 19:20:28 +0000 2015,0,0,"Speaking of interviews... I'm helping a client out and conducting front end dev interviews. I'm doing a new, no-code, thing and it's fun."
+183,590221661976338432,Mon Apr 20 18:33:04 +0000 2015,0,1,"This interviewee keeps saying ""Standing on the shoulder of giants"" in reference to @paul_irish 
+
+Paul IS pretty tall."
+184,590125865520001024,Mon Apr 20 12:12:25 +0000 2015,0,0,Celebrate @fluentconf with 50% off The Uncertain Web ebook (&amp; all web dev ebooks!)  @OReillyMedia with code CFFNT5 http://t.co/WosH4VrH9Y
+185,589536118011523073,Sat Apr 18 21:08:58 +0000 2015,0,0,Researchers use black-market drug website to gauge public health http://t.co/imopz9NFB0 via @BostonGlobe
+186,589512134058475521,Sat Apr 18 19:33:40 +0000 2015,345,0,"RT @jeresig: Programming elitism has caused the death of many frameworks/programming languages. You must respect your users, everyone learn…"
+187,589056954959552513,Fri Apr 17 13:24:56 +0000 2015,0,0,I honestly didn't think you could even USE emoji in variable names. Or that there were so many different crying ones. http://t.co/q8jiRIZYhw
+188,588772181888368640,Thu Apr 16 18:33:21 +0000 2015,0,0,"""Our records show that you have experience in Deskside support. ""
+""Your records are dumb. You are dumb."""
+189,588752748214145024,Thu Apr 16 17:16:08 +0000 2015,31,0,RT @h5bp: We've updated H5BP to no longer use protocol relative URLs for Google Analytics and others sources. Here is why: https://t.co/tPb…
+190,588750685778350081,Thu Apr 16 17:07:56 +0000 2015,0,2,The number of JavaScript things that I don't _want_ to have an opinion about grows daily.
+191,588750306781069312,Thu Apr 16 17:06:26 +0000 2015,12,0,RT @janl: Full Stack Bullshit Bingo Galore: https://t.co/ua3xIUv3gZ
+192,588731940578205696,Thu Apr 16 15:53:27 +0000 2015,3,0,"RT @adactio: Neologism coined by @AllMarkedUp in today’s front-end pow-wow:
+
+Modyfill
+
+A polyfill for a feature that modernizr says isn’t s…"
+193,588714538125529088,Thu Apr 16 14:44:18 +0000 2015,0,1,"Just like I had JS skills when it came back, I actually have some XSLT. I'm ready for the XSLT revolution.  https://t.co/zC4ZkE9w2C"
+194,588518176641671168,Thu Apr 16 01:44:02 +0000 2015,9,0,"RT @SiTaggart: Remember kids, 99% of your audience probably doesn't use an Apple Display - Accessibility and Low-Powered Devices http://t.c…"
+195,588517405606989824,Thu Apr 16 01:40:58 +0000 2015,0,1,@jensimmons There are plenty of people who build and design like everyone is on a fast connection with new (Apple only) hardware
+196,588496600881881088,Thu Apr 16 00:18:18 +0000 2015,0,0,"Seriously, don't shoot yourself in the foot in the quest to be cool."
+197,588496318210932736,Thu Apr 16 00:17:10 +0000 2015,0,0,i guess I was supposed to be excited about helping them out of a self-inflected cluster. Nope! Sorry!
+198,588494898338332673,Thu Apr 16 00:11:32 +0000 2015,0,0,I don't think that went over very well.
+199,588494746319982592,Thu Apr 16 00:10:55 +0000 2015,0,0,"It's like a company with ""look! new! shiny!"" disease. 
+I pointed out that picking a standard set of tools might be a good idea."

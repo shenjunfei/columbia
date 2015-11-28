@@ -1,0 +1,202 @@
+,id_str,created_at,retweet_count,favorite_count,text
+0,669108073915551744,Tue Nov 24 10:59:30 +0000 2015,1,1,"@jasper_07 Right, don't over engineer it @SAP please learn from the past ;-)"
+1,669107708256088065,Tue Nov 24 10:58:03 +0000 2015,5,5,If you missed the Locknote session at #SAPdev by @brianpagano from @Apigee  you can get the gist of it here https://t.co/6oit2DtiyJ
+2,669097882260082688,Tue Nov 24 10:19:01 +0000 2015,1,0,"@jasper_07 so long as just defaults and can be easily overridden then prob OK, but then there is the tyranny of the default to deal with!"
+3,669097408907751425,Tue Nov 24 10:17:08 +0000 2015,0,0,Ahhhhh! HELP! https://t.co/NFSUUEbXqm
+4,669094072867426304,Tue Nov 24 10:03:52 +0000 2015,0,3,“@njames: A review of day one of #SAPdev  https://t.co/ObrGKE3aeK” &lt; Nice summary from Nigel
+5,669027858291953664,Tue Nov 24 05:40:46 +0000 2015,1,0,"Nice article by @ssipsma interviewing @jhmoy ""What's stopping you? Do your end-users a favour and implement NWBC"" https://t.co/E9D3wQk4ed"
+6,669026675515002880,Tue Nov 24 05:36:04 +0000 2015,0,1,"@alisdair73 yes exactly, why is that in the CDS? It doesn't make sense to me."
+7,669026052916703232,Tue Nov 24 05:33:35 +0000 2015,2,6,Not convinced that putting UI annotations into ABAP CDS is a good idea. What happened to UI and backend logic separation? #SAPdev
+8,669016507486093312,Tue Nov 24 04:55:39 +0000 2015,0,0,Simplicity Wins over Abundance of Choice https://t.co/OUWZGwY5Ij
+9,668914152237215744,Mon Nov 23 22:08:56 +0000 2015,9,12,Nice overview of how @SAP_Splash @buildwithbuild and WebIDE and how they map to @DTwithSAP process @jocdart #SAPdev https://t.co/GRxGT19aDW
+10,668911677476200448,Mon Nov 23 21:59:06 +0000 2015,9,0,"RT @jhmoy: Good point by @jocdart. ""Fixing UX in development is an expensive problem"". #SAPdev https://t.co/5atAa8rJVL"
+11,668909234390634498,Mon Nov 23 21:49:23 +0000 2015,3,3,"""Make sure it matters!"" #uxd #SAPdev pick the right focus areas for your UX efforts @jocdart https://t.co/iYlLOpoGod"
+12,668905552798347264,Mon Nov 23 21:34:46 +0000 2015,4,5,Filling up for @buildwithbuild and @SAP_Splash hands on session at #SAPdev @SAPMentors @jocdart https://t.co/etl1AsWe11
+13,668904722250661888,Mon Nov 23 21:31:28 +0000 2015,2,2,Here we go @buildwithbuild and @SAP_Splash at #SAPdev with @jocdart https://t.co/AhkJh0LC4o
+14,668728354133020672,Mon Nov 23 09:50:38 +0000 2015,1,3,Bonne nuit Sydney! #SAPdev https://t.co/Axw51EA0VX
+15,668727257444167681,Mon Nov 23 09:46:17 +0000 2015,6,9,Great first day at #SAPdev Sydney! More learning goodness to come tomorrow starting with @buildwithbuild at 8.30am led by @jocdart #uxd
+16,668726698033057792,Mon Nov 23 09:44:03 +0000 2015,1,0,RT @jocdart: @AviadRivlin @skemp @SAPMentors we had approx 80 in just the first session... Repeating it tomorrow
+17,668638345396772864,Mon Nov 23 03:52:58 +0000 2015,0,7,Node.js (and it's non-blocking model) and I have lots in common for example we both hate waiting #sapdev @thomas_jung
+18,668617931379507200,Mon Nov 23 02:31:51 +0000 2015,2,1,SAP WebIDE will be the one IDE to rule them all #HANA #Fiori #sapdev
+19,668612793050861569,Mon Nov 23 02:11:26 +0000 2015,4,2,Here goes @thomas_jung with Node.js session at #SAPdev https://t.co/REuSdAVbdI
+20,668569825313030145,Sun Nov 22 23:20:42 +0000 2015,7,12,Packed in at #sapdev Fiori Cloud Edition hands on with @jocdart @SAPMentors #sapdev @AviadRivlin https://t.co/GHQdk1yNrS
+21,668551688693768192,Sun Nov 22 22:08:38 +0000 2015,0,2,"SAP Cloud Connector supports HTTP, JCo and RFC connections #sapdev"
+22,668551509634760705,Sun Nov 22 22:07:55 +0000 2015,5,4,"Interesting that you can use on premise authentication with HCP and Cloud Connector, no need to replicate user data to the cloud #sapdev"
+23,668546834231521280,Sun Nov 22 21:49:20 +0000 2015,7,3,The King of demos @IanKimbell showing us #sap cloud analytics at #sapdev https://t.co/twGlJQ7nIo
+24,668544542711283712,Sun Nov 22 21:40:14 +0000 2015,5,2,Kicking off with 370 attendees at #sapdev this year https://t.co/xFsegrB1Hq
+25,668526883877752832,Sun Nov 22 20:30:04 +0000 2015,2,2,My ride is here #sapdev looking forward to a great couple of days! Don't miss #Fiori CE and @buildwithbuild sessions https://t.co/N3oXoKn3Ns
+26,668357896262946817,Sun Nov 22 09:18:34 +0000 2015,2,1,Influence SAP Product direction on SAP Idea Place (alas NWBC you are MIA) https://t.co/Xi80UMkR1M
+27,668357026372685824,Sun Nov 22 09:15:07 +0000 2015,1,5,"Support my idea for the ""Ability to filter tiles on Fiori Launchpad"" on SAP Idea Place for Fiori Launchpad https://t.co/1RmVe76C2Z #Fiori"
+28,668323858546475008,Sun Nov 22 07:03:19 +0000 2015,10,0,RT @zcust01: Official Event App for #SAPdev is built with #SAPUI5. THAT'S how you do it @SAPANZ!! https://t.co/kW5BXEMBBQ
+29,668320211099979776,Sun Nov 22 06:48:49 +0000 2015,1,0,RT @jocdart: #sapdev 1 day to go for hands on Fiori Cloud Edition
+30,668320137892622336,Sun Nov 22 06:48:32 +0000 2015,0,2,Wish I'd been there! https://t.co/YQwskdZM9E
+31,668172331018158080,Sat Nov 21 21:01:12 +0000 2015,0,1,Running empty after 2K swim ses! I just ran 5.10 km @ a 4'56''/km pace with Nike+. https://t.co/WOzWsVgYFL #nikeplus https://t.co/JJGdDdWPyd
+32,668148195612995584,Sat Nov 21 19:25:18 +0000 2015,17,0,RT @interacting: How to Sell User-Centered Design To Your Clients? - https://t.co/8gLd2hekPW https://t.co/LdCjK8qvT7
+33,667893966746980352,Sat Nov 21 02:35:05 +0000 2015,1,2,From Platforms to User Experience: Navigating the Digital Disruption by @UXSamYen #uxd @buildwithbuild @SAP_Splash  https://t.co/h9KRsmAhXg
+34,667584646012493825,Fri Nov 20 06:05:57 +0000 2015,0,1,"People who swing their arms excessively when they walk should have to wear hi viz vests, they are dangerous #justsaying"
+35,667573460944613377,Fri Nov 20 05:21:30 +0000 2015,0,0,"@grahamrobbo was trusting the BOM observations for Sydney harbour, maybe there sensors have melted! #IoT"
+36,667546717445730304,Fri Nov 20 03:35:14 +0000 2015,0,0,"@applebyj @zcust01 snappy, just rolls off the fingers :-P"
+37,667546547664482304,Fri Nov 20 03:34:34 +0000 2015,0,0,@alisdair73 @zcust01 touché
+38,667546127189737472,Fri Nov 20 03:32:53 +0000 2015,1,2,@zcust01 Thanks! Don't the architects feel left out #SAPdev #SAParch :-P
+39,667541351827795968,Fri Nov 20 03:13:55 +0000 2015,0,0,"@grahamrobbo you need to move to the coast :-P 25C, easterly blowing at 20 kts"
+40,667540761211043841,Fri Nov 20 03:11:34 +0000 2015,0,0,What is the twitter hashtag for next week's SAP Developer and Architect Summit? #sapdevarch #sapda #sapda15 #sapdasyd
+41,667539238527725568,Fri Nov 20 03:05:31 +0000 2015,1,1,"BUILD Beta 4/SPLASH feeling much more polished, good job @buildwithbuild &amp; @SAP_Splash teams! Prep for next weeks session with @jocdart"
+42,667452638628196352,Thu Nov 19 21:21:24 +0000 2015,4,6,And @jhmoy knocks it out of the park again! Home run mate. #fiori #ux #sap  https://t.co/YJyWizO2YW
+43,667451934761050112,Thu Nov 19 21:18:36 +0000 2015,2,0,RT @jhmoy: Here's @sufw educating the #SAUG audience on basics of @github https://t.co/XOszthUwFa
+44,667164208895684608,Thu Nov 19 02:15:17 +0000 2015,0,2,Relive the #saptd 5k fun run https://t.co/EUHT3Cmuyb
+45,667162803556384768,Thu Nov 19 02:09:42 +0000 2015,3,0,There are over 100 @SAPTechEd #saptd recorded sessions available online https://t.co/YdxZgmljl5
+46,667161705441460224,Thu Nov 19 02:05:20 +0000 2015,0,1,TEC112: Key User Interface Technologies in SAP S/4HANA | SAP TechEd Online https://t.co/2GTnPAF0zT &lt; #Fiori mainly but also WDA and GUI
+47,666868445254782976,Wed Nov 18 06:40:01 +0000 2015,1,0,Off to pool session #2 help me find cancer research @CanTooRunSwim  https://t.co/gKIXbmhncW
+48,666807713582616576,Wed Nov 18 02:38:42 +0000 2015,2,0,"RT @uxKjaer: You want to use SAP Fiori ""almost"" like in the minority report.@LeapMotion #scn @SAPCommNet https://t.co/xxtD9xkF2i https://t.…"
+49,666806903100452864,Wed Nov 18 02:35:29 +0000 2015,0,0,"RIP @JONAHTALILOMU will never forget, you made a difference and impacted many lives in a positive way"
+50,666765496344154113,Tue Nov 17 23:50:56 +0000 2015,3,3,Lessons Learned SAP Fiori Implementation on Business Suite (TechEd Presentation) https://t.co/ufjaCvgiNo
+51,666706359488917504,Tue Nov 17 19:55:57 +0000 2015,1,0,RT @thomas_jung: I added a video to a @YouTube playlist https://t.co/01fVcH8Q7c SAP TechEd 2015 DEV162 Exercise 5
+52,666561086510895105,Tue Nov 17 10:18:41 +0000 2015,10,0,"RT @SAPTechEd: Why do communities matter and what value do they provide? @JayChaos, @MalinJessica and @qmacro discuss: https://t.co/skRTcwz…"
+53,666190870169808896,Mon Nov 16 09:47:35 +0000 2015,7,0,RT @njames: Have you signed up for the Arch&amp;&amp;Dev summit ?https://t.co/AZ7OIBMBOC #sap #australia #ui5 #hana #learn #network #beer
+54,666190826846859264,Mon Nov 16 09:47:25 +0000 2015,5,0,RT @grahamrobbo: Great agenda coming together for the #SAP Architect and Developer Summit next week https://t.co/vn97PdBtbd
+55,665988051043090432,Sun Nov 15 20:21:39 +0000 2015,0,1,@TonkaPome  https://t.co/tzfMAlMH95
+56,665987490143072256,Sun Nov 15 20:19:25 +0000 2015,3,0,"RT @sapfrog: Awesome keynote, better than the movie that inspired it! Definitely Oscar material. https://t.co/sm0A3I8PwQ"
+57,665124917868822528,Fri Nov 13 11:11:52 +0000 2015,0,1,SAP Executive Keynote: @_bgoerke Barcelona 2015 | SAP TechEd Online &lt; hands down the best #SAPtd keynote ever! https://t.co/8VXROrpGRM
+58,665008973012008960,Fri Nov 13 03:31:09 +0000 2015,0,2,"Whoever just donated $100 to cancer research THANK YOU,THANK YOU ANONYMOUS @CanTooRunSwim https://t.co/gKIXbmhncW https://t.co/PPYmMHGhi1"
+59,665003038642339841,Fri Nov 13 03:07:34 +0000 2015,1,2,Help me cure cancer with @CanTooRunSwim https://t.co/gKIXbmhncW cc @SAPMentors https://t.co/ftJv1TwIVh
+60,665002645493411841,Fri Nov 13 03:06:00 +0000 2015,1,0,"Do a good deed this Friday and help me to help cure cancer @CanTooRunSwim https://t.co/gKIXbmhncW
+THANK YOU!"
+61,664905464686051328,Thu Nov 12 20:39:50 +0000 2015,1,0,"RT @ViralVideoTube: RT denisenepraunig: You may be cool, but you'll never be as cool as _bgoerke #SAPtd awesome developer keynote cool… htt…"
+62,664750496079450112,Thu Nov 12 10:24:03 +0000 2015,11,0,RT @grahamrobbo: If you nothing else today make sure you watch replay of @_bgoerke #SAPtd keynote - or watch it again. https://t.co/hT3YEG8…
+63,664750435018739717,Thu Nov 12 10:23:48 +0000 2015,3,0,"RT @IntenzzGroup: #SAPtd EXP27359:""Implementing SAP Fiori Launchpad"" Lounge 7 2:00pm. @tamas_szirtes pre-presents his upcoming e-book  http…"
+64,664739078756106240,Thu Nov 12 09:38:41 +0000 2015,4,0,RT @ttrapp: So cool: OVP in UI5 1.32 - already supported in SAP Web IDE #SATtd cc @nielseabap @sigh5 https://t.co/VRsFN6KUzf
+65,664716174433763329,Thu Nov 12 08:07:40 +0000 2015,0,5,Node.js Tutorial - Code School https://t.co/njHwiPIMxs
+66,664700863781273600,Thu Nov 12 07:06:50 +0000 2015,0,3,@adamf2014 @SAPMentors school boy error = school boy sized shirt now! #MiniMe
+67,664672958045032448,Thu Nov 12 05:15:56 +0000 2015,0,0,"“@fredverheul: @skemp Thanks for the warning :), pic missing?!” &lt; Pic NSFW!! Thinking new @SAPMentors bellybutton ring needed!"
+68,664628709417050112,Thu Nov 12 02:20:07 +0000 2015,2,10,Warning @SAPMentors don't put your new mentor shirts in the dryer! From now on I will be sporting the mentor tank top! O_o
+69,664561782988541952,Wed Nov 11 21:54:10 +0000 2015,3,4,Off to a customer innovation day and giving the @SAPMentors shirt an airing #Fiori https://t.co/SqPYTZNNeK
+70,664534181997731840,Wed Nov 11 20:04:30 +0000 2015,0,1,A huge shout out and THANK YOU to my friends at @sweetlets for helping us cure cancer https://t.co/gKIXbmhncW https://t.co/GGsAHOm7Ml
+71,664531399811035136,Wed Nov 11 19:53:26 +0000 2015,2,4,"SE16, SE37, SEGW, #HCP on Mars. @_bgoerke on stage at #SAPtd … this guy gets it, geeks love SciFi and real demos #nomarketing slides BRAVO!"
+72,664530360621928448,Wed Nov 11 19:49:19 +0000 2015,2,4,Have you been left stranded on Mars with just yesterdays SAP tech? Watch @_bgoerke keynote from #saptd BCN https://t.co/mJk5jQdK78
+73,664332397366743040,Wed Nov 11 06:42:40 +0000 2015,0,0,Please help us cure cancer @CanTooRunSwim  https://t.co/gKIXbmhncW https://t.co/sfe7qqtJXH
+74,664331734134099968,Wed Nov 11 06:40:02 +0000 2015,0,0,Please help us cure cancer @CanTooRunSwim  https://t.co/gKIXbmhncW
+75,664306408091860992,Wed Nov 11 04:59:24 +0000 2015,0,0,Don't miss the latest SCN blog from @KjaerJakob on Fiori and SAP BC https://t.co/7GVmdx2IZf
+76,664304345299587072,Wed Nov 11 04:51:12 +0000 2015,0,0,Announcing a new strategic partnership between @PlautAustralia and @msg_global https://t.co/R56RZdI1SD
+77,664303666891894784,Wed Nov 11 04:48:31 +0000 2015,0,0,msg global solutions ag and Plaut Australia Form Strategic Partnership https://t.co/9robvkWxKa
+78,664303017257078784,Wed Nov 11 04:45:56 +0000 2015,17,0,RT @applebyj: More stats - ~45% of customers running #saphana are using it for non-SAP use cases @nstevenlucas #saptd
+79,664302778836086785,Wed Nov 11 04:44:59 +0000 2015,6,0,RT @MatthiasWild: Impressive @SAPMentors power on stage for #SAPtd DemoJam. @jpenninkhof @tbroek https://t.co/ksgwKFj22S
+80,664302699542810624,Wed Nov 11 04:44:40 +0000 2015,24,0,"RT @SAPCommNet: Announced today at #SAPtd, Fiori mobile service is a new #SAPHANA Cloud Platform service https://t.co/E1u54egpRz https://t.…"
+81,664301872396697600,Wed Nov 11 04:41:23 +0000 2015,0,2,@_bgoerke @nstevenlucas just don't ask Alexa who @applebyj is! :-)
+82,664301508578512896,Wed Nov 11 04:39:56 +0000 2015,0,0,"I'm sorry but any email that starts with ""Hi Friend"" needs to go directly to my spam folder!"
+83,664300088546582528,Wed Nov 11 04:34:17 +0000 2015,0,0,"@mattharding Thanks. Yeah, not really liking the change control on the FLP stuff…"
+84,664298308643385344,Wed Nov 11 04:27:13 +0000 2015,0,0,How to get SAP Fiori search and factsheet into BC by Jakob Kjaer &lt; another great Blog form Jakob #NWBC https://t.co/iJxpa2MzEF
+85,664277410536288256,Wed Nov 11 03:04:11 +0000 2015,0,1,Can anyone help? https://t.co/6j6YzFgc5b cc @mattharding @AviadRivlin
+86,664258164896890884,Wed Nov 11 01:47:42 +0000 2015,0,0,Spotted in the wild at town hall @TonkaPome thanks for lunch mate! https://t.co/XkPPrpw21M
+87,664169207039291392,Tue Nov 10 19:54:13 +0000 2015,1,0,Watching #SAPtd DemoJam while having breakfast. Well done to everyone! But hang on… no @keytreeuk ??? https://t.co/D7FmuQk6gk
+88,664152326874095616,Tue Nov 10 18:47:08 +0000 2015,6,0,RT @FromAlex: Mobilizing SAP Fiori in a Simple Way – New Solutions Announced @ TechEd https://t.co/Cn5ywPl9UC #scn by @miljagillespie #SAPt…
+89,664033731804459008,Tue Nov 10 10:55:53 +0000 2015,1,2,"SAP Runs Simple with SAP Fiori, cloud edition - Drink your own champagne! https://t.co/0UItRs7pj0"
+90,663968772978425856,Tue Nov 10 06:37:46 +0000 2015,1,0,RT @AviadRivlin: #saptd here is starts again... https://t.co/kunv1JKsak #fioricloud #sfce #fiori #sapportal
+91,663853808645050368,Mon Nov 09 23:00:56 +0000 2015,0,1,Gotta be one of the best train station views in the world! :-) #Sydney https://t.co/G4q7t5lIGC
+92,663833307608576000,Mon Nov 09 21:39:28 +0000 2015,3,2,Wishing everyone at #saptd BCN a wonderful few days! Don't forget to stop and smell the roses (and #catchamentor !) @SAPMentors
+93,663808123518386176,Mon Nov 09 19:59:24 +0000 2015,0,0,Beautiful morning! I just ran 5.12 km @ a 4'52''/km pace with Nike+. https://t.co/Mjellld0XZ #nikeplus https://t.co/yaOK40oXgS
+94,663661235548786688,Mon Nov 09 10:15:43 +0000 2015,0,1,@steverumsby @applebyj @pixelbase like a #SAPtd Cannonball Run! :-)
+95,663660287795400704,Mon Nov 09 10:11:57 +0000 2015,4,0,RT @BetzOliver: #SAPUI5: What is it and how does it work? https://t.co/poMVAuEQCu #scn via @SAPCommNet: Keep in mind: Good #UX is more than…
+96,663659340675444736,Mon Nov 09 10:08:11 +0000 2015,0,0,@steverumsby a bit shorter trip this time at least :-)
+97,663658847551098880,Mon Nov 09 10:06:14 +0000 2015,10,0,"RT @steinermatt: ""Forget HANA. Forget cloud. Let's talk platform!” by yours truly https://t.co/rCHRFE1Snx  #saptd #saphcp https://t.co/m7JN…"
+98,663449487394803712,Sun Nov 08 20:14:18 +0000 2015,8,0,RT @njames: If you missed my talk on #git at #SAPtd then here's a little blog that covers the basic workflow: https://t.co/e3exz1GTQM
+99,662868978562260997,Sat Nov 07 05:47:34 +0000 2015,0,0,"@tonkapome @sufw maybe @leuracellars has them too, another good reason to visit the blue mountains!"
+100,662553617434476544,Fri Nov 06 08:54:26 +0000 2015,0,0,SAP TechEd 2015 - the developer's perspective - YouTube https://t.co/F8XP2sD7m4
+101,662489766198276096,Fri Nov 06 04:40:43 +0000 2015,0,0,@SAPCommNet all good now thanks
+102,662096650953883649,Thu Nov 05 02:38:37 +0000 2015,0,2,How to get Fiori launchpad as Business Client startup page https://t.co/KyZrY698ua
+103,662020798303985668,Wed Nov 04 21:37:12 +0000 2015,0,1,"Come inside the @SAPMentors Fish Bowl, here's our meeting with @UXSamYen #UxaaS #Fiori #S4HANA https://t.co/pAR3Xx7MN6"
+104,661994544922136576,Wed Nov 04 19:52:53 +0000 2015,1,0,"RT @ExcellisCorp: UX questions? Stop by our booth at tomorrow's AZ ASUG! Also, see #SAPMentor @petelagana present a Roadmap to Fiori. https…"
+105,661975095418613760,Wed Nov 04 18:35:36 +0000 2015,2,0,"RT @hikuinc: Have you heard the news? You can now scan it, say it, and buy it with @Walmart and @PeapodDelivers! Via @TechCrunch https://t.…"
+106,661860227713642497,Wed Nov 04 10:59:09 +0000 2015,3,0,At @SAPTechEd the @SAPMentors sat down with @UXSamYen in the Mentor Fish Bowl here is a summary that session https://t.co/pAR3Xx7MN6
+107,661859892211286016,Wed Nov 04 10:57:49 +0000 2015,0,2,Inside the SAP Mentor Fish Bowl Session with Sam Yen @sapmentors @UXSamYen https://t.co/OQTPSJaqZU
+108,661832587896188928,Wed Nov 04 09:09:19 +0000 2015,0,0,Is @SAPCommNet logon broken? or is it just me? It just seems to hang…
+109,661778221294194688,Wed Nov 04 05:33:17 +0000 2015,1,9,My Fiori launchpad tip of the day when in cache hell before you lose all your hair run /UI2/INVALIDATE_GLOBAL_CACHES https://t.co/rxgShIzsxI
+110,661770132071444480,Wed Nov 04 05:01:09 +0000 2015,0,3,From Quick Reference Cards to Fiori OVP cards we've come a long way baby! (Or have we?) #uxd https://t.co/jOzsVFWatX
+111,661665233501487104,Tue Nov 03 22:04:19 +0000 2015,0,1,UX design is a team sport and is best played like one - UX for the masses https://t.co/RfST7McKnw
+112,661409454856912896,Tue Nov 03 05:07:57 +0000 2015,0,1,@tpot3 @TonkaPome @chris_rae01 need to organise some meetings I think :-)
+113,661294115313709056,Mon Nov 02 21:29:37 +0000 2015,0,0,SAP Screen Personas Highlights from TechEd2015 https://t.co/yBsHnjcy11
+114,661284955461259264,Mon Nov 02 20:53:14 +0000 2015,0,2,BUILD is open source you could add any UI control library :-) btw I agree that would be useful https://t.co/5yE3Muxolb
+115,661280512200183809,Mon Nov 02 20:35:34 +0000 2015,0,0,I just ran 5.15 km @ a 4'57''/km pace with Nike+. https://t.co/KMWh7adbBt #nikeplus
+116,661142194514882560,Mon Nov 02 11:25:57 +0000 2015,9,0,RT @uxpodcast: Start your week by listening to wise words from @steveportigal @petetrainor &amp; @Anjan435 - Press Play ► https://t.co/ALyYMVaS…
+117,661142035764637696,Mon Nov 02 11:25:19 +0000 2015,0,2,@chris_rae01 really? It's clear as mud isn't it. Run simple! ;-)
+118,661097544261369856,Mon Nov 02 08:28:31 +0000 2015,0,2,Software Design for Non-Designers - SAP User Experience Community https://t.co/jektVhNVMB
+119,661097012348096512,Mon Nov 02 08:26:24 +0000 2015,3,4,User Experience as a Service (UXaaS): Intro to BUILD and Splash https://t.co/mEQeQv4ar4
+120,661018354744823808,Mon Nov 02 03:13:51 +0000 2015,0,0,@js1972 do share your findings :-)
+121,661017192750673920,Mon Nov 02 03:09:14 +0000 2015,0,0,"@js1972 Right, or UI Add-On 2.0 which I think can be installed on older systems too. AFAIK SAP_UI 750 can go on a 740 system (confusing)"
+122,661014955466993664,Mon Nov 02 03:00:21 +0000 2015,2,5,Integrating NWBC 5.0 and Fiori Apps | SCN https://t.co/cTvSe5OfDc
+123,660185540981972992,Fri Oct 30 20:04:33 +0000 2015,0,0,+1 https://t.co/CPkbIBuS3P
+124,659819325008703488,Thu Oct 29 19:49:20 +0000 2015,0,1,Designing Digital Transformation: Scaling user experience in the enterprise #SAPtd @UXSamYen https://t.co/fhgHX0LTBh cc @sapfrog
+125,659817857509789696,Thu Oct 29 19:43:30 +0000 2015,7,0,RT @JJComment: [Important] #SAP Business Client 6.0 (fka SAP NetWeaver Business Client) is available &gt; https://t.co/bU4METIII2 #UX https://…
+126,659817783274795008,Thu Oct 29 19:43:13 +0000 2015,0,2,Agree they are awesome! https://t.co/QrzACyXQxz
+127,659629613203587072,Thu Oct 29 07:15:29 +0000 2015,0,0,@mattharding are you able to trace the http(s) traffic to see what's going on?
+128,659627755357626368,Thu Oct 29 07:08:06 +0000 2015,0,0,#SAPtd moves to September next year! https://t.co/TLL1Z6GqYF
+129,659462358343921664,Wed Oct 28 20:10:53 +0000 2015,6,0,RT @SAPTechEd: Interactive Hands-On Workshops available free for all #SAPtd Vegas full conference attendees https://t.co/4dQkvd6rUK https:/…
+130,659123375080472576,Tue Oct 27 21:43:53 +0000 2015,0,0,How Much Time Does It Take to Create Personas? https://t.co/e7RLrLM7On
+131,658915938239025152,Tue Oct 27 07:59:36 +0000 2015,3,0,"RT @fredverheul: My TechEd recap about HCP, Cloud Foundry, XS2, UX, Fiori 2.0, Vora,... by @tamas_szirtes https://t.co/ICRCsJ9F1a #scn &lt;&lt; i…"
+132,658915716897222657,Tue Oct 27 07:58:43 +0000 2015,13,0,RT @SAPdevs: Stop by our booth at #OSCON to meet our #opensource and UI5 experts @ithain @learnui5 @matthiaso @denisenepraunig https://t.co…
+133,658746480602124289,Mon Oct 26 20:46:14 +0000 2015,1,0,RT @buildwithbuild: Miss a session at #saptd LV? Start off your Monday with an online replay of a keynote or strategy talk. https://t.co/kO…
+134,658745589815836672,Mon Oct 26 20:42:42 +0000 2015,0,0,"'Twas a bumpy ride, glad to be home! #SAPtd https://t.co/CaKV5RV7KV"
+135,658494889856909312,Mon Oct 26 04:06:30 +0000 2015,3,0,RT @PlautAustralia: BI self service with groove !! https://t.co/K0im85mZQr
+136,658398786302160897,Sun Oct 25 21:44:37 +0000 2015,0,0,I just earned the 'Land of the Free' badge on @untappd! https://t.co/ugKsHYeW30
+137,658398734515073024,Sun Oct 25 21:44:25 +0000 2015,0,0,Drinking an IPA by @lagunitasbeer at @gottsroadside — https://t.co/6V7asiGgBO #photo
+138,658306659035385857,Sun Oct 25 15:38:32 +0000 2015,0,1,I just ran 4.70 km @ a 5'42''/km pace with Nike+. https://t.co/jRUTmrBzXK #nikeplus
+139,658077275552948224,Sun Oct 25 00:27:03 +0000 2015,0,0,Drinking a Black Robusto Porter by @DrakesBeers @ City of Redwood City — https://t.co/Pv9V9lXy6I #photo
+140,658077266417725440,Sun Oct 25 00:27:01 +0000 2015,0,0,I just earned the 'Untappd 5th Anniversary' badge on @untappd! https://t.co/xxxwbAg5w0 #ut5th
+141,658061103390330880,Sat Oct 24 23:22:47 +0000 2015,260,0,RT @JDayGolf: Hundreds of thousands of refugees are in urgent need. Proud 2 be part of the #One4 project ! Download @Imaginedragons #iwasme…
+142,657941637042073602,Sat Oct 24 15:28:04 +0000 2015,0,0,USA 2015 run #4 I just ran 5.82 km @ a 5'00''/km pace with Nike+. https://t.co/ksM2VgLREd #nikeplus
+143,657719519478071296,Sat Oct 24 00:45:27 +0000 2015,0,1,@jocdart safe travels Jocelyn see you on the other side
+144,657617297389981697,Fri Oct 23 17:59:16 +0000 2015,0,0,Green stuff cures everything (I hope) https://t.co/5kwQ3bSYIN
+145,657612028660477952,Fri Oct 23 17:38:20 +0000 2015,0,6,So long #SAPtd leaving LV. was great to connect with old friends and meet some new ones too https://t.co/NrQzluRRP3
+146,657567617276768257,Fri Oct 23 14:41:51 +0000 2015,11,0,RT @SAPTechEd: .@UXSamYen and @skemp discuss SAP winning the Red Dot Award and #UX design in the Enterprise https://t.co/hSgC27NWwM https:/…
+147,657462845106315264,Fri Oct 23 07:45:31 +0000 2015,10,0,"RT @JayChaos: Thank you, #SAPMentors and @UXSamYen for supporting #ONE4 #Community will achieve what we can't individually https://t.co/kiA…"
+148,657442728410673152,Fri Oct 23 06:25:35 +0000 2015,0,0,@JJComment Johannes Wasserfall
+149,657374120733085696,Fri Oct 23 01:52:58 +0000 2015,1,0,Last drinks #SAPtd with @jasper_07 and @rgovender enjoying @LeftHandBrewing Nitro Milk Stout yum... https://t.co/WnCAuGdB0e
+150,657364645997506560,Fri Oct 23 01:15:19 +0000 2015,0,2,@tamas_szirtes safe travels my friend. Hope to see you again soon
+151,657358828019707904,Fri Oct 23 00:52:12 +0000 2015,1,0,"RT @jasper_07: Starting to like SAP WebIDE Unit and E2E tests, add Continuous Integration w Git &amp; will be Enterprise ready #SAPtd https://t…"
+152,657358078766002176,Fri Oct 23 00:49:13 +0000 2015,3,7,Mr. Fiori Launchpad himself @AviadRivlin taking the stage at #SAPtd @SAPMentors https://t.co/lOfofnsjAn
+153,657347926293741568,Fri Oct 23 00:08:53 +0000 2015,0,0,@js1972 already out I think
+154,657307596626329600,Thu Oct 22 21:28:37 +0000 2015,2,2,Adding a Fiori app in PFCG #SAPtd https://t.co/Pk0B3LPC25
+155,657306724072734720,Thu Oct 22 21:25:09 +0000 2015,1,0,With NWBC 5.0 and SAP UI Add-On 2.0 SP1 you can integrate all Fiori apps not just the standalone ones #saptd (intent based navigation)
+156,657305024876318720,Thu Oct 22 21:18:24 +0000 2015,0,0,S/4 HANA UI Client options on premise and cloud #SAPtd #nwbc https://t.co/6L52fMbXqb
+157,657304674001809408,Thu Oct 22 21:17:01 +0000 2015,0,2,It seems to me that NWBC will be an important tactical UI client as SAP customers move to S/4 HANA on prem #SAPtd https://t.co/w51lOM4ivB
+158,657294626492059648,Thu Oct 22 20:37:05 +0000 2015,18,0,RT @mfarrales: #One4 @SAPMentors making an impact w/ @UXSamYen @SAPsv @imaginedragons #SAPtd https://t.co/KVcQ1glV3H
+159,657294430987157504,Thu Oct 22 20:36:18 +0000 2015,3,8,Another great @SAPMentors Q&amp;A session with @UXSamYen keep an eye out we will share soon on SCN #saptd https://t.co/CP5Tx4bV1x
+160,657210212768616448,Thu Oct 22 15:01:39 +0000 2015,0,0,I just ran 4.19 km @ a 5'38''/km pace with Nike+. https://t.co/aF3W2XBg0a #nikeplus
+161,657193261614821376,Thu Oct 22 13:54:18 +0000 2015,0,0,@sapfrog ST107
+162,657097892071538689,Thu Oct 22 07:35:20 +0000 2015,1,0,RT @Anniecantoo: Can Too :Get fit &amp; raise money for Cancer Research https://t.co/un0pVhhWER  Sign up now to avoid disappointment- Swim &amp; Tr…
+163,657097530476367873,Thu Oct 22 07:33:54 +0000 2015,0,0,@sapfrog Sam Yen session on scaling UX in the enterprise. Are you attending?
+164,657097291317186560,Thu Oct 22 07:32:57 +0000 2015,0,0,@fredverheul will also include templates to jump start your BUILD prototypes
+165,657077412031631360,Thu Oct 22 06:13:57 +0000 2015,0,0,@fredverheul agree. Using the technology to educate people in the UXD process
+166,657045849248174082,Thu Oct 22 04:08:32 +0000 2015,4,3,On the #demojam stage @njames @SquareCloud #saptd @SAPMentors https://t.co/fWocVpDFj5
+167,657041124897325056,Thu Oct 22 03:49:46 +0000 2015,0,1,HPH Hasso. Perfect Hospital #SAPtd #demojam https://t.co/pARqdP7Agt
+168,657035817513168896,Thu Oct 22 03:28:40 +0000 2015,2,2,The demo master @IanKimbell kicking off #SAPtd demo jam https://t.co/nmcpcwMhRN
+169,657034971282968576,Thu Oct 22 03:25:18 +0000 2015,7,5,#SAPtd FIORI ROCKS! https://t.co/qVbV0DWZ7G
+170,656992629159124992,Thu Oct 22 00:37:03 +0000 2015,1,0,"Check out the new UXD tool ""Splash"" from #SAP that addresses the Design Thinking Discover phase head on https://t.co/LTy5SqLpjR"
+171,656978949155614720,Wed Oct 21 23:42:42 +0000 2015,0,0,"This morning I sat down with @UXSamYen on the @SAPTechEd live stage, we talked Red Dot, #UXaaS, Fiori 2.0 and more https://t.co/d606CS8R9H"
+172,656974884019376128,Wed Oct 21 23:26:33 +0000 2015,0,0,New look @thomas_jung presenting on Node.js #SAPtd https://t.co/QwwjzgLBRG
+173,656973768351309826,Wed Oct 21 23:22:07 +0000 2015,0,1,Did we make any sense? :-) https://t.co/GONtxCeSnq
+174,656951489609396224,Wed Oct 21 21:53:35 +0000 2015,0,1,"#UXD making a ""Splash"" at #SAPtd learn about UX design processes https://t.co/TZ2QzOWPh2"
+175,656950210573172736,Wed Oct 21 21:48:30 +0000 2015,0,0,Technology can amplify UX design. New from SAP -&gt; Splash #UXD https://t.co/JjDNeoz8y4
+176,656949241634361345,Wed Oct 21 21:44:39 +0000 2015,0,0,Design gates are very important now  at SAP #UXD
+177,656948370607501312,Wed Oct 21 21:41:11 +0000 2015,0,2,Looking for a new job? Why not become a UX Designer? https://t.co/ktA5a5LzSD
+178,656947539048951808,Wed Oct 21 21:37:53 +0000 2015,2,1,Fiori is not just for simple apps https://t.co/fAb8Nc5QTv
+179,656945996983734272,Wed Oct 21 21:31:45 +0000 2015,0,0,The two big leaps for SAP customers Any DB -&gt; HANA and On Premise -&gt; Cloud @UXSamYen #SAPtd https://t.co/4voEJ2XZLt
+180,656943933113528321,Wed Oct 21 21:23:33 +0000 2015,2,1,"The economics of ""Fail early, fail often"" from @UXSamYen #SAPtd #UXD https://t.co/YuObqczIZd"
+181,656942719357448192,Wed Oct 21 21:18:44 +0000 2015,0,0,Love it that @UXSamYen is using the flip chart to help explain in this session #UXD #SAPtd what next post-it notes? https://t.co/xLOBymOacX
+182,656940403262779393,Wed Oct 21 21:09:32 +0000 2015,1,0,"Here's @UXSamYen kicking off his session on ""Scaling UX in the Enterprise"" #SAPtd #UXD https://t.co/13S0HG8JZM"
+183,656921642463956992,Wed Oct 21 19:54:59 +0000 2015,0,1,@buildwithbuild on my way!
+184,656909341568602114,Wed Oct 21 19:06:06 +0000 2015,0,0,Hope it made sense! https://t.co/aoTxW3iMHT
+185,656898422146920448,Wed Oct 21 18:22:43 +0000 2015,0,0,How to get my hands on a cool @buildwithbuild t-shirt? Can I win one? #SAPtd #UXD
+186,656895833707708417,Wed Oct 21 18:12:25 +0000 2015,0,0,@ithain @qmacro how was the conversation? :-)
+187,656892651413700608,Wed Oct 21 17:59:47 +0000 2015,0,0,"Come along to my session at 11.30 network lounge 4 ""Uncover the Value of a Good User Experience (UX)"" #saptd"
+188,656870894535446528,Wed Oct 21 16:33:19 +0000 2015,2,2,We took a few wrong turns and ended up in an elevator at one point but we made it! @SAPMentors @pettifordo #SAPtd https://t.co/ZVyfDKemcP
+189,656868935871033344,Wed Oct 21 16:25:33 +0000 2015,0,1,“@saphcp: @UXSamYen @skemp great job bringing the Ux evolution LIVE to the masses! thank you ^mw” &lt; it was an honour to be asked!
+190,656867919930875904,Wed Oct 21 16:21:30 +0000 2015,7,0,"RT @buildwithbuild: .@saphcp that's right! BUILD scales the design doing, while @SAP_Splash scales the discovery phase of design! #SAPtd ht…"
+191,656838741395288064,Wed Oct 21 14:25:34 +0000 2015,0,6,The #SAPtd 5km run exceeded all expectations again at 6.2km Thanks for pushing me along @pettifordo @SAPMentors https://t.co/fjeEWdAJFz
+192,656834837836271616,Wed Oct 21 14:10:03 +0000 2015,0,0,I just ran 6.22 km @ a 5'15''/km pace with Nike+. https://t.co/HlX6HuYuwR #nikeplus
+193,656625724372074496,Wed Oct 21 00:19:06 +0000 2015,3,5,Here's @nstevenlucas in the @SAPMentors fishbowl @SAPTechEd #SAPtd https://t.co/ya6PXE3eW6
+194,656530658613813248,Tue Oct 20 18:01:21 +0000 2015,0,0,UX Strategy session at #SAPtd by Kevin Comegys from Johns Hopkins about to start https://t.co/Pi8oZbrVYE
+195,656517338745802752,Tue Oct 20 17:08:25 +0000 2015,1,0,RT @tamas_szirtes: IoT demo on #SAPHCP #SAPtd https://t.co/zg1xnsKYrS
+196,656515878163353600,Tue Oct 20 17:02:37 +0000 2015,2,0,"RT @jonerp: Orca DEFINITELY ate Cloud for Planning Cloud - Cloud for Analytics is go-forward cloud BI ""suite"" #burp  #saptd"
+197,656512709899366400,Tue Oct 20 16:50:02 +0000 2015,1,0,"RT @tamas_szirtes: Cloud for Analytics: reporting, analysis, consolidation, everything in HTML5 on any device in the cloud #SAPtd"
+198,656509714830790656,Tue Oct 20 16:38:08 +0000 2015,3,0,RT @vlvl: SAP Vehicle Network - another cool project from @SAP_Labs_Israel #saptd #startupnation
+199,656509191310348288,Tue Oct 20 16:36:03 +0000 2015,0,0,@BoobBoo hacking?
