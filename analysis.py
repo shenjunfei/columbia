@@ -39,7 +39,7 @@ for fileName in os.listdir("data/postings"):
 	except:
 		continue
 
-DataFrame(info, columns=["id", "total", "earliest", "latest"]).to_csv("info.csv")
+DataFrame(info, columns=["id", "total", "earliest", "latest"]).to_csv("data/info.csv")
 
 date = []
 count = []
