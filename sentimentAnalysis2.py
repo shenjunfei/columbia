@@ -45,32 +45,48 @@ url = "http://text-processing.com/api/sentiment/"
 i = 0
 
 for thisID in ID:
-	if i > 900:
-		break
 
 	text1 = "text=" + posts["day1"][i]
 	analysis1 = requests.post(url, data=text1)
-	parse1 = ast.literal_eval(analysis1.text)
-	sentiment["label1"].append(parse1["label"])
-	sentiment["neutral1"].append(parse1["probability"]["neutral"])
-	sentiment["pos1"].append(parse1["probability"]["pos"])
-	sentiment["neg1"].append(parse1["probability"]["neg"])
+	try:
+		parse1 = ast.literal_eval(analysis1.text)
+		sentiment["label1"].append(parse1["label"])
+		sentiment["neutral1"].append(parse1["probability"]["neutral"])
+		sentiment["pos1"].append(parse1["probability"]["pos"])
+		sentiment["neg1"].append(parse1["probability"]["neg"])
+	except:
+		sentiment["label1"].append(analysis1)
+		sentiment["neutral1"].append(0)
+		sentiment["pos1"].append(0)
+		sentiment["neg1"].append(0)
 
 	text2 = "text=" + posts["day2"][i]
 	analysis2 = requests.post(url, data=text2)
-	parse2 = ast.literal_eval(analysis2.text)
-	sentiment["label2"].append(parse2["label"])
-	sentiment["neutral2"].append(parse2["probability"]["neutral"])
-	sentiment["pos2"].append(parse2["probability"]["pos"])
-	sentiment["neg2"].append(parse2["probability"]["neg"])
+	try:
+		parse2 = ast.literal_eval(analysis2.text)
+		sentiment["label2"].append(parse2["label"])
+		sentiment["neutral2"].append(parse2["probability"]["neutral"])
+		sentiment["pos2"].append(parse2["probability"]["pos"])
+		sentiment["neg2"].append(parse2["probability"]["neg"])
+	except:
+		sentiment["label2"].append(analysis2)
+		sentiment["neutral2"].append(0)
+		sentiment["pos2"].append(0)
+		sentiment["neg2"].append(0)
 
 	text3 = "text=" + posts["day3"][i]
 	analysis3 = requests.post(url, data=text3)
-	parse3 = ast.literal_eval(analysis3.text)
-	sentiment["label3"].append(parse3["label"])
-	sentiment["neutral3"].append(parse3["probability"]["neutral"])
-	sentiment["pos3"].append(parse3["probability"]["pos"])
-	sentiment["neg3"].append(parse3["probability"]["neg"])
+	try:
+		parse3 = ast.literal_eval(analysis3.text)
+		sentiment["label3"].append(parse3["label"])
+		sentiment["neutral3"].append(parse3["probability"]["neutral"])
+		sentiment["pos3"].append(parse3["probability"]["pos"])
+		sentiment["neg3"].append(parse3["probability"]["neg"])
+	except:
+		sentiment["label3"].append(analysis3.text)
+		sentiment["neutral3"].append(0)
+		sentiment["pos3"].append(0)
+		sentiment["neg3"].append(0)
 
 	i += 1
 
