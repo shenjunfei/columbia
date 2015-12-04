@@ -44,7 +44,7 @@ url = "http://text-processing.com/api/sentiment/"
 
 i = 0
 
-for thisID in ID:
+for thisID in:
 
 	text1 = "text=" + posts["day1"][i]
 	analysis1 = requests.post(url, data=text1)
