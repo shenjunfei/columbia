@@ -53,7 +53,7 @@ for index, row in edge.iterrows():
 	thisTarget = row["target"]
 
 	sourceIndex = ID.index(thisSource)
-	targetIndex = ID.index(thisSource)
+	targetIndex = ID.index(thisTarget)
 
 	sourceFollowers.append(followers[sourceIndex])
 	sourceFriends.append(friends[sourceIndex])
