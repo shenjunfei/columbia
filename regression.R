@@ -35,10 +35,10 @@ summary(model2)
 
 # Control for "sentiment per friend" for source node
 data2Sub$perFriend <- data2Sub$targetPos2/data2Sub$sourceFriends
-model3 <- lm(sourcePos2 ~ perFriend + sourcePos1 + targetPos1, data=data2Sub)
+model3 <- lm(sourcePos2 ~ targetPos2 + sourcePos1 + targetPos1 + sourceFriends, data=data2Sub)
 summary(model3)
 
-model4 <- lm(sourcePos2 ~ sourcePos1 + perFriend, data=data2Sub)
+model4 <- lm(sourcePos2 ~ perFriend + sourcePos1 + targetPos1, data=data2Sub)
 summary(model4)
 
 # Do explorations on how number target followers may affect result
