@@ -5,7 +5,7 @@ empty = []
 allProfile = DataFrame.from_csv("data/allProfile.csv")
 allID = allProfile["id"]
 
-for thisID in list(allID)[3168:]:
+for thisID in list(allID):
     friends_ids, followers_ids = get_friends_followers_ids(twitter_api, user_id=int(thisID), followers_limit=0)
     if len(friends_ids) > 0:
         with open("data/friends/" + str(thisID) + ".txt" ,'w') as file:
