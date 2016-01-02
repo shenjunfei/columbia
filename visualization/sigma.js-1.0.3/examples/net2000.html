@@ -1,0 +1,145 @@
+<!-- START SIGMA IMPORTS -->
+<script src="../src/sigma.core.js"></script>
+<script src="../src/conrad.js"></script>
+<script src="../src/utils/sigma.utils.js"></script>
+<script src="../src/utils/sigma.polyfills.js"></script>
+<script src="../src/sigma.settings.js"></script>
+<script src="../src/classes/sigma.classes.dispatcher.js"></script>
+<script src="../src/classes/sigma.classes.configurable.js"></script>
+<script src="../src/classes/sigma.classes.graph.js"></script>
+<script src="../src/classes/sigma.classes.camera.js"></script>
+<script src="../src/classes/sigma.classes.quad.js"></script>
+<script src="../src/captors/sigma.captors.mouse.js"></script>
+<script src="../src/captors/sigma.captors.touch.js"></script>
+<script src="../src/renderers/sigma.renderers.canvas.js"></script>
+<script src="../src/renderers/sigma.renderers.webgl.js"></script>
+<script src="../src/renderers/sigma.renderers.def.js"></script>
+<script src="../src/renderers/webgl/sigma.webgl.nodes.def.js"></script>
+<script src="../src/renderers/webgl/sigma.webgl.nodes.fast.js"></script>
+<script src="../src/renderers/webgl/sigma.webgl.edges.def.js"></script>
+<script src="../src/renderers/webgl/sigma.webgl.edges.fast.js"></script>
+<script src="../src/renderers/webgl/sigma.webgl.edges.arrow.js"></script>
+<script src="../src/renderers/canvas/sigma.canvas.labels.def.js"></script>
+<script src="../src/renderers/canvas/sigma.canvas.hovers.def.js"></script>
+<script src="../src/renderers/canvas/sigma.canvas.nodes.def.js"></script>
+<script src="../src/renderers/canvas/sigma.canvas.edges.def.js"></script>
+<script src="../src/renderers/canvas/sigma.canvas.edges.curve.js"></script>
+<script src="../src/renderers/canvas/sigma.canvas.edges.arrow.js"></script>
+<script src="../src/renderers/canvas/sigma.canvas.edges.curvedArrow.js"></script>
+<script src="../src/middlewares/sigma.middlewares.rescale.js"></script>
+<script src="../src/middlewares/sigma.middlewares.copy.js"></script>
+<script src="../src/misc/sigma.misc.animation.js"></script>
+<script src="../src/misc/sigma.misc.bindEvents.js"></script>
+<script src="../src/misc/sigma.misc.drawHovers.js"></script>
+<!-- END SIGMA IMPORTS -->
+<script src="../plugins/sigma.renderers.customShapes/shape-library.js"></script>
+<script src="../plugins/sigma.renderers.customShapes/sigma.renderers.customShapes.js"></script>
+<script src="nodes.js"></script>
+<script src="edges.js"></script>
+
+<div id="container">
+  <style>
+    #graph-container {
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      position: absolute;
+    }
+  </style>
+  <div id="graph-container"></div>
+</div>
+<script>
+sigma.utils.pkg('sigma.canvas.nodes');
+
+var i,
+    s,
+    threshold = 2000,
+    N = users.length,
+    E = relations.length,
+    g = {
+      nodes: [],
+      edges: []
+    };
+    colors = [
+      '#617db4',
+      '#668f3c',
+      '#c6583e',
+      '#b956af'
+    ];
+
+function media(follower) {
+	if (follower > threshold) {
+		return "star"
+	}
+	else {
+		return "circle"
+	}
+}
+
+function sentiment(sent) {
+	if (sent == 'neutral') {
+		return "#e4d9d7"
+	}
+	if (sent == 'pos') {
+		return "#b6e4e1"
+	}
+	if (sent == 'neg') {
+		return "#ffbbbf"
+	}
+}
+
+// Generate a random graph, going through the different shapes
+for (i = 0; i < N; i++) {
+  var node = {
+    id: 'n' + users[i]["id"],
+    type: media(users[i]["followers"]) ,
+    x: Math.random(),
+    y: Math.random(),
+    color: sentiment(users[i]["sentiment"]),
+    borderColor: "#3a9dc6"
+  };
+
+  switch(node.type) {
+    case "star": {
+    	node.star = {
+        innerRatio: 0.4 + Math.random()*0.2,
+      }
+      node.size = 1.2
+    }
+      break;
+    case "circle":
+    	node.size = 0.2
+      break;
+  }
+  g.nodes.push(node);
+}
+
+
+for (i = 0; i < E; i++)
+  g.edges.push({
+    id: 'e' + i,
+    source: 'n' + relations[i]["source"],
+    target: 'n' + relations[i]["target"],
+    size: Math.random(),
+    color: '#3a9dc6',
+    type: ['curve', 'arrow', 'curvedArrow'][Math.random() * 3 | 0]
+  });
+
+s = new sigma({
+  graph: g,
+  renderer: {
+    // IMPORTANT:
+    // This works only with the canvas renderer, so the
+    // renderer type set as "canvas" is necessary here.
+    container: document.getElementById('graph-container'),
+    type: 'canvas'
+  },
+  settings: {
+    minNodeSize: 8,
+    maxNodeSize: 16,
+  }
+});
+CustomShapes.init(s);
+s.refresh();
+</script>
